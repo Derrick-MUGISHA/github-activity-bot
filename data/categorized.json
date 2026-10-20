@@ -31,21 +31,6 @@
       "user": "Jem"
     },
     {
-      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
-      "published_at": "2026-10-16T17:40:16Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "opportunities",
-        "resources"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fle5lxtrblynphqs20c45.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
       "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02",
       "published_at": "2026-10-16T05:36:01Z",
@@ -211,19 +196,19 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Frontier AI models outperform human experts on earnings prediction for the first time",
-      "url": "https://dev.to/dailycontext/frontier-ai-models-outperform-human-experts-on-earnings-prediction-for-the-first-time-3fhb",
-      "published_at": "2026-10-12T21:02:54Z",
-      "description": "Does the progress in frontier AI capabilities lead to superhuman performance in finance?  Finance is...",
+      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
+      "published_at": "2026-10-16T17:40:16Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
       "tags": [
-        "ai",
-        "machinelearning",
-        "llm",
-        "finance"
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn0u99b6nz252vxkbzrhu.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fle5lxtrblynphqs20c45.jpeg",
       "source": "Dev.to",
-      "user": "Ashwin Paranjape"
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4",
@@ -239,6 +224,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fembedding-cloudrun%2Fmain%2Fdocs%2Farticles%2Fembeddinggemma-cloudrun%2Fdevto-cover.a2390bee.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Frontier AI models outperform human experts on earnings prediction for the first time",
+      "url": "https://dev.to/dailycontext/frontier-ai-models-outperform-human-experts-on-earnings-prediction-for-the-first-time-3fhb",
+      "published_at": "2026-10-12T21:02:54Z",
+      "description": "Does the progress in frontier AI capabilities lead to superhuman performance in finance?  Finance is...",
+      "tags": [
+        "ai",
+        "machinelearning",
+        "llm",
+        "finance"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn0u99b6nz252vxkbzrhu.png",
+      "source": "Dev.to",
+      "user": "Ashwin Paranjape"
     },
     {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
@@ -360,21 +360,6 @@
       "user": "Denys Linkov"
     },
     {
-      "title": "Google Workspace Studio Tutorial: Batch Lead Outreach with the \"Repeat for each\" Loop",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-batch-lead-outreach-with-the-repeat-for-each-loop-5ajl",
-      "published_at": "2026-10-17T14:16:27Z",
-      "description": "If you work in sales or run your own business, you probably have a Google Sheet somewhere that acts...",
-      "tags": [
-        "ai",
-        "automation",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fozkghqhh1xzmbkv45its.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
       "title": "What I Actually Learn When I Build With AI",
       "url": "https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074",
       "published_at": "2026-10-16T01:06:09Z",
@@ -388,6 +373,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2atagf3xnyj2fwx6qtho.png",
       "source": "Dev.to",
       "user": "Jessica Doering"
+    },
+    {
+      "title": "Google Workspace Studio Tutorial: Batch Lead Outreach with the \"Repeat for each\" Loop",
+      "url": "https://dev.to/gde/google-workspace-studio-tutorial-batch-lead-outreach-with-the-repeat-for-each-loop-5ajl",
+      "published_at": "2026-10-17T14:16:27Z",
+      "description": "If you work in sales or run your own business, you probably have a Google Sheet somewhere that acts...",
+      "tags": [
+        "ai",
+        "automation",
+        "productivity",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fozkghqhh1xzmbkv45its.png",
+      "source": "Dev.to",
+      "user": "Aryan Irani"
     },
     {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1138,
       "user": "alchaincyf"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 10855,
+      "stars": 11706,
       "user": "deepseek-ai"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1882,
+      "stars": 1920,
       "user": "Leonxlnx"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1166,
       "user": "aicodeking"
     },
     {
@@ -853,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2536,
+      "stars": 1249,
       "user": "feder-cr"
     },
     {
@@ -883,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1848,
+      "stars": 1851,
       "user": "chenglou"
     },
     {
@@ -986,6 +986,95 @@
       "user": "gh0st_dancing"
     },
     {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "published_at": "2026-10-20T21:25:22.000Z",
+      "description": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "cloud compute"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "SpaceX&#8217;s AI business is beating expectations",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "published_at": "2026-10-20T20:40:41.000Z",
+      "description": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "tags": [
+        "AI",
+        "Space",
+        "Elon Musk",
+        "Grok",
+        "SpaceX"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz, Kirsten Korosec"
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "published_at": "2026-10-20T20:35:10.000Z",
+      "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "tags": [
+        "AI",
+        "TC",
+        "biotech",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "published_at": "2026-10-20T20:00:00.000Z",
+      "description": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+      "tags": [
+        "Transportation",
+        "Google",
+        "gemini",
+        "Android Auto"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia&#8217;s stronghold with AI app developers",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "published_at": "2026-10-20T18:38:24.000Z",
+      "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "TC",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "ChatGPT now lets you lock your chats",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "published_at": "2026-10-20T18:36:53.000Z",
+      "description": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+      "tags": [
+        "AI",
+        "Apps",
+        "ChatGPT"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
       "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
       "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
       "published_at": "2026-10-20T17:55:12.000Z",
@@ -1031,110 +1120,18 @@
       "user": "Dominic-Madori Davis"
     },
     {
-      "title": "Streaming guide JustWatch becomes a streamer itself",
-      "url": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
-      "published_at": "2026-10-20T16:01:24.000Z",
-      "description": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
+      "title": "How Neural Networks Work: Why Straight Lines Aren't Enough",
+      "url": "https://www.freecodecamp.org/news/how-neural-networks-work-why-straight-lines-aren-t-enough/",
+      "published_at": "2026-10-20T16:36:05.000Z",
+      "description": "A straight line equation is a good place to start understanding how a neural network works. It's what we explored in my previous article, How Neural Networks Work – Explained Using the Straight Line E",
       "tags": [
-        "Media & Entertainment",
-        "justwatch",
-        "streaming",
-        "streaming service"
+        "neural networks",
+        "DeepLearning",
+        "Machine Learning"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "published_at": "2026-10-20T16:00:00.000Z",
-      "description": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "tags": [
-        "Climate",
-        "AI",
-        "Fundraising",
-        "plants",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
-      "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
-      "published_at": "2026-10-20T15:03:41.000Z",
-      "description": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
-      "tags": [
-        "Apps",
-        "Social",
-        "online child safety",
-        "Social media addiction",
-        "TikTok"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-      "published_at": "2026-10-20T14:13:32.000Z",
-      "description": "Figma said it plans to support as many standards as possible without exposing all of its data.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Dylan Field",
-        "Figma"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "SpaceX alum&#8217;s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-      "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
-      "published_at": "2026-10-20T13:17:36.000Z",
-      "description": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
-      "tags": [
-        "Fundraising",
-        "Transportation",
-        "autonomous flight",
-        "Reliable Robotics"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "published_at": "2026-10-20T13:07:24.000Z",
-      "description": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "artificial intelligance",
-        "deepseek"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
-    },
-    {
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "published_at": "2026-10-20T13:00:00.000Z",
-      "description": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-      "tags": [
-        "AI",
-        "Robotics",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
+      "source": "freeCodeCamp",
+      "user": "Samyukta Hegde"
     },
     {
       "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
@@ -1389,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1138,
       "user": "alchaincyf"
     },
     {
@@ -1404,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 956,
       "user": "humblemuzzu"
     },
     {
@@ -1419,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 549,
       "user": "showheyohtaki"
     },
     {
@@ -1434,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 272,
       "user": "ip-please"
     },
     {
@@ -1449,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336343453?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 269,
       "user": "c1overzz"
     },
     {
@@ -1464,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1848,
+      "stars": 1851,
       "user": "chenglou"
     },
     {
@@ -1479,7 +1476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1285,
       "user": "Caho1"
     },
     {
@@ -1494,7 +1491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 520,
       "user": "VictorTaelin"
     },
     {
@@ -1509,7 +1506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 500,
       "user": "stackedlol"
     },
     {
@@ -1524,14 +1521,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9211198?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "pro-vi"
+    },
+    {
+      "title": "How I got over 300 Tor exit nodes removed",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "published_at": "2026-10-20T13:44:42.872-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "privacy",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "atmosx"
     },
     {
       "title": "How should I identify anonymous browser installations for a server-side leaderboard?",
       "url": "https://stackoverflow.com/questions/80011368/how-should-i-identify-anonymous-browser-installations-for-a-server-side-leaderbo",
       "published_at": "2026-10-20T16:15:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript"
       ],
@@ -1543,7 +1553,7 @@
       "title": "How can I conditionally load a JavaScript file only on WooCommerce product pages in WordPress?",
       "url": "https://stackoverflow.com/questions/80011303/how-can-i-conditionally-load-a-javascript-file-only-on-woocommerce-product-pages",
       "published_at": "2026-10-20T11:17:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 2 answers · score 4",
       "tags": [
         "javascript",
         "wordpress"
@@ -1551,6 +1561,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alpa Ribadiya"
+    },
+    {
+      "title": "Split and capture text ending with brackets and two letters",
+      "url": "https://stackoverflow.com/questions/80011025/split-and-capture-text-ending-with-brackets-and-two-letters",
+      "published_at": "2026-10-19T09:42:40.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
+      "tags": [
+        "javascript",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Federico"
     },
     {
       "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
@@ -1565,19 +1588,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aditya Chandra"
-    },
-    {
-      "title": "Split and capture text ending with brackets and two letters",
-      "url": "https://stackoverflow.com/questions/80011025/split-and-capture-text-ending-with-brackets-and-two-letters",
-      "published_at": "2026-10-19T09:42:40.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "javascript",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Federico"
     },
     {
       "title": "What is the preferred syntax for defining enums in JavaScript?",
@@ -1911,7 +1921,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 10855,
+      "stars": 11706,
       "user": "deepseek-ai"
     },
     {
@@ -1926,7 +1936,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1882,
+      "stars": 1920,
       "user": "Leonxlnx"
     },
     {
@@ -1941,7 +1951,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1537,
+      "stars": 1555,
       "user": "xiaoyang111222"
     },
     {
@@ -1956,7 +1966,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1166,
       "user": "aicodeking"
     },
     {
@@ -1971,14 +1981,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1154,
       "user": "OpenMOSS"
+    },
+    {
+      "title": "To change Python version in venv, change pyvenv.cfg manually or in VS Code \"Python: Select Interpreter\"?",
+      "url": "https://stackoverflow.com/questions/80011408/to-change-python-version-in-venv-change-pyvenv-cfg-manually-or-in-vs-code-pyth",
+      "published_at": "2026-10-20T20:01:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "vs-code",
+        "python-venv"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "damovandG"
+    },
+    {
+      "title": "Text preprocessing packages in addition to Mustache that are importable both into Python code and Ruby code",
+      "url": "https://stackoverflow.com/questions/80011410/text-preprocessing-packages-in-addition-to-mustache-that-are-importable-both-int",
+      "published_at": "2026-10-20T20:03:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "ruby",
+        "mustache",
+        "preprocessor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "HippoMan"
     },
     {
       "title": "Alexa custom skill in nl-NL locale is never invoked (\"Ik weet niet zeker hoe ik je daarmee kan helpen\") while model builds successfully",
       "url": "https://stackoverflow.com/questions/80011328/alexa-custom-skill-in-nl-nl-locale-is-never-invoked-ik-weet-niet-zeker-hoe-ik",
       "published_at": "2026-10-20T12:59:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "alexa-skills-kit"
@@ -2082,36 +2122,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Teeny Weeny"
-    },
-    {
-      "title": "In Python, is it possible to execute a script without impacting the modules imported by the caller?",
-      "url": "https://stackoverflow.com/questions/80010983/in-python-is-it-possible-to-execute-a-script-without-impacting-the-modules-impo",
-      "published_at": "2026-10-19T05:49:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "import",
-        "module",
-        "global-variables"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Julien Fert&#233;"
-    },
-    {
-      "title": "Why does my lyrics lookup return no results for songs that exist in the database?",
-      "url": "https://stackoverflow.com/questions/80010969/why-does-my-lyrics-lookup-return-no-results-for-songs-that-exist-in-the-database",
-      "published_at": "2026-10-19T03:03:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "swift",
-        "macos",
-        "electron"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "KenL"
     },
     {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
@@ -2344,22 +2354,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vasuki Uday Kiran Vudathala"
-    },
-    {
-      "title": "How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS",
-      "url": "https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/",
-      "published_at": "2026-10-15T13:35:48.000Z",
-      "description": "Every team that ships software eventually builds a staging environment. And every team that builds a staging environment eventually discovers the same problem. Staging is shared. One environment, many",
-      "tags": [
-        "Kubernetes",
-        "gke",
-        "Terraform",
-        "ephemeral",
-        "GitHub"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Amina Lawal"
     }
   ],
   "WebDev": [
@@ -2498,7 +2492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68419756?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 471,
       "user": "longbridge"
     },
     {
@@ -2513,23 +2507,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 467,
       "user": "c22dev"
     },
     {
-      "title": "Why does my lyrics lookup return no results for songs that exist in the database?",
-      "url": "https://stackoverflow.com/questions/80010969/why-does-my-lyrics-lookup-return-no-results-for-songs-that-exist-in-the-database",
-      "published_at": "2026-10-19T03:03:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "published_at": "2026-10-20T20:00:00.000Z",
+      "description": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
       "tags": [
-        "python",
-        "swift",
-        "macos",
-        "electron"
+        "Transportation",
+        "Google",
+        "gemini",
+        "Android Auto"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "KenL"
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store",
@@ -2697,6 +2691,20 @@
       "user": "Aditya Chandra"
     },
     {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "published_at": "2026-10-20T21:25:22.000Z",
+      "description": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "cloud compute"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
       "url": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
       "published_at": "2026-10-16T15:40:39.000Z",
@@ -2796,21 +2804,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
-    },
-    {
-      "title": "Why does my lyrics lookup return no results for songs that exist in the database?",
-      "url": "https://stackoverflow.com/questions/80010969/why-does-my-lyrics-lookup-return-no-results-for-songs-that-exist-in-the-database",
-      "published_at": "2026-10-19T03:03:30.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "swift",
-        "macos",
-        "electron"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "KenL"
     },
     {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
@@ -3049,19 +3042,17 @@
       "user": "nmattia"
     },
     {
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "published_at": "2026-10-20T13:07:24.000Z",
-      "description": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "title": "How I got over 300 Tor exit nodes removed",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "published_at": "2026-10-20T13:44:42.872-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "AI",
-        "Government & Policy",
-        "artificial intelligance",
-        "deepseek"
+        "privacy",
+        "security"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
+      "source": "Lobste.rs",
+      "user": "atmosx"
     }
   ],
   "Tools": [
@@ -3233,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1133,
+      "stars": 1138,
       "user": "alchaincyf"
     },
     {
@@ -3248,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 956,
       "user": "humblemuzzu"
     },
     {
@@ -3263,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 542,
+      "stars": 549,
       "user": "showheyohtaki"
     },
     {
@@ -3278,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 272,
       "user": "ip-please"
     },
     {
@@ -3293,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/336343453?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 269,
       "user": "c1overzz"
     },
     {
@@ -3308,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 10855,
+      "stars": 11706,
       "user": "deepseek-ai"
     },
     {
@@ -3323,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1882,
+      "stars": 1920,
       "user": "Leonxlnx"
     },
     {
@@ -3338,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1537,
+      "stars": 1555,
       "user": "xiaoyang111222"
     },
     {
@@ -3353,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1166,
       "user": "aicodeking"
     },
     {
@@ -3368,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1143,
+      "stars": 1154,
       "user": "OpenMOSS"
     },
     {
@@ -3383,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2536,
+      "stars": 1249,
       "user": "feder-cr"
     },
     {
@@ -3428,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181617185?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 132,
       "user": "Haryy985"
     },
     {
@@ -3458,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1848,
+      "stars": 1851,
       "user": "chenglou"
     },
     {
@@ -3473,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1282,
+      "stars": 1285,
       "user": "Caho1"
     },
     {
@@ -3488,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 520,
       "user": "VictorTaelin"
     },
     {
@@ -3503,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 500,
       "user": "stackedlol"
     },
     {
@@ -3518,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9211198?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "pro-vi"
     },
     {
@@ -3533,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 580,
+      "stars": 643,
       "user": "reason-machines"
     },
     {
@@ -3548,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7587245?v=4",
       "source": "GitHub",
-      "stars": 559,
+      "stars": 570,
       "user": "kitlangton"
     },
     {
@@ -3563,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 564,
       "user": "ELY-Open-Source"
     },
     {
@@ -3578,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68419756?v=4",
       "source": "GitHub",
-      "stars": 470,
+      "stars": 471,
       "user": "longbridge"
     },
     {
@@ -3593,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 467,
       "user": "c22dev"
     },
     {
@@ -3622,6 +3613,52 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "aphyr"
+    },
+    {
+      "title": "Text preprocessing packages in addition to Mustache that are importable both into Python code and Ruby code",
+      "url": "https://stackoverflow.com/questions/80011410/text-preprocessing-packages-in-addition-to-mustache-that-are-importable-both-int",
+      "published_at": "2026-10-20T20:03:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "ruby",
+        "mustache",
+        "preprocessor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "HippoMan"
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "published_at": "2026-10-20T20:35:10.000Z",
+      "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "tags": [
+        "AI",
+        "TC",
+        "biotech",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia&#8217;s stronghold with AI app developers",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "published_at": "2026-10-20T18:38:24.000Z",
+      "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "TC",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
@@ -3684,22 +3721,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vasuki Uday Kiran Vudathala"
-    },
-    {
-      "title": "How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS",
-      "url": "https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/",
-      "published_at": "2026-10-15T13:35:48.000Z",
-      "description": "Every team that ships software eventually builds a staging environment. And every team that builds a staging environment eventually discovers the same problem. Staging is shared. One environment, many",
-      "tags": [
-        "Kubernetes",
-        "gke",
-        "Terraform",
-        "ephemeral",
-        "GitHub"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Amina Lawal"
     }
   ]
 }
