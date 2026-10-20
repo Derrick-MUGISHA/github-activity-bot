@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
-      "published_at": "2026-10-19T20:07:12Z",
-      "description": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60n0ma7t182ia9mtt5o9.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
       "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
       "published_at": "2026-10-19T13:00:00Z",
@@ -31,19 +16,19 @@
       "user": "Jhin Lee"
     },
     {
-      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
-      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60",
-      "published_at": "2026-10-19T22:20:01Z",
-      "description": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor isolation.",
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
+      "published_at": "2026-10-19T20:07:12Z",
+      "description": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
       "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "productivity"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60n0ma7t182ia9mtt5o9.png",
       "source": "Dev.to",
-      "user": "Olivier Bourgeois"
+      "user": "Jem"
     },
     {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
@@ -61,21 +46,6 @@
       "user": "Hemapriya Kanagala"
     },
     {
-      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
-      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
-      "published_at": "2026-10-16T14:52:20Z",
-      "description": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
       "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02",
       "published_at": "2026-10-16T05:36:01Z",
@@ -89,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj97kx6j7qepsx21z63a4.jpg",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
+      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60",
+      "published_at": "2026-10-19T22:20:01Z",
+      "description": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor isolation.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
@@ -807,23 +792,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1027,
+      "stars": 1090,
       "user": "alchaincyf"
     },
     {
-      "title": "Leonxlnx/athenaion - A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
-      "url": "https://github.com/Leonxlnx/athenaion",
-      "published_at": "2026-10-17T22:42:57Z",
-      "description": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "published_at": "2026-10-16T07:47:23Z",
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "tags": [
-        "javascript",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 238,
-      "user": "Leonxlnx"
+      "stars": 7240,
+      "user": "deepseek-ai"
     },
     {
       "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
@@ -837,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1665,
+      "stars": 1789,
       "user": "Leonxlnx"
     },
     {
@@ -852,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1110,
       "user": "aicodeking"
     },
     {
@@ -867,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2482,
+      "stars": 2544,
       "user": "feder-cr"
     },
     {
@@ -897,38 +882,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1828,
+      "stars": 1835,
       "user": "chenglou"
-    },
-    {
-      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "published_at": "2026-10-18T21:01:54Z",
-      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
-      "source": "GitHub",
-      "stars": 292,
-      "user": "finereli"
-    },
-    {
-      "title": "Graphicle-AI/graphicle - Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
-      "url": "https://github.com/Graphicle-AI/graphicle",
-      "published_at": "2026-10-14T12:25:36Z",
-      "description": "Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
-      "source": "GitHub",
-      "stars": 325,
-      "user": "Graphicle-AI"
     },
     {
       "title": "Updates to site guidelines and AI/LLM tags",
@@ -970,10 +925,26 @@
       "user": "mendy"
     },
     {
+      "title": "How to prevent message submission on \"Enter\" key in a ChatGPT function while using addEventListeners?",
+      "url": "https://stackoverflow.com/questions/79315615/how-to-prevent-message-submission-on-enter-key-in-a-chatgpt-function-while-usi",
+      "published_at": "2024-12-29T12:49:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "typescript",
+        "google-chrome-extension",
+        "async-await",
+        "event-handling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dev john"
+    },
+    {
       "title": "How to investigate a silent os.rename() failure in python? Samba is involved",
       "url": "https://stackoverflow.com/questions/80011041/how-to-investigate-a-silent-os-rename-failure-in-python-samba-is-involved",
       "published_at": "2026-10-19T10:46:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "file-rename",
@@ -987,7 +958,7 @@
       "title": "How to reduce dataframe with nan values maintaining consecutive values in columns",
       "url": "https://stackoverflow.com/questions/80011008/how-to-reduce-dataframe-with-nan-values-maintaining-consecutive-values-in-column",
       "published_at": "2026-10-19T08:25:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "python",
         "pandas",
@@ -1010,6 +981,80 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
+    },
+    {
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "published_at": "2026-10-20T13:00:00.000Z",
+      "description": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "tags": [
+        "AI",
+        "Robotics",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
+      "url": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
+      "published_at": "2026-10-20T13:00:00.000Z",
+      "description": "The raise comes as venture dollars pile up on the West Coast.",
+      "tags": [
+        "Venture",
+        "Inspired Capital",
+        "Alexa von Tobel"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
+      "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
+      "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
+      "published_at": "2026-10-20T12:00:00.000Z",
+      "description": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
+      "tags": [
+        "Media & Entertainment",
+        "Apps",
+        "Spotify",
+        "podcasts",
+        "Creators"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "published_at": "2026-10-20T11:00:00.000Z",
+      "description": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "tags": [
+        "TC",
+        "AI",
+        "Apps"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Otter.ai raises $320 million from General Catalyst&#8217;s growth fund for its meeting tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "published_at": "2026-10-20T11:00:00.000Z",
+      "description": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds fo",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "General Catalyst",
+        "otter",
+        "otter.ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
@@ -1057,96 +1102,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
-    },
-    {
-      "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "published_at": "2026-10-19T22:49:27.000Z",
-      "description": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
-      "tags": [
-        "AI",
-        "ai safety",
-        "Hugging Face"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Microsoft says AI agents are like insider threats as &#8216;frontier models can&#8217;t be trusted&#8217;",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "published_at": "2026-10-19T22:04:28.000Z",
-      "description": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Microsoft"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "published_at": "2026-10-19T20:09:24.000Z",
-      "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Amazon",
-        "AWS",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "published_at": "2026-10-19T19:28:34.000Z",
-      "description": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-      "tags": [
-        "AI",
-        "AI coding agents",
-        "hackers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
-    },
-    {
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-      "published_at": "2026-10-19T19:00:12.000Z",
-      "description": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "ai apps",
-        "ai companion"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "published_at": "2026-10-19T18:49:04.000Z",
-      "description": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-      "tags": [
-        "AI",
-        "Startups",
-        "ai agent",
-        "AI assistant",
-        "Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Detect Operational Drift Before It Becomes an Incident",
@@ -1386,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1027,
+      "stars": 1090,
       "user": "alchaincyf"
     },
     {
@@ -1401,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 789,
       "user": "humblemuzzu"
     },
     {
@@ -1416,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 525,
       "user": "showheyohtaki"
     },
     {
@@ -1431,23 +1386,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 256,
       "user": "ip-please"
     },
     {
-      "title": "Leonxlnx/athenaion - A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
-      "url": "https://github.com/Leonxlnx/athenaion",
-      "published_at": "2026-10-17T22:42:57Z",
-      "description": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "title": "c1overzz/dsh-bili-scroll - DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
+      "url": "https://github.com/c1overzz/dsh-bili-scroll",
+      "published_at": "2026-10-14T09:03:43Z",
+      "description": "DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/336343453?v=4",
       "source": "GitHub",
-      "stars": 238,
-      "user": "Leonxlnx"
+      "stars": 246,
+      "user": "c1overzz"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -1461,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1828,
+      "stars": 1835,
       "user": "chenglou"
     },
     {
@@ -1476,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1269,
+      "stars": 1274,
       "user": "Caho1"
     },
     {
@@ -1491,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 474,
       "user": "VictorTaelin"
     },
     {
@@ -1506,29 +1461,56 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9211198?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 395,
       "user": "pro-vi"
     },
     {
-      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "published_at": "2026-10-18T21:01:54Z",
-      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "title": "stackedlol/ascii-sharks - ascii shark components in typescript",
+      "url": "https://github.com/stackedlol/ascii-sharks",
+      "published_at": "2026-10-19T21:54:19Z",
+      "description": "ascii shark components in typescript",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 292,
-      "user": "finereli"
+      "stars": 348,
+      "user": "stackedlol"
+    },
+    {
+      "title": "\"ERROR [6/6] RUN npm run build\" importing a file outside \"src/\"",
+      "url": "https://stackoverflow.com/questions/80011306/error-6-6-run-npm-run-build-importing-a-file-outside-src",
+      "published_at": "2026-10-20T11:33:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "node.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Lucas Cherbuin"
+    },
+    {
+      "title": "How can I conditionally load a JavaScript file only on WooCommerce product pages in WordPress?",
+      "url": "https://stackoverflow.com/questions/80011303/how-can-i-conditionally-load-a-javascript-file-only-on-woocommerce-product-pages",
+      "published_at": "2026-10-20T11:17:37.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "wordpress"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alpa Ribadiya"
     },
     {
       "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
       "url": "https://stackoverflow.com/questions/80011164/counting-unique-visitors-on-a-redirect-link-when-the-same-person-opens-it-on-mul",
       "published_at": "2026-10-19T18:55:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "best-practices",
         "javascript",
@@ -1542,7 +1524,7 @@
       "title": "Split and capture text ending with brackets and two letters",
       "url": "https://stackoverflow.com/questions/80011025/split-and-capture-text-ending-with-brackets-and-two-letters",
       "published_at": "2026-10-19T09:42:40.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "javascript",
         "regex"
@@ -1550,6 +1532,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Federico"
+    },
+    {
+      "title": "How to prevent message submission on \"Enter\" key in a ChatGPT function while using addEventListeners?",
+      "url": "https://stackoverflow.com/questions/79315615/how-to-prevent-message-submission-on-enter-key-in-a-chatgpt-function-while-usi",
+      "published_at": "2024-12-29T12:49:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "typescript",
+        "google-chrome-extension",
+        "async-await",
+        "event-handling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dev john"
     },
     {
       "title": "Nginx can't load /usr/share/nginx/html/ files are missing",
@@ -1613,64 +1611,17 @@
       "user": "Christian Aichner"
     },
     {
-      "title": "How to distribute passengers to flights using Javascript",
-      "url": "https://stackoverflow.com/questions/72798935/how-to-distribute-passengers-to-flights-using-javascript",
-      "published_at": "2022-06-29T09:22:28.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "javascript",
-        "java",
-        "jquery",
-        "node.js",
-        "arrays"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "devDan"
-    },
-    {
-      "title": "I can't create a dynamic navigation menu using pure JavaScript",
-      "url": "https://stackoverflow.com/questions/66734872/i-cant-create-a-dynamic-navigation-menu-using-pure-javascript",
-      "published_at": "2021-03-21T16:34:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohamed Rezk"
-    },
-    {
-      "title": "Can't setup swagger - Cannot read property 'parameters' of undefined",
-      "url": "https://stackoverflow.com/questions/60271342/cant-setup-swagger-cannot-read-property-parameters-of-undefined",
-      "published_at": "2020-02-17T22:38:58.000Z",
+      "title": "Javascript string regex replace with function callback behaves unexpected",
+      "url": "https://stackoverflow.com/questions/72673967/javascript-string-regex-replace-with-function-callback-behaves-unexpected",
+      "published_at": "2022-06-19T02:49:12.000Z",
       "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
-        "node.js",
-        "express",
-        "swagger",
-        "openapi"
+        "regex"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Norayr Ghukasyan"
-    },
-    {
-      "title": "How to enable functionality paste table in quill editor",
-      "url": "https://stackoverflow.com/questions/59628244/how-to-enable-functionality-paste-table-in-quill-editor",
-      "published_at": "2020-01-07T12:14:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "editor",
-        "quill"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rahul Jain"
+      "user": "ObjectName"
     },
     {
       "title": "How to Detect Operational Drift Before It Becomes an Incident",
@@ -1720,21 +1671,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
-      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
-      "published_at": "2026-10-16T14:52:20Z",
-      "description": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
@@ -1887,6 +1823,21 @@
       "user": "arathore"
     },
     {
+      "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "published_at": "2026-10-16T07:47:23Z",
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "source": "GitHub",
+      "stars": 7240,
+      "user": "deepseek-ai"
+    },
+    {
       "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "url": "https://github.com/Leonxlnx/earshot",
       "published_at": "2026-10-15T06:52:46Z",
@@ -1898,14 +1849,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1665,
+      "stars": 1789,
       "user": "Leonxlnx"
     },
     {
-      "title": "xiaoyang111222/cn-math-taxonomy - 中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
+      "title": "xiaoyang111222/cn-math-taxonomy - 中小学+高中数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级与高中必修、674 知识点、2843 题、自适应诊断",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "published_at": "2026-10-18T09:04:43Z",
-      "description": "中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
+      "description": "中小学+高中数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级与高中必修、674 知识点、2843 题、自适应诊断",
       "tags": [
         "python",
         "github",
@@ -1913,23 +1864,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1220,
+      "stars": 1397,
       "user": "xiaoyang111222"
-    },
-    {
-      "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "url": "https://github.com/OpenMOSS/MOSS-Image",
-      "published_at": "2026-10-16T01:18:13Z",
-      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
-      "source": "GitHub",
-      "stars": 1054,
-      "user": "OpenMOSS"
     },
     {
       "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
@@ -1943,29 +1879,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1110,
       "user": "aicodeking"
     },
     {
-      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-      "published_at": "2026-10-15T13:06:56Z",
-      "description": "Trending GitHub Repository",
+      "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "url": "https://github.com/OpenMOSS/MOSS-Image",
+      "published_at": "2026-10-16T01:18:13Z",
+      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1007,
-      "user": "Tencent-Hunyuan"
+      "stars": 1101,
+      "user": "OpenMOSS"
     },
     {
       "title": "Draw letters in python console given x y coordinates and characters",
       "url": "https://stackoverflow.com/questions/80011231/draw-letters-in-python-console-given-x-y-coordinates-and-characters",
       "published_at": "2026-10-20T04:37:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "console"
@@ -1975,36 +1911,10 @@
       "user": "TitanJamison"
     },
     {
-      "title": "TypeError: ‘str’ object cannot be interpreted as an integer” error.\"",
-      "url": "https://stackoverflow.com/questions/80011168/typeerror-str-object-cannot-be-interpreted-as-an-integer-error",
-      "published_at": "2026-10-19T19:21:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "IchoryDick"
-    },
-    {
-      "title": "TypeError: 'DefaultMeta' object is not iterable",
-      "url": "https://stackoverflow.com/questions/80011142/typeerror-defaultmeta-object-is-not-iterable",
-      "published_at": "2026-10-19T17:10:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "flask",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
-    },
-    {
       "title": "How to investigate a silent os.rename() failure in python? Samba is involved",
       "url": "https://stackoverflow.com/questions/80011041/how-to-investigate-a-silent-os-rename-failure-in-python-samba-is-involved",
       "published_at": "2026-10-19T10:46:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "file-rename",
@@ -2018,7 +1928,7 @@
       "title": "How to reduce dataframe with nan values maintaining consecutive values in columns",
       "url": "https://stackoverflow.com/questions/80011008/how-to-reduce-dataframe-with-nan-values-maintaining-consecutive-values-in-column",
       "published_at": "2026-10-19T08:25:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "python",
         "pandas",
@@ -2027,6 +1937,32 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dan577"
+    },
+    {
+      "title": "TypeError: ‘str’ object cannot be interpreted as an integer” error.\"",
+      "url": "https://stackoverflow.com/questions/80011168/typeerror-str-object-cannot-be-interpreted-as-an-integer-error",
+      "published_at": "2026-10-19T19:21:17.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "IchoryDick"
+    },
+    {
+      "title": "TypeError: 'DefaultMeta' object is not iterable",
+      "url": "https://stackoverflow.com/questions/80011142/typeerror-defaultmeta-object-is-not-iterable",
+      "published_at": "2026-10-19T17:10:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "python",
+        "flask",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gh0st_dancing"
     },
     {
       "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
@@ -2395,20 +2331,6 @@
       "user": "existentia"
     },
     {
-      "title": "I can't create a dynamic navigation menu using pure JavaScript",
-      "url": "https://stackoverflow.com/questions/66734872/i-cant-create-a-dynamic-navigation-menu-using-pure-javascript",
-      "published_at": "2021-03-21T16:34:04.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mohamed Rezk"
-    },
-    {
       "title": "How to Build a Website User Interface Faster Using AI Prompts",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-website-user-interface-faster-using-ai-prompts/",
       "published_at": "2026-10-19T06:52:23.000Z",
@@ -2467,7 +2389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68419756?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 466,
       "user": "longbridge"
     },
     {
@@ -2482,7 +2404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 414,
       "user": "c22dev"
     },
     {
@@ -2519,21 +2441,6 @@
   ],
   "Cloud": [
     {
-      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
-      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60",
-      "published_at": "2026-10-19T22:20:01Z",
-      "description": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor isolation.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
       "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a",
       "published_at": "2026-10-15T16:38:38Z",
@@ -2547,6 +2454,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Ftosun-si%2Fduckless%2Fmain%2Fassets%2Fbrand%2Fduckless-social.png",
       "source": "Dev.to",
       "user": "Mazlum Tosun"
+    },
+    {
+      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
+      "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60",
+      "published_at": "2026-10-19T22:20:01Z",
+      "description": "Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor isolation.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
@@ -2622,25 +2544,10 @@
       "user": "Zach S."
     },
     {
-      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "published_at": "2026-10-18T21:01:54Z",
-      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
-      "source": "GitHub",
-      "stars": 292,
-      "user": "finereli"
-    },
-    {
       "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
       "url": "https://stackoverflow.com/questions/80011164/counting-unique-visitors-on-a-redirect-link-when-the-same-person-opens-it-on-mul",
       "published_at": "2026-10-19T18:55:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "best-practices",
         "javascript",
@@ -2649,22 +2556,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aditya Chandra"
-    },
-    {
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "published_at": "2026-10-19T20:09:24.000Z",
-      "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Amazon",
-        "AWS",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
@@ -2771,7 +2662,7 @@
       "title": "TypeError: 'DefaultMeta' object is not iterable",
       "url": "https://stackoverflow.com/questions/80011142/typeerror-defaultmeta-object-is-not-iterable",
       "published_at": "2026-10-19T17:10:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "flask",
@@ -2992,6 +2883,20 @@
       "user": "ewenjo"
     },
     {
+      "title": "Setting up SSH keys on macOS with Touch ID",
+      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "published_at": "2026-10-20T05:23:58.813-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "cryptography",
+        "mac",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nmattia"
+    },
+    {
       "title": "Go will reject certificate chains containing eight distrusted SPKIs",
       "url": "https://github.com/golang/go/commit/90617fb7ceb59cf08bee7826bb51b8c8fb8c11de",
       "published_at": "2026-10-19T22:10:23.194-05:00",
@@ -3055,21 +2960,6 @@
   ],
   "Tools": [
     {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
-      "published_at": "2026-10-19T20:07:12Z",
-      "description": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60n0ma7t182ia9mtt5o9.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
       "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
       "published_at": "2026-10-19T13:00:00Z",
@@ -3083,6 +2973,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
+    },
+    {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
+      "published_at": "2026-10-19T20:07:12Z",
+      "description": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60n0ma7t182ia9mtt5o9.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
@@ -3251,7 +3156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1027,
+      "stars": 1090,
       "user": "alchaincyf"
     },
     {
@@ -3266,7 +3171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 789,
       "user": "humblemuzzu"
     },
     {
@@ -3281,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 503,
+      "stars": 525,
       "user": "showheyohtaki"
     },
     {
@@ -3296,23 +3201,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 256,
       "user": "ip-please"
     },
     {
-      "title": "Leonxlnx/athenaion - A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
-      "url": "https://github.com/Leonxlnx/athenaion",
-      "published_at": "2026-10-17T22:42:57Z",
-      "description": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "title": "c1overzz/dsh-bili-scroll - DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
+      "url": "https://github.com/c1overzz/dsh-bili-scroll",
+      "published_at": "2026-10-14T09:03:43Z",
+      "description": "DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/336343453?v=4",
       "source": "GitHub",
-      "stars": 238,
-      "user": "Leonxlnx"
+      "stars": 246,
+      "user": "c1overzz"
+    },
+    {
+      "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "published_at": "2026-10-16T07:47:23Z",
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "source": "GitHub",
+      "stars": 7240,
+      "user": "deepseek-ai"
     },
     {
       "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
@@ -3326,14 +3246,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1665,
+      "stars": 1789,
       "user": "Leonxlnx"
     },
     {
-      "title": "xiaoyang111222/cn-math-taxonomy - 中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
+      "title": "xiaoyang111222/cn-math-taxonomy - 中小学+高中数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级与高中必修、674 知识点、2843 题、自适应诊断",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "published_at": "2026-10-18T09:04:43Z",
-      "description": "中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
+      "description": "中小学+高中数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级与高中必修、674 知识点、2843 题、自适应诊断",
       "tags": [
         "python",
         "github",
@@ -3341,23 +3261,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1220,
+      "stars": 1397,
       "user": "xiaoyang111222"
-    },
-    {
-      "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "url": "https://github.com/OpenMOSS/MOSS-Image",
-      "published_at": "2026-10-16T01:18:13Z",
-      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
-      "source": "GitHub",
-      "stars": 1054,
-      "user": "OpenMOSS"
     },
     {
       "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
@@ -3371,23 +3276,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1043,
+      "stars": 1110,
       "user": "aicodeking"
     },
     {
-      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-      "published_at": "2026-10-15T13:06:56Z",
-      "description": "Trending GitHub Repository",
+      "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "url": "https://github.com/OpenMOSS/MOSS-Image",
+      "published_at": "2026-10-16T01:18:13Z",
+      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1007,
-      "user": "Tencent-Hunyuan"
+      "stars": 1101,
+      "user": "OpenMOSS"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -3401,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2482,
+      "stars": 2544,
       "user": "feder-cr"
     },
     {
@@ -3450,19 +3355,19 @@
       "user": "Haryy985"
     },
     {
-      "title": "Ernket/CodeScan-Artex - 二开artex的代码审计平台 | 新增本地反编译java依赖库 | 多账号管理",
-      "url": "https://github.com/Ernket/CodeScan-Artex",
-      "published_at": "2026-10-14T15:35:51Z",
-      "description": "二开artex的代码审计平台 | 新增本地反编译java依赖库 | 多账号管理",
+      "title": "mu-zi-lee/Tangentry - 沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
+      "url": "https://github.com/mu-zi-lee/Tangentry",
+      "published_at": "2026-10-17T05:17:17Z",
+      "description": "沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/35891165?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/75201518?v=4",
       "source": "GitHub",
-      "stars": 118,
-      "user": "Ernket"
+      "stars": 127,
+      "user": "mu-zi-lee"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -3476,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1828,
+      "stars": 1835,
       "user": "chenglou"
     },
     {
@@ -3491,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1269,
+      "stars": 1274,
       "user": "Caho1"
     },
     {
@@ -3506,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 474,
       "user": "VictorTaelin"
     },
     {
@@ -3521,38 +3426,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9211198?v=4",
       "source": "GitHub",
-      "stars": 393,
+      "stars": 395,
       "user": "pro-vi"
     },
     {
-      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "published_at": "2026-10-18T21:01:54Z",
-      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "title": "stackedlol/ascii-sharks - ascii shark components in typescript",
+      "url": "https://github.com/stackedlol/ascii-sharks",
+      "published_at": "2026-10-19T21:54:19Z",
+      "description": "ascii shark components in typescript",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 292,
-      "user": "finereli"
-    },
-    {
-      "title": "reason-machines/reason-network - Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-      "url": "https://github.com/reason-machines/reason-network",
-      "published_at": "2026-10-16T15:34:34Z",
-      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
-      "source": "GitHub",
-      "stars": 514,
-      "user": "reason-machines"
+      "stars": 348,
+      "user": "stackedlol"
     },
     {
       "title": "kitlangton/scrawl - Show an agent a problem: mark up, record, send",
@@ -3566,8 +3456,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7587245?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 533,
       "user": "kitlangton"
+    },
+    {
+      "title": "reason-machines/reason-network - Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "url": "https://github.com/reason-machines/reason-network",
+      "published_at": "2026-10-16T15:34:34Z",
+      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
+      "source": "GitHub",
+      "stars": 527,
+      "user": "reason-machines"
     },
     {
       "title": "longbridge/nsh - NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web",
@@ -3581,8 +3486,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68419756?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 466,
       "user": "longbridge"
+    },
+    {
+      "title": "ELY-Open-Source/ElyOffice - Ely Office: offline-first desktop apps in Rust and GPUI",
+      "url": "https://github.com/ELY-Open-Source/ElyOffice",
+      "published_at": "2026-10-19T23:04:42Z",
+      "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
+      "source": "GitHub",
+      "stars": 453,
+      "user": "ELY-Open-Source"
     },
     {
       "title": "c22dev/mush8 - A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
@@ -3596,23 +3516,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 366,
+      "stars": 414,
       "user": "c22dev"
-    },
-    {
-      "title": "Graphicle-AI/graphicle - Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
-      "url": "https://github.com/Graphicle-AI/graphicle",
-      "published_at": "2026-10-14T12:25:36Z",
-      "description": "Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
-      "source": "GitHub",
-      "stars": 325,
-      "user": "Graphicle-AI"
     },
     {
       "title": "Updates to site guidelines and AI/LLM tags",
@@ -3654,6 +3559,22 @@
       "user": "mendy"
     },
     {
+      "title": "Otter.ai raises $320 million from General Catalyst&#8217;s growth fund for its meeting tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "published_at": "2026-10-20T11:00:00.000Z",
+      "description": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds fo",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "General Catalyst",
+        "otter",
+        "otter.ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
       "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
       "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
       "published_at": "2026-10-20T07:01:00.000Z",
@@ -3668,36 +3589,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ram Iyer"
-    },
-    {
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "published_at": "2026-10-19T20:09:24.000Z",
-      "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Amazon",
-        "AWS",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "published_at": "2026-10-19T19:28:34.000Z",
-      "description": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-      "tags": [
-        "AI",
-        "AI coding agents",
-        "hackers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
     },
     {
       "title": "How to Build a Website User Interface Faster Using AI Prompts",
