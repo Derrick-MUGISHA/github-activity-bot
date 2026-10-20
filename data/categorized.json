@@ -106,21 +106,6 @@
       "user": "xbill"
     },
     {
-      "title": "Your Financial Agent Passed Every Eval. Can You Defend Its Decision?",
-      "url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg",
-      "published_at": "2026-10-14T12:04:58Z",
-      "description": "In audit, the opinion is the product, and an opinion is only as good as its basis. Being right isn’t...",
-      "tags": [
-        "ai",
-        "agents",
-        "fintech",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvgeuf5lerc4zthaecs7m.png",
-      "source": "Dev.to",
-      "user": "Anirudh Veeraragavan"
-    },
-    {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
       "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57",
       "published_at": "2026-10-11T19:41:19Z",
@@ -239,6 +224,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1hi8lqrej5xsyrhnr9c3.png",
       "source": "Dev.to",
       "user": "Tom Wheeler"
+    },
+    {
+      "title": "A Data Company in an AI World",
+      "url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4",
+      "published_at": "2026-10-14T12:05:44Z",
+      "description": "Anekha Sokhal spent nearly a decade trading energy derivatives at JP Morgan, then came to the US on a...",
+      "tags": [
+        "ai",
+        "finance",
+        "interview",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv54kayiyyr8z39ddeml.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
     },
     {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
@@ -807,8 +807,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 904,
+      "stars": 945,
       "user": "alchaincyf"
+    },
+    {
+      "title": "Leonxlnx/athenaion - A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "published_at": "2026-10-17T22:42:57Z",
+      "description": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "source": "GitHub",
+      "stars": 217,
+      "user": "Leonxlnx"
     },
     {
       "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
@@ -822,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1512,
+      "stars": 1558,
       "user": "Leonxlnx"
     },
     {
@@ -837,23 +852,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 990,
+      "stars": 998,
       "user": "aicodeking"
-    },
-    {
-      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "published_at": "2026-10-15T22:30:47Z",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
-      "source": "GitHub",
-      "stars": 953,
-      "user": "LiCinCan"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2451,
+      "stars": 2461,
       "user": "feder-cr"
     },
     {
@@ -897,53 +897,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1806,
+      "stars": 1815,
       "user": "chenglou"
     },
     {
-      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "url": "https://github.com/outcrawlai/scout",
-      "published_at": "2026-10-13T09:18:55Z",
-      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "published_at": "2026-10-18T21:01:54Z",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 950,
-      "user": "outcrawlai"
-    },
-    {
-      "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
-      "url": "https://github.com/CoolkHz/gptibo",
-      "published_at": "2026-10-13T15:57:19Z",
-      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
-      "source": "GitHub",
-      "stars": 832,
-      "user": "CoolkHz"
-    },
-    {
-      "title": "solana-classic/solana-classic - Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
-      "url": "https://github.com/solana-classic/solana-classic",
-      "published_at": "2026-10-13T19:35:48Z",
-      "description": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
-      "source": "GitHub",
-      "stars": 593,
-      "user": "solana-classic"
+      "stars": 285,
+      "user": "finereli"
     },
     {
       "title": "Graphicle-AI/graphicle - Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
@@ -957,7 +927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "Graphicle-AI"
     },
     {
@@ -977,7 +947,7 @@
       "title": "How to investigate a silent os.rename() failure in python? Samba is involved",
       "url": "https://stackoverflow.com/questions/80011041/how-to-investigate-a-silent-os-rename-failure-in-python-samba-is-involved",
       "published_at": "2026-10-19T10:46:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "python",
         "file-rename",
@@ -1005,7 +975,7 @@
       "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
       "url": "https://stackoverflow.com/questions/80011058/typeerror-mailmixin-connect-missing-1-required-positional-argument-self",
       "published_at": "2026-10-19T11:44:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "flask",
@@ -1016,15 +986,30 @@
       "user": "gh0st_dancing"
     },
     {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "published_at": "2026-10-20T01:27:03.000Z",
+      "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "AI Now Institute",
+        "AI regulation",
+        "mamdani"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
       "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
       "published_at": "2026-10-19T23:39:38.000Z",
-      "description": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+      "description": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
       "tags": [
         "AI",
         "Anthropic",
-        "compute",
-        "data centers",
+        "In Brief",
         "nscale"
       ],
       "cover_image": null,
@@ -1035,10 +1020,10 @@
       "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
       "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
       "published_at": "2026-10-19T22:49:27.000Z",
-      "description": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, H",
+      "description": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
       "tags": [
         "AI",
-        "TC",
+        "ai safety",
         "Hugging Face"
       ],
       "cover_image": null,
@@ -1049,11 +1034,10 @@
       "title": "Microsoft says AI agents are like insider threats as &#8216;frontier models can&#8217;t be trusted&#8217;",
       "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
       "published_at": "2026-10-19T22:04:28.000Z",
-      "description": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "description": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
       "tags": [
         "AI",
         "Enterprise",
-        "TC",
         "Microsoft"
       ],
       "cover_image": null,
@@ -1137,37 +1121,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
-    },
-    {
-      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-      "published_at": "2026-10-19T18:00:39.000Z",
-      "description": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "AI assistant",
-        "In Brief",
-        "unicorn"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Rivian&#8217;s CEO says autonomy will enable &#8216;dramatically different&#8217; vehicle designs",
-      "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
-      "published_at": "2026-10-19T17:39:51.000Z",
-      "description": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
-      "tags": [
-        "Transportation",
-        "Rivian",
-        "RJ Scaringe",
-        "TechCrunch Disrupt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
     },
     {
       "title": "How to Detect Operational Drift Before It Becomes an Incident",
@@ -1396,21 +1349,6 @@
       "user": "velmu"
     },
     {
-      "title": "HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.",
-      "url": "https://github.com/HeyPuter/everything",
-      "published_at": "2026-10-13T16:18:22Z",
-      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
-      "source": "GitHub",
-      "stars": 2332,
-      "user": "HeyPuter"
-    },
-    {
       "title": "alchaincyf/huashu-motion - 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "url": "https://github.com/alchaincyf/huashu-motion",
       "published_at": "2026-10-18T12:19:27Z",
@@ -1422,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 904,
+      "stars": 945,
       "user": "alchaincyf"
     },
     {
@@ -1437,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 588,
       "user": "humblemuzzu"
     },
     {
@@ -1452,23 +1390,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 485,
       "user": "showheyohtaki"
     },
     {
-      "title": "sola1039/HAST-SEC - 武汉光影流明科技有限公司 | 本地中文交互与连续角色运动 | 非商业早期研究版 | 寻求技术合作与融资",
-      "url": "https://github.com/sola1039/HAST-SEC",
-      "published_at": "2026-10-13T10:42:22Z",
-      "description": "武汉光影流明科技有限公司 | 本地中文交互与连续角色运动 | 非商业早期研究版 | 寻求技术合作与融资",
+      "title": "Leonxlnx/athenaion - A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "published_at": "2026-10-17T22:42:57Z",
+      "description": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149643286?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 318,
-      "user": "sola1039"
+      "stars": 217,
+      "user": "Leonxlnx"
+    },
+    {
+      "title": "ip-please/ip-please.github.io - GitHub Repository",
+      "url": "https://github.com/ip-please/ip-please.github.io",
+      "published_at": "2026-10-18T15:43:58Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
+      "source": "GitHub",
+      "stars": 206,
+      "user": "ip-please"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -1482,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1806,
+      "stars": 1815,
       "user": "chenglou"
     },
     {
@@ -1497,53 +1450,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1254,
       "user": "Caho1"
     },
     {
-      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "url": "https://github.com/outcrawlai/scout",
-      "published_at": "2026-10-13T09:18:55Z",
-      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "title": "pro-vi/cc-stretch - Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
+      "url": "https://github.com/pro-vi/cc-stretch",
+      "published_at": "2026-10-14T22:03:26Z",
+      "description": "Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/9211198?v=4",
       "source": "GitHub",
-      "stars": 950,
-      "user": "outcrawlai"
+      "stars": 392,
+      "user": "pro-vi"
     },
     {
-      "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
-      "url": "https://github.com/CoolkHz/gptibo",
-      "published_at": "2026-10-13T15:57:19Z",
-      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "title": "VictorTaelin/uniichat - GitHub Repository",
+      "url": "https://github.com/VictorTaelin/uniichat",
+      "published_at": "2026-10-19T15:26:48Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 832,
-      "user": "CoolkHz"
+      "stars": 338,
+      "user": "VictorTaelin"
     },
     {
-      "title": "Zfinix/eleven - Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
-      "url": "https://github.com/Zfinix/eleven",
-      "published_at": "2026-10-13T13:47:31Z",
-      "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "published_at": "2026-10-18T21:01:54Z",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25801929?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 794,
-      "user": "Zfinix"
+      "stars": 285,
+      "user": "finereli"
     },
     {
       "title": "Beginning of the Ende (a community Deno fork)",
@@ -1561,7 +1514,7 @@
       "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
       "url": "https://stackoverflow.com/questions/80011164/counting-unique-visitors-on-a-redirect-link-when-the-same-person-opens-it-on-mul",
       "published_at": "2026-10-19T18:55:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "best-practices",
         "javascript",
@@ -1918,21 +1871,6 @@
       "user": "arathore"
     },
     {
-      "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "published_at": "2026-10-13T03:09:42Z",
-      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
-      "source": "GitHub",
-      "stars": 3362,
-      "user": "Arekejoker"
-    },
-    {
       "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "url": "https://github.com/Leonxlnx/earshot",
       "published_at": "2026-10-15T06:52:46Z",
@@ -1944,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1512,
+      "stars": 1558,
       "user": "Leonxlnx"
     },
     {
@@ -1959,8 +1897,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 990,
+      "stars": 998,
       "user": "aicodeking"
+    },
+    {
+      "title": "xiaoyang111222/cn-math-taxonomy - 中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "published_at": "2026-10-18T09:04:43Z",
+      "description": "中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
+      "source": "GitHub",
+      "stars": 982,
+      "user": "xiaoyang111222"
     },
     {
       "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
@@ -1974,29 +1927,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 958,
+      "stars": 976,
       "user": "Tencent-Hunyuan"
     },
     {
-      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "published_at": "2026-10-15T22:30:47Z",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "url": "https://github.com/OpenMOSS/MOSS-Image",
+      "published_at": "2026-10-16T01:18:13Z",
+      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 953,
-      "user": "LiCinCan"
+      "stars": 956,
+      "user": "OpenMOSS"
     },
     {
       "title": "TypeError: ‘str’ object cannot be interpreted as an integer” error.\"",
       "url": "https://stackoverflow.com/questions/80011168/typeerror-str-object-cannot-be-interpreted-as-an-integer-error",
       "published_at": "2026-10-19T19:21:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python"
       ],
@@ -2008,7 +1961,7 @@
       "title": "TypeError: 'DefaultMeta' object is not iterable",
       "url": "https://stackoverflow.com/questions/80011142/typeerror-defaultmeta-object-is-not-iterable",
       "published_at": "2026-10-19T17:10:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "flask",
@@ -2022,7 +1975,7 @@
       "title": "How to investigate a silent os.rename() failure in python? Samba is involved",
       "url": "https://stackoverflow.com/questions/80011041/how-to-investigate-a-silent-os-rename-failure-in-python-samba-is-involved",
       "published_at": "2026-10-19T10:46:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "python",
         "file-rename",
@@ -2047,6 +2000,20 @@
       "user": "dan577"
     },
     {
+      "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
+      "url": "https://stackoverflow.com/questions/80011058/typeerror-mailmixin-connect-missing-1-required-positional-argument-self",
+      "published_at": "2026-10-19T11:44:44.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "flask",
+        "flask-mail"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gh0st_dancing"
+    },
+    {
       "title": "How do I find callers of an overridden method in FalkorDB code-graph?",
       "url": "https://stackoverflow.com/questions/80011105/how-do-i-find-callers-of-an-overridden-method-in-falkordb-code-graph",
       "published_at": "2026-10-19T14:51:48.000Z",
@@ -2060,20 +2027,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Teeny Weeny"
-    },
-    {
-      "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
-      "url": "https://stackoverflow.com/questions/80011058/typeerror-mailmixin-connect-missing-1-required-positional-argument-self",
-      "published_at": "2026-10-19T11:44:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "flask",
-        "flask-mail"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
     },
     {
       "title": "In Python, is it possible to execute a script without impacting the modules imported by the caller?",
@@ -2413,21 +2366,6 @@
       "user": "velmu"
     },
     {
-      "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
-      "url": "https://github.com/CoolkHz/gptibo",
-      "published_at": "2026-10-13T15:57:19Z",
-      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
-      "source": "GitHub",
-      "stars": 832,
-      "user": "CoolkHz"
-    },
-    {
       "title": "Nginx can't load /usr/share/nginx/html/ files are missing",
       "url": "https://stackoverflow.com/questions/75028042/nginx-cant-load-usr-share-nginx-html-files-are-missing",
       "published_at": "2023-01-06T07:20:54.000Z",
@@ -2505,21 +2443,6 @@
       "user": "Jhin Lee"
     },
     {
-      "title": "Zfinix/eleven - Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
-      "url": "https://github.com/Zfinix/eleven",
-      "published_at": "2026-10-13T13:47:31Z",
-      "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25801929?v=4",
-      "source": "GitHub",
-      "stars": 794,
-      "user": "Zfinix"
-    },
-    {
       "title": "longbridge/nsh - NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web",
       "url": "https://github.com/longbridge/nsh",
       "published_at": "2026-10-14T14:59:36Z",
@@ -2531,7 +2454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68419756?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 416,
       "user": "longbridge"
     },
     {
@@ -2670,10 +2593,25 @@
       "user": "Zach S."
     },
     {
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "published_at": "2026-10-18T21:01:54Z",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
+      "source": "GitHub",
+      "stars": 285,
+      "user": "finereli"
+    },
+    {
       "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
       "url": "https://stackoverflow.com/questions/80011164/counting-unique-visitors-on-a-redirect-link-when-the-same-person-opens-it-on-mul",
       "published_at": "2026-10-19T18:55:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "best-practices",
         "javascript",
@@ -2804,7 +2742,7 @@
       "title": "TypeError: 'DefaultMeta' object is not iterable",
       "url": "https://stackoverflow.com/questions/80011142/typeerror-defaultmeta-object-is-not-iterable",
       "published_at": "2026-10-19T17:10:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "flask",
@@ -3258,21 +3196,6 @@
       "user": "pabs3"
     },
     {
-      "title": "HeyPuter/everything - We're rebuilding and open-sourcing the world’s software from scratch.",
-      "url": "https://github.com/HeyPuter/everything",
-      "published_at": "2026-10-13T16:18:22Z",
-      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/103972607?v=4",
-      "source": "GitHub",
-      "stars": 2332,
-      "user": "HeyPuter"
-    },
-    {
       "title": "alchaincyf/huashu-motion - 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "url": "https://github.com/alchaincyf/huashu-motion",
       "published_at": "2026-10-18T12:19:27Z",
@@ -3284,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 904,
+      "stars": 945,
       "user": "alchaincyf"
     },
     {
@@ -3299,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 588,
       "user": "humblemuzzu"
     },
     {
@@ -3314,38 +3237,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 485,
       "user": "showheyohtaki"
     },
     {
-      "title": "sola1039/HAST-SEC - 武汉光影流明科技有限公司 | 本地中文交互与连续角色运动 | 非商业早期研究版 | 寻求技术合作与融资",
-      "url": "https://github.com/sola1039/HAST-SEC",
-      "published_at": "2026-10-13T10:42:22Z",
-      "description": "武汉光影流明科技有限公司 | 本地中文交互与连续角色运动 | 非商业早期研究版 | 寻求技术合作与融资",
+      "title": "Leonxlnx/athenaion - A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "published_at": "2026-10-17T22:42:57Z",
+      "description": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/149643286?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 318,
-      "user": "sola1039"
+      "stars": 217,
+      "user": "Leonxlnx"
     },
     {
-      "title": "Arekejoker/qwen21-nsfw-pose-skill - Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "published_at": "2026-10-13T03:09:42Z",
-      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "title": "ip-please/ip-please.github.io - GitHub Repository",
+      "url": "https://github.com/ip-please/ip-please.github.io",
+      "published_at": "2026-10-18T15:43:58Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131444687?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 3362,
-      "user": "Arekejoker"
+      "stars": 206,
+      "user": "ip-please"
     },
     {
       "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
@@ -3359,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1512,
+      "stars": 1558,
       "user": "Leonxlnx"
     },
     {
@@ -3374,8 +3297,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 990,
+      "stars": 998,
       "user": "aicodeking"
+    },
+    {
+      "title": "xiaoyang111222/cn-math-taxonomy - 中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "published_at": "2026-10-18T09:04:43Z",
+      "description": "中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
+      "source": "GitHub",
+      "stars": 982,
+      "user": "xiaoyang111222"
     },
     {
       "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
@@ -3389,23 +3327,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
       "source": "GitHub",
-      "stars": 958,
+      "stars": 976,
       "user": "Tencent-Hunyuan"
     },
     {
-      "title": "LiCinCan/blender-ai-mcp-addon - AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "published_at": "2026-10-15T22:30:47Z",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "url": "https://github.com/OpenMOSS/MOSS-Image",
+      "published_at": "2026-10-16T01:18:13Z",
+      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343139124?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 953,
-      "user": "LiCinCan"
+      "stars": 956,
+      "user": "OpenMOSS"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -3419,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2451,
+      "stars": 2461,
       "user": "feder-cr"
     },
     {
@@ -3479,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75201518?v=4",
       "source": "GitHub",
-      "stars": 113,
+      "stars": 114,
       "user": "mu-zi-lee"
     },
     {
@@ -3494,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1806,
+      "stars": 1815,
       "user": "chenglou"
     },
     {
@@ -3509,68 +3447,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1246,
+      "stars": 1254,
       "user": "Caho1"
     },
     {
-      "title": "outcrawlai/scout - Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "url": "https://github.com/outcrawlai/scout",
-      "published_at": "2026-10-13T09:18:55Z",
-      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "title": "pro-vi/cc-stretch - Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
+      "url": "https://github.com/pro-vi/cc-stretch",
+      "published_at": "2026-10-14T22:03:26Z",
+      "description": "Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/326615483?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/9211198?v=4",
       "source": "GitHub",
-      "stars": 950,
-      "user": "outcrawlai"
+      "stars": 392,
+      "user": "pro-vi"
     },
     {
-      "title": "CoolkHz/gptibo - Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
-      "url": "https://github.com/CoolkHz/gptibo",
-      "published_at": "2026-10-13T15:57:19Z",
-      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "title": "VictorTaelin/uniichat - GitHub Repository",
+      "url": "https://github.com/VictorTaelin/uniichat",
+      "published_at": "2026-10-19T15:26:48Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34871925?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 832,
-      "user": "CoolkHz"
+      "stars": 338,
+      "user": "VictorTaelin"
     },
     {
-      "title": "Zfinix/eleven - Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
-      "url": "https://github.com/Zfinix/eleven",
-      "published_at": "2026-10-13T13:47:31Z",
-      "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "published_at": "2026-10-18T21:01:54Z",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25801929?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 794,
-      "user": "Zfinix"
-    },
-    {
-      "title": "solana-classic/solana-classic - Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
-      "url": "https://github.com/solana-classic/solana-classic",
-      "published_at": "2026-10-13T19:35:48Z",
-      "description": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/277901045?v=4",
-      "source": "GitHub",
-      "stars": 593,
-      "user": "solana-classic"
+      "stars": 285,
+      "user": "finereli"
     },
     {
       "title": "reason-machines/reason-network - Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
@@ -3584,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 496,
+      "stars": 502,
       "user": "reason-machines"
     },
     {
@@ -3599,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7587245?v=4",
       "source": "GitHub",
-      "stars": 460,
+      "stars": 476,
       "user": "kitlangton"
     },
     {
@@ -3614,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68419756?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 416,
       "user": "longbridge"
     },
     {
@@ -3629,8 +3552,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "Graphicle-AI"
+    },
+    {
+      "title": "VallierDev/uu-remote-linux - 非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
+      "url": "https://github.com/VallierDev/uu-remote-linux",
+      "published_at": "2026-10-14T15:53:43Z",
+      "description": "非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
+      "source": "GitHub",
+      "stars": 307,
+      "user": "VallierDev"
     },
     {
       "title": "Updates to site guidelines and AI/LLM tags",
