@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
-      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
-      "published_at": "2026-10-19T13:00:00Z",
-      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
-      "tags": [
-        "flutter",
-        "ai",
-        "webassembly",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
       "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
       "published_at": "2026-10-19T20:07:12Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60n0ma7t182ia9mtt5o9.png",
       "source": "Dev.to",
       "user": "Jem"
+    },
+    {
+      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
+      "published_at": "2026-10-19T13:00:00Z",
+      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
+      "tags": [
+        "flutter",
+        "ai",
+        "webassembly",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
     },
     {
       "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
@@ -151,21 +151,6 @@
       "user": "Kara Silverman"
     },
     {
-      "title": "What I Actually Learn When I Build With AI",
-      "url": "https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074",
-      "published_at": "2026-10-16T01:06:09Z",
-      "description": "I've spent entire nights building something with AI, gotten a bunch of features working, and then...",
-      "tags": [
-        "ai",
-        "programming",
-        "learning",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2atagf3xnyj2fwx6qtho.png",
-      "source": "Dev.to",
-      "user": "Jessica Doering"
-    },
-    {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
       "url": "https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4",
       "published_at": "2026-10-13T00:57:26Z",
@@ -239,6 +224,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv54kayiyyr8z39ddeml.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
+    },
+    {
+      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
+      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
+      "published_at": "2026-10-14T19:53:12Z",
+      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 1027,
       "user": "alchaincyf"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 238,
       "user": "Leonxlnx"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1558,
+      "stars": 1665,
       "user": "Leonxlnx"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1043,
       "user": "aicodeking"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2461,
+      "stars": 2482,
       "user": "feder-cr"
     },
     {
@@ -882,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 173,
       "user": "caveman-ai"
     },
     {
@@ -897,7 +897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1815,
+      "stars": 1828,
       "user": "chenglou"
     },
     {
@@ -912,7 +912,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 292,
       "user": "finereli"
     },
     {
@@ -927,7 +927,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "Graphicle-AI"
     },
     {
@@ -942,6 +942,32 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "355E3B"
+    },
+    {
+      "title": "Do web components have a future if nobody is writing them?",
+      "url": "https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/",
+      "published_at": "2026-10-19T19:41:18.925-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai-tooling",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nolan"
+    },
+    {
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "url": "https://github.com/golang/go/commit/90617fb7ceb59cf08bee7826bb51b8c8fb8c11de",
+      "published_at": "2026-10-19T22:10:23.194-05:00",
+      "description": "I downloaded the CA cert data from https://www.ccadb.org/resources and it seems to be affecting 16 certs, all from eMudhra.\r\nI complied the list here https://gist.github.com/mendymm/ff7a9fd00339260b4d2dbdcb0f489b57",
+      "tags": [
+        "go",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mendy"
     },
     {
       "title": "How to investigate a silent os.rename() failure in python? Samba is involved",
@@ -984,6 +1010,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
+    },
+    {
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "published_at": "2026-10-20T07:01:00.000Z",
+      "description": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "tags": [
+        "Enterprise",
+        "Security",
+        "Fundraising",
+        "Exclusive",
+        "Blackwall"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
     },
     {
       "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
@@ -1105,22 +1147,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "published_at": "2026-10-19T18:37:27.000Z",
-      "description": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Venture",
-        "In Brief",
-        "Tenstorrent"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "How to Detect Operational Drift Before It Becomes an Incident",
@@ -1360,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 1027,
       "user": "alchaincyf"
     },
     {
@@ -1375,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 696,
       "user": "humblemuzzu"
     },
     {
@@ -1390,23 +1416,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 503,
       "user": "showheyohtaki"
-    },
-    {
-      "title": "Leonxlnx/athenaion - A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
-      "url": "https://github.com/Leonxlnx/athenaion",
-      "published_at": "2026-10-17T22:42:57Z",
-      "description": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
-      "source": "GitHub",
-      "stars": 217,
-      "user": "Leonxlnx"
     },
     {
       "title": "ip-please/ip-please.github.io - GitHub Repository",
@@ -1420,8 +1431,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 238,
       "user": "ip-please"
+    },
+    {
+      "title": "Leonxlnx/athenaion - A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "published_at": "2026-10-17T22:42:57Z",
+      "description": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "source": "GitHub",
+      "stars": 238,
+      "user": "Leonxlnx"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -1435,7 +1461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1815,
+      "stars": 1828,
       "user": "chenglou"
     },
     {
@@ -1450,23 +1476,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1269,
       "user": "Caho1"
-    },
-    {
-      "title": "pro-vi/cc-stretch - Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
-      "url": "https://github.com/pro-vi/cc-stretch",
-      "published_at": "2026-10-14T22:03:26Z",
-      "description": "Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9211198?v=4",
-      "source": "GitHub",
-      "stars": 392,
-      "user": "pro-vi"
     },
     {
       "title": "VictorTaelin/uniichat - GitHub Repository",
@@ -1480,8 +1491,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 394,
       "user": "VictorTaelin"
+    },
+    {
+      "title": "pro-vi/cc-stretch - Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
+      "url": "https://github.com/pro-vi/cc-stretch",
+      "published_at": "2026-10-14T22:03:26Z",
+      "description": "Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9211198?v=4",
+      "source": "GitHub",
+      "stars": 393,
+      "user": "pro-vi"
     },
     {
       "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
@@ -1495,26 +1521,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 292,
       "user": "finereli"
-    },
-    {
-      "title": "Beginning of the Ende (a community Deno fork)",
-      "url": "https://blog.webb.page/WM-105",
-      "published_at": "2026-10-19T03:13:12.526-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hongminhee"
     },
     {
       "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
       "url": "https://stackoverflow.com/questions/80011164/counting-unique-visitors-on-a-redirect-link-when-the-same-person-opens-it-on-mul",
       "published_at": "2026-10-19T18:55:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "best-practices",
         "javascript",
@@ -1568,18 +1582,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Umesh Patil"
-    },
-    {
-      "title": "Convert DD-MM-YYYY to YYYY-MM-DD format using Javascript",
-      "url": "https://stackoverflow.com/questions/27087128/convert-dd-mm-yyyy-to-yyyy-mm-dd-format-using-javascript",
-      "published_at": "2014-11-23T08:46:23.000Z",
-      "description": "Stack Overflow question · 6 answers · score 23",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "KT1"
     },
     {
       "title": "Is the same anonimous variable calculated twice",
@@ -1655,6 +1657,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Norayr Ghukasyan"
+    },
+    {
+      "title": "How to enable functionality paste table in quill editor",
+      "url": "https://stackoverflow.com/questions/59628244/how-to-enable-functionality-paste-table-in-quill-editor",
+      "published_at": "2020-01-07T12:14:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "editor",
+        "quill"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rahul Jain"
     },
     {
       "title": "How to Detect Operational Drift Before It Becomes an Incident",
@@ -1882,23 +1898,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1558,
+      "stars": 1665,
       "user": "Leonxlnx"
-    },
-    {
-      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "url": "https://github.com/aicodeking/leanrea",
-      "published_at": "2026-10-17T02:53:24Z",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
-      "source": "GitHub",
-      "stars": 998,
-      "user": "aicodeking"
     },
     {
       "title": "xiaoyang111222/cn-math-taxonomy - 中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
@@ -1912,23 +1913,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 1220,
       "user": "xiaoyang111222"
-    },
-    {
-      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-      "published_at": "2026-10-15T13:06:56Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
-      "source": "GitHub",
-      "stars": 976,
-      "user": "Tencent-Hunyuan"
     },
     {
       "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
@@ -1942,8 +1928,51 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 1054,
       "user": "OpenMOSS"
+    },
+    {
+      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "url": "https://github.com/aicodeking/leanrea",
+      "published_at": "2026-10-17T02:53:24Z",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
+      "source": "GitHub",
+      "stars": 1043,
+      "user": "aicodeking"
+    },
+    {
+      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+      "published_at": "2026-10-15T13:06:56Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
+      "source": "GitHub",
+      "stars": 1007,
+      "user": "Tencent-Hunyuan"
+    },
+    {
+      "title": "Draw letters in python console given x y coordinates and characters",
+      "url": "https://stackoverflow.com/questions/80011231/draw-letters-in-python-console-given-x-y-coordinates-and-characters",
+      "published_at": "2026-10-20T04:37:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "console"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "TitanJamison"
     },
     {
       "title": "TypeError: ‘str’ object cannot be interpreted as an integer” error.\"",
@@ -2057,22 +2086,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "KenL"
-    },
-    {
-      "title": "How do I compute operating thresholds for FAR=0% when evaluating biometric match scores in Python/MATLAB?",
-      "url": "https://stackoverflow.com/questions/80010900/how-do-i-compute-operating-thresholds-for-far-0-when-evaluating-biometric-match",
-      "published_at": "2026-10-18T14:37:52.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python",
-        "numpy",
-        "computer-vision",
-        "biometrics",
-        "pattern-recognition"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Idrab"
     },
     {
       "title": "Python can't find function from imported module - first time creating an __init__.py file",
@@ -2454,22 +2467,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68419756?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 451,
       "user": "longbridge"
     },
     {
-      "title": "Tor VPN Beta: What we've learned building our own VPN for Android from scratch",
-      "url": "https://blog.torproject.org/tor-vpn-beta/",
-      "published_at": "2026-10-19T03:27:55.648-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "c22dev/mush8 - A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
+      "url": "https://github.com/c22dev/mush8",
+      "published_at": "2026-10-16T16:56:14Z",
+      "description": "A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
       "tags": [
-        "android",
-        "networking",
-        "security"
+        "rust",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "confusedalex"
+      "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
+      "source": "GitHub",
+      "stars": 366,
+      "user": "c22dev"
     },
     {
       "title": "Why does my lyrics lookup return no results for songs that exist in the database?",
@@ -2580,6 +2594,21 @@
       "user": "Karthigayan Devan"
     },
     {
+      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
+      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
+      "published_at": "2026-10-14T19:53:12Z",
+      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Verifying Google Cloud egress IP ranges with cloud.json and jq",
       "url": "https://dev.to/googlecloud/verifying-google-cloud-egress-ip-ranges-with-cloudjson-and-jq-212o",
       "published_at": "2026-10-13T13:03:00Z",
@@ -2604,14 +2633,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 292,
       "user": "finereli"
     },
     {
       "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
       "url": "https://stackoverflow.com/questions/80011164/counting-unique-visitors-on-a-redirect-link-when-the-same-person-opens-it-on-mul",
       "published_at": "2026-10-19T18:55:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "best-practices",
         "javascript",
@@ -2963,18 +2992,33 @@
       "user": "ewenjo"
     },
     {
-      "title": "Tor VPN Beta: What we've learned building our own VPN for Android from scratch",
-      "url": "https://blog.torproject.org/tor-vpn-beta/",
-      "published_at": "2026-10-19T03:27:55.648-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "url": "https://github.com/golang/go/commit/90617fb7ceb59cf08bee7826bb51b8c8fb8c11de",
+      "published_at": "2026-10-19T22:10:23.194-05:00",
+      "description": "I downloaded the CA cert data from https://www.ccadb.org/resources and it seems to be affecting 16 certs, all from eMudhra.\r\nI complied the list here https://gist.github.com/mendymm/ff7a9fd00339260b4d2dbdcb0f489b57",
       "tags": [
-        "android",
-        "networking",
+        "go",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "confusedalex"
+      "user": "mendy"
+    },
+    {
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "published_at": "2026-10-20T07:01:00.000Z",
+      "description": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "tags": [
+        "Enterprise",
+        "Security",
+        "Fundraising",
+        "Exclusive",
+        "Blackwall"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
     },
     {
       "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
@@ -3011,21 +3055,6 @@
   ],
   "Tools": [
     {
-      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
-      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
-      "published_at": "2026-10-19T13:00:00Z",
-      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
-      "tags": [
-        "flutter",
-        "ai",
-        "webassembly",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
       "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
       "published_at": "2026-10-19T20:07:12Z",
@@ -3039,6 +3068,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60n0ma7t182ia9mtt5o9.png",
       "source": "Dev.to",
       "user": "Jem"
+    },
+    {
+      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
+      "published_at": "2026-10-19T13:00:00Z",
+      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
+      "tags": [
+        "flutter",
+        "ai",
+        "webassembly",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
     },
     {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
@@ -3207,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 945,
+      "stars": 1027,
       "user": "alchaincyf"
     },
     {
@@ -3222,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 696,
       "user": "humblemuzzu"
     },
     {
@@ -3237,23 +3281,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 503,
       "user": "showheyohtaki"
-    },
-    {
-      "title": "Leonxlnx/athenaion - A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
-      "url": "https://github.com/Leonxlnx/athenaion",
-      "published_at": "2026-10-17T22:42:57Z",
-      "description": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
-      "source": "GitHub",
-      "stars": 217,
-      "user": "Leonxlnx"
     },
     {
       "title": "ip-please/ip-please.github.io - GitHub Repository",
@@ -3267,8 +3296,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 238,
       "user": "ip-please"
+    },
+    {
+      "title": "Leonxlnx/athenaion - A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "published_at": "2026-10-17T22:42:57Z",
+      "description": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "source": "GitHub",
+      "stars": 238,
+      "user": "Leonxlnx"
     },
     {
       "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
@@ -3282,23 +3326,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1558,
+      "stars": 1665,
       "user": "Leonxlnx"
-    },
-    {
-      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "url": "https://github.com/aicodeking/leanrea",
-      "published_at": "2026-10-17T02:53:24Z",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
-      "source": "GitHub",
-      "stars": 998,
-      "user": "aicodeking"
     },
     {
       "title": "xiaoyang111222/cn-math-taxonomy - 中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
@@ -3312,23 +3341,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 1220,
       "user": "xiaoyang111222"
-    },
-    {
-      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-      "published_at": "2026-10-15T13:06:56Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
-      "source": "GitHub",
-      "stars": 976,
-      "user": "Tencent-Hunyuan"
     },
     {
       "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
@@ -3342,8 +3356,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 1054,
       "user": "OpenMOSS"
+    },
+    {
+      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "url": "https://github.com/aicodeking/leanrea",
+      "published_at": "2026-10-17T02:53:24Z",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
+      "source": "GitHub",
+      "stars": 1043,
+      "user": "aicodeking"
+    },
+    {
+      "title": "Tencent-Hunyuan/Hy-Memory - GitHub Repository",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+      "published_at": "2026-10-15T13:06:56Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/210980732?v=4",
+      "source": "GitHub",
+      "stars": 1007,
+      "user": "Tencent-Hunyuan"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -3357,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 2461,
+      "stars": 2482,
       "user": "feder-cr"
     },
     {
@@ -3372,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 173,
       "user": "caveman-ai"
     },
     {
@@ -3387,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 153,
       "user": "Binaryify"
     },
     {
@@ -3406,19 +3450,19 @@
       "user": "Haryy985"
     },
     {
-      "title": "mu-zi-lee/Tangentry - 沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
-      "url": "https://github.com/mu-zi-lee/Tangentry",
-      "published_at": "2026-10-17T05:17:17Z",
-      "description": "沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
+      "title": "Ernket/CodeScan-Artex - 二开artex的代码审计平台 | 新增本地反编译java依赖库 | 多账号管理",
+      "url": "https://github.com/Ernket/CodeScan-Artex",
+      "published_at": "2026-10-14T15:35:51Z",
+      "description": "二开artex的代码审计平台 | 新增本地反编译java依赖库 | 多账号管理",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75201518?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/35891165?v=4",
       "source": "GitHub",
-      "stars": 114,
-      "user": "mu-zi-lee"
+      "stars": 118,
+      "user": "Ernket"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -3432,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1815,
+      "stars": 1828,
       "user": "chenglou"
     },
     {
@@ -3447,23 +3491,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1269,
       "user": "Caho1"
-    },
-    {
-      "title": "pro-vi/cc-stretch - Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
-      "url": "https://github.com/pro-vi/cc-stretch",
-      "published_at": "2026-10-14T22:03:26Z",
-      "description": "Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9211198?v=4",
-      "source": "GitHub",
-      "stars": 392,
-      "user": "pro-vi"
     },
     {
       "title": "VictorTaelin/uniichat - GitHub Repository",
@@ -3477,8 +3506,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 394,
       "user": "VictorTaelin"
+    },
+    {
+      "title": "pro-vi/cc-stretch - Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
+      "url": "https://github.com/pro-vi/cc-stretch",
+      "published_at": "2026-10-14T22:03:26Z",
+      "description": "Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9211198?v=4",
+      "source": "GitHub",
+      "stars": 393,
+      "user": "pro-vi"
     },
     {
       "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
@@ -3492,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 292,
       "user": "finereli"
     },
     {
@@ -3507,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 502,
+      "stars": 514,
       "user": "reason-machines"
     },
     {
@@ -3522,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7587245?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 501,
       "user": "kitlangton"
     },
     {
@@ -3537,8 +3581,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68419756?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 451,
       "user": "longbridge"
+    },
+    {
+      "title": "c22dev/mush8 - A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
+      "url": "https://github.com/c22dev/mush8",
+      "published_at": "2026-10-16T16:56:14Z",
+      "description": "A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
+      "source": "GitHub",
+      "stars": 366,
+      "user": "c22dev"
     },
     {
       "title": "Graphicle-AI/graphicle - Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
@@ -3552,23 +3611,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/335567008?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 325,
       "user": "Graphicle-AI"
-    },
-    {
-      "title": "VallierDev/uu-remote-linux - 非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
-      "url": "https://github.com/VallierDev/uu-remote-linux",
-      "published_at": "2026-10-14T15:53:43Z",
-      "description": "非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/24893073?v=4",
-      "source": "GitHub",
-      "stars": 307,
-      "user": "VallierDev"
     },
     {
       "title": "Updates to site guidelines and AI/LLM tags",
@@ -3582,6 +3626,48 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "355E3B"
+    },
+    {
+      "title": "Do web components have a future if nobody is writing them?",
+      "url": "https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/",
+      "published_at": "2026-10-19T19:41:18.925-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai-tooling",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nolan"
+    },
+    {
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "url": "https://github.com/golang/go/commit/90617fb7ceb59cf08bee7826bb51b8c8fb8c11de",
+      "published_at": "2026-10-19T22:10:23.194-05:00",
+      "description": "I downloaded the CA cert data from https://www.ccadb.org/resources and it seems to be affecting 16 certs, all from eMudhra.\r\nI complied the list here https://gist.github.com/mendymm/ff7a9fd00339260b4d2dbdcb0f489b57",
+      "tags": [
+        "go",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mendy"
+    },
+    {
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "published_at": "2026-10-20T07:01:00.000Z",
+      "description": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "tags": [
+        "Enterprise",
+        "Security",
+        "Fundraising",
+        "Exclusive",
+        "Blackwall"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
     },
     {
       "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
