@@ -136,21 +136,6 @@
       "user": "xbill"
     },
     {
-      "title": "Your AI Agent Just Got a Passport: Agent Identity on Google Cloud and the Redeploy Trap Nobody Talks About",
-      "url": "https://dev.to/gde/your-ai-agent-just-got-a-passport-agent-identity-on-google-cloud-and-the-redeploy-trap-nobody-52ip",
-      "published_at": "2026-10-15T11:45:55Z",
-      "description": "Why your agents need their own identity   Most teams run every AI agent under one shared...",
-      "tags": [
-        "ai",
-        "discuss",
-        "agents",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuvxnpt75nzzsgaj4nb5i.png",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
-    },
-    {
       "title": "For Agents, Waiting is the Hardest Part",
       "url": "https://dev.to/dailycontext/for-agents-waiting-is-the-hardest-part-30ik",
       "published_at": "2026-10-14T12:03:52Z",
@@ -404,21 +389,6 @@
       "user": "Jem"
     },
     {
-      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
-      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
-      "published_at": "2026-10-16T16:43:29Z",
-      "description": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Google Cloud.",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcloudguard-gemma-agent%2Fmain%2Fassets%2Farticle_cover_cloudguard_gemma.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform",
       "url": "https://dev.to/gde/from-vibe-coded-to-trusted-one-agent-through-build-scale-govern-and-optimize-on-gemini-4np1",
       "published_at": "2026-10-16T20:34:07Z",
@@ -614,6 +584,36 @@
       "user": "Manish Kapur"
     },
     {
+      "title": "Kepler's Vinoo Ganesh on Building AI You Can Trust",
+      "url": "https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f",
+      "published_at": "2026-10-12T21:04:02Z",
+      "description": "Vinoo Ganesh is the CEO of Kepler, which builds AI for industries where accuracy matters, starting...",
+      "tags": [
+        "ai",
+        "finance",
+        "aie",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faw97cf53e0ffp40owy5z.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
+      "title": "Inaugural AI Engineer NYC Hackathon Kicks Off Conference Week With 50+ Projects",
+      "url": "https://dev.to/dailycontext/inaugural-ai-engineer-nyc-hackathon-kicks-off-conference-week-with-50-projects-59g",
+      "published_at": "2026-10-12T20:56:49Z",
+      "description": "Apartment hunters, accessibility tools and debugging agents top a 12-hour build day in Manhattan  By...",
+      "tags": [
+        "ai",
+        "agents",
+        "hackathon",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnyohqwxl5bz6rnk85b8s.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1180,
+      "stars": 1215,
       "user": "alchaincyf"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 262,
       "user": "Leonxlnx"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 14404,
+      "stars": 16241,
       "user": "deepseek-ai"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1984,
+      "stars": 2020,
       "user": "Leonxlnx"
     },
     {
@@ -853,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1190,
+      "stars": 1221,
       "user": "aicodeking"
     },
     {
@@ -868,23 +868,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 905,
       "user": "feder-cr"
-    },
-    {
-      "title": "azrielnan/artex-ko-main - GitHub Repository",
-      "url": "https://github.com/azrielnan/artex-ko-main",
-      "published_at": "2026-10-15T01:11:51Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222944587?v=4",
-      "source": "GitHub",
-      "stars": 113,
-      "user": "azrielnan"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -898,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1865,
       "user": "chenglou"
     },
     {
@@ -913,21 +898,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 364,
       "user": "zgsfsec"
-    },
-    {
-      "title": "Updates to site guidelines and AI/LLM tags",
-      "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
-      "published_at": "2026-10-18T20:28:53.196-05:00",
-      "description": "Hey folks,  \r\n\r\nI've been having to perform an increasing number of [moderation actions](https://lobste.rs/moderations?moderator=355E3B) surrounding the `vibecoding` tag and AI/LLM related content. I started reading Lobsters because it had the most interesting viewpoints related to computing. During that time, I've found that this community is at it's best when it's trying to, in good faith, help others grow. In lieu of a larger and more rambling discussion on this point, we would like to try two changes encourage that behavior again and re-focus topicality around ensuring that content submitted to the site should, at a minimum, be respectful of a reader's time and intelligence.   \r\n\r\nThe first adjustment is two updates to the about page, which try to provide a bit more clarity in what we consider topical and what constitutes self promotion:  \r\n\r\nIntro:  \r\n\r\n> Lobsters is a computing-focused community centered around discussing links. Our goal is to learn, craft, collaborate, and share interesting viewpoints.\r\n> \r\n> The administrator is [Peter Bhat Harkins](https://lobste.rs/~pushcx) (\"pushcx\"), contact him or [another moderator](https://lobste.rs/moderators) with any support issues. Lobsters was launched on July 3rd, 2012 by [joshua stein](https://lobste.rs/~jcs) (who is no longer running it, so please quit bugging him with site stuff) with careful design touches to encourage a healthy community:  \r\n\r\nAt this risk of writing a mission statement, it seemed worth explaining what the site is and hopes to be to visitors from the first sentence of /about. (This original text came from [an intro post](https://lobste.rs/s/bkeYe9/about_lobsters).)  \r\n\r\nThen the Guidelines:  \r\n\r\n> _Topicality:_ Lobsters is focused pretty narrowly on computing; tags like art don't imply every piece of art is on-topic.  Some rules of thumb for great stories to submit: Will this improve the reader's next program? Will it deepen their understanding of their last program? Will it be more interesting in five or ten years? Is this compelling material that will seed a discussion, or is it just an artifact?\r\n\r\nPending an upcoming deploy, we no longer allow submissions which are code repositories. While, at first blush, this may seem odd for a community which is primarily centered around programming but it does eliminate the bulk of the \"low effort, self promotional\" submissions we've been seeing on the site. We've also found that being dropped into a new codebase doesn't start discussions because the reader has to have enough subject matter experience to immediately recognize what's novel or otherwise worth talking about. Instead, we are more interested in content around code bases which cover why it was created, the purpose it serves, the challenges overcome, and the reasons why it's a useful artifact in the ecosystem.  \r\n\r\n> Some things that are off-topic here but popular on larger, similar sites: entrepreneurship; management; careers; news about companies that employ a lot of programmers; investing; world events; anthropology; self-help; personal productivity systems; last-resort customer service requests via public shaming; \"I wanted to see what this site's amazing users think about this off-topic thing\"; and defining the single morally correct economic and political system for the entire world when we can't even settle tabs vs. spaces.\r\n\r\nWe're listing \"careers\" as off-topic to try to head off posts about interviewing, promotions, burnout, and [farming](https://www.theatlantic.com/magazine/archive/1981/07/flying-upside-down/306467/#:~:text=Back%20at,season%2E%22). We have the [job](https://lobste.rs/t/job) tag because it's nice to help people connect to jobs, but the topic of getting a good job, weaving jobs into a career over your lifetime, and work is a different thing than the actual programming itself.  \r\n\r\n> _Self-promotion:_ It's great to have authors participate in the community, but we do not want the community to be exploited as a write-only tool for product announcements or driving traffic to their work. As a rule of thumb, self-promotional activity should be less than a quarter of one's stories and comments in the last year. New users ([first 70 days](https://lobste.rs/about#:~:text=%22new%22%20for%20their%20first%2070%20days)) are not allowed to submit self-promo.  \r\n\r\nThis is how we've been enforcing the rule for a while, better to be explicit. It's unfortunately common that authors see their work posted, join the site, but then only use us for traffic. Hopefully this time helps them understand the difference between a symbiotic and parasitic relationship.  \r\n\r\nThe second adjustment is that the `vibecoding` tag is now marked as inactive. It still appears on old stories but can't be applied to new ones. From my perspective, the tag was overloaded with six differing responsibilities:  \r\n\r\n*   First, it was the tag which was trying to capture the discussions related to the use and implementation of AI/LLM tools.  \r\n    \r\n*   Second, it was a marker for content which is partially related to AI/LLM tools, tooling or companies.  \r\n    \r\n*   Third, it was a marker for content which includes a discussion on or output from AI/LLM tools in a part of a larger work.  \r\n    \r\n*   Fourth, it was a marker for content which was generated using AI/LLM tools.  \r\n    \r\n*   Fifth, it was being used in competition to the `spam` flag, for really low-quality content which was generated via AI/LLM tools but without apparent significant human authorship.\r\n*   Sixth, it was being used as a [tag of shame](https://lobste.rs/c/tz2qdt) by people who really dislike AI/LLM tools and used it to insult people at every passing mention.  \r\n    \r\nThe last couple years have been the biggest upheaval in the field for decades. While it's acceptable, within limits, to express frustration towards circumstance or technology, it's not acceptable to direct that behavior towards individuals whether they be members of the community or not. Other people can't be your punching bags and Lobsters can't be your boxing ring. [That's not acceptable](https://lobste.rs/s/ktew3s/who_does_anubis_actually_stop#c_81gsc5).  \r\n\r\nWhile \\`vibecoding\\` is no longer an active tag, we still feel that a subset of the tooling related discussions are relevant to the site. While this is reaching far back into the annals of computing history, tools like [compilers](https://lobste.rs/t/compilers), [databases](https://lobste.rs/t/databases), [testing](https://lobste.rs/t/testing), and [vcs](https://lobste.rs/t/vcs) had similar points of consternation and concern when they were introduced. I'm not going to claim that I'm able to guess how the industry is going to shape up, but my gut feeling is that but my gut feeling is that it's going to be closer to something like we've seen with [systemd](https://lobste.rs/s/a2ccah/can_we_have_systemd_tag) than compilers. This new tag \\`ai-tooling\\` covers \"The design, ux, development of AI/LLM-powered tools themselves\".  \r\n\r\nAs a fun addendum, there's a variant of Maslow’s Hierarchy of Needs which exist for websites, we kinda fell on the wrong side of that trying to migrate the site and get this out on a Saturday. Whoops!\r\n\r\nThanks,\r\n355E3B",
-      "tags": [
-        "announce",
-        "meta"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "355E3B"
     },
     {
       "title": "NixOS is making me less afraid",
@@ -942,20 +914,17 @@
       "user": "LolPython"
     },
     {
-      "title": "Zebra_DatePicker popup position breaks when input is inside `position: sticky` container",
-      "url": "https://stackoverflow.com/questions/79862082/zebra-datepicker-popup-position-breaks-when-input-is-inside-position-sticky-c",
-      "published_at": "2026-01-07T04:10:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Updates to site guidelines and AI/LLM tags",
+      "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
+      "published_at": "2026-10-18T20:28:53.196-05:00",
+      "description": "Hey folks,  \r\n\r\nI've been having to perform an increasing number of [moderation actions](https://lobste.rs/moderations?moderator=355E3B) surrounding the `vibecoding` tag and AI/LLM related content. I started reading Lobsters because it had the most interesting viewpoints related to computing. During that time, I've found that this community is at it's best when it's trying to, in good faith, help others grow. In lieu of a larger and more rambling discussion on this point, we would like to try two changes encourage that behavior again and re-focus topicality around ensuring that content submitted to the site should, at a minimum, be respectful of a reader's time and intelligence.   \r\n\r\nThe first adjustment is two updates to the about page, which try to provide a bit more clarity in what we consider topical and what constitutes self promotion:  \r\n\r\nIntro:  \r\n\r\n> Lobsters is a computing-focused community centered around discussing links. Our goal is to learn, craft, collaborate, and share interesting viewpoints.\r\n> \r\n> The administrator is [Peter Bhat Harkins](https://lobste.rs/~pushcx) (\"pushcx\"), contact him or [another moderator](https://lobste.rs/moderators) with any support issues. Lobsters was launched on July 3rd, 2012 by [joshua stein](https://lobste.rs/~jcs) (who is no longer running it, so please quit bugging him with site stuff) with careful design touches to encourage a healthy community:  \r\n\r\nAt this risk of writing a mission statement, it seemed worth explaining what the site is and hopes to be to visitors from the first sentence of /about. (This original text came from [an intro post](https://lobste.rs/s/bkeYe9/about_lobsters).)  \r\n\r\nThen the Guidelines:  \r\n\r\n> _Topicality:_ Lobsters is focused pretty narrowly on computing; tags like art don't imply every piece of art is on-topic.  Some rules of thumb for great stories to submit: Will this improve the reader's next program? Will it deepen their understanding of their last program? Will it be more interesting in five or ten years? Is this compelling material that will seed a discussion, or is it just an artifact?\r\n\r\nPending an upcoming deploy, we no longer allow submissions which are code repositories. While, at first blush, this may seem odd for a community which is primarily centered around programming but it does eliminate the bulk of the \"low effort, self promotional\" submissions we've been seeing on the site. We've also found that being dropped into a new codebase doesn't start discussions because the reader has to have enough subject matter experience to immediately recognize what's novel or otherwise worth talking about. Instead, we are more interested in content around code bases which cover why it was created, the purpose it serves, the challenges overcome, and the reasons why it's a useful artifact in the ecosystem.  \r\n\r\n> Some things that are off-topic here but popular on larger, similar sites: entrepreneurship; management; careers; news about companies that employ a lot of programmers; investing; world events; anthropology; self-help; personal productivity systems; last-resort customer service requests via public shaming; \"I wanted to see what this site's amazing users think about this off-topic thing\"; and defining the single morally correct economic and political system for the entire world when we can't even settle tabs vs. spaces.\r\n\r\nWe're listing \"careers\" as off-topic to try to head off posts about interviewing, promotions, burnout, and [farming](https://www.theatlantic.com/magazine/archive/1981/07/flying-upside-down/306467/#:~:text=Back%20at,season%2E%22). We have the [job](https://lobste.rs/t/job) tag because it's nice to help people connect to jobs, but the topic of getting a good job, weaving jobs into a career over your lifetime, and work is a different thing than the actual programming itself.  \r\n\r\n> _Self-promotion:_ It's great to have authors participate in the community, but we do not want the community to be exploited as a write-only tool for product announcements or driving traffic to their work. As a rule of thumb, self-promotional activity should be less than a quarter of one's stories and comments in the last year. New users ([first 70 days](https://lobste.rs/about#:~:text=%22new%22%20for%20their%20first%2070%20days)) are not allowed to submit self-promo.  \r\n\r\nThis is how we've been enforcing the rule for a while, better to be explicit. It's unfortunately common that authors see their work posted, join the site, but then only use us for traffic. Hopefully this time helps them understand the difference between a symbiotic and parasitic relationship.  \r\n\r\nThe second adjustment is that the `vibecoding` tag is now marked as inactive. It still appears on old stories but can't be applied to new ones. From my perspective, the tag was overloaded with six differing responsibilities:  \r\n\r\n*   First, it was the tag which was trying to capture the discussions related to the use and implementation of AI/LLM tools.  \r\n    \r\n*   Second, it was a marker for content which is partially related to AI/LLM tools, tooling or companies.  \r\n    \r\n*   Third, it was a marker for content which includes a discussion on or output from AI/LLM tools in a part of a larger work.  \r\n    \r\n*   Fourth, it was a marker for content which was generated using AI/LLM tools.  \r\n    \r\n*   Fifth, it was being used in competition to the `spam` flag, for really low-quality content which was generated via AI/LLM tools but without apparent significant human authorship.\r\n*   Sixth, it was being used as a [tag of shame](https://lobste.rs/c/tz2qdt) by people who really dislike AI/LLM tools and used it to insult people at every passing mention.  \r\n    \r\nThe last couple years have been the biggest upheaval in the field for decades. While it's acceptable, within limits, to express frustration towards circumstance or technology, it's not acceptable to direct that behavior towards individuals whether they be members of the community or not. Other people can't be your punching bags and Lobsters can't be your boxing ring. [That's not acceptable](https://lobste.rs/s/ktew3s/who_does_anubis_actually_stop#c_81gsc5).  \r\n\r\nWhile \\`vibecoding\\` is no longer an active tag, we still feel that a subset of the tooling related discussions are relevant to the site. While this is reaching far back into the annals of computing history, tools like [compilers](https://lobste.rs/t/compilers), [databases](https://lobste.rs/t/databases), [testing](https://lobste.rs/t/testing), and [vcs](https://lobste.rs/t/vcs) had similar points of consternation and concern when they were introduced. I'm not going to claim that I'm able to guess how the industry is going to shape up, but my gut feeling is that but my gut feeling is that it's going to be closer to something like we've seen with [systemd](https://lobste.rs/s/a2ccah/can_we_have_systemd_tag) than compilers. This new tag \\`ai-tooling\\` covers \"The design, ux, development of AI/LLM-powered tools themselves\".  \r\n\r\nAs a fun addendum, there's a variant of Maslow’s Hierarchy of Needs which exist for websites, we kinda fell on the wrong side of that trying to migrate the site and get this out on a Saturday. Whoops!\r\n\r\nThanks,\r\n355E3B",
       "tags": [
-        "javascript",
-        "html",
-        "jquery",
-        "css",
-        "datepicker"
+        "announce",
+        "meta"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JarMoo"
+      "source": "Lobste.rs",
+      "user": "355E3B"
     },
     {
       "title": "How to reduce dataframe with nan values maintaining consecutive values in columns",
@@ -986,29 +955,13 @@
       "user": "MKaama"
     },
     {
-      "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
-      "url": "https://stackoverflow.com/questions/80011058/typeerror-mailmixin-connect-missing-1-required-positional-argument-self",
-      "published_at": "2026-10-19T11:44:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "flask",
-        "flask-mail"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
-    },
-    {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "published_at": "2026-10-20T23:01:23.000Z",
-      "description": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "tags": [
         "AI",
-        "TC",
-        "Anthropic",
-        "policy"
+        "Anthropic"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1018,10 +971,10 @@
       "title": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t accurate",
       "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "published_at": "2026-10-20T22:24:02.000Z",
-      "description": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "description": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
       "tags": [
         "AI",
-        "TC",
+        "Clem Delangue",
         "Hugging Face",
         "Netflix"
       ],
@@ -1385,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1180,
+      "stars": 1215,
       "user": "alchaincyf"
     },
     {
@@ -1400,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 1021,
+      "stars": 1063,
       "user": "humblemuzzu"
     },
     {
@@ -1415,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 317,
       "user": "typecraft-dev"
     },
     {
@@ -1430,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 287,
       "user": "ip-please"
     },
     {
@@ -1445,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 262,
       "user": "Leonxlnx"
     },
     {
@@ -1460,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1865,
       "user": "chenglou"
     },
     {
@@ -1475,7 +1428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 641,
       "user": "stackedlol"
     },
     {
@@ -1490,7 +1443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 540,
       "user": "VictorTaelin"
     },
     {
@@ -1505,7 +1458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 364,
       "user": "zgsfsec"
     },
     {
@@ -1520,7 +1473,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 333,
       "user": "vercel-labs"
     },
     {
@@ -1537,10 +1490,26 @@
       "user": "atmosx"
     },
     {
+      "title": "Stop all sources from an array in Web Audio API",
+      "url": "https://stackoverflow.com/questions/80011523/stop-all-sources-from-an-array-in-web-audio-api",
+      "published_at": "2026-10-21T09:11:11.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "audio",
+        "html5-audio",
+        "web-audio-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "youkeow"
+    },
+    {
       "title": "How to get a value generator to produce a non-variable value I can still use in CSS?",
       "url": "https://stackoverflow.com/questions/80011460/how-to-get-a-value-generator-to-produce-a-non-variable-value-i-can-still-use-in",
       "published_at": "2026-10-21T02:21:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -1554,7 +1523,7 @@
       "title": "How to make it so several buttons change each others' image results in Javascript",
       "url": "https://stackoverflow.com/questions/80011446/how-to-make-it-so-several-buttons-change-each-others-image-results-in-javascrip",
       "published_at": "2026-10-20T23:06:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "html"
@@ -1567,7 +1536,7 @@
       "title": "How should I identify anonymous browser installations for a server-side leaderboard?",
       "url": "https://stackoverflow.com/questions/80011368/how-should-i-identify-anonymous-browser-installations-for-a-server-side-leaderbo",
       "published_at": "2026-10-20T16:15:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript"
       ],
@@ -1658,22 +1627,6 @@
       "user": "Mick Byrne"
     },
     {
-      "title": "Zebra_DatePicker popup position breaks when input is inside `position: sticky` container",
-      "url": "https://stackoverflow.com/questions/79862082/zebra-datepicker-popup-position-breaks-when-input-is-inside-position-sticky-c",
-      "published_at": "2026-01-07T04:10:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "jquery",
-        "css",
-        "datepicker"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JarMoo"
-    },
-    {
       "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
       "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/",
       "published_at": "2026-10-20T09:33:46.000Z",
@@ -1736,21 +1689,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
-      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
-      "published_at": "2026-10-16T16:43:29Z",
-      "description": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Google Cloud.",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcloudguard-gemma-agent%2Fmain%2Fassets%2Farticle_cover_cloudguard_gemma.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
     },
     {
       "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
@@ -1914,7 +1852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 14404,
+      "stars": 16241,
       "user": "deepseek-ai"
     },
     {
@@ -1929,7 +1867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1984,
+      "stars": 2020,
       "user": "Leonxlnx"
     },
     {
@@ -1944,7 +1882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1679,
+      "stars": 1811,
       "user": "xiaoyang111222"
     },
     {
@@ -1959,7 +1897,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1190,
+      "stars": 1221,
       "user": "aicodeking"
     },
     {
@@ -1974,8 +1912,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1183,
+      "stars": 1208,
       "user": "OpenMOSS"
+    },
+    {
+      "title": "How do I start object initialization without blocking program shutdown?",
+      "url": "https://stackoverflow.com/questions/80011495/how-do-i-start-object-initialization-without-blocking-program-shutdown",
+      "published_at": "2026-10-21T07:09:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "best-practices",
+        "python",
+        "asynchronous",
+        "concurrent.futures"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jorge Luis"
     },
     {
       "title": "Text preprocessing packages in addition to Mustache that are importable both into Python code and Ruby code",
@@ -1997,7 +1950,7 @@
       "title": "PyQt updating colors in Line Edit",
       "url": "https://stackoverflow.com/questions/80011448/pyqt-updating-colors-in-line-edit",
       "published_at": "2026-10-20T23:18:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "user-interface",
@@ -2022,6 +1975,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "damovandG"
+    },
+    {
+      "title": "TypeError: ‘str’ object cannot be interpreted as an integer” error.\"",
+      "url": "https://stackoverflow.com/questions/80011168/typeerror-str-object-cannot-be-interpreted-as-an-integer-error",
+      "published_at": "2026-10-19T19:21:17.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "IchoryDick"
     },
     {
       "title": "Alexa custom skill in nl-NL locale is never invoked (\"Ik weet niet zeker hoe ik je daarmee kan helpen\") while model builds successfully",
@@ -2078,18 +2043,6 @@
       "user": "MKaama"
     },
     {
-      "title": "TypeError: ‘str’ object cannot be interpreted as an integer” error.\"",
-      "url": "https://stackoverflow.com/questions/80011168/typeerror-str-object-cannot-be-interpreted-as-an-integer-error",
-      "published_at": "2026-10-19T19:21:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "IchoryDick"
-    },
-    {
       "title": "TypeError: 'DefaultMeta' object is not iterable",
       "url": "https://stackoverflow.com/questions/80011142/typeerror-defaultmeta-object-is-not-iterable",
       "published_at": "2026-10-19T17:10:57.000Z",
@@ -2098,20 +2051,6 @@
         "python",
         "flask",
         "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gh0st_dancing"
-    },
-    {
-      "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
-      "url": "https://stackoverflow.com/questions/80011058/typeerror-mailmixin-connect-missing-1-required-positional-argument-self",
-      "published_at": "2026-10-19T11:44:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "flask",
-        "flask-mail"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2359,14 +2298,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 333,
       "user": "vercel-labs"
+    },
+    {
+      "title": "Stop all sources from an array in Web Audio API",
+      "url": "https://stackoverflow.com/questions/80011523/stop-all-sources-from-an-array-in-web-audio-api",
+      "published_at": "2026-10-21T09:11:11.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "audio",
+        "html5-audio",
+        "web-audio-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "youkeow"
     },
     {
       "title": "How to get a value generator to produce a non-variable value I can still use in CSS?",
       "url": "https://stackoverflow.com/questions/80011460/how-to-get-a-value-generator-to-produce-a-non-variable-value-i-can-still-use-in",
       "published_at": "2026-10-21T02:21:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -2380,7 +2335,7 @@
       "title": "How to make it so several buttons change each others' image results in Javascript",
       "url": "https://stackoverflow.com/questions/80011446/how-to-make-it-so-several-buttons-change-each-others-image-results-in-javascrip",
       "published_at": "2026-10-20T23:06:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "html"
@@ -2404,22 +2359,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Brendha Tasca"
-    },
-    {
-      "title": "Zebra_DatePicker popup position breaks when input is inside `position: sticky` container",
-      "url": "https://stackoverflow.com/questions/79862082/zebra-datepicker-popup-position-breaks-when-input-is-inside-position-sticky-c",
-      "published_at": "2026-01-07T04:10:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "jquery",
-        "css",
-        "datepicker"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JarMoo"
     },
     {
       "title": "How to Make Your Coding Agent Check Its Work in the Browser",
@@ -2496,7 +2435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 522,
       "user": "c22dev"
     },
     {
@@ -2578,21 +2517,6 @@
       "user": "xbill"
     },
     {
-      "title": "Your AI Agent Just Got a Passport: Agent Identity on Google Cloud and the Redeploy Trap Nobody Talks About",
-      "url": "https://dev.to/gde/your-ai-agent-just-got-a-passport-agent-identity-on-google-cloud-and-the-redeploy-trap-nobody-52ip",
-      "published_at": "2026-10-15T11:45:55Z",
-      "description": "Why your agents need their own identity   Most teams run every AI agent under one shared...",
-      "tags": [
-        "ai",
-        "discuss",
-        "agents",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuvxnpt75nzzsgaj4nb5i.png",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
-    },
-    {
       "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
       "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
       "published_at": "2026-10-14T19:53:12Z",
@@ -2621,21 +2545,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fembedding-cloudrun%2Fmain%2Fdocs%2Farticles%2Fembeddinggemma-cloudrun%2Fdevto-cover.a2390bee.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
-      "url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
-      "published_at": "2026-10-16T16:43:29Z",
-      "description": "How I designed, connected, scaled, governed, evaluated, and QLoRA fine-tuned an enterprise SecOps & FinOps agent on Google Cloud.",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "python",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fcloudguard-gemma-agent%2Fmain%2Fassets%2Farticle_cover_cloudguard_gemma.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
     },
     {
       "title": "From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform",
@@ -2743,6 +2652,21 @@
       "user": "Mario Ezquerro"
     },
     {
+      "title": "Kepler's Vinoo Ganesh on Building AI You Can Trust",
+      "url": "https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f",
+      "published_at": "2026-10-12T21:04:02Z",
+      "description": "Vinoo Ganesh is the CEO of Kepler, which builds AI for industries where accuracy matters, starting...",
+      "tags": [
+        "ai",
+        "finance",
+        "aie",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faw97cf53e0ffp40owy5z.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
       "title": "Bypassing airport security via SQL injection",
       "url": "https://ian.sh/tsa",
       "published_at": "2024-08-29T15:53:08Z",
@@ -2766,20 +2690,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "355E3B"
-    },
-    {
-      "title": "Jepsen: Orkes Conductor 5.3.2",
-      "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
-      "published_at": "2026-10-20T08:14:54.849-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases",
-        "distributed",
-        "testing"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "aphyr"
     },
     {
       "title": "TypeError: 'DefaultMeta' object is not iterable",
@@ -3006,18 +2916,6 @@
       "user": "ewenjo"
     },
     {
-      "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
-      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
-      "published_at": "2026-10-20T08:00:50.760-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "freddyb"
-    },
-    {
       "title": "Upcoming Critical PHP Security Release",
       "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
       "published_at": "2026-10-20T17:23:54.452-05:00",
@@ -3029,6 +2927,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "pushcx"
+    },
+    {
+      "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+      "published_at": "2026-10-20T08:00:50.760-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "freddyb"
     },
     {
       "title": "Setting up SSH keys on macOS with Touch ID",
@@ -3056,6 +2966,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "atmosx"
+    },
+    {
+      "title": "Do minor curl vulnerabilities in the open",
+      "url": "https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/",
+      "published_at": "2026-10-20T14:47:54.578-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "robalex"
     }
   ],
   "Tools": [
@@ -3180,6 +3102,21 @@
       "user": "supriya subudhi"
     },
     {
+      "title": "Inaugural AI Engineer NYC Hackathon Kicks Off Conference Week With 50+ Projects",
+      "url": "https://dev.to/dailycontext/inaugural-ai-engineer-nyc-hackathon-kicks-off-conference-week-with-50-projects-59g",
+      "published_at": "2026-10-12T20:56:49Z",
+      "description": "Apartment hunters, accessibility tools and debugging agents top a 12-hour build day in Manhattan  By...",
+      "tags": [
+        "ai",
+        "agents",
+        "hackathon",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnyohqwxl5bz6rnk85b8s.jpg",
+      "source": "Dev.to",
+      "user": "Jess Lee"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3227,7 +3164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1180,
+      "stars": 1215,
       "user": "alchaincyf"
     },
     {
@@ -3242,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 1021,
+      "stars": 1063,
       "user": "humblemuzzu"
     },
     {
@@ -3257,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 317,
       "user": "typecraft-dev"
     },
     {
@@ -3272,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 276,
+      "stars": 287,
       "user": "ip-please"
     },
     {
@@ -3287,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 257,
+      "stars": 262,
       "user": "Leonxlnx"
     },
     {
@@ -3302,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 14404,
+      "stars": 16241,
       "user": "deepseek-ai"
     },
     {
@@ -3317,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1984,
+      "stars": 2020,
       "user": "Leonxlnx"
     },
     {
@@ -3332,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1679,
+      "stars": 1811,
       "user": "xiaoyang111222"
     },
     {
@@ -3347,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1190,
+      "stars": 1221,
       "user": "aicodeking"
     },
     {
@@ -3362,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1183,
+      "stars": 1208,
       "user": "OpenMOSS"
     },
     {
@@ -3377,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1289,
+      "stars": 905,
       "user": "feder-cr"
     },
     {
@@ -3392,8 +3329,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 155,
+      "stars": 156,
       "user": "Binaryify"
+    },
+    {
+      "title": "mu-zi-lee/Tangentry - 沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
+      "url": "https://github.com/mu-zi-lee/Tangentry",
+      "published_at": "2026-10-17T05:17:17Z",
+      "description": "沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75201518?v=4",
+      "source": "GitHub",
+      "stars": 137,
+      "user": "mu-zi-lee"
     },
     {
       "title": "Haryy985/yunkun-console-preview - 云鲲自动化渗透控制台：功能介绍、使用流程、新增与优化、界面预览。当前仓库仅含文章与截图，暂无产品源码。",
@@ -3411,34 +3363,19 @@
       "user": "Haryy985"
     },
     {
-      "title": "mu-zi-lee/Tangentry - 沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
-      "url": "https://github.com/mu-zi-lee/Tangentry",
-      "published_at": "2026-10-17T05:17:17Z",
-      "description": "沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
+      "title": "Fluepke/emudrahahahahaha - Private Keys",
+      "url": "https://github.com/Fluepke/emudrahahahahaha",
+      "published_at": "2026-10-20T16:42:49Z",
+      "description": "Private Keys",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75201518?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 133,
-      "user": "mu-zi-lee"
-    },
-    {
-      "title": "azrielnan/artex-ko-main - GitHub Repository",
-      "url": "https://github.com/azrielnan/artex-ko-main",
-      "published_at": "2026-10-15T01:11:51Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222944587?v=4",
-      "source": "GitHub",
-      "stars": 113,
-      "user": "azrielnan"
+      "stars": 121,
+      "user": "Fluepke"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -3452,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1855,
+      "stars": 1865,
       "user": "chenglou"
     },
     {
@@ -3467,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 641,
       "user": "stackedlol"
     },
     {
@@ -3482,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 540,
       "user": "VictorTaelin"
     },
     {
@@ -3497,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 364,
       "user": "zgsfsec"
     },
     {
@@ -3512,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 320,
+      "stars": 333,
       "user": "vercel-labs"
     },
     {
@@ -3527,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 814,
       "user": "reason-machines"
     },
     {
@@ -3542,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 638,
+      "stars": 671,
       "user": "ELY-Open-Source"
     },
     {
@@ -3557,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 522,
       "user": "c22dev"
     },
     {
@@ -3572,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 451,
       "user": "Hugo-Dz"
     },
     {
@@ -3587,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 424,
       "user": "dominikmartn"
     },
     {
@@ -3602,20 +3539,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "355E3B"
-    },
-    {
-      "title": "Jepsen: Orkes Conductor 5.3.2",
-      "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
-      "published_at": "2026-10-20T08:14:54.849-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases",
-        "distributed",
-        "testing"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "aphyr"
     },
     {
       "title": "Text preprocessing packages in addition to Mustache that are importable both into Python code and Ruby code",
