@@ -16,21 +16,6 @@
       "user": "Jhin Lee"
     },
     {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
-      "published_at": "2026-10-19T20:07:12Z",
-      "description": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60n0ma7t182ia9mtt5o9.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
       "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02",
       "published_at": "2026-10-16T05:36:01Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
+      "published_at": "2026-10-19T20:07:12Z",
+      "description": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60n0ma7t182ia9mtt5o9.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
@@ -793,8 +793,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1148,
       "user": "alchaincyf"
+    },
+    {
+      "title": "Leonxlnx/athenaion - A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "published_at": "2026-10-17T22:42:57Z",
+      "description": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
+      "source": "GitHub",
+      "stars": 253,
+      "user": "Leonxlnx"
     },
     {
       "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
@@ -808,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 11706,
+      "stars": 12130,
       "user": "deepseek-ai"
     },
     {
@@ -823,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1920,
+      "stars": 1945,
       "user": "Leonxlnx"
     },
     {
@@ -838,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1166,
+      "stars": 1175,
       "user": "aicodeking"
     },
     {
@@ -853,23 +868,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1249,
+      "stars": 1267,
       "user": "feder-cr"
     },
     {
-      "title": "caveman-ai/trim-1 - trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
-      "url": "https://github.com/caveman-ai/trim-1",
-      "published_at": "2026-10-14T03:05:27Z",
-      "description": "trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
+      "title": "azrielnan/artex-ko-main - GitHub Repository",
+      "url": "https://github.com/azrielnan/artex-ko-main",
+      "published_at": "2026-10-15T01:11:51Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/222944587?v=4",
       "source": "GitHub",
-      "stars": 174,
-      "user": "caveman-ai"
+      "stars": 113,
+      "user": "azrielnan"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -883,8 +898,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1851,
+      "stars": 1853,
       "user": "chenglou"
+    },
+    {
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "published_at": "2026-10-18T21:01:54Z",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
+      "source": "GitHub",
+      "stars": 311,
+      "user": "finereli"
+    },
+    {
+      "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
+      "published_at": "2026-10-16T04:05:37Z",
+      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
+      "source": "GitHub",
+      "stars": 309,
+      "user": "zgsfsec"
     },
     {
       "title": "Updates to site guidelines and AI/LLM tags",
@@ -986,6 +1031,36 @@
       "user": "gh0st_dancing"
     },
     {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "published_at": "2026-10-20T23:01:23.000Z",
+      "description": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "tags": [
+        "AI",
+        "TC",
+        "Anthropic",
+        "policy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t accurate",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "published_at": "2026-10-20T22:24:02.000Z",
+      "description": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "tags": [
+        "AI",
+        "TC",
+        "Hugging Face",
+        "Netflix"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
       "title": "Anthropic’s cloud partnerships are getting messy",
       "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
       "published_at": "2026-10-20T21:25:22.000Z",
@@ -1073,51 +1148,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
-    },
-    {
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "published_at": "2026-10-20T17:55:12.000Z",
-      "description": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Anthropic",
-        "Eric Schmidt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Meta&#8217;s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "published_at": "2026-10-20T17:12:48.000Z",
-      "description": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "tags": [
-        "AI",
-        "Apps",
-        "ai apps",
-        "Meta",
-        "muse"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: &#8216;Physical AI is in it&#8217;s LEGO era&#8217;",
-      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "published_at": "2026-10-20T16:20:06.000Z",
-      "description": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-      "tags": [
-        "Robotics",
-        "AI",
-        "equitypod"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How Neural Networks Work: Why Straight Lines Aren't Enough",
@@ -1386,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1148,
       "user": "alchaincyf"
     },
     {
@@ -1401,23 +1431,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 984,
       "user": "humblemuzzu"
     },
     {
-      "title": "showheyohtaki/motion-prompt - GitHub Repository",
-      "url": "https://github.com/showheyohtaki/motion-prompt",
-      "published_at": "2026-10-14T11:34:19Z",
-      "description": "Trending GitHub Repository",
+      "title": "typecraft-dev/oma-cast - omarchy rebuild of raycast",
+      "url": "https://github.com/typecraft-dev/oma-cast",
+      "published_at": "2026-10-19T17:48:58Z",
+      "description": "omarchy rebuild of raycast",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 549,
-      "user": "showheyohtaki"
+      "stars": 278,
+      "user": "typecraft-dev"
     },
     {
       "title": "ip-please/ip-please.github.io - GitHub Repository",
@@ -1435,19 +1465,19 @@
       "user": "ip-please"
     },
     {
-      "title": "c1overzz/dsh-bili-scroll - DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
-      "url": "https://github.com/c1overzz/dsh-bili-scroll",
-      "published_at": "2026-10-14T09:03:43Z",
-      "description": "DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
+      "title": "Leonxlnx/athenaion - A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "published_at": "2026-10-17T22:42:57Z",
+      "description": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/336343453?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 269,
-      "user": "c1overzz"
+      "stars": 253,
+      "user": "Leonxlnx"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -1461,38 +1491,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1851,
+      "stars": 1853,
       "user": "chenglou"
-    },
-    {
-      "title": "Caho1/open-claude-ui - 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
-      "url": "https://github.com/Caho1/open-claude-ui",
-      "published_at": "2026-10-14T14:05:05Z",
-      "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
-      "source": "GitHub",
-      "stars": 1285,
-      "user": "Caho1"
-    },
-    {
-      "title": "VictorTaelin/uniichat - GitHub Repository",
-      "url": "https://github.com/VictorTaelin/uniichat",
-      "published_at": "2026-10-19T15:26:48Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 520,
-      "user": "VictorTaelin"
     },
     {
       "title": "stackedlol/ascii-sharks - ascii shark components in typescript",
@@ -1506,23 +1506,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 522,
       "user": "stackedlol"
     },
     {
-      "title": "pro-vi/cc-stretch - Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
-      "url": "https://github.com/pro-vi/cc-stretch",
-      "published_at": "2026-10-14T22:03:26Z",
-      "description": "Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
+      "title": "VictorTaelin/uniichat - GitHub Repository",
+      "url": "https://github.com/VictorTaelin/uniichat",
+      "published_at": "2026-10-19T15:26:48Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9211198?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 397,
-      "user": "pro-vi"
+      "stars": 522,
+      "user": "VictorTaelin"
+    },
+    {
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "published_at": "2026-10-18T21:01:54Z",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
+      "source": "GitHub",
+      "stars": 311,
+      "user": "finereli"
+    },
+    {
+      "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
+      "published_at": "2026-10-16T04:05:37Z",
+      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
+      "source": "GitHub",
+      "stars": 309,
+      "user": "zgsfsec"
     },
     {
       "title": "How I got over 300 Tor exit nodes removed",
@@ -1538,10 +1568,23 @@
       "user": "atmosx"
     },
     {
+      "title": "How to make it so several buttons change each others' image results in Javascript",
+      "url": "https://stackoverflow.com/questions/80011446/how-to-make-it-so-several-buttons-change-each-others-image-results-in-javascrip",
+      "published_at": "2026-10-20T23:06:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Moon Lich"
+    },
+    {
       "title": "How should I identify anonymous browser installations for a server-side leaderboard?",
       "url": "https://stackoverflow.com/questions/80011368/how-should-i-identify-anonymous-browser-installations-for-a-server-side-leaderbo",
       "published_at": "2026-10-20T16:15:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript"
       ],
@@ -1620,6 +1663,18 @@
       "user": "Brendha Tasca"
     },
     {
+      "title": "Validate that a string is a positive integer",
+      "url": "https://stackoverflow.com/questions/10834796/validate-that-a-string-is-a-positive-integer",
+      "published_at": "2012-05-31T13:39:15.000Z",
+      "description": "Stack Overflow question · 22 answers · score 267",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mick Byrne"
+    },
+    {
       "title": "Zebra_DatePicker popup position breaks when input is inside `position: sticky` container",
       "url": "https://stackoverflow.com/questions/79862082/zebra-datepicker-popup-position-breaks-when-input-is-inside-position-sticky-c",
       "published_at": "2026-01-07T04:10:37.000Z",
@@ -1650,35 +1705,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dev john"
-    },
-    {
-      "title": "Nginx can't load /usr/share/nginx/html/ files are missing",
-      "url": "https://stackoverflow.com/questions/75028042/nginx-cant-load-usr-share-nginx-html-files-are-missing",
-      "published_at": "2023-01-06T07:20:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "docker",
-        "nginx",
-        "dockerfile",
-        "docker-build"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "existentia"
-    },
-    {
-      "title": "Is the same anonimous variable calculated twice",
-      "url": "https://stackoverflow.com/questions/77350456/is-the-same-anonimous-variable-calculated-twice",
-      "published_at": "2023-10-24T08:10:51.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "variables"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nikolai Tkachenko"
     },
     {
       "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
@@ -1921,7 +1947,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 11706,
+      "stars": 12130,
       "user": "deepseek-ai"
     },
     {
@@ -1936,7 +1962,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1920,
+      "stars": 1945,
       "user": "Leonxlnx"
     },
     {
@@ -1951,7 +1977,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1555,
+      "stars": 1571,
       "user": "xiaoyang111222"
     },
     {
@@ -1966,7 +1992,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1166,
+      "stars": 1175,
       "user": "aicodeking"
     },
     {
@@ -1981,14 +2007,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1154,
+      "stars": 1162,
       "user": "OpenMOSS"
     },
     {
       "title": "To change Python version in venv, change pyvenv.cfg manually or in VS Code \"Python: Select Interpreter\"?",
       "url": "https://stackoverflow.com/questions/80011408/to-change-python-version-in-venv-change-pyvenv-cfg-manually-or-in-vs-code-pyth",
       "published_at": "2026-10-20T20:01:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 2 answers · score -4",
       "tags": [
         "python",
         "vs-code",
@@ -2028,19 +2054,6 @@
       "user": "Justin Debuss"
     },
     {
-      "title": "Draw letters in python console given x y coordinates and characters",
-      "url": "https://stackoverflow.com/questions/80011231/draw-letters-in-python-console-given-x-y-coordinates-and-characters",
-      "published_at": "2026-10-20T04:37:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "console"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "TitanJamison"
-    },
-    {
       "title": "How to reduce dataframe with nan values maintaining consecutive values in columns",
       "url": "https://stackoverflow.com/questions/80011008/how-to-reduce-dataframe-with-nan-values-maintaining-consecutive-values-in-column",
       "published_at": "2026-10-19T08:25:58.000Z",
@@ -2053,6 +2066,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dan577"
+    },
+    {
+      "title": "Draw letters in python console given x y coordinates and characters",
+      "url": "https://stackoverflow.com/questions/80011231/draw-letters-in-python-console-given-x-y-coordinates-and-characters",
+      "published_at": "2026-10-20T04:37:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "console"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "TitanJamison"
     },
     {
       "title": "How to investigate a silent os.rename() failure in python? Samba is involved",
@@ -2292,22 +2318,6 @@
       "user": "jknupp"
     },
     {
-      "title": "Nginx can't load /usr/share/nginx/html/ files are missing",
-      "url": "https://stackoverflow.com/questions/75028042/nginx-cant-load-usr-share-nginx-html-files-are-missing",
-      "published_at": "2023-01-06T07:20:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "docker",
-        "nginx",
-        "dockerfile",
-        "docker-build"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "existentia"
-    },
-    {
       "title": "How to Detect Operational Drift Before It Becomes an Incident",
       "url": "https://www.freecodecamp.org/news/detect-operational-drift-before-incident/",
       "published_at": "2026-10-19T06:53:29.000Z",
@@ -2370,6 +2380,19 @@
       "user": "velmu"
     },
     {
+      "title": "How to make it so several buttons change each others' image results in Javascript",
+      "url": "https://stackoverflow.com/questions/80011446/how-to-make-it-so-several-buttons-change-each-others-image-results-in-javascrip",
+      "published_at": "2026-10-20T23:06:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Moon Lich"
+    },
+    {
       "title": "Advice on how to approach small-scale restaurant reservation system",
       "url": "https://stackoverflow.com/questions/79900465/advice-on-how-to-approach-small-scale-restaurant-reservation-system",
       "published_at": "2026-03-03T22:06:39.000Z",
@@ -2400,22 +2423,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JarMoo"
-    },
-    {
-      "title": "Nginx can't load /usr/share/nginx/html/ files are missing",
-      "url": "https://stackoverflow.com/questions/75028042/nginx-cant-load-usr-share-nginx-html-files-are-missing",
-      "published_at": "2023-01-06T07:20:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "docker",
-        "nginx",
-        "dockerfile",
-        "docker-build"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "existentia"
     },
     {
       "title": "How to Make Your Coding Agent Check Its Work in the Browser",
@@ -2481,21 +2488,6 @@
       "user": "Jhin Lee"
     },
     {
-      "title": "longbridge/nsh - NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web",
-      "url": "https://github.com/longbridge/nsh",
-      "published_at": "2026-10-14T14:59:36Z",
-      "description": "NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68419756?v=4",
-      "source": "GitHub",
-      "stars": 471,
-      "user": "longbridge"
-    },
-    {
       "title": "c22dev/mush8 - A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
       "url": "https://github.com/c22dev/mush8",
       "published_at": "2026-10-16T16:56:14Z",
@@ -2507,7 +2499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 487,
       "user": "c22dev"
     },
     {
@@ -2677,6 +2669,21 @@
       "user": "Zach S."
     },
     {
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "published_at": "2026-10-18T21:01:54Z",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
+      "source": "GitHub",
+      "stars": 311,
+      "user": "finereli"
+    },
+    {
       "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
       "url": "https://stackoverflow.com/questions/80011164/counting-unique-visitors-on-a-redirect-link-when-the-same-person-opens-it-on-mul",
       "published_at": "2026-10-19T18:55:52.000Z",
@@ -2763,6 +2770,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "kividbio/kividb - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
+      "url": "https://github.com/kividbio/kividb",
+      "published_at": "2026-10-16T01:07:52Z",
+      "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263324995?v=4",
+      "source": "GitHub",
+      "stars": 329,
+      "user": "kividbio"
     },
     {
       "title": "Updates to site guidelines and AI/LLM tags",
@@ -3053,6 +3075,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "atmosx"
+    },
+    {
+      "title": "Upcoming Critical PHP Security Release",
+      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
+      "published_at": "2026-10-20T17:23:54.452-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "php",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
     }
   ],
   "Tools": [
@@ -3224,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1138,
+      "stars": 1148,
       "user": "alchaincyf"
     },
     {
@@ -3239,23 +3274,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 956,
+      "stars": 984,
       "user": "humblemuzzu"
     },
     {
-      "title": "showheyohtaki/motion-prompt - GitHub Repository",
-      "url": "https://github.com/showheyohtaki/motion-prompt",
-      "published_at": "2026-10-14T11:34:19Z",
-      "description": "Trending GitHub Repository",
+      "title": "typecraft-dev/oma-cast - omarchy rebuild of raycast",
+      "url": "https://github.com/typecraft-dev/oma-cast",
+      "published_at": "2026-10-19T17:48:58Z",
+      "description": "omarchy rebuild of raycast",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41701394?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 549,
-      "user": "showheyohtaki"
+      "stars": 278,
+      "user": "typecraft-dev"
     },
     {
       "title": "ip-please/ip-please.github.io - GitHub Repository",
@@ -3273,19 +3308,19 @@
       "user": "ip-please"
     },
     {
-      "title": "c1overzz/dsh-bili-scroll - DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
-      "url": "https://github.com/c1overzz/dsh-bili-scroll",
-      "published_at": "2026-10-14T09:03:43Z",
-      "description": "DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
+      "title": "Leonxlnx/athenaion - A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "published_at": "2026-10-17T22:42:57Z",
+      "description": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/336343453?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 269,
-      "user": "c1overzz"
+      "stars": 253,
+      "user": "Leonxlnx"
     },
     {
       "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
@@ -3299,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 11706,
+      "stars": 12130,
       "user": "deepseek-ai"
     },
     {
@@ -3314,7 +3349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1920,
+      "stars": 1945,
       "user": "Leonxlnx"
     },
     {
@@ -3329,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1555,
+      "stars": 1571,
       "user": "xiaoyang111222"
     },
     {
@@ -3344,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1166,
+      "stars": 1175,
       "user": "aicodeking"
     },
     {
@@ -3359,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1154,
+      "stars": 1162,
       "user": "OpenMOSS"
     },
     {
@@ -3374,23 +3409,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1249,
+      "stars": 1267,
       "user": "feder-cr"
-    },
-    {
-      "title": "caveman-ai/trim-1 - trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
-      "url": "https://github.com/caveman-ai/trim-1",
-      "published_at": "2026-10-14T03:05:27Z",
-      "description": "trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/312528318?v=4",
-      "source": "GitHub",
-      "stars": 174,
-      "user": "caveman-ai"
     },
     {
       "title": "Binaryify/MonitorBar - macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
@@ -3438,6 +3458,21 @@
       "user": "mu-zi-lee"
     },
     {
+      "title": "azrielnan/artex-ko-main - GitHub Repository",
+      "url": "https://github.com/azrielnan/artex-ko-main",
+      "published_at": "2026-10-15T01:11:51Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/222944587?v=4",
+      "source": "GitHub",
+      "stars": 113,
+      "user": "azrielnan"
+    },
+    {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
       "url": "https://github.com/chenglou/handwired",
       "published_at": "2026-10-15T02:15:09Z",
@@ -3449,38 +3484,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1851,
+      "stars": 1853,
       "user": "chenglou"
-    },
-    {
-      "title": "Caho1/open-claude-ui - 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
-      "url": "https://github.com/Caho1/open-claude-ui",
-      "published_at": "2026-10-14T14:05:05Z",
-      "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/124897849?v=4",
-      "source": "GitHub",
-      "stars": 1285,
-      "user": "Caho1"
-    },
-    {
-      "title": "VictorTaelin/uniichat - GitHub Repository",
-      "url": "https://github.com/VictorTaelin/uniichat",
-      "published_at": "2026-10-19T15:26:48Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 520,
-      "user": "VictorTaelin"
     },
     {
       "title": "stackedlol/ascii-sharks - ascii shark components in typescript",
@@ -3494,23 +3499,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 522,
       "user": "stackedlol"
     },
     {
-      "title": "pro-vi/cc-stretch - Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
-      "url": "https://github.com/pro-vi/cc-stretch",
-      "published_at": "2026-10-14T22:03:26Z",
-      "description": "Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it",
+      "title": "VictorTaelin/uniichat - GitHub Repository",
+      "url": "https://github.com/VictorTaelin/uniichat",
+      "published_at": "2026-10-19T15:26:48Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9211198?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 397,
-      "user": "pro-vi"
+      "stars": 522,
+      "user": "VictorTaelin"
+    },
+    {
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "published_at": "2026-10-18T21:01:54Z",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
+      "source": "GitHub",
+      "stars": 311,
+      "user": "finereli"
+    },
+    {
+      "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
+      "published_at": "2026-10-16T04:05:37Z",
+      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
+      "source": "GitHub",
+      "stars": 309,
+      "user": "zgsfsec"
     },
     {
       "title": "reason-machines/reason-network - Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
@@ -3524,23 +3559,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 643,
+      "stars": 684,
       "user": "reason-machines"
-    },
-    {
-      "title": "kitlangton/scrawl - Show an agent a problem: mark up, record, send",
-      "url": "https://github.com/kitlangton/scrawl",
-      "published_at": "2026-10-14T23:21:44Z",
-      "description": "Show an agent a problem: mark up, record, send",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7587245?v=4",
-      "source": "GitHub",
-      "stars": 570,
-      "user": "kitlangton"
     },
     {
       "title": "ELY-Open-Source/ElyOffice - Ely Office: offline-first desktop apps in Rust and GPUI",
@@ -3554,23 +3574,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 579,
       "user": "ELY-Open-Source"
-    },
-    {
-      "title": "longbridge/nsh - NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web",
-      "url": "https://github.com/longbridge/nsh",
-      "published_at": "2026-10-14T14:59:36Z",
-      "description": "NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68419756?v=4",
-      "source": "GitHub",
-      "stars": 471,
-      "user": "longbridge"
     },
     {
       "title": "c22dev/mush8 - A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
@@ -3584,8 +3589,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 487,
       "user": "c22dev"
+    },
+    {
+      "title": "kividbio/kividb - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
+      "url": "https://github.com/kividbio/kividb",
+      "published_at": "2026-10-16T01:07:52Z",
+      "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/263324995?v=4",
+      "source": "GitHub",
+      "stars": 329,
+      "user": "kividbio"
+    },
+    {
+      "title": "Hugo-Dz/spritefusion-sprite-normals - A tool to generate normal maps from any sprite and animated sprite sheet.",
+      "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
+      "published_at": "2026-10-19T13:26:45Z",
+      "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
+      "source": "GitHub",
+      "stars": 307,
+      "user": "Hugo-Dz"
     },
     {
       "title": "Updates to site guidelines and AI/LLM tags",
