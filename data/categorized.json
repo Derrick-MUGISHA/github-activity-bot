@@ -16,6 +16,51 @@
       "user": "Jhin Lee"
     },
     {
+      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
+      "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
+      "published_at": "2026-10-20T04:34:20Z",
+      "description": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporting two-way reactive forms, Riverpod/BLoC interop, Flutter Material 3, and ANSI terminal TUIs.",
+      "tags": [
+        "flutter",
+        "dart",
+        "ai",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
+      "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
+      "published_at": "2026-10-20T19:14:39Z",
+      "description": "Automate root-cause incident triage on GKE by combining Gemini 4 Argon multi-step reasoning with the GKE Model Context Protocol server.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fajukpnfpo90v31p2y6af.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Building a cross-platform Flutter festival assistant with llamadart",
+      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
+      "published_at": "2026-10-20T13:00:00Z",
+      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
+      "tags": [
+        "flutter",
+        "tutorial",
+        "ai",
+        "dart"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
       "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02",
       "published_at": "2026-10-16T05:36:01Z",
@@ -121,6 +166,51 @@
       "user": "dev.to staff"
     },
     {
+      "title": "[Agent Platform in Practice (2)] From Monolithic Cloud Run to Google Cloud Agent Runtime: Refactoring LINE AI Business Card King",
+      "url": "https://dev.to/gde/agent-platform-in-practice-2-from-monolithic-cloud-run-to-google-cloud-agent-runtime-bo1",
+      "published_at": "2026-10-20T12:12:59Z",
+      "description": "Recap   In the previous article, \"[Agent Platform in Practice (1)] Building a LINE AI...",
+      "tags": [
+        "agents",
+        "ai",
+        "architecture",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv26ia4v0iyw0egmy64ac.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "Generating a Physics Lab in Minutes with Gemini 4 Argon and Antigravity",
+      "url": "https://dev.to/googlecloud/generating-a-physics-lab-in-minutes-with-gemini-4-argon-and-antigravity-h4i",
+      "published_at": "2026-10-20T09:11:42Z",
+      "description": "We have all faced a new concept or a textbook chapter that raised more questions than anything....",
+      "tags": [
+        "gemini4argon",
+        "googleantigravity",
+        "llm",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fed32gcn3nbq47ayzc5nr.png",
+      "source": "Dev.to",
+      "user": "Laurent Picard"
+    },
+    {
+      "title": "Event-Driven Multi-Agent Pipelines on Google Cloud with ADK, Gemma 3 and Eventarc",
+      "url": "https://dev.to/gde/beyond-chatbots-and-cron-jobs-event-driven-multi-agent-pipelines-on-google-cloud-with-adk-gemma-3-3cbk",
+      "published_at": "2026-10-20T03:50:56Z",
+      "description": "This article provides a step by step architectural and deployment guide for StreamForge, a real-time...",
+      "tags": [
+        "googleai",
+        "gemma",
+        "googlecloud",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnxpemgfuc4rz6d55aqrv.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
+    },
+    {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
       "url": "https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4",
       "published_at": "2026-10-13T00:57:26Z",
@@ -134,96 +224,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmodel-sweep%2Fmain%2Farticle%2Fdevto-cover.a42e27c5.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "For Agents, Waiting is the Hardest Part",
-      "url": "https://dev.to/dailycontext/for-agents-waiting-is-the-hardest-part-30ik",
-      "published_at": "2026-10-14T12:03:52Z",
-      "description": "Many engineers rightfully view every step in a financial workflow as a potential point of failure,...",
-      "tags": [
-        "ai",
-        "agents",
-        "opensource",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1hi8lqrej5xsyrhnr9c3.png",
-      "source": "Dev.to",
-      "user": "Tom Wheeler"
-    },
-    {
-      "title": "A Data Company in an AI World",
-      "url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4",
-      "published_at": "2026-10-14T12:05:44Z",
-      "description": "Anekha Sokhal spent nearly a decade trading energy derivatives at JP Morgan, then came to the US on a...",
-      "tags": [
-        "ai",
-        "finance",
-        "interview",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv54kayiyyr8z39ddeml.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
-      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
-      "published_at": "2026-10-14T19:53:12Z",
-      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
-      "published_at": "2026-10-16T17:40:16Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "opportunities",
-        "resources"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fle5lxtrblynphqs20c45.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4",
-      "url": "https://dev.to/gde/embeddinggemma-2-on-cloud-run-an-int8-cpu-service-against-an-nvidia-l4-15ac",
-      "published_at": "2026-10-13T01:20:25Z",
-      "description": "Step by step deployment of Google's EmbeddingGemma 2 text embeddings to Cloud Run, on a 1 vCPU instance with an int8 repack and on an NVIDIA L4, with tests, a semantic search demo, benchmarks and a cost per million documents.",
-      "tags": [
-        "googlecloud",
-        "gemma",
-        "cloudrun",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fembedding-cloudrun%2Fmain%2Fdocs%2Farticles%2Fembeddinggemma-cloudrun%2Fdevto-cover.a2390bee.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Frontier AI models outperform human experts on earnings prediction for the first time",
-      "url": "https://dev.to/dailycontext/frontier-ai-models-outperform-human-experts-on-earnings-prediction-for-the-first-time-3fhb",
-      "published_at": "2026-10-12T21:02:54Z",
-      "description": "Does the progress in frontier AI capabilities lead to superhuman performance in finance?  Finance is...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm",
-        "finance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn0u99b6nz252vxkbzrhu.png",
-      "source": "Dev.to",
-      "user": "Ashwin Paranjape"
     },
     {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1215,
+      "stars": 1243,
       "user": "alchaincyf"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 265,
       "user": "Leonxlnx"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 16241,
+      "stars": 17124,
       "user": "deepseek-ai"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 2020,
+      "stars": 2034,
       "user": "Leonxlnx"
     },
     {
@@ -853,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1221,
+      "stars": 1245,
       "user": "aicodeking"
     },
     {
@@ -868,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 903,
       "user": "feder-cr"
     },
     {
@@ -883,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1865,
+      "stars": 1866,
       "user": "chenglou"
     },
     {
@@ -898,7 +898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 373,
       "user": "zgsfsec"
     },
     {
@@ -912,19 +912,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "LolPython"
-    },
-    {
-      "title": "Updates to site guidelines and AI/LLM tags",
-      "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
-      "published_at": "2026-10-18T20:28:53.196-05:00",
-      "description": "Hey folks,  \r\n\r\nI've been having to perform an increasing number of [moderation actions](https://lobste.rs/moderations?moderator=355E3B) surrounding the `vibecoding` tag and AI/LLM related content. I started reading Lobsters because it had the most interesting viewpoints related to computing. During that time, I've found that this community is at it's best when it's trying to, in good faith, help others grow. In lieu of a larger and more rambling discussion on this point, we would like to try two changes encourage that behavior again and re-focus topicality around ensuring that content submitted to the site should, at a minimum, be respectful of a reader's time and intelligence.   \r\n\r\nThe first adjustment is two updates to the about page, which try to provide a bit more clarity in what we consider topical and what constitutes self promotion:  \r\n\r\nIntro:  \r\n\r\n> Lobsters is a computing-focused community centered around discussing links. Our goal is to learn, craft, collaborate, and share interesting viewpoints.\r\n> \r\n> The administrator is [Peter Bhat Harkins](https://lobste.rs/~pushcx) (\"pushcx\"), contact him or [another moderator](https://lobste.rs/moderators) with any support issues. Lobsters was launched on July 3rd, 2012 by [joshua stein](https://lobste.rs/~jcs) (who is no longer running it, so please quit bugging him with site stuff) with careful design touches to encourage a healthy community:  \r\n\r\nAt this risk of writing a mission statement, it seemed worth explaining what the site is and hopes to be to visitors from the first sentence of /about. (This original text came from [an intro post](https://lobste.rs/s/bkeYe9/about_lobsters).)  \r\n\r\nThen the Guidelines:  \r\n\r\n> _Topicality:_ Lobsters is focused pretty narrowly on computing; tags like art don't imply every piece of art is on-topic.  Some rules of thumb for great stories to submit: Will this improve the reader's next program? Will it deepen their understanding of their last program? Will it be more interesting in five or ten years? Is this compelling material that will seed a discussion, or is it just an artifact?\r\n\r\nPending an upcoming deploy, we no longer allow submissions which are code repositories. While, at first blush, this may seem odd for a community which is primarily centered around programming but it does eliminate the bulk of the \"low effort, self promotional\" submissions we've been seeing on the site. We've also found that being dropped into a new codebase doesn't start discussions because the reader has to have enough subject matter experience to immediately recognize what's novel or otherwise worth talking about. Instead, we are more interested in content around code bases which cover why it was created, the purpose it serves, the challenges overcome, and the reasons why it's a useful artifact in the ecosystem.  \r\n\r\n> Some things that are off-topic here but popular on larger, similar sites: entrepreneurship; management; careers; news about companies that employ a lot of programmers; investing; world events; anthropology; self-help; personal productivity systems; last-resort customer service requests via public shaming; \"I wanted to see what this site's amazing users think about this off-topic thing\"; and defining the single morally correct economic and political system for the entire world when we can't even settle tabs vs. spaces.\r\n\r\nWe're listing \"careers\" as off-topic to try to head off posts about interviewing, promotions, burnout, and [farming](https://www.theatlantic.com/magazine/archive/1981/07/flying-upside-down/306467/#:~:text=Back%20at,season%2E%22). We have the [job](https://lobste.rs/t/job) tag because it's nice to help people connect to jobs, but the topic of getting a good job, weaving jobs into a career over your lifetime, and work is a different thing than the actual programming itself.  \r\n\r\n> _Self-promotion:_ It's great to have authors participate in the community, but we do not want the community to be exploited as a write-only tool for product announcements or driving traffic to their work. As a rule of thumb, self-promotional activity should be less than a quarter of one's stories and comments in the last year. New users ([first 70 days](https://lobste.rs/about#:~:text=%22new%22%20for%20their%20first%2070%20days)) are not allowed to submit self-promo.  \r\n\r\nThis is how we've been enforcing the rule for a while, better to be explicit. It's unfortunately common that authors see their work posted, join the site, but then only use us for traffic. Hopefully this time helps them understand the difference between a symbiotic and parasitic relationship.  \r\n\r\nThe second adjustment is that the `vibecoding` tag is now marked as inactive. It still appears on old stories but can't be applied to new ones. From my perspective, the tag was overloaded with six differing responsibilities:  \r\n\r\n*   First, it was the tag which was trying to capture the discussions related to the use and implementation of AI/LLM tools.  \r\n    \r\n*   Second, it was a marker for content which is partially related to AI/LLM tools, tooling or companies.  \r\n    \r\n*   Third, it was a marker for content which includes a discussion on or output from AI/LLM tools in a part of a larger work.  \r\n    \r\n*   Fourth, it was a marker for content which was generated using AI/LLM tools.  \r\n    \r\n*   Fifth, it was being used in competition to the `spam` flag, for really low-quality content which was generated via AI/LLM tools but without apparent significant human authorship.\r\n*   Sixth, it was being used as a [tag of shame](https://lobste.rs/c/tz2qdt) by people who really dislike AI/LLM tools and used it to insult people at every passing mention.  \r\n    \r\nThe last couple years have been the biggest upheaval in the field for decades. While it's acceptable, within limits, to express frustration towards circumstance or technology, it's not acceptable to direct that behavior towards individuals whether they be members of the community or not. Other people can't be your punching bags and Lobsters can't be your boxing ring. [That's not acceptable](https://lobste.rs/s/ktew3s/who_does_anubis_actually_stop#c_81gsc5).  \r\n\r\nWhile \\`vibecoding\\` is no longer an active tag, we still feel that a subset of the tooling related discussions are relevant to the site. While this is reaching far back into the annals of computing history, tools like [compilers](https://lobste.rs/t/compilers), [databases](https://lobste.rs/t/databases), [testing](https://lobste.rs/t/testing), and [vcs](https://lobste.rs/t/vcs) had similar points of consternation and concern when they were introduced. I'm not going to claim that I'm able to guess how the industry is going to shape up, but my gut feeling is that but my gut feeling is that it's going to be closer to something like we've seen with [systemd](https://lobste.rs/s/a2ccah/can_we_have_systemd_tag) than compilers. This new tag \\`ai-tooling\\` covers \"The design, ux, development of AI/LLM-powered tools themselves\".  \r\n\r\nAs a fun addendum, there's a variant of Maslow’s Hierarchy of Needs which exist for websites, we kinda fell on the wrong side of that trying to migrate the site and get this out on a Saturday. Whoops!\r\n\r\nThanks,\r\n355E3B",
-      "tags": [
-        "announce",
-        "meta"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "355E3B"
     },
     {
       "title": "How to reduce dataframe with nan values maintaining consecutive values in columns",
@@ -953,6 +940,64 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MKaama"
+    },
+    {
+      "title": "Foursquare co-founder says equity holders saw no returns from the company&#8217;s acquisition",
+      "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+      "published_at": "2026-10-21T14:03:11.000Z",
+      "description": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+      "tags": [
+        "Apps",
+        "Venture",
+        "Foursquare",
+        "Startups"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "AI promises productivity, but for managers, it&#8217;s mostly a headache for now",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "published_at": "2026-10-21T14:00:00.000Z",
+      "description": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "tags": [
+        "AI",
+        "AI at work",
+        "Exclusive",
+        "management"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
+    },
+    {
+      "title": "Heat pump tech is 170 years old. Pascal thinks it’s time for an update.",
+      "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+      "published_at": "2026-10-21T13:30:00.000Z",
+      "description": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+      "tags": [
+        "Climate",
+        "Fundraising",
+        "Exclusive",
+        "heat pumps"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "published_at": "2026-10-21T13:00:00.000Z",
+      "description": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
+      "tags": [
+        "Startups",
+        "Fundraising"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
     },
     {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -1027,49 +1072,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-      "published_at": "2026-10-20T20:00:00.000Z",
-      "description": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
-      "tags": [
-        "Transportation",
-        "Android Auto",
-        "gemini",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
-    },
-    {
-      "title": "Google has joined Amazon in attacking Nvidia&#8217;s stronghold with AI app developers",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "published_at": "2026-10-20T18:38:24.000Z",
-      "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "ChatGPT now lets you lock your chats",
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "published_at": "2026-10-20T18:36:53.000Z",
-      "description": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
-      "tags": [
-        "AI",
-        "Apps",
-        "ChatGPT"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "How Neural Networks Work: Why Straight Lines Aren't Enough",
@@ -1162,22 +1164,24 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vasuki Uday Kiran Vudathala"
-    },
-    {
-      "title": "The Anatomy of an AI Data Center",
-      "url": "https://www.freecodecamp.org/news/the-anatomy-of-an-ai-data-center/",
-      "published_at": "2026-10-16T11:56:17.000Z",
-      "description": "Artificial intelligence models like GPT-4 and Claude require massive, highly complex physical infrastructure. We just published a new full-length course on the freeCodeCamp.org YouTube channel that ta",
-      "tags": [
-        "Data Center",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "JavaScript": [
+    {
+      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
+      "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
+      "published_at": "2026-10-20T04:34:20Z",
+      "description": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporting two-way reactive forms, Riverpod/BLoC interop, Flutter Material 3, and ANSI terminal TUIs.",
+      "tags": [
+        "flutter",
+        "dart",
+        "ai",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
     {
       "title": "Verifying Google Cloud egress IP ranges with cloud.json and jq",
       "url": "https://dev.to/googlecloud/verifying-google-cloud-egress-ip-ranges-with-cloudjson-and-jq-212o",
@@ -1338,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1215,
+      "stars": 1243,
       "user": "alchaincyf"
     },
     {
@@ -1353,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1093,
       "user": "humblemuzzu"
     },
     {
@@ -1368,7 +1372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 333,
       "user": "typecraft-dev"
     },
     {
@@ -1383,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 299,
       "user": "ip-please"
     },
     {
@@ -1398,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 265,
       "user": "Leonxlnx"
     },
     {
@@ -1413,7 +1417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1865,
+      "stars": 1866,
       "user": "chenglou"
     },
     {
@@ -1428,7 +1432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 675,
       "user": "stackedlol"
     },
     {
@@ -1443,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 544,
       "user": "VictorTaelin"
     },
     {
@@ -1458,7 +1462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 373,
       "user": "zgsfsec"
     },
     {
@@ -1473,7 +1477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 345,
       "user": "vercel-labs"
     },
     {
@@ -1490,6 +1494,36 @@
       "user": "atmosx"
     },
     {
+      "title": "How can I implement JSON-LD structured data for a physiotherapy website?",
+      "url": "https://stackoverflow.com/questions/80011610/how-can-i-implement-json-ld-structured-data-for-a-physiotherapy-website",
+      "published_at": "2026-10-21T14:24:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "arrays",
+        "json"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rahul"
+    },
+    {
+      "title": "Object initialisation and firing initialisation event",
+      "url": "https://stackoverflow.com/questions/80011608/object-initialisation-and-firing-initialisation-event",
+      "published_at": "2026-10-21T14:20:48.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "database",
+        "events",
+        "pagination"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "The Ratman"
+    },
+    {
       "title": "Stop all sources from an array in Web Audio API",
       "url": "https://stackoverflow.com/questions/80011523/stop-all-sources-from-an-array-in-web-audio-api",
       "published_at": "2026-10-21T09:11:11.000Z",
@@ -1504,6 +1538,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "youkeow"
+    },
+    {
+      "title": "How can Chrome’s built-in PDF viewer download button use a custom filename for an authenticated PDF?",
+      "url": "https://stackoverflow.com/questions/80011542/how-can-chrome-s-built-in-pdf-viewer-download-button-use-a-custom-filename-for-a",
+      "published_at": "2026-10-21T10:00:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "angular",
+        "google-chrome",
+        "pdf",
+        "iframe"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Monark Bhardwaj"
     },
     {
       "title": "How to get a value generator to produce a non-variable value I can still use in CSS?",
@@ -1523,7 +1573,7 @@
       "title": "How to make it so several buttons change each others' image results in Javascript",
       "url": "https://stackoverflow.com/questions/80011446/how-to-make-it-so-several-buttons-change-each-others-image-results-in-javascrip",
       "published_at": "2026-10-20T23:06:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "javascript",
         "html"
@@ -1531,18 +1581,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Moon Lich"
-    },
-    {
-      "title": "How should I identify anonymous browser installations for a server-side leaderboard?",
-      "url": "https://stackoverflow.com/questions/80011368/how-should-i-identify-anonymous-browser-installations-for-a-server-side-leaderbo",
-      "published_at": "2026-10-20T16:15:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ge zhu"
     },
     {
       "title": "How can I conditionally load a JavaScript file only on WooCommerce product pages in WordPress?",
@@ -1556,19 +1594,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alpa Ribadiya"
-    },
-    {
-      "title": "Split and capture text ending with brackets and two letters",
-      "url": "https://stackoverflow.com/questions/80011025/split-and-capture-text-ending-with-brackets-and-two-letters",
-      "published_at": "2026-10-19T09:42:40.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Federico"
     },
     {
       "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
@@ -1585,6 +1610,21 @@
       "user": "Aditya Chandra"
     },
     {
+      "title": "How to override styles of React component with vanilla extract?",
+      "url": "https://stackoverflow.com/questions/80010006/how-to-override-styles-of-react-component-with-vanilla-extract",
+      "published_at": "2026-10-14T14:35:55.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "css",
+        "reactjs",
+        "vanilla-extract"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Billy Moon"
+    },
+    {
       "title": "What is the preferred syntax for defining enums in JavaScript?",
       "url": "https://stackoverflow.com/questions/287903/what-is-the-preferred-syntax-for-defining-enums-in-javascript",
       "published_at": "2008-11-13T19:09:06.000Z",
@@ -1597,34 +1637,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "David Citron"
-    },
-    {
-      "title": "Advice on how to approach small-scale restaurant reservation system",
-      "url": "https://stackoverflow.com/questions/79900465/advice-on-how-to-approach-small-scale-restaurant-reservation-system",
-      "published_at": "2026-03-03T22:06:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "html",
-        "architecture",
-        "project",
-        "advice"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Brendha Tasca"
-    },
-    {
-      "title": "Validate that a string is a positive integer",
-      "url": "https://stackoverflow.com/questions/10834796/validate-that-a-string-is-a-positive-integer",
-      "published_at": "2012-05-31T13:39:15.000Z",
-      "description": "Stack Overflow question · 22 answers · score 267",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mick Byrne"
     },
     {
       "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
@@ -1852,7 +1864,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 16241,
+      "stars": 17124,
       "user": "deepseek-ai"
     },
     {
@@ -1867,14 +1879,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 2020,
+      "stars": 2034,
       "user": "Leonxlnx"
     },
     {
-      "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
+      "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "published_at": "2026-10-18T09:04:43Z",
-      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
+      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
       "tags": [
         "python",
         "github",
@@ -1882,23 +1894,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1811,
+      "stars": 1894,
       "user": "xiaoyang111222"
-    },
-    {
-      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "url": "https://github.com/aicodeking/leanrea",
-      "published_at": "2026-10-17T02:53:24Z",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
-      "source": "GitHub",
-      "stars": 1221,
-      "user": "aicodeking"
     },
     {
       "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
@@ -1912,14 +1909,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1246,
       "user": "OpenMOSS"
+    },
+    {
+      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "url": "https://github.com/aicodeking/leanrea",
+      "published_at": "2026-10-17T02:53:24Z",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
+      "source": "GitHub",
+      "stars": 1245,
+      "user": "aicodeking"
     },
     {
       "title": "How do I start object initialization without blocking program shutdown?",
       "url": "https://stackoverflow.com/questions/80011495/how-do-i-start-object-initialization-without-blocking-program-shutdown",
       "published_at": "2026-10-21T07:09:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "best-practices",
         "python",
@@ -1931,10 +1943,24 @@
       "user": "Jorge Luis"
     },
     {
+      "title": "To change Python version in venv, change pyvenv.cfg manually or in VS Code \"Python: Select Interpreter\"?",
+      "url": "https://stackoverflow.com/questions/80011408/to-change-python-version-in-venv-change-pyvenv-cfg-manually-or-in-vs-code-pyth",
+      "published_at": "2026-10-20T20:01:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
+      "tags": [
+        "python",
+        "vs-code",
+        "python-venv"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "damovandG"
+    },
+    {
       "title": "Text preprocessing packages in addition to Mustache that are importable both into Python code and Ruby code",
       "url": "https://stackoverflow.com/questions/80011410/text-preprocessing-packages-in-addition-to-mustache-that-are-importable-both-int",
       "published_at": "2026-10-20T20:03:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "tooling-recommendation",
         "python",
@@ -1963,24 +1989,10 @@
       "user": "Hossein Dastoory"
     },
     {
-      "title": "To change Python version in venv, change pyvenv.cfg manually or in VS Code \"Python: Select Interpreter\"?",
-      "url": "https://stackoverflow.com/questions/80011408/to-change-python-version-in-venv-change-pyvenv-cfg-manually-or-in-vs-code-pyth",
-      "published_at": "2026-10-20T20:01:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "python",
-        "vs-code",
-        "python-venv"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "damovandG"
-    },
-    {
       "title": "TypeError: ‘str’ object cannot be interpreted as an integer” error.\"",
       "url": "https://stackoverflow.com/questions/80011168/typeerror-str-object-cannot-be-interpreted-as-an-integer-error",
       "published_at": "2026-10-19T19:21:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python"
       ],
@@ -2074,6 +2086,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
+      "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
+      "published_at": "2026-10-20T19:14:39Z",
+      "description": "Automate root-cause incident triage on GKE by combining Gemini 4 Argon multi-step reasoning with the GKE Model Context Protocol server.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fajukpnfpo90v31p2y6af.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
     {
       "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
       "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60",
@@ -2298,8 +2325,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 345,
       "user": "vercel-labs"
+    },
+    {
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "published_at": "2026-10-21T01:16:50.204-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "css"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "typesanitizer"
     },
     {
       "title": "Stop all sources from an array in Web Audio API",
@@ -2335,7 +2374,7 @@
       "title": "How to make it so several buttons change each others' image results in Javascript",
       "url": "https://stackoverflow.com/questions/80011446/how-to-make-it-so-several-buttons-change-each-others-image-results-in-javascrip",
       "published_at": "2026-10-20T23:06:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "javascript",
         "html"
@@ -2345,20 +2384,19 @@
       "user": "Moon Lich"
     },
     {
-      "title": "Advice on how to approach small-scale restaurant reservation system",
-      "url": "https://stackoverflow.com/questions/79900465/advice-on-how-to-approach-small-scale-restaurant-reservation-system",
-      "published_at": "2026-03-03T22:06:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "How to override styles of React component with vanilla extract?",
+      "url": "https://stackoverflow.com/questions/80010006/how-to-override-styles-of-react-component-with-vanilla-extract",
+      "published_at": "2026-10-14T14:35:55.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
-        "html",
-        "architecture",
-        "project",
-        "advice"
+        "css",
+        "reactjs",
+        "vanilla-extract"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Brendha Tasca"
+      "user": "Billy Moon"
     },
     {
       "title": "How to Make Your Coding Agent Check Its Work in the Browser",
@@ -2409,6 +2447,36 @@
       "user": "Jhin Lee"
     },
     {
+      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
+      "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
+      "published_at": "2026-10-20T04:34:20Z",
+      "description": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporting two-way reactive forms, Riverpod/BLoC interop, Flutter Material 3, and ANSI terminal TUIs.",
+      "tags": [
+        "flutter",
+        "dart",
+        "ai",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Building a cross-platform Flutter festival assistant with llamadart",
+      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
+      "published_at": "2026-10-20T13:00:00Z",
+      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
+      "tags": [
+        "flutter",
+        "tutorial",
+        "ai",
+        "dart"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
       "title": "Local image generation with llamadart for the Llama Village storybook",
       "url": "https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28",
       "published_at": "2026-10-15T13:56:36Z",
@@ -2435,23 +2503,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 538,
       "user": "c22dev"
-    },
-    {
-      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-      "published_at": "2026-10-20T20:00:00.000Z",
-      "description": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
-      "tags": [
-        "Transportation",
-        "Android Auto",
-        "gemini",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store",
@@ -2471,6 +2524,35 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Multi-Model Agentic Workflows: Claude Opus 5.5 & Sonnet 5.5 Land in Google Antigravity 🚀",
+      "url": "https://dev.to/googleai/multi-model-agentic-workflows-claude-opus-55-sonnet-55-land-in-google-antigravity-2kmb",
+      "published_at": "2026-10-20T17:56:15Z",
+      "description": "Different software engineering problems require different model strengths. While a quick lint fix or...",
+      "tags": [
+        "claude",
+        "cloud",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5p2rys63nm52z4q5ngf2.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
+      "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
+      "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
+      "published_at": "2026-10-20T19:14:39Z",
+      "description": "Automate root-cause incident triage on GKE by combining Gemini 4 Argon multi-step reasoning with the GKE Model Context Protocol server.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fajukpnfpo90v31p2y6af.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
     {
       "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
       "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a",
@@ -2517,34 +2599,34 @@
       "user": "xbill"
     },
     {
-      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
-      "published_at": "2026-10-14T19:53:12Z",
-      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
+      "title": "[Agent Platform in Practice (2)] From Monolithic Cloud Run to Google Cloud Agent Runtime: Refactoring LINE AI Business Card King",
+      "url": "https://dev.to/gde/agent-platform-in-practice-2-from-monolithic-cloud-run-to-google-cloud-agent-runtime-bo1",
+      "published_at": "2026-10-20T12:12:59Z",
+      "description": "Recap   In the previous article, \"[Agent Platform in Practice (1)] Building a LINE AI...",
       "tags": [
+        "agents",
         "ai",
-        "programming",
         "architecture",
-        "unix"
+        "go"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv26ia4v0iyw0egmy64ac.png",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": "Evan Lin"
     },
     {
-      "title": "EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4",
-      "url": "https://dev.to/gde/embeddinggemma-2-on-cloud-run-an-int8-cpu-service-against-an-nvidia-l4-15ac",
-      "published_at": "2026-10-13T01:20:25Z",
-      "description": "Step by step deployment of Google's EmbeddingGemma 2 text embeddings to Cloud Run, on a 1 vCPU instance with an int8 repack and on an NVIDIA L4, with tests, a semantic search demo, benchmarks and a cost per million documents.",
+      "title": "Event-Driven Multi-Agent Pipelines on Google Cloud with ADK, Gemma 3 and Eventarc",
+      "url": "https://dev.to/gde/beyond-chatbots-and-cron-jobs-event-driven-multi-agent-pipelines-on-google-cloud-with-adk-gemma-3-3cbk",
+      "published_at": "2026-10-20T03:50:56Z",
+      "description": "This article provides a step by step architectural and deployment guide for StreamForge, a real-time...",
       "tags": [
-        "googlecloud",
+        "googleai",
         "gemma",
-        "cloudrun",
-        "machinelearning"
+        "googlecloud",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fembedding-cloudrun%2Fmain%2Fdocs%2Farticles%2Fembeddinggemma-cloudrun%2Fdevto-cover.a2390bee.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnxpemgfuc4rz6d55aqrv.jpg",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Robina Mirbahar"
     },
     {
       "title": "From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform",
@@ -2637,21 +2719,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Cómo construí ora-tui: Un gestor en consola (TUI) en Go sin dependencias para Oracle RAC y Single Instance",
-      "url": "https://dev.to/gde/como-construi-ora-tui-un-gestor-en-consola-tui-en-go-sin-dependencias-para-oracle-rac-y-single-1gc5",
-      "published_at": "2026-10-15T07:21:10Z",
-      "description": "Descubre cómo diseñar una interfaz TUI en Go con marcos Unicode (┌─┐ / ╔═╗), auto-descubrimiento de clusters Oracle RAC y flujos de mantenimiento guiados por flechas sin depender de Oracle Instant Client.",
-      "tags": [
-        "go",
-        "oracle",
-        "linux",
-        "database"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu1dmrbcfwxx6nym8jx2i.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "Kepler's Vinoo Ganesh on Building AI You Can Trust",
       "url": "https://dev.to/dailycontext/keplers-vinoo-ganesh-on-building-ai-you-can-trust-3p0f",
       "published_at": "2026-10-12T21:04:02Z",
@@ -2679,17 +2746,20 @@
       "user": "iancarroll"
     },
     {
-      "title": "Updates to site guidelines and AI/LLM tags",
-      "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
-      "published_at": "2026-10-18T20:28:53.196-05:00",
-      "description": "Hey folks,  \r\n\r\nI've been having to perform an increasing number of [moderation actions](https://lobste.rs/moderations?moderator=355E3B) surrounding the `vibecoding` tag and AI/LLM related content. I started reading Lobsters because it had the most interesting viewpoints related to computing. During that time, I've found that this community is at it's best when it's trying to, in good faith, help others grow. In lieu of a larger and more rambling discussion on this point, we would like to try two changes encourage that behavior again and re-focus topicality around ensuring that content submitted to the site should, at a minimum, be respectful of a reader's time and intelligence.   \r\n\r\nThe first adjustment is two updates to the about page, which try to provide a bit more clarity in what we consider topical and what constitutes self promotion:  \r\n\r\nIntro:  \r\n\r\n> Lobsters is a computing-focused community centered around discussing links. Our goal is to learn, craft, collaborate, and share interesting viewpoints.\r\n> \r\n> The administrator is [Peter Bhat Harkins](https://lobste.rs/~pushcx) (\"pushcx\"), contact him or [another moderator](https://lobste.rs/moderators) with any support issues. Lobsters was launched on July 3rd, 2012 by [joshua stein](https://lobste.rs/~jcs) (who is no longer running it, so please quit bugging him with site stuff) with careful design touches to encourage a healthy community:  \r\n\r\nAt this risk of writing a mission statement, it seemed worth explaining what the site is and hopes to be to visitors from the first sentence of /about. (This original text came from [an intro post](https://lobste.rs/s/bkeYe9/about_lobsters).)  \r\n\r\nThen the Guidelines:  \r\n\r\n> _Topicality:_ Lobsters is focused pretty narrowly on computing; tags like art don't imply every piece of art is on-topic.  Some rules of thumb for great stories to submit: Will this improve the reader's next program? Will it deepen their understanding of their last program? Will it be more interesting in five or ten years? Is this compelling material that will seed a discussion, or is it just an artifact?\r\n\r\nPending an upcoming deploy, we no longer allow submissions which are code repositories. While, at first blush, this may seem odd for a community which is primarily centered around programming but it does eliminate the bulk of the \"low effort, self promotional\" submissions we've been seeing on the site. We've also found that being dropped into a new codebase doesn't start discussions because the reader has to have enough subject matter experience to immediately recognize what's novel or otherwise worth talking about. Instead, we are more interested in content around code bases which cover why it was created, the purpose it serves, the challenges overcome, and the reasons why it's a useful artifact in the ecosystem.  \r\n\r\n> Some things that are off-topic here but popular on larger, similar sites: entrepreneurship; management; careers; news about companies that employ a lot of programmers; investing; world events; anthropology; self-help; personal productivity systems; last-resort customer service requests via public shaming; \"I wanted to see what this site's amazing users think about this off-topic thing\"; and defining the single morally correct economic and political system for the entire world when we can't even settle tabs vs. spaces.\r\n\r\nWe're listing \"careers\" as off-topic to try to head off posts about interviewing, promotions, burnout, and [farming](https://www.theatlantic.com/magazine/archive/1981/07/flying-upside-down/306467/#:~:text=Back%20at,season%2E%22). We have the [job](https://lobste.rs/t/job) tag because it's nice to help people connect to jobs, but the topic of getting a good job, weaving jobs into a career over your lifetime, and work is a different thing than the actual programming itself.  \r\n\r\n> _Self-promotion:_ It's great to have authors participate in the community, but we do not want the community to be exploited as a write-only tool for product announcements or driving traffic to their work. As a rule of thumb, self-promotional activity should be less than a quarter of one's stories and comments in the last year. New users ([first 70 days](https://lobste.rs/about#:~:text=%22new%22%20for%20their%20first%2070%20days)) are not allowed to submit self-promo.  \r\n\r\nThis is how we've been enforcing the rule for a while, better to be explicit. It's unfortunately common that authors see their work posted, join the site, but then only use us for traffic. Hopefully this time helps them understand the difference between a symbiotic and parasitic relationship.  \r\n\r\nThe second adjustment is that the `vibecoding` tag is now marked as inactive. It still appears on old stories but can't be applied to new ones. From my perspective, the tag was overloaded with six differing responsibilities:  \r\n\r\n*   First, it was the tag which was trying to capture the discussions related to the use and implementation of AI/LLM tools.  \r\n    \r\n*   Second, it was a marker for content which is partially related to AI/LLM tools, tooling or companies.  \r\n    \r\n*   Third, it was a marker for content which includes a discussion on or output from AI/LLM tools in a part of a larger work.  \r\n    \r\n*   Fourth, it was a marker for content which was generated using AI/LLM tools.  \r\n    \r\n*   Fifth, it was being used in competition to the `spam` flag, for really low-quality content which was generated via AI/LLM tools but without apparent significant human authorship.\r\n*   Sixth, it was being used as a [tag of shame](https://lobste.rs/c/tz2qdt) by people who really dislike AI/LLM tools and used it to insult people at every passing mention.  \r\n    \r\nThe last couple years have been the biggest upheaval in the field for decades. While it's acceptable, within limits, to express frustration towards circumstance or technology, it's not acceptable to direct that behavior towards individuals whether they be members of the community or not. Other people can't be your punching bags and Lobsters can't be your boxing ring. [That's not acceptable](https://lobste.rs/s/ktew3s/who_does_anubis_actually_stop#c_81gsc5).  \r\n\r\nWhile \\`vibecoding\\` is no longer an active tag, we still feel that a subset of the tooling related discussions are relevant to the site. While this is reaching far back into the annals of computing history, tools like [compilers](https://lobste.rs/t/compilers), [databases](https://lobste.rs/t/databases), [testing](https://lobste.rs/t/testing), and [vcs](https://lobste.rs/t/vcs) had similar points of consternation and concern when they were introduced. I'm not going to claim that I'm able to guess how the industry is going to shape up, but my gut feeling is that but my gut feeling is that it's going to be closer to something like we've seen with [systemd](https://lobste.rs/s/a2ccah/can_we_have_systemd_tag) than compilers. This new tag \\`ai-tooling\\` covers \"The design, ux, development of AI/LLM-powered tools themselves\".  \r\n\r\nAs a fun addendum, there's a variant of Maslow’s Hierarchy of Needs which exist for websites, we kinda fell on the wrong side of that trying to migrate the site and get this out on a Saturday. Whoops!\r\n\r\nThanks,\r\n355E3B",
+      "title": "Object initialisation and firing initialisation event",
+      "url": "https://stackoverflow.com/questions/80011608/object-initialisation-and-firing-initialisation-event",
+      "published_at": "2026-10-21T14:20:48.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "announce",
-        "meta"
+        "best-practices",
+        "javascript",
+        "database",
+        "events",
+        "pagination"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "355E3B"
+      "source": "StackOverflow",
+      "user": "The Ratman"
     },
     {
       "title": "TypeError: 'DefaultMeta' object is not iterable",
@@ -2704,6 +2774,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
+    },
+    {
+      "title": "Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval",
+      "url": "https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/",
+      "published_at": "2026-10-21T11:42:44.000Z",
+      "description": "Most application search setups force a trade-off: settle for simple text filters, or manage a separate search cluster like Elasticsearch with complex synchronization pipelines. In a new video course o",
+      "tags": [
+        "PostgreSQL",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
@@ -2880,6 +2963,18 @@
       "user": "pabs3"
     },
     {
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "url": "https://news-web.php.net/php.announce/509",
+      "published_at": "2026-10-20T20:15:50Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "xd"
+    },
+    {
       "title": "Google Security Team Member on NSA: \"Fuck These Guys\"",
       "url": "https://plus.google.com/+MikeHearn/posts/LW1DXJ2BK8k",
       "published_at": "2013-11-06T04:51:41Z",
@@ -2902,18 +2997,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "Varcht"
-    },
-    {
-      "title": "Internet Archive: Security breach alert",
-      "url": "https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message",
-      "published_at": "2024-10-09T20:54:26Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "ewenjo"
     },
     {
       "title": "Upcoming Critical PHP Security Release",
@@ -2966,18 +3049,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "atmosx"
-    },
-    {
-      "title": "Do minor curl vulnerabilities in the open",
-      "url": "https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/",
-      "published_at": "2026-10-20T14:47:54.578-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "robalex"
     }
   ],
   "Tools": [
@@ -3164,7 +3235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1215,
+      "stars": 1243,
       "user": "alchaincyf"
     },
     {
@@ -3179,7 +3250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 1063,
+      "stars": 1093,
       "user": "humblemuzzu"
     },
     {
@@ -3194,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 333,
       "user": "typecraft-dev"
     },
     {
@@ -3209,7 +3280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 287,
+      "stars": 299,
       "user": "ip-please"
     },
     {
@@ -3224,7 +3295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 265,
       "user": "Leonxlnx"
     },
     {
@@ -3239,7 +3310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 16241,
+      "stars": 17124,
       "user": "deepseek-ai"
     },
     {
@@ -3254,14 +3325,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 2020,
+      "stars": 2034,
       "user": "Leonxlnx"
     },
     {
-      "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
+      "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "published_at": "2026-10-18T09:04:43Z",
-      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
+      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
       "tags": [
         "python",
         "github",
@@ -3269,23 +3340,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1811,
+      "stars": 1894,
       "user": "xiaoyang111222"
-    },
-    {
-      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "url": "https://github.com/aicodeking/leanrea",
-      "published_at": "2026-10-17T02:53:24Z",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
-      "source": "GitHub",
-      "stars": 1221,
-      "user": "aicodeking"
     },
     {
       "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
@@ -3299,8 +3355,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1208,
+      "stars": 1246,
       "user": "OpenMOSS"
+    },
+    {
+      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "url": "https://github.com/aicodeking/leanrea",
+      "published_at": "2026-10-17T02:53:24Z",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
+      "source": "GitHub",
+      "stars": 1245,
+      "user": "aicodeking"
     },
     {
       "title": "feder-cr/git-ai - Git designed for AI agents.",
@@ -3314,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 903,
       "user": "feder-cr"
     },
     {
@@ -3333,34 +3404,19 @@
       "user": "Binaryify"
     },
     {
-      "title": "mu-zi-lee/Tangentry - 沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
-      "url": "https://github.com/mu-zi-lee/Tangentry",
-      "published_at": "2026-10-17T05:17:17Z",
-      "description": "沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
+      "title": "Samsara-1999/Bursar - Accounts and quotas for a shared GPU cluster.",
+      "url": "https://github.com/Samsara-1999/Bursar",
+      "published_at": "2026-10-18T16:51:55Z",
+      "description": "Accounts and quotas for a shared GPU cluster.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75201518?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/52906012?v=4",
       "source": "GitHub",
-      "stars": 137,
-      "user": "mu-zi-lee"
-    },
-    {
-      "title": "Haryy985/yunkun-console-preview - 云鲲自动化渗透控制台：功能介绍、使用流程、新增与优化、界面预览。当前仓库仅含文章与截图，暂无产品源码。",
-      "url": "https://github.com/Haryy985/yunkun-console-preview",
-      "published_at": "2026-10-15T02:45:34Z",
-      "description": "云鲲自动化渗透控制台：功能介绍、使用流程、新增与优化、界面预览。当前仓库仅含文章与截图，暂无产品源码。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/181617185?v=4",
-      "source": "GitHub",
-      "stars": 134,
-      "user": "Haryy985"
+      "stars": 150,
+      "user": "Samsara-1999"
     },
     {
       "title": "Fluepke/emudrahahahahaha - Private Keys",
@@ -3374,8 +3430,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 147,
       "user": "Fluepke"
+    },
+    {
+      "title": "mu-zi-lee/Tangentry - 沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
+      "url": "https://github.com/mu-zi-lee/Tangentry",
+      "published_at": "2026-10-17T05:17:17Z",
+      "description": "沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/75201518?v=4",
+      "source": "GitHub",
+      "stars": 138,
+      "user": "mu-zi-lee"
     },
     {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
@@ -3389,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1865,
+      "stars": 1866,
       "user": "chenglou"
     },
     {
@@ -3404,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 641,
+      "stars": 675,
       "user": "stackedlol"
     },
     {
@@ -3419,7 +3490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 540,
+      "stars": 544,
       "user": "VictorTaelin"
     },
     {
@@ -3434,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 364,
+      "stars": 373,
       "user": "zgsfsec"
     },
     {
@@ -3449,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 333,
+      "stars": 345,
       "user": "vercel-labs"
     },
     {
@@ -3464,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 866,
       "user": "reason-machines"
     },
     {
@@ -3479,7 +3550,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 694,
       "user": "ELY-Open-Source"
     },
     {
@@ -3494,7 +3565,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 538,
       "user": "c22dev"
     },
     {
@@ -3509,7 +3580,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 503,
       "user": "Hugo-Dz"
     },
     {
@@ -3524,27 +3595,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 485,
       "user": "dominikmartn"
-    },
-    {
-      "title": "Updates to site guidelines and AI/LLM tags",
-      "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
-      "published_at": "2026-10-18T20:28:53.196-05:00",
-      "description": "Hey folks,  \r\n\r\nI've been having to perform an increasing number of [moderation actions](https://lobste.rs/moderations?moderator=355E3B) surrounding the `vibecoding` tag and AI/LLM related content. I started reading Lobsters because it had the most interesting viewpoints related to computing. During that time, I've found that this community is at it's best when it's trying to, in good faith, help others grow. In lieu of a larger and more rambling discussion on this point, we would like to try two changes encourage that behavior again and re-focus topicality around ensuring that content submitted to the site should, at a minimum, be respectful of a reader's time and intelligence.   \r\n\r\nThe first adjustment is two updates to the about page, which try to provide a bit more clarity in what we consider topical and what constitutes self promotion:  \r\n\r\nIntro:  \r\n\r\n> Lobsters is a computing-focused community centered around discussing links. Our goal is to learn, craft, collaborate, and share interesting viewpoints.\r\n> \r\n> The administrator is [Peter Bhat Harkins](https://lobste.rs/~pushcx) (\"pushcx\"), contact him or [another moderator](https://lobste.rs/moderators) with any support issues. Lobsters was launched on July 3rd, 2012 by [joshua stein](https://lobste.rs/~jcs) (who is no longer running it, so please quit bugging him with site stuff) with careful design touches to encourage a healthy community:  \r\n\r\nAt this risk of writing a mission statement, it seemed worth explaining what the site is and hopes to be to visitors from the first sentence of /about. (This original text came from [an intro post](https://lobste.rs/s/bkeYe9/about_lobsters).)  \r\n\r\nThen the Guidelines:  \r\n\r\n> _Topicality:_ Lobsters is focused pretty narrowly on computing; tags like art don't imply every piece of art is on-topic.  Some rules of thumb for great stories to submit: Will this improve the reader's next program? Will it deepen their understanding of their last program? Will it be more interesting in five or ten years? Is this compelling material that will seed a discussion, or is it just an artifact?\r\n\r\nPending an upcoming deploy, we no longer allow submissions which are code repositories. While, at first blush, this may seem odd for a community which is primarily centered around programming but it does eliminate the bulk of the \"low effort, self promotional\" submissions we've been seeing on the site. We've also found that being dropped into a new codebase doesn't start discussions because the reader has to have enough subject matter experience to immediately recognize what's novel or otherwise worth talking about. Instead, we are more interested in content around code bases which cover why it was created, the purpose it serves, the challenges overcome, and the reasons why it's a useful artifact in the ecosystem.  \r\n\r\n> Some things that are off-topic here but popular on larger, similar sites: entrepreneurship; management; careers; news about companies that employ a lot of programmers; investing; world events; anthropology; self-help; personal productivity systems; last-resort customer service requests via public shaming; \"I wanted to see what this site's amazing users think about this off-topic thing\"; and defining the single morally correct economic and political system for the entire world when we can't even settle tabs vs. spaces.\r\n\r\nWe're listing \"careers\" as off-topic to try to head off posts about interviewing, promotions, burnout, and [farming](https://www.theatlantic.com/magazine/archive/1981/07/flying-upside-down/306467/#:~:text=Back%20at,season%2E%22). We have the [job](https://lobste.rs/t/job) tag because it's nice to help people connect to jobs, but the topic of getting a good job, weaving jobs into a career over your lifetime, and work is a different thing than the actual programming itself.  \r\n\r\n> _Self-promotion:_ It's great to have authors participate in the community, but we do not want the community to be exploited as a write-only tool for product announcements or driving traffic to their work. As a rule of thumb, self-promotional activity should be less than a quarter of one's stories and comments in the last year. New users ([first 70 days](https://lobste.rs/about#:~:text=%22new%22%20for%20their%20first%2070%20days)) are not allowed to submit self-promo.  \r\n\r\nThis is how we've been enforcing the rule for a while, better to be explicit. It's unfortunately common that authors see their work posted, join the site, but then only use us for traffic. Hopefully this time helps them understand the difference between a symbiotic and parasitic relationship.  \r\n\r\nThe second adjustment is that the `vibecoding` tag is now marked as inactive. It still appears on old stories but can't be applied to new ones. From my perspective, the tag was overloaded with six differing responsibilities:  \r\n\r\n*   First, it was the tag which was trying to capture the discussions related to the use and implementation of AI/LLM tools.  \r\n    \r\n*   Second, it was a marker for content which is partially related to AI/LLM tools, tooling or companies.  \r\n    \r\n*   Third, it was a marker for content which includes a discussion on or output from AI/LLM tools in a part of a larger work.  \r\n    \r\n*   Fourth, it was a marker for content which was generated using AI/LLM tools.  \r\n    \r\n*   Fifth, it was being used in competition to the `spam` flag, for really low-quality content which was generated via AI/LLM tools but without apparent significant human authorship.\r\n*   Sixth, it was being used as a [tag of shame](https://lobste.rs/c/tz2qdt) by people who really dislike AI/LLM tools and used it to insult people at every passing mention.  \r\n    \r\nThe last couple years have been the biggest upheaval in the field for decades. While it's acceptable, within limits, to express frustration towards circumstance or technology, it's not acceptable to direct that behavior towards individuals whether they be members of the community or not. Other people can't be your punching bags and Lobsters can't be your boxing ring. [That's not acceptable](https://lobste.rs/s/ktew3s/who_does_anubis_actually_stop#c_81gsc5).  \r\n\r\nWhile \\`vibecoding\\` is no longer an active tag, we still feel that a subset of the tooling related discussions are relevant to the site. While this is reaching far back into the annals of computing history, tools like [compilers](https://lobste.rs/t/compilers), [databases](https://lobste.rs/t/databases), [testing](https://lobste.rs/t/testing), and [vcs](https://lobste.rs/t/vcs) had similar points of consternation and concern when they were introduced. I'm not going to claim that I'm able to guess how the industry is going to shape up, but my gut feeling is that but my gut feeling is that it's going to be closer to something like we've seen with [systemd](https://lobste.rs/s/a2ccah/can_we_have_systemd_tag) than compilers. This new tag \\`ai-tooling\\` covers \"The design, ux, development of AI/LLM-powered tools themselves\".  \r\n\r\nAs a fun addendum, there's a variant of Maslow’s Hierarchy of Needs which exist for websites, we kinda fell on the wrong side of that trying to migrate the site and get this out on a Saturday. Whoops!\r\n\r\nThanks,\r\n355E3B",
-      "tags": [
-        "announce",
-        "meta"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "355E3B"
     },
     {
       "title": "Text preprocessing packages in addition to Mustache that are importable both into Python code and Ruby code",
       "url": "https://stackoverflow.com/questions/80011410/text-preprocessing-packages-in-addition-to-mustache-that-are-importable-both-int",
       "published_at": "2026-10-20T20:03:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "tooling-recommendation",
         "python",
@@ -3557,6 +3615,21 @@
       "user": "HippoMan"
     },
     {
+      "title": "AI promises productivity, but for managers, it&#8217;s mostly a headache for now",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "published_at": "2026-10-21T14:00:00.000Z",
+      "description": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "tags": [
+        "AI",
+        "AI at work",
+        "Exclusive",
+        "management"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ram Iyer"
+    },
+    {
       "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
       "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
       "published_at": "2026-10-20T20:35:10.000Z",
@@ -3566,20 +3639,6 @@
         "biotech",
         "In Brief",
         "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Google has joined Amazon in attacking Nvidia&#8217;s stronghold with AI app developers",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "published_at": "2026-10-20T18:38:24.000Z",
-      "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-      "tags": [
-        "AI",
-        "Hardware",
-        "Google"
       ],
       "cover_image": null,
       "source": "TechCrunch",
