@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1148,
+      "stars": 1180,
       "user": "alchaincyf"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 257,
       "user": "Leonxlnx"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 12130,
+      "stars": 14404,
       "user": "deepseek-ai"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1945,
+      "stars": 1984,
       "user": "Leonxlnx"
     },
     {
@@ -853,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1175,
+      "stars": 1190,
       "user": "aicodeking"
     },
     {
@@ -868,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1289,
       "user": "feder-cr"
     },
     {
@@ -898,23 +898,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1853,
+      "stars": 1855,
       "user": "chenglou"
-    },
-    {
-      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "published_at": "2026-10-18T21:01:54Z",
-      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
-      "source": "GitHub",
-      "stars": 311,
-      "user": "finereli"
     },
     {
       "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
@@ -928,7 +913,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 324,
       "user": "zgsfsec"
     },
     {
@@ -971,22 +956,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JarMoo"
-    },
-    {
-      "title": "How to prevent message submission on \"Enter\" key in a ChatGPT function while using addEventListeners?",
-      "url": "https://stackoverflow.com/questions/79315615/how-to-prevent-message-submission-on-enter-key-in-a-chatgpt-function-while-usi",
-      "published_at": "2024-12-29T12:49:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "typescript",
-        "google-chrome-extension",
-        "async-await",
-        "event-handling"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dev john"
     },
     {
       "title": "How to reduce dataframe with nan values maintaining consecutive values in columns",
@@ -1068,7 +1037,8 @@
       "tags": [
         "AI",
         "Anthropic",
-        "cloud compute"
+        "cloud compute",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1078,7 +1048,7 @@
       "title": "SpaceX&#8217;s AI business is beating expectations",
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "published_at": "2026-10-20T20:40:41.000Z",
-      "description": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "description": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
       "tags": [
         "AI",
         "Space",
@@ -1097,8 +1067,8 @@
       "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
       "tags": [
         "AI",
-        "TC",
         "biotech",
+        "In Brief",
         "OpenAI"
       ],
       "cover_image": null,
@@ -1112,9 +1082,9 @@
       "description": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
       "tags": [
         "Transportation",
-        "Google",
+        "Android Auto",
         "gemini",
-        "Android Auto"
+        "Google"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1128,7 +1098,6 @@
       "tags": [
         "AI",
         "Hardware",
-        "TC",
         "Google"
       ],
       "cover_image": null,
@@ -1416,7 +1385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1148,
+      "stars": 1180,
       "user": "alchaincyf"
     },
     {
@@ -1431,7 +1400,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 1021,
       "user": "humblemuzzu"
     },
     {
@@ -1446,7 +1415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 291,
       "user": "typecraft-dev"
     },
     {
@@ -1461,7 +1430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 276,
       "user": "ip-please"
     },
     {
@@ -1476,7 +1445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 257,
       "user": "Leonxlnx"
     },
     {
@@ -1491,7 +1460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1853,
+      "stars": 1855,
       "user": "chenglou"
     },
     {
@@ -1506,7 +1475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 587,
       "user": "stackedlol"
     },
     {
@@ -1521,23 +1490,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 533,
       "user": "VictorTaelin"
-    },
-    {
-      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "published_at": "2026-10-18T21:01:54Z",
-      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
-      "source": "GitHub",
-      "stars": 311,
-      "user": "finereli"
     },
     {
       "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
@@ -1551,8 +1505,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 324,
       "user": "zgsfsec"
+    },
+    {
+      "title": "vercel-labs/fx0 - A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
+      "url": "https://github.com/vercel-labs/fx0",
+      "published_at": "2026-10-19T17:27:02Z",
+      "description": "A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
+      "source": "GitHub",
+      "stars": 320,
+      "user": "vercel-labs"
     },
     {
       "title": "How I got over 300 Tor exit nodes removed",
@@ -1568,10 +1537,24 @@
       "user": "atmosx"
     },
     {
+      "title": "How to get a value generator to produce a non-variable value I can still use in CSS?",
+      "url": "https://stackoverflow.com/questions/80011460/how-to-get-a-value-generator-to-produce-a-non-variable-value-i-can-still-use-in",
+      "published_at": "2026-10-21T02:21:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dessicatedcorpus"
+    },
+    {
       "title": "How to make it so several buttons change each others' image results in Javascript",
       "url": "https://stackoverflow.com/questions/80011446/how-to-make-it-so-several-buttons-change-each-others-image-results-in-javascrip",
       "published_at": "2026-10-20T23:06:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html"
@@ -1689,22 +1672,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JarMoo"
-    },
-    {
-      "title": "How to prevent message submission on \"Enter\" key in a ChatGPT function while using addEventListeners?",
-      "url": "https://stackoverflow.com/questions/79315615/how-to-prevent-message-submission-on-enter-key-in-a-chatgpt-function-while-usi",
-      "published_at": "2024-12-29T12:49:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "typescript",
-        "google-chrome-extension",
-        "async-await",
-        "event-handling"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dev john"
     },
     {
       "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
@@ -1947,7 +1914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 12130,
+      "stars": 14404,
       "user": "deepseek-ai"
     },
     {
@@ -1962,14 +1929,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1945,
+      "stars": 1984,
       "user": "Leonxlnx"
     },
     {
-      "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 小学英语，课标对齐、人教版，999 知识点、4143 题、自适应诊断",
+      "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "published_at": "2026-10-18T09:04:43Z",
-      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 小学英语，课标对齐、人教版，999 知识点、4143 题、自适应诊断",
+      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
       "tags": [
         "python",
         "github",
@@ -1977,7 +1944,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1571,
+      "stars": 1679,
       "user": "xiaoyang111222"
     },
     {
@@ -1992,7 +1959,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1175,
+      "stars": 1190,
       "user": "aicodeking"
     },
     {
@@ -2007,8 +1974,40 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1162,
+      "stars": 1183,
       "user": "OpenMOSS"
+    },
+    {
+      "title": "Text preprocessing packages in addition to Mustache that are importable both into Python code and Ruby code",
+      "url": "https://stackoverflow.com/questions/80011410/text-preprocessing-packages-in-addition-to-mustache-that-are-importable-both-int",
+      "published_at": "2026-10-20T20:03:42.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "ruby",
+        "mustache",
+        "preprocessor"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "HippoMan"
+    },
+    {
+      "title": "PyQt updating colors in Line Edit",
+      "url": "https://stackoverflow.com/questions/80011448/pyqt-updating-colors-in-line-edit",
+      "published_at": "2026-10-20T23:18:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "user-interface",
+        "colors",
+        "pyqt",
+        "pyqt6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hossein Dastoory"
     },
     {
       "title": "To change Python version in venv, change pyvenv.cfg manually or in VS Code \"Python: Select Interpreter\"?",
@@ -2023,22 +2022,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "damovandG"
-    },
-    {
-      "title": "Text preprocessing packages in addition to Mustache that are importable both into Python code and Ruby code",
-      "url": "https://stackoverflow.com/questions/80011410/text-preprocessing-packages-in-addition-to-mustache-that-are-importable-both-int",
-      "published_at": "2026-10-20T20:03:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "ruby",
-        "mustache",
-        "preprocessor"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "HippoMan"
     },
     {
       "title": "Alexa custom skill in nl-NL locale is never invoked (\"Ik weet niet zeker hoe ik je daarmee kan helpen\") while model builds successfully",
@@ -2133,21 +2116,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
-    },
-    {
-      "title": "How do I find callers of an overridden method in FalkorDB code-graph?",
-      "url": "https://stackoverflow.com/questions/80011105/how-do-i-find-callers-of-an-overridden-method-in-falkordb-code-graph",
-      "published_at": "2026-10-19T14:51:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "static-analysis",
-        "call-graph",
-        "falkordb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Teeny Weeny"
     },
     {
       "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
@@ -2380,10 +2348,39 @@
       "user": "velmu"
     },
     {
+      "title": "vercel-labs/fx0 - A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
+      "url": "https://github.com/vercel-labs/fx0",
+      "published_at": "2026-10-19T17:27:02Z",
+      "description": "A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
+      "source": "GitHub",
+      "stars": 320,
+      "user": "vercel-labs"
+    },
+    {
+      "title": "How to get a value generator to produce a non-variable value I can still use in CSS?",
+      "url": "https://stackoverflow.com/questions/80011460/how-to-get-a-value-generator-to-produce-a-non-variable-value-i-can-still-use-in",
+      "published_at": "2026-10-21T02:21:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dessicatedcorpus"
+    },
+    {
       "title": "How to make it so several buttons change each others' image results in Javascript",
       "url": "https://stackoverflow.com/questions/80011446/how-to-make-it-so-several-buttons-change-each-others-image-results-in-javascrip",
       "published_at": "2026-10-20T23:06:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html"
@@ -2499,7 +2496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 504,
       "user": "c22dev"
     },
     {
@@ -2509,9 +2506,9 @@
       "description": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
       "tags": [
         "Transportation",
-        "Google",
+        "Android Auto",
         "gemini",
-        "Android Auto"
+        "Google"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2669,21 +2666,6 @@
       "user": "Zach S."
     },
     {
-      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "published_at": "2026-10-18T21:01:54Z",
-      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
-      "source": "GitHub",
-      "stars": 311,
-      "user": "finereli"
-    },
-    {
       "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
       "url": "https://stackoverflow.com/questions/80011164/counting-unique-visitors-on-a-redirect-link-when-the-same-person-opens-it-on-mul",
       "published_at": "2026-10-19T18:55:52.000Z",
@@ -2705,7 +2687,8 @@
       "tags": [
         "AI",
         "Anthropic",
-        "cloud compute"
+        "cloud compute",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2770,21 +2753,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "kividbio/kividb - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
-      "url": "https://github.com/kividbio/kividb",
-      "published_at": "2026-10-16T01:07:52Z",
-      "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263324995?v=4",
-      "source": "GitHub",
-      "stars": 329,
-      "user": "kividbio"
     },
     {
       "title": "Updates to site guidelines and AI/LLM tags",
@@ -3050,6 +3018,19 @@
       "user": "freddyb"
     },
     {
+      "title": "Upcoming Critical PHP Security Release",
+      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
+      "published_at": "2026-10-20T17:23:54.452-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "php",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
+    },
+    {
       "title": "Setting up SSH keys on macOS with Touch ID",
       "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
       "published_at": "2026-10-20T05:23:58.813-05:00",
@@ -3075,19 +3056,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "atmosx"
-    },
-    {
-      "title": "Upcoming Critical PHP Security Release",
-      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
-      "published_at": "2026-10-20T17:23:54.452-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "php",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pushcx"
     }
   ],
   "Tools": [
@@ -3259,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1148,
+      "stars": 1180,
       "user": "alchaincyf"
     },
     {
@@ -3274,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 1021,
       "user": "humblemuzzu"
     },
     {
@@ -3289,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 291,
       "user": "typecraft-dev"
     },
     {
@@ -3304,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 272,
+      "stars": 276,
       "user": "ip-please"
     },
     {
@@ -3319,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 257,
       "user": "Leonxlnx"
     },
     {
@@ -3334,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 12130,
+      "stars": 14404,
       "user": "deepseek-ai"
     },
     {
@@ -3349,14 +3317,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 1945,
+      "stars": 1984,
       "user": "Leonxlnx"
     },
     {
-      "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 小学英语，课标对齐、人教版，999 知识点、4143 题、自适应诊断",
+      "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "published_at": "2026-10-18T09:04:43Z",
-      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 小学英语，课标对齐、人教版，999 知识点、4143 题、自适应诊断",
+      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
       "tags": [
         "python",
         "github",
@@ -3364,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1571,
+      "stars": 1679,
       "user": "xiaoyang111222"
     },
     {
@@ -3379,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1175,
+      "stars": 1190,
       "user": "aicodeking"
     },
     {
@@ -3394,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1162,
+      "stars": 1183,
       "user": "OpenMOSS"
     },
     {
@@ -3409,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1289,
       "user": "feder-cr"
     },
     {
@@ -3424,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 155,
       "user": "Binaryify"
     },
     {
@@ -3439,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/181617185?v=4",
       "source": "GitHub",
-      "stars": 132,
+      "stars": 134,
       "user": "Haryy985"
     },
     {
@@ -3454,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75201518?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 133,
       "user": "mu-zi-lee"
     },
     {
@@ -3484,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1853,
+      "stars": 1855,
       "user": "chenglou"
     },
     {
@@ -3499,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 587,
       "user": "stackedlol"
     },
     {
@@ -3514,23 +3482,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 522,
+      "stars": 533,
       "user": "VictorTaelin"
-    },
-    {
-      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "published_at": "2026-10-18T21:01:54Z",
-      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
-      "source": "GitHub",
-      "stars": 311,
-      "user": "finereli"
     },
     {
       "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
@@ -3544,8 +3497,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 309,
+      "stars": 324,
       "user": "zgsfsec"
+    },
+    {
+      "title": "vercel-labs/fx0 - A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
+      "url": "https://github.com/vercel-labs/fx0",
+      "published_at": "2026-10-19T17:27:02Z",
+      "description": "A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
+      "source": "GitHub",
+      "stars": 320,
+      "user": "vercel-labs"
     },
     {
       "title": "reason-machines/reason-network - Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
@@ -3559,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 684,
+      "stars": 745,
       "user": "reason-machines"
     },
     {
@@ -3574,7 +3542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 579,
+      "stars": 638,
       "user": "ELY-Open-Source"
     },
     {
@@ -3589,23 +3557,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 504,
       "user": "c22dev"
-    },
-    {
-      "title": "kividbio/kividb - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
-      "url": "https://github.com/kividbio/kividb",
-      "published_at": "2026-10-16T01:07:52Z",
-      "description": "A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263324995?v=4",
-      "source": "GitHub",
-      "stars": 329,
-      "user": "kividbio"
     },
     {
       "title": "Hugo-Dz/spritefusion-sprite-normals - A tool to generate normal maps from any sprite and animated sprite sheet.",
@@ -3619,8 +3572,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 392,
       "user": "Hugo-Dz"
+    },
+    {
+      "title": "dominikmartn/harp - Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "url": "https://github.com/dominikmartn/harp",
+      "published_at": "2026-10-20T10:39:43Z",
+      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
+      "source": "GitHub",
+      "stars": 354,
+      "user": "dominikmartn"
     },
     {
       "title": "Updates to site guidelines and AI/LLM tags",
@@ -3653,7 +3621,7 @@
       "title": "Text preprocessing packages in addition to Mustache that are importable both into Python code and Ruby code",
       "url": "https://stackoverflow.com/questions/80011410/text-preprocessing-packages-in-addition-to-mustache-that-are-importable-both-int",
       "published_at": "2026-10-20T20:03:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "tooling-recommendation",
         "python",
@@ -3672,8 +3640,8 @@
       "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
       "tags": [
         "AI",
-        "TC",
         "biotech",
+        "In Brief",
         "OpenAI"
       ],
       "cover_image": null,
@@ -3688,7 +3656,6 @@
       "tags": [
         "AI",
         "Hardware",
-        "TC",
         "Google"
       ],
       "cover_image": null,

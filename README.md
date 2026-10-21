@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-21 2:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-21 6:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -46,17 +46,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-13ii">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqw6vsysfeivptsjz6hij.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
-      <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/gde/can-a-26b-moe-run-on-an-8-gb-gpu-gemma-4-26b-a4b-on-an-rtx-3050-2efn">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemma4-26b-3050%2Fdevto-cover.00669e4e.jpg" width="200" alt="Can a 26B MoE Run on an 8 GB GPU? Gemma 4 26B A4B on an RTX 3050" />
       <br/>
@@ -65,11 +54,22 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fox7963esvydjbsiqboye.jpeg" width="200" alt="Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed" />
       <br/>
       <b>Natural Languages Have Design Trade-offs Too: Geor...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-13ii">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqw6vsysfeivptsjz6hij.jpg" width="200" alt="Top 7 Featured DEV Posts of the Week" />
+      <br/>
+      <b>Top 7 Featured DEV Posts of the Week</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -94,9 +94,9 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |---|----------|--------|
 | 1 | [Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)](https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa) | Dev.to |
 | 2 | [Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets](https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha) | Dev.to |
-| 3 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-13ii) | Dev.to |
-| 4 | [Can a 26B MoE Run on an 8 GB GPU? Gemma 4 26B A4B on an RTX 3050](https://dev.to/gde/can-a-26b-moe-run-on-an-8-gb-gpu-gemma-4-26b-a4b-on-an-rtx-3050-2efn) | Dev.to |
-| 5 | [Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed](https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi) | Dev.to |
+| 3 | [Can a 26B MoE Run on an 8 GB GPU? Gemma 4 26B A4B on an RTX 3050](https://dev.to/gde/can-a-26b-moe-run-on-an-8-gb-gpu-gemma-4-26b-a4b-on-an-rtx-3050-2efn) | Dev.to |
+| 4 | [Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed](https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi) | Dev.to |
+| 5 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-13ii) | Dev.to |
 | 6 | [Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath](https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02) | Dev.to |
 | 7 | [DuckLess: serverless DuckDB on Google Cloud, in your own project](https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a) | Dev.to |
 | 8 | [Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale](https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Comparing Qwen and Gemma on the Low End: Qwen Is Faster Without Drafting, Gemma Has Better Quality](https://dev.to/gde/comparing-qwen-and-gemma-on-the-low-end-qwen-is-faster-without-drafting-gemma-has-better-quality-30bo) | Dev.to |
 | 20 | [Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?](https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4) | Dev.to |
 
-<sub>Last fetched: Wed, 21 Oct 2026 02:06:45 CAT</sub>
+<sub>Last fetched: Wed, 21 Oct 2026 06:40:10 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Java` — What is the difference between abstract class and interface?**
+**1. `Python` — What are generators and when would you use them?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 OOP, design
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Multiple inheritance, method implementation, use cases
+> yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
-**2. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
+**2. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Execution timing, event loop phases
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-**3. `JavaScript` — What is the event loop and how does it work?**
+**3. `Python` — Implement a context manager using __enter__ and __exit__**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 async, runtime
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Call stack, callback queue, microtask queue
+> with statement, setup/teardown, exception handling
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 87 | 47.3% | `████████████████████` |
-| **Tools** | 45 | 24.5% | `██████████░░░░░░░░░░` |
+| **AI** | 85 | 46.2% | `████████████████████` |
+| **Tools** | 45 | 24.5% | `███████████░░░░░░░░░` |
 | **JavaScript** | 36 | 19.6% | `████████░░░░░░░░░░░░` |
 | **Python** | 30 | 16.3% | `███████░░░░░░░░░░░░░` |
 | **Security** | 19 | 10.3% | `████░░░░░░░░░░░░░░░░` |
-| **DevOps** | 15 | 8.2% | `███░░░░░░░░░░░░░░░░░` |
-| **Cloud** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
-| **Database** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 6 | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
+| **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,13 +194,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.4%
-JavaScript      ██████████████████████████ 24.3%
-Python          █████████████████████ 20.3%
-Java            ███████████████████ 17.6%
+Go              ██████████████████████████████ 27.9%
+JavaScript      ██████████████████████████ 24.5%
+Python          ██████████████████████ 20.4%
+Java            ███████████████████ 17.7%
 Rust            ██████ 5.4%
-Ruby            █ 1.4%
-Kotlin          █ 1.4%
+Ruby            ██ 1.4%
+Kotlin          ██ 1.4%
 Swift           █ 0.7%
 PHP             █ 0.7%
 
@@ -208,7 +208,7 @@ PHP             █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 42
+    "Go" : 41
     "JavaScript" : 36
     "Python" : 30
     "Java" : 26
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 21 Oct 2026 00:06:45 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 21 Oct 2026 04:40:10 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
