@@ -16,21 +16,6 @@
       "user": "Paul Horton"
     },
     {
-      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
-      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
-      "published_at": "2026-10-19T13:00:00Z",
-      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
-      "tags": [
-        "flutter",
-        "ai",
-        "webassembly",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
       "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
       "published_at": "2026-10-20T04:34:20Z",
@@ -44,6 +29,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
+      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
+      "published_at": "2026-10-21T18:56:20Z",
+      "description": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
+      "published_at": "2026-10-19T13:00:00Z",
+      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
+      "tags": [
+        "flutter",
+        "ai",
+        "webassembly",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
     },
     {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
@@ -104,21 +119,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
-      "published_at": "2026-10-19T20:07:12Z",
-      "description": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60n0ma7t182ia9mtt5o9.png",
-      "source": "Dev.to",
-      "user": "Jem"
     },
     {
       "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
@@ -763,8 +763,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1252,
+      "stars": 1255,
       "user": "alchaincyf"
+    },
+    {
+      "title": "openai/php2shell-checker - GitHub Repository",
+      "url": "https://github.com/openai/php2shell-checker",
+      "published_at": "2026-10-21T00:29:12Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "source": "GitHub",
+      "stars": 312,
+      "user": "openai"
     },
     {
       "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
@@ -778,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 17569,
+      "stars": 17714,
       "user": "deepseek-ai"
     },
     {
@@ -793,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 2046,
+      "stars": 2049,
       "user": "Leonxlnx"
     },
     {
@@ -808,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1275,
       "user": "aicodeking"
     },
     {
@@ -823,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 915,
       "user": "feder-cr"
     },
     {
@@ -838,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1868,
+      "stars": 1870,
       "user": "chenglou"
     },
     {
@@ -853,14 +868,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 376,
       "user": "zgsfsec"
     },
     {
       "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
       "url": "https://stackoverflow.com/questions/80011058/typeerror-mailmixin-connect-missing-1-required-positional-argument-self",
       "published_at": "2026-10-19T11:44:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "flask",
@@ -885,149 +900,150 @@
       "user": "dan577"
     },
     {
-      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-      "published_at": "2026-10-21T18:51:56.000Z",
-      "description": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+      "published_at": "2026-10-21T22:16:05.000Z",
+      "description": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
       "tags": [
+        "Apps",
+        "Airbnb"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "published_at": "2026-10-21T21:16:20.000Z",
+      "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "tags": [
+        "AI",
         "Startups",
         "Venture",
-        "AI",
-        "law"
+        "TechCrunch Founder Summit"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
+      "user": "TechCrunch Events"
     },
     {
-      "title": "GM is giving OnStar an AI makeover",
-      "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
-      "published_at": "2026-10-21T18:00:00.000Z",
-      "description": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "published_at": "2026-10-21T21:14:19.000Z",
+      "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
       "tags": [
-        "Transportation",
         "AI",
-        "GM"
+        "Apps",
+        "Social",
+        "agentic commerce",
+        "ai apps"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Kirsten Korosec"
+      "user": "Sarah Perez"
     },
     {
-      "title": "PHP armageddon: OpenAI, Google&#8217;s Wiz find ancient holes, panicking the internet",
-      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "published_at": "2026-10-21T17:59:12.000Z",
-      "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "published_at": "2026-10-21T20:57:40.000Z",
+      "description": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
       "tags": [
-        "Security",
-        "OpenAI"
+        "Fundraising",
+        "Startups",
+        "TC"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
     },
     {
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "published_at": "2026-10-21T17:18:27.000Z",
-      "description": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Waymo starts offering rides at the Las Vegas airport",
-      "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
-      "published_at": "2026-10-21T16:59:44.000Z",
-      "description": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
+      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "published_at": "2026-10-21T20:33:09.000Z",
+      "description": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
       "tags": [
         "Transportation",
-        "autonomous vehicles",
-        "avs",
-        "robotaxis",
-        "Waymo"
+        "Tesla"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Sean O'Kane"
+      "user": "Kirsten Korosec, Sean O'Kane"
     },
     {
-      "title": "Foursquare co-founder says equity holders saw no returns from the company&#8217;s acquisition",
-      "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
-      "published_at": "2026-10-21T14:03:11.000Z",
-      "description": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
-      "tags": [
-        "Apps",
-        "Venture",
-        "Foursquare"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "AI promises productivity, but for managers, it&#8217;s mostly a headache for now",
-      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "published_at": "2026-10-21T14:00:00.000Z",
-      "description": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "published_at": "2026-10-21T20:27:41.000Z",
+      "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
       "tags": [
         "AI",
-        "AI at work",
-        "Exclusive",
-        "management"
+        "TC"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Ram Iyer"
+      "user": "Aditya Mehta"
     },
     {
-      "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
-      "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
-      "published_at": "2026-10-21T13:30:00.000Z",
-      "description": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+      "title": "Automattic begins layoffs following board upheaval and executive departures",
+      "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+      "published_at": "2026-10-21T20:15:00.000Z",
+      "description": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more cuts could follow as the company looks to improve its finances.",
+      "tags": [
+        "Media & Entertainment",
+        "Automattic",
+        "Layoffs",
+        "WordPress"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+      "published_at": "2026-10-21T19:52:20.000Z",
+      "description": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
       "tags": [
         "Climate",
-        "Fundraising",
-        "Exclusive",
-        "heat pumps",
-        "pascal"
+        "Transportation",
+        "electric vehicles",
+        "General Motors",
+        "GM"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Tim De Chant"
+      "user": "Tim De Chant, Kirsten Korosec"
     },
     {
-      "title": "Mach9 raises $34M after pivoting to AI CAD software",
-      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
-      "published_at": "2026-10-21T13:00:00.000Z",
-      "description": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "CAD",
-        "Mach9"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
-    },
-    {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "published_at": "2026-10-20T23:01:23.000Z",
-      "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "published_at": "2026-10-21T19:30:00.000Z",
+      "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
       "tags": [
         "AI",
-        "Anthropic"
+        "Commerce",
+        "Amazon",
+        "Walmart",
+        "commerce"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "How to Diagnose vite: not found After npm ci in a Container Build",
+      "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
+      "published_at": "2026-10-21T16:03:14.000Z",
+      "description": "I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure",
+      "tags": [
+        "npm",
+        "Docker",
+        "Node.js",
+        "vite"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ahmed Tariq"
     },
     {
       "title": "How Neural Networks Work: Why Straight Lines Aren't Enough",
@@ -1104,22 +1120,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vaibhav Gupta"
-    },
-    {
-      "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
-      "url": "https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/",
-      "published_at": "2026-10-16T15:15:53.000Z",
-      "description": "A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that",
-      "tags": [
-        "Artificial Intelligence",
-        "Python",
-        "Software Testing",
-        "generative ai",
-        "Devops"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vasuki Uday Kiran Vudathala"
     }
   ],
   "JavaScript": [
@@ -1270,7 +1270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1252,
+      "stars": 1255,
       "user": "alchaincyf"
     },
     {
@@ -1285,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1145,
       "user": "humblemuzzu"
     },
     {
@@ -1300,8 +1300,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 347,
       "user": "typecraft-dev"
+    },
+    {
+      "title": "openai/php2shell-checker - GitHub Repository",
+      "url": "https://github.com/openai/php2shell-checker",
+      "published_at": "2026-10-21T00:29:12Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "source": "GitHub",
+      "stars": 312,
+      "user": "openai"
     },
     {
       "title": "ip-please/ip-please.github.io - GitHub Repository",
@@ -1319,21 +1334,6 @@
       "user": "ip-please"
     },
     {
-      "title": "WoYun520/dsh-purge - DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "url": "https://github.com/WoYun520/dsh-purge",
-      "published_at": "2026-10-21T01:35:52Z",
-      "description": "DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
-      "source": "GitHub",
-      "stars": 271,
-      "user": "WoYun520"
-    },
-    {
       "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
       "url": "https://github.com/chenglou/handwired",
       "published_at": "2026-10-15T02:15:09Z",
@@ -1345,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1868,
+      "stars": 1870,
       "user": "chenglou"
     },
     {
@@ -1360,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 714,
       "user": "stackedlol"
     },
     {
@@ -1375,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 551,
       "user": "VictorTaelin"
     },
     {
@@ -1390,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 376,
       "user": "zgsfsec"
     },
     {
@@ -1405,22 +1405,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 361,
       "user": "vercel-labs"
-    },
-    {
-      "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
-      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-      "published_at": "2026-10-21T10:53:37.372-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "javascript",
-        "nodejs",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "easrng"
     },
     {
       "title": "Object initialisation and firing initialisation event",
@@ -1471,6 +1457,20 @@
       "user": "youkeow"
     },
     {
+      "title": "How to get a value generator to produce a non-variable value I can still use in CSS?",
+      "url": "https://stackoverflow.com/questions/80011460/how-to-get-a-value-generator-to-produce-a-non-variable-value-i-can-still-use-in",
+      "published_at": "2026-10-21T02:21:19.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dessicatedcorpus"
+    },
+    {
       "title": "How to make it so several buttons change each others' image results in Javascript",
       "url": "https://stackoverflow.com/questions/80011446/how-to-make-it-so-several-buttons-change-each-others-image-results-in-javascrip",
       "published_at": "2026-10-20T23:06:11.000Z",
@@ -1484,20 +1484,6 @@
       "user": "Moon Lich"
     },
     {
-      "title": "How to get a value generator to produce a non-variable value I can still use in CSS?",
-      "url": "https://stackoverflow.com/questions/80011460/how-to-get-a-value-generator-to-produce-a-non-variable-value-i-can-still-use-in",
-      "published_at": "2026-10-21T02:21:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dessicatedcorpus"
-    },
-    {
       "title": "How can I conditionally load a JavaScript file only on WooCommerce product pages in WordPress?",
       "url": "https://stackoverflow.com/questions/80011303/how-can-i-conditionally-load-a-javascript-file-only-on-woocommerce-product-pages",
       "published_at": "2026-10-20T11:17:37.000Z",
@@ -1509,20 +1495,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alpa Ribadiya"
-    },
-    {
-      "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
-      "url": "https://stackoverflow.com/questions/80011164/counting-unique-visitors-on-a-redirect-link-when-the-same-person-opens-it-on-mul",
-      "published_at": "2026-10-19T18:55:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "cloudflare-workers"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aditya Chandra"
     },
     {
       "title": "How to override styles of React component with vanilla extract?",
@@ -1568,6 +1540,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Brendha Tasca"
+    },
+    {
+      "title": "Validate that a string is a positive integer",
+      "url": "https://stackoverflow.com/questions/10834796/validate-that-a-string-is-a-positive-integer",
+      "published_at": "2012-05-31T13:39:15.000Z",
+      "description": "Stack Overflow question · 22 answers · score 267",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mick Byrne"
+    },
+    {
+      "title": "How to Diagnose vite: not found After npm ci in a Container Build",
+      "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
+      "published_at": "2026-10-21T16:03:14.000Z",
+      "description": "I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure",
+      "tags": [
+        "npm",
+        "Docker",
+        "Node.js",
+        "vite"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ahmed Tariq"
     },
     {
       "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
@@ -1780,7 +1779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 17569,
+      "stars": 17714,
       "user": "deepseek-ai"
     },
     {
@@ -1795,7 +1794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 2046,
+      "stars": 2049,
       "user": "Leonxlnx"
     },
     {
@@ -1810,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1936,
+      "stars": 1942,
       "user": "xiaoyang111222"
     },
     {
@@ -1825,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1275,
       "user": "OpenMOSS"
     },
     {
@@ -1840,14 +1839,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1275,
       "user": "aicodeking"
     },
     {
       "title": "Why won't these files open in Uproot python",
       "url": "https://stackoverflow.com/questions/80011652/why-wont-these-files-open-in-uproot-python",
       "published_at": "2026-10-21T16:52:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "file",
@@ -1922,7 +1921,7 @@
       "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
       "url": "https://stackoverflow.com/questions/80011058/typeerror-mailmixin-connect-missing-1-required-positional-argument-self",
       "published_at": "2026-10-19T11:44:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "flask",
@@ -1983,25 +1982,24 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "TitanJamison"
-    },
-    {
-      "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
-      "url": "https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/",
-      "published_at": "2026-10-16T15:15:53.000Z",
-      "description": "A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that",
-      "tags": [
-        "Artificial Intelligence",
-        "Python",
-        "Software Testing",
-        "generative ai",
-        "Devops"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vasuki Uday Kiran Vudathala"
     }
   ],
   "DevOps": [
+    {
+      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
+      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
+      "published_at": "2026-10-21T18:56:20Z",
+      "description": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
     {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
       "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
@@ -2153,6 +2151,21 @@
       "user": "jknupp"
     },
     {
+      "title": "How to Diagnose vite: not found After npm ci in a Container Build",
+      "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
+      "published_at": "2026-10-21T16:03:14.000Z",
+      "description": "I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure",
+      "tags": [
+        "npm",
+        "Docker",
+        "Node.js",
+        "vite"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ahmed Tariq"
+    },
+    {
       "title": "How to Detect Operational Drift Before It Becomes an Incident",
       "url": "https://www.freecodecamp.org/news/detect-operational-drift-before-incident/",
       "published_at": "2026-10-19T06:53:29.000Z",
@@ -2183,22 +2196,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Osomudeya Zudonu"
-    },
-    {
-      "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
-      "url": "https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/",
-      "published_at": "2026-10-16T15:15:53.000Z",
-      "description": "A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that",
-      "tags": [
-        "Artificial Intelligence",
-        "Python",
-        "Software Testing",
-        "generative ai",
-        "Devops"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vasuki Uday Kiran Vudathala"
     }
   ],
   "WebDev": [
@@ -2226,7 +2223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 361,
       "user": "vercel-labs"
     },
     {
@@ -2258,6 +2255,20 @@
       "user": "youkeow"
     },
     {
+      "title": "How to get a value generator to produce a non-variable value I can still use in CSS?",
+      "url": "https://stackoverflow.com/questions/80011460/how-to-get-a-value-generator-to-produce-a-non-variable-value-i-can-still-use-in",
+      "published_at": "2026-10-21T02:21:19.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dessicatedcorpus"
+    },
+    {
       "title": "How to make it so several buttons change each others' image results in Javascript",
       "url": "https://stackoverflow.com/questions/80011446/how-to-make-it-so-several-buttons-change-each-others-image-results-in-javascrip",
       "published_at": "2026-10-20T23:06:11.000Z",
@@ -2269,20 +2280,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Moon Lich"
-    },
-    {
-      "title": "How to get a value generator to produce a non-variable value I can still use in CSS?",
-      "url": "https://stackoverflow.com/questions/80011460/how-to-get-a-value-generator-to-produce-a-non-variable-value-i-can-still-use-in",
-      "published_at": "2026-10-21T02:21:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dessicatedcorpus"
     },
     {
       "title": "How to override styles of React component with vanilla extract?",
@@ -2314,6 +2311,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Brendha Tasca"
+    },
+    {
+      "title": "How to Diagnose vite: not found After npm ci in a Container Build",
+      "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
+      "published_at": "2026-10-21T16:03:14.000Z",
+      "description": "I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure",
+      "tags": [
+        "npm",
+        "Docker",
+        "Node.js",
+        "vite"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Ahmed Tariq"
     },
     {
       "title": "How to Make Your Coding Agent Check Its Work in the Browser",
@@ -2349,21 +2361,6 @@
   ],
   "Mobile": [
     {
-      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
-      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
-      "published_at": "2026-10-19T13:00:00Z",
-      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
-      "tags": [
-        "flutter",
-        "ai",
-        "webassembly",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
       "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
       "published_at": "2026-10-20T04:34:20Z",
@@ -2377,6 +2374,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
+      "published_at": "2026-10-19T13:00:00Z",
+      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
+      "tags": [
+        "flutter",
+        "ai",
+        "webassembly",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
     },
     {
       "title": "Building a cross-platform Flutter festival assistant with llamadart",
@@ -2420,7 +2432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 555,
       "user": "c22dev"
     },
     {
@@ -2441,6 +2453,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
+      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
+      "published_at": "2026-10-21T18:56:20Z",
+      "description": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
     {
       "title": "Multi-Model Agentic Workflows: Claude Opus 5.5 & Sonnet 5.5 Land in Google Antigravity 🚀",
       "url": "https://dev.to/googleai/multi-model-agentic-workflows-claude-opus-55-sonnet-55-land-in-google-antigravity-2kmb",
@@ -2591,18 +2618,19 @@
       "user": "Jonathan Zhuo"
     },
     {
-      "title": "Counting unique visitors on a redirect link when the same person opens it on multiple devices",
-      "url": "https://stackoverflow.com/questions/80011164/counting-unique-visitors-on-a-redirect-link-when-the-same-person-opens-it-on-mul",
-      "published_at": "2026-10-19T18:55:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "title": "How to Diagnose vite: not found After npm ci in a Container Build",
+      "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
+      "published_at": "2026-10-21T16:03:14.000Z",
+      "description": "I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure",
       "tags": [
-        "best-practices",
-        "javascript",
-        "cloudflare-workers"
+        "npm",
+        "Docker",
+        "Node.js",
+        "vite"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aditya Chandra"
+      "source": "freeCodeCamp",
+      "user": "Ahmed Tariq"
     },
     {
       "title": "How to Migrate an Application from AWS to GKE [Full Book]",
@@ -2841,18 +2869,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "Insecure vehicles should be banned, not security tools like the Flipper Zero",
-      "url": "https://saveflipper.ca/",
-      "published_at": "2024-02-21T11:20:49Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "Security"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "pabs3"
-    },
-    {
       "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
       "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
       "published_at": "2026-10-20T20:15:50Z",
@@ -2863,6 +2879,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "xd"
+    },
+    {
+      "title": "Insecure vehicles should be banned, not security tools like the Flipper Zero",
+      "url": "https://saveflipper.ca/",
+      "published_at": "2024-02-21T11:20:49Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "Security"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "pabs3"
     },
     {
       "title": "Google Security Team Member on NSA: \"Fuck These Guys\"",
@@ -2915,18 +2943,6 @@
       "user": "pims"
     },
     {
-      "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
-      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
-      "published_at": "2026-10-20T08:00:50.760-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "freddyb"
-    },
-    {
       "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
       "url": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
       "published_at": "2026-10-21T12:40:17.687-05:00",
@@ -2940,31 +2956,29 @@
       "user": "dzwdz"
     },
     {
-      "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
-      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-      "published_at": "2026-10-21T10:53:37.372-05:00",
+      "title": "Passkeys Attestation Trap",
+      "url": "https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/",
+      "published_at": "2026-10-21T13:16:22.533-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "nodejs",
+        "security",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "kaimac"
+    },
+    {
+      "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+      "published_at": "2026-10-20T08:00:50.760-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "easrng"
-    },
-    {
-      "title": "PHP armageddon: OpenAI, Google&#8217;s Wiz find ancient holes, panicking the internet",
-      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "published_at": "2026-10-21T17:59:12.000Z",
-      "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-      "tags": [
-        "Security",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
+      "user": "freddyb"
     }
   ],
   "Tools": [
@@ -3012,21 +3026,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
-    },
-    {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
-      "published_at": "2026-10-19T20:07:12Z",
-      "description": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60n0ma7t182ia9mtt5o9.png",
-      "source": "Dev.to",
-      "user": "Jem"
     },
     {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
@@ -3151,7 +3150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1252,
+      "stars": 1255,
       "user": "alchaincyf"
     },
     {
@@ -3166,7 +3165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 1130,
+      "stars": 1145,
       "user": "humblemuzzu"
     },
     {
@@ -3181,8 +3180,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 338,
+      "stars": 347,
       "user": "typecraft-dev"
+    },
+    {
+      "title": "openai/php2shell-checker - GitHub Repository",
+      "url": "https://github.com/openai/php2shell-checker",
+      "published_at": "2026-10-21T00:29:12Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "source": "GitHub",
+      "stars": 312,
+      "user": "openai"
     },
     {
       "title": "ip-please/ip-please.github.io - GitHub Repository",
@@ -3200,21 +3214,6 @@
       "user": "ip-please"
     },
     {
-      "title": "WoYun520/dsh-purge - DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "url": "https://github.com/WoYun520/dsh-purge",
-      "published_at": "2026-10-21T01:35:52Z",
-      "description": "DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
-      "source": "GitHub",
-      "stars": 271,
-      "user": "WoYun520"
-    },
-    {
       "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "published_at": "2026-10-16T07:47:23Z",
@@ -3226,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 17569,
+      "stars": 17714,
       "user": "deepseek-ai"
     },
     {
@@ -3241,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
       "source": "GitHub",
-      "stars": 2046,
+      "stars": 2049,
       "user": "Leonxlnx"
     },
     {
@@ -3256,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1936,
+      "stars": 1942,
       "user": "xiaoyang111222"
     },
     {
@@ -3271,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1267,
+      "stars": 1275,
       "user": "OpenMOSS"
     },
     {
@@ -3286,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1275,
       "user": "aicodeking"
     },
     {
@@ -3301,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
       "source": "GitHub",
-      "stars": 910,
+      "stars": 915,
       "user": "feder-cr"
     },
     {
@@ -3316,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 158,
+      "stars": 175,
       "user": "Fluepke"
     },
     {
@@ -3376,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
       "source": "GitHub",
-      "stars": 1868,
+      "stars": 1870,
       "user": "chenglou"
     },
     {
@@ -3391,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 709,
+      "stars": 714,
       "user": "stackedlol"
     },
     {
@@ -3406,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 551,
       "user": "VictorTaelin"
     },
     {
@@ -3421,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 374,
+      "stars": 376,
       "user": "zgsfsec"
     },
     {
@@ -3436,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 361,
       "user": "vercel-labs"
     },
     {
@@ -3451,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 895,
+      "stars": 907,
       "user": "reason-machines"
     },
     {
@@ -3481,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 555,
       "user": "c22dev"
     },
     {
@@ -3496,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 544,
       "user": "Hugo-Dz"
     },
     {
@@ -3511,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 515,
+      "stars": 528,
       "user": "dominikmartn"
     },
     {
@@ -3531,19 +3530,20 @@
       "user": "HippoMan"
     },
     {
-      "title": "AI promises productivity, but for managers, it&#8217;s mostly a headache for now",
-      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "published_at": "2026-10-21T14:00:00.000Z",
-      "description": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "published_at": "2026-10-21T21:14:19.000Z",
+      "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
       "tags": [
         "AI",
-        "AI at work",
-        "Exclusive",
-        "management"
+        "Apps",
+        "Social",
+        "agentic commerce",
+        "ai apps"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Ram Iyer"
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
@@ -3590,22 +3590,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Vaibhav Gupta"
-    },
-    {
-      "title": "Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]",
-      "url": "https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/",
-      "published_at": "2026-10-16T15:15:53.000Z",
-      "description": "A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that",
-      "tags": [
-        "Artificial Intelligence",
-        "Python",
-        "Software Testing",
-        "generative ai",
-        "Devops"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Vasuki Uday Kiran Vudathala"
     }
   ]
 }
