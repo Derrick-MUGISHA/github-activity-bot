@@ -16,6 +16,36 @@
       "user": "Paul Horton"
     },
     {
+      "title": "Don't Be a Proxy Between Me and Your AI",
+      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
+      "published_at": "2026-10-22T04:31:09Z",
+      "description": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
+      "tags": [
+        "ai",
+        "discuss",
+        "career",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
+      "source": "Dev.to",
+      "user": "Adam - The Developer ✨"
+    },
+    {
+      "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
+      "url": "https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5",
+      "published_at": "2026-10-22T13:05:33Z",
+      "description": "Orchestrating Multiple AI Agents in Parallel via Custom Skills   Series 1/2: Multi-Model...",
+      "tags": [
+        "gemini",
+        "devtools",
+        "programming",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F77ea9kn1289e1qozuen1.png",
+      "source": "Dev.to",
+      "user": "JimmyLiao"
+    },
+    {
       "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
       "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
       "published_at": "2026-10-21T18:56:20Z",
@@ -44,21 +74,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fajukpnfpo90v31p2y6af.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Building a cross-platform Flutter festival assistant with llamadart",
-      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
-      "published_at": "2026-10-20T13:00:00Z",
-      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
-      "tags": [
-        "flutter",
-        "tutorial",
-        "ai",
-        "dart"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
     },
     {
       "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
@@ -149,6 +164,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm639wbwsz2jige4sw3v1.png",
       "source": "Dev.to",
       "user": "Freddy Lécué"
+    },
+    {
+      "title": "Building a cross-platform Flutter festival assistant with llamadart",
+      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
+      "published_at": "2026-10-20T13:00:00Z",
+      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
+      "tags": [
+        "flutter",
+        "tutorial",
+        "ai",
+        "dart"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
     },
     {
       "title": "[Agent Platform in Practice (2)] From Monolithic Cloud Run to Google Cloud Agent Runtime: Refactoring LINE AI Business Card King",
@@ -555,36 +585,6 @@
       "user": "Sid Pednekar"
     },
     {
-      "title": "Design for Churn",
-      "url": "https://dev.to/dailycontext/design-for-churn-5c6h",
-      "published_at": "2026-10-14T12:03:29Z",
-      "description": "The biggest design shift of the AI era isn’t about who writes the code. It’s about how long the code...",
-      "tags": [
-        "aie",
-        "design",
-        "churn",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cyn0n0uzj2m1wnya1y0.jpeg",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction",
-      "url": "https://dev.to/dailycontext/inside-the-30-a-week-self-improving-agents-eliminating-enterprise-back-office-friction-c4p",
-      "published_at": "2026-10-14T12:05:21Z",
-      "description": "In the high-stakes world of enterprise AI engineering, the default assumption is that reliability...",
-      "tags": [
-        "ai",
-        "agents",
-        "evals",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foy6xeoj2evsdy112qbsn.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -753,36 +753,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "alchaincyf/huashu-motion - 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
-      "url": "https://github.com/alchaincyf/huashu-motion",
-      "published_at": "2026-10-18T12:19:27Z",
-      "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
-      "source": "GitHub",
-      "stars": 1354,
-      "user": "alchaincyf"
-    },
-    {
-      "title": "openai/php2shell-checker - GitHub Repository",
-      "url": "https://github.com/openai/php2shell-checker",
-      "published_at": "2026-10-21T00:29:12Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 646,
-      "user": "openai"
-    },
-    {
       "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "published_at": "2026-10-16T07:47:23Z",
@@ -794,23 +764,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19097,
+      "stars": 19576,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "url": "https://github.com/aicodeking/leanrea",
-      "published_at": "2026-10-17T02:53:24Z",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
-      "source": "GitHub",
-      "stars": 1328,
-      "user": "aicodeking"
     },
     {
       "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
@@ -824,14 +779,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1319,
+      "stars": 1425,
       "user": "ikow"
     },
     {
-      "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "url": "https://github.com/aicodeking/leanrea",
+      "published_at": "2026-10-17T02:53:24Z",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
+      "source": "GitHub",
+      "stars": 1348,
+      "user": "aicodeking"
+    },
+    {
+      "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
       "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
       "published_at": "2026-10-16T04:05:37Z",
-      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
       "tags": [
         "typescript",
         "github",
@@ -839,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 399,
       "user": "zgsfsec"
     },
     {
@@ -856,6 +826,32 @@
       "source": "GitHub",
       "stars": 322,
       "user": "finereli"
+    },
+    {
+      "title": "jailbreaking the switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "published_at": "2026-10-22T07:10:48.233-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "hardware",
+        "reversing",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "kwas"
+    },
+    {
+      "title": "Tell your network to explain itself and then some",
+      "url": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
+      "published_at": "2026-10-22T07:53:26.774-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "networking"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "confusedalex"
     },
     {
       "title": "Railway Security Disclosure: Wednesday October 21st",
@@ -899,6 +895,132 @@
       "user": "dan577"
     },
     {
+      "title": "Spotify confirms Family Plan crackdown, but calls it a &#8216;routine improvement&#8217;",
+      "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
+      "published_at": "2026-10-22T15:24:32.000Z",
+      "description": "Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "family",
+        "Music",
+        "Spotify"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Investors break down how founders can raise a Series A today",
+      "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+      "published_at": "2026-10-22T15:15:00.000Z",
+      "description": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
+      "tags": [
+        "Startups",
+        "Venture",
+        "fundraising"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Spotify&#8217;s current AI bet is about being the music service that agents choose",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "published_at": "2026-10-22T15:03:58.000Z",
+      "description": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "music streaming",
+        "Spotify"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+      "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+      "published_at": "2026-10-22T14:59:28.000Z",
+      "description": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
+      "tags": [
+        "Climate",
+        "Fundraising",
+        "Startups",
+        "Chips Act",
+        "fusion power"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Developer platform Railway urges &#8216;all users&#8217; to revoke secret keys after cyberattack",
+      "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+      "published_at": "2026-10-22T14:03:00.000Z",
+      "description": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "data breach",
+        "hackers",
+        "railway"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Claude Duet app is Anthropic&#8217;s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "published_at": "2026-10-22T13:53:26.000Z",
+      "description": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "tags": [
+        "AI",
+        "Apps",
+        "ai agent",
+        "Anthropic",
+        "Claude"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "published_at": "2026-10-22T13:26:52.000Z",
+      "description": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "tags": [
+        "AI",
+        "Gadgets",
+        "Ambient AI",
+        "Lightspeed Venture Capital",
+        "South Park Commons"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "published_at": "2026-10-22T13:11:13.000Z",
+      "description": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "artificial intellignce",
+        "deepseek",
+        "Funding"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
+    },
+    {
       "title": "Tesla says it will start selling Cybercabs by end of year",
       "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
       "published_at": "2026-10-22T00:17:54.000Z",
@@ -927,124 +1049,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
-    },
-    {
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "published_at": "2026-10-21T22:45:34.000Z",
-      "description": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-      "tags": [
-        "Social",
-        "AI",
-        "Facebook",
-        "Mark Zuckerberg",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
-      "published_at": "2026-10-21T22:16:05.000Z",
-      "description": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
-      "tags": [
-        "Apps",
-        "Airbnb"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "published_at": "2026-10-21T21:16:20.000Z",
-      "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Venture",
-        "TechCrunch Founder Summit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "published_at": "2026-10-21T21:14:19.000Z",
-      "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "agentic commerce",
-        "e-commerce"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-      "published_at": "2026-10-21T20:57:40.000Z",
-      "description": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "Flapping Airplanes"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
-      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-      "published_at": "2026-10-21T20:33:09.000Z",
-      "description": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
-      "tags": [
-        "Robotics",
-        "Transportation",
-        "Elon Musk",
-        "Tesla",
-        "Optimus"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec, Sean O'Kane"
-    },
-    {
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "published_at": "2026-10-21T20:27:41.000Z",
-      "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "tags": [
-        "AI",
-        "flint"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
-    },
-    {
-      "title": "Automattic begins layoffs following board upheaval and executive departures",
-      "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
-      "published_at": "2026-10-21T20:15:00.000Z",
-      "description": "Sources say more cuts could follow as the company looks to improve its finances.",
-      "tags": [
-        "Media & Entertainment",
-        "Automattic",
-        "Layoffs",
-        "WordPress"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -1291,81 +1295,6 @@
       "user": "velmu"
     },
     {
-      "title": "alchaincyf/huashu-motion - 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
-      "url": "https://github.com/alchaincyf/huashu-motion",
-      "published_at": "2026-10-18T12:19:27Z",
-      "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
-      "source": "GitHub",
-      "stars": 1354,
-      "user": "alchaincyf"
-    },
-    {
-      "title": "humblemuzzu/dumbtv - GitHub Repository",
-      "url": "https://github.com/humblemuzzu/dumbtv",
-      "published_at": "2026-10-18T17:04:12Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
-      "source": "GitHub",
-      "stars": 1215,
-      "user": "humblemuzzu"
-    },
-    {
-      "title": "openai/php2shell-checker - GitHub Repository",
-      "url": "https://github.com/openai/php2shell-checker",
-      "published_at": "2026-10-21T00:29:12Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 646,
-      "user": "openai"
-    },
-    {
-      "title": "WoYun520/dsh-purge - DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "url": "https://github.com/WoYun520/dsh-purge",
-      "published_at": "2026-10-21T01:35:52Z",
-      "description": "DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
-      "source": "GitHub",
-      "stars": 378,
-      "user": "WoYun520"
-    },
-    {
-      "title": "typecraft-dev/oma-cast - omarchy rebuild of raycast",
-      "url": "https://github.com/typecraft-dev/oma-cast",
-      "published_at": "2026-10-19T17:48:58Z",
-      "description": "omarchy rebuild of raycast",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
-      "source": "GitHub",
-      "stars": 375,
-      "user": "typecraft-dev"
-    },
-    {
       "title": "stackedlol/ascii-sharks - ascii shark components in typescript",
       "url": "https://github.com/stackedlol/ascii-sharks",
       "published_at": "2026-10-19T21:54:19Z",
@@ -1377,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 759,
       "user": "stackedlol"
     },
     {
@@ -1392,14 +1321,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 561,
       "user": "VictorTaelin"
     },
     {
-      "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
       "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
       "published_at": "2026-10-16T04:05:37Z",
-      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
       "tags": [
         "typescript",
         "github",
@@ -1407,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 399,
       "user": "zgsfsec"
     },
     {
@@ -1422,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 380,
       "user": "vercel-labs"
     },
     {
@@ -1489,7 +1418,7 @@
       "title": "How can Chrome’s built-in PDF viewer download button use a custom filename for an authenticated PDF?",
       "url": "https://stackoverflow.com/questions/80011542/how-can-chrome-s-built-in-pdf-viewer-download-button-use-a-custom-filename-for-a",
       "published_at": "2026-10-21T10:00:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "angular",
@@ -1529,17 +1458,18 @@
       "user": "Moon Lich"
     },
     {
-      "title": "How can I conditionally load a JavaScript file only on WooCommerce product pages in WordPress?",
-      "url": "https://stackoverflow.com/questions/80011303/how-can-i-conditionally-load-a-javascript-file-only-on-woocommerce-product-pages",
-      "published_at": "2026-10-20T11:17:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
+      "title": "Changing two images simultaneously with one button-onclick and querySelector",
+      "url": "https://stackoverflow.com/questions/80009812/changing-two-images-simultaneously-with-one-button-onclick-and-queryselector",
+      "published_at": "2026-10-13T20:20:33.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
-        "wordpress"
+        "onclick",
+        "queryselector"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Alpa Ribadiya"
+      "user": "Moon Lich"
     },
     {
       "title": "How to override styles of React component with vanilla extract?",
@@ -1794,14 +1724,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19097,
+      "stars": 19576,
       "user": "deepseek-ai"
     },
     {
-      "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1552 知识点、6355 题、自适应诊断",
+      "title": "xiaoyang111222/cn-math-taxonomy - 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "published_at": "2026-10-18T09:04:43Z",
-      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1552 知识点、6355 题、自适应诊断",
+      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
       "tags": [
         "python",
         "github",
@@ -1809,7 +1739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2123,
+      "stars": 2171,
       "user": "xiaoyang111222"
     },
     {
@@ -1824,23 +1754,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1383,
+      "stars": 1426,
       "user": "OpenMOSS"
-    },
-    {
-      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "url": "https://github.com/aicodeking/leanrea",
-      "published_at": "2026-10-17T02:53:24Z",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
-      "source": "GitHub",
-      "stars": 1328,
-      "user": "aicodeking"
     },
     {
       "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
@@ -1854,8 +1769,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1319,
+      "stars": 1425,
       "user": "ikow"
+    },
+    {
+      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "url": "https://github.com/aicodeking/leanrea",
+      "published_at": "2026-10-17T02:53:24Z",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
+      "source": "GitHub",
+      "stars": 1348,
+      "user": "aicodeking"
+    },
+    {
+      "title": "Alternative import hook for modifying source code before compiling",
+      "url": "https://stackoverflow.com/questions/80011839/alternative-import-hook-for-modifying-source-code-before-compiling",
+      "published_at": "2026-10-22T12:13:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "import-hooks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "How should I lock FEFO inventory batches when reserving stock concurrently with SQLAlchemy and PostgreSQL?",
@@ -1985,19 +1928,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dan577"
-    },
-    {
-      "title": "Alexa custom skill in nl-NL locale is never invoked (\"Ik weet niet zeker hoe ik je daarmee kan helpen\") while model builds successfully",
-      "url": "https://stackoverflow.com/questions/80011328/alexa-custom-skill-in-nl-nl-locale-is-never-invoked-ik-weet-niet-zeker-hoe-ik",
-      "published_at": "2026-10-20T12:59:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "alexa-skills-kit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Justin Debuss"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2252,7 +2182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 380,
       "user": "vercel-labs"
     },
     {
@@ -2376,21 +2306,6 @@
   ],
   "Mobile": [
     {
-      "title": "Building a cross-platform Flutter festival assistant with llamadart",
-      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
-      "published_at": "2026-10-20T13:00:00Z",
-      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
-      "tags": [
-        "flutter",
-        "tutorial",
-        "ai",
-        "dart"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
       "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
       "published_at": "2026-10-20T04:34:20Z",
@@ -2404,6 +2319,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Building a cross-platform Flutter festival assistant with llamadart",
+      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
+      "published_at": "2026-10-20T13:00:00Z",
+      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
+      "tags": [
+        "flutter",
+        "tutorial",
+        "ai",
+        "dart"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
     },
     {
       "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
@@ -2436,6 +2366,21 @@
       "user": "Jhin Lee"
     },
     {
+      "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
+      "published_at": "2026-10-16T04:05:37Z",
+      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
+      "source": "GitHub",
+      "stars": 399,
+      "user": "zgsfsec"
+    },
+    {
       "title": "c22dev/mush8 - A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
       "url": "https://github.com/c22dev/mush8",
       "published_at": "2026-10-16T16:56:14Z",
@@ -2447,7 +2392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 583,
       "user": "c22dev"
     },
     {
@@ -2941,8 +2886,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1319,
+      "stars": 1425,
       "user": "ikow"
+    },
+    {
+      "title": "jailbreaking the switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "published_at": "2026-10-22T07:10:48.233-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "hardware",
+        "reversing",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "kwas"
     },
     {
       "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
@@ -2958,17 +2917,17 @@
       "user": "pims"
     },
     {
-      "title": "Upcoming Critical PHP Security Release",
-      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
-      "published_at": "2026-10-20T17:23:54.452-05:00",
+      "title": "Railway Security Disclosure: Wednesday October 21st",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "published_at": "2026-10-21T17:31:11.965-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "php",
+        "devops",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "pushcx"
+      "user": "veverkap"
     },
     {
       "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
@@ -2984,30 +2943,36 @@
       "user": "dzwdz"
     },
     {
-      "title": "Passkeys Attestation Trap",
-      "url": "https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/",
-      "published_at": "2026-10-21T13:16:22.533-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Developer platform Railway urges &#8216;all users&#8217; to revoke secret keys after cyberattack",
+      "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+      "published_at": "2026-10-22T14:03:00.000Z",
+      "description": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
       "tags": [
-        "security",
-        "web"
+        "Security",
+        "cybersecurity",
+        "data breach",
+        "hackers",
+        "railway"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "kaimac"
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
-      "title": "Railway Security Disclosure: Wednesday October 21st",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "published_at": "2026-10-21T17:31:11.965-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "published_at": "2026-10-22T13:11:13.000Z",
+      "description": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
       "tags": [
-        "devops",
-        "security"
+        "AI",
+        "Fundraising",
+        "artificial intellignce",
+        "deepseek",
+        "Funding"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "veverkap"
+      "source": "TechCrunch",
+      "user": "Kate Park"
     }
   ],
   "Tools": [
@@ -3025,6 +2990,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsz6wqckn1mxagladj1ln.png",
       "source": "Dev.to",
       "user": "Paul Horton"
+    },
+    {
+      "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
+      "url": "https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5",
+      "published_at": "2026-10-22T13:05:33Z",
+      "description": "Orchestrating Multiple AI Agents in Parallel via Custom Skills   Series 1/2: Multi-Model...",
+      "tags": [
+        "gemini",
+        "devtools",
+        "programming",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F77ea9kn1289e1qozuen1.png",
+      "source": "Dev.to",
+      "user": "JimmyLiao"
     },
     {
       "title": "SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest",
@@ -3183,81 +3163,6 @@
       "user": "pabs3"
     },
     {
-      "title": "alchaincyf/huashu-motion - 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
-      "url": "https://github.com/alchaincyf/huashu-motion",
-      "published_at": "2026-10-18T12:19:27Z",
-      "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
-      "source": "GitHub",
-      "stars": 1354,
-      "user": "alchaincyf"
-    },
-    {
-      "title": "humblemuzzu/dumbtv - GitHub Repository",
-      "url": "https://github.com/humblemuzzu/dumbtv",
-      "published_at": "2026-10-18T17:04:12Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
-      "source": "GitHub",
-      "stars": 1215,
-      "user": "humblemuzzu"
-    },
-    {
-      "title": "openai/php2shell-checker - GitHub Repository",
-      "url": "https://github.com/openai/php2shell-checker",
-      "published_at": "2026-10-21T00:29:12Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 646,
-      "user": "openai"
-    },
-    {
-      "title": "WoYun520/dsh-purge - DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "url": "https://github.com/WoYun520/dsh-purge",
-      "published_at": "2026-10-21T01:35:52Z",
-      "description": "DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
-      "source": "GitHub",
-      "stars": 378,
-      "user": "WoYun520"
-    },
-    {
-      "title": "typecraft-dev/oma-cast - omarchy rebuild of raycast",
-      "url": "https://github.com/typecraft-dev/oma-cast",
-      "published_at": "2026-10-19T17:48:58Z",
-      "description": "omarchy rebuild of raycast",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
-      "source": "GitHub",
-      "stars": 375,
-      "user": "typecraft-dev"
-    },
-    {
       "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "published_at": "2026-10-16T07:47:23Z",
@@ -3269,14 +3174,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19097,
+      "stars": 19576,
       "user": "deepseek-ai"
     },
     {
-      "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1552 知识点、6355 题、自适应诊断",
+      "title": "xiaoyang111222/cn-math-taxonomy - 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "published_at": "2026-10-18T09:04:43Z",
-      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1552 知识点、6355 题、自适应诊断",
+      "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
       "tags": [
         "python",
         "github",
@@ -3284,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2123,
+      "stars": 2171,
       "user": "xiaoyang111222"
     },
     {
@@ -3299,23 +3204,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1383,
+      "stars": 1426,
       "user": "OpenMOSS"
-    },
-    {
-      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "url": "https://github.com/aicodeking/leanrea",
-      "published_at": "2026-10-17T02:53:24Z",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
-      "source": "GitHub",
-      "stars": 1328,
-      "user": "aicodeking"
     },
     {
       "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
@@ -3329,8 +3219,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1319,
+      "stars": 1425,
       "user": "ikow"
+    },
+    {
+      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "url": "https://github.com/aicodeking/leanrea",
+      "published_at": "2026-10-17T02:53:24Z",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
+      "source": "GitHub",
+      "stars": 1348,
+      "user": "aicodeking"
     },
     {
       "title": "Fluepke/emudrahahahahaha - Private Keys",
@@ -3344,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 198,
+      "stars": 203,
       "user": "Fluepke"
     },
     {
@@ -3359,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52906012?v=4",
       "source": "GitHub",
-      "stars": 150,
+      "stars": 146,
       "user": "Samsara-1999"
     },
     {
@@ -3374,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75201518?v=4",
       "source": "GitHub",
-      "stars": 144,
+      "stars": 143,
       "user": "mu-zi-lee"
     },
     {
@@ -3389,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344968002?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 129,
       "user": "0c-biggo"
     },
     {
@@ -3419,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 744,
+      "stars": 759,
       "user": "stackedlol"
     },
     {
@@ -3434,14 +3339,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 561,
       "user": "VictorTaelin"
     },
     {
-      "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
       "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
       "published_at": "2026-10-16T04:05:37Z",
-      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
       "tags": [
         "typescript",
         "github",
@@ -3449,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 399,
       "user": "zgsfsec"
     },
     {
@@ -3464,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 380,
       "user": "vercel-labs"
     },
     {
@@ -3494,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1032,
       "user": "reason-machines"
     },
     {
@@ -3509,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 818,
       "user": "ELY-Open-Source"
     },
     {
@@ -3524,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 590,
       "user": "Hugo-Dz"
     },
     {
@@ -3539,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 573,
+      "stars": 583,
       "user": "c22dev"
     },
     {
@@ -3554,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 575,
       "user": "dominikmartn"
     },
     {
@@ -3572,22 +3477,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "HippoMan"
-    },
-    {
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "published_at": "2026-10-21T21:14:19.000Z",
-      "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "agentic commerce",
-        "e-commerce"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
