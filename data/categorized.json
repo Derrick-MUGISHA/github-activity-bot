@@ -31,21 +31,6 @@
       "user": "Paul Horton"
     },
     {
-      "title": "Congrats to the Sanity Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-sanity-challenge-winners-1140",
-      "published_at": "2026-10-22T15:53:41Z",
-      "description": "We are thrilled to announce the winners of the Sanity Challenge, our partnership with Sanity built...",
-      "tags": [
-        "devchallenge",
-        "sanitychallenge",
-        "sanity",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fai84dn5sg47787tv3qsi.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
       "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
       "published_at": "2026-10-22T16:05:20Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Congrats to the Sanity Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-sanity-challenge-winners-1140",
+      "published_at": "2026-10-22T15:53:41Z",
+      "description": "We are thrilled to announce the winners of the Sanity Challenge, our partnership with Sanity built...",
+      "tags": [
+        "devchallenge",
+        "sanitychallenge",
+        "sanity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fai84dn5sg47787tv3qsi.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
@@ -570,21 +570,6 @@
       "user": "Jonathan Zhuo"
     },
     {
-      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
-      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
-      "published_at": "2026-10-16T14:52:20Z",
-      "description": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -764,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1417,
+      "stars": 1434,
       "user": "alchaincyf"
     },
     {
@@ -779,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 803,
       "user": "openai"
     },
     {
@@ -794,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19761,
+      "stars": 19821,
       "user": "deepseek-ai"
     },
     {
@@ -809,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1472,
+      "stars": 1507,
       "user": "ikow"
     },
     {
@@ -824,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1361,
+      "stars": 1364,
       "user": "aicodeking"
     },
     {
@@ -863,6 +848,7 @@
       "published_at": "2026-10-22T07:10:48.233-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "ai-tooling",
         "hardware",
         "reversing",
         "security"
@@ -898,6 +884,50 @@
       "user": "gh0st_dancing"
     },
     {
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "published_at": "2026-10-22T22:34:54.000Z",
+      "description": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+      "tags": [
+        "TC",
+        "Venture",
+        "a16z"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "published_at": "2026-10-22T22:08:24.000Z",
+      "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Startups",
+        "In Brief",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "published_at": "2026-10-22T21:05:05.000Z",
+      "description": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+      "tags": [
+        "Transportation",
+        "Exclusive",
+        "Rivian"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
       "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
       "published_at": "2026-10-22T19:07:09.000Z",
@@ -906,8 +936,8 @@
         "AI",
         "Apps",
         "1password",
-        "agents",
-        "dots"
+        "dots",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -972,67 +1002,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
-    },
-    {
-      "title": "Elon Musk made a $1 billion investment in Skydance, report says",
-      "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
-      "published_at": "2026-10-22T17:36:38.000Z",
-      "description": "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.",
-      "tags": [
-        "Media & Entertainment",
-        "Elon Musk",
-        "in breif",
-        "Paramount Skydance"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "published_at": "2026-10-22T16:47:17.000Z",
-      "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "tags": [
-        "AI",
-        "Security",
-        "connectwise",
-        "cybersecurity",
-        "data breach"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "published_at": "2026-10-22T16:00:00.000Z",
-      "description": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "OpenAI",
-        "Uber"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Tesla is prepping a Cybercab onslaught",
-      "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
-      "published_at": "2026-10-22T15:44:39.000Z",
-      "description": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
-      "tags": [
-        "Transportation",
-        "cybercab",
-        "robotaxi",
-        "Tesla"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -1290,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1417,
+      "stars": 1434,
       "user": "alchaincyf"
     },
     {
@@ -1305,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 803,
       "user": "openai"
     },
     {
@@ -1320,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 430,
       "user": "nthnclrk"
     },
     {
@@ -1335,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 401,
       "user": "WoYun520"
     },
     {
@@ -1350,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 397,
       "user": "typecraft-dev"
     },
     {
@@ -1365,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 766,
       "user": "stackedlol"
     },
     {
@@ -1410,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 382,
       "user": "vercel-labs"
     },
     {
@@ -1427,6 +1396,21 @@
       "source": "GitHub",
       "stars": 323,
       "user": "finereli"
+    },
+    {
+      "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
+      "url": "https://github.com/colinhacks/reylo",
+      "published_at": "2026-10-21T00:16:54Z",
+      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
+      "source": "GitHub",
+      "stars": 632,
+      "user": "colinhacks"
     },
     {
       "title": "unserialize/serialize objects in Node.js, similar to PHP",
@@ -1637,21 +1621,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
-      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
-      "published_at": "2026-10-16T14:52:20Z",
-      "description": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
       "published_at": "2025-10-29T18:57:29Z",
@@ -1783,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19761,
+      "stars": 19821,
       "user": "deepseek-ai"
     },
     {
@@ -1798,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2187,
+      "stars": 2190,
       "user": "xiaoyang111222"
     },
     {
@@ -1813,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1472,
+      "stars": 1507,
       "user": "ikow"
     },
     {
@@ -1828,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1445,
+      "stars": 1450,
       "user": "OpenMOSS"
     },
     {
@@ -1843,14 +1812,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1361,
+      "stars": 1364,
       "user": "aicodeking"
     },
     {
       "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
       "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
       "published_at": "2026-10-22T17:09:57.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "python",
         "regex",
@@ -1878,7 +1847,7 @@
       "title": "Alternative import hook for modifying source code before compiling",
       "url": "https://stackoverflow.com/questions/80011839/alternative-import-hook-for-modifying-source-code-before-compiling",
       "published_at": "2026-10-22T12:13:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "import-hooks"
@@ -2189,6 +2158,18 @@
       "user": "jknupp"
     },
     {
+      "title": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "published_at": "2026-10-22T15:09:22.732-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "programming"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "nick4"
+    },
+    {
       "title": "Expose only share links of a private service with caddy",
       "url": "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html",
       "published_at": "2026-10-22T11:30:14.409-05:00",
@@ -2273,7 +2254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 382,
       "user": "vercel-labs"
     },
     {
@@ -2482,7 +2463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 594,
       "user": "c22dev"
     },
     {
@@ -2758,6 +2739,21 @@
       "user": "iancarroll"
     },
     {
+      "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
+      "url": "https://github.com/colinhacks/reylo",
+      "published_at": "2026-10-21T00:16:54Z",
+      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
+      "source": "GitHub",
+      "stars": 632,
+      "user": "colinhacks"
+    },
+    {
       "title": "Object initialisation and firing initialisation event",
       "url": "https://stackoverflow.com/questions/80011608/object-initialisation-and-firing-initialisation-event",
       "published_at": "2026-10-21T14:20:48.000Z",
@@ -2976,7 +2972,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1472,
+      "stars": 1507,
       "user": "ikow"
     },
     {
@@ -2985,6 +2981,7 @@
       "published_at": "2026-10-22T07:10:48.233-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "ai-tooling",
         "hardware",
         "reversing",
         "security"
@@ -3005,22 +3002,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ggpsv"
-    },
-    {
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "published_at": "2026-10-22T16:47:17.000Z",
-      "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "tags": [
-        "AI",
-        "Security",
-        "connectwise",
-        "cybersecurity",
-        "data breach"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     }
   ],
   "Tools": [
@@ -3207,7 +3188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1417,
+      "stars": 1434,
       "user": "alchaincyf"
     },
     {
@@ -3222,7 +3203,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 803,
       "user": "openai"
     },
     {
@@ -3237,7 +3218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 408,
+      "stars": 430,
       "user": "nthnclrk"
     },
     {
@@ -3252,7 +3233,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 401,
       "user": "WoYun520"
     },
     {
@@ -3267,7 +3248,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 397,
       "user": "typecraft-dev"
     },
     {
@@ -3282,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19761,
+      "stars": 19821,
       "user": "deepseek-ai"
     },
     {
@@ -3297,7 +3278,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2187,
+      "stars": 2190,
       "user": "xiaoyang111222"
     },
     {
@@ -3312,7 +3293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1472,
+      "stars": 1507,
       "user": "ikow"
     },
     {
@@ -3327,7 +3308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1445,
+      "stars": 1450,
       "user": "OpenMOSS"
     },
     {
@@ -3342,7 +3323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1361,
+      "stars": 1364,
       "user": "aicodeking"
     },
     {
@@ -3357,7 +3338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 215,
       "user": "Fluepke"
     },
     {
@@ -3432,7 +3413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 764,
+      "stars": 766,
       "user": "stackedlol"
     },
     {
@@ -3477,7 +3458,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 382,
       "user": "vercel-labs"
     },
     {
@@ -3507,7 +3488,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 1052,
+      "stars": 1062,
       "user": "reason-machines"
     },
     {
@@ -3522,8 +3503,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 839,
+      "stars": 851,
       "user": "ELY-Open-Source"
+    },
+    {
+      "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
+      "url": "https://github.com/colinhacks/reylo",
+      "published_at": "2026-10-21T00:16:54Z",
+      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
+      "source": "GitHub",
+      "stars": 632,
+      "user": "colinhacks"
     },
     {
       "title": "Hugo-Dz/spritefusion-sprite-normals - A tool to generate normal maps from any sprite and animated sprite sheet.",
@@ -3537,7 +3533,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 603,
       "user": "Hugo-Dz"
     },
     {
@@ -3552,23 +3548,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 594,
       "user": "c22dev"
     },
     {
-      "title": "dominikmartn/harp - Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
-      "url": "https://github.com/dominikmartn/harp",
-      "published_at": "2026-10-20T10:39:43Z",
-      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "title": "jailbreaking the switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "published_at": "2026-10-22T07:10:48.233-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
+        "ai-tooling",
+        "hardware",
+        "reversing",
+        "security"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
-      "source": "GitHub",
-      "stars": 578,
-      "user": "dominikmartn"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "kwas"
     },
     {
       "title": "Text preprocessing packages in addition to Mustache that are importable both into Python code and Ruby code",
@@ -3585,6 +3581,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "HippoMan"
+    },
+    {
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "published_at": "2026-10-22T22:34:54.000Z",
+      "description": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+      "tags": [
+        "TC",
+        "Venture",
+        "a16z"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
