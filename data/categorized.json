@@ -46,21 +46,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
-      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
-      "published_at": "2026-10-19T13:00:00Z",
-      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
-      "tags": [
-        "flutter",
-        "ai",
-        "webassembly",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
       "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
       "published_at": "2026-10-20T19:14:39Z",
@@ -119,21 +104,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
-      "url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3",
-      "published_at": "2026-10-16T15:14:10Z",
-      "description": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card sits at its 70 W limit, a hotter chip draws more power at the same clock, so the clock drops. No thermal throttle fires, and no spec sheet mentions it.",
-      "tags": [
-        "nvidia",
-        "googlecloud",
-        "llm",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ft4-thermal-drift%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.c2f75cb3.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
@@ -239,6 +209,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmodel-sweep%2Fmain%2Farticle%2Fdevto-cover.a42e27c5.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
+      "published_at": "2026-10-19T13:00:00Z",
+      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
+      "tags": [
+        "flutter",
+        "ai",
+        "webassembly",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
     },
     {
       "title": "For Agents, Waiting is the Hardest Part",
@@ -376,6 +361,21 @@
       "user": "Vishal Srivastava"
     },
     {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
+      "published_at": "2026-10-19T20:07:12Z",
+      "description": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60n0ma7t182ia9mtt5o9.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "Workshop Day Opens AI Engineer NYC",
       "url": "https://dev.to/dailycontext/workshop-day-opens-ai-engineer-nyc-23i2",
       "published_at": "2026-10-12T21:00:19Z",
@@ -480,20 +480,6 @@
       "user": "Aryan Irani"
     },
     {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-touch-grass-winners-152c",
-      "published_at": "2026-10-16T17:38:26Z",
-      "description": "We are so excited to announce the winners of the Hacktoberfest Open-Source AI Challenge: Touch...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb7e44kjkpbkx2l19bgvj.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform",
       "url": "https://dev.to/gde/from-vibe-coded-to-trusted-one-agent-through-build-scale-govern-and-optimize-on-gemini-4np1",
       "published_at": "2026-10-16T20:34:07Z",
@@ -582,6 +568,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4cyn0n0uzj2m1wnya1y0.jpeg",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "Inside the $30-a-Week Self-Improving Agents Eliminating Enterprise Back-Office Friction",
+      "url": "https://dev.to/dailycontext/inside-the-30-a-week-self-improving-agents-eliminating-enterprise-back-office-friction-c4p",
+      "published_at": "2026-10-14T12:05:21Z",
+      "description": "In the high-stakes world of enterprise AI engineering, the default assumption is that reliability...",
+      "tags": [
+        "ai",
+        "agents",
+        "evals",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foy6xeoj2evsdy112qbsn.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -763,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1255,
+      "stars": 1272,
       "user": "alchaincyf"
     },
     {
@@ -778,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 390,
       "user": "openai"
     },
     {
@@ -793,23 +794,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 17714,
+      "stars": 17871,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "url": "https://github.com/Leonxlnx/earshot",
-      "published_at": "2026-10-15T06:52:46Z",
-      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
-      "source": "GitHub",
-      "stars": 2049,
-      "user": "Leonxlnx"
     },
     {
       "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
@@ -823,38 +809,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1275,
+      "stars": 1290,
       "user": "aicodeking"
     },
     {
-      "title": "feder-cr/git-ai - Git designed for AI agents.",
-      "url": "https://github.com/feder-cr/git-ai",
-      "published_at": "2026-10-15T13:12:02Z",
-      "description": "Git designed for AI agents.",
+      "title": "azrinaldi/gemini-stealth-bridge - Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)",
+      "url": "https://github.com/azrinaldi/gemini-stealth-bridge",
+      "published_at": "2026-10-16T04:42:00Z",
+      "description": "Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/90147569?v=4",
       "source": "GitHub",
-      "stars": 915,
-      "user": "feder-cr"
-    },
-    {
-      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
-      "url": "https://github.com/chenglou/handwired",
-      "published_at": "2026-10-15T02:15:09Z",
-      "description": "Turn your regular JavaScript code into a neural net.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
-      "source": "GitHub",
-      "stars": 1870,
-      "user": "chenglou"
+      "stars": 98,
+      "user": "azrinaldi"
     },
     {
       "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、APP。安全服务渗透测试辅助工具，禁止用于非法攻击。",
@@ -868,8 +839,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 377,
       "user": "zgsfsec"
+    },
+    {
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "published_at": "2026-10-18T21:01:54Z",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
+      "source": "GitHub",
+      "stars": 318,
+      "user": "finereli"
     },
     {
       "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
@@ -898,6 +884,52 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dan577"
+    },
+    {
+      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "published_at": "2026-10-22T00:17:54.000Z",
+      "description": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company&#8217",
+      "tags": [
+        "Transportation",
+        "cybercab",
+        "Tesla"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "published_at": "2026-10-21T22:51:22.000Z",
+      "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "Blackstone",
+        "CoreWeave",
+        "data centers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "published_at": "2026-10-21T22:45:34.000Z",
+      "description": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "tags": [
+        "Social",
+        "AI",
+        "Facebook",
+        "Mark Zuckerberg",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "Airbnb limits chores for guests, sparking backlash from hosts",
@@ -999,36 +1031,20 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
-      "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
-      "published_at": "2026-10-21T19:52:20.000Z",
-      "description": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+      "title": "What Is Model Distillation? A Guide for Developers",
+      "url": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
+      "published_at": "2026-10-21T18:46:22.000Z",
+      "description": "Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre",
       "tags": [
-        "Climate",
-        "Transportation",
-        "electric vehicles",
-        "General Motors",
-        "GM"
+        "llm",
+        "AI models",
+        "Python",
+        "pytorch",
+        "Machine Learning"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant, Kirsten Korosec"
-    },
-    {
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "published_at": "2026-10-21T19:30:00.000Z",
-      "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-      "tags": [
-        "AI",
-        "Commerce",
-        "Amazon",
-        "Walmart",
-        "commerce"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "source": "freeCodeCamp",
+      "user": "Mene-Ejegi Ogbemi"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -1270,7 +1286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1255,
+      "stars": 1272,
       "user": "alchaincyf"
     },
     {
@@ -1285,23 +1301,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 1145,
+      "stars": 1159,
       "user": "humblemuzzu"
-    },
-    {
-      "title": "typecraft-dev/oma-cast - omarchy rebuild of raycast",
-      "url": "https://github.com/typecraft-dev/oma-cast",
-      "published_at": "2026-10-19T17:48:58Z",
-      "description": "omarchy rebuild of raycast",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
-      "source": "GitHub",
-      "stars": 347,
-      "user": "typecraft-dev"
     },
     {
       "title": "openai/php2shell-checker - GitHub Repository",
@@ -1315,8 +1316,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 390,
       "user": "openai"
+    },
+    {
+      "title": "typecraft-dev/oma-cast - omarchy rebuild of raycast",
+      "url": "https://github.com/typecraft-dev/oma-cast",
+      "published_at": "2026-10-19T17:48:58Z",
+      "description": "omarchy rebuild of raycast",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
+      "source": "GitHub",
+      "stars": 353,
+      "user": "typecraft-dev"
     },
     {
       "title": "ip-please/ip-please.github.io - GitHub Repository",
@@ -1330,23 +1346,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "ip-please"
-    },
-    {
-      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
-      "url": "https://github.com/chenglou/handwired",
-      "published_at": "2026-10-15T02:15:09Z",
-      "description": "Turn your regular JavaScript code into a neural net.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
-      "source": "GitHub",
-      "stars": 1870,
-      "user": "chenglou"
     },
     {
       "title": "stackedlol/ascii-sharks - ascii shark components in typescript",
@@ -1360,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 718,
       "user": "stackedlol"
     },
     {
@@ -1375,7 +1376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 552,
       "user": "VictorTaelin"
     },
     {
@@ -1390,7 +1391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 377,
       "user": "zgsfsec"
     },
     {
@@ -1405,8 +1406,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 365,
       "user": "vercel-labs"
+    },
+    {
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "published_at": "2026-10-18T21:01:54Z",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
+      "source": "GitHub",
+      "stars": 318,
+      "user": "finereli"
+    },
+    {
+      "title": "unserialize/serialize objects in Node.js, similar to PHP",
+      "url": "https://stackoverflow.com/questions/80011706/unserialize-serialize-objects-in-node-js-similar-to-php",
+      "published_at": "2026-10-21T22:52:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "node.js"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user2730288"
     },
     {
       "title": "Object initialisation and firing initialisation event",
@@ -1542,18 +1571,6 @@
       "user": "Brendha Tasca"
     },
     {
-      "title": "Validate that a string is a positive integer",
-      "url": "https://stackoverflow.com/questions/10834796/validate-that-a-string-is-a-positive-integer",
-      "published_at": "2012-05-31T13:39:15.000Z",
-      "description": "Stack Overflow question · 22 answers · score 267",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mick Byrne"
-    },
-    {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
       "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
       "published_at": "2026-10-21T16:03:14.000Z",
@@ -1598,22 +1615,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Migrate an Application from AWS to GKE [Full Book]",
-      "url": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
-      "published_at": "2026-10-16T15:40:39.000Z",
-      "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
-      "tags": [
-        "Devops",
-        "Cloud Computing",
-        "Cloud Migration",
-        "Kubernetes",
-        "gke"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Osomudeya Zudonu"
     }
   ],
   "Python": [
@@ -1779,23 +1780,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 17714,
+      "stars": 17871,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "url": "https://github.com/Leonxlnx/earshot",
-      "published_at": "2026-10-15T06:52:46Z",
-      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
-      "source": "GitHub",
-      "stars": 2049,
-      "user": "Leonxlnx"
     },
     {
       "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
@@ -1809,23 +1795,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1942,
+      "stars": 1957,
       "user": "xiaoyang111222"
-    },
-    {
-      "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "url": "https://github.com/OpenMOSS/MOSS-Image",
-      "published_at": "2026-10-16T01:18:13Z",
-      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
-      "source": "GitHub",
-      "stars": 1275,
-      "user": "OpenMOSS"
     },
     {
       "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
@@ -1839,8 +1810,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1275,
+      "stars": 1290,
       "user": "aicodeking"
+    },
+    {
+      "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "url": "https://github.com/OpenMOSS/MOSS-Image",
+      "published_at": "2026-10-16T01:18:13Z",
+      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
+      "source": "GitHub",
+      "stars": 1285,
+      "user": "OpenMOSS"
+    },
+    {
+      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "published_at": "2026-10-21T07:55:16Z",
+      "description": "CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
+      "source": "GitHub",
+      "stars": 950,
+      "user": "ikow"
     },
     {
       "title": "Why won't these files open in Uproot python",
@@ -1944,19 +1945,6 @@
       "user": "IchoryDick"
     },
     {
-      "title": "Alexa custom skill in nl-NL locale is never invoked (\"Ik weet niet zeker hoe ik je daarmee kan helpen\") while model builds successfully",
-      "url": "https://stackoverflow.com/questions/80011328/alexa-custom-skill-in-nl-nl-locale-is-never-invoked-ik-weet-niet-zeker-hoe-ik",
-      "published_at": "2026-10-20T12:59:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "alexa-skills-kit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Justin Debuss"
-    },
-    {
       "title": "How to reduce dataframe with nan values maintaining consecutive values in columns",
       "url": "https://stackoverflow.com/questions/80011008/how-to-reduce-dataframe-with-nan-values-maintaining-consecutive-values-in-column",
       "published_at": "2026-10-19T08:25:58.000Z",
@@ -1971,6 +1959,19 @@
       "user": "dan577"
     },
     {
+      "title": "Alexa custom skill in nl-NL locale is never invoked (\"Ik weet niet zeker hoe ik je daarmee kan helpen\") while model builds successfully",
+      "url": "https://stackoverflow.com/questions/80011328/alexa-custom-skill-in-nl-nl-locale-is-never-invoked-ik-weet-niet-zeker-hoe-ik",
+      "published_at": "2026-10-20T12:59:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "alexa-skills-kit"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Justin Debuss"
+    },
+    {
       "title": "Draw letters in python console given x y coordinates and characters",
       "url": "https://stackoverflow.com/questions/80011231/draw-letters-in-python-console-given-x-y-coordinates-and-characters",
       "published_at": "2026-10-20T04:37:41.000Z",
@@ -1982,6 +1983,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "TitanJamison"
+    },
+    {
+      "title": "What Is Model Distillation? A Guide for Developers",
+      "url": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
+      "published_at": "2026-10-21T18:46:22.000Z",
+      "description": "Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre",
+      "tags": [
+        "llm",
+        "AI models",
+        "Python",
+        "pytorch",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Mene-Ejegi Ogbemi"
     }
   ],
   "DevOps": [
@@ -2180,22 +2197,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Hugo Teijiz"
-    },
-    {
-      "title": "How to Migrate an Application from AWS to GKE [Full Book]",
-      "url": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
-      "published_at": "2026-10-16T15:40:39.000Z",
-      "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
-      "tags": [
-        "Devops",
-        "Cloud Computing",
-        "Cloud Migration",
-        "Kubernetes",
-        "gke"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Osomudeya Zudonu"
     }
   ],
   "WebDev": [
@@ -2223,7 +2224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 365,
       "user": "vercel-labs"
     },
     {
@@ -2376,21 +2377,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
-      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
-      "published_at": "2026-10-19T13:00:00Z",
-      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
-      "tags": [
-        "flutter",
-        "ai",
-        "webassembly",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "Building a cross-platform Flutter festival assistant with llamadart",
       "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
       "published_at": "2026-10-20T13:00:00Z",
@@ -2402,6 +2388,21 @@
         "dart"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
+      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
+      "published_at": "2026-10-19T13:00:00Z",
+      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
+      "tags": [
+        "flutter",
+        "ai",
+        "webassembly",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
     },
@@ -2432,7 +2433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 558,
       "user": "c22dev"
     },
     {
@@ -2528,21 +2529,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
-      "url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3",
-      "published_at": "2026-10-16T15:14:10Z",
-      "description": "The same Tesla T4 on the same Google Cloud VM decoded Gemma 4 E2B at 115 tokens/s at 45 °C and 107 at 77 °C. The card sits at its 70 W limit, a hotter chip draws more power at the same clock, so the clock drops. No thermal throttle fires, and no spec sheet mentions it.",
-      "tags": [
-        "nvidia",
-        "googlecloud",
-        "llm",
-        "performance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ft4-thermal-drift%2Fmain%2Fdocs%2Farticle%2Fdevto-cover.c2f75cb3.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "[Agent Platform in Practice (2)] From Monolithic Cloud Run to Google Cloud Agent Runtime: Refactoring LINE AI Business Card King",
       "url": "https://dev.to/gde/agent-platform-in-practice-2-from-monolithic-cloud-run-to-google-cloud-agent-runtime-bo1",
       "published_at": "2026-10-20T12:12:59Z",
@@ -2618,6 +2604,37 @@
       "user": "Jonathan Zhuo"
     },
     {
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "published_at": "2026-10-18T21:01:54Z",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
+      "source": "GitHub",
+      "stars": 318,
+      "user": "finereli"
+    },
+    {
+      "title": "What Is Model Distillation? A Guide for Developers",
+      "url": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
+      "published_at": "2026-10-21T18:46:22.000Z",
+      "description": "Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre",
+      "tags": [
+        "llm",
+        "AI models",
+        "Python",
+        "pytorch",
+        "Machine Learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Mene-Ejegi Ogbemi"
+    },
+    {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
       "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
       "published_at": "2026-10-21T16:03:14.000Z",
@@ -2631,22 +2648,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Ahmed Tariq"
-    },
-    {
-      "title": "How to Migrate an Application from AWS to GKE [Full Book]",
-      "url": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
-      "published_at": "2026-10-16T15:40:39.000Z",
-      "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
-      "tags": [
-        "Devops",
-        "Cloud Computing",
-        "Cloud Migration",
-        "Kubernetes",
-        "gke"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Osomudeya Zudonu"
     }
   ],
   "Database": [
@@ -2720,22 +2721,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Migrate an Application from AWS to GKE [Full Book]",
-      "url": "https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/",
-      "published_at": "2026-10-16T15:40:39.000Z",
-      "description": "This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo",
-      "tags": [
-        "Devops",
-        "Cloud Computing",
-        "Cloud Migration",
-        "Kubernetes",
-        "gke"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Osomudeya Zudonu"
     }
   ],
   "Security": [
@@ -2943,19 +2928,6 @@
       "user": "pims"
     },
     {
-      "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
-      "url": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
-      "published_at": "2026-10-21T12:40:17.687-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "c",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "dzwdz"
-    },
-    {
       "title": "Passkeys Attestation Trap",
       "url": "https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/",
       "published_at": "2026-10-21T13:16:22.533-05:00",
@@ -2969,16 +2941,17 @@
       "user": "kaimac"
     },
     {
-      "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
-      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
-      "published_at": "2026-10-20T08:00:50.760-05:00",
+      "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
+      "url": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
+      "published_at": "2026-10-21T12:40:17.687-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "c",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "freddyb"
+      "user": "dzwdz"
     }
   ],
   "Tools": [
@@ -3013,21 +2986,6 @@
       "user": "Robina Mirbahar"
     },
     {
-      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
-      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
-      "published_at": "2026-10-19T13:00:00Z",
-      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
-      "tags": [
-        "flutter",
-        "ai",
-        "webassembly",
-        "gamedev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
       "url": "https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4",
       "published_at": "2026-10-13T00:57:26Z",
@@ -3043,6 +3001,21 @@
       "user": "xbill"
     },
     {
+      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+      "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
+      "published_at": "2026-10-19T13:00:00Z",
+      "description": "Most AI coding benchmarks test standard web apps or CRUD dashboards. Frontier models can already...",
+      "tags": [
+        "flutter",
+        "ai",
+        "webassembly",
+        "gamedev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
       "title": "What 1,368 Real-World AI Incidents Teach Us About Evaluation",
       "url": "https://dev.to/dailycontext/what-1368-real-world-ai-incidents-teach-us-about-evaluation-71p",
       "published_at": "2026-10-12T21:03:06Z",
@@ -3056,6 +3029,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4yw0p94syuwbx8fe782v.png",
       "source": "Dev.to",
       "user": "Vishal Srivastava"
+    },
+    {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
+      "published_at": "2026-10-19T20:07:12Z",
+      "description": "Week 3 of our five Hacktoberfest DEV Challenges starts today! Running through October 25, the...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F60n0ma7t182ia9mtt5o9.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "AI Needs a Test That Fights Back",
@@ -3150,7 +3138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1255,
+      "stars": 1272,
       "user": "alchaincyf"
     },
     {
@@ -3165,23 +3153,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 1145,
+      "stars": 1159,
       "user": "humblemuzzu"
-    },
-    {
-      "title": "typecraft-dev/oma-cast - omarchy rebuild of raycast",
-      "url": "https://github.com/typecraft-dev/oma-cast",
-      "published_at": "2026-10-19T17:48:58Z",
-      "description": "omarchy rebuild of raycast",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
-      "source": "GitHub",
-      "stars": 347,
-      "user": "typecraft-dev"
     },
     {
       "title": "openai/php2shell-checker - GitHub Repository",
@@ -3195,8 +3168,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 312,
+      "stars": 390,
       "user": "openai"
+    },
+    {
+      "title": "typecraft-dev/oma-cast - omarchy rebuild of raycast",
+      "url": "https://github.com/typecraft-dev/oma-cast",
+      "published_at": "2026-10-19T17:48:58Z",
+      "description": "omarchy rebuild of raycast",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
+      "source": "GitHub",
+      "stars": 353,
+      "user": "typecraft-dev"
     },
     {
       "title": "ip-please/ip-please.github.io - GitHub Repository",
@@ -3210,7 +3198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344425403?v=4",
       "source": "GitHub",
-      "stars": 303,
+      "stars": 304,
       "user": "ip-please"
     },
     {
@@ -3225,23 +3213,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 17714,
+      "stars": 17871,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "Leonxlnx/earshot - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "url": "https://github.com/Leonxlnx/earshot",
-      "published_at": "2026-10-15T06:52:46Z",
-      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/219127460?v=4",
-      "source": "GitHub",
-      "stars": 2049,
-      "user": "Leonxlnx"
     },
     {
       "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
@@ -3255,23 +3228,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 1942,
+      "stars": 1957,
       "user": "xiaoyang111222"
-    },
-    {
-      "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "url": "https://github.com/OpenMOSS/MOSS-Image",
-      "published_at": "2026-10-16T01:18:13Z",
-      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
-      "source": "GitHub",
-      "stars": 1275,
-      "user": "OpenMOSS"
     },
     {
       "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
@@ -3285,23 +3243,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1275,
+      "stars": 1290,
       "user": "aicodeking"
     },
     {
-      "title": "feder-cr/git-ai - Git designed for AI agents.",
-      "url": "https://github.com/feder-cr/git-ai",
-      "published_at": "2026-10-15T13:12:02Z",
-      "description": "Git designed for AI agents.",
+      "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "url": "https://github.com/OpenMOSS/MOSS-Image",
+      "published_at": "2026-10-16T01:18:13Z",
+      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85809106?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 915,
-      "user": "feder-cr"
+      "stars": 1285,
+      "user": "OpenMOSS"
+    },
+    {
+      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "published_at": "2026-10-21T07:55:16Z",
+      "description": "CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
+      "source": "GitHub",
+      "stars": 950,
+      "user": "ikow"
     },
     {
       "title": "Fluepke/emudrahahahahaha - Private Keys",
@@ -3315,23 +3288,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 178,
       "user": "Fluepke"
-    },
-    {
-      "title": "Binaryify/MonitorBar - macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
-      "url": "https://github.com/Binaryify/MonitorBar",
-      "published_at": "2026-10-15T02:12:52Z",
-      "description": "macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12221718?v=4",
-      "source": "GitHub",
-      "stars": 156,
-      "user": "Binaryify"
     },
     {
       "title": "Samsara-1999/Bursar - Accounts and quotas for a shared GPU cluster.",
@@ -3364,19 +3322,34 @@
       "user": "mu-zi-lee"
     },
     {
-      "title": "chenglou/handwired - Turn your regular JavaScript code into a neural net.",
-      "url": "https://github.com/chenglou/handwired",
-      "published_at": "2026-10-15T02:15:09Z",
-      "description": "Turn your regular JavaScript code into a neural net.",
+      "title": "0c-biggo/0c-ime - 免選字的注音輸入法：在本機用 Transformer 看前文選字。支援 Linux（Fcitx5／IBus）、macOS、Windows。",
+      "url": "https://github.com/0c-biggo/0c-ime",
+      "published_at": "2026-10-19T19:00:19Z",
+      "description": "免選字的注音輸入法：在本機用 Transformer 看前文選字。支援 Linux（Fcitx5／IBus）、macOS、Windows。",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1909539?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/344968002?v=4",
       "source": "GitHub",
-      "stars": 1870,
-      "user": "chenglou"
+      "stars": 114,
+      "user": "0c-biggo"
+    },
+    {
+      "title": "azrinaldi/gemini-stealth-bridge - Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)",
+      "url": "https://github.com/azrinaldi/gemini-stealth-bridge",
+      "published_at": "2026-10-16T04:42:00Z",
+      "description": "Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/90147569?v=4",
+      "source": "GitHub",
+      "stars": 98,
+      "user": "azrinaldi"
     },
     {
       "title": "stackedlol/ascii-sharks - ascii shark components in typescript",
@@ -3390,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 714,
+      "stars": 718,
       "user": "stackedlol"
     },
     {
@@ -3405,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 551,
+      "stars": 552,
       "user": "VictorTaelin"
     },
     {
@@ -3420,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 376,
+      "stars": 377,
       "user": "zgsfsec"
     },
     {
@@ -3435,8 +3408,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 365,
       "user": "vercel-labs"
+    },
+    {
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "published_at": "2026-10-18T21:01:54Z",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
+      "source": "GitHub",
+      "stars": 318,
+      "user": "finereli"
     },
     {
       "title": "reason-machines/reason-network - Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
@@ -3450,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 914,
       "user": "reason-machines"
     },
     {
@@ -3465,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 711,
+      "stars": 716,
       "user": "ELY-Open-Source"
     },
     {
@@ -3480,7 +3468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 558,
       "user": "c22dev"
     },
     {
@@ -3495,7 +3483,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 544,
+      "stars": 548,
       "user": "Hugo-Dz"
     },
     {
@@ -3510,7 +3498,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 533,
       "user": "dominikmartn"
     },
     {
