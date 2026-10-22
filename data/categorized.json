@@ -16,21 +16,6 @@
       "user": "Paul Horton"
     },
     {
-      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
-      "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
-      "published_at": "2026-10-20T04:34:20Z",
-      "description": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporting two-way reactive forms, Riverpod/BLoC interop, Flutter Material 3, and ANSI terminal TUIs.",
-      "tags": [
-        "flutter",
-        "dart",
-        "ai",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
       "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
       "published_at": "2026-10-21T18:56:20Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
+    },
+    {
+      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
+      "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
+      "published_at": "2026-10-20T04:34:20Z",
+      "description": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporting two-way reactive forms, Riverpod/BLoC interop, Flutter Material 3, and ANSI terminal TUIs.",
+      "tags": [
+        "flutter",
+        "dart",
+        "ai",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
@@ -121,21 +121,6 @@
       "user": "Kara Silverman"
     },
     {
-      "title": "Why Smaller AI Models Can Win in the Enterprise",
-      "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57",
-      "published_at": "2026-10-11T19:41:19Z",
-      "description": "Three engineering lessons from building a 1-billion-parameter foundation model for enterprise fraud detection.",
-      "tags": [
-        "aie",
-        "machinelearning",
-        "gpu",
-        "deeplearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm639wbwsz2jige4sw3v1.png",
-      "source": "Dev.to",
-      "user": "Freddy Lécué"
-    },
-    {
       "title": "A World Worth Understanding",
       "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
       "published_at": "2026-10-11T19:43:19Z",
@@ -149,6 +134,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
       "source": "Dev.to",
       "user": "dev.to staff"
+    },
+    {
+      "title": "Why Smaller AI Models Can Win in the Enterprise",
+      "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57",
+      "published_at": "2026-10-11T19:41:19Z",
+      "description": "Three engineering lessons from building a 1-billion-parameter foundation model for enterprise fraud detection.",
+      "tags": [
+        "aie",
+        "machinelearning",
+        "gpu",
+        "deeplearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm639wbwsz2jige4sw3v1.png",
+      "source": "Dev.to",
+      "user": "Freddy Lécué"
     },
     {
       "title": "[Agent Platform in Practice (2)] From Monolithic Cloud Run to Google Cloud Agent Runtime: Refactoring LINE AI Business Card King",
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1354,
       "user": "alchaincyf"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 646,
       "user": "openai"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18510,
+      "stars": 19097,
       "user": "deepseek-ai"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1328,
       "user": "aicodeking"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1141,
+      "stars": 1319,
       "user": "ikow"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 394,
       "user": "zgsfsec"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 322,
       "user": "finereli"
     },
     {
@@ -976,13 +976,13 @@
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
       "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
       "published_at": "2026-10-21T21:14:19.000Z",
-      "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "tags": [
         "AI",
         "Apps",
         "Social",
         "agentic commerce",
-        "ai apps"
+        "e-commerce"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1302,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1354,
       "user": "alchaincyf"
     },
     {
@@ -1317,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1215,
       "user": "humblemuzzu"
     },
     {
@@ -1332,23 +1332,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 646,
       "user": "openai"
-    },
-    {
-      "title": "typecraft-dev/oma-cast - omarchy rebuild of raycast",
-      "url": "https://github.com/typecraft-dev/oma-cast",
-      "published_at": "2026-10-19T17:48:58Z",
-      "description": "omarchy rebuild of raycast",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
-      "source": "GitHub",
-      "stars": 364,
-      "user": "typecraft-dev"
     },
     {
       "title": "WoYun520/dsh-purge - DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
@@ -1362,8 +1347,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 378,
       "user": "WoYun520"
+    },
+    {
+      "title": "typecraft-dev/oma-cast - omarchy rebuild of raycast",
+      "url": "https://github.com/typecraft-dev/oma-cast",
+      "published_at": "2026-10-19T17:48:58Z",
+      "description": "omarchy rebuild of raycast",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
+      "source": "GitHub",
+      "stars": 375,
+      "user": "typecraft-dev"
     },
     {
       "title": "stackedlol/ascii-sharks - ascii shark components in typescript",
@@ -1377,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 744,
       "user": "stackedlol"
     },
     {
@@ -1392,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 555,
       "user": "VictorTaelin"
     },
     {
@@ -1407,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 394,
       "user": "zgsfsec"
     },
     {
@@ -1422,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 376,
       "user": "vercel-labs"
     },
     {
@@ -1437,14 +1437,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 322,
       "user": "finereli"
     },
     {
       "title": "unserialize/serialize objects in Node.js, similar to PHP",
       "url": "https://stackoverflow.com/questions/80011706/unserialize-serialize-objects-in-node-js-similar-to-php",
       "published_at": "2026-10-21T22:52:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
         "node.js"
@@ -1457,7 +1457,7 @@
       "title": "Object initialisation and firing initialisation event",
       "url": "https://stackoverflow.com/questions/80011608/object-initialisation-and-firing-initialisation-event",
       "published_at": "2026-10-21T14:20:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "best-practices",
         "javascript",
@@ -1794,14 +1794,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18510,
+      "stars": 19097,
       "user": "deepseek-ai"
     },
     {
-      "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
+      "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1552 知识点、6355 题、自适应诊断",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "published_at": "2026-10-18T09:04:43Z",
-      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
+      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1552 知识点、6355 题、自适应诊断",
       "tags": [
         "python",
         "github",
@@ -1809,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2057,
+      "stars": 2123,
       "user": "xiaoyang111222"
     },
     {
@@ -1824,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1383,
       "user": "OpenMOSS"
     },
     {
@@ -1839,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1328,
       "user": "aicodeking"
     },
     {
@@ -1854,14 +1854,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1141,
+      "stars": 1319,
       "user": "ikow"
     },
     {
       "title": "How should I lock FEFO inventory batches when reserving stock concurrently with SQLAlchemy and PostgreSQL?",
       "url": "https://stackoverflow.com/questions/80011735/how-should-i-lock-fefo-inventory-batches-when-reserving-stock-concurrently-with",
       "published_at": "2026-10-22T03:14:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "postgresql",
@@ -1870,20 +1870,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "my name is halo"
-    },
-    {
-      "title": "Why won't these files open in Uproot python",
-      "url": "https://stackoverflow.com/questions/80011652/why-wont-these-files-open-in-uproot-python",
-      "published_at": "2026-10-21T16:52:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "file",
-        "uproot"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pengu"
     },
     {
       "title": "How do I start object initialization without blocking program shutdown?",
@@ -1899,6 +1885,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jorge Luis"
+    },
+    {
+      "title": "Why won't these files open in Uproot python",
+      "url": "https://stackoverflow.com/questions/80011652/why-wont-these-files-open-in-uproot-python",
+      "published_at": "2026-10-21T16:52:37.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "file",
+        "uproot"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pengu"
     },
     {
       "title": "To change Python version in venv, change pyvenv.cfg manually or in VS Code \"Python: Select Interpreter\"?",
@@ -2252,20 +2252,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 376,
       "user": "vercel-labs"
-    },
-    {
-      "title": "The Future of CSS",
-      "url": "https://www.joshwcomeau.com/css/interop-2027/",
-      "published_at": "2026-10-21T01:16:50.204-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "css"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "typesanitizer"
     },
     {
       "title": "Stop all sources from an array in Web Audio API",
@@ -2388,21 +2376,6 @@
   ],
   "Mobile": [
     {
-      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
-      "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
-      "published_at": "2026-10-20T04:34:20Z",
-      "description": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporting two-way reactive forms, Riverpod/BLoC interop, Flutter Material 3, and ANSI terminal TUIs.",
-      "tags": [
-        "flutter",
-        "dart",
-        "ai",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Building a cross-platform Flutter festival assistant with llamadart",
       "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
       "published_at": "2026-10-20T13:00:00Z",
@@ -2416,6 +2389,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
+    },
+    {
+      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
+      "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
+      "published_at": "2026-10-20T04:34:20Z",
+      "description": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporting two-way reactive forms, Riverpod/BLoC interop, Flutter Material 3, and ANSI terminal TUIs.",
+      "tags": [
+        "flutter",
+        "dart",
+        "ai",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
@@ -2459,7 +2447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 573,
       "user": "c22dev"
     },
     {
@@ -2641,7 +2629,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 322,
       "user": "finereli"
     },
     {
@@ -2723,7 +2711,7 @@
       "title": "Object initialisation and firing initialisation event",
       "url": "https://stackoverflow.com/questions/80011608/object-initialisation-and-firing-initialisation-event",
       "published_at": "2026-10-21T14:20:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "best-practices",
         "javascript",
@@ -2739,7 +2727,7 @@
       "title": "How should I lock FEFO inventory batches when reserving stock concurrently with SQLAlchemy and PostgreSQL?",
       "url": "https://stackoverflow.com/questions/80011735/how-should-i-lock-fefo-inventory-batches-when-reserving-stock-concurrently-with",
       "published_at": "2026-10-22T03:14:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "postgresql",
@@ -2953,21 +2941,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1141,
+      "stars": 1319,
       "user": "ikow"
-    },
-    {
-      "title": "Upcoming Critical PHP Security Release",
-      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
-      "published_at": "2026-10-20T17:23:54.452-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "php",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pushcx"
     },
     {
       "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
@@ -2981,6 +2956,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "pims"
+    },
+    {
+      "title": "Upcoming Critical PHP Security Release",
+      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
+      "published_at": "2026-10-20T17:23:54.452-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "php",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
     },
     {
       "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
@@ -3206,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1317,
+      "stars": 1354,
       "user": "alchaincyf"
     },
     {
@@ -3221,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/107297384?v=4",
       "source": "GitHub",
-      "stars": 1187,
+      "stars": 1215,
       "user": "humblemuzzu"
     },
     {
@@ -3236,23 +3224,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 646,
       "user": "openai"
-    },
-    {
-      "title": "typecraft-dev/oma-cast - omarchy rebuild of raycast",
-      "url": "https://github.com/typecraft-dev/oma-cast",
-      "published_at": "2026-10-19T17:48:58Z",
-      "description": "omarchy rebuild of raycast",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
-      "source": "GitHub",
-      "stars": 364,
-      "user": "typecraft-dev"
     },
     {
       "title": "WoYun520/dsh-purge - DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
@@ -3266,8 +3239,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 378,
       "user": "WoYun520"
+    },
+    {
+      "title": "typecraft-dev/oma-cast - omarchy rebuild of raycast",
+      "url": "https://github.com/typecraft-dev/oma-cast",
+      "published_at": "2026-10-19T17:48:58Z",
+      "description": "omarchy rebuild of raycast",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
+      "source": "GitHub",
+      "stars": 375,
+      "user": "typecraft-dev"
     },
     {
       "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
@@ -3281,14 +3269,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18510,
+      "stars": 19097,
       "user": "deepseek-ai"
     },
     {
-      "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
+      "title": "xiaoyang111222/cn-math-taxonomy - 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1552 知识点、6355 题、自适应诊断",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "published_at": "2026-10-18T09:04:43Z",
-      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
+      "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1552 知识点、6355 题、自适应诊断",
       "tags": [
         "python",
         "github",
@@ -3296,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2057,
+      "stars": 2123,
       "user": "xiaoyang111222"
     },
     {
@@ -3311,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1383,
       "user": "OpenMOSS"
     },
     {
@@ -3326,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1328,
       "user": "aicodeking"
     },
     {
@@ -3341,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1141,
+      "stars": 1319,
       "user": "ikow"
     },
     {
@@ -3356,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 189,
+      "stars": 198,
       "user": "Fluepke"
     },
     {
@@ -3386,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/75201518?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 144,
       "user": "mu-zi-lee"
     },
     {
@@ -3401,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344968002?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 124,
       "user": "0c-biggo"
     },
     {
@@ -3416,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2851492?v=4",
       "source": "GitHub",
-      "stars": 100,
+      "stars": 105,
       "user": "Neo23x0"
     },
     {
@@ -3431,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 731,
+      "stars": 744,
       "user": "stackedlol"
     },
     {
@@ -3446,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 553,
+      "stars": 555,
       "user": "VictorTaelin"
     },
     {
@@ -3461,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
       "source": "GitHub",
-      "stars": 385,
+      "stars": 394,
       "user": "zgsfsec"
     },
     {
@@ -3476,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 368,
+      "stars": 376,
       "user": "vercel-labs"
     },
     {
@@ -3491,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 319,
+      "stars": 322,
       "user": "finereli"
     },
     {
@@ -3506,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
       "source": "GitHub",
-      "stars": 951,
+      "stars": 999,
       "user": "reason-machines"
     },
     {
@@ -3521,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 789,
       "user": "ELY-Open-Source"
     },
     {
@@ -3536,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 584,
       "user": "Hugo-Dz"
     },
     {
@@ -3551,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
       "source": "GitHub",
-      "stars": 565,
+      "stars": 573,
       "user": "c22dev"
     },
     {
@@ -3566,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 567,
       "user": "dominikmartn"
     },
     {
@@ -3589,13 +3577,13 @@
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
       "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
       "published_at": "2026-10-21T21:14:19.000Z",
-      "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "tags": [
         "AI",
         "Apps",
         "Social",
         "agentic commerce",
-        "ai apps"
+        "e-commerce"
       ],
       "cover_image": null,
       "source": "TechCrunch",
