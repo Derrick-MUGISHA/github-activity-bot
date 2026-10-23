@@ -31,19 +31,49 @@
       "user": "Paul Horton"
     },
     {
-      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
-      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
-      "published_at": "2026-10-21T18:56:20Z",
-      "description": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.",
+      "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
+      "url": "https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc",
+      "published_at": "2026-10-23T15:22:41Z",
+      "description": "This post is my submission for DEV Education Track: Build Apps with Google AI Studio.             ...",
       "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
+        "deved",
+        "learngoogleaistudio",
+        "googleai",
+        "gemini"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5s5zgl6yf7u7w3mv2rg.png",
       "source": "Dev.to",
-      "user": "Olivier Bourgeois"
+      "user": "Robina Mirbahar"
+    },
+    {
+      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
+      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
+      "published_at": "2026-10-22T23:51:30Z",
+      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
+      "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4",
+      "published_at": "2026-10-23T05:52:48Z",
+      "description": "When we use generative AI to proofread our daily writing—whether technical reports, business...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "googleworkspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2bc3ar45xrgqtcuc87ui.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
@@ -147,6 +177,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
+      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
+      "published_at": "2026-10-21T18:56:20Z",
+      "description": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
     },
@@ -510,66 +555,6 @@
       "user": "Denys Linkov"
     },
     {
-      "title": "Google Workspace Studio Tutorial: Batch Lead Outreach with the \"Repeat for each\" Loop",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-batch-lead-outreach-with-the-repeat-for-each-loop-5ajl",
-      "published_at": "2026-10-17T14:16:27Z",
-      "description": "If you work in sales or run your own business, you probably have a Google Sheet somewhere that acts...",
-      "tags": [
-        "ai",
-        "automation",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fozkghqhh1xzmbkv45its.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
-      "title": "What I Actually Learn When I Build With AI",
-      "url": "https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074",
-      "published_at": "2026-10-16T01:06:09Z",
-      "description": "I've spent entire nights building something with AI, gotten a bunch of features working, and then...",
-      "tags": [
-        "ai",
-        "programming",
-        "learning",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2atagf3xnyj2fwx6qtho.png",
-      "source": "Dev.to",
-      "user": "Jessica Doering"
-    },
-    {
-      "title": "From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform",
-      "url": "https://dev.to/gde/from-vibe-coded-to-trusted-one-agent-through-build-scale-govern-and-optimize-on-gemini-4np1",
-      "published_at": "2026-10-16T20:34:07Z",
-      "description": "Building an agent is easy now. Trusting it is the hard part. Here's how I took one agent all the way,...",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "agents",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3yux0bl6lamy0lg6ig0.png",
-      "source": "Dev.to",
-      "user": "Jonathan Zhuo"
-    },
-    {
-      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
-      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
-      "published_at": "2026-10-16T14:52:20Z",
-      "description": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -749,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1497,
+      "stars": 1519,
       "user": "alchaincyf"
     },
     {
@@ -764,23 +749,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 897,
+      "stars": 1014,
       "user": "openai"
-    },
-    {
-      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "published_at": "2026-10-21T07:55:16Z",
-      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
-      "source": "GitHub",
-      "stars": 1623,
-      "user": "ikow"
     },
     {
       "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
@@ -794,8 +764,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1536,
+      "stars": 1677,
       "user": "aicodeking"
+    },
+    {
+      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "published_at": "2026-10-21T07:55:16Z",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
+      "source": "GitHub",
+      "stars": 1651,
+      "user": "ikow"
     },
     {
       "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
@@ -809,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "finereli"
     },
     {
@@ -824,26 +809,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 569,
       "user": "aicodeking"
     },
     {
-      "title": "We have Traits at Home",
-      "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
-      "published_at": "2026-10-22T16:52:10.094-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
+      "url": "https://stackoverflow.com/questions/80012090/godaddy-shared-hosting-returns-javascript-bot-verification-instead-of-php-api-js",
+      "published_at": "2026-10-23T14:44:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "zig"
+        "javascript",
+        "php"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Defelo"
+      "source": "StackOverflow",
+      "user": "Muntadhar Muayyad"
     },
     {
       "title": "Why does my local Qwen LLM report that no business indicators are available when my pandas DataFrames contain data?",
       "url": "https://stackoverflow.com/questions/80012012/why-does-my-local-qwen-llm-report-that-no-business-indicators-are-available-when",
       "published_at": "2026-10-23T07:58:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "pandas",
@@ -868,19 +854,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
-    },
-    {
-      "title": "Retrieve parameters of a redirected website on aiohttp",
-      "url": "https://stackoverflow.com/questions/80010759/retrieve-parameters-of-a-redirected-website-on-aiohttp",
-      "published_at": "2026-10-17T15:04:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "aiohttp"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "noseii"
     },
     {
       "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
@@ -1257,7 +1230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1497,
+      "stars": 1519,
       "user": "alchaincyf"
     },
     {
@@ -1272,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 897,
+      "stars": 1014,
       "user": "openai"
     },
     {
@@ -1287,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 485,
       "user": "nthnclrk"
     },
     {
@@ -1302,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 420,
       "user": "WoYun520"
     },
     {
@@ -1332,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 784,
       "user": "stackedlol"
     },
     {
@@ -1347,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 576,
       "user": "VictorTaelin"
     },
     {
@@ -1362,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 391,
       "user": "vercel-labs"
     },
     {
@@ -1377,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "finereli"
     },
     {
@@ -1407,14 +1380,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 964,
       "user": "colinhacks"
+    },
+    {
+      "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
+      "url": "https://stackoverflow.com/questions/80012090/godaddy-shared-hosting-returns-javascript-bot-verification-instead-of-php-api-js",
+      "published_at": "2026-10-23T14:44:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "php"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muntadhar Muayyad"
     },
     {
       "title": "error: Calling setState synchronously within an effect can trigger cascading renders",
       "url": "https://stackoverflow.com/questions/80011987/error-calling-setstate-synchronously-within-an-effect-can-trigger-cascading-ren",
       "published_at": "2026-10-23T06:05:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "reactjs",
@@ -1429,7 +1415,7 @@
       "title": "Multi-file HTML IDE that runs in a browser (is a website)",
       "url": "https://stackoverflow.com/questions/80011965/multi-file-html-ide-that-runs-in-a-browser-is-a-website",
       "published_at": "2026-10-23T00:49:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -1482,22 +1468,6 @@
       "user": "Federico"
     },
     {
-      "title": "How can Chrome’s built-in PDF viewer download button use a custom filename for an authenticated PDF?",
-      "url": "https://stackoverflow.com/questions/80011542/how-can-chrome-s-built-in-pdf-viewer-download-button-use-a-custom-filename-for-a",
-      "published_at": "2026-10-21T10:00:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "angular",
-        "google-chrome",
-        "pdf",
-        "iframe"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Monark Bhardwaj"
-    },
-    {
       "title": "How to make it so several buttons change each others' image results in Javascript",
       "url": "https://stackoverflow.com/questions/80011446/how-to-make-it-so-several-buttons-change-each-others-image-results-in-javascrip",
       "published_at": "2026-10-20T23:06:11.000Z",
@@ -1525,21 +1495,6 @@
       "user": "Moon Lich"
     },
     {
-      "title": "How to override styles of React component with vanilla extract?",
-      "url": "https://stackoverflow.com/questions/80010006/how-to-override-styles-of-react-component-with-vanilla-extract",
-      "published_at": "2026-10-14T14:35:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "css",
-        "reactjs",
-        "vanilla-extract"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Billy Moon"
-    },
-    {
       "title": "Inline Script-In-Head With notFound Explicit Calling Issue At NextJS",
       "url": "https://stackoverflow.com/questions/80007466/inline-script-in-head-with-notfound-explicit-calling-issue-at-nextjs",
       "published_at": "2026-10-02T10:50:36.000Z",
@@ -1552,6 +1507,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alex Sindre"
+    },
+    {
+      "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
+      "url": "https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely",
+      "published_at": "2026-09-18T14:57:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "html",
+        "intersection-observer"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "timholz"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -1615,21 +1584,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
-      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
-      "published_at": "2026-10-16T14:52:20Z",
-      "description": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
-      "tags": [
-        "ai",
-        "api",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1763,23 +1717,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2608,
+      "stars": 2689,
       "user": "xiaoyang111222"
-    },
-    {
-      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "published_at": "2026-10-21T07:55:16Z",
-      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
-      "source": "GitHub",
-      "stars": 1623,
-      "user": "ikow"
     },
     {
       "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
@@ -1793,8 +1732,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1536,
+      "stars": 1677,
       "user": "aicodeking"
+    },
+    {
+      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "published_at": "2026-10-21T07:55:16Z",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
+      "source": "GitHub",
+      "stars": 1651,
+      "user": "ikow"
     },
     {
       "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
@@ -1808,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1044,
+      "stars": 1139,
       "user": "9bie"
     },
     {
@@ -1823,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 913,
+      "stars": 932,
       "user": "eagle-hq"
     },
     {
@@ -1840,10 +1794,36 @@
       "user": "robalex"
     },
     {
+      "title": "Python merge sort which prints each step",
+      "url": "https://stackoverflow.com/questions/80012094/python-merge-sort-which-prints-each-step",
+      "published_at": "2026-10-23T14:59:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Scarlett Murray"
+    },
+    {
+      "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
+      "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
+      "published_at": "2026-10-22T17:09:57.000Z",
+      "description": "Stack Overflow question · 4 answers · score 2",
+      "tags": [
+        "python",
+        "regex",
+        "string"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "pg27"
+    },
+    {
       "title": "Why does my local Qwen LLM report that no business indicators are available when my pandas DataFrames contain data?",
       "url": "https://stackoverflow.com/questions/80012012/why-does-my-local-qwen-llm-report-that-no-business-indicators-are-available-when",
       "published_at": "2026-10-23T07:58:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
         "pandas",
@@ -1854,20 +1834,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ghanianda Wafiqarifah"
-    },
-    {
-      "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
-      "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
-      "published_at": "2026-10-22T17:09:57.000Z",
-      "description": "Stack Overflow question · 4 answers · score 1",
-      "tags": [
-        "python",
-        "regex",
-        "string"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "pg27"
     },
     {
       "title": "Alternative import hook for modifying source code before compiling",
@@ -1940,20 +1906,6 @@
       "user": "Pengu"
     },
     {
-      "title": "To change Python version in venv, change pyvenv.cfg manually or in VS Code \"Python: Select Interpreter\"?",
-      "url": "https://stackoverflow.com/questions/80011408/to-change-python-version-in-venv-change-pyvenv-cfg-manually-or-in-vs-code-pyth",
-      "published_at": "2026-10-20T20:01:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python",
-        "vs-code",
-        "python-venv"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "damovandG"
-    },
-    {
       "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
       "url": "https://stackoverflow.com/questions/80011058/typeerror-mailmixin-connect-missing-1-required-positional-argument-self",
       "published_at": "2026-10-19T11:44:44.000Z",
@@ -1968,17 +1920,18 @@
       "user": "gh0st_dancing"
     },
     {
-      "title": "Retrieve parameters of a redirected website on aiohttp",
-      "url": "https://stackoverflow.com/questions/80010759/retrieve-parameters-of-a-redirected-website-on-aiohttp",
-      "published_at": "2026-10-17T15:04:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "How I can prevent flickering when I render graphics directly to Linux framebuffer using python?",
+      "url": "https://stackoverflow.com/questions/80010354/how-i-can-prevent-flickering-when-i-render-graphics-directly-to-linux-framebuffe",
+      "published_at": "2026-10-15T17:57:49.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "python",
-        "aiohttp"
+        "linux",
+        "framebuffer"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "noseii"
+      "user": "Dimitrios Desyllas"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -1998,21 +1951,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
-      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
-      "published_at": "2026-10-21T18:56:20Z",
-      "description": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
     {
       "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
       "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
@@ -2055,6 +1993,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
+      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
+      "published_at": "2026-10-21T18:56:20Z",
+      "description": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
     },
@@ -2191,19 +2144,6 @@
       "user": "nick4"
     },
     {
-      "title": "Expose only share links of a private service with caddy",
-      "url": "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html",
-      "published_at": "2026-10-22T11:30:14.409-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "devops",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ggpsv"
-    },
-    {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
       "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
       "published_at": "2026-10-21T16:03:14.000Z",
@@ -2275,14 +2215,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 391,
       "user": "vercel-labs"
     },
     {
       "title": "Multi-file HTML IDE that runs in a browser (is a website)",
       "url": "https://stackoverflow.com/questions/80011965/multi-file-html-ide-that-runs-in-a-browser-is-a-website",
       "published_at": "2026-10-23T00:49:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -2306,21 +2246,6 @@
       "user": "Moon Lich"
     },
     {
-      "title": "How to override styles of React component with vanilla extract?",
-      "url": "https://stackoverflow.com/questions/80010006/how-to-override-styles-of-react-component-with-vanilla-extract",
-      "published_at": "2026-10-14T14:35:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "css",
-        "reactjs",
-        "vanilla-extract"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Billy Moon"
-    },
-    {
       "title": "Inline Script-In-Head With notFound Explicit Calling Issue At NextJS",
       "url": "https://stackoverflow.com/questions/80007466/inline-script-in-head-with-notfound-explicit-calling-issue-at-nextjs",
       "published_at": "2026-10-02T10:50:36.000Z",
@@ -2333,6 +2258,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alex Sindre"
+    },
+    {
+      "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
+      "url": "https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely",
+      "published_at": "2026-09-18T14:57:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "html",
+        "intersection-observer"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "timholz"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -2431,21 +2370,6 @@
   ],
   "Cloud": [
     {
-      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
-      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
-      "published_at": "2026-10-21T18:56:20Z",
-      "description": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
       "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
       "published_at": "2026-10-22T16:05:20Z",
@@ -2461,20 +2385,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Multi-Model Agentic Workflows: Claude Opus 5.5 & Sonnet 5.5 Land in Google Antigravity 🚀",
-      "url": "https://dev.to/googleai/multi-model-agentic-workflows-claude-opus-55-sonnet-55-land-in-google-antigravity-2kmb",
-      "published_at": "2026-10-20T17:56:15Z",
-      "description": "Different software engineering problems require different model strengths. While a quick lint fix or...",
-      "tags": [
-        "claude",
-        "cloud",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5p2rys63nm52z4q5ngf2.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
       "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
       "published_at": "2026-10-20T19:14:39Z",
@@ -2488,6 +2398,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fajukpnfpo90v31p2y6af.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Two ways to build with Claude models on Google Cloud!",
+      "url": "https://dev.to/googleai/two-ways-to-build-with-claude-models-on-google-cloud-1mfe",
+      "published_at": "2026-10-22T22:03:52Z",
+      "description": "Choose Claude Models on Google Cloud (Google managed) for in-boundary security, regional data...",
+      "tags": [
+        "claude",
+        "google",
+        "cloud",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjdmfjcl5tswqewynrf6s.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
@@ -2516,6 +2441,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
+      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
+      "published_at": "2026-10-21T18:56:20Z",
+      "description": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
     },
@@ -2580,19 +2520,18 @@
       "user": "xbill"
     },
     {
-      "title": "From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform",
-      "url": "https://dev.to/gde/from-vibe-coded-to-trusted-one-agent-through-build-scale-govern-and-optimize-on-gemini-4np1",
-      "published_at": "2026-10-16T20:34:07Z",
-      "description": "Building an agent is easy now. Trusting it is the hard part. Here's how I took one agent all the way,...",
+      "title": "Multi-Model Agentic Workflows: Claude Opus 5.5 & Sonnet 5.5 Land in Google Antigravity 🚀",
+      "url": "https://dev.to/googleai/multi-model-agentic-workflows-claude-opus-55-sonnet-55-land-in-google-antigravity-2kmb",
+      "published_at": "2026-10-20T17:56:15Z",
+      "description": "Different software engineering problems require different model strengths. While a quick lint fix or...",
       "tags": [
-        "googlecloud",
-        "ai",
-        "agents",
-        "security"
+        "claude",
+        "cloud",
+        "googlecloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3yux0bl6lamy0lg6ig0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5p2rys63nm52z4q5ngf2.png",
       "source": "Dev.to",
-      "user": "Jonathan Zhuo"
+      "user": "Jen Harvey"
     },
     {
       "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
@@ -2606,7 +2545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "finereli"
     },
     {
@@ -2711,7 +2650,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 964,
       "user": "colinhacks"
     },
     {
@@ -2760,6 +2699,21 @@
   ],
   "Security": [
     {
+      "title": "Two ways to build with Claude models on Google Cloud!",
+      "url": "https://dev.to/googleai/two-ways-to-build-with-claude-models-on-google-cloud-1mfe",
+      "published_at": "2026-10-22T22:03:52Z",
+      "description": "Choose Claude Models on Google Cloud (Google managed) for in-boundary security, regional data...",
+      "tags": [
+        "claude",
+        "google",
+        "cloud",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjdmfjcl5tswqewynrf6s.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
       "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
       "published_at": "2026-10-12T21:03:17Z",
@@ -2773,21 +2727,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png",
       "source": "Dev.to",
       "user": "dev.to staff"
-    },
-    {
-      "title": "From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform",
-      "url": "https://dev.to/gde/from-vibe-coded-to-trusted-one-agent-through-build-scale-govern-and-optimize-on-gemini-4np1",
-      "published_at": "2026-10-16T20:34:07Z",
-      "description": "Building an agent is easy now. Trusting it is the hard part. Here's how I took one agent all the way,...",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "agents",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3yux0bl6lamy0lg6ig0.png",
-      "source": "Dev.to",
-      "user": "Jonathan Zhuo"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2933,21 +2872,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1623,
+      "stars": 1651,
       "user": "ikow"
     },
     {
-      "title": "Expose only share links of a private service with caddy",
-      "url": "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html",
-      "published_at": "2026-10-22T11:30:14.409-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Lab testing giant Quest Diagnostics confirms patients&#8217; personal and health data was compromised during breach",
+      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+      "published_at": "2026-10-23T15:00:09.000Z",
+      "description": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
       "tags": [
-        "devops",
-        "security"
+        "Biotech & Health",
+        "Security",
+        "cybersecurity",
+        "data breach",
+        "quest diagnostics"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ggpsv"
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
@@ -2978,6 +2920,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsz6wqckn1mxagladj1ln.png",
       "source": "Dev.to",
       "user": "Paul Horton"
+    },
+    {
+      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
+      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
+      "published_at": "2026-10-22T23:51:30Z",
+      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest",
@@ -3085,21 +3042,6 @@
       "user": "Ramakrishnan Lokanathan"
     },
     {
-      "title": "Google Workspace Studio Tutorial: Batch Lead Outreach with the \"Repeat for each\" Loop",
-      "url": "https://dev.to/gde/google-workspace-studio-tutorial-batch-lead-outreach-with-the-repeat-for-each-loop-5ajl",
-      "published_at": "2026-10-17T14:16:27Z",
-      "description": "If you work in sales or run your own business, you probably have a Google Sheet somewhere that acts...",
-      "tags": [
-        "ai",
-        "automation",
-        "productivity",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fozkghqhh1xzmbkv45its.png",
-      "source": "Dev.to",
-      "user": "Aryan Irani"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3147,7 +3089,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1497,
+      "stars": 1519,
       "user": "alchaincyf"
     },
     {
@@ -3162,7 +3104,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 897,
+      "stars": 1014,
       "user": "openai"
     },
     {
@@ -3177,7 +3119,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 485,
       "user": "nthnclrk"
     },
     {
@@ -3192,7 +3134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 420,
       "user": "WoYun520"
     },
     {
@@ -3222,23 +3164,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2608,
+      "stars": 2689,
       "user": "xiaoyang111222"
-    },
-    {
-      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "published_at": "2026-10-21T07:55:16Z",
-      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
-      "source": "GitHub",
-      "stars": 1623,
-      "user": "ikow"
     },
     {
       "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
@@ -3252,8 +3179,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1536,
+      "stars": 1677,
       "user": "aicodeking"
+    },
+    {
+      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "published_at": "2026-10-21T07:55:16Z",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
+      "source": "GitHub",
+      "stars": 1651,
+      "user": "ikow"
     },
     {
       "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
@@ -3267,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1044,
+      "stars": 1139,
       "user": "9bie"
     },
     {
@@ -3282,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 913,
+      "stars": 932,
       "user": "eagle-hq"
     },
     {
@@ -3297,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 221,
       "user": "Fluepke"
     },
     {
@@ -3342,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344968002?v=4",
       "source": "GitHub",
-      "stars": 135,
+      "stars": 136,
       "user": "0c-biggo"
     },
     {
@@ -3357,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2851492?v=4",
       "source": "GitHub",
-      "stars": 108,
+      "stars": 109,
       "user": "Neo23x0"
     },
     {
@@ -3372,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 778,
+      "stars": 784,
       "user": "stackedlol"
     },
     {
@@ -3387,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 574,
+      "stars": 576,
       "user": "VictorTaelin"
     },
     {
@@ -3402,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 391,
       "user": "vercel-labs"
     },
     {
@@ -3417,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 326,
+      "stars": 327,
       "user": "finereli"
     },
     {
@@ -3436,21 +3378,6 @@
       "user": "spovalova"
     },
     {
-      "title": "ELY-Open-Source/ElyOffice - Ely Office: offline-first desktop apps in Rust and GPUI",
-      "url": "https://github.com/ELY-Open-Source/ElyOffice",
-      "published_at": "2026-10-19T23:04:42Z",
-      "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
-      "source": "GitHub",
-      "stars": 910,
-      "user": "ELY-Open-Source"
-    },
-    {
       "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
       "url": "https://github.com/colinhacks/reylo",
       "published_at": "2026-10-21T00:16:54Z",
@@ -3462,8 +3389,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 879,
+      "stars": 964,
       "user": "colinhacks"
+    },
+    {
+      "title": "ELY-Open-Source/ElyOffice - Ely Office: offline-first desktop apps in Rust and GPUI",
+      "url": "https://github.com/ELY-Open-Source/ElyOffice",
+      "published_at": "2026-10-19T23:04:42Z",
+      "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
+      "source": "GitHub",
+      "stars": 920,
+      "user": "ELY-Open-Source"
     },
     {
       "title": "Hugo-Dz/spritefusion-sprite-normals - A tool to generate normal maps from any sprite and animated sprite sheet.",
@@ -3477,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 623,
+      "stars": 627,
       "user": "Hugo-Dz"
     },
     {
@@ -3492,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 589,
       "user": "dominikmartn"
     },
     {
@@ -3507,14 +3449,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 569,
       "user": "aicodeking"
     },
     {
       "title": "Multi-file HTML IDE that runs in a browser (is a website)",
       "url": "https://stackoverflow.com/questions/80011965/multi-file-html-ide-that-runs-in-a-browser-is-a-website",
       "published_at": "2026-10-23T00:49:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -3523,6 +3465,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mrsharkbird"
+    },
+    {
+      "title": "Lab testing giant Quest Diagnostics confirms patients&#8217; personal and health data was compromised during breach",
+      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+      "published_at": "2026-10-23T15:00:09.000Z",
+      "description": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
+      "tags": [
+        "Biotech & Health",
+        "Security",
+        "cybersecurity",
+        "data breach",
+        "quest diagnostics"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
