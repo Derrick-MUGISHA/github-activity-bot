@@ -61,21 +61,6 @@
       "user": "Jem"
     },
     {
-      "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
-      "url": "https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5",
-      "published_at": "2026-10-22T13:05:33Z",
-      "description": "Orchestrating Multiple AI Agents in Parallel via Custom Skills   Series 1/2: Multi-Model...",
-      "tags": [
-        "gemini",
-        "devtools",
-        "programming",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F77ea9kn1289e1qozuen1.png",
-      "source": "Dev.to",
-      "user": "JimmyLiao"
-    },
-    {
       "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
       "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
       "published_at": "2026-10-21T18:56:20Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
+      "url": "https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5",
+      "published_at": "2026-10-22T13:05:33Z",
+      "description": "Orchestrating Multiple AI Agents in Parallel via Custom Skills   Series 1/2: Multi-Model...",
+      "tags": [
+        "gemini",
+        "devtools",
+        "programming",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F77ea9kn1289e1qozuen1.png",
+      "source": "Dev.to",
+      "user": "JimmyLiao"
     },
     {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1439,
       "user": "alchaincyf"
     },
     {
@@ -764,23 +764,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 823,
       "user": "openai"
-    },
-    {
-      "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "published_at": "2026-10-16T07:47:23Z",
-      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 19821,
-      "user": "deepseek-ai"
     },
     {
       "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
@@ -794,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1507,
+      "stars": 1526,
       "user": "ikow"
     },
     {
@@ -809,23 +794,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1364,
+      "stars": 1367,
       "user": "aicodeking"
-    },
-    {
-      "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
-      "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
-      "published_at": "2026-10-16T04:05:37Z",
-      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
-      "source": "GitHub",
-      "stars": 399,
-      "user": "zgsfsec"
     },
     {
       "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
@@ -839,8 +809,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "finereli"
+    },
+    {
+      "title": "aicodeking/pandacode - PandaCode: a calm desktop workspace for coding agents",
+      "url": "https://github.com/aicodeking/pandacode",
+      "published_at": "2026-10-18T02:21:29Z",
+      "description": "PandaCode: a calm desktop workspace for coding agents",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
+      "source": "GitHub",
+      "stars": 506,
+      "user": "aicodeking"
     },
     {
       "title": "jailbreaking the switch 2",
@@ -884,14 +869,59 @@
       "user": "gh0st_dancing"
     },
     {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "published_at": "2026-10-23T00:45:37.000Z",
+      "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "tags": [
+        "AI",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
+    },
+    {
+      "title": "Mark Zuckerberg&#8217;s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "published_at": "2026-10-22T23:50:41.000Z",
+      "description": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+      "tags": [
+        "Social",
+        "Mark Zuckerberg",
+        "Meta",
+        "Politics"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "published_at": "2026-10-22T23:15:00.000Z",
+      "description": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "Venture",
+        "Ben Lamm",
+        "defense"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
       "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
       "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
       "published_at": "2026-10-22T22:34:54.000Z",
       "description": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
       "tags": [
-        "TC",
         "Venture",
-        "a16z"
+        "a16z",
+        "a16z crypto",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -958,50 +988,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "published_at": "2026-10-22T19:00:00.000Z",
-      "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "tags": [
-        "AI",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "published_at": "2026-10-22T18:43:53.000Z",
-      "description": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "microsoft AI",
-        "Mustafa Suleyman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-      "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-      "published_at": "2026-10-22T18:38:47.000Z",
-      "description": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
-      "tags": [
-        "Biotech & Health",
-        "Robotics",
-        "Startups",
-        "AI drug discovery",
-        "lightspeed"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -1259,7 +1245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1439,
       "user": "alchaincyf"
     },
     {
@@ -1274,7 +1260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 823,
       "user": "openai"
     },
     {
@@ -1289,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 438,
       "user": "nthnclrk"
     },
     {
@@ -1304,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 403,
       "user": "WoYun520"
     },
     {
@@ -1319,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 398,
       "user": "typecraft-dev"
     },
     {
@@ -1334,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 767,
       "user": "stackedlol"
     },
     {
@@ -1349,23 +1335,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 567,
       "user": "VictorTaelin"
-    },
-    {
-      "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
-      "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
-      "published_at": "2026-10-16T04:05:37Z",
-      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
-      "source": "GitHub",
-      "stars": 399,
-      "user": "zgsfsec"
     },
     {
       "title": "vercel-labs/fx0 - A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
@@ -1379,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 383,
       "user": "vercel-labs"
     },
     {
@@ -1394,8 +1365,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "finereli"
+    },
+    {
+      "title": "spovalova/openterminal - GitHub Repository",
+      "url": "https://github.com/spovalova/openterminal",
+      "published_at": "2026-10-18T07:27:58Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285318058?v=4",
+      "source": "GitHub",
+      "stars": 234,
+      "user": "spovalova"
     },
     {
       "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
@@ -1409,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 672,
       "user": "colinhacks"
     },
     {
@@ -1458,6 +1444,20 @@
       "user": "youkeow"
     },
     {
+      "title": "How to get a value generator to produce a non-variable value I can still use in CSS?",
+      "url": "https://stackoverflow.com/questions/80011460/how-to-get-a-value-generator-to-produce-a-non-variable-value-i-can-still-use-in",
+      "published_at": "2026-10-21T02:21:19.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dessicatedcorpus"
+    },
+    {
       "title": "How can Chrome’s built-in PDF viewer download button use a custom filename for an authenticated PDF?",
       "url": "https://stackoverflow.com/questions/80011542/how-can-chrome-s-built-in-pdf-viewer-download-button-use-a-custom-filename-for-a",
       "published_at": "2026-10-21T10:00:45.000Z",
@@ -1474,24 +1474,10 @@
       "user": "Monark Bhardwaj"
     },
     {
-      "title": "How to get a value generator to produce a non-variable value I can still use in CSS?",
-      "url": "https://stackoverflow.com/questions/80011460/how-to-get-a-value-generator-to-produce-a-non-variable-value-i-can-still-use-in",
-      "published_at": "2026-10-21T02:21:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dessicatedcorpus"
-    },
-    {
       "title": "How to make it so several buttons change each others' image results in Javascript",
       "url": "https://stackoverflow.com/questions/80011446/how-to-make-it-so-several-buttons-change-each-others-image-results-in-javascrip",
       "published_at": "2026-10-20T23:06:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "javascript",
         "html"
@@ -1741,21 +1727,6 @@
       "user": "arathore"
     },
     {
-      "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "published_at": "2026-10-16T07:47:23Z",
-      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 19821,
-      "user": "deepseek-ai"
-    },
-    {
       "title": "xiaoyang111222/cn-math-taxonomy - 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "published_at": "2026-10-18T09:04:43Z",
@@ -1767,7 +1738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2190,
+      "stars": 2200,
       "user": "xiaoyang111222"
     },
     {
@@ -1782,23 +1753,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1507,
+      "stars": 1526,
       "user": "ikow"
-    },
-    {
-      "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "url": "https://github.com/OpenMOSS/MOSS-Image",
-      "published_at": "2026-10-16T01:18:13Z",
-      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
-      "source": "GitHub",
-      "stars": 1450,
-      "user": "OpenMOSS"
     },
     {
       "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
@@ -1812,14 +1768,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1364,
+      "stars": 1367,
       "user": "aicodeking"
+    },
+    {
+      "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "published_at": "2026-10-21T11:11:57Z",
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
+      "source": "GitHub",
+      "stars": 958,
+      "user": "9bie"
+    },
+    {
+      "title": "eagle-hq/EAGLE-4 - Official Inference Code of EAGLE-4",
+      "url": "https://github.com/eagle-hq/EAGLE-4",
+      "published_at": "2026-10-20T14:03:04Z",
+      "description": "Official Inference Code of EAGLE-4",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
+      "source": "GitHub",
+      "stars": 871,
+      "user": "eagle-hq"
     },
     {
       "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
       "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
       "published_at": "2026-10-22T17:09:57.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "python",
         "regex",
@@ -1828,6 +1814,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "pg27"
+    },
+    {
+      "title": "Alternative import hook for modifying source code before compiling",
+      "url": "https://stackoverflow.com/questions/80011839/alternative-import-hook-for-modifying-source-code-before-compiling",
+      "published_at": "2026-10-22T12:13:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "import-hooks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "Variable explorer or kernel selection don't work when using Spyder's notebook",
@@ -1842,19 +1841,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Sergio"
-    },
-    {
-      "title": "Alternative import hook for modifying source code before compiling",
-      "url": "https://stackoverflow.com/questions/80011839/alternative-import-hook-for-modifying-source-code-before-compiling",
-      "published_at": "2026-10-22T12:13:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "import-hooks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "How do I start object initialization without blocking program shutdown?",
@@ -1930,22 +1916,6 @@
       "user": "HippoMan"
     },
     {
-      "title": "PyQt updating colors in Line Edit",
-      "url": "https://stackoverflow.com/questions/80011448/pyqt-updating-colors-in-line-edit",
-      "published_at": "2026-10-20T23:18:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "user-interface",
-        "colors",
-        "pyqt",
-        "pyqt6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hossein Dastoory"
-    },
-    {
       "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
       "url": "https://stackoverflow.com/questions/80011058/typeerror-mailmixin-connect-missing-1-required-positional-argument-self",
       "published_at": "2026-10-19T11:44:44.000Z",
@@ -1958,6 +1928,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gh0st_dancing"
+    },
+    {
+      "title": "TypeError: ‘str’ object cannot be interpreted as an integer” error.\"",
+      "url": "https://stackoverflow.com/questions/80011168/typeerror-str-object-cannot-be-interpreted-as-an-integer-error",
+      "published_at": "2026-10-19T19:21:17.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "IchoryDick"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2254,7 +2236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 383,
       "user": "vercel-labs"
     },
     {
@@ -2291,7 +2273,7 @@
       "title": "How to make it so several buttons change each others' image results in Javascript",
       "url": "https://stackoverflow.com/questions/80011446/how-to-make-it-so-several-buttons-change-each-others-image-results-in-javascrip",
       "published_at": "2026-10-20T23:06:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "javascript",
         "html"
@@ -2435,36 +2417,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0qg7ezbe64odcwhfdb8.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
-    },
-    {
-      "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
-      "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
-      "published_at": "2026-10-16T04:05:37Z",
-      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
-      "source": "GitHub",
-      "stars": 399,
-      "user": "zgsfsec"
-    },
-    {
-      "title": "c22dev/mush8 - A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
-      "url": "https://github.com/c22dev/mush8",
-      "published_at": "2026-10-16T16:56:14Z",
-      "description": "A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
-      "source": "GitHub",
-      "stars": 594,
-      "user": "c22dev"
     },
     {
       "title": "How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store",
@@ -2660,7 +2612,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "finereli"
     },
     {
@@ -2750,7 +2702,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 672,
       "user": "colinhacks"
     },
     {
@@ -2972,7 +2924,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1507,
+      "stars": 1526,
       "user": "ikow"
     },
     {
@@ -3021,21 +2973,6 @@
       "user": "Paul Horton"
     },
     {
-      "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
-      "url": "https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5",
-      "published_at": "2026-10-22T13:05:33Z",
-      "description": "Orchestrating Multiple AI Agents in Parallel via Custom Skills   Series 1/2: Multi-Model...",
-      "tags": [
-        "gemini",
-        "devtools",
-        "programming",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F77ea9kn1289e1qozuen1.png",
-      "source": "Dev.to",
-      "user": "JimmyLiao"
-    },
-    {
       "title": "SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest",
       "url": "https://dev.to/gde/slothsre-napops-an-overnight-gemma-4-adk-agent-that-compresses-418-lines-of-3-am-alerts-into-a-1pk6",
       "published_at": "2026-10-21T15:28:00Z",
@@ -3049,6 +2986,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fslothsre-napops%2Fmain%2Farticles%2Fslothsre-napops%2Fcover.1eb32148.jpg",
       "source": "Dev.to",
       "user": "Robina Mirbahar"
+    },
+    {
+      "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
+      "url": "https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5",
+      "published_at": "2026-10-22T13:05:33Z",
+      "description": "Orchestrating Multiple AI Agents in Parallel via Custom Skills   Series 1/2: Multi-Model...",
+      "tags": [
+        "gemini",
+        "devtools",
+        "programming",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F77ea9kn1289e1qozuen1.png",
+      "source": "Dev.to",
+      "user": "JimmyLiao"
     },
     {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
@@ -3188,7 +3140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1439,
       "user": "alchaincyf"
     },
     {
@@ -3203,7 +3155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 803,
+      "stars": 823,
       "user": "openai"
     },
     {
@@ -3218,7 +3170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 438,
       "user": "nthnclrk"
     },
     {
@@ -3233,7 +3185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 403,
       "user": "WoYun520"
     },
     {
@@ -3248,23 +3200,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 397,
+      "stars": 398,
       "user": "typecraft-dev"
-    },
-    {
-      "title": "deepseek-ai/DeepInfer - DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "published_at": "2026-10-16T07:47:23Z",
-      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 19821,
-      "user": "deepseek-ai"
     },
     {
       "title": "xiaoyang111222/cn-math-taxonomy - 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
@@ -3278,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2190,
+      "stars": 2200,
       "user": "xiaoyang111222"
     },
     {
@@ -3293,23 +3230,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1507,
+      "stars": 1526,
       "user": "ikow"
-    },
-    {
-      "title": "OpenMOSS/MOSS-Image - Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "url": "https://github.com/OpenMOSS/MOSS-Image",
-      "published_at": "2026-10-16T01:18:13Z",
-      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/156300419?v=4",
-      "source": "GitHub",
-      "stars": 1450,
-      "user": "OpenMOSS"
     },
     {
       "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
@@ -3323,8 +3245,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1364,
+      "stars": 1367,
       "user": "aicodeking"
+    },
+    {
+      "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "published_at": "2026-10-21T11:11:57Z",
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
+      "source": "GitHub",
+      "stars": 958,
+      "user": "9bie"
+    },
+    {
+      "title": "eagle-hq/EAGLE-4 - Official Inference Code of EAGLE-4",
+      "url": "https://github.com/eagle-hq/EAGLE-4",
+      "published_at": "2026-10-20T14:03:04Z",
+      "description": "Official Inference Code of EAGLE-4",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
+      "source": "GitHub",
+      "stars": 871,
+      "user": "eagle-hq"
     },
     {
       "title": "Fluepke/emudrahahahahaha - Private Keys",
@@ -3338,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 215,
+      "stars": 217,
       "user": "Fluepke"
     },
     {
@@ -3413,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 767,
       "user": "stackedlol"
     },
     {
@@ -3428,23 +3380,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 567,
       "user": "VictorTaelin"
-    },
-    {
-      "title": "zgsfsec/Full-Chain-Sentinel-System - 【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
-      "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
-      "published_at": "2026-10-16T04:05:37Z",
-      "description": "【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/88515720?v=4",
-      "source": "GitHub",
-      "stars": 399,
-      "user": "zgsfsec"
     },
     {
       "title": "vercel-labs/fx0 - A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
@@ -3458,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 383,
       "user": "vercel-labs"
     },
     {
@@ -3473,23 +3410,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 324,
       "user": "finereli"
     },
     {
-      "title": "reason-machines/reason-network - Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-      "url": "https://github.com/reason-machines/reason-network",
-      "published_at": "2026-10-16T15:34:34Z",
-      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "title": "spovalova/openterminal - GitHub Repository",
+      "url": "https://github.com/spovalova/openterminal",
+      "published_at": "2026-10-18T07:27:58Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/259454516?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285318058?v=4",
       "source": "GitHub",
-      "stars": 1062,
-      "user": "reason-machines"
+      "stars": 234,
+      "user": "spovalova"
     },
     {
       "title": "ELY-Open-Source/ElyOffice - Ely Office: offline-first desktop apps in Rust and GPUI",
@@ -3503,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 851,
+      "stars": 866,
       "user": "ELY-Open-Source"
     },
     {
@@ -3518,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 632,
+      "stars": 672,
       "user": "colinhacks"
     },
     {
@@ -3533,23 +3470,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 606,
       "user": "Hugo-Dz"
     },
     {
-      "title": "c22dev/mush8 - A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
-      "url": "https://github.com/c22dev/mush8",
-      "published_at": "2026-10-16T16:56:14Z",
-      "description": "A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
+      "title": "dominikmartn/harp - Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "url": "https://github.com/dominikmartn/harp",
+      "published_at": "2026-10-20T10:39:43Z",
+      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/102235607?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 594,
-      "user": "c22dev"
+      "stars": 582,
+      "user": "dominikmartn"
+    },
+    {
+      "title": "aicodeking/pandacode - PandaCode: a calm desktop workspace for coding agents",
+      "url": "https://github.com/aicodeking/pandacode",
+      "published_at": "2026-10-18T02:21:29Z",
+      "description": "PandaCode: a calm desktop workspace for coding agents",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
+      "source": "GitHub",
+      "stars": 506,
+      "user": "aicodeking"
     },
     {
       "title": "jailbreaking the switch 2",
@@ -3588,9 +3540,10 @@
       "published_at": "2026-10-22T22:34:54.000Z",
       "description": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
       "tags": [
-        "TC",
         "Venture",
-        "a16z"
+        "a16z",
+        "a16z crypto",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
