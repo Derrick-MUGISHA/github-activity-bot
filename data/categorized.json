@@ -31,21 +31,6 @@
       "user": "Paul Horton"
     },
     {
-      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
-      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
-      "published_at": "2026-10-22T16:05:20Z",
-      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
       "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
       "published_at": "2026-10-21T18:56:20Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F77ea9kn1289e1qozuen1.png",
       "source": "Dev.to",
       "user": "JimmyLiao"
+    },
+    {
+      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
+      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
+      "published_at": "2026-10-22T16:05:20Z",
+      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "Congrats to the Sanity Challenge Winners!",
@@ -299,21 +299,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1hi8lqrej5xsyrhnr9c3.png",
       "source": "Dev.to",
       "user": "Tom Wheeler"
-    },
-    {
-      "title": "A Data Company in an AI World",
-      "url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4",
-      "published_at": "2026-10-14T12:05:44Z",
-      "description": "Anekha Sokhal spent nearly a decade trading energy derivatives at JP Morgan, then came to the US on a...",
-      "tags": [
-        "ai",
-        "finance",
-        "interview",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffv54kayiyyr8z39ddeml.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
     },
     {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
@@ -570,6 +555,21 @@
       "user": "Jonathan Zhuo"
     },
     {
+      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
+      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
+      "published_at": "2026-10-16T14:52:20Z",
+      "description": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1471,
+      "stars": 1497,
       "user": "alchaincyf"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 897,
       "user": "openai"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1579,
+      "stars": 1623,
       "user": "ikow"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1388,
+      "stars": 1536,
       "user": "aicodeking"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "finereli"
     },
     {
@@ -824,23 +824,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 550,
       "user": "aicodeking"
-    },
-    {
-      "title": "jailbreaking the switch 2",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "published_at": "2026-10-22T07:10:48.233-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai-tooling",
-        "hardware",
-        "reversing",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "kwas"
     },
     {
       "title": "We have Traits at Home",
@@ -853,6 +838,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "Defelo"
+    },
+    {
+      "title": "Why does my local Qwen LLM report that no business indicators are available when my pandas DataFrames contain data?",
+      "url": "https://stackoverflow.com/questions/80012012/why-does-my-local-qwen-llm-report-that-no-business-indicators-are-available-when",
+      "published_at": "2026-10-23T07:58:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "large-language-model",
+        "llama-cpp-python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ghanianda Wafiqarifah"
     },
     {
       "title": "TypeError: _MailMixin.connect() missing 1 required positional argument: 'self'",
@@ -1256,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1471,
+      "stars": 1497,
       "user": "alchaincyf"
     },
     {
@@ -1271,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 897,
       "user": "openai"
     },
     {
@@ -1286,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 463,
       "user": "nthnclrk"
     },
     {
@@ -1301,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 417,
       "user": "WoYun520"
     },
     {
@@ -1316,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 406,
       "user": "typecraft-dev"
     },
     {
@@ -1331,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 778,
       "user": "stackedlol"
     },
     {
@@ -1346,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 574,
       "user": "VictorTaelin"
     },
     {
@@ -1361,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 387,
       "user": "vercel-labs"
     },
     {
@@ -1376,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "finereli"
     },
     {
@@ -1406,14 +1407,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 879,
       "user": "colinhacks"
+    },
+    {
+      "title": "error: Calling setState synchronously within an effect can trigger cascading renders",
+      "url": "https://stackoverflow.com/questions/80011987/error-calling-setstate-synchronously-within-an-effect-can-trigger-cascading-ren",
+      "published_at": "2026-10-23T06:05:43.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "eslint"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Pankaj Choudhary"
     },
     {
       "title": "Multi-file HTML IDE that runs in a browser (is a website)",
       "url": "https://stackoverflow.com/questions/80011965/multi-file-html-ide-that-runs-in-a-browser-is-a-website",
       "published_at": "2026-10-23T00:49:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -1453,34 +1469,17 @@
       "user": "The Ratman"
     },
     {
-      "title": "Stop all sources from an array in Web Audio API",
-      "url": "https://stackoverflow.com/questions/80011523/stop-all-sources-from-an-array-in-web-audio-api",
-      "published_at": "2026-10-21T09:11:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Split and capture text ending with brackets and two letters",
+      "url": "https://stackoverflow.com/questions/80011025/split-and-capture-text-ending-with-brackets-and-two-letters",
+      "published_at": "2026-10-19T09:42:40.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "javascript",
-        "html",
-        "audio",
-        "html5-audio",
-        "web-audio-api"
+        "regex"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "youkeow"
-    },
-    {
-      "title": "How to get a value generator to produce a non-variable value I can still use in CSS?",
-      "url": "https://stackoverflow.com/questions/80011460/how-to-get-a-value-generator-to-produce-a-non-variable-value-i-can-still-use-in",
-      "published_at": "2026-10-21T02:21:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dessicatedcorpus"
+      "user": "Federico"
     },
     {
       "title": "How can Chrome’s built-in PDF viewer download button use a custom filename for an authenticated PDF?",
@@ -1618,6 +1617,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
+      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
+      "published_at": "2026-10-16T14:52:20Z",
+      "description": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
       "published_at": "2025-10-29T18:57:29Z",
@@ -1749,7 +1763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2357,
+      "stars": 2608,
       "user": "xiaoyang111222"
     },
     {
@@ -1764,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1579,
+      "stars": 1623,
       "user": "ikow"
     },
     {
@@ -1779,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1388,
+      "stars": 1536,
       "user": "aicodeking"
     },
     {
@@ -1794,7 +1808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1044,
       "user": "9bie"
     },
     {
@@ -1809,7 +1823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 913,
       "user": "eagle-hq"
     },
     {
@@ -1826,6 +1840,36 @@
       "user": "robalex"
     },
     {
+      "title": "Why does my local Qwen LLM report that no business indicators are available when my pandas DataFrames contain data?",
+      "url": "https://stackoverflow.com/questions/80012012/why-does-my-local-qwen-llm-report-that-no-business-indicators-are-available-when",
+      "published_at": "2026-10-23T07:58:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "large-language-model",
+        "llama-cpp-python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ghanianda Wafiqarifah"
+    },
+    {
+      "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
+      "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
+      "published_at": "2026-10-22T17:09:57.000Z",
+      "description": "Stack Overflow question · 4 answers · score 1",
+      "tags": [
+        "python",
+        "regex",
+        "string"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "pg27"
+    },
+    {
       "title": "Alternative import hook for modifying source code before compiling",
       "url": "https://stackoverflow.com/questions/80011839/alternative-import-hook-for-modifying-source-code-before-compiling",
       "published_at": "2026-10-22T12:13:19.000Z",
@@ -1837,20 +1881,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
-      "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
-      "published_at": "2026-10-22T17:09:57.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "python",
-        "regex",
-        "string"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "pg27"
     },
     {
       "title": "Variable explorer or kernel selection don't work when using Spyder's notebook",
@@ -1884,7 +1914,7 @@
       "title": "How do I start object initialization without blocking program shutdown?",
       "url": "https://stackoverflow.com/questions/80011495/how-do-i-start-object-initialization-without-blocking-program-shutdown",
       "published_at": "2026-10-21T07:09:26.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "best-practices",
         "python",
@@ -1951,20 +1981,6 @@
       "user": "noseii"
     },
     {
-      "title": "How I can prevent flickering when I render graphics directly to Linux framebuffer using python?",
-      "url": "https://stackoverflow.com/questions/80010354/how-i-can-prevent-flickering-when-i-render-graphics-directly-to-linux-framebuffe",
-      "published_at": "2026-10-15T17:57:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "linux",
-        "framebuffer"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dimitrios Desyllas"
-    },
-    {
       "title": "What Is Model Distillation? A Guide for Developers",
       "url": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
       "published_at": "2026-10-21T18:46:22.000Z",
@@ -1983,21 +1999,6 @@
   ],
   "DevOps": [
     {
-      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
-      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
-      "published_at": "2026-10-22T16:05:20Z",
-      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
       "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
       "published_at": "2026-10-21T18:56:20Z",
@@ -2009,6 +2010,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
+      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
+      "published_at": "2026-10-22T16:05:20Z",
+      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
     },
@@ -2259,14 +2275,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 387,
       "user": "vercel-labs"
     },
     {
       "title": "Multi-file HTML IDE that runs in a browser (is a website)",
       "url": "https://stackoverflow.com/questions/80011965/multi-file-html-ide-that-runs-in-a-browser-is-a-website",
       "published_at": "2026-10-23T00:49:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "tooling-recommendation",
         "javascript",
@@ -2275,36 +2291,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mrsharkbird"
-    },
-    {
-      "title": "Stop all sources from an array in Web Audio API",
-      "url": "https://stackoverflow.com/questions/80011523/stop-all-sources-from-an-array-in-web-audio-api",
-      "published_at": "2026-10-21T09:11:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "html",
-        "audio",
-        "html5-audio",
-        "web-audio-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "youkeow"
-    },
-    {
-      "title": "How to get a value generator to produce a non-variable value I can still use in CSS?",
-      "url": "https://stackoverflow.com/questions/80011460/how-to-get-a-value-generator-to-produce-a-non-variable-value-i-can-still-use-in",
-      "published_at": "2026-10-21T02:21:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dessicatedcorpus"
     },
     {
       "title": "How to make it so several buttons change each others' image results in Javascript",
@@ -2445,21 +2431,6 @@
   ],
   "Cloud": [
     {
-      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
-      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
-      "published_at": "2026-10-22T16:05:20Z",
-      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
       "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
       "published_at": "2026-10-21T18:56:20Z",
@@ -2471,6 +2442,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
+      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
+      "published_at": "2026-10-22T16:05:20Z",
+      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
     },
@@ -2620,7 +2606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "finereli"
     },
     {
@@ -2725,7 +2711,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 879,
       "user": "colinhacks"
     },
     {
@@ -2947,23 +2933,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1579,
+      "stars": 1623,
       "user": "ikow"
-    },
-    {
-      "title": "jailbreaking the switch 2",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "published_at": "2026-10-22T07:10:48.233-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai-tooling",
-        "hardware",
-        "reversing",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "kwas"
     },
     {
       "title": "Expose only share links of a private service with caddy",
@@ -3176,7 +3147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1471,
+      "stars": 1497,
       "user": "alchaincyf"
     },
     {
@@ -3191,7 +3162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 857,
+      "stars": 897,
       "user": "openai"
     },
     {
@@ -3206,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 463,
       "user": "nthnclrk"
     },
     {
@@ -3221,7 +3192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 417,
       "user": "WoYun520"
     },
     {
@@ -3236,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 406,
       "user": "typecraft-dev"
     },
     {
@@ -3251,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2357,
+      "stars": 2608,
       "user": "xiaoyang111222"
     },
     {
@@ -3266,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1579,
+      "stars": 1623,
       "user": "ikow"
     },
     {
@@ -3281,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 1388,
+      "stars": 1536,
       "user": "aicodeking"
     },
     {
@@ -3296,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 996,
+      "stars": 1044,
       "user": "9bie"
     },
     {
@@ -3311,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 913,
       "user": "eagle-hq"
     },
     {
@@ -3326,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "Fluepke"
     },
     {
@@ -3371,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344968002?v=4",
       "source": "GitHub",
-      "stars": 133,
+      "stars": 135,
       "user": "0c-biggo"
     },
     {
@@ -3386,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2851492?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 108,
       "user": "Neo23x0"
     },
     {
@@ -3401,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 778,
       "user": "stackedlol"
     },
     {
@@ -3416,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 571,
+      "stars": 574,
       "user": "VictorTaelin"
     },
     {
@@ -3431,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 387,
       "user": "vercel-labs"
     },
     {
@@ -3446,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "finereli"
     },
     {
@@ -3476,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 893,
+      "stars": 910,
       "user": "ELY-Open-Source"
     },
     {
@@ -3491,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 879,
       "user": "colinhacks"
     },
     {
@@ -3506,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 623,
       "user": "Hugo-Dz"
     },
     {
@@ -3521,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 588,
       "user": "dominikmartn"
     },
     {
@@ -3536,29 +3507,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 550,
       "user": "aicodeking"
-    },
-    {
-      "title": "jailbreaking the switch 2",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "published_at": "2026-10-22T07:10:48.233-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai-tooling",
-        "hardware",
-        "reversing",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "kwas"
     },
     {
       "title": "Multi-file HTML IDE that runs in a browser (is a website)",
       "url": "https://stackoverflow.com/questions/80011965/multi-file-html-ide-that-runs-in-a-browser-is-a-website",
       "published_at": "2026-10-23T00:49:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "tooling-recommendation",
         "javascript",
