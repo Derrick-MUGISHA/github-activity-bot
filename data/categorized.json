@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
-      "published_at": "2026-10-22T04:31:09Z",
-      "description": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
-      "tags": [
-        "ai",
-        "discuss",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
-      "source": "Dev.to",
-      "user": "Adam - The Developer ✨"
-    },
-    {
       "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
       "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
       "published_at": "2026-10-22T23:51:30Z",
@@ -46,19 +31,19 @@
       "user": "Tanaike"
     },
     {
-      "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
-      "url": "https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc",
-      "published_at": "2026-10-23T15:22:41Z",
-      "description": "This post is my submission for DEV Education Track: Build Apps with Google AI Studio.             ...",
+      "title": "Don't Be a Proxy Between Me and Your AI",
+      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
+      "published_at": "2026-10-22T04:31:09Z",
+      "description": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
       "tags": [
-        "deved",
-        "learngoogleaistudio",
-        "googleai",
-        "gemini"
+        "ai",
+        "discuss",
+        "career",
+        "programming"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5s5zgl6yf7u7w3mv2rg.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
       "source": "Dev.to",
-      "user": "Robina Mirbahar"
+      "user": "Adam - The Developer ✨"
     },
     {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcp9oenpjux05n1wl6od.png",
       "source": "Dev.to",
       "user": "Jem"
+    },
+    {
+      "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
+      "url": "https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc",
+      "published_at": "2026-10-23T15:22:41Z",
+      "description": "This post is my submission for DEV Education Track: Build Apps with Google AI Studio.             ...",
+      "tags": [
+        "deved",
+        "learngoogleaistudio",
+        "googleai",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5s5zgl6yf7u7w3mv2rg.png",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
     },
     {
       "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
@@ -256,21 +256,6 @@
       "user": "Freddy Lécué"
     },
     {
-      "title": "Building a cross-platform Flutter festival assistant with llamadart",
-      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
-      "published_at": "2026-10-20T13:00:00Z",
-      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
-      "tags": [
-        "flutter",
-        "tutorial",
-        "ai",
-        "dart"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "[Agent Platform in Practice (2)] From Monolithic Cloud Run to Google Cloud Agent Runtime: Refactoring LINE AI Business Card King",
       "url": "https://dev.to/gde/agent-platform-in-practice-2-from-monolithic-cloud-run-to-google-cloud-agent-runtime-bo1",
       "published_at": "2026-10-20T12:12:59Z",
@@ -299,21 +284,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fed32gcn3nbq47ayzc5nr.png",
       "source": "Dev.to",
       "user": "Laurent Picard"
-    },
-    {
-      "title": "Event-Driven Multi-Agent Pipelines on Google Cloud with ADK, Gemma 3 and Eventarc",
-      "url": "https://dev.to/gde/beyond-chatbots-and-cron-jobs-event-driven-multi-agent-pipelines-on-google-cloud-with-adk-gemma-3-3cbk",
-      "published_at": "2026-10-20T03:50:56Z",
-      "description": "This article provides a step by step architectural and deployment guide for StreamForge, a real-time...",
-      "tags": [
-        "googleai",
-        "gemma",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnxpemgfuc4rz6d55aqrv.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
     },
     {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
@@ -495,6 +465,21 @@
       "user": "Blaise Labs"
     },
     {
+      "title": "Building a cross-platform Flutter festival assistant with llamadart",
+      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
+      "published_at": "2026-10-20T13:00:00Z",
+      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
+      "tags": [
+        "flutter",
+        "tutorial",
+        "ai",
+        "dart"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
       "title": "AI Needs a Test That Fights Back",
       "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
       "published_at": "2026-10-12T21:03:49Z",
@@ -553,6 +538,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fozkghqhh1xzmbkv45its.png",
       "source": "Dev.to",
       "user": "Aryan Irani"
+    },
+    {
+      "title": "What I Actually Learn When I Build With AI",
+      "url": "https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074",
+      "published_at": "2026-10-16T01:06:09Z",
+      "description": "I've spent entire nights building something with AI, gotten a bunch of features working, and then...",
+      "tags": [
+        "ai",
+        "programming",
+        "learning",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2atagf3xnyj2fwx6qtho.png",
+      "source": "Dev.to",
+      "user": "Jessica Doering"
+    },
+    {
+      "title": "From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform",
+      "url": "https://dev.to/gde/from-vibe-coded-to-trusted-one-agent-through-build-scale-govern-and-optimize-on-gemini-4np1",
+      "published_at": "2026-10-16T20:34:07Z",
+      "description": "Building an agent is easy now. Trusting it is the hard part. Here's how I took one agent all the way,...",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "agents",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3yux0bl6lamy0lg6ig0.png",
+      "source": "Dev.to",
+      "user": "Jonathan Zhuo"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -734,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1539,
+      "stars": 1552,
       "user": "alchaincyf"
     },
     {
@@ -749,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1183,
+      "stars": 1256,
       "user": "openai"
     },
     {
@@ -764,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1696,
+      "stars": 1707,
       "user": "ikow"
     },
     {
@@ -779,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 342,
       "user": "finereli"
     },
     {
@@ -794,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "qianshuixia"
     },
     {
@@ -809,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 601,
       "user": "aicodeking"
     },
     {
@@ -829,7 +844,7 @@
       "title": "what is metric.compute() and metric.reset()",
       "url": "https://stackoverflow.com/questions/80012103/what-is-metric-compute-and-metric-reset",
       "published_at": "2026-10-23T16:00:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "advice",
         "python",
@@ -844,7 +859,7 @@
       "title": "Why does my local Qwen LLM report that no business indicators are available when my pandas DataFrames contain data?",
       "url": "https://stackoverflow.com/questions/80012012/why-does-my-local-qwen-llm-report-that-no-business-indicators-are-available-when",
       "published_at": "2026-10-23T07:58:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "pandas",
@@ -1214,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1539,
+      "stars": 1552,
       "user": "alchaincyf"
     },
     {
@@ -1229,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1183,
+      "stars": 1256,
       "user": "openai"
     },
     {
@@ -1244,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 528,
       "user": "nthnclrk"
     },
     {
@@ -1259,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 424,
       "user": "WoYun520"
     },
     {
@@ -1274,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 413,
       "user": "typecraft-dev"
     },
     {
@@ -1289,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 795,
       "user": "stackedlol"
     },
     {
@@ -1334,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 342,
       "user": "finereli"
     },
     {
@@ -1349,7 +1364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "qianshuixia"
     },
     {
@@ -1364,14 +1379,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1060,
+      "stars": 1083,
       "user": "colinhacks"
+    },
+    {
+      "title": "Reddit devvit stops with no error while fetching comments. What is happening and how would i circumvent this?",
+      "url": "https://stackoverflow.com/questions/80012182/reddit-devvit-stops-with-no-error-while-fetching-comments-what-is-happening-and",
+      "published_at": "2026-10-24T00:44:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "express",
+        "reddit"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Asger &#216;rmen Dalmeijer"
     },
     {
       "title": "Hey there, I request organic assistance debugging my fading-toolbar(JS)",
       "url": "https://stackoverflow.com/questions/80012169/hey-there-i-request-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -1380,22 +1409,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BoJacks JJ"
-    },
-    {
-      "title": "How to integrate a USB/Bluetooth barcode scanner with a web app on Hostinger for student attendance?",
-      "url": "https://stackoverflow.com/questions/80012162/how-to-integrate-a-usb-bluetooth-barcode-scanner-with-a-web-app-on-hostinger-for",
-      "published_at": "2026-10-23T20:36:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "javascript",
-        "laravel",
-        "web-applications",
-        "qr-code",
-        "barcode"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yahia Azab"
     },
     {
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
@@ -1412,6 +1425,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
+    },
+    {
+      "title": "How to integrate a USB/Bluetooth barcode scanner with a web app on Hostinger for student attendance?",
+      "url": "https://stackoverflow.com/questions/80012162/how-to-integrate-a-usb-bluetooth-barcode-scanner-with-a-web-app-on-hostinger-for",
+      "published_at": "2026-10-23T20:36:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "javascript",
+        "laravel",
+        "web-applications",
+        "qr-code",
+        "barcode"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Yahia Azab"
     },
     {
       "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
@@ -1485,20 +1514,6 @@
       "user": "Moon Lich"
     },
     {
-      "title": "Inline Script-In-Head With notFound Explicit Calling Issue At NextJS",
-      "url": "https://stackoverflow.com/questions/80007466/inline-script-in-head-with-notfound-explicit-calling-issue-at-nextjs",
-      "published_at": "2026-10-02T10:50:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alex Sindre"
-    },
-    {
       "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
       "url": "https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely",
       "published_at": "2026-09-18T14:57:42.000Z",
@@ -1511,21 +1526,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "timholz"
-    },
-    {
-      "title": "What is the best platform to learn Python from beginner to advanced through hands-on practice?",
-      "url": "https://stackoverflow.com/questions/80012121/what-is-the-best-platform-to-learn-python-from-beginner-to-advanced-through-hand",
-      "published_at": "2026-10-23T17:39:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -13",
-      "tags": [
-        "advice",
-        "python",
-        "c",
-        "json"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33232752"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -1722,7 +1722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2822,
+      "stars": 2905,
       "user": "xiaoyang111222"
     },
     {
@@ -1737,7 +1737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1696,
+      "stars": 1707,
       "user": "ikow"
     },
     {
@@ -1752,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1311,
       "user": "9bie"
     },
     {
@@ -1767,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 959,
       "user": "eagle-hq"
     },
     {
@@ -1782,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 889,
       "user": "Jakeschincariol"
     },
     {
@@ -1797,6 +1797,49 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "robalex"
+    },
+    {
+      "title": "For loop within a function that writes contents of list parameter to desired file name",
+      "url": "https://stackoverflow.com/questions/80012195/for-loop-within-a-function-that-writes-contents-of-list-parameter-to-desired-fil",
+      "published_at": "2026-10-24T03:08:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "function",
+        "for-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "xAvareS"
+    },
+    {
+      "title": "what is metric.compute() and metric.reset()",
+      "url": "https://stackoverflow.com/questions/80012103/what-is-metric-compute-and-metric-reset",
+      "published_at": "2026-10-23T16:00:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "advice",
+        "python",
+        "machine-learning",
+        "conv-neural-network"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NeuronEdge"
+    },
+    {
+      "title": "Trouble with the command in a Button in \"tkmacosx\"",
+      "url": "https://stackoverflow.com/questions/80012147/trouble-with-the-command-in-a-button-in-tkmacosx",
+      "published_at": "2026-10-23T18:53:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "tkinter",
+        "button"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Tristan"
     },
     {
       "title": "Trying to use a Gemma model on Keras in Python, but the example code doesn't run",
@@ -1814,62 +1857,6 @@
       "user": "Fern Mendiz"
     },
     {
-      "title": "Trouble with the command in a Button in \"tkmacosx\"",
-      "url": "https://stackoverflow.com/questions/80012147/trouble-with-the-command-in-a-button-in-tkmacosx",
-      "published_at": "2026-10-23T18:53:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "tkinter",
-        "button"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Tristan"
-    },
-    {
-      "title": "What is the best platform to learn Python from beginner to advanced through hands-on practice?",
-      "url": "https://stackoverflow.com/questions/80012121/what-is-the-best-platform-to-learn-python-from-beginner-to-advanced-through-hand",
-      "published_at": "2026-10-23T17:39:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -13",
-      "tags": [
-        "advice",
-        "python",
-        "c",
-        "json"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33232752"
-    },
-    {
-      "title": "what is metric.compute() and metric.reset()",
-      "url": "https://stackoverflow.com/questions/80012103/what-is-metric-compute-and-metric-reset",
-      "published_at": "2026-10-23T16:00:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "advice",
-        "python",
-        "machine-learning",
-        "conv-neural-network"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NeuronEdge"
-    },
-    {
-      "title": "Python merge sort which prints each step",
-      "url": "https://stackoverflow.com/questions/80012094/python-merge-sort-which-prints-each-step",
-      "published_at": "2026-10-23T14:59:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -9",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Scarlett Murray"
-    },
-    {
       "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
       "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
       "published_at": "2026-10-22T17:09:57.000Z",
@@ -1884,10 +1871,22 @@
       "user": "pg27"
     },
     {
+      "title": "Python merge sort which prints each step",
+      "url": "https://stackoverflow.com/questions/80012094/python-merge-sort-which-prints-each-step",
+      "published_at": "2026-10-23T14:59:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score -10",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Scarlett Murray"
+    },
+    {
       "title": "Why does my local Qwen LLM report that no business indicators are available when my pandas DataFrames contain data?",
       "url": "https://stackoverflow.com/questions/80012012/why-does-my-local-qwen-llm-report-that-no-business-indicators-are-available-when",
       "published_at": "2026-10-23T07:58:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "pandas",
@@ -2229,7 +2228,7 @@
       "title": "Hey there, I request organic assistance debugging my fading-toolbar(JS)",
       "url": "https://stackoverflow.com/questions/80012169/hey-there-i-request-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "html",
@@ -2254,20 +2253,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
-    },
-    {
-      "title": "Inline Script-In-Head With notFound Explicit Calling Issue At NextJS",
-      "url": "https://stackoverflow.com/questions/80007466/inline-script-in-head-with-notfound-explicit-calling-issue-at-nextjs",
-      "published_at": "2026-10-02T10:50:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "next.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alex Sindre"
     },
     {
       "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
@@ -2358,7 +2343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33343170?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 117,
       "user": "armanlife"
     },
     {
@@ -2485,21 +2470,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Event-Driven Multi-Agent Pipelines on Google Cloud with ADK, Gemma 3 and Eventarc",
-      "url": "https://dev.to/gde/beyond-chatbots-and-cron-jobs-event-driven-multi-agent-pipelines-on-google-cloud-with-adk-gemma-3-3cbk",
-      "published_at": "2026-10-20T03:50:56Z",
-      "description": "This article provides a step by step architectural and deployment guide for StreamForge, a real-time...",
-      "tags": [
-        "googleai",
-        "gemma",
-        "googlecloud",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnxpemgfuc4rz6d55aqrv.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
       "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
       "published_at": "2026-10-14T19:53:12Z",
@@ -2544,6 +2514,21 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform",
+      "url": "https://dev.to/gde/from-vibe-coded-to-trusted-one-agent-through-build-scale-govern-and-optimize-on-gemini-4np1",
+      "published_at": "2026-10-16T20:34:07Z",
+      "description": "Building an agent is easy now. Trusting it is the hard part. Here's how I took one agent all the way,...",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "agents",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3yux0bl6lamy0lg6ig0.png",
+      "source": "Dev.to",
+      "user": "Jonathan Zhuo"
+    },
+    {
       "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
       "url": "https://github.com/finereli/whatsapp-mcp",
       "published_at": "2026-10-18T21:01:54Z",
@@ -2555,7 +2540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 342,
       "user": "finereli"
     },
     {
@@ -2570,7 +2555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "qianshuixia"
     },
     {
@@ -2676,7 +2661,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1060,
+      "stars": 1083,
       "user": "colinhacks"
     },
     {
@@ -2753,6 +2738,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png",
       "source": "Dev.to",
       "user": "dev.to staff"
+    },
+    {
+      "title": "From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform",
+      "url": "https://dev.to/gde/from-vibe-coded-to-trusted-one-agent-through-build-scale-govern-and-optimize-on-gemini-4np1",
+      "published_at": "2026-10-16T20:34:07Z",
+      "description": "Building an agent is easy now. Trusting it is the hard part. Here's how I took one agent all the way,...",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "agents",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3yux0bl6lamy0lg6ig0.png",
+      "source": "Dev.to",
+      "user": "Jonathan Zhuo"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2898,7 +2898,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1696,
+      "stars": 1707,
       "user": "ikow"
     },
     {
@@ -2930,21 +2930,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest",
-      "url": "https://dev.to/gde/slothsre-napops-an-overnight-gemma-4-adk-agent-that-compresses-418-lines-of-3-am-alerts-into-a-1pk6",
-      "published_at": "2026-10-21T15:28:00Z",
-      "description": "How I built a local-first open-weights Gemma 4, Google ADK, and Sentry Agent Tracing pipeline that deduplicates overnight stack traces, verifies git patches in a local pytest sandbox, and lets on-call engineers sleep until 8 AM.",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "gemma",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fslothsre-napops%2Fmain%2Farticles%2Fslothsre-napops%2Fcover.1eb32148.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
     },
     {
       "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
@@ -2990,6 +2975,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmodel-sweep%2Fmain%2Farticle%2Fdevto-cover.a42e27c5.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest",
+      "url": "https://dev.to/gde/slothsre-napops-an-overnight-gemma-4-adk-agent-that-compresses-418-lines-of-3-am-alerts-into-a-1pk6",
+      "published_at": "2026-10-21T15:28:00Z",
+      "description": "How I built a local-first open-weights Gemma 4, Google ADK, and Sentry Agent Tracing pipeline that deduplicates overnight stack traces, verifies git patches in a local pytest sandbox, and lets on-call engineers sleep until 8 AM.",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fslothsre-napops%2Fmain%2Farticles%2Fslothsre-napops%2Fcover.1eb32148.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
     },
     {
       "title": "What 1,368 Real-World AI Incidents Teach Us About Evaluation",
@@ -3084,7 +3084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1539,
+      "stars": 1552,
       "user": "alchaincyf"
     },
     {
@@ -3099,7 +3099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1183,
+      "stars": 1256,
       "user": "openai"
     },
     {
@@ -3114,7 +3114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 528,
       "user": "nthnclrk"
     },
     {
@@ -3129,7 +3129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 424,
       "user": "WoYun520"
     },
     {
@@ -3144,7 +3144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 413,
       "user": "typecraft-dev"
     },
     {
@@ -3159,7 +3159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2822,
+      "stars": 2905,
       "user": "xiaoyang111222"
     },
     {
@@ -3174,7 +3174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1696,
+      "stars": 1707,
       "user": "ikow"
     },
     {
@@ -3189,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1265,
+      "stars": 1311,
       "user": "9bie"
     },
     {
@@ -3204,7 +3204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 952,
+      "stars": 959,
       "user": "eagle-hq"
     },
     {
@@ -3219,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 889,
       "user": "Jakeschincariol"
     },
     {
@@ -3234,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 227,
+      "stars": 229,
       "user": "Fluepke"
     },
     {
@@ -3279,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33343170?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 117,
       "user": "armanlife"
     },
     {
@@ -3309,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 795,
       "user": "stackedlol"
     },
     {
@@ -3354,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 342,
       "user": "finereli"
     },
     {
@@ -3369,23 +3369,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 239,
       "user": "qianshuixia"
-    },
-    {
-      "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
-      "url": "https://github.com/colinhacks/reylo",
-      "published_at": "2026-10-21T00:16:54Z",
-      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
-      "source": "GitHub",
-      "stars": 1060,
-      "user": "colinhacks"
     },
     {
       "title": "xevrion/hatchzip - Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
@@ -3399,8 +3384,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 994,
+      "stars": 1129,
       "user": "xevrion"
+    },
+    {
+      "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
+      "url": "https://github.com/colinhacks/reylo",
+      "published_at": "2026-10-21T00:16:54Z",
+      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
+      "source": "GitHub",
+      "stars": 1083,
+      "user": "colinhacks"
     },
     {
       "title": "ELY-Open-Source/ElyOffice - Ely Office: offline-first desktop apps in Rust and GPUI",
@@ -3414,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 928,
+      "stars": 941,
       "user": "ELY-Open-Source"
     },
     {
@@ -3429,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 644,
       "user": "Hugo-Dz"
     },
     {
@@ -3444,14 +3444,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 601,
       "user": "aicodeking"
     },
     {
       "title": "Hey there, I request organic assistance debugging my fading-toolbar(JS)",
       "url": "https://stackoverflow.com/questions/80012169/hey-there-i-request-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "html",
