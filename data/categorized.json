@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1536,
+      "stars": 1539,
       "user": "alchaincyf"
     },
     {
@@ -749,23 +749,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1183,
       "user": "openai"
-    },
-    {
-      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "url": "https://github.com/aicodeking/leanrea",
-      "published_at": "2026-10-17T02:53:24Z",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
-      "source": "GitHub",
-      "stars": 1803,
-      "user": "aicodeking"
     },
     {
       "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
@@ -779,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1688,
+      "stars": 1696,
       "user": "ikow"
     },
     {
@@ -794,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 337,
       "user": "finereli"
     },
     {
@@ -809,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "qianshuixia"
     },
     {
@@ -824,20 +809,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "aicodeking"
-    },
-    {
-      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-      "published_at": "2026-10-23T12:12:35.281-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "systemd"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "janus"
     },
     {
       "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
@@ -856,7 +829,7 @@
       "title": "what is metric.compute() and metric.reset()",
       "url": "https://stackoverflow.com/questions/80012103/what-is-metric-compute-and-metric-reset",
       "published_at": "2026-10-23T16:00:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "advice",
         "python",
@@ -882,6 +855,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ghanianda Wafiqarifah"
+    },
+    {
+      "title": "Startups don&#8217;t need to go viral to win customers",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "published_at": "2026-10-23T23:07:45.000Z",
+      "description": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "tags": [
+        "Startups",
+        "engine",
+        "Gamma",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "published_at": "2026-10-23T23:05:49.000Z",
+      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -945,7 +945,7 @@
       "user": "Julie Bort"
     },
     {
-      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "title": "What some of Anthropic’s backers are worth before its IPO",
       "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
       "published_at": "2026-10-23T16:02:43.000Z",
       "description": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
@@ -959,22 +959,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
-    },
-    {
-      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
-      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-      "published_at": "2026-10-23T04:22:57.000Z",
-      "description": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-      "tags": [
-        "Biotech & Health",
-        "Hardware",
-        "oura",
-        "patents",
-        "ultrahuman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
@@ -1230,7 +1214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1536,
+      "stars": 1539,
       "user": "alchaincyf"
     },
     {
@@ -1245,7 +1229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1183,
       "user": "openai"
     },
     {
@@ -1260,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 516,
       "user": "nthnclrk"
     },
     {
@@ -1290,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "typecraft-dev"
     },
     {
@@ -1305,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 791,
       "user": "stackedlol"
     },
     {
@@ -1320,7 +1304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 583,
       "user": "VictorTaelin"
     },
     {
@@ -1350,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 337,
       "user": "finereli"
     },
     {
@@ -1365,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "qianshuixia"
     },
     {
@@ -1380,14 +1364,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1060,
       "user": "colinhacks"
     },
     {
       "title": "Hey there, I request organic assistance debugging my fading-toolbar(JS)",
       "url": "https://stackoverflow.com/questions/80012169/hey-there-i-request-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -1401,7 +1385,7 @@
       "title": "How to integrate a USB/Bluetooth barcode scanner with a web app on Hostinger for student attendance?",
       "url": "https://stackoverflow.com/questions/80012162/how-to-integrate-a-usb-bluetooth-barcode-scanner-with-a-web-app-on-hostinger-for",
       "published_at": "2026-10-23T20:36:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "javascript",
         "laravel",
@@ -1456,19 +1440,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pankaj Choudhary"
-    },
-    {
-      "title": "unserialize/serialize objects in Node.js, similar to PHP",
-      "url": "https://stackoverflow.com/questions/80011706/unserialize-serialize-objects-in-node-js-similar-to-php",
-      "published_at": "2026-10-21T22:52:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "javascript",
-        "node.js"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user2730288"
     },
     {
       "title": "Object initialisation and firing initialisation event",
@@ -1528,10 +1499,24 @@
       "user": "Alex Sindre"
     },
     {
+      "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
+      "url": "https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely",
+      "published_at": "2026-09-18T14:57:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "html",
+        "intersection-observer"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "timholz"
+    },
+    {
       "title": "What is the best platform to learn Python from beginner to advanced through hands-on practice?",
       "url": "https://stackoverflow.com/questions/80012121/what-is-the-best-platform-to-learn-python-from-beginner-to-advanced-through-hand",
       "published_at": "2026-10-23T17:39:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -13",
       "tags": [
         "advice",
         "python",
@@ -1737,23 +1722,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2779,
+      "stars": 2822,
       "user": "xiaoyang111222"
-    },
-    {
-      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "url": "https://github.com/aicodeking/leanrea",
-      "published_at": "2026-10-17T02:53:24Z",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
-      "source": "GitHub",
-      "stars": 1803,
-      "user": "aicodeking"
     },
     {
       "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
@@ -1767,7 +1737,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1688,
+      "stars": 1696,
       "user": "ikow"
     },
     {
@@ -1782,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1239,
+      "stars": 1265,
       "user": "9bie"
     },
     {
@@ -1797,8 +1767,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 952,
       "user": "eagle-hq"
+    },
+    {
+      "title": "Jakeschincariol/day-trader-skill - 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "published_at": "2026-10-20T14:17:54Z",
+      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
+      "source": "GitHub",
+      "stars": 859,
+      "user": "Jakeschincariol"
     },
     {
       "title": "UUIDv7 doesn't have the properties you think it does",
@@ -1829,21 +1814,6 @@
       "user": "Fern Mendiz"
     },
     {
-      "title": "What is the best platform to learn Python from beginner to advanced through hands-on practice?",
-      "url": "https://stackoverflow.com/questions/80012121/what-is-the-best-platform-to-learn-python-from-beginner-to-advanced-through-hand",
-      "published_at": "2026-10-23T17:39:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "advice",
-        "python",
-        "c",
-        "json"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33232752"
-    },
-    {
       "title": "Trouble with the command in a Button in \"tkmacosx\"",
       "url": "https://stackoverflow.com/questions/80012147/trouble-with-the-command-in-a-button-in-tkmacosx",
       "published_at": "2026-10-23T18:53:43.000Z",
@@ -1858,10 +1828,25 @@
       "user": "Tristan"
     },
     {
+      "title": "What is the best platform to learn Python from beginner to advanced through hands-on practice?",
+      "url": "https://stackoverflow.com/questions/80012121/what-is-the-best-platform-to-learn-python-from-beginner-to-advanced-through-hand",
+      "published_at": "2026-10-23T17:39:50.000Z",
+      "description": "Stack Overflow question · 0 answers · score -13",
+      "tags": [
+        "advice",
+        "python",
+        "c",
+        "json"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33232752"
+    },
+    {
       "title": "what is metric.compute() and metric.reset()",
       "url": "https://stackoverflow.com/questions/80012103/what-is-metric-compute-and-metric-reset",
       "published_at": "2026-10-23T16:00:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "advice",
         "python",
@@ -2244,7 +2229,7 @@
       "title": "Hey there, I request organic assistance debugging my fading-toolbar(JS)",
       "url": "https://stackoverflow.com/questions/80012169/hey-there-i-request-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -2283,6 +2268,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alex Sindre"
+    },
+    {
+      "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
+      "url": "https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely",
+      "published_at": "2026-09-18T14:57:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "html",
+        "intersection-observer"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "timholz"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -2346,6 +2345,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
+    },
+    {
+      "title": "armanlife/firefox-vpn-client - Free VPN for Android, Windows, macOS, and Linux through Mozilla's servers over HTTP/2 and HTTP/3, with Firefox Accounts, multi-account rotation, and smart routing",
+      "url": "https://github.com/armanlife/firefox-vpn-client",
+      "published_at": "2026-10-18T11:20:02Z",
+      "description": "Free VPN for Android, Windows, macOS, and Linux through Mozilla's servers over HTTP/2 and HTTP/3, with Firefox Accounts, multi-account rotation, and smart routing",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/33343170?v=4",
+      "source": "GitHub",
+      "stars": 109,
+      "user": "armanlife"
     },
     {
       "title": "How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store",
@@ -2541,7 +2555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 337,
       "user": "finereli"
     },
     {
@@ -2556,7 +2570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "qianshuixia"
     },
     {
@@ -2574,22 +2588,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
-      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-      "published_at": "2026-10-23T04:22:57.000Z",
-      "description": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-      "tags": [
-        "Biotech & Health",
-        "Hardware",
-        "oura",
-        "patents",
-        "ultrahuman"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2678,7 +2676,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1060,
       "user": "colinhacks"
     },
     {
@@ -2900,24 +2898,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1688,
+      "stars": 1696,
       "user": "ikow"
-    },
-    {
-      "title": "Lab testing giant Quest Diagnostics confirms patients&#8217; personal and health data was compromised during breach",
-      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-      "published_at": "2026-10-23T15:00:09.000Z",
-      "description": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
-      "tags": [
-        "Biotech & Health",
-        "Security",
-        "cybersecurity",
-        "data breach",
-        "quest diagnostics"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
@@ -3102,7 +3084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1536,
+      "stars": 1539,
       "user": "alchaincyf"
     },
     {
@@ -3117,7 +3099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1183,
       "user": "openai"
     },
     {
@@ -3132,7 +3114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 511,
+      "stars": 516,
       "user": "nthnclrk"
     },
     {
@@ -3162,7 +3144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 412,
       "user": "typecraft-dev"
     },
     {
@@ -3177,23 +3159,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2779,
+      "stars": 2822,
       "user": "xiaoyang111222"
-    },
-    {
-      "title": "aicodeking/leanrea - One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "url": "https://github.com/aicodeking/leanrea",
-      "published_at": "2026-10-17T02:53:24Z",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
-      "source": "GitHub",
-      "stars": 1803,
-      "user": "aicodeking"
     },
     {
       "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
@@ -3207,7 +3174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1688,
+      "stars": 1696,
       "user": "ikow"
     },
     {
@@ -3222,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1239,
+      "stars": 1265,
       "user": "9bie"
     },
     {
@@ -3237,8 +3204,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 947,
+      "stars": 952,
       "user": "eagle-hq"
+    },
+    {
+      "title": "Jakeschincariol/day-trader-skill - 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "published_at": "2026-10-20T14:17:54Z",
+      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
+      "source": "GitHub",
+      "stars": 859,
+      "user": "Jakeschincariol"
     },
     {
       "title": "Fluepke/emudrahahahahaha - Private Keys",
@@ -3252,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 227,
       "user": "Fluepke"
     },
     {
@@ -3271,21 +3253,6 @@
       "user": "Samsara-1999"
     },
     {
-      "title": "mu-zi-lee/Tangentry - 沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
-      "url": "https://github.com/mu-zi-lee/Tangentry",
-      "published_at": "2026-10-17T05:17:17Z",
-      "description": "沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/75201518?v=4",
-      "source": "GitHub",
-      "stars": 145,
-      "user": "mu-zi-lee"
-    },
-    {
       "title": "0c-biggo/0c-ime - 免選字的注音輸入法：在本機用 Transformer 看前文選字。支援 Linux（Fcitx5／IBus）、macOS、Windows。",
       "url": "https://github.com/0c-biggo/0c-ime",
       "published_at": "2026-10-19T19:00:19Z",
@@ -3297,23 +3264,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344968002?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 138,
       "user": "0c-biggo"
     },
     {
-      "title": "Neo23x0/process-watcher - A process monitoring tool that tries to detect exploitation",
-      "url": "https://github.com/Neo23x0/process-watcher",
-      "published_at": "2026-10-17T09:39:16Z",
-      "description": "A process monitoring tool that tries to detect exploitation",
+      "title": "armanlife/firefox-vpn-client - Free VPN for Android, Windows, macOS, and Linux through Mozilla's servers over HTTP/2 and HTTP/3, with Firefox Accounts, multi-account rotation, and smart routing",
+      "url": "https://github.com/armanlife/firefox-vpn-client",
+      "published_at": "2026-10-18T11:20:02Z",
+      "description": "Free VPN for Android, Windows, macOS, and Linux through Mozilla's servers over HTTP/2 and HTTP/3, with Firefox Accounts, multi-account rotation, and smart routing",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2851492?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/33343170?v=4",
       "source": "GitHub",
       "stars": 109,
-      "user": "Neo23x0"
+      "user": "armanlife"
+    },
+    {
+      "title": "xue-y-su/clove-api-1.0.6 - Clove API 1.0.6 source code",
+      "url": "https://github.com/xue-y-su/clove-api-1.0.6",
+      "published_at": "2026-10-21T09:09:08Z",
+      "description": "Clove API 1.0.6 source code",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/190185029?v=4",
+      "source": "GitHub",
+      "stars": 104,
+      "user": "xue-y-su"
     },
     {
       "title": "stackedlol/ascii-sharks - ascii shark components in typescript",
@@ -3327,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 790,
+      "stars": 791,
       "user": "stackedlol"
     },
     {
@@ -3342,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 583,
       "user": "VictorTaelin"
     },
     {
@@ -3372,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 337,
       "user": "finereli"
     },
     {
@@ -3387,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 234,
+      "stars": 235,
       "user": "qianshuixia"
     },
     {
@@ -3402,23 +3384,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1060,
       "user": "colinhacks"
-    },
-    {
-      "title": "ELY-Open-Source/ElyOffice - Ely Office: offline-first desktop apps in Rust and GPUI",
-      "url": "https://github.com/ELY-Open-Source/ElyOffice",
-      "published_at": "2026-10-19T23:04:42Z",
-      "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
-      "source": "GitHub",
-      "stars": 926,
-      "user": "ELY-Open-Source"
     },
     {
       "title": "xevrion/hatchzip - Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
@@ -3432,8 +3399,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 914,
+      "stars": 994,
       "user": "xevrion"
+    },
+    {
+      "title": "ELY-Open-Source/ElyOffice - Ely Office: offline-first desktop apps in Rust and GPUI",
+      "url": "https://github.com/ELY-Open-Source/ElyOffice",
+      "published_at": "2026-10-19T23:04:42Z",
+      "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
+      "source": "GitHub",
+      "stars": 928,
+      "user": "ELY-Open-Source"
     },
     {
       "title": "Hugo-Dz/spritefusion-sprite-normals - A tool to generate normal maps from any sprite and animated sprite sheet.",
@@ -3447,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 640,
+      "stars": 642,
       "user": "Hugo-Dz"
     },
     {
@@ -3462,14 +3444,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 592,
+      "stars": 593,
       "user": "aicodeking"
     },
     {
       "title": "Hey there, I request organic assistance debugging my fading-toolbar(JS)",
       "url": "https://stackoverflow.com/questions/80012169/hey-there-i-request-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "html",
@@ -3478,22 +3460,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BoJacks JJ"
-    },
-    {
-      "title": "Lab testing giant Quest Diagnostics confirms patients&#8217; personal and health data was compromised during breach",
-      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-      "published_at": "2026-10-23T15:00:09.000Z",
-      "description": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
-      "tags": [
-        "Biotech & Health",
-        "Security",
-        "cybersecurity",
-        "data breach",
-        "quest diagnostics"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
