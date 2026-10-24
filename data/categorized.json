@@ -16,21 +16,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
-      "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4",
-      "published_at": "2026-10-23T05:52:48Z",
-      "description": "When we use generative AI to proofread our daily writing—whether technical reports, business...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleappsscript",
-        "googleworkspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2bc3ar45xrgqtcuc87ui.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Don't Be a Proxy Between Me and Your AI",
       "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
       "published_at": "2026-10-22T04:31:09Z",
@@ -44,21 +29,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
       "source": "Dev.to",
       "user": "Adam - The Developer ✨"
-    },
-    {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-2-side-hustle-winners-2i33",
-      "published_at": "2026-10-23T20:18:31Z",
-      "description": "We're excited to announce the winners of the Hacktoberfest Open-Source AI Challenge Week 2: Side...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcp9oenpjux05n1wl6od.png",
-      "source": "Dev.to",
-      "user": "Jem"
     },
     {
       "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
@@ -119,6 +89,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-2-side-hustle-winners-2i33",
+      "published_at": "2026-10-23T20:18:31Z",
+      "description": "We're excited to announce the winners of the Hacktoberfest Open-Source AI Challenge Week 2: Side...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcp9oenpjux05n1wl6od.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
+      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
+      "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4",
+      "published_at": "2026-10-23T05:52:48Z",
+      "description": "When we use generative AI to proofread our daily writing—whether technical reports, business...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "googleworkspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2bc3ar45xrgqtcuc87ui.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
@@ -570,6 +570,21 @@
       "user": "Jonathan Zhuo"
     },
     {
+      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
+      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
+      "published_at": "2026-10-16T14:52:20Z",
+      "description": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -749,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1552,
+      "stars": 1566,
       "user": "alchaincyf"
     },
     {
@@ -764,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1335,
       "user": "openai"
     },
     {
@@ -779,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1707,
+      "stars": 1723,
       "user": "ikow"
     },
     {
@@ -809,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 243,
       "user": "qianshuixia"
     },
     {
@@ -824,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 611,
       "user": "aicodeking"
     },
     {
@@ -1229,7 +1244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1552,
+      "stars": 1566,
       "user": "alchaincyf"
     },
     {
@@ -1244,7 +1259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1335,
       "user": "openai"
     },
     {
@@ -1259,7 +1274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 537,
       "user": "nthnclrk"
     },
     {
@@ -1274,7 +1289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 425,
       "user": "WoYun520"
     },
     {
@@ -1304,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 802,
       "user": "stackedlol"
     },
     {
@@ -1319,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 585,
       "user": "VictorTaelin"
     },
     {
@@ -1334,7 +1349,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 396,
       "user": "vercel-labs"
     },
     {
@@ -1364,7 +1379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 243,
       "user": "qianshuixia"
     },
     {
@@ -1379,28 +1394,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1083,
+      "stars": 1134,
       "user": "colinhacks"
-    },
-    {
-      "title": "Reddit devvit stops with no error while fetching comments. What is happening and how would i circumvent this?",
-      "url": "https://stackoverflow.com/questions/80012182/reddit-devvit-stops-with-no-error-while-fetching-comments-what-is-happening-and",
-      "published_at": "2026-10-24T00:44:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "express",
-        "reddit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Asger &#216;rmen Dalmeijer"
     },
     {
       "title": "Hey there, I request organic assistance debugging my fading-toolbar(JS)",
       "url": "https://stackoverflow.com/questions/80012169/hey-there-i-request-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -1411,10 +1412,24 @@
       "user": "BoJacks JJ"
     },
     {
+      "title": "Reddit devvit stops with no error while fetching comments. What is happening and how would i circumvent this?",
+      "url": "https://stackoverflow.com/questions/80012182/reddit-devvit-stops-with-no-error-while-fetching-comments-what-is-happening-and",
+      "published_at": "2026-10-24T00:44:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "express",
+        "reddit"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Asger &#216;rmen Dalmeijer"
+    },
+    {
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "html",
@@ -1430,7 +1445,7 @@
       "title": "How to integrate a USB/Bluetooth barcode scanner with a web app on Hostinger for student attendance?",
       "url": "https://stackoverflow.com/questions/80012162/how-to-integrate-a-usb-bluetooth-barcode-scanner-with-a-web-app-on-hostinger-for",
       "published_at": "2026-10-23T20:36:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "javascript",
         "laravel",
@@ -1591,6 +1606,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
+      "url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
+      "published_at": "2026-10-16T14:52:20Z",
+      "description": "Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
       "published_at": "2025-10-29T18:57:29Z",
@@ -1722,7 +1752,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2905,
+      "stars": 2981,
       "user": "xiaoyang111222"
     },
     {
@@ -1737,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1707,
+      "stars": 1723,
       "user": "ikow"
     },
     {
@@ -1752,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1367,
       "user": "9bie"
     },
     {
@@ -1767,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 959,
+      "stars": 958,
       "user": "eagle-hq"
     },
     {
@@ -1782,27 +1812,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 934,
       "user": "Jakeschincariol"
-    },
-    {
-      "title": "UUIDv7 doesn't have the properties you think it does",
-      "url": "https://alexsci.com/blog/uuidv7-is-weird/",
-      "published_at": "2026-10-22T20:22:17.339-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "distributed",
-        "python"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "robalex"
     },
     {
       "title": "For loop within a function that writes contents of list parameter to desired file name",
       "url": "https://stackoverflow.com/questions/80012195/for-loop-within-a-function-that-writes-contents-of-list-parameter-to-desired-fil",
       "published_at": "2026-10-24T03:08:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "function",
@@ -1813,19 +1830,18 @@
       "user": "xAvareS"
     },
     {
-      "title": "what is metric.compute() and metric.reset()",
-      "url": "https://stackoverflow.com/questions/80012103/what-is-metric-compute-and-metric-reset",
-      "published_at": "2026-10-23T16:00:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
+      "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
+      "published_at": "2026-10-22T17:09:57.000Z",
+      "description": "Stack Overflow question · 5 answers · score 2",
       "tags": [
-        "advice",
         "python",
-        "machine-learning",
-        "conv-neural-network"
+        "regex",
+        "string"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "NeuronEdge"
+      "user": "pg27"
     },
     {
       "title": "Trouble with the command in a Button in \"tkmacosx\"",
@@ -1857,18 +1873,19 @@
       "user": "Fern Mendiz"
     },
     {
-      "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
-      "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
-      "published_at": "2026-10-22T17:09:57.000Z",
-      "description": "Stack Overflow question · 4 answers · score 2",
+      "title": "what is metric.compute() and metric.reset()",
+      "url": "https://stackoverflow.com/questions/80012103/what-is-metric-compute-and-metric-reset",
+      "published_at": "2026-10-23T16:00:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
+        "advice",
         "python",
-        "regex",
-        "string"
+        "machine-learning",
+        "conv-neural-network"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "pg27"
+      "user": "NeuronEdge"
     },
     {
       "title": "Python merge sort which prints each step",
@@ -2221,14 +2238,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 396,
       "user": "vercel-labs"
     },
     {
       "title": "Hey there, I request organic assistance debugging my fading-toolbar(JS)",
       "url": "https://stackoverflow.com/questions/80012169/hey-there-i-request-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -2242,7 +2259,7 @@
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "html",
@@ -2343,7 +2360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33343170?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 123,
       "user": "armanlife"
     },
     {
@@ -2555,7 +2572,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 243,
       "user": "qianshuixia"
     },
     {
@@ -2661,7 +2678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1083,
+      "stars": 1134,
       "user": "colinhacks"
     },
     {
@@ -2898,8 +2915,33 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1707,
+      "stars": 1723,
       "user": "ikow"
+    },
+    {
+      "title": "I want my Wednesday back",
+      "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
+      "published_at": "2026-10-24T05:09:28.059-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "php",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lucasluitjes"
+    },
+    {
+      "title": "Indian government sites are serving revoked eMudhra certificates",
+      "url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
+      "published_at": "2026-10-23T23:06:06.412-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "adityaathalye"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
@@ -3084,7 +3126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1552,
+      "stars": 1566,
       "user": "alchaincyf"
     },
     {
@@ -3099,7 +3141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1256,
+      "stars": 1335,
       "user": "openai"
     },
     {
@@ -3114,7 +3156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 537,
       "user": "nthnclrk"
     },
     {
@@ -3129,7 +3171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 425,
       "user": "WoYun520"
     },
     {
@@ -3159,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2905,
+      "stars": 2981,
       "user": "xiaoyang111222"
     },
     {
@@ -3174,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1707,
+      "stars": 1723,
       "user": "ikow"
     },
     {
@@ -3189,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1367,
       "user": "9bie"
     },
     {
@@ -3204,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 959,
+      "stars": 958,
       "user": "eagle-hq"
     },
     {
@@ -3219,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 934,
       "user": "Jakeschincariol"
     },
     {
@@ -3234,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 229,
+      "stars": 232,
       "user": "Fluepke"
     },
     {
@@ -3264,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344968002?v=4",
       "source": "GitHub",
-      "stars": 138,
+      "stars": 139,
       "user": "0c-biggo"
     },
     {
@@ -3279,23 +3321,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33343170?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 123,
       "user": "armanlife"
     },
     {
-      "title": "xue-y-su/clove-api-1.0.6 - Clove API 1.0.6 source code",
-      "url": "https://github.com/xue-y-su/clove-api-1.0.6",
-      "published_at": "2026-10-21T09:09:08Z",
-      "description": "Clove API 1.0.6 source code",
+      "title": "fzn0x/mixmusic - MixMusic: Spotify and YouTube Music in one player. Open-source desktop music player for macOS, Windows & Linux: one search, one queue, mixed playlists, synced lyrics, and equalizer with community themes and plugins.",
+      "url": "https://github.com/fzn0x/mixmusic",
+      "published_at": "2026-10-18T21:02:40Z",
+      "description": "MixMusic: Spotify and YouTube Music in one player. Open-source desktop music player for macOS, Windows & Linux: one search, one queue, mixed playlists, synced lyrics, and equalizer with community themes and plugins.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/190185029?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/50759463?v=4",
       "source": "GitHub",
-      "stars": 104,
-      "user": "xue-y-su"
+      "stars": 105,
+      "user": "fzn0x"
     },
     {
       "title": "stackedlol/ascii-sharks - ascii shark components in typescript",
@@ -3309,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 802,
       "user": "stackedlol"
     },
     {
@@ -3324,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 585,
       "user": "VictorTaelin"
     },
     {
@@ -3339,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 396,
       "user": "vercel-labs"
     },
     {
@@ -3369,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 243,
       "user": "qianshuixia"
     },
     {
@@ -3384,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 1129,
+      "stars": 1306,
       "user": "xevrion"
     },
     {
@@ -3399,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1083,
+      "stars": 1134,
       "user": "colinhacks"
     },
     {
@@ -3414,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 941,
+      "stars": 953,
       "user": "ELY-Open-Source"
     },
     {
@@ -3429,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 651,
       "user": "Hugo-Dz"
     },
     {
@@ -3444,14 +3486,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 611,
       "user": "aicodeking"
     },
     {
       "title": "Hey there, I request organic assistance debugging my fading-toolbar(JS)",
       "url": "https://stackoverflow.com/questions/80012169/hey-there-i-request-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "html",
