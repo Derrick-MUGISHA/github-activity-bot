@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
-      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
-      "published_at": "2026-10-22T23:51:30Z",
-      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Don't Be a Proxy Between Me and Your AI",
       "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
       "published_at": "2026-10-22T04:31:09Z",
@@ -31,17 +16,32 @@
       "user": "Adam - The Developer ✨"
     },
     {
+      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
+      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
+      "published_at": "2026-10-22T23:51:30Z",
+      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
       "url": "https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc",
       "published_at": "2026-10-23T15:22:41Z",
-      "description": "This post is my submission for DEV Education Track: Build Apps with Google AI Studio.             ...",
+      "description": "How I built a voice-and-text-to-4-panel comic generator with Google AI Studio, Gemini structured outputs, a teacher script-review gate, and Imagen 4.",
       "tags": [
         "deved",
         "learngoogleaistudio",
         "googleai",
         "gemini"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5s5zgl6yf7u7w3mv2rg.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2FRobinaMirbahar%2Fmain%2Fcomic_studio_ai_cover.jpg",
       "source": "Dev.to",
       "user": "Robina Mirbahar"
     },
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1566,
+      "stars": 1579,
       "user": "alchaincyf"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1364,
       "user": "openai"
     },
     {
@@ -794,14 +794,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1723,
+      "stars": 1736,
       "user": "ikow"
     },
     {
-      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
       "url": "https://github.com/finereli/whatsapp-mcp",
       "published_at": "2026-10-18T21:01:54Z",
-      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
       "tags": [
         "typescript",
         "github",
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 347,
       "user": "finereli"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 247,
       "user": "qianshuixia"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 614,
       "user": "aicodeking"
     },
     {
@@ -856,21 +856,6 @@
       "user": "Muntadhar Muayyad"
     },
     {
-      "title": "what is metric.compute() and metric.reset()",
-      "url": "https://stackoverflow.com/questions/80012103/what-is-metric-compute-and-metric-reset",
-      "published_at": "2026-10-23T16:00:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "advice",
-        "python",
-        "machine-learning",
-        "conv-neural-network"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NeuronEdge"
-    },
-    {
       "title": "Why does my local Qwen LLM report that no business indicators are available when my pandas DataFrames contain data?",
       "url": "https://stackoverflow.com/questions/80012012/why-does-my-local-qwen-llm-report-that-no-business-indicators-are-available-when",
       "published_at": "2026-10-23T07:58:22.000Z",
@@ -885,6 +870,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ghanianda Wafiqarifah"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published_at": "2026-10-24T14:00:00.000Z",
+      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "tags": [
+        "AI",
+        "instinct",
+        "AI agents"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
       "title": "Startups don&#8217;t need to go viral to win customers",
@@ -973,22 +972,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "What some of Anthropic’s backers are worth before its IPO",
-      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-      "published_at": "2026-10-23T16:02:43.000Z",
-      "description": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-      "tags": [
-        "Venture",
-        "Anthropic",
-        "Eric Schmidt",
-        "ICONIQ",
-        "IPO"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
@@ -1244,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1566,
+      "stars": 1579,
       "user": "alchaincyf"
     },
     {
@@ -1259,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1364,
       "user": "openai"
     },
     {
@@ -1274,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 549,
       "user": "nthnclrk"
     },
     {
@@ -1289,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 430,
       "user": "WoYun520"
     },
     {
@@ -1304,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 415,
       "user": "typecraft-dev"
     },
     {
@@ -1319,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 803,
       "user": "stackedlol"
     },
     {
@@ -1349,14 +1332,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "vercel-labs"
     },
     {
-      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
       "url": "https://github.com/finereli/whatsapp-mcp",
       "published_at": "2026-10-18T21:01:54Z",
-      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
       "tags": [
         "typescript",
         "github",
@@ -1364,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 347,
       "user": "finereli"
     },
     {
@@ -1379,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 247,
       "user": "qianshuixia"
     },
     {
@@ -1394,14 +1377,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1134,
+      "stars": 1158,
       "user": "colinhacks"
     },
     {
-      "title": "Hey there, I request organic assistance debugging my fading-toolbar(JS)",
-      "url": "https://stackoverflow.com/questions/80012169/hey-there-i-request-organic-assistance-debugging-my-fading-toolbarjs",
+      "title": "Request for organic assistance debugging my fading-toolbar(JS)",
+      "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "javascript",
         "html",
@@ -1412,10 +1395,26 @@
       "user": "BoJacks JJ"
     },
     {
+      "title": "How to integrate a USB/Bluetooth barcode scanner with a web app on Hostinger for student attendance?",
+      "url": "https://stackoverflow.com/questions/80012162/how-to-integrate-a-usb-bluetooth-barcode-scanner-with-a-web-app-on-hostinger-for",
+      "published_at": "2026-10-23T20:36:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score -8",
+      "tags": [
+        "javascript",
+        "laravel",
+        "web-applications",
+        "qr-code",
+        "barcode"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Yahia Azab"
+    },
+    {
       "title": "Reddit devvit stops with no error while fetching comments. What is happening and how would i circumvent this?",
       "url": "https://stackoverflow.com/questions/80012182/reddit-devvit-stops-with-no-error-while-fetching-comments-what-is-happening-and",
       "published_at": "2026-10-24T00:44:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "express",
@@ -1429,7 +1428,7 @@
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -1440,22 +1439,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
-    },
-    {
-      "title": "How to integrate a USB/Bluetooth barcode scanner with a web app on Hostinger for student attendance?",
-      "url": "https://stackoverflow.com/questions/80012162/how-to-integrate-a-usb-bluetooth-barcode-scanner-with-a-web-app-on-hostinger-for",
-      "published_at": "2026-10-23T20:36:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "javascript",
-        "laravel",
-        "web-applications",
-        "qr-code",
-        "barcode"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yahia Azab"
     },
     {
       "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
@@ -1474,7 +1457,7 @@
       "title": "error: Calling setState synchronously within an effect can trigger cascading renders",
       "url": "https://stackoverflow.com/questions/80011987/error-calling-setstate-synchronously-within-an-effect-can-trigger-cascading-ren",
       "published_at": "2026-10-23T06:05:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
         "reactjs",
@@ -1484,22 +1467,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Pankaj Choudhary"
-    },
-    {
-      "title": "Object initialisation and firing initialisation event",
-      "url": "https://stackoverflow.com/questions/80011608/object-initialisation-and-firing-initialisation-event",
-      "published_at": "2026-10-21T14:20:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "database",
-        "events",
-        "pagination"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "The Ratman"
     },
     {
       "title": "Split and capture text ending with brackets and two letters",
@@ -1515,20 +1482,6 @@
       "user": "Federico"
     },
     {
-      "title": "Changing two images simultaneously with one button-onclick and querySelector",
-      "url": "https://stackoverflow.com/questions/80009812/changing-two-images-simultaneously-with-one-button-onclick-and-queryselector",
-      "published_at": "2026-10-13T20:20:33.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "javascript",
-        "onclick",
-        "queryselector"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Moon Lich"
-    },
-    {
       "title": "IntersectionObserver with bxslider background-image slideshow behaves strangely",
       "url": "https://stackoverflow.com/questions/80004082/intersectionobserver-with-bxslider-background-image-slideshow-behaves-strangely",
       "published_at": "2026-09-18T14:57:42.000Z",
@@ -1541,6 +1494,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "timholz"
+    },
+    {
+      "title": "How can I format a number with commas as thousands separators?",
+      "url": "https://stackoverflow.com/questions/2901102/how-can-i-format-a-number-with-commas-as-thousands-separators",
+      "published_at": "2010-05-24T23:42:31.000Z",
+      "description": "Stack Overflow question · 53 answers · score 2782",
+      "tags": [
+        "javascript",
+        "formatting",
+        "numbers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Elias Zamaria"
+    },
+    {
+      "title": "How can I use foreach on an array where I set keys with strings?",
+      "url": "https://stackoverflow.com/questions/18804592/how-can-i-use-foreach-on-an-array-where-i-set-keys-with-strings",
+      "published_at": "2013-09-14T17:42:15.000Z",
+      "description": "Stack Overflow question · 11 answers · score 224",
+      "tags": [
+        "javascript",
+        "arrays",
+        "foreach"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Szymon Toda"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -1752,7 +1733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2981,
+      "stars": 3055,
       "user": "xiaoyang111222"
     },
     {
@@ -1767,7 +1748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1723,
+      "stars": 1736,
       "user": "ikow"
     },
     {
@@ -1782,23 +1763,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1367,
+      "stars": 1388,
       "user": "9bie"
-    },
-    {
-      "title": "eagle-hq/EAGLE-4 - Official Inference Code of EAGLE-4",
-      "url": "https://github.com/eagle-hq/EAGLE-4",
-      "published_at": "2026-10-20T14:03:04Z",
-      "description": "Official Inference Code of EAGLE-4",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
-      "source": "GitHub",
-      "stars": 958,
-      "user": "eagle-hq"
     },
     {
       "title": "Jakeschincariol/day-trader-skill - 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
@@ -1812,14 +1778,58 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 962,
       "user": "Jakeschincariol"
+    },
+    {
+      "title": "eagle-hq/EAGLE-4 - Official Inference Code of EAGLE-4",
+      "url": "https://github.com/eagle-hq/EAGLE-4",
+      "published_at": "2026-10-20T14:03:04Z",
+      "description": "Official Inference Code of EAGLE-4",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
+      "source": "GitHub",
+      "stars": 961,
+      "user": "eagle-hq"
+    },
+    {
+      "title": "How can i extract specific Metadata from the list of University URLs?",
+      "url": "https://stackoverflow.com/questions/80012241/how-can-i-extract-specific-metadata-from-the-list-of-university-urls",
+      "published_at": "2026-10-24T10:41:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "best-practices",
+        "python",
+        "pandas",
+        "web-scraping",
+        "google-colaboratory"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FRAZER NYAMBE"
+    },
+    {
+      "title": "Openpyxl setting italic conditional formatting",
+      "url": "https://stackoverflow.com/questions/80012239/openpyxl-setting-italic-conditional-formatting",
+      "published_at": "2026-10-24T10:35:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "openpyxl"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "CADV"
     },
     {
       "title": "For loop within a function that writes contents of list parameter to desired file name",
       "url": "https://stackoverflow.com/questions/80012195/for-loop-within-a-function-that-writes-contents-of-list-parameter-to-desired-fil",
       "published_at": "2026-10-24T03:08:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 2 answers · score -4",
       "tags": [
         "python",
         "function",
@@ -1833,7 +1843,7 @@
       "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
       "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
       "published_at": "2026-10-22T17:09:57.000Z",
-      "description": "Stack Overflow question · 5 answers · score 2",
+      "description": "Stack Overflow question · 4 answers · score 2",
       "tags": [
         "python",
         "regex",
@@ -1844,24 +1854,10 @@
       "user": "pg27"
     },
     {
-      "title": "Trouble with the command in a Button in \"tkmacosx\"",
-      "url": "https://stackoverflow.com/questions/80012147/trouble-with-the-command-in-a-button-in-tkmacosx",
-      "published_at": "2026-10-23T18:53:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "tkinter",
-        "button"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Tristan"
-    },
-    {
       "title": "Trying to use a Gemma model on Keras in Python, but the example code doesn't run",
       "url": "https://stackoverflow.com/questions/80012143/trying-to-use-a-gemma-model-on-keras-in-python-but-the-example-code-doesnt-run",
       "published_at": "2026-10-23T18:47:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "tensorflow",
@@ -1873,25 +1869,24 @@
       "user": "Fern Mendiz"
     },
     {
-      "title": "what is metric.compute() and metric.reset()",
-      "url": "https://stackoverflow.com/questions/80012103/what-is-metric-compute-and-metric-reset",
-      "published_at": "2026-10-23T16:00:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "title": "Trouble with the command in a Button in \"tkmacosx\"",
+      "url": "https://stackoverflow.com/questions/80012147/trouble-with-the-command-in-a-button-in-tkmacosx",
+      "published_at": "2026-10-23T18:53:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "advice",
         "python",
-        "machine-learning",
-        "conv-neural-network"
+        "tkinter",
+        "button"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "NeuronEdge"
+      "user": "Tristan"
     },
     {
       "title": "Python merge sort which prints each step",
       "url": "https://stackoverflow.com/questions/80012094/python-merge-sort-which-prints-each-step",
       "published_at": "2026-10-23T14:59:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "python"
       ],
@@ -1941,20 +1936,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "my name is halo"
-    },
-    {
-      "title": "Variable explorer or kernel selection don't work when using Spyder's notebook",
-      "url": "https://stackoverflow.com/questions/80011889/variable-explorer-or-kernel-selection-dont-work-when-using-spyders-notebook",
-      "published_at": "2026-10-22T16:12:13.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "jupyter-notebook",
-        "spyder"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Sergio"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2155,18 +2136,6 @@
       "user": "jknupp"
     },
     {
-      "title": "Docker is weird",
-      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "published_at": "2026-10-22T15:09:22.732-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "programming"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "nick4"
-    },
-    {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
       "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
       "published_at": "2026-10-21T16:03:14.000Z",
@@ -2238,14 +2207,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "vercel-labs"
     },
     {
-      "title": "Hey there, I request organic assistance debugging my fading-toolbar(JS)",
-      "url": "https://stackoverflow.com/questions/80012169/hey-there-i-request-organic-assistance-debugging-my-fading-toolbarjs",
+      "title": "Request for organic assistance debugging my fading-toolbar(JS)",
+      "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "javascript",
         "html",
@@ -2259,7 +2228,7 @@
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
         "html",
@@ -2360,7 +2329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33343170?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 133,
       "user": "armanlife"
     },
     {
@@ -2546,10 +2515,10 @@
       "user": "Jonathan Zhuo"
     },
     {
-      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
       "url": "https://github.com/finereli/whatsapp-mcp",
       "published_at": "2026-10-18T21:01:54Z",
-      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
       "tags": [
         "typescript",
         "github",
@@ -2557,7 +2526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 347,
       "user": "finereli"
     },
     {
@@ -2572,7 +2541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 247,
       "user": "qianshuixia"
     },
     {
@@ -2678,24 +2647,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1134,
+      "stars": 1158,
       "user": "colinhacks"
     },
     {
-      "title": "Object initialisation and firing initialisation event",
-      "url": "https://stackoverflow.com/questions/80011608/object-initialisation-and-firing-initialisation-event",
-      "published_at": "2026-10-21T14:20:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "Twelve years of distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "published_at": "2026-10-24T01:41:52.308-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "best-practices",
-        "javascript",
-        "database",
-        "events",
-        "pagination"
+        "databases"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "The Ratman"
+      "source": "Lobste.rs",
+      "user": "tomas"
     },
     {
       "title": "How should I lock FEFO inventory batches when reserving stock concurrently with SQLAlchemy and PostgreSQL?",
@@ -2915,7 +2880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1723,
+      "stars": 1736,
       "user": "ikow"
     },
     {
@@ -3126,7 +3091,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/127714341?v=4",
       "source": "GitHub",
-      "stars": 1566,
+      "stars": 1579,
       "user": "alchaincyf"
     },
     {
@@ -3141,7 +3106,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1364,
       "user": "openai"
     },
     {
@@ -3156,7 +3121,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 549,
       "user": "nthnclrk"
     },
     {
@@ -3171,7 +3136,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 425,
+      "stars": 430,
       "user": "WoYun520"
     },
     {
@@ -3186,7 +3151,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 415,
       "user": "typecraft-dev"
     },
     {
@@ -3201,7 +3166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 2981,
+      "stars": 3055,
       "user": "xiaoyang111222"
     },
     {
@@ -3216,7 +3181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1723,
+      "stars": 1736,
       "user": "ikow"
     },
     {
@@ -3231,23 +3196,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1367,
+      "stars": 1388,
       "user": "9bie"
-    },
-    {
-      "title": "eagle-hq/EAGLE-4 - Official Inference Code of EAGLE-4",
-      "url": "https://github.com/eagle-hq/EAGLE-4",
-      "published_at": "2026-10-20T14:03:04Z",
-      "description": "Official Inference Code of EAGLE-4",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
-      "source": "GitHub",
-      "stars": 958,
-      "user": "eagle-hq"
     },
     {
       "title": "Jakeschincariol/day-trader-skill - 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
@@ -3261,8 +3211,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 934,
+      "stars": 962,
       "user": "Jakeschincariol"
+    },
+    {
+      "title": "eagle-hq/EAGLE-4 - Official Inference Code of EAGLE-4",
+      "url": "https://github.com/eagle-hq/EAGLE-4",
+      "published_at": "2026-10-20T14:03:04Z",
+      "description": "Official Inference Code of EAGLE-4",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
+      "source": "GitHub",
+      "stars": 961,
+      "user": "eagle-hq"
     },
     {
       "title": "Fluepke/emudrahahahahaha - Private Keys",
@@ -3276,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 232,
+      "stars": 235,
       "user": "Fluepke"
     },
     {
@@ -3306,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344968002?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 140,
       "user": "0c-biggo"
     },
     {
@@ -3321,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33343170?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 133,
       "user": "armanlife"
     },
     {
@@ -3351,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 803,
       "user": "stackedlol"
     },
     {
@@ -3381,14 +3346,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 397,
       "user": "vercel-labs"
     },
     {
-      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "title": "finereli/whatsapp-mcp - A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
       "url": "https://github.com/finereli/whatsapp-mcp",
       "published_at": "2026-10-18T21:01:54Z",
-      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+      "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
       "tags": [
         "typescript",
         "github",
@@ -3396,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 347,
       "user": "finereli"
     },
     {
@@ -3411,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 247,
       "user": "qianshuixia"
     },
     {
@@ -3426,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 1306,
+      "stars": 1445,
       "user": "xevrion"
     },
     {
@@ -3441,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1134,
+      "stars": 1158,
       "user": "colinhacks"
     },
     {
@@ -3456,7 +3421,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 953,
+      "stars": 958,
       "user": "ELY-Open-Source"
     },
     {
@@ -3471,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 651,
+      "stars": 655,
       "user": "Hugo-Dz"
     },
     {
@@ -3486,14 +3451,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 614,
       "user": "aicodeking"
     },
     {
-      "title": "Hey there, I request organic assistance debugging my fading-toolbar(JS)",
-      "url": "https://stackoverflow.com/questions/80012169/hey-there-i-request-organic-assistance-debugging-my-fading-toolbarjs",
+      "title": "Request for organic assistance debugging my fading-toolbar(JS)",
+      "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "javascript",
         "html",
