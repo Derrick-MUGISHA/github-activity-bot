@@ -76,21 +76,6 @@
       "user": "Paul Horton"
     },
     {
-      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
-      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
-      "published_at": "2026-10-22T16:05:20Z",
-      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-2-side-hustle-winners-2i33",
       "published_at": "2026-10-23T20:18:31Z",
@@ -299,6 +284,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmodel-sweep%2Fmain%2Farticle%2Fdevto-cover.a42e27c5.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
+      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
+      "published_at": "2026-10-22T16:05:20Z",
+      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "For Agents, Waiting is the Hardest Part",
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1377,
+      "stars": 1380,
       "user": "openai"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1748,
+      "stars": 1752,
       "user": "ikow"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 357,
       "user": "finereli"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 256,
       "user": "qianshuixia"
     },
     {
@@ -839,11 +839,11 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 625,
       "user": "aicodeking"
     },
     {
-      "title": "Balloting has completed for C++26. Unfortunately it was Disapproved/",
+      "title": "Balloting has completed for C++26. Unfortunately it was Disapproved",
       "url": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
       "published_at": "2026-10-24T13:00:36.212-05:00",
       "description": "tl;dr: it looks like C++ 26 got turned down by the national bodies (afaik unprecedented)",
@@ -868,6 +868,21 @@
       "user": "Muntadhar Muayyad"
     },
     {
+      "title": "Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?",
+      "url": "https://stackoverflow.com/questions/80012328/windows-webdav-client-fails-to-read-files-over-a-certain-size-50-mb-0x800700d",
+      "published_at": "2026-10-24T20:15:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "windows",
+        "filesystems",
+        "webdav"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fungus"
+    },
+    {
       "title": "Why does my local Qwen LLM report that no business indicators are available when my pandas DataFrames contain data?",
       "url": "https://stackoverflow.com/questions/80012012/why-does-my-local-qwen-llm-report-that-no-business-indicators-are-available-when",
       "published_at": "2026-10-23T07:58:22.000Z",
@@ -882,6 +897,36 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ghanianda Wafiqarifah"
+    },
+    {
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "published_at": "2026-10-24T20:46:34.000Z",
+      "description": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "tags": [
+        "Government & Policy",
+        "Space",
+        "Donald Trump",
+        "Elon Musk",
+        "SpaceX"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "published_at": "2026-10-24T20:15:33.000Z",
+      "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "tags": [
+        "Security",
+        "Equity podcast",
+        "php"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
@@ -943,33 +988,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "Startups don&#8217;t need to go viral to win customers",
-      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-      "published_at": "2026-10-23T23:07:45.000Z",
-      "description": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-      "tags": [
-        "Startups",
-        "engine",
-        "Gamma",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "published_at": "2026-10-23T23:05:49.000Z",
-      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
@@ -1240,7 +1258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1377,
+      "stars": 1380,
       "user": "openai"
     },
     {
@@ -1255,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 567,
       "user": "nthnclrk"
     },
     {
@@ -1285,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154228543?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 425,
       "user": "JeffKeeping"
     },
     {
@@ -1300,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 806,
       "user": "stackedlol"
     },
     {
@@ -1315,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "VictorTaelin"
     },
     {
@@ -1345,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 357,
       "user": "finereli"
     },
     {
@@ -1360,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 256,
       "user": "qianshuixia"
     },
     {
@@ -1375,8 +1393,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1204,
       "user": "colinhacks"
+    },
+    {
+      "title": "Request for organic assistance debugging my fading-toolbar(JS)",
+      "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
+      "published_at": "2026-10-23T21:45:34.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BoJacks JJ"
     },
     {
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
@@ -1393,20 +1425,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
-    },
-    {
-      "title": "Request for organic assistance debugging my fading-toolbar(JS)",
-      "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
-      "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BoJacks JJ"
     },
     {
       "title": "How to integrate a USB/Bluetooth barcode scanner with a web app on Hostinger for student attendance?",
@@ -1732,7 +1750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 3190,
+      "stars": 3198,
       "user": "xiaoyang111222"
     },
     {
@@ -1747,7 +1765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1748,
+      "stars": 1752,
       "user": "ikow"
     },
     {
@@ -1762,7 +1780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1397,
+      "stars": 1400,
       "user": "9bie"
     },
     {
@@ -1777,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1072,
       "user": "Jakeschincariol"
     },
     {
@@ -1792,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 965,
       "user": "eagle-hq"
     },
     {
@@ -1808,10 +1826,25 @@
       "user": "uds"
     },
     {
+      "title": "Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?",
+      "url": "https://stackoverflow.com/questions/80012328/windows-webdav-client-fails-to-read-files-over-a-certain-size-50-mb-0x800700d",
+      "published_at": "2026-10-24T20:15:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "windows",
+        "filesystems",
+        "webdav"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Fungus"
+    },
+    {
       "title": "What is the complexity of this algorithm? Common elements in two lists",
       "url": "https://stackoverflow.com/questions/80012286/what-is-the-complexity-of-this-algorithm-common-elements-in-two-lists",
       "published_at": "2026-10-24T16:05:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "python",
         "algorithm",
@@ -1821,18 +1854,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shiny_and_Chrome"
-    },
-    {
-      "title": "“Chorus of Voices” in Python (with Delays)",
-      "url": "https://stackoverflow.com/questions/80012289/chorus-of-voices-in-python-with-delays",
-      "published_at": "2026-10-24T16:23:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Александр"
     },
     {
       "title": "Writing code to plot the trajectory of a particle undergoing projectile motion, then a graph of the kinetic energy ratio vs launch angle",
@@ -1881,8 +1902,9 @@
       "description": "Stack Overflow question · 4 answers · score 2",
       "tags": [
         "python",
-        "regex",
-        "string"
+        "string",
+        "text",
+        "tokenize"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1964,21 +1986,6 @@
   ],
   "DevOps": [
     {
-      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
-      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
-      "published_at": "2026-10-22T16:05:20Z",
-      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
       "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
       "published_at": "2026-10-20T19:14:39Z",
@@ -2020,6 +2027,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
+      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
+      "published_at": "2026-10-22T16:05:20Z",
+      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
     },
@@ -2219,6 +2241,20 @@
       "user": "vercel-labs"
     },
     {
+      "title": "Request for organic assistance debugging my fading-toolbar(JS)",
+      "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
+      "published_at": "2026-10-23T21:45:34.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "BoJacks JJ"
+    },
+    {
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
@@ -2233,20 +2269,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
-    },
-    {
-      "title": "Request for organic assistance debugging my fading-toolbar(JS)",
-      "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
-      "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BoJacks JJ"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -2323,7 +2345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33343170?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 155,
       "user": "armanlife"
     },
     {
@@ -2344,21 +2366,6 @@
     }
   ],
   "Cloud": [
-    {
-      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
-      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
-      "published_at": "2026-10-22T16:05:20Z",
-      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
     {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
       "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
@@ -2450,6 +2457,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
+      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
+      "published_at": "2026-10-22T16:05:20Z",
+      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
+    },
+    {
       "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
       "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
       "published_at": "2026-10-14T19:53:12Z",
@@ -2520,7 +2542,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 357,
       "user": "finereli"
     },
     {
@@ -2535,7 +2557,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 256,
       "user": "qianshuixia"
     },
     {
@@ -2625,7 +2647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1204,
       "user": "colinhacks"
     },
     {
@@ -2832,7 +2854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1748,
+      "stars": 1752,
       "user": "ikow"
     },
     {
@@ -2859,6 +2881,20 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "adityaathalye"
+    },
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "published_at": "2026-10-24T20:15:33.000Z",
+      "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "tags": [
+        "Security",
+        "Equity podcast",
+        "php"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
@@ -3073,7 +3109,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1377,
+      "stars": 1380,
       "user": "openai"
     },
     {
@@ -3088,7 +3124,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 561,
+      "stars": 567,
       "user": "nthnclrk"
     },
     {
@@ -3118,7 +3154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/154228543?v=4",
       "source": "GitHub",
-      "stars": 424,
+      "stars": 425,
       "user": "JeffKeeping"
     },
     {
@@ -3133,7 +3169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/79557224?v=4",
       "source": "GitHub",
-      "stars": 3190,
+      "stars": 3198,
       "user": "xiaoyang111222"
     },
     {
@@ -3148,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1748,
+      "stars": 1752,
       "user": "ikow"
     },
     {
@@ -3163,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1397,
+      "stars": 1400,
       "user": "9bie"
     },
     {
@@ -3178,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1035,
+      "stars": 1072,
       "user": "Jakeschincariol"
     },
     {
@@ -3193,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 965,
       "user": "eagle-hq"
     },
     {
@@ -3208,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "Fluepke"
     },
     {
@@ -3223,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52906012?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 202,
       "user": "Samsara-1999"
     },
     {
@@ -3238,8 +3274,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/33343170?v=4",
       "source": "GitHub",
-      "stars": 152,
+      "stars": 155,
       "user": "armanlife"
+    },
+    {
+      "title": "mirkobrombin/raven - A Windows your apps recognize.",
+      "url": "https://github.com/mirkobrombin/raven",
+      "published_at": "2026-10-24T17:13:42Z",
+      "description": "A Windows your apps recognize.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9479903?v=4",
+      "source": "GitHub",
+      "stars": 149,
+      "user": "mirkobrombin"
     },
     {
       "title": "0c-biggo/0c-ime - 免選字的注音輸入法：在本機用 Transformer 看前文選字。支援 Linux（Fcitx5／IBus）、macOS、Windows。",
@@ -3253,23 +3304,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344968002?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 141,
       "user": "0c-biggo"
-    },
-    {
-      "title": "fzn0x/mixmusic - MixMusic: Spotify and YouTube Music in one player. Open-source desktop music player for macOS, Windows & Linux: one search, one queue, mixed playlists, synced lyrics, and equalizer with community themes and plugins.",
-      "url": "https://github.com/fzn0x/mixmusic",
-      "published_at": "2026-10-18T21:02:40Z",
-      "description": "MixMusic: Spotify and YouTube Music in one player. Open-source desktop music player for macOS, Windows & Linux: one search, one queue, mixed playlists, synced lyrics, and equalizer with community themes and plugins.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/50759463?v=4",
-      "source": "GitHub",
-      "stars": 108,
-      "user": "fzn0x"
     },
     {
       "title": "stackedlol/ascii-sharks - ascii shark components in typescript",
@@ -3283,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 806,
       "user": "stackedlol"
     },
     {
@@ -3298,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 585,
       "user": "VictorTaelin"
     },
     {
@@ -3328,7 +3364,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/816821?v=4",
       "source": "GitHub",
-      "stars": 353,
+      "stars": 357,
       "user": "finereli"
     },
     {
@@ -3343,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 256,
       "user": "qianshuixia"
     },
     {
@@ -3358,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 1624,
+      "stars": 1669,
       "user": "xevrion"
     },
     {
@@ -3373,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1194,
+      "stars": 1204,
       "user": "colinhacks"
     },
     {
@@ -3388,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 963,
+      "stars": 964,
       "user": "ELY-Open-Source"
     },
     {
@@ -3403,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 656,
+      "stars": 657,
       "user": "Hugo-Dz"
     },
     {
@@ -3418,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/167222040?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 625,
       "user": "aicodeking"
     },
     {
