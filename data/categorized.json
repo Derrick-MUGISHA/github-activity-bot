@@ -600,6 +600,21 @@
       "user": "Jhin Lee"
     },
     {
+      "title": "Agents Can’t Decide What’s Okay to Break",
+      "url": "https://dev.to/dailycontext/agents-cant-decide-whats-okay-to-break-3ncg",
+      "published_at": "2026-10-12T20:58:59Z",
+      "description": "There’s a lot of discourse out there about the engineering bottleneck moving from time spent writing...",
+      "tags": [
+        "hacktoberfest",
+        "security",
+        "aie",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1c9g07s7eu5njl88gski.png",
+      "source": "Dev.to",
+      "user": "Jonathan Gottfried"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -779,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1393,
+      "stars": 1394,
       "user": "openai"
     },
     {
@@ -794,23 +809,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1784,
+      "stars": 1786,
       "user": "ikow"
-    },
-    {
-      "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "url": "https://github.com/qianshuixia/shrimpreel",
-      "published_at": "2026-10-20T18:08:00Z",
-      "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
-      "source": "GitHub",
-      "stars": 268,
-      "user": "qianshuixia"
     },
     {
       "title": "Balloting has completed for C++26. Unfortunately it was Disapproved",
@@ -841,7 +841,7 @@
       "title": "ValueError: failed to validate MultiPolygons when trying to create interactive map using Carto basemap and geopandas",
       "url": "https://stackoverflow.com/questions/80012435/valueerror-failed-to-validate-multipolygons-when-trying-to-create-interactive-m",
       "published_at": "2026-10-25T15:06:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 3",
       "tags": [
         "python",
         "geospatial",
@@ -1227,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1393,
+      "stars": 1394,
       "user": "openai"
     },
     {
@@ -1242,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 605,
       "user": "nthnclrk"
     },
     {
@@ -1336,6 +1336,21 @@
       "user": "vercel-labs"
     },
     {
+      "title": "designfuchen/word-atlas - 词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "published_at": "2026-10-25T08:27:22Z",
+      "description": "词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
+      "source": "GitHub",
+      "stars": 332,
+      "user": "designfuchen"
+    },
+    {
       "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 8 languages, including Arabic (RTL).",
       "url": "https://github.com/agharsallah/esp-labs-web",
       "published_at": "2026-10-21T13:40:04Z",
@@ -1347,23 +1362,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 277,
       "user": "agharsallah"
-    },
-    {
-      "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "url": "https://github.com/qianshuixia/shrimpreel",
-      "published_at": "2026-10-20T18:08:00Z",
-      "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
-      "source": "GitHub",
-      "stars": 268,
-      "user": "qianshuixia"
     },
     {
       "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
@@ -1377,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1258,
       "user": "colinhacks"
     },
     {
@@ -1483,22 +1483,6 @@
       "user": "Evan Carroll"
     },
     {
-      "title": "Get all css root variables in array using javascript and change the values",
-      "url": "https://stackoverflow.com/questions/48760274/get-all-css-root-variables-in-array-using-javascript-and-change-the-values",
-      "published_at": "2018-02-13T05:52:53.000Z",
-      "description": "Stack Overflow question · 9 answers · score 37",
-      "tags": [
-        "javascript",
-        "jquery",
-        "css",
-        "css-selectors",
-        "css-variables"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Nadeem Mohammed"
-    },
-    {
       "title": "Is it possible to find device geo location based on ip address using NodeJS?",
       "url": "https://stackoverflow.com/questions/70707110/is-it-possible-to-find-device-geo-location-based-on-ip-address-using-nodejs",
       "published_at": "2022-01-14T07:08:58.000Z",
@@ -1526,6 +1510,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chukwuemeka"
+    },
+    {
+      "title": "How to have an element change its color during a scroll event and then revert back to its original color?",
+      "url": "https://stackoverflow.com/questions/68809285/how-to-have-an-element-change-its-color-during-a-scroll-event-and-then-revert-ba",
+      "published_at": "2021-08-16T21:13:21.000Z",
+      "description": "Stack Overflow question · 4 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Thraxen"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -1737,7 +1735,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1784,
+      "stars": 1786,
       "user": "ikow"
     },
     {
@@ -1752,7 +1750,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1451,
+      "stars": 1515,
       "user": "Jakeschincariol"
     },
     {
@@ -1767,7 +1765,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1423,
+      "stars": 1425,
       "user": "9bie"
     },
     {
@@ -1782,7 +1780,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 986,
       "user": "eagle-hq"
     },
     {
@@ -1797,14 +1795,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 979,
+      "stars": 982,
       "user": "UniXNU"
     },
     {
       "title": "ValueError: failed to validate MultiPolygons when trying to create interactive map using Carto basemap and geopandas",
       "url": "https://stackoverflow.com/questions/80012435/valueerror-failed-to-validate-multipolygons-when-trying-to-create-interactive-m",
       "published_at": "2026-10-25T15:06:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 3",
       "tags": [
         "python",
         "geospatial",
@@ -2246,20 +2244,18 @@
       "user": "BoJacks JJ"
     },
     {
-      "title": "Get all css root variables in array using javascript and change the values",
-      "url": "https://stackoverflow.com/questions/48760274/get-all-css-root-variables-in-array-using-javascript-and-change-the-values",
-      "published_at": "2018-02-13T05:52:53.000Z",
-      "description": "Stack Overflow question · 9 answers · score 37",
+      "title": "How to have an element change its color during a scroll event and then revert back to its original color?",
+      "url": "https://stackoverflow.com/questions/68809285/how-to-have-an-element-change-its-color-during-a-scroll-event-and-then-revert-ba",
+      "published_at": "2021-08-16T21:13:21.000Z",
+      "description": "Stack Overflow question · 4 answers · score 1",
       "tags": [
         "javascript",
-        "jquery",
-        "css",
-        "css-selectors",
-        "css-variables"
+        "html",
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Nadeem Mohammed"
+      "user": "Thraxen"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -2351,7 +2347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 979,
+      "stars": 982,
       "user": "UniXNU"
     },
     {
@@ -2537,21 +2533,6 @@
       "user": "Jonathan Zhuo"
     },
     {
-      "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "url": "https://github.com/qianshuixia/shrimpreel",
-      "published_at": "2026-10-20T18:08:00Z",
-      "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
-      "source": "GitHub",
-      "stars": 268,
-      "user": "qianshuixia"
-    },
-    {
       "title": "What Is Model Distillation? A Guide for Developers",
       "url": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
       "published_at": "2026-10-21T18:46:22.000Z",
@@ -2638,7 +2619,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1258,
       "user": "colinhacks"
     },
     {
@@ -2729,6 +2710,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3yux0bl6lamy0lg6ig0.png",
       "source": "Dev.to",
       "user": "Jonathan Zhuo"
+    },
+    {
+      "title": "Agents Can’t Decide What’s Okay to Break",
+      "url": "https://dev.to/dailycontext/agents-cant-decide-whats-okay-to-break-3ncg",
+      "published_at": "2026-10-12T20:58:59Z",
+      "description": "There’s a lot of discourse out there about the engineering bottleneck moving from time spent writing...",
+      "tags": [
+        "hacktoberfest",
+        "security",
+        "aie",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1c9g07s7eu5njl88gski.png",
+      "source": "Dev.to",
+      "user": "Jonathan Gottfried"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2874,7 +2870,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1784,
+      "stars": 1786,
       "user": "ikow"
     },
     {
@@ -3115,7 +3111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1393,
+      "stars": 1394,
       "user": "openai"
     },
     {
@@ -3130,7 +3126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 605,
       "user": "nthnclrk"
     },
     {
@@ -3190,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1784,
+      "stars": 1786,
       "user": "ikow"
     },
     {
@@ -3205,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1451,
+      "stars": 1515,
       "user": "Jakeschincariol"
     },
     {
@@ -3220,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1423,
+      "stars": 1425,
       "user": "9bie"
     },
     {
@@ -3235,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 984,
+      "stars": 986,
       "user": "eagle-hq"
     },
     {
@@ -3250,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 979,
+      "stars": 982,
       "user": "UniXNU"
     },
     {
@@ -3295,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 109,
+      "stars": 118,
       "user": "tractordev"
     },
     {
@@ -3310,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/190185029?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 103,
       "user": "xue-y-su"
     },
     {
@@ -3325,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284204?v=4",
       "source": "GitHub",
-      "stars": 87,
+      "stars": 88,
       "user": "aancw"
     },
     {
@@ -3374,6 +3370,21 @@
       "user": "vercel-labs"
     },
     {
+      "title": "designfuchen/word-atlas - 词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "published_at": "2026-10-25T08:27:22Z",
+      "description": "词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
+      "source": "GitHub",
+      "stars": 332,
+      "user": "designfuchen"
+    },
+    {
       "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 8 languages, including Arabic (RTL).",
       "url": "https://github.com/agharsallah/esp-labs-web",
       "published_at": "2026-10-21T13:40:04Z",
@@ -3385,23 +3396,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
       "source": "GitHub",
-      "stars": 270,
+      "stars": 277,
       "user": "agharsallah"
-    },
-    {
-      "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "url": "https://github.com/qianshuixia/shrimpreel",
-      "published_at": "2026-10-20T18:08:00Z",
-      "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
-      "source": "GitHub",
-      "stars": 268,
-      "user": "qianshuixia"
     },
     {
       "title": "xevrion/hatchzip - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
@@ -3415,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 1905,
+      "stars": 1924,
       "user": "xevrion"
     },
     {
@@ -3430,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1254,
+      "stars": 1258,
       "user": "colinhacks"
     },
     {
@@ -3445,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 990,
       "user": "ELY-Open-Source"
     },
     {
@@ -3475,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 612,
       "user": "dominikmartn"
     },
     {
