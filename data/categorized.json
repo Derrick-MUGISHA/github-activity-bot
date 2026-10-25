@@ -76,21 +76,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
-      "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4",
-      "published_at": "2026-10-23T05:52:48Z",
-      "description": "When we use generative AI to proofread our daily writing—whether technical reports, business...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleappsscript",
-        "googleworkspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2bc3ar45xrgqtcuc87ui.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
       "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
       "published_at": "2026-10-20T19:14:39Z",
@@ -164,6 +149,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
+      "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4",
+      "published_at": "2026-10-23T05:52:48Z",
+      "description": "When we use generative AI to proofread our daily writing—whether technical reports, business...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "googleworkspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2bc3ar45xrgqtcuc87ui.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Congrats to the Sanity Challenge Winners!",
@@ -435,21 +435,6 @@
       "user": "Rachael Berkey"
     },
     {
-      "title": "The Model Is the Easy Part",
-      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
-      "published_at": "2026-10-14T12:04:00Z",
-      "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
-      "tags": [
-        "ai",
-        "llm",
-        "opensource",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png",
-      "source": "Dev.to",
-      "user": "Steven Latre"
-    },
-    {
       "title": "OpenGameBuilder: Describe a game in one sentence and generate it using a local LLM like Gemma 4.",
       "url": "https://dev.to/blaiselabs/opengamebuilder-describe-a-game-in-one-sentence-and-generate-it-using-a-local-llm-like-gemma-4-215m",
       "published_at": "2026-10-19T07:01:01Z",
@@ -463,6 +448,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblaiselabs.github.io%2FOpenGameBuilder%2Farticle%2Fhero_cherry_town.png",
       "source": "Dev.to",
       "user": "Blaise Labs"
+    },
+    {
+      "title": "The Model Is the Easy Part",
+      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
+      "published_at": "2026-10-14T12:04:00Z",
+      "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
+      "tags": [
+        "ai",
+        "llm",
+        "opensource",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png",
+      "source": "Dev.to",
+      "user": "Steven Latre"
     },
     {
       "title": "Building a cross-platform Flutter festival assistant with llamadart",
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1760,
+      "stars": 1772,
       "user": "ikow"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 265,
       "user": "qianshuixia"
     },
     {
@@ -810,6 +810,19 @@
       "user": "mond"
     },
     {
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "published_at": "2026-10-24T18:06:08.743-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai-tooling",
+        "practices"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lalitm"
+    },
+    {
       "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
       "url": "https://stackoverflow.com/questions/80012090/godaddy-shared-hosting-returns-javascript-bot-verification-instead-of-php-api-js",
       "published_at": "2026-10-23T14:44:32.000Z",
@@ -821,6 +834,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muntadhar Muayyad"
+    },
+    {
+      "title": "How to check in Javascript if one element is contained within another",
+      "url": "https://stackoverflow.com/questions/2234979/how-to-check-in-javascript-if-one-element-is-contained-within-another",
+      "published_at": "2010-02-10T06:55:05.000Z",
+      "description": "Stack Overflow question · 11 answers · score 327",
+      "tags": [
+        "javascript",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AJ."
     },
     {
       "title": "Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?",
@@ -1197,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 587,
       "user": "nthnclrk"
     },
     {
@@ -1212,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 434,
       "user": "WoYun520"
     },
     {
@@ -1227,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 419,
       "user": "typecraft-dev"
     },
     {
@@ -1242,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 406,
       "user": "blendi-remade"
     },
     {
@@ -1257,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 816,
       "user": "stackedlol"
     },
     {
@@ -1287,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "vercel-labs"
     },
     {
@@ -1302,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 265,
       "user": "qianshuixia"
     },
     {
@@ -1317,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 245,
       "user": "quanhoangindex"
     },
     {
@@ -1332,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1220,
+      "stars": 1233,
       "user": "colinhacks"
     },
     {
@@ -1424,19 +1450,6 @@
       "user": "Pankaj Choudhary"
     },
     {
-      "title": "Split and capture text ending with brackets and two letters",
-      "url": "https://stackoverflow.com/questions/80011025/split-and-capture-text-ending-with-brackets-and-two-letters",
-      "published_at": "2026-10-19T09:42:40.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "javascript",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Federico"
-    },
-    {
       "title": "How can I format a number with commas as thousands separators?",
       "url": "https://stackoverflow.com/questions/2901102/how-can-i-format-a-number-with-commas-as-thousands-separators",
       "published_at": "2010-05-24T23:42:31.000Z",
@@ -1449,6 +1462,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Elias Zamaria"
+    },
+    {
+      "title": "How to check in Javascript if one element is contained within another",
+      "url": "https://stackoverflow.com/questions/2234979/how-to-check-in-javascript-if-one-element-is-contained-within-another",
+      "published_at": "2010-02-10T06:55:05.000Z",
+      "description": "Stack Overflow question · 11 answers · score 327",
+      "tags": [
+        "javascript",
+        "dom"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "AJ."
     },
     {
       "title": "How can I use foreach on an array where I set keys with strings?",
@@ -1689,7 +1715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1760,
+      "stars": 1772,
       "user": "ikow"
     },
     {
@@ -1704,7 +1730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1404,
+      "stars": 1413,
       "user": "9bie"
     },
     {
@@ -1719,7 +1745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1242,
       "user": "Jakeschincariol"
     },
     {
@@ -1734,7 +1760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 972,
+      "stars": 977,
       "user": "eagle-hq"
     },
     {
@@ -1749,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 920,
       "user": "UniXNU"
     },
     {
@@ -1770,14 +1796,52 @@
       "published_at": "2026-10-25T03:40:28.000Z",
       "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
+        "advice",
         "python",
         "testing",
-        "dspace",
         "jitter"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kay90"
+    },
+    {
+      "title": "How to ignore other files other than python file in",
+      "url": "https://stackoverflow.com/questions/80012373/how-to-ignore-other-files-other-than-python-file-in",
+      "published_at": "2026-10-25T05:17:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "command-line"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Vedha"
+    },
+    {
+      "title": "“Voice Constructor”&#160;—&#160;Build a Story from Lines",
+      "url": "https://stackoverflow.com/questions/80012378/voice-constructor-build-a-story-from-lines",
+      "published_at": "2026-10-25T06:47:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Александр"
+    },
+    {
+      "title": "Setting italic conditional formatting in Openpyxl",
+      "url": "https://stackoverflow.com/questions/80012239/setting-italic-conditional-formatting-in-openpyxl",
+      "published_at": "2026-10-24T10:35:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "openpyxl"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "CADV"
     },
     {
       "title": "Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?",
@@ -1823,17 +1887,19 @@
       "user": "Calumjt.13"
     },
     {
-      "title": "Setting italic conditional formatting in Openpyxl",
-      "url": "https://stackoverflow.com/questions/80012239/setting-italic-conditional-formatting-in-openpyxl",
-      "published_at": "2026-10-24T10:35:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
+      "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
+      "published_at": "2026-10-22T17:09:57.000Z",
+      "description": "Stack Overflow question · 4 answers · score 3",
       "tags": [
         "python",
-        "openpyxl"
+        "string",
+        "text",
+        "tokenize"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "CADV"
+      "user": "pg27"
     },
     {
       "title": "For loop within a function that writes contents of list parameter to desired file name",
@@ -1850,21 +1916,6 @@
       "user": "xAvareS"
     },
     {
-      "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
-      "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
-      "published_at": "2026-10-22T17:09:57.000Z",
-      "description": "Stack Overflow question · 4 answers · score 3",
-      "tags": [
-        "python",
-        "string",
-        "text",
-        "tokenize"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "pg27"
-    },
-    {
       "title": "Trouble with the command in a Button in \"tkmacosx\"",
       "url": "https://stackoverflow.com/questions/80012147/trouble-with-the-command-in-a-button-in-tkmacosx",
       "published_at": "2026-10-23T18:53:43.000Z",
@@ -1877,33 +1928,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Tristan"
-    },
-    {
-      "title": "Trying to use a Gemma model on Keras in Python, but the example code doesn't run",
-      "url": "https://stackoverflow.com/questions/80012143/trying-to-use-a-gemma-model-on-keras-in-python-but-the-example-code-doesnt-run",
-      "published_at": "2026-10-23T18:47:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "tensorflow",
-        "keras",
-        "gemma"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fern Mendiz"
-    },
-    {
-      "title": "Python merge sort which prints each step",
-      "url": "https://stackoverflow.com/questions/80012094/python-merge-sort-which-prints-each-step",
-      "published_at": "2026-10-23T14:59:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Scarlett Murray"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2175,7 +2199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "vercel-labs"
     },
     {
@@ -2283,7 +2307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 920,
       "user": "UniXNU"
     },
     {
@@ -2480,7 +2504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 265,
       "user": "qianshuixia"
     },
     {
@@ -2570,7 +2594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1220,
+      "stars": 1233,
       "user": "colinhacks"
     },
     {
@@ -2777,7 +2801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1760,
+      "stars": 1772,
       "user": "ikow"
     },
     {
@@ -3032,7 +3056,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 587,
       "user": "nthnclrk"
     },
     {
@@ -3047,7 +3071,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 434,
       "user": "WoYun520"
     },
     {
@@ -3062,7 +3086,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 419,
       "user": "typecraft-dev"
     },
     {
@@ -3077,7 +3101,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 406,
       "user": "blendi-remade"
     },
     {
@@ -3092,7 +3116,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1760,
+      "stars": 1772,
       "user": "ikow"
     },
     {
@@ -3107,7 +3131,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1404,
+      "stars": 1413,
       "user": "9bie"
     },
     {
@@ -3122,7 +3146,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1160,
+      "stars": 1242,
       "user": "Jakeschincariol"
     },
     {
@@ -3137,7 +3161,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 972,
+      "stars": 977,
       "user": "eagle-hq"
     },
     {
@@ -3152,7 +3176,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 905,
+      "stars": 920,
       "user": "UniXNU"
     },
     {
@@ -3167,7 +3191,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9479903?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 289,
       "user": "mirkobrombin"
     },
     {
@@ -3182,7 +3206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 239,
+      "stars": 238,
       "user": "Fluepke"
     },
     {
@@ -3197,7 +3221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344968002?v=4",
       "source": "GitHub",
-      "stars": 141,
+      "stars": 142,
       "user": "0c-biggo"
     },
     {
@@ -3212,7 +3236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/190185029?v=4",
       "source": "GitHub",
-      "stars": 104,
+      "stars": 103,
       "user": "xue-y-su"
     },
     {
@@ -3227,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284204?v=4",
       "source": "GitHub",
-      "stars": 71,
+      "stars": 81,
       "user": "aancw"
     },
     {
@@ -3242,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 809,
+      "stars": 816,
       "user": "stackedlol"
     },
     {
@@ -3272,7 +3296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 399,
       "user": "vercel-labs"
     },
     {
@@ -3287,7 +3311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 262,
+      "stars": 265,
       "user": "qianshuixia"
     },
     {
@@ -3302,14 +3326,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 245,
       "user": "quanhoangindex"
     },
     {
-      "title": "xevrion/hatchzip - Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
+      "title": "xevrion/hatchzip - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
       "url": "https://github.com/xevrion/hatchzip",
       "published_at": "2026-10-21T17:29:28Z",
-      "description": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
+      "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
       "tags": [
         "rust",
         "github",
@@ -3317,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 1748,
+      "stars": 1816,
       "user": "xevrion"
     },
     {
@@ -3332,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1220,
+      "stars": 1233,
       "user": "colinhacks"
     },
     {
@@ -3347,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 973,
+      "stars": 976,
       "user": "ELY-Open-Source"
     },
     {
@@ -3362,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 662,
       "user": "Hugo-Dz"
     },
     {
@@ -3377,8 +3401,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 608,
       "user": "dominikmartn"
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "published_at": "2026-10-24T18:06:08.743-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai-tooling",
+        "practices"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lalitm"
     },
     {
       "title": "Request for organic assistance debugging my fading-toolbar(JS)",
@@ -3400,9 +3437,9 @@
       "published_at": "2026-10-25T03:40:28.000Z",
       "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
+        "advice",
         "python",
         "testing",
-        "dspace",
         "jitter"
       ],
       "cover_image": null,
