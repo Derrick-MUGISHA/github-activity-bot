@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1391,
+      "stars": 1393,
       "user": "openai"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1783,
+      "stars": 1784,
       "user": "ikow"
     },
     {
@@ -825,32 +825,6 @@
       "user": "mond"
     },
     {
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "published_at": "2026-10-24T18:06:08.743-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai-tooling",
-        "practices"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "lalitm"
-    },
-    {
-      "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
-      "url": "https://stackoverflow.com/questions/80012090/godaddy-shared-hosting-returns-javascript-bot-verification-instead-of-php-api-js",
-      "published_at": "2026-10-23T14:44:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "php"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muntadhar Muayyad"
-    },
-    {
       "title": "How to check in Javascript if one element is contained within another",
       "url": "https://stackoverflow.com/questions/2234979/how-to-check-in-javascript-if-one-element-is-contained-within-another",
       "published_at": "2010-02-10T06:55:05.000Z",
@@ -862,6 +836,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AJ."
+    },
+    {
+      "title": "ValueError: failed to validate MultiPolygons when trying to create interactive map using Carto basemap and geopandas",
+      "url": "https://stackoverflow.com/questions/80012435/valueerror-failed-to-validate-multipolygons-when-trying-to-create-interactive-m",
+      "published_at": "2026-10-25T15:06:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "geospatial",
+        "geopandas",
+        "cartopy",
+        "holoviews"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Honeywood"
     },
     {
       "title": "Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?",
@@ -877,6 +867,50 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Fungus"
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published_at": "2026-10-25T16:57:32.000Z",
+      "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "tags": [
+        "AI",
+        "Apollo Global Management"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "published_at": "2026-10-25T16:05:00.000Z",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "tags": [
+        "Transportation",
+        "GM",
+        "robotaxis",
+        "techcrunch mobility"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "published_at": "2026-10-25T14:10:00.000Z",
+      "description": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "tags": [
+        "Hardware",
+        "AI",
+        "Gadgets",
+        "wearables",
+        "evergreens"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
       "title": "Starlink seems to be working normally again in Ukraine",
@@ -938,36 +972,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "published_at": "2026-10-24T15:00:00.000Z",
-      "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "Elon Musk",
-        "SpaceX",
-        "vote"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "published_at": "2026-10-24T14:00:00.000Z",
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "tags": [
-        "AI",
-        "instinct",
-        "AI agents"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
@@ -1223,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1391,
+      "stars": 1393,
       "user": "openai"
     },
     {
@@ -1238,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 602,
       "user": "nthnclrk"
     },
     {
@@ -1253,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 437,
       "user": "WoYun520"
     },
     {
@@ -1268,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 422,
       "user": "typecraft-dev"
     },
     {
@@ -1283,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 417,
       "user": "blendi-remade"
     },
     {
@@ -1298,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 830,
       "user": "stackedlol"
     },
     {
@@ -1313,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 593,
       "user": "VictorTaelin"
     },
     {
@@ -1328,8 +1332,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "vercel-labs"
+    },
+    {
+      "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 8 languages, including Arabic (RTL).",
+      "url": "https://github.com/agharsallah/esp-labs-web",
+      "published_at": "2026-10-21T13:40:04Z",
+      "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 8 languages, including Arabic (RTL).",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
+      "source": "GitHub",
+      "stars": 270,
+      "user": "agharsallah"
     },
     {
       "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
@@ -1347,21 +1366,6 @@
       "user": "qianshuixia"
     },
     {
-      "title": "quanhoangindex/ascii-reveal - GitHub Repository",
-      "url": "https://github.com/quanhoangindex/ascii-reveal",
-      "published_at": "2026-10-21T12:12:04Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
-      "source": "GitHub",
-      "stars": 255,
-      "user": "quanhoangindex"
-    },
-    {
       "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
       "url": "https://github.com/colinhacks/reylo",
       "published_at": "2026-10-21T00:16:54Z",
@@ -1373,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1254,
       "user": "colinhacks"
     },
     {
@@ -1437,34 +1441,6 @@
       "user": "Yahia Azab"
     },
     {
-      "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
-      "url": "https://stackoverflow.com/questions/80012090/godaddy-shared-hosting-returns-javascript-bot-verification-instead-of-php-api-js",
-      "published_at": "2026-10-23T14:44:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "php"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muntadhar Muayyad"
-    },
-    {
-      "title": "error: Calling setState synchronously within an effect can trigger cascading renders",
-      "url": "https://stackoverflow.com/questions/80011987/error-calling-setstate-synchronously-within-an-effect-can-trigger-cascading-ren",
-      "published_at": "2026-10-23T06:05:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "next.js",
-        "eslint"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Pankaj Choudhary"
-    },
-    {
       "title": "How can I format a number with commas as thousands separators?",
       "url": "https://stackoverflow.com/questions/2901102/how-can-i-format-a-number-with-commas-as-thousands-separators",
       "published_at": "2010-05-24T23:42:31.000Z",
@@ -1492,20 +1468,6 @@
       "user": "AJ."
     },
     {
-      "title": "How can I use foreach on an array where I set keys with strings?",
-      "url": "https://stackoverflow.com/questions/18804592/how-can-i-use-foreach-on-an-array-where-i-set-keys-with-strings",
-      "published_at": "2013-09-14T17:42:15.000Z",
-      "description": "Stack Overflow question · 11 answers · score 224",
-      "tags": [
-        "javascript",
-        "arrays",
-        "foreach"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Szymon Toda"
-    },
-    {
       "title": "Replace a Regex capture group with uppercase in Javascript",
       "url": "https://stackoverflow.com/questions/6142922/replace-a-regex-capture-group-with-uppercase-in-javascript",
       "published_at": "2011-05-26T17:51:47.000Z",
@@ -1519,6 +1481,51 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Evan Carroll"
+    },
+    {
+      "title": "Get all css root variables in array using javascript and change the values",
+      "url": "https://stackoverflow.com/questions/48760274/get-all-css-root-variables-in-array-using-javascript-and-change-the-values",
+      "published_at": "2018-02-13T05:52:53.000Z",
+      "description": "Stack Overflow question · 9 answers · score 37",
+      "tags": [
+        "javascript",
+        "jquery",
+        "css",
+        "css-selectors",
+        "css-variables"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nadeem Mohammed"
+    },
+    {
+      "title": "Is it possible to find device geo location based on ip address using NodeJS?",
+      "url": "https://stackoverflow.com/questions/70707110/is-it-possible-to-find-device-geo-location-based-on-ip-address-using-nodejs",
+      "published_at": "2022-01-14T07:08:58.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "node.js",
+        "mongodb",
+        "geolocation",
+        "ip-geolocation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kirasiris"
+    },
+    {
+      "title": "TypeError: Cannot read properties of undefined (reading 'endsWith')",
+      "url": "https://stackoverflow.com/questions/72083563/typeerror-cannot-read-properties-of-undefined-reading-endswith",
+      "published_at": "2022-05-02T07:31:12.000Z",
+      "description": "Stack Overflow question · 5 answers · score -1",
+      "tags": [
+        "javascript",
+        "sorting"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Chukwuemeka"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -1730,23 +1737,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1783,
+      "stars": 1784,
       "user": "ikow"
-    },
-    {
-      "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-      "published_at": "2026-10-21T11:11:57Z",
-      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
-      "source": "GitHub",
-      "stars": 1418,
-      "user": "9bie"
     },
     {
       "title": "Jakeschincariol/day-trader-skill - 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
@@ -1760,8 +1752,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1355,
+      "stars": 1451,
       "user": "Jakeschincariol"
+    },
+    {
+      "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "published_at": "2026-10-21T11:11:57Z",
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
+      "source": "GitHub",
+      "stars": 1423,
+      "user": "9bie"
     },
     {
       "title": "eagle-hq/EAGLE-4 - Official Inference Code of EAGLE-4",
@@ -1775,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 984,
       "user": "eagle-hq"
     },
     {
@@ -1790,20 +1797,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 979,
       "user": "UniXNU"
     },
     {
-      "title": "Bringing uv and ty together",
-      "url": "https://astral.sh/blog/uv-ty-integration",
-      "published_at": "2026-10-24T10:27:34.811-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "ValueError: failed to validate MultiPolygons when trying to create interactive map using Carto basemap and geopandas",
+      "url": "https://stackoverflow.com/questions/80012435/valueerror-failed-to-validate-multipolygons-when-trying-to-create-interactive-m",
+      "published_at": "2026-10-25T15:06:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
-        "python"
+        "python",
+        "geospatial",
+        "geopandas",
+        "cartopy",
+        "holoviews"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "uds"
+      "source": "StackOverflow",
+      "user": "Honeywood"
     },
     {
       "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
@@ -1858,6 +1869,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "CADV"
+    },
+    {
+      "title": "For loop within a function that writes contents of list parameter to desired file name",
+      "url": "https://stackoverflow.com/questions/80012195/for-loop-within-a-function-that-writes-contents-of-list-parameter-to-desired-fil",
+      "published_at": "2026-10-24T03:08:13.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
+      "tags": [
+        "python",
+        "function",
+        "for-loop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "xAvareS"
     },
     {
       "title": "Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?",
@@ -1916,33 +1941,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "pg27"
-    },
-    {
-      "title": "For loop within a function that writes contents of list parameter to desired file name",
-      "url": "https://stackoverflow.com/questions/80012195/for-loop-within-a-function-that-writes-contents-of-list-parameter-to-desired-fil",
-      "published_at": "2026-10-24T03:08:13.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "python",
-        "function",
-        "for-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "xAvareS"
-    },
-    {
-      "title": "Alternative import hook for modifying source code before compiling",
-      "url": "https://stackoverflow.com/questions/80011839/alternative-import-hook-for-modifying-source-code-before-compiling",
-      "published_at": "2026-10-22T12:13:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "import-hooks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2214,7 +2212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "vercel-labs"
     },
     {
@@ -2246,6 +2244,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BoJacks JJ"
+    },
+    {
+      "title": "Get all css root variables in array using javascript and change the values",
+      "url": "https://stackoverflow.com/questions/48760274/get-all-css-root-variables-in-array-using-javascript-and-change-the-values",
+      "published_at": "2018-02-13T05:52:53.000Z",
+      "description": "Stack Overflow question · 9 answers · score 37",
+      "tags": [
+        "javascript",
+        "jquery",
+        "css",
+        "css-selectors",
+        "css-variables"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Nadeem Mohammed"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -2337,7 +2351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 979,
       "user": "UniXNU"
     },
     {
@@ -2624,8 +2638,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1254,
       "user": "colinhacks"
+    },
+    {
+      "title": "Is it possible to find device geo location based on ip address using NodeJS?",
+      "url": "https://stackoverflow.com/questions/70707110/is-it-possible-to-find-device-geo-location-based-on-ip-address-using-nodejs",
+      "published_at": "2022-01-14T07:08:58.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "node.js",
+        "mongodb",
+        "geolocation",
+        "ip-geolocation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kirasiris"
     },
     {
       "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
@@ -2844,8 +2874,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1783,
+      "stars": 1784,
       "user": "ikow"
+    },
+    {
+      "title": "POSIX wordexp(3) is dangerous",
+      "url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
+      "published_at": "2026-10-25T10:09:29.815-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "c",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "yossarian"
     },
     {
       "title": "I want my Wednesday back",
@@ -2859,18 +2902,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "lucasluitjes"
-    },
-    {
-      "title": "Indian government sites are serving revoked eMudhra certificates",
-      "url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
-      "published_at": "2026-10-23T23:06:06.412-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "adityaathalye"
     },
     {
       "title": "Will AI expose the rickety infrastructure of the internet?",
@@ -3084,7 +3115,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1391,
+      "stars": 1393,
       "user": "openai"
     },
     {
@@ -3099,7 +3130,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 602,
       "user": "nthnclrk"
     },
     {
@@ -3114,7 +3145,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 437,
       "user": "WoYun520"
     },
     {
@@ -3129,7 +3160,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 422,
       "user": "typecraft-dev"
     },
     {
@@ -3144,7 +3175,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 417,
       "user": "blendi-remade"
     },
     {
@@ -3159,23 +3190,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1783,
+      "stars": 1784,
       "user": "ikow"
-    },
-    {
-      "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-      "published_at": "2026-10-21T11:11:57Z",
-      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
-      "source": "GitHub",
-      "stars": 1418,
-      "user": "9bie"
     },
     {
       "title": "Jakeschincariol/day-trader-skill - 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
@@ -3189,8 +3205,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1355,
+      "stars": 1451,
       "user": "Jakeschincariol"
+    },
+    {
+      "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "published_at": "2026-10-21T11:11:57Z",
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
+      "source": "GitHub",
+      "stars": 1423,
+      "user": "9bie"
     },
     {
       "title": "eagle-hq/EAGLE-4 - Official Inference Code of EAGLE-4",
@@ -3204,7 +3235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 981,
+      "stars": 984,
       "user": "eagle-hq"
     },
     {
@@ -3219,7 +3250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 944,
+      "stars": 979,
       "user": "UniXNU"
     },
     {
@@ -3253,21 +3284,6 @@
       "user": "0c-biggo"
     },
     {
-      "title": "xue-y-su/clove-api-1.0.6 - Clove API 1.0.6 source code",
-      "url": "https://github.com/xue-y-su/clove-api-1.0.6",
-      "published_at": "2026-10-21T09:09:08Z",
-      "description": "Clove API 1.0.6 source code",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/190185029?v=4",
-      "source": "GitHub",
-      "stars": 101,
-      "user": "xue-y-su"
-    },
-    {
       "title": "tractordev/webframe - Run a web page like a program",
       "url": "https://github.com/tractordev/webframe",
       "published_at": "2026-10-24T14:18:15Z",
@@ -3279,8 +3295,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 94,
+      "stars": 109,
       "user": "tractordev"
+    },
+    {
+      "title": "xue-y-su/clove-api-1.0.6 - Clove API 1.0.6 source code",
+      "url": "https://github.com/xue-y-su/clove-api-1.0.6",
+      "published_at": "2026-10-21T09:09:08Z",
+      "description": "Clove API 1.0.6 source code",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/190185029?v=4",
+      "source": "GitHub",
+      "stars": 104,
+      "user": "xue-y-su"
     },
     {
       "title": "aancw/php2shell-scanner - Scanner for PHP2Shell (CVE-2026-109618/109619): URL blackbox, local device and SSH.",
@@ -3294,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284204?v=4",
       "source": "GitHub",
-      "stars": 86,
+      "stars": 87,
       "user": "aancw"
     },
     {
@@ -3309,7 +3340,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 827,
+      "stars": 830,
       "user": "stackedlol"
     },
     {
@@ -3324,7 +3355,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 593,
       "user": "VictorTaelin"
     },
     {
@@ -3339,8 +3370,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 402,
+      "stars": 404,
       "user": "vercel-labs"
+    },
+    {
+      "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 8 languages, including Arabic (RTL).",
+      "url": "https://github.com/agharsallah/esp-labs-web",
+      "published_at": "2026-10-21T13:40:04Z",
+      "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 8 languages, including Arabic (RTL).",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
+      "source": "GitHub",
+      "stars": 270,
+      "user": "agharsallah"
     },
     {
       "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
@@ -3358,21 +3404,6 @@
       "user": "qianshuixia"
     },
     {
-      "title": "quanhoangindex/ascii-reveal - GitHub Repository",
-      "url": "https://github.com/quanhoangindex/ascii-reveal",
-      "published_at": "2026-10-21T12:12:04Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
-      "source": "GitHub",
-      "stars": 255,
-      "user": "quanhoangindex"
-    },
-    {
       "title": "xevrion/hatchzip - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
       "url": "https://github.com/xevrion/hatchzip",
       "published_at": "2026-10-21T17:29:28Z",
@@ -3384,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 1876,
+      "stars": 1905,
       "user": "xevrion"
     },
     {
@@ -3399,7 +3430,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1245,
+      "stars": 1254,
       "user": "colinhacks"
     },
     {
@@ -3414,7 +3445,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 982,
+      "stars": 987,
       "user": "ELY-Open-Source"
     },
     {
@@ -3429,7 +3460,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 665,
+      "stars": 667,
       "user": "Hugo-Dz"
     },
     {
@@ -3444,21 +3475,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 607,
+      "stars": 611,
       "user": "dominikmartn"
     },
     {
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "published_at": "2026-10-24T18:06:08.743-05:00",
+      "title": "The Slurptop: A home-built luggable that runs on power tool batteries",
+      "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
+      "published_at": "2026-10-25T08:43:11.758-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "ai-tooling",
-        "practices"
+        "art",
+        "hardware"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "lalitm"
+      "user": "hoistbypetard"
     },
     {
       "title": "Request for organic assistance debugging my fading-toolbar(JS)",
