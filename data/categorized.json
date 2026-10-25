@@ -435,21 +435,6 @@
       "user": "Rachael Berkey"
     },
     {
-      "title": "OpenGameBuilder: Describe a game in one sentence and generate it using a local LLM like Gemma 4.",
-      "url": "https://dev.to/blaiselabs/opengamebuilder-describe-a-game-in-one-sentence-and-generate-it-using-a-local-llm-like-gemma-4-215m",
-      "published_at": "2026-10-19T07:01:01Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle    Every...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "gemma",
-        "sentry"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblaiselabs.github.io%2FOpenGameBuilder%2Farticle%2Fhero_cherry_town.png",
-      "source": "Dev.to",
-      "user": "Blaise Labs"
-    },
-    {
       "title": "The Model Is the Easy Part",
       "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
       "published_at": "2026-10-14T12:04:00Z",
@@ -463,6 +448,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png",
       "source": "Dev.to",
       "user": "Steven Latre"
+    },
+    {
+      "title": "OpenGameBuilder: Describe a game in one sentence and generate it using a local LLM like Gemma 4.",
+      "url": "https://dev.to/blaiselabs/opengamebuilder-describe-a-game-in-one-sentence-and-generate-it-using-a-local-llm-like-gemma-4-215m",
+      "published_at": "2026-10-19T07:01:01Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle    Every...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "sentry"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblaiselabs.github.io%2FOpenGameBuilder%2Farticle%2Fhero_cherry_town.png",
+      "source": "Dev.to",
+      "user": "Blaise Labs"
     },
     {
       "title": "Building a cross-platform Flutter festival assistant with llamadart",
@@ -583,6 +583,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "Local image generation with llamadart for the Llama Village storybook",
+      "url": "https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28",
+      "published_at": "2026-10-15T13:56:36Z",
+      "description": "Beyond chat with llamadart · Part 4  Dash missed it. Pip’s scarf is by the pond, and all he has is...",
+      "tags": [
+        "tutorial",
+        "ai",
+        "dart",
+        "flutter"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ixa6396m1ripr4zvpq7.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -764,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1386,
+      "stars": 1391,
       "user": "openai"
     },
     {
@@ -779,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1772,
+      "stars": 1783,
       "user": "ikow"
     },
     {
@@ -794,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 268,
       "user": "qianshuixia"
     },
     {
@@ -852,7 +867,7 @@
       "title": "Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?",
       "url": "https://stackoverflow.com/questions/80012328/windows-webdav-client-fails-to-read-files-over-a-certain-size-50-mb-0x800700d",
       "published_at": "2026-10-24T20:15:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "windows",
@@ -1208,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1386,
+      "stars": 1391,
       "user": "openai"
     },
     {
@@ -1223,7 +1238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 593,
       "user": "nthnclrk"
     },
     {
@@ -1238,7 +1253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 436,
       "user": "WoYun520"
     },
     {
@@ -1253,7 +1268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "typecraft-dev"
     },
     {
@@ -1268,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 410,
       "user": "blendi-remade"
     },
     {
@@ -1283,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 827,
       "user": "stackedlol"
     },
     {
@@ -1298,7 +1313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 589,
       "user": "VictorTaelin"
     },
     {
@@ -1313,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 402,
       "user": "vercel-labs"
     },
     {
@@ -1328,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 268,
       "user": "qianshuixia"
     },
     {
@@ -1343,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 255,
       "user": "quanhoangindex"
     },
     {
@@ -1358,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1245,
       "user": "colinhacks"
     },
     {
@@ -1381,7 +1396,7 @@
       "title": "Request for organic assistance debugging my fading-toolbar(JS)",
       "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
+      "description": "Stack Overflow question · 1 answers · score -8",
       "tags": [
         "javascript",
         "html",
@@ -1715,7 +1730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1772,
+      "stars": 1783,
       "user": "ikow"
     },
     {
@@ -1730,7 +1745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1413,
+      "stars": 1418,
       "user": "9bie"
     },
     {
@@ -1745,7 +1760,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1242,
+      "stars": 1355,
       "user": "Jakeschincariol"
     },
     {
@@ -1760,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 977,
+      "stars": 981,
       "user": "eagle-hq"
     },
     {
@@ -1775,7 +1790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 944,
       "user": "UniXNU"
     },
     {
@@ -1791,6 +1806,32 @@
       "user": "uds"
     },
     {
+      "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
+      "url": "https://stackoverflow.com/questions/80012398/how-to-fix-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable-to",
+      "published_at": "2026-10-25T10:15:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "model-context-protocol"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aradhya"
+    },
+    {
+      "title": "How to ignore other files other than Python file",
+      "url": "https://stackoverflow.com/questions/80012373/how-to-ignore-other-files-other-than-python-file",
+      "published_at": "2026-10-25T05:17:41.000Z",
+      "description": "Stack Overflow question · 0 answers · score -7",
+      "tags": [
+        "python",
+        "command-line"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Vedha"
+    },
+    {
       "title": "Possible software solution on how to ensure a 20 microsecond cycle during real time testing",
       "url": "https://stackoverflow.com/questions/80012365/possible-software-solution-on-how-to-ensure-a-20-microsecond-cycle-during-real-t",
       "published_at": "2026-10-25T03:40:28.000Z",
@@ -1804,31 +1845,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kay90"
-    },
-    {
-      "title": "How to ignore other files other than python file in",
-      "url": "https://stackoverflow.com/questions/80012373/how-to-ignore-other-files-other-than-python-file-in",
-      "published_at": "2026-10-25T05:17:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "command-line"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vedha"
-    },
-    {
-      "title": "“Voice Constructor”&#160;—&#160;Build a Story from Lines",
-      "url": "https://stackoverflow.com/questions/80012378/voice-constructor-build-a-story-from-lines",
-      "published_at": "2026-10-25T06:47:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Александр"
     },
     {
       "title": "Setting italic conditional formatting in Openpyxl",
@@ -1847,7 +1863,7 @@
       "title": "Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?",
       "url": "https://stackoverflow.com/questions/80012328/windows-webdav-client-fails-to-read-files-over-a-certain-size-50-mb-0x800700d",
       "published_at": "2026-10-24T20:15:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "windows",
@@ -1916,18 +1932,17 @@
       "user": "xAvareS"
     },
     {
-      "title": "Trouble with the command in a Button in \"tkmacosx\"",
-      "url": "https://stackoverflow.com/questions/80012147/trouble-with-the-command-in-a-button-in-tkmacosx",
-      "published_at": "2026-10-23T18:53:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "Alternative import hook for modifying source code before compiling",
+      "url": "https://stackoverflow.com/questions/80011839/alternative-import-hook-for-modifying-source-code-before-compiling",
+      "published_at": "2026-10-22T12:13:19.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
-        "tkinter",
-        "button"
+        "import-hooks"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Tristan"
+      "user": "NickC"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2199,7 +2214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 402,
       "user": "vercel-labs"
     },
     {
@@ -2222,7 +2237,7 @@
       "title": "Request for organic assistance debugging my fading-toolbar(JS)",
       "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
+      "description": "Stack Overflow question · 1 answers · score -8",
       "tags": [
         "javascript",
         "html",
@@ -2296,6 +2311,21 @@
       "user": "Jhin Lee"
     },
     {
+      "title": "Local image generation with llamadart for the Llama Village storybook",
+      "url": "https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28",
+      "published_at": "2026-10-15T13:56:36Z",
+      "description": "Beyond chat with llamadart · Part 4  Dash missed it. Pip’s scarf is by the pond, and all he has is...",
+      "tags": [
+        "tutorial",
+        "ai",
+        "dart",
+        "flutter"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ixa6396m1ripr4zvpq7.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
       "title": "UniXNU/UniXNU - Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
       "url": "https://github.com/UniXNU/UniXNU",
       "published_at": "2026-10-19T10:46:55Z",
@@ -2307,7 +2337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 944,
       "user": "UniXNU"
     },
     {
@@ -2504,7 +2534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 268,
       "user": "qianshuixia"
     },
     {
@@ -2594,8 +2624,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1245,
       "user": "colinhacks"
+    },
+    {
+      "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
+      "url": "https://stackoverflow.com/questions/80012398/how-to-fix-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable-to",
+      "published_at": "2026-10-25T10:15:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "model-context-protocol"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aradhya"
     },
     {
       "title": "Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval",
@@ -2801,7 +2844,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1772,
+      "stars": 1783,
       "user": "ikow"
     },
     {
@@ -3041,7 +3084,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1386,
+      "stars": 1391,
       "user": "openai"
     },
     {
@@ -3056,7 +3099,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 593,
       "user": "nthnclrk"
     },
     {
@@ -3071,7 +3114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 436,
       "user": "WoYun520"
     },
     {
@@ -3086,7 +3129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 419,
+      "stars": 420,
       "user": "typecraft-dev"
     },
     {
@@ -3101,7 +3144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 406,
+      "stars": 410,
       "user": "blendi-remade"
     },
     {
@@ -3116,7 +3159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1772,
+      "stars": 1783,
       "user": "ikow"
     },
     {
@@ -3131,7 +3174,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1413,
+      "stars": 1418,
       "user": "9bie"
     },
     {
@@ -3146,7 +3189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1242,
+      "stars": 1355,
       "user": "Jakeschincariol"
     },
     {
@@ -3161,7 +3204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 977,
+      "stars": 981,
       "user": "eagle-hq"
     },
     {
@@ -3176,23 +3219,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 920,
+      "stars": 944,
       "user": "UniXNU"
-    },
-    {
-      "title": "mirkobrombin/raven - A Windows your apps recognize.",
-      "url": "https://github.com/mirkobrombin/raven",
-      "published_at": "2026-10-24T17:13:42Z",
-      "description": "A Windows your apps recognize.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9479903?v=4",
-      "source": "GitHub",
-      "stars": 289,
-      "user": "mirkobrombin"
     },
     {
       "title": "Fluepke/emudrahahahahaha - Private Keys",
@@ -3206,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 240,
       "user": "Fluepke"
     },
     {
@@ -3221,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344968002?v=4",
       "source": "GitHub",
-      "stars": 142,
+      "stars": 143,
       "user": "0c-biggo"
     },
     {
@@ -3236,8 +3264,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/190185029?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 101,
       "user": "xue-y-su"
+    },
+    {
+      "title": "tractordev/webframe - Run a web page like a program",
+      "url": "https://github.com/tractordev/webframe",
+      "published_at": "2026-10-24T14:18:15Z",
+      "description": "Run a web page like a program",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
+      "source": "GitHub",
+      "stars": 94,
+      "user": "tractordev"
     },
     {
       "title": "aancw/php2shell-scanner - Scanner for PHP2Shell (CVE-2026-109618/109619): URL blackbox, local device and SSH.",
@@ -3251,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284204?v=4",
       "source": "GitHub",
-      "stars": 81,
+      "stars": 86,
       "user": "aancw"
     },
     {
@@ -3266,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 827,
       "user": "stackedlol"
     },
     {
@@ -3281,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 589,
       "user": "VictorTaelin"
     },
     {
@@ -3296,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
       "source": "GitHub",
-      "stars": 399,
+      "stars": 402,
       "user": "vercel-labs"
     },
     {
@@ -3311,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 268,
       "user": "qianshuixia"
     },
     {
@@ -3326,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
       "source": "GitHub",
-      "stars": 245,
+      "stars": 255,
       "user": "quanhoangindex"
     },
     {
@@ -3341,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 1816,
+      "stars": 1876,
       "user": "xevrion"
     },
     {
@@ -3356,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1245,
       "user": "colinhacks"
     },
     {
@@ -3371,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 982,
       "user": "ELY-Open-Source"
     },
     {
@@ -3386,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 665,
       "user": "Hugo-Dz"
     },
     {
@@ -3401,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 607,
       "user": "dominikmartn"
     },
     {
@@ -3421,7 +3464,7 @@
       "title": "Request for organic assistance debugging my fading-toolbar(JS)",
       "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
+      "description": "Stack Overflow question · 1 answers · score -8",
       "tags": [
         "javascript",
         "html",
