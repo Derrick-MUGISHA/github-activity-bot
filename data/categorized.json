@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
-      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
-      "published_at": "2026-10-22T23:51:30Z",
-      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Don't Be a Proxy Between Me and Your AI",
       "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
       "published_at": "2026-10-22T04:31:09Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsz6wqckn1mxagladj1ln.png",
       "source": "Dev.to",
       "user": "Paul Horton"
+    },
+    {
+      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
+      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
+      "published_at": "2026-10-22T23:51:30Z",
+      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
@@ -211,21 +211,6 @@
       "user": "Kara Silverman"
     },
     {
-      "title": "Why Smaller AI Models Can Win in the Enterprise",
-      "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57",
-      "published_at": "2026-10-11T19:41:19Z",
-      "description": "Three engineering lessons from building a 1-billion-parameter foundation model for enterprise fraud detection.",
-      "tags": [
-        "aie",
-        "machinelearning",
-        "gpu",
-        "deeplearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm639wbwsz2jige4sw3v1.png",
-      "source": "Dev.to",
-      "user": "Freddy Lécué"
-    },
-    {
       "title": "A World Worth Understanding",
       "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
       "published_at": "2026-10-11T19:43:19Z",
@@ -239,6 +224,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
       "source": "Dev.to",
       "user": "dev.to staff"
+    },
+    {
+      "title": "Why Smaller AI Models Can Win in the Enterprise",
+      "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57",
+      "published_at": "2026-10-11T19:41:19Z",
+      "description": "Three engineering lessons from building a 1-billion-parameter foundation model for enterprise fraud detection.",
+      "tags": [
+        "aie",
+        "machinelearning",
+        "gpu",
+        "deeplearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm639wbwsz2jige4sw3v1.png",
+      "source": "Dev.to",
+      "user": "Freddy Lécué"
     },
     {
       "title": "[Agent Platform in Practice (2)] From Monolithic Cloud Run to Google Cloud Agent Runtime: Refactoring LINE AI Business Card King",
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1381,
+      "stars": 1386,
       "user": "openai"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1754,
+      "stars": 1760,
       "user": "ikow"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 262,
       "user": "qianshuixia"
     },
     {
@@ -808,19 +808,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "mond"
-    },
-    {
-      "title": "Scrawl: show an agent the problem",
-      "url": "https://scrawl.kitlangton.com/",
-      "published_at": "2026-10-24T18:38:21.847-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "ai-tooling"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "loige"
     },
     {
       "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
@@ -839,7 +826,7 @@
       "title": "Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?",
       "url": "https://stackoverflow.com/questions/80012328/windows-webdav-client-fails-to-read-files-over-a-certain-size-50-mb-0x800700d",
       "published_at": "2026-10-24T20:15:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "windows",
@@ -849,22 +836,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Fungus"
-    },
-    {
-      "title": "Why does my local Qwen LLM report that no business indicators are available when my pandas DataFrames contain data?",
-      "url": "https://stackoverflow.com/questions/80012012/why-does-my-local-qwen-llm-report-that-no-business-indicators-are-available-when",
-      "published_at": "2026-10-23T07:58:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "pandas",
-        "dataframe",
-        "large-language-model",
-        "llama-cpp-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ghanianda Wafiqarifah"
     },
     {
       "title": "Starlink seems to be working normally again in Ukraine",
@@ -1211,7 +1182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1381,
+      "stars": 1386,
       "user": "openai"
     },
     {
@@ -1226,7 +1197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 578,
       "user": "nthnclrk"
     },
     {
@@ -1241,7 +1212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 435,
       "user": "WoYun520"
     },
     {
@@ -1256,7 +1227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 418,
       "user": "typecraft-dev"
     },
     {
@@ -1271,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 402,
       "user": "blendi-remade"
     },
     {
@@ -1286,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 809,
       "user": "stackedlol"
     },
     {
@@ -1301,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 587,
       "user": "VictorTaelin"
     },
     {
@@ -1331,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 262,
       "user": "qianshuixia"
     },
     {
@@ -1346,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 236,
       "user": "quanhoangindex"
     },
     {
@@ -1361,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1210,
+      "stars": 1220,
       "user": "colinhacks"
     },
     {
@@ -1395,6 +1366,20 @@
       "user": "BoJacks JJ"
     },
     {
+      "title": "Reddit devvit stops with no error while fetching comments. What is happening and how would i circumvent this?",
+      "url": "https://stackoverflow.com/questions/80012182/reddit-devvit-stops-with-no-error-while-fetching-comments-what-is-happening-and",
+      "published_at": "2026-10-24T00:44:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "express",
+        "reddit"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Asger &#216;rmen Dalmeijer"
+    },
+    {
       "title": "How to integrate a USB/Bluetooth barcode scanner with a web app on Hostinger for student attendance?",
       "url": "https://stackoverflow.com/questions/80012162/how-to-integrate-a-usb-bluetooth-barcode-scanner-with-a-web-app-on-hostinger-for",
       "published_at": "2026-10-23T20:36:57.000Z",
@@ -1409,20 +1394,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Yahia Azab"
-    },
-    {
-      "title": "Reddit devvit stops with no error while fetching comments. What is happening and how would i circumvent this?",
-      "url": "https://stackoverflow.com/questions/80012182/reddit-devvit-stops-with-no-error-while-fetching-comments-what-is-happening-and",
-      "published_at": "2026-10-24T00:44:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "express",
-        "reddit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Asger &#216;rmen Dalmeijer"
     },
     {
       "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
@@ -1718,7 +1689,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1754,
+      "stars": 1760,
       "user": "ikow"
     },
     {
@@ -1733,7 +1704,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1400,
+      "stars": 1404,
       "user": "9bie"
     },
     {
@@ -1748,7 +1719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1101,
+      "stars": 1160,
       "user": "Jakeschincariol"
     },
     {
@@ -1763,7 +1734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 966,
+      "stars": 972,
       "user": "eagle-hq"
     },
     {
@@ -1778,7 +1749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 897,
+      "stars": 905,
       "user": "UniXNU"
     },
     {
@@ -1794,10 +1765,25 @@
       "user": "uds"
     },
     {
+      "title": "Possible software solution on how to ensure a 20 microsecond cycle during real time testing",
+      "url": "https://stackoverflow.com/questions/80012365/possible-software-solution-on-how-to-ensure-a-20-microsecond-cycle-during-real-t",
+      "published_at": "2026-10-25T03:40:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "testing",
+        "dspace",
+        "jitter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kay90"
+    },
+    {
       "title": "Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?",
       "url": "https://stackoverflow.com/questions/80012328/windows-webdav-client-fails-to-read-files-over-a-certain-size-50-mb-0x800700d",
       "published_at": "2026-10-24T20:15:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "windows",
@@ -1867,7 +1853,7 @@
       "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
       "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
       "published_at": "2026-10-22T17:09:57.000Z",
-      "description": "Stack Overflow question · 4 answers · score 2",
+      "description": "Stack Overflow question · 4 answers · score 3",
       "tags": [
         "python",
         "string",
@@ -1918,22 +1904,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Scarlett Murray"
-    },
-    {
-      "title": "Why does my local Qwen LLM report that no business indicators are available when my pandas DataFrames contain data?",
-      "url": "https://stackoverflow.com/questions/80012012/why-does-my-local-qwen-llm-report-that-no-business-indicators-are-available-when",
-      "published_at": "2026-10-23T07:58:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "pandas",
-        "dataframe",
-        "large-language-model",
-        "llama-cpp-python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ghanianda Wafiqarifah"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2313,7 +2283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 897,
+      "stars": 905,
       "user": "UniXNU"
     },
     {
@@ -2510,7 +2480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 262,
       "user": "qianshuixia"
     },
     {
@@ -2600,7 +2570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1210,
+      "stars": 1220,
       "user": "colinhacks"
     },
     {
@@ -2807,7 +2777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1754,
+      "stars": 1760,
       "user": "ikow"
     },
     {
@@ -2880,21 +2850,6 @@
   ],
   "Tools": [
     {
-      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
-      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
-      "published_at": "2026-10-22T23:51:30Z",
-      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
       "url": "https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5",
       "published_at": "2026-10-22T13:05:33Z",
@@ -2923,6 +2878,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsz6wqckn1mxagladj1ln.png",
       "source": "Dev.to",
       "user": "Paul Horton"
+    },
+    {
+      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
+      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
+      "published_at": "2026-10-22T23:51:30Z",
+      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
@@ -3047,7 +3017,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1381,
+      "stars": 1386,
       "user": "openai"
     },
     {
@@ -3062,7 +3032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 578,
       "user": "nthnclrk"
     },
     {
@@ -3077,7 +3047,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 435,
       "user": "WoYun520"
     },
     {
@@ -3092,7 +3062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 418,
       "user": "typecraft-dev"
     },
     {
@@ -3107,7 +3077,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 402,
       "user": "blendi-remade"
     },
     {
@@ -3122,7 +3092,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1754,
+      "stars": 1760,
       "user": "ikow"
     },
     {
@@ -3137,7 +3107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1400,
+      "stars": 1404,
       "user": "9bie"
     },
     {
@@ -3152,7 +3122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1101,
+      "stars": 1160,
       "user": "Jakeschincariol"
     },
     {
@@ -3167,7 +3137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 966,
+      "stars": 972,
       "user": "eagle-hq"
     },
     {
@@ -3182,23 +3152,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
       "source": "GitHub",
-      "stars": 897,
+      "stars": 905,
       "user": "UniXNU"
-    },
-    {
-      "title": "Fluepke/emudrahahahahaha - Private Keys",
-      "url": "https://github.com/Fluepke/emudrahahahahaha",
-      "published_at": "2026-10-20T16:42:49Z",
-      "description": "Private Keys",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
-      "source": "GitHub",
-      "stars": 238,
-      "user": "Fluepke"
     },
     {
       "title": "mirkobrombin/raven - A Windows your apps recognize.",
@@ -3212,8 +3167,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9479903?v=4",
       "source": "GitHub",
-      "stars": 194,
+      "stars": 239,
       "user": "mirkobrombin"
+    },
+    {
+      "title": "Fluepke/emudrahahahahaha - Private Keys",
+      "url": "https://github.com/Fluepke/emudrahahahahaha",
+      "published_at": "2026-10-20T16:42:49Z",
+      "description": "Private Keys",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
+      "source": "GitHub",
+      "stars": 239,
+      "user": "Fluepke"
     },
     {
       "title": "0c-biggo/0c-ime - 免選字的注音輸入法：在本機用 Transformer 看前文選字。支援 Linux（Fcitx5／IBus）、macOS、Windows。",
@@ -3257,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284204?v=4",
       "source": "GitHub",
-      "stars": 69,
+      "stars": 71,
       "user": "aancw"
     },
     {
@@ -3272,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 809,
       "user": "stackedlol"
     },
     {
@@ -3287,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
       "source": "GitHub",
-      "stars": 586,
+      "stars": 587,
       "user": "VictorTaelin"
     },
     {
@@ -3317,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 258,
+      "stars": 262,
       "user": "qianshuixia"
     },
     {
@@ -3332,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 236,
       "user": "quanhoangindex"
     },
     {
@@ -3347,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 1696,
+      "stars": 1748,
       "user": "xevrion"
     },
     {
@@ -3362,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1210,
+      "stars": 1220,
       "user": "colinhacks"
     },
     {
@@ -3377,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
       "source": "GitHub",
-      "stars": 966,
+      "stars": 973,
       "user": "ELY-Open-Source"
     },
     {
@@ -3392,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 660,
       "user": "Hugo-Dz"
     },
     {
@@ -3407,21 +3377,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 604,
       "user": "dominikmartn"
-    },
-    {
-      "title": "Scrawl: show an agent the problem",
-      "url": "https://scrawl.kitlangton.com/",
-      "published_at": "2026-10-24T18:38:21.847-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "ai-tooling"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "loige"
     },
     {
       "title": "Request for organic assistance debugging my fading-toolbar(JS)",
@@ -3436,6 +3393,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BoJacks JJ"
+    },
+    {
+      "title": "Possible software solution on how to ensure a 20 microsecond cycle during real time testing",
+      "url": "https://stackoverflow.com/questions/80012365/possible-software-solution-on-how-to-ensure-a-20-microsecond-cycle-during-real-t",
+      "published_at": "2026-10-25T03:40:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "testing",
+        "dspace",
+        "jitter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kay90"
     },
     {
       "title": "These clever apps show off the iPhone Duo&#8217;s potential",
