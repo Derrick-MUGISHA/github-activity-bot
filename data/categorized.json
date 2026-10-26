@@ -316,21 +316,6 @@
       "user": "Jem"
     },
     {
-      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
-      "published_at": "2026-10-16T17:40:16Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "opportunities",
-        "resources"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fle5lxtrblynphqs20c45.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
       "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
       "published_at": "2026-10-14T19:53:12Z",
@@ -344,6 +329,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
+      "published_at": "2026-10-16T17:40:16Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fle5lxtrblynphqs20c45.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
     },
     {
       "title": "Congrats to the Sanity Challenge Winners!",
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1403,
+      "stars": 1407,
       "user": "openai"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1800,
+      "stars": 1818,
       "user": "ikow"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1430,
       "user": "rddmwmddr"
     },
     {
@@ -839,23 +839,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 290,
       "user": "DrWhax"
     },
     {
-      "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "url": "https://github.com/qianshuixia/shrimpreel",
-      "published_at": "2026-10-20T18:08:00Z",
-      "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "published_at": "2026-10-26T04:34:09Z",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 270,
-      "user": "qianshuixia"
+      "stars": 298,
+      "user": "andyhuo520"
     },
     {
       "title": "“AI Skills” are worthless in 2026",
@@ -869,19 +869,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ubernostrum"
-    },
-    {
-      "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
-      "url": "https://stackoverflow.com/questions/80012090/godaddy-shared-hosting-returns-javascript-bot-verification-instead-of-php-api-js",
-      "published_at": "2026-10-23T14:44:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "php"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muntadhar Muayyad"
     },
     {
       "title": "How to check in Javascript if one element is contained within another",
@@ -1300,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1403,
+      "stars": 1407,
       "user": "openai"
     },
     {
@@ -1315,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 632,
       "user": "nthnclrk"
     },
     {
@@ -1330,23 +1317,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 444,
       "user": "WoYun520"
-    },
-    {
-      "title": "mrdoob/slop-newyork - GitHub Repository",
-      "url": "https://github.com/mrdoob/slop-newyork",
-      "published_at": "2026-10-20T09:16:37Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
-      "source": "GitHub",
-      "stars": 361,
-      "user": "mrdoob"
     },
     {
       "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
@@ -1360,8 +1332,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 391,
       "user": "misshexa66"
+    },
+    {
+      "title": "mrdoob/slop-newyork - GitHub Repository",
+      "url": "https://github.com/mrdoob/slop-newyork",
+      "published_at": "2026-10-20T09:16:37Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
+      "source": "GitHub",
+      "stars": 372,
+      "user": "mrdoob"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
@@ -1375,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 870,
+      "stars": 1216,
       "user": "designfuchen"
     },
     {
@@ -1390,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 517,
       "user": "surendrapandar"
     },
     {
@@ -1405,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 321,
       "user": "agharsallah"
     },
     {
@@ -1420,23 +1407,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 299,
       "user": "quanhoangindex"
     },
     {
-      "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "url": "https://github.com/qianshuixia/shrimpreel",
-      "published_at": "2026-10-20T18:08:00Z",
-      "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "published_at": "2026-10-26T04:34:09Z",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 270,
-      "user": "qianshuixia"
+      "stars": 298,
+      "user": "andyhuo520"
     },
     {
       "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
@@ -1450,14 +1437,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1269,
+      "stars": 1282,
       "user": "colinhacks"
     },
     {
       "title": "Why does my JS make the browser scroll to the bottom of the page when switching to a section that's taller than the window height?",
       "url": "https://stackoverflow.com/questions/80012509/why-does-my-js-make-the-browser-scroll-to-the-bottom-of-the-page-when-switching",
       "published_at": "2026-10-26T00:24:07.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
         "html"
@@ -1470,7 +1457,7 @@
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score 5",
+      "description": "Stack Overflow question · 2 answers · score 7",
       "tags": [
         "javascript",
         "html",
@@ -1497,49 +1484,6 @@
       "user": "BoJacks JJ"
     },
     {
-      "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
-      "url": "https://stackoverflow.com/questions/80012090/godaddy-shared-hosting-returns-javascript-bot-verification-instead-of-php-api-js",
-      "published_at": "2026-10-23T14:44:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "javascript",
-        "php"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muntadhar Muayyad"
-    },
-    {
-      "title": "How to integrate a USB/Bluetooth barcode scanner with a web app on Hostinger for student attendance?",
-      "url": "https://stackoverflow.com/questions/80012162/how-to-integrate-a-usb-bluetooth-barcode-scanner-with-a-web-app-on-hostinger-for",
-      "published_at": "2026-10-23T20:36:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -8",
-      "tags": [
-        "javascript",
-        "laravel",
-        "web-applications",
-        "qr-code",
-        "barcode"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Yahia Azab"
-    },
-    {
-      "title": "How can I format a number with commas as thousands separators?",
-      "url": "https://stackoverflow.com/questions/2901102/how-can-i-format-a-number-with-commas-as-thousands-separators",
-      "published_at": "2010-05-24T23:42:31.000Z",
-      "description": "Stack Overflow question · 53 answers · score 2782",
-      "tags": [
-        "javascript",
-        "formatting",
-        "numbers"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Elias Zamaria"
-    },
-    {
       "title": "how to reset <input type = \"file\"> in Angular",
       "url": "https://stackoverflow.com/questions/20549241/how-to-reset-input-type-file-in-angular",
       "published_at": "2013-12-12T16:46:23.000Z",
@@ -1551,6 +1495,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jesus"
+    },
+    {
+      "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
+      "url": "https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source",
+      "published_at": "2011-07-01T17:48:29.000Z",
+      "description": "Stack Overflow question · 15 answers · score 332",
+      "tags": [
+        "javascript",
+        "html",
+        "github"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Domenic"
     },
     {
       "title": "How to check in Javascript if one element is contained within another",
@@ -1566,35 +1524,62 @@
       "user": "AJ."
     },
     {
-      "title": "Replace a Regex capture group with uppercase in Javascript",
-      "url": "https://stackoverflow.com/questions/6142922/replace-a-regex-capture-group-with-uppercase-in-javascript",
-      "published_at": "2011-05-26T17:51:47.000Z",
-      "description": "Stack Overflow question · 8 answers · score 111",
+      "title": "TypeError: Cannot read properties of undefined (reading 'endsWith')",
+      "url": "https://stackoverflow.com/questions/72083563/typeerror-cannot-read-properties-of-undefined-reading-endswith",
+      "published_at": "2022-05-02T07:31:12.000Z",
+      "description": "Stack Overflow question · 5 answers · score -1",
       "tags": [
         "javascript",
-        "regex",
-        "replace",
-        "uppercase"
+        "sorting"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Evan Carroll"
+      "user": "Chukwuemeka"
     },
     {
-      "title": "Is it possible to find device geo location based on ip address using NodeJS?",
-      "url": "https://stackoverflow.com/questions/70707110/is-it-possible-to-find-device-geo-location-based-on-ip-address-using-nodejs",
-      "published_at": "2022-01-14T07:08:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "title": "CORS in Nextjs Application on Vercel",
+      "url": "https://stackoverflow.com/questions/65566732/cors-in-nextjs-application-on-vercel",
+      "published_at": "2021-01-04T17:05:54.000Z",
+      "description": "Stack Overflow question · 2 answers · score 5",
       "tags": [
         "javascript",
-        "node.js",
-        "mongodb",
-        "geolocation",
-        "ip-geolocation"
+        "reactjs",
+        "cors",
+        "fetch",
+        "next.js"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Kirasiris"
+      "user": "Andreas"
+    },
+    {
+      "title": "How to have an element change its color during a scroll event and then revert back to its original color?",
+      "url": "https://stackoverflow.com/questions/68809285/how-to-have-an-element-change-its-color-during-a-scroll-event-and-then-revert-ba",
+      "published_at": "2021-08-16T21:13:21.000Z",
+      "description": "Stack Overflow question · 4 answers · score 2",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Thraxen"
+    },
+    {
+      "title": "Navbar active page",
+      "url": "https://stackoverflow.com/questions/68826654/navbar-active-page",
+      "published_at": "2021-08-18T04:40:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "navbar"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bothsworth"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -1795,21 +1780,6 @@
       "user": "arathore"
     },
     {
-      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "published_at": "2026-10-21T07:55:16Z",
-      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
-      "source": "GitHub",
-      "stars": 1800,
-      "user": "ikow"
-    },
-    {
       "title": "Jakeschincariol/day-trader-skill - 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
       "url": "https://github.com/Jakeschincariol/day-trader-skill",
       "published_at": "2026-10-20T14:17:54Z",
@@ -1821,8 +1791,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1717,
+      "stars": 1847,
       "user": "Jakeschincariol"
+    },
+    {
+      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "published_at": "2026-10-21T07:55:16Z",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
+      "source": "GitHub",
+      "stars": 1818,
+      "user": "ikow"
     },
     {
       "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
@@ -1836,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1444,
+      "stars": 1461,
       "user": "9bie"
     },
     {
@@ -1851,23 +1836,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1430,
       "user": "rddmwmddr"
     },
     {
-      "title": "eagle-hq/EAGLE-4 - Official Inference Code of EAGLE-4",
-      "url": "https://github.com/eagle-hq/EAGLE-4",
-      "published_at": "2026-10-20T14:03:04Z",
-      "description": "Official Inference Code of EAGLE-4",
+      "title": "lyramakesmusic/neuron-explorer - Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+      "url": "https://github.com/lyramakesmusic/neuron-explorer",
+      "published_at": "2026-10-21T04:09:05Z",
+      "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/21166029?v=4",
       "source": "GitHub",
-      "stars": 993,
-      "user": "eagle-hq"
+      "stars": 1007,
+      "user": "lyramakesmusic"
+    },
+    {
+      "title": "Multithreaded web server is not threading requests",
+      "url": "https://stackoverflow.com/questions/80012553/multithreaded-web-server-is-not-threading-requests",
+      "published_at": "2026-10-26T08:34:12.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "multithreading",
+        "http",
+        "webserver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "RS8"
+    },
+    {
+      "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
+      "url": "https://stackoverflow.com/questions/80012398/how-to-fix-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable-to",
+      "published_at": "2026-10-25T10:15:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "sqlite",
+        "sqlalchemy",
+        "model-context-protocol"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aradhya"
     },
     {
       "title": "ValueError: failed to validate MultiPolygons when trying to create interactive map using Carto basemap and geopandas",
@@ -1901,17 +1916,18 @@
       "user": "kay90"
     },
     {
-      "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
-      "url": "https://stackoverflow.com/questions/80012398/how-to-fix-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable-to",
-      "published_at": "2026-10-25T10:15:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "For loop within a function that writes contents of list parameter to desired file name",
+      "url": "https://stackoverflow.com/questions/80012195/for-loop-within-a-function-that-writes-contents-of-list-parameter-to-desired-fil",
+      "published_at": "2026-10-24T03:08:13.000Z",
+      "description": "Stack Overflow question · 2 answers · score -5",
       "tags": [
         "python",
-        "model-context-protocol"
+        "function",
+        "for-loop"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Aradhya"
+      "user": "xAvareS"
     },
     {
       "title": "Setting italic conditional formatting in Openpyxl",
@@ -1925,20 +1941,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "CADV"
-    },
-    {
-      "title": "For loop within a function that writes contents of list parameter to desired file name",
-      "url": "https://stackoverflow.com/questions/80012195/for-loop-within-a-function-that-writes-contents-of-list-parameter-to-desired-fil",
-      "published_at": "2026-10-24T03:08:13.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "python",
-        "function",
-        "for-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "xAvareS"
     },
     {
       "title": "Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?",
@@ -1997,19 +1999,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Calumjt.13"
-    },
-    {
-      "title": "Alternative import hook for modifying source code before compiling",
-      "url": "https://stackoverflow.com/questions/80011839/alternative-import-hook-for-modifying-source-code-before-compiling",
-      "published_at": "2026-10-22T12:13:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "import-hooks"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2273,7 +2262,7 @@
       "title": "Why does my JS make the browser scroll to the bottom of the page when switching to a section that's taller than the window height?",
       "url": "https://stackoverflow.com/questions/80012509/why-does-my-js-make-the-browser-scroll-to-the-bottom-of-the-page-when-switching",
       "published_at": "2026-10-26T00:24:07.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
         "html"
@@ -2286,7 +2275,7 @@
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score 5",
+      "description": "Stack Overflow question · 2 answers · score 7",
       "tags": [
         "javascript",
         "html",
@@ -2311,6 +2300,49 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BoJacks JJ"
+    },
+    {
+      "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
+      "url": "https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source",
+      "published_at": "2011-07-01T17:48:29.000Z",
+      "description": "Stack Overflow question · 15 answers · score 332",
+      "tags": [
+        "javascript",
+        "html",
+        "github"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Domenic"
+    },
+    {
+      "title": "How to have an element change its color during a scroll event and then revert back to its original color?",
+      "url": "https://stackoverflow.com/questions/68809285/how-to-have-an-element-change-its-color-during-a-scroll-event-and-then-revert-ba",
+      "published_at": "2021-08-16T21:13:21.000Z",
+      "description": "Stack Overflow question · 4 answers · score 2",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Thraxen"
+    },
+    {
+      "title": "Navbar active page",
+      "url": "https://stackoverflow.com/questions/68826654/navbar-active-page",
+      "published_at": "2021-08-18T04:40:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "navbar"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "bothsworth"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -2402,7 +2434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1430,
       "user": "rddmwmddr"
     },
     {
@@ -2574,19 +2606,19 @@
       "user": "Jonathan Zhuo"
     },
     {
-      "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "url": "https://github.com/qianshuixia/shrimpreel",
-      "published_at": "2026-10-20T18:08:00Z",
-      "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "title": "egoist/mygo-cloudmusic - MyGo 云音乐 - 第三方网易云音乐原生客户端",
+      "url": "https://github.com/egoist/mygo-cloudmusic",
+      "published_at": "2026-10-25T11:41:31Z",
+      "description": "MyGo 云音乐 - 第三方网易云音乐原生客户端",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 270,
-      "user": "qianshuixia"
+      "stars": 100,
+      "user": "egoist"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2675,24 +2707,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1269,
+      "stars": 1282,
       "user": "colinhacks"
-    },
-    {
-      "title": "Is it possible to find device geo location based on ip address using NodeJS?",
-      "url": "https://stackoverflow.com/questions/70707110/is-it-possible-to-find-device-geo-location-based-on-ip-address-using-nodejs",
-      "published_at": "2022-01-14T07:08:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "node.js",
-        "mongodb",
-        "geolocation",
-        "ip-geolocation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kirasiris"
     },
     {
       "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
@@ -2701,6 +2717,8 @@
       "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
+        "sqlite",
+        "sqlalchemy",
         "model-context-protocol"
       ],
       "cover_image": null,
@@ -2911,7 +2929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1800,
+      "stars": 1818,
       "user": "ikow"
     },
     {
@@ -2928,17 +2946,16 @@
       "user": "yossarian"
     },
     {
-      "title": "I want my Wednesday back",
-      "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
-      "published_at": "2026-10-24T05:09:28.059-05:00",
+      "title": "About the compromised eMudhra intermediate CAs",
+      "url": "https://support.apple.com/en-us/149555",
+      "published_at": "2026-10-26T04:58:55.217-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "php",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "lucasluitjes"
+      "user": "freddyb"
     },
     {
       "title": "Will AI expose the rickety infrastructure of the internet?",
@@ -3137,7 +3154,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1403,
+      "stars": 1407,
       "user": "openai"
     },
     {
@@ -3152,7 +3169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 624,
+      "stars": 632,
       "user": "nthnclrk"
     },
     {
@@ -3167,23 +3184,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 444,
       "user": "WoYun520"
-    },
-    {
-      "title": "mrdoob/slop-newyork - GitHub Repository",
-      "url": "https://github.com/mrdoob/slop-newyork",
-      "published_at": "2026-10-20T09:16:37Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
-      "source": "GitHub",
-      "stars": 361,
-      "user": "mrdoob"
     },
     {
       "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
@@ -3197,23 +3199,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 391,
       "user": "misshexa66"
     },
     {
-      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "published_at": "2026-10-21T07:55:16Z",
-      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "title": "mrdoob/slop-newyork - GitHub Repository",
+      "url": "https://github.com/mrdoob/slop-newyork",
+      "published_at": "2026-10-20T09:16:37Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 1800,
-      "user": "ikow"
+      "stars": 372,
+      "user": "mrdoob"
     },
     {
       "title": "Jakeschincariol/day-trader-skill - 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
@@ -3227,8 +3229,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1717,
+      "stars": 1847,
       "user": "Jakeschincariol"
+    },
+    {
+      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "published_at": "2026-10-21T07:55:16Z",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
+      "source": "GitHub",
+      "stars": 1818,
+      "user": "ikow"
     },
     {
       "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
@@ -3242,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1444,
+      "stars": 1461,
       "user": "9bie"
     },
     {
@@ -3257,23 +3274,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1072,
+      "stars": 1430,
       "user": "rddmwmddr"
     },
     {
-      "title": "eagle-hq/EAGLE-4 - Official Inference Code of EAGLE-4",
-      "url": "https://github.com/eagle-hq/EAGLE-4",
-      "published_at": "2026-10-20T14:03:04Z",
-      "description": "Official Inference Code of EAGLE-4",
+      "title": "lyramakesmusic/neuron-explorer - Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+      "url": "https://github.com/lyramakesmusic/neuron-explorer",
+      "published_at": "2026-10-21T04:09:05Z",
+      "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/21166029?v=4",
       "source": "GitHub",
-      "stars": 993,
-      "user": "eagle-hq"
+      "stars": 1007,
+      "user": "lyramakesmusic"
+    },
+    {
+      "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
+      "url": "https://github.com/DrWhax/unfairplay",
+      "published_at": "2026-10-25T21:22:20Z",
+      "description": "Decrypt IPA's on MacOS",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
+      "source": "GitHub",
+      "stars": 290,
+      "user": "DrWhax"
     },
     {
       "title": "Fluepke/emudrahahahahaha - Private Keys",
@@ -3287,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 240,
+      "stars": 241,
       "user": "Fluepke"
     },
     {
@@ -3302,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 124,
+      "stars": 127,
       "user": "tractordev"
     },
     {
@@ -3321,34 +3353,19 @@
       "user": "xue-y-su"
     },
     {
-      "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
-      "url": "https://github.com/DrWhax/unfairplay",
-      "published_at": "2026-10-25T21:22:20Z",
-      "description": "Decrypt IPA's on MacOS",
+      "title": "egoist/mygo-cloudmusic - MyGo 云音乐 - 第三方网易云音乐原生客户端",
+      "url": "https://github.com/egoist/mygo-cloudmusic",
+      "published_at": "2026-10-25T11:41:31Z",
+      "description": "MyGo 云音乐 - 第三方网易云音乐原生客户端",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 98,
-      "user": "DrWhax"
-    },
-    {
-      "title": "aancw/php2shell-scanner - Scanner for PHP2Shell (CVE-2026-109618/109619): URL blackbox, local device and SSH.",
-      "url": "https://github.com/aancw/php2shell-scanner",
-      "published_at": "2026-10-22T09:45:34Z",
-      "description": "Scanner for PHP2Shell (CVE-2026-109618/109619): URL blackbox, local device and SSH.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6284204?v=4",
-      "source": "GitHub",
-      "stars": 92,
-      "user": "aancw"
+      "stars": 100,
+      "user": "egoist"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
@@ -3362,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 870,
+      "stars": 1216,
       "user": "designfuchen"
     },
     {
@@ -3377,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 517,
       "user": "surendrapandar"
     },
     {
@@ -3392,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 321,
       "user": "agharsallah"
     },
     {
@@ -3407,23 +3424,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 299,
       "user": "quanhoangindex"
     },
     {
-      "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "url": "https://github.com/qianshuixia/shrimpreel",
-      "published_at": "2026-10-20T18:08:00Z",
-      "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "published_at": "2026-10-26T04:34:09Z",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 270,
-      "user": "qianshuixia"
+      "stars": 298,
+      "user": "andyhuo520"
     },
     {
       "title": "xevrion/hatchzip - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
@@ -3437,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 1965,
+      "stars": 2001,
       "user": "xevrion"
     },
     {
@@ -3452,23 +3469,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1269,
+      "stars": 1282,
       "user": "colinhacks"
-    },
-    {
-      "title": "dominikmartn/harp - Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
-      "url": "https://github.com/dominikmartn/harp",
-      "published_at": "2026-10-20T10:39:43Z",
-      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
-      "source": "GitHub",
-      "stars": 625,
-      "user": "dominikmartn"
     },
     {
       "title": "mizorewww/gdirect - Rust Google Drive direct downloader using pinned libaria2",
@@ -3482,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 615,
+      "stars": 663,
       "user": "mizorewww"
     },
     {
@@ -3497,8 +3499,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345837424?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 633,
       "user": "torrentplayer"
+    },
+    {
+      "title": "dominikmartn/harp - Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "url": "https://github.com/dominikmartn/harp",
+      "published_at": "2026-10-20T10:39:43Z",
+      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
+      "source": "GitHub",
+      "stars": 631,
+      "user": "dominikmartn"
     },
     {
       "title": "The Slurptop: A home-built luggable that runs on power tool batteries",
@@ -3552,6 +3569,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BoJacks JJ"
+    },
+    {
+      "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
+      "url": "https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source",
+      "published_at": "2011-07-01T17:48:29.000Z",
+      "description": "Stack Overflow question · 15 answers · score 332",
+      "tags": [
+        "javascript",
+        "html",
+        "github"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Domenic"
     },
     {
       "title": "How can I ensure a 20 microsecond cycle during real time testing?",

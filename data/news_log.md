@@ -193670,3 +193670,1037 @@ HackerNews Discussion
 
 ---
 
+
+
+## 📰 DevTech News — 2026-10-26 13:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (79 articles)
+
+#### 1. [Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal](https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0)
+📅 Sun, 25 Oct 2026 06:45:27 GMT
+👤 By: Khushighosh | 📌 Source: Dev.to
+
+![Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw41tloy7yvhtkzh9237.png)
+
+This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...
+
+🏷️ Tags: `devchallenge`, `hf26challenge`, `ai`, `webdev`
+
+---
+
+#### 2. [Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen](https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc)
+📅 Fri, 23 Oct 2026 15:22:41 GMT
+👤 By: Robina Mirbahar | 📌 Source: Dev.to
+
+![Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2FRobinaMirbahar%2Fmain%2Fcomic_studio_ai_cover.jpg)
+
+How I built a voice-and-text-to-4-panel comic generator with Google AI Studio, Gemini structured outputs, a teacher script-review gate, and Imagen 4.
+
+🏷️ Tags: `deved`, `learngoogleaistudio`, `googleai`, `gemini`
+
+---
+
+#### 3. [Building a Cross-Model Collaborative Workflow with Google Antigravity](https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5)
+📅 Thu, 22 Oct 2026 13:05:33 GMT
+👤 By: JimmyLiao | 📌 Source: Dev.to
+
+![Building a Cross-Model Collaborative Workflow with Google Antigravity](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F77ea9kn1289e1qozuen1.png)
+
+Orchestrating Multiple AI Agents in Parallel via Custom Skills   Series 1/2: Multi-Model...
+
+🏷️ Tags: `gemini`, `devtools`, `programming`, `agents`
+
+---
+
+#### 4. [926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS](https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca)
+📅 Thu, 22 Oct 2026 23:51:30 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png)
+
+A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.
+
+🏷️ Tags: `ai`, `programming`, `architecture`, `unix`
+
+---
+
+#### 5. [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn)
+📅 Thu, 22 Oct 2026 04:31:09 GMT
+👤 By: Adam - The Developer ✨ | 📌 Source: Dev.to
+
+![Don't Be a Proxy Between Me and Your AI](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg)
+
+I've had this conversation more times than I'd like to admit.  I raise a technical question in a...
+
+🏷️ Tags: `ai`, `discuss`, `career`, `programming`
+
+---
+
+#### 6. [Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs](https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb)
+📅 Tue, 20 Oct 2026 19:14:39 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fajukpnfpo90v31p2y6af.png)
+
+Automate root-cause incident triage on GKE by combining Gemini 4 Argon multi-step reasoning with the GKE Model Context Protocol server.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 7. [Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0](https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge)
+📅 Tue, 20 Oct 2026 04:34:20 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png)
+
+Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporting two-way reactive forms, Riverpod/BLoC interop, Flutter Material 3, and ANSI terminal TUIs.
+
+🏷️ Tags: `flutter`, `dart`, `ai`, `architecture`
+
+---
+
+#### 8. [Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath](https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02)
+📅 Fri, 16 Oct 2026 05:36:01 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj97kx6j7qepsx21z63a4.jpg)
+
+How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTelemetry/Prometheus observability stack for Oracle Databases and Linux SAN storage.
+
+🏷️ Tags: `oracle`, `go`, `opentelemetry`, `ai`
+
+---
+
+#### 9. [Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale](https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60)
+📅 Mon, 19 Oct 2026 22:20:01 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png)
+
+Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor isolation.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 10. [Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs](https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4)
+📅 Fri, 23 Oct 2026 05:52:48 GMT
+👤 By: Tanaike | 📌 Source: Dev.to
+
+![Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2bc3ar45xrgqtcuc87ui.png)
+
+When we use generative AI to proofread our daily writing—whether technical reports, business...
+
+🏷️ Tags: `ai`, `gemini`, `googleappsscript`, `googleworkspace`
+
+---
+
+### 🏷️ JavaScript (35 articles)
+
+#### 1. [Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0](https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge)
+📅 Tue, 20 Oct 2026 04:34:20 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png)
+
+Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporting two-way reactive forms, Riverpod/BLoC interop, Flutter Material 3, and ANSI terminal TUIs.
+
+🏷️ Tags: `flutter`, `dart`, `ai`, `architecture`
+
+---
+
+#### 2. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+📅 Tue, 03 Dec 2024 22:08:16 GMT
+👤 By: veesahni | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/)
+📅 Sat, 31 Dec 2022 15:43:54 GMT
+👤 By: stanko | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (28 articles)
+
+#### 1. [Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale](https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60)
+📅 Mon, 19 Oct 2026 22:20:01 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png)
+
+Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor isolation.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 2. [[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers](https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli)
+📅 Fri, 16 Oct 2026 14:52:20 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe3j23dy7fqvu09aob4ob.png)
+
+Background   I have a LINE Bot that I use every day, linebot-helper-python. I use it daily...
+
+🏷️ Tags: `ai`, `api`, `gemini`, `python`
+
+---
+
+#### 3. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 4. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 5. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 6. [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+📅 Tue, 22 Jun 2021 16:30:43 GMT
+👤 By: yigitdemirag | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 7. [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+📅 Tue, 09 Jan 2024 08:35:58 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 8. [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+📅 Mon, 28 Apr 2025 11:44:54 GMT
+👤 By: hwpythonner | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Prettymaps: Small Python library to draw customized maps from OpenStreetMap data](https://github.com/marceloprates/prettymaps)
+📅 Wed, 25 Aug 2021 12:48:26 GMT
+👤 By: sebg | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Norvig's Python programs to practice or demonstrate skills](https://github.com/norvig/pytudes)
+📅 Mon, 27 Nov 2017 13:15:30 GMT
+👤 By: federicoponzi | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (16 articles)
+
+#### 1. [Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs](https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb)
+📅 Tue, 20 Oct 2026 19:14:39 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fajukpnfpo90v31p2y6af.png)
+
+Automate root-cause incident triage on GKE by combining Gemini 4 Argon multi-step reasoning with the GKE Model Context Protocol server.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 2. [Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale](https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60)
+📅 Mon, 19 Oct 2026 22:20:01 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png)
+
+Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor isolation.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 3. [Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost](https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo)
+📅 Wed, 21 Oct 2026 18:56:20 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png)
+
+Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 4. [Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence](https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln)
+📅 Thu, 22 Oct 2026 16:05:20 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png)
+
+Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 5. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 7. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [DevOps is broken](https://blog.massdriver.cloud/devops-is-bullshit)
+📅 Thu, 20 Oct 2022 14:16:22 GMT
+👤 By: davydog187 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [A developer goes to a DevOps conference](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/)
+📅 Sat, 28 Sep 2019 15:43:04 GMT
+👤 By: fanf2 | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (10 articles)
+
+#### 1. [Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence](https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln)
+📅 Thu, 22 Oct 2026 16:05:20 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png)
+
+Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 2. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 3. [Why does my JS make the browser scroll to the bottom of the page when switching to a section that's taller than the window height?](https://stackoverflow.com/questions/80012509/why-does-my-js-make-the-browser-scroll-to-the-bottom-of-the-page-when-switching)
+📅 Mon, 26 Oct 2026 00:24:07 GMT
+👤 By: Black Ink Games | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 3
+
+🏷️ Tags: `javascript`, `html`
+
+---
+
+#### 4. [How can I detect whether a font supports a specific Unicode character in JavaScript?](https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr)
+📅 Fri, 23 Oct 2026 18:50:36 GMT
+👤 By: George Joseph | 📌 Source: StackOverflow
+
+Stack Overflow question · 2 answers · score 7
+
+🏷️ Tags: `javascript`, `html`, `css`, `unicode`, `fonts`
+
+---
+
+#### 5. [Request for organic assistance debugging my fading-toolbar(JS)](https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs)
+📅 Fri, 23 Oct 2026 21:45:34 GMT
+👤 By: BoJacks JJ | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score -8
+
+🏷️ Tags: `javascript`, `html`, `css`
+
+---
+
+#### 6. [Can I run HTML files directly from GitHub, instead of just viewing their source?](https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source)
+📅 Fri, 01 Jul 2011 17:48:29 GMT
+👤 By: Domenic | 📌 Source: StackOverflow
+
+Stack Overflow question · 15 answers · score 332
+
+🏷️ Tags: `javascript`, `html`, `github`
+
+---
+
+#### 7. [How to have an element change its color during a scroll event and then revert back to its original color?](https://stackoverflow.com/questions/68809285/how-to-have-an-element-change-its-color-during-a-scroll-event-and-then-revert-ba)
+📅 Mon, 16 Aug 2021 21:13:21 GMT
+👤 By: Thraxen | 📌 Source: StackOverflow
+
+Stack Overflow question · 4 answers · score 2
+
+🏷️ Tags: `javascript`, `html`, `css`
+
+---
+
+#### 8. [Navbar active page](https://stackoverflow.com/questions/68826654/navbar-active-page)
+📅 Wed, 18 Aug 2021 04:40:23 GMT
+👤 By: bothsworth | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 1
+
+🏷️ Tags: `javascript`, `html`, `css`, `navbar`
+
+---
+
+#### 9. [How to Diagnose vite: not found After npm ci in a Container Build](https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/)
+📅 Wed, 21 Oct 2026 16:03:14 GMT
+👤 By: Ahmed Tariq | 📌 Source: freeCodeCamp
+
+I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure
+
+🏷️ Tags: `npm`, `Docker`, `Node.js`, `vite`
+
+---
+
+#### 10. [How to Make Your Coding Agent Check Its Work in the Browser](https://www.freecodecamp.org/news/how-to-make-your-coding-agent-check-its-work-in-the-browser/)
+📅 Tue, 20 Oct 2026 09:16:48 GMT
+👤 By: timothy ogbemudia | 📌 Source: freeCodeCamp
+
+I got tired of coding agents telling me the frontend work was done when nobody had opened the frontend. You've probably seen the routine. The agent changes some code, runs the formatter, the type chec
+
+🏷️ Tags: `playwright`, `AI`, `Web Development`, `Testing`, `Frontend Development`
+
+---
+
+### 🏷️ Mobile (5 articles)
+
+#### 1. [Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0](https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge)
+📅 Tue, 20 Oct 2026 04:34:20 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png)
+
+Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporting two-way reactive forms, Riverpod/BLoC interop, Flutter Material 3, and ANSI terminal TUIs.
+
+🏷️ Tags: `flutter`, `dart`, `ai`, `architecture`
+
+---
+
+#### 2. [Building a cross-platform Flutter festival assistant with llamadart](https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml)
+📅 Tue, 20 Oct 2026 13:00:00 GMT
+👤 By: Jhin Lee | 📌 Source: Dev.to
+
+![Building a cross-platform Flutter festival assistant with llamadart](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png)
+
+Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...
+
+🏷️ Tags: `flutter`, `tutorial`, `ai`, `dart`
+
+---
+
+#### 3. [Local image generation with llamadart for the Llama Village storybook](https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28)
+📅 Thu, 15 Oct 2026 13:56:36 GMT
+👤 By: Jhin Lee | 📌 Source: Dev.to
+
+![Local image generation with llamadart for the Llama Village storybook](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ixa6396m1ripr4zvpq7.png)
+
+Beyond chat with llamadart · Part 4  Dash missed it. Pip’s scarf is by the pond, and all he has is...
+
+🏷️ Tags: `tutorial`, `ai`, `dart`, `flutter`
+
+---
+
+#### 4. [rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。](https://github.com/rddmwmddr/android-ad-cleaner)
+📅 Sat, 24 Oct 2026 05:35:47 GMT
+👤 By: rddmwmddr | 📌 Source: GitHub
+
+![rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。](https://avatars.githubusercontent.com/u/5119232?v=4)
+
+关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 1,430
+
+---
+
+#### 5. [How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store](https://www.freecodecamp.org/news/build-publish-native-android-app-from-jetpack-compose-to-google-play-store-handbook/)
+📅 Mon, 19 Oct 2026 13:14:15 GMT
+👤 By: Nikheel Vishwas Savant | 📌 Source: freeCodeCamp
+
+Most Android tutorials stop at "it runs on the emulator." But getting an app from a blank project to a listing that real people can install from Google Play involves a second half that's rarely discus
+
+🏷️ Tags: `Android`, `jetpack`, `app`, `app development`, `handbook`
+
+---
+
+### 🏷️ Cloud (13 articles)
+
+#### 1. [Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs](https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb)
+📅 Tue, 20 Oct 2026 19:14:39 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fajukpnfpo90v31p2y6af.png)
+
+Automate root-cause incident triage on GKE by combining Gemini 4 Argon multi-step reasoning with the GKE Model Context Protocol server.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 2. [DuckLess: serverless DuckDB on Google Cloud, in your own project](https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a)
+📅 Thu, 15 Oct 2026 16:38:38 GMT
+👤 By: Mazlum Tosun | 📌 Source: Dev.to
+
+![DuckLess: serverless DuckDB on Google Cloud, in your own project](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Ftosun-si%2Fduckless%2Fmain%2Fassets%2Fbrand%2Fduckless-social.png)
+
+Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measured, and what I learned.
+
+🏷️ Tags: `duckdb`, `googlecloud`, `dataengineering`, `opensource`
+
+---
+
+#### 3. [Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale](https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60)
+📅 Mon, 19 Oct 2026 22:20:01 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37n9pwd6srn49y6chedd.png)
+
+Run untrusted LLM-generated Python and Bash code safely at scale using Gemini 4 Argon and GKE Agent Sandbox with gVisor isolation.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 4. [Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost](https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo)
+📅 Wed, 21 Oct 2026 18:56:20 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png)
+
+Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 5. [[Agent Platform in Practice (2)] From Monolithic Cloud Run to Google Cloud Agent Runtime: Refactoring LINE AI Business Card King](https://dev.to/gde/agent-platform-in-practice-2-from-monolithic-cloud-run-to-google-cloud-agent-runtime-bo1)
+📅 Tue, 20 Oct 2026 12:12:59 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[Agent Platform in Practice (2)] From Monolithic Cloud Run to Google Cloud Agent Runtime: Refactoring LINE AI Business Card King](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv26ia4v0iyw0egmy64ac.png)
+
+Recap   In the previous article, "[Agent Platform in Practice (1)] Building a LINE AI...
+
+🏷️ Tags: `agents`, `ai`, `architecture`, `go`
+
+---
+
+#### 6. [Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence](https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln)
+📅 Thu, 22 Oct 2026 16:05:20 GMT
+👤 By: Olivier Bourgeois | 📌 Source: Dev.to
+
+![Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png)
+
+Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.
+
+🏷️ Tags: `kubernetes`, `ai`, `gke`, `googlecloud`
+
+---
+
+#### 7. [Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine](https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c)
+📅 Wed, 14 Oct 2026 19:53:12 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png)
+
+Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.
+
+🏷️ Tags: `ai`, `programming`, `architecture`, `unix`
+
+---
+
+#### 8. [EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4](https://dev.to/gde/embeddinggemma-2-on-cloud-run-an-int8-cpu-service-against-an-nvidia-l4-15ac)
+📅 Tue, 13 Oct 2026 01:20:25 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fembedding-cloudrun%2Fmain%2Fdocs%2Farticles%2Fembeddinggemma-cloudrun%2Fdevto-cover.a2390bee.jpg)
+
+Step by step deployment of Google's EmbeddingGemma 2 text embeddings to Cloud Run, on a 1 vCPU instance with an int8 repack and on an NVIDIA L4, with tests, a semantic search demo, benchmarks and a cost per million documents.
+
+🏷️ Tags: `googlecloud`, `gemma`, `cloudrun`, `machinelearning`
+
+---
+
+#### 9. [Two ways to build with Claude models on Google Cloud!](https://dev.to/googleai/two-ways-to-build-with-claude-models-on-google-cloud-1mfe)
+📅 Thu, 22 Oct 2026 22:03:52 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Two ways to build with Claude models on Google Cloud!](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjdmfjcl5tswqewynrf6s.png)
+
+Choose Claude Models on Google Cloud (Google managed) for in-boundary security, regional data...
+
+🏷️ Tags: `claude`, `google`, `cloud`, `googlecloud`
+
+---
+
+#### 10. [From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform](https://dev.to/gde/from-vibe-coded-to-trusted-one-agent-through-build-scale-govern-and-optimize-on-gemini-4np1)
+📅 Fri, 16 Oct 2026 20:34:07 GMT
+👤 By: Jonathan Zhuo | 📌 Source: Dev.to
+
+![From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3yux0bl6lamy0lg6ig0.png)
+
+Building an agent is easy now. Trusting it is the hard part. Here's how I took one agent all the way,...
+
+🏷️ Tags: `googlecloud`, `ai`, `agents`, `security`
+
+---
+
+### 🏷️ Database (6 articles)
+
+#### 1. [Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath](https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02)
+📅 Fri, 16 Oct 2026 05:36:01 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj97kx6j7qepsx21z63a4.jpg)
+
+How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTelemetry/Prometheus observability stack for Oracle Databases and Linux SAN storage.
+
+🏷️ Tags: `oracle`, `go`, `opentelemetry`, `ai`
+
+---
+
+#### 2. [Cómo construí ora-tui: Un gestor en consola (TUI) en Go sin dependencias para Oracle RAC y Single Instance](https://dev.to/gde/como-construi-ora-tui-un-gestor-en-consola-tui-en-go-sin-dependencias-para-oracle-rac-y-single-1gc5)
+📅 Thu, 15 Oct 2026 07:21:10 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Cómo construí ora-tui: Un gestor en consola (TUI) en Go sin dependencias para Oracle RAC y Single Instance](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu1dmrbcfwxx6nym8jx2i.png)
+
+Descubre cómo diseñar una interfaz TUI en Go con marcos Unicode (┌─┐ / ╔═╗), auto-descubrimiento de clusters Oracle RAC y flujos de mantenimiento guiados por flechas sin depender de Oracle Instant Client.
+
+🏷️ Tags: `go`, `oracle`, `linux`, `database`
+
+---
+
+#### 3. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 4. [colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.](https://github.com/colinhacks/reylo)
+📅 Wed, 21 Oct 2026 00:16:54 GMT
+👤 By: colinhacks | 📌 Source: GitHub
+
+![colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.](https://avatars.githubusercontent.com/u/3084745?v=4)
+
+Import .sql files into TypeScript with full type inference and zero codegen.
+
+🏷️ Tags: `rust`, `github`, `open-source`
+
+⭐ Stars: 1,282
+
+---
+
+#### 5. [How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?](https://stackoverflow.com/questions/80012398/how-to-fix-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable-to)
+📅 Sun, 25 Oct 2026 10:15:26 GMT
+👤 By: Aradhya | 📌 Source: StackOverflow
+
+Stack Overflow question · 1 answers · score 1
+
+🏷️ Tags: `python`, `sqlite`, `sqlalchemy`, `model-context-protocol`
+
+---
+
+#### 6. [Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval](https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/)
+📅 Wed, 21 Oct 2026 11:42:44 GMT
+👤 By: Beau Carnes | 📌 Source: freeCodeCamp
+
+Most application search setups force a trade-off: settle for simple text filters, or manage a separate search cluster like Elasticsearch with complex synchronization pipelines. In a new video course o
+
+🏷️ Tags: `PostgreSQL`, `youtube`
+
+---
+
+### 🏷️ Security (19 articles)
+
+#### 1. [Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents](https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9)
+📅 Mon, 12 Oct 2026 21:03:17 GMT
+👤 By: dev.to staff | 📌 Source: Dev.to
+
+![Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png)
+
+Written by John Feminella  We now inhabit a world where agents can execute operations in production...
+
+🏷️ Tags: `ai`, `agents`, `security`, `aie`
+
+---
+
+#### 2. [Two ways to build with Claude models on Google Cloud!](https://dev.to/googleai/two-ways-to-build-with-claude-models-on-google-cloud-1mfe)
+📅 Thu, 22 Oct 2026 22:03:52 GMT
+👤 By: Jen Harvey | 📌 Source: Dev.to
+
+![Two ways to build with Claude models on Google Cloud!](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjdmfjcl5tswqewynrf6s.png)
+
+Choose Claude Models on Google Cloud (Google managed) for in-boundary security, regional data...
+
+🏷️ Tags: `claude`, `google`, `cloud`, `googlecloud`
+
+---
+
+#### 3. [From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform](https://dev.to/gde/from-vibe-coded-to-trusted-one-agent-through-build-scale-govern-and-optimize-on-gemini-4np1)
+📅 Fri, 16 Oct 2026 20:34:07 GMT
+👤 By: Jonathan Zhuo | 📌 Source: Dev.to
+
+![From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3yux0bl6lamy0lg6ig0.png)
+
+Building an agent is easy now. Trusting it is the hard part. Here's how I took one agent all the way,...
+
+🏷️ Tags: `googlecloud`, `ai`, `agents`, `security`
+
+---
+
+#### 4. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 5. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+📅 Tue, 21 Jul 2026 20:09:52 GMT
+👤 By: mfiguiere | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Security advisory: Critical remote code execution vulnerabilities, update now](https://www.php.net/archive/2026.php#2026-10-21-5)
+📅 Tue, 20 Oct 2026 20:15:50 GMT
+👤 By: xd | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (45 articles)
+
+#### 1. [Building a Cross-Model Collaborative Workflow with Google Antigravity](https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5)
+📅 Thu, 22 Oct 2026 13:05:33 GMT
+👤 By: JimmyLiao | 📌 Source: Dev.to
+
+![Building a Cross-Model Collaborative Workflow with Google Antigravity](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F77ea9kn1289e1qozuen1.png)
+
+Orchestrating Multiple AI Agents in Parallel via Custom Skills   Series 1/2: Multi-Model...
+
+🏷️ Tags: `gemini`, `devtools`, `programming`, `agents`
+
+---
+
+#### 2. [926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS](https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca)
+📅 Thu, 22 Oct 2026 23:51:30 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png)
+
+A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.
+
+🏷️ Tags: `ai`, `programming`, `architecture`, `unix`
+
+---
+
+#### 3. [I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me](https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7)
+📅 Wed, 21 Oct 2026 16:59:00 GMT
+👤 By: Paul Horton | 📌 Source: Dev.to
+
+![I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsz6wqckn1mxagladj1ln.png)
+
+This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...
+
+🏷️ Tags: `devchallenge`, `hf26challenge`, `tigerdata`, `githubcopilot`
+
+---
+
+#### 4. [Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?](https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4)
+📅 Tue, 13 Oct 2026 00:57:26 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmodel-sweep%2Fmain%2Farticle%2Fdevto-cover.a42e27c5.jpg)
+
+Fourteen Apache-2.0 and MIT open-weight models that fit one TPU v5e chip, served one after another through vLLM on the same pinned image and scored on GSM8K and BFCL against Gemma 4 E2B. Qwen3-4B matches Gemma's accuracy at 0.57x its output, SmolLM3-3B and Granite 3.3 2B match it on tool calls, and Gemma keeps the lead on long prompts.
+
+🏷️ Tags: `tpu`, `vllm`, `gemma`, `llm`
+
+---
+
+#### 5. [SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest](https://dev.to/gde/slothsre-napops-an-overnight-gemma-4-adk-agent-that-compresses-418-lines-of-3-am-alerts-into-a-1pk6)
+📅 Wed, 21 Oct 2026 15:28:00 GMT
+👤 By: Robina Mirbahar | 📌 Source: Dev.to
+
+![SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fslothsre-napops%2Fmain%2Farticles%2Fslothsre-napops%2Fcover.1eb32148.jpg)
+
+How I built a local-first open-weights Gemma 4, Google ADK, and Sentry Agent Tracing pipeline that deduplicates overnight stack traces, verifies git patches in a local pytest sandbox, and lets on-call engineers sleep until 8 AM.
+
+🏷️ Tags: `devchallenge`, `hf26challenge`, `gemma`, `opensource`
+
+---
+
+#### 6. [What 1,368 Real-World AI Incidents Teach Us About Evaluation](https://dev.to/dailycontext/what-1368-real-world-ai-incidents-teach-us-about-evaluation-71p)
+📅 Mon, 12 Oct 2026 21:03:06 GMT
+👤 By: Vishal Srivastava | 📌 Source: Dev.to
+
+![What 1,368 Real-World AI Incidents Teach Us About Evaluation](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4yw0p94syuwbx8fe782v.png)
+
+AI evaluation has become increasingly sophisticated at testing individual models. We measure...
+
+🏷️ Tags: `ai`, `machinelearning`, `testing`, `aie`
+
+---
+
+#### 7. [AI Needs a Test That Fights Back](https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17)
+📅 Mon, 12 Oct 2026 21:03:49 GMT
+👤 By: Ramakrishnan Lokanathan | 📌 Source: Dev.to
+
+![AI Needs a Test That Fights Back](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png)
+
+One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...
+
+🏷️ Tags: `ai`, `opensource`, `testing`, `aie`
+
+---
+
+#### 8. [Google Workspace Studio Tutorial: Batch Lead Outreach with the "Repeat for each" Loop](https://dev.to/gde/google-workspace-studio-tutorial-batch-lead-outreach-with-the-repeat-for-each-loop-5ajl)
+📅 Sat, 17 Oct 2026 14:16:27 GMT
+👤 By: Aryan Irani | 📌 Source: Dev.to
+
+![Google Workspace Studio Tutorial: Batch Lead Outreach with the "Repeat for each" Loop](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fozkghqhh1xzmbkv45its.png)
+
+If you work in sales or run your own business, you probably have a Google Sheet somewhere that acts...
+
+🏷️ Tags: `ai`, `automation`, `productivity`, `tutorial`
+
+---
+
+#### 9. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
