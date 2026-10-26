@@ -1,19 +1,19 @@
 {
   "AI": [
     {
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
-      "published_at": "2026-10-22T04:31:09Z",
-      "description": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
+      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
+      "url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0",
+      "published_at": "2026-10-25T06:45:27Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
       "tags": [
+        "devchallenge",
+        "hf26challenge",
         "ai",
-        "discuss",
-        "career",
-        "programming"
+        "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw41tloy7yvhtkzh9237.png",
       "source": "Dev.to",
-      "user": "Adam - The Developer ✨"
+      "user": "Khushighosh"
     },
     {
       "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
@@ -46,21 +46,6 @@
       "user": "JimmyLiao"
     },
     {
-      "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
-      "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
-      "published_at": "2026-10-21T16:59:00Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "tigerdata",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsz6wqckn1mxagladj1ln.png",
-      "source": "Dev.to",
-      "user": "Paul Horton"
-    },
-    {
       "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
       "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
       "published_at": "2026-10-22T23:51:30Z",
@@ -74,6 +59,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Don't Be a Proxy Between Me and Your AI",
+      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
+      "published_at": "2026-10-22T04:31:09Z",
+      "description": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
+      "tags": [
+        "ai",
+        "discuss",
+        "career",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
+      "source": "Dev.to",
+      "user": "Adam - The Developer ✨"
     },
     {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
@@ -121,21 +121,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-2-side-hustle-winners-2i33",
-      "published_at": "2026-10-23T20:18:31Z",
-      "description": "We're excited to announce the winners of the Hacktoberfest Open-Source AI Challenge Week 2: Side...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "softwaredevelopment"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcp9oenpjux05n1wl6od.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
       "url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60",
       "published_at": "2026-10-19T22:20:01Z",
@@ -166,21 +151,6 @@
       "user": "Tanaike"
     },
     {
-      "title": "Congrats to the Sanity Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-sanity-challenge-winners-1140",
-      "published_at": "2026-10-22T15:53:41Z",
-      "description": "We are thrilled to announce the winners of the Sanity Challenge, our partnership with Sanity built...",
-      "tags": [
-        "devchallenge",
-        "sanitychallenge",
-        "sanity",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fai84dn5sg47787tv3qsi.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
       "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
       "published_at": "2026-10-21T18:56:20Z",
@@ -194,6 +164,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
+      "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
+      "published_at": "2026-10-21T16:59:00Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "tigerdata",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsz6wqckn1mxagladj1ln.png",
+      "source": "Dev.to",
+      "user": "Paul Horton"
     },
     {
       "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
@@ -316,6 +301,21 @@
       "user": "Tom Wheeler"
     },
     {
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-2-side-hustle-winners-2i33",
+      "published_at": "2026-10-23T20:18:31Z",
+      "description": "We're excited to announce the winners of the Hacktoberfest Open-Source AI Challenge Week 2: Side...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "softwaredevelopment"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjcp9oenpjux05n1wl6od.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
       "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
       "published_at": "2026-10-16T17:40:16Z",
@@ -344,6 +344,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Congrats to the Sanity Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-sanity-challenge-winners-1140",
+      "published_at": "2026-10-22T15:53:41Z",
+      "description": "We are thrilled to announce the winners of the Sanity Challenge, our partnership with Sanity built...",
+      "tags": [
+        "devchallenge",
+        "sanitychallenge",
+        "sanity",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fai84dn5sg47787tv3qsi.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4",
@@ -600,21 +615,6 @@
       "user": "Jhin Lee"
     },
     {
-      "title": "Agents Can’t Decide What’s Okay to Break",
-      "url": "https://dev.to/dailycontext/agents-cant-decide-whats-okay-to-break-3ncg",
-      "published_at": "2026-10-12T20:58:59Z",
-      "description": "There’s a lot of discourse out there about the engineering bottleneck moving from time spent writing...",
-      "tags": [
-        "hacktoberfest",
-        "security",
-        "aie",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1c9g07s7eu5njl88gski.png",
-      "source": "Dev.to",
-      "user": "Jonathan Gottfried"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1397,
+      "stars": 1403,
       "user": "openai"
     },
     {
@@ -809,38 +809,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1790,
+      "stars": 1800,
       "user": "ikow"
     },
     {
-      "title": "Snapintosh/Snapintosh - EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-      "url": "https://github.com/Snapintosh/Snapintosh",
-      "published_at": "2026-10-22T01:40:05Z",
-      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "published_at": "2026-10-24T05:35:47Z",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/346728985?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 942,
-      "user": "Snapintosh"
+      "stars": 1072,
+      "user": "rddmwmddr"
     },
     {
-      "title": "Shaitrish/37studio - Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
-      "url": "https://github.com/Shaitrish/37studio",
-      "published_at": "2026-10-23T00:26:52Z",
-      "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
+      "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
+      "url": "https://github.com/DrWhax/unfairplay",
+      "published_at": "2026-10-25T21:22:20Z",
+      "description": "Decrypt IPA's on MacOS",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/174145742?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 65,
-      "user": "Shaitrish"
+      "stars": 98,
+      "user": "DrWhax"
     },
     {
       "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
@@ -854,14 +854,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "qianshuixia"
+    },
+    {
+      "title": "“AI Skills” are worthless in 2026",
+      "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+      "published_at": "2026-10-25T19:23:42.695-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai-tooling",
+        "practices"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ubernostrum"
     },
     {
       "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
       "url": "https://stackoverflow.com/questions/80012090/godaddy-shared-hosting-returns-javascript-bot-verification-instead-of-php-api-js",
       "published_at": "2026-10-23T14:44:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "php"
@@ -1032,21 +1045,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "Block&#8217;s new voice model sounds eerily human",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "published_at": "2026-10-24T16:00:00.000Z",
-      "description": "Block said that the voice model can run locally on a MacBook M4 Max",
-      "tags": [
-        "AI",
-        "block",
-        "jack dorsey",
-        "voice AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
@@ -1302,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1397,
+      "stars": 1403,
       "user": "openai"
     },
     {
@@ -1317,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 624,
       "user": "nthnclrk"
     },
     {
@@ -1332,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 440,
       "user": "WoYun520"
     },
     {
@@ -1347,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 361,
       "user": "mrdoob"
     },
     {
@@ -1362,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 359,
       "user": "misshexa66"
     },
     {
@@ -1377,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 870,
       "user": "designfuchen"
     },
     {
@@ -1392,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 414,
       "user": "surendrapandar"
     },
     {
@@ -1407,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 299,
       "user": "agharsallah"
     },
     {
@@ -1422,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 289,
       "user": "quanhoangindex"
     },
     {
@@ -1437,7 +1435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "qianshuixia"
     },
     {
@@ -1452,8 +1450,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1263,
+      "stars": 1269,
       "user": "colinhacks"
+    },
+    {
+      "title": "Why does my JS make the browser scroll to the bottom of the page when switching to a section that's taller than the window height?",
+      "url": "https://stackoverflow.com/questions/80012509/why-does-my-js-make-the-browser-scroll-to-the-bottom-of-the-page-when-switching",
+      "published_at": "2026-10-26T00:24:07.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Black Ink Games"
     },
     {
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
@@ -1472,19 +1483,6 @@
       "user": "George Joseph"
     },
     {
-      "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
-      "url": "https://stackoverflow.com/questions/80012090/godaddy-shared-hosting-returns-javascript-bot-verification-instead-of-php-api-js",
-      "published_at": "2026-10-23T14:44:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "php"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muntadhar Muayyad"
-    },
-    {
       "title": "Request for organic assistance debugging my fading-toolbar(JS)",
       "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
       "published_at": "2026-10-23T21:45:34.000Z",
@@ -1499,18 +1497,17 @@
       "user": "BoJacks JJ"
     },
     {
-      "title": "Reddit devvit stops with no error while fetching comments. What is happening and how would i circumvent this?",
-      "url": "https://stackoverflow.com/questions/80012182/reddit-devvit-stops-with-no-error-while-fetching-comments-what-is-happening-and",
-      "published_at": "2026-10-24T00:44:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
+      "url": "https://stackoverflow.com/questions/80012090/godaddy-shared-hosting-returns-javascript-bot-verification-instead-of-php-api-js",
+      "published_at": "2026-10-23T14:44:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
-        "express",
-        "reddit"
+        "php"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Asger &#216;rmen Dalmeijer"
+      "user": "Muntadhar Muayyad"
     },
     {
       "title": "How to integrate a USB/Bluetooth barcode scanner with a web app on Hostinger for student attendance?",
@@ -1541,6 +1538,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Elias Zamaria"
+    },
+    {
+      "title": "how to reset <input type = \"file\"> in Angular",
+      "url": "https://stackoverflow.com/questions/20549241/how-to-reset-input-type-file-in-angular",
+      "published_at": "2013-12-12T16:46:23.000Z",
+      "description": "Stack Overflow question · 29 answers · score 562",
+      "tags": [
+        "javascript",
+        "angular"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jesus"
     },
     {
       "title": "How to check in Javascript if one element is contained within another",
@@ -1585,19 +1595,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kirasiris"
-    },
-    {
-      "title": "TypeError: Cannot read properties of undefined (reading 'endsWith')",
-      "url": "https://stackoverflow.com/questions/72083563/typeerror-cannot-read-properties-of-undefined-reading-endswith",
-      "published_at": "2022-05-02T07:31:12.000Z",
-      "description": "Stack Overflow question · 5 answers · score -1",
-      "tags": [
-        "javascript",
-        "sorting"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Chukwuemeka"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -1809,7 +1806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1790,
+      "stars": 1800,
       "user": "ikow"
     },
     {
@@ -1824,7 +1821,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1611,
+      "stars": 1717,
       "user": "Jakeschincariol"
     },
     {
@@ -1839,8 +1836,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1444,
       "user": "9bie"
+    },
+    {
+      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "published_at": "2026-10-24T05:35:47Z",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
+      "source": "GitHub",
+      "stars": 1072,
+      "user": "rddmwmddr"
     },
     {
       "title": "eagle-hq/EAGLE-4 - Official Inference Code of EAGLE-4",
@@ -1854,23 +1866,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 993,
       "user": "eagle-hq"
-    },
-    {
-      "title": "Snapintosh/Snapintosh - EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-      "url": "https://github.com/Snapintosh/Snapintosh",
-      "published_at": "2026-10-22T01:40:05Z",
-      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/346728985?v=4",
-      "source": "GitHub",
-      "stars": 942,
-      "user": "Snapintosh"
     },
     {
       "title": "ValueError: failed to validate MultiPolygons when trying to create interactive map using Carto basemap and geopandas",
@@ -1974,19 +1971,6 @@
       "user": "Shiny_and_Chrome"
     },
     {
-      "title": "Writing code to plot the trajectory of a particle undergoing projectile motion, then a graph of the kinetic energy ratio vs launch angle",
-      "url": "https://stackoverflow.com/questions/80012268/writing-code-to-plot-the-trajectory-of-a-particle-undergoing-projectile-motion",
-      "published_at": "2026-10-24T13:54:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "physics"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Calumjt.13"
-    },
-    {
       "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
       "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
       "published_at": "2026-10-22T17:09:57.000Z",
@@ -2000,6 +1984,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "pg27"
+    },
+    {
+      "title": "Writing code to plot the trajectory of a particle undergoing projectile motion, then a graph of the kinetic energy ratio vs launch angle",
+      "url": "https://stackoverflow.com/questions/80012268/writing-code-to-plot-the-trajectory-of-a-particle-undergoing-projectile-motion",
+      "published_at": "2026-10-24T13:54:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "physics"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Calumjt.13"
     },
     {
       "title": "Alternative import hook for modifying source code before compiling",
@@ -2273,6 +2270,19 @@
       "user": "velmu"
     },
     {
+      "title": "Why does my JS make the browser scroll to the bottom of the page when switching to a section that's taller than the window height?",
+      "url": "https://stackoverflow.com/questions/80012509/why-does-my-js-make-the-browser-scroll-to-the-bottom-of-the-page-when-switching",
+      "published_at": "2026-10-26T00:24:07.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Black Ink Games"
+    },
+    {
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
@@ -2379,6 +2389,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ixa6396m1ripr4zvpq7.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
+    },
+    {
+      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "published_at": "2026-10-24T05:35:47Z",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
+      "source": "GitHub",
+      "stars": 1072,
+      "user": "rddmwmddr"
     },
     {
       "title": "How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store",
@@ -2519,20 +2544,6 @@
       "user": "xbill"
     },
     {
-      "title": "Multi-Model Agentic Workflows: Claude Opus 5.5 & Sonnet 5.5 Land in Google Antigravity 🚀",
-      "url": "https://dev.to/googleai/multi-model-agentic-workflows-claude-opus-55-sonnet-55-land-in-google-antigravity-2kmb",
-      "published_at": "2026-10-20T17:56:15Z",
-      "description": "Different software engineering problems require different model strengths. While a quick lint fix or...",
-      "tags": [
-        "claude",
-        "cloud",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5p2rys63nm52z4q5ngf2.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Two ways to build with Claude models on Google Cloud!",
       "url": "https://dev.to/googleai/two-ways-to-build-with-claude-models-on-google-cloud-1mfe",
       "published_at": "2026-10-22T22:03:52Z",
@@ -2574,7 +2585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "qianshuixia"
     },
     {
@@ -2664,7 +2675,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1263,
+      "stars": 1269,
       "user": "colinhacks"
     },
     {
@@ -2755,21 +2766,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3yux0bl6lamy0lg6ig0.png",
       "source": "Dev.to",
       "user": "Jonathan Zhuo"
-    },
-    {
-      "title": "Agents Can’t Decide What’s Okay to Break",
-      "url": "https://dev.to/dailycontext/agents-cant-decide-whats-okay-to-break-3ncg",
-      "published_at": "2026-10-12T20:58:59Z",
-      "description": "There’s a lot of discourse out there about the engineering bottleneck moving from time spent writing...",
-      "tags": [
-        "hacktoberfest",
-        "security",
-        "aie",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1c9g07s7eu5njl88gski.png",
-      "source": "Dev.to",
-      "user": "Jonathan Gottfried"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2915,7 +2911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1790,
+      "stars": 1800,
       "user": "ikow"
     },
     {
@@ -2989,21 +2985,6 @@
       "user": "JimmyLiao"
     },
     {
-      "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
-      "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
-      "published_at": "2026-10-21T16:59:00Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "tigerdata",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsz6wqckn1mxagladj1ln.png",
-      "source": "Dev.to",
-      "user": "Paul Horton"
-    },
-    {
       "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
       "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
       "published_at": "2026-10-22T23:51:30Z",
@@ -3017,6 +2998,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
+      "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
+      "published_at": "2026-10-21T16:59:00Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "tigerdata",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsz6wqckn1mxagladj1ln.png",
+      "source": "Dev.to",
+      "user": "Paul Horton"
     },
     {
       "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
@@ -3141,7 +3137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1397,
+      "stars": 1403,
       "user": "openai"
     },
     {
@@ -3156,7 +3152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 624,
       "user": "nthnclrk"
     },
     {
@@ -3171,7 +3167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 440,
       "user": "WoYun520"
     },
     {
@@ -3186,7 +3182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 359,
+      "stars": 361,
       "user": "mrdoob"
     },
     {
@@ -3201,7 +3197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 324,
+      "stars": 359,
       "user": "misshexa66"
     },
     {
@@ -3216,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1790,
+      "stars": 1800,
       "user": "ikow"
     },
     {
@@ -3231,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1611,
+      "stars": 1717,
       "user": "Jakeschincariol"
     },
     {
@@ -3246,8 +3242,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1434,
+      "stars": 1444,
       "user": "9bie"
+    },
+    {
+      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "published_at": "2026-10-24T05:35:47Z",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
+      "source": "GitHub",
+      "stars": 1072,
+      "user": "rddmwmddr"
     },
     {
       "title": "eagle-hq/EAGLE-4 - Official Inference Code of EAGLE-4",
@@ -3261,23 +3272,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 989,
+      "stars": 993,
       "user": "eagle-hq"
-    },
-    {
-      "title": "Snapintosh/Snapintosh - EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-      "url": "https://github.com/Snapintosh/Snapintosh",
-      "published_at": "2026-10-22T01:40:05Z",
-      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/346728985?v=4",
-      "source": "GitHub",
-      "stars": 942,
-      "user": "Snapintosh"
     },
     {
       "title": "Fluepke/emudrahahahahaha - Private Keys",
@@ -3306,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 124,
       "user": "tractordev"
     },
     {
@@ -3321,8 +3317,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/190185029?v=4",
       "source": "GitHub",
-      "stars": 103,
+      "stars": 104,
       "user": "xue-y-su"
+    },
+    {
+      "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
+      "url": "https://github.com/DrWhax/unfairplay",
+      "published_at": "2026-10-25T21:22:20Z",
+      "description": "Decrypt IPA's on MacOS",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
+      "source": "GitHub",
+      "stars": 98,
+      "user": "DrWhax"
     },
     {
       "title": "aancw/php2shell-scanner - Scanner for PHP2Shell (CVE-2026-109618/109619): URL blackbox, local device and SSH.",
@@ -3336,23 +3347,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284204?v=4",
       "source": "GitHub",
-      "stars": 89,
+      "stars": 92,
       "user": "aancw"
-    },
-    {
-      "title": "Shaitrish/37studio - Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
-      "url": "https://github.com/Shaitrish/37studio",
-      "published_at": "2026-10-23T00:26:52Z",
-      "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/174145742?v=4",
-      "source": "GitHub",
-      "stars": 65,
-      "user": "Shaitrish"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
@@ -3366,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 471,
+      "stars": 870,
       "user": "designfuchen"
     },
     {
@@ -3381,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 414,
       "user": "surendrapandar"
     },
     {
@@ -3396,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 299,
       "user": "agharsallah"
     },
     {
@@ -3411,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
       "source": "GitHub",
-      "stars": 282,
+      "stars": 289,
       "user": "quanhoangindex"
     },
     {
@@ -3426,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 270,
       "user": "qianshuixia"
     },
     {
@@ -3441,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 1936,
+      "stars": 1965,
       "user": "xevrion"
     },
     {
@@ -3456,23 +3452,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1263,
+      "stars": 1269,
       "user": "colinhacks"
-    },
-    {
-      "title": "morganlinton/BeautifulRust - A Claude Code plugin that teaches Claude to write idiomatic, robust Rust",
-      "url": "https://github.com/morganlinton/BeautifulRust",
-      "published_at": "2026-10-23T03:01:11Z",
-      "description": "A Claude Code plugin that teaches Claude to write idiomatic, robust Rust",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
-      "source": "GitHub",
-      "stars": 721,
-      "user": "morganlinton"
     },
     {
       "title": "dominikmartn/harp - Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
@@ -3486,8 +3467,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 625,
       "user": "dominikmartn"
+    },
+    {
+      "title": "mizorewww/gdirect - Rust Google Drive direct downloader using pinned libaria2",
+      "url": "https://github.com/mizorewww/gdirect",
+      "published_at": "2026-10-25T05:52:22Z",
+      "description": "Rust Google Drive direct downloader using pinned libaria2",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
+      "source": "GitHub",
+      "stars": 615,
+      "user": "mizorewww"
     },
     {
       "title": "torrentplayer/torrentplayer - Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.",
@@ -3501,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345837424?v=4",
       "source": "GitHub",
-      "stars": 596,
+      "stars": 604,
       "user": "torrentplayer"
     },
     {
@@ -3516,6 +3512,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "hoistbypetard"
+    },
+    {
+      "title": "“AI Skills” are worthless in 2026",
+      "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+      "published_at": "2026-10-25T19:23:42.695-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai-tooling",
+        "practices"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ubernostrum"
     },
     {
       "title": "Building Java ME Apps with Modern Tooling",
