@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1395,
+      "stars": 1397,
       "user": "openai"
     },
     {
@@ -809,20 +809,66 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1788,
+      "stars": 1790,
       "user": "ikow"
     },
     {
-      "title": "Balloting has completed for C++26. Unfortunately it was Disapproved",
-      "url": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
-      "published_at": "2026-10-24T13:00:36.212-05:00",
-      "description": "tl;dr: it looks like C++ 26 got turned down by the national bodies (afaik unprecedented)",
+      "title": "Snapintosh/Snapintosh - EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+      "url": "https://github.com/Snapintosh/Snapintosh",
+      "published_at": "2026-10-22T01:40:05Z",
+      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
       "tags": [
-        "c++"
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/346728985?v=4",
+      "source": "GitHub",
+      "stars": 942,
+      "user": "Snapintosh"
+    },
+    {
+      "title": "Shaitrish/37studio - Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
+      "url": "https://github.com/Shaitrish/37studio",
+      "published_at": "2026-10-23T00:26:52Z",
+      "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/174145742?v=4",
+      "source": "GitHub",
+      "stars": 65,
+      "user": "Shaitrish"
+    },
+    {
+      "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "url": "https://github.com/qianshuixia/shrimpreel",
+      "published_at": "2026-10-20T18:08:00Z",
+      "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
+      "source": "GitHub",
+      "stars": 269,
+      "user": "qianshuixia"
+    },
+    {
+      "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
+      "url": "https://stackoverflow.com/questions/80012090/godaddy-shared-hosting-returns-javascript-bot-verification-instead-of-php-api-js",
+      "published_at": "2026-10-23T14:44:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "php"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mond"
+      "source": "StackOverflow",
+      "user": "Muntadhar Muayyad"
     },
     {
       "title": "How to check in Javascript if one element is contained within another",
@@ -841,7 +887,7 @@
       "title": "ValueError: failed to validate MultiPolygons when trying to create interactive map using Carto basemap and geopandas",
       "url": "https://stackoverflow.com/questions/80012435/valueerror-failed-to-validate-multipolygons-when-trying-to-create-interactive-m",
       "published_at": "2026-10-25T15:06:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "geospatial",
@@ -1256,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1395,
+      "stars": 1397,
       "user": "openai"
     },
     {
@@ -1271,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 613,
       "user": "nthnclrk"
     },
     {
@@ -1286,83 +1332,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 439,
       "user": "WoYun520"
     },
     {
-      "title": "typecraft-dev/oma-cast - omarchy rebuild of raycast",
-      "url": "https://github.com/typecraft-dev/oma-cast",
-      "published_at": "2026-10-19T17:48:58Z",
-      "description": "omarchy rebuild of raycast",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
-      "source": "GitHub",
-      "stars": 422,
-      "user": "typecraft-dev"
-    },
-    {
-      "title": "blendi-remade/prompt2rig - Type a motion, watch a rigged character perform it: fast video model + GVHMR + live Mixamo retargeting",
-      "url": "https://github.com/blendi-remade/prompt2rig",
-      "published_at": "2026-10-19T09:29:42Z",
-      "description": "Type a motion, watch a rigged character perform it: fast video model + GVHMR + live Mixamo retargeting",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
-      "source": "GitHub",
-      "stars": 418,
-      "user": "blendi-remade"
-    },
-    {
-      "title": "stackedlol/ascii-sharks - ascii shark components in typescript",
-      "url": "https://github.com/stackedlol/ascii-sharks",
-      "published_at": "2026-10-19T21:54:19Z",
-      "description": "ascii shark components in typescript",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
-      "source": "GitHub",
-      "stars": 832,
-      "user": "stackedlol"
-    },
-    {
-      "title": "VictorTaelin/uniichat - GitHub Repository",
-      "url": "https://github.com/VictorTaelin/uniichat",
-      "published_at": "2026-10-19T15:26:48Z",
+      "title": "mrdoob/slop-newyork - GitHub Repository",
+      "url": "https://github.com/mrdoob/slop-newyork",
+      "published_at": "2026-10-20T09:16:37Z",
       "description": "Trending GitHub Repository",
       "tags": [
-        "typescript",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 594,
-      "user": "VictorTaelin"
+      "stars": 359,
+      "user": "mrdoob"
     },
     {
-      "title": "vercel-labs/fx0 - A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
-      "url": "https://github.com/vercel-labs/fx0",
-      "published_at": "2026-10-19T17:27:02Z",
-      "description": "A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
+      "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+      "url": "https://github.com/misshexa66/OunceCake",
+      "published_at": "2026-10-25T14:12:41Z",
+      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
       "tags": [
-        "typescript",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 403,
-      "user": "vercel-labs"
+      "stars": 324,
+      "user": "misshexa66"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
@@ -1376,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 471,
       "user": "designfuchen"
     },
     {
@@ -1391,8 +1392,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 323,
       "user": "surendrapandar"
+    },
+    {
+      "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
+      "url": "https://github.com/agharsallah/esp-labs-web",
+      "published_at": "2026-10-21T13:40:04Z",
+      "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
+      "source": "GitHub",
+      "stars": 284,
+      "user": "agharsallah"
+    },
+    {
+      "title": "quanhoangindex/ascii-reveal - GitHub Repository",
+      "url": "https://github.com/quanhoangindex/ascii-reveal",
+      "published_at": "2026-10-21T12:12:04Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
+      "source": "GitHub",
+      "stars": 282,
+      "user": "quanhoangindex"
+    },
+    {
+      "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "url": "https://github.com/qianshuixia/shrimpreel",
+      "published_at": "2026-10-20T18:08:00Z",
+      "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
+      "source": "GitHub",
+      "stars": 269,
+      "user": "qianshuixia"
     },
     {
       "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
@@ -1406,7 +1452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1263,
       "user": "colinhacks"
     },
     {
@@ -1424,6 +1470,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
+    },
+    {
+      "title": "GoDaddy shared hosting returns JavaScript bot verification instead of PHP API JSON for certain ISPs",
+      "url": "https://stackoverflow.com/questions/80012090/godaddy-shared-hosting-returns-javascript-bot-verification-instead-of-php-api-js",
+      "published_at": "2026-10-23T14:44:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "php"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muntadhar Muayyad"
     },
     {
       "title": "Request for organic assistance debugging my fading-toolbar(JS)",
@@ -1539,20 +1598,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chukwuemeka"
-    },
-    {
-      "title": "How to have an element change its color during a scroll event and then revert back to its original color?",
-      "url": "https://stackoverflow.com/questions/68809285/how-to-have-an-element-change-its-color-during-a-scroll-event-and-then-revert-ba",
-      "published_at": "2021-08-16T21:13:21.000Z",
-      "description": "Stack Overflow question · 4 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Thraxen"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -1764,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1788,
+      "stars": 1790,
       "user": "ikow"
     },
     {
@@ -1779,7 +1824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1567,
+      "stars": 1611,
       "user": "Jakeschincariol"
     },
     {
@@ -1794,7 +1839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1429,
+      "stars": 1434,
       "user": "9bie"
     },
     {
@@ -1809,29 +1854,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 988,
+      "stars": 989,
       "user": "eagle-hq"
     },
     {
-      "title": "UniXNU/UniXNU - Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
-      "url": "https://github.com/UniXNU/UniXNU",
-      "published_at": "2026-10-19T10:46:55Z",
-      "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
+      "title": "Snapintosh/Snapintosh - EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+      "url": "https://github.com/Snapintosh/Snapintosh",
+      "published_at": "2026-10-22T01:40:05Z",
+      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/346728985?v=4",
       "source": "GitHub",
-      "stars": 984,
-      "user": "UniXNU"
+      "stars": 942,
+      "user": "Snapintosh"
     },
     {
       "title": "ValueError: failed to validate MultiPolygons when trying to create interactive map using Carto basemap and geopandas",
       "url": "https://stackoverflow.com/questions/80012435/valueerror-failed-to-validate-multipolygons-when-trying-to-create-interactive-m",
       "published_at": "2026-10-25T15:06:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "geospatial",
@@ -1842,6 +1887,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Honeywood"
+    },
+    {
+      "title": "How can I ensure a 20 microsecond cycle during real time testing?",
+      "url": "https://stackoverflow.com/questions/80012365/how-can-i-ensure-a-20-microsecond-cycle-during-real-time-testing",
+      "published_at": "2026-10-25T03:40:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "advice",
+        "python",
+        "testing",
+        "jitter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kay90"
     },
     {
       "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
@@ -1855,34 +1915,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aradhya"
-    },
-    {
-      "title": "How to ignore other files other than Python file",
-      "url": "https://stackoverflow.com/questions/80012373/how-to-ignore-other-files-other-than-python-file",
-      "published_at": "2026-10-25T05:17:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "command-line"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Vedha"
-    },
-    {
-      "title": "Possible software solution on how to ensure a 20 microsecond cycle during real time testing",
-      "url": "https://stackoverflow.com/questions/80012365/possible-software-solution-on-how-to-ensure-a-20-microsecond-cycle-during-real-t",
-      "published_at": "2026-10-25T03:40:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "advice",
-        "python",
-        "testing",
-        "jitter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kay90"
     },
     {
       "title": "Setting italic conditional formatting in Openpyxl",
@@ -1968,6 +2000,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "pg27"
+    },
+    {
+      "title": "Alternative import hook for modifying source code before compiling",
+      "url": "https://stackoverflow.com/questions/80011839/alternative-import-hook-for-modifying-source-code-before-compiling",
+      "published_at": "2026-10-22T12:13:19.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "import-hooks"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2228,21 +2273,6 @@
       "user": "velmu"
     },
     {
-      "title": "vercel-labs/fx0 - A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
-      "url": "https://github.com/vercel-labs/fx0",
-      "published_at": "2026-10-19T17:27:02Z",
-      "description": "A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
-      "source": "GitHub",
-      "stars": 403,
-      "user": "vercel-labs"
-    },
-    {
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
@@ -2271,20 +2301,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "BoJacks JJ"
-    },
-    {
-      "title": "How to have an element change its color during a scroll event and then revert back to its original color?",
-      "url": "https://stackoverflow.com/questions/68809285/how-to-have-an-element-change-its-color-during-a-scroll-event-and-then-revert-ba",
-      "published_at": "2021-08-16T21:13:21.000Z",
-      "description": "Stack Overflow question · 4 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Thraxen"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -2363,21 +2379,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ixa6396m1ripr4zvpq7.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
-    },
-    {
-      "title": "UniXNU/UniXNU - Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
-      "url": "https://github.com/UniXNU/UniXNU",
-      "published_at": "2026-10-19T10:46:55Z",
-      "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
-      "source": "GitHub",
-      "stars": 984,
-      "user": "UniXNU"
     },
     {
       "title": "How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store",
@@ -2532,6 +2533,21 @@
       "user": "Jen Harvey"
     },
     {
+      "title": "Two ways to build with Claude models on Google Cloud!",
+      "url": "https://dev.to/googleai/two-ways-to-build-with-claude-models-on-google-cloud-1mfe",
+      "published_at": "2026-10-22T22:03:52Z",
+      "description": "Choose Claude Models on Google Cloud (Google managed) for in-boundary security, regional data...",
+      "tags": [
+        "claude",
+        "google",
+        "cloud",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjdmfjcl5tswqewynrf6s.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform",
       "url": "https://dev.to/gde/from-vibe-coded-to-trusted-one-agent-through-build-scale-govern-and-optimize-on-gemini-4np1",
       "published_at": "2026-10-16T20:34:07Z",
@@ -2545,6 +2561,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu3yux0bl6lamy0lg6ig0.png",
       "source": "Dev.to",
       "user": "Jonathan Zhuo"
+    },
+    {
+      "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "url": "https://github.com/qianshuixia/shrimpreel",
+      "published_at": "2026-10-20T18:08:00Z",
+      "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
+      "source": "GitHub",
+      "stars": 269,
+      "user": "qianshuixia"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2633,7 +2664,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1263,
       "user": "colinhacks"
     },
     {
@@ -2694,6 +2725,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png",
       "source": "Dev.to",
       "user": "dev.to staff"
+    },
+    {
+      "title": "Two ways to build with Claude models on Google Cloud!",
+      "url": "https://dev.to/googleai/two-ways-to-build-with-claude-models-on-google-cloud-1mfe",
+      "published_at": "2026-10-22T22:03:52Z",
+      "description": "Choose Claude Models on Google Cloud (Google managed) for in-boundary security, regional data...",
+      "tags": [
+        "claude",
+        "google",
+        "cloud",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjdmfjcl5tswqewynrf6s.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform",
@@ -2869,7 +2915,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1788,
+      "stars": 1790,
       "user": "ikow"
     },
     {
@@ -3095,7 +3141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1395,
+      "stars": 1397,
       "user": "openai"
     },
     {
@@ -3110,7 +3156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 613,
       "user": "nthnclrk"
     },
     {
@@ -3125,38 +3171,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 439,
       "user": "WoYun520"
     },
     {
-      "title": "typecraft-dev/oma-cast - omarchy rebuild of raycast",
-      "url": "https://github.com/typecraft-dev/oma-cast",
-      "published_at": "2026-10-19T17:48:58Z",
-      "description": "omarchy rebuild of raycast",
+      "title": "mrdoob/slop-newyork - GitHub Repository",
+      "url": "https://github.com/mrdoob/slop-newyork",
+      "published_at": "2026-10-20T09:16:37Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/158004072?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 422,
-      "user": "typecraft-dev"
+      "stars": 359,
+      "user": "mrdoob"
     },
     {
-      "title": "blendi-remade/prompt2rig - Type a motion, watch a rigged character perform it: fast video model + GVHMR + live Mixamo retargeting",
-      "url": "https://github.com/blendi-remade/prompt2rig",
-      "published_at": "2026-10-19T09:29:42Z",
-      "description": "Type a motion, watch a rigged character perform it: fast video model + GVHMR + live Mixamo retargeting",
+      "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+      "url": "https://github.com/misshexa66/OunceCake",
+      "published_at": "2026-10-25T14:12:41Z",
+      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/173838289?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 418,
-      "user": "blendi-remade"
+      "stars": 324,
+      "user": "misshexa66"
     },
     {
       "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
@@ -3170,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1788,
+      "stars": 1790,
       "user": "ikow"
     },
     {
@@ -3185,7 +3231,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1567,
+      "stars": 1611,
       "user": "Jakeschincariol"
     },
     {
@@ -3200,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1429,
+      "stars": 1434,
       "user": "9bie"
     },
     {
@@ -3215,23 +3261,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/283747567?v=4",
       "source": "GitHub",
-      "stars": 988,
+      "stars": 989,
       "user": "eagle-hq"
     },
     {
-      "title": "UniXNU/UniXNU - Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
-      "url": "https://github.com/UniXNU/UniXNU",
-      "published_at": "2026-10-19T10:46:55Z",
-      "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
+      "title": "Snapintosh/Snapintosh - EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+      "url": "https://github.com/Snapintosh/Snapintosh",
+      "published_at": "2026-10-22T01:40:05Z",
+      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/344663807?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/346728985?v=4",
       "source": "GitHub",
-      "stars": 984,
-      "user": "UniXNU"
+      "stars": 942,
+      "user": "Snapintosh"
     },
     {
       "title": "Fluepke/emudrahahahahaha - Private Keys",
@@ -3249,21 +3295,6 @@
       "user": "Fluepke"
     },
     {
-      "title": "0c-biggo/0c-ime - 免選字的注音輸入法：在本機用 Transformer 看前文選字。支援 Linux（Fcitx5／IBus）、macOS、Windows。",
-      "url": "https://github.com/0c-biggo/0c-ime",
-      "published_at": "2026-10-19T19:00:19Z",
-      "description": "免選字的注音輸入法：在本機用 Transformer 看前文選字。支援 Linux（Fcitx5／IBus）、macOS、Windows。",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/344968002?v=4",
-      "source": "GitHub",
-      "stars": 143,
-      "user": "0c-biggo"
-    },
-    {
       "title": "tractordev/webframe - Run a web page like a program",
       "url": "https://github.com/tractordev/webframe",
       "published_at": "2026-10-24T14:18:15Z",
@@ -3275,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 121,
       "user": "tractordev"
     },
     {
@@ -3305,53 +3336,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284204?v=4",
       "source": "GitHub",
-      "stars": 88,
+      "stars": 89,
       "user": "aancw"
     },
     {
-      "title": "stackedlol/ascii-sharks - ascii shark components in typescript",
-      "url": "https://github.com/stackedlol/ascii-sharks",
-      "published_at": "2026-10-19T21:54:19Z",
-      "description": "ascii shark components in typescript",
+      "title": "Shaitrish/37studio - Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
+      "url": "https://github.com/Shaitrish/37studio",
+      "published_at": "2026-10-23T00:26:52Z",
+      "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/59258883?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/174145742?v=4",
       "source": "GitHub",
-      "stars": 832,
-      "user": "stackedlol"
-    },
-    {
-      "title": "VictorTaelin/uniichat - GitHub Repository",
-      "url": "https://github.com/VictorTaelin/uniichat",
-      "published_at": "2026-10-19T15:26:48Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13090166?v=4",
-      "source": "GitHub",
-      "stars": 594,
-      "user": "VictorTaelin"
-    },
-    {
-      "title": "vercel-labs/fx0 - A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
-      "url": "https://github.com/vercel-labs/fx0",
-      "published_at": "2026-10-19T17:27:02Z",
-      "description": "A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/108547162?v=4",
-      "source": "GitHub",
-      "stars": 403,
-      "user": "vercel-labs"
+      "stars": 65,
+      "user": "Shaitrish"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
@@ -3365,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 471,
       "user": "designfuchen"
     },
     {
@@ -3380,8 +3381,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 284,
+      "stars": 323,
       "user": "surendrapandar"
+    },
+    {
+      "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
+      "url": "https://github.com/agharsallah/esp-labs-web",
+      "published_at": "2026-10-21T13:40:04Z",
+      "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
+      "source": "GitHub",
+      "stars": 284,
+      "user": "agharsallah"
+    },
+    {
+      "title": "quanhoangindex/ascii-reveal - GitHub Repository",
+      "url": "https://github.com/quanhoangindex/ascii-reveal",
+      "published_at": "2026-10-21T12:12:04Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
+      "source": "GitHub",
+      "stars": 282,
+      "user": "quanhoangindex"
+    },
+    {
+      "title": "qianshuixia/shrimpreel - Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "url": "https://github.com/qianshuixia/shrimpreel",
+      "published_at": "2026-10-20T18:08:00Z",
+      "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/332790452?v=4",
+      "source": "GitHub",
+      "stars": 269,
+      "user": "qianshuixia"
     },
     {
       "title": "xevrion/hatchzip - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
@@ -3395,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 1932,
+      "stars": 1936,
       "user": "xevrion"
     },
     {
@@ -3410,38 +3456,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1261,
+      "stars": 1263,
       "user": "colinhacks"
-    },
-    {
-      "title": "ELY-Open-Source/ElyOffice - Ely Office: offline-first desktop apps in Rust and GPUI",
-      "url": "https://github.com/ELY-Open-Source/ElyOffice",
-      "published_at": "2026-10-19T23:04:42Z",
-      "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/345003095?v=4",
-      "source": "GitHub",
-      "stars": 990,
-      "user": "ELY-Open-Source"
-    },
-    {
-      "title": "Hugo-Dz/spritefusion-sprite-normals - A tool to generate normal maps from any sprite and animated sprite sheet.",
-      "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
-      "published_at": "2026-10-19T13:26:45Z",
-      "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30731578?v=4",
-      "source": "GitHub",
-      "stars": 668,
-      "user": "Hugo-Dz"
     },
     {
       "title": "morganlinton/BeautifulRust - A Claude Code plugin that teaches Claude to write idiomatic, robust Rust",
@@ -3455,8 +3471,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 721,
       "user": "morganlinton"
+    },
+    {
+      "title": "dominikmartn/harp - Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "url": "https://github.com/dominikmartn/harp",
+      "published_at": "2026-10-20T10:39:43Z",
+      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
+      "source": "GitHub",
+      "stars": 616,
+      "user": "dominikmartn"
+    },
+    {
+      "title": "torrentplayer/torrentplayer - Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.",
+      "url": "https://github.com/torrentplayer/torrentplayer",
+      "published_at": "2026-10-20T19:44:10Z",
+      "description": "Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/345837424?v=4",
+      "source": "GitHub",
+      "stars": 596,
+      "user": "torrentplayer"
     },
     {
       "title": "The Slurptop: A home-built luggable that runs on power tool batteries",
@@ -3499,8 +3545,8 @@
       "user": "BoJacks JJ"
     },
     {
-      "title": "Possible software solution on how to ensure a 20 microsecond cycle during real time testing",
-      "url": "https://stackoverflow.com/questions/80012365/possible-software-solution-on-how-to-ensure-a-20-microsecond-cycle-during-real-t",
+      "title": "How can I ensure a 20 microsecond cycle during real time testing?",
+      "url": "https://stackoverflow.com/questions/80012365/how-can-i-ensure-a-20-microsecond-cycle-during-real-time-testing",
       "published_at": "2026-10-25T03:40:28.000Z",
       "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
