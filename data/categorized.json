@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine! $2,850 in Prizes Across 21 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-2850-in-prizes-across-21-3cho",
+      "published_at": "2026-10-26T19:00:30Z",
+      "description": "Week 4 of our Hacktoberfest DEV Challenges starts today, and it's our final challenge of the series!...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4b2bp0h36xv9ooc5bq0t.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
       "url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0",
       "published_at": "2026-10-25T06:45:27Z",
@@ -61,21 +76,6 @@
       "user": "xbill"
     },
     {
-      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
-      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
-      "published_at": "2026-10-22T23:51:30Z",
-      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Don't Be a Proxy Between Me and Your AI",
       "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
       "published_at": "2026-10-22T04:31:09Z",
@@ -89,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
       "source": "Dev.to",
       "user": "Adam - The Developer ✨"
+    },
+    {
+      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
+      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
+      "published_at": "2026-10-22T23:51:30Z",
+      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Postmortem: The Tuesday Our AI Bill Had No Owner",
@@ -615,21 +630,6 @@
       "user": "Blaise Labs"
     },
     {
-      "title": "Building a cross-platform Flutter festival assistant with llamadart",
-      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
-      "published_at": "2026-10-20T13:00:00Z",
-      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
-      "tags": [
-        "flutter",
-        "tutorial",
-        "ai",
-        "dart"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1416,
+      "stars": 1421,
       "user": "openai"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1826,
+      "stars": 1829,
       "user": "ikow"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1786,
+      "stars": 1827,
       "user": "rddmwmddr"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 450,
       "user": "DrWhax"
     },
     {
@@ -869,8 +869,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 630,
       "user": "andyhuo520"
+    },
+    {
+      "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "url": "https://github.com/yaojingang/GEOInflow",
+      "published_at": "2026-10-26T03:12:45Z",
+      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
+      "source": "GitHub",
+      "stars": 323,
+      "user": "yaojingang"
     },
     {
       "title": "Why is it so expensive to send an email?",
@@ -885,17 +900,16 @@
       "user": "wolfadex"
     },
     {
-      "title": "“AI Skills” are worthless in 2026",
-      "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
-      "published_at": "2026-10-25T19:23:42.695-05:00",
+      "title": "Stalwart v1.0: The Fastest Mail Server on the Planet",
+      "url": "https://stalw.art/blog/stalwart-1-0/",
+      "published_at": "2026-10-26T11:28:12.452-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "ai-tooling",
-        "practices"
+        "email"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "ubernostrum"
+      "user": "ejri"
     },
     {
       "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
@@ -941,19 +955,34 @@
       "user": "Honeywood"
     },
     {
-      "title": "Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?",
-      "url": "https://stackoverflow.com/questions/80012328/windows-webdav-client-fails-to-read-files-over-a-certain-size-50-mb-0x800700d",
-      "published_at": "2026-10-24T20:15:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren&#8217;t happy about it",
+      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+      "published_at": "2026-10-26T19:22:40.000Z",
+      "description": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
       "tags": [
-        "python",
-        "windows",
-        "filesystems",
-        "webdav"
+        "Hardware",
+        "Apple",
+        "Duo",
+        "In Brief",
+        "iPhone"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fungus"
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "This startup&#8217;s self-driving excavators help dig up $600M in new funding",
+      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "published_at": "2026-10-26T17:45:00.000Z",
+      "description": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+      "tags": [
+        "Fundraising",
+        "Transportation",
+        "Bedrock Robotics"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
@@ -963,9 +992,9 @@
       "tags": [
         "AI",
         "Enterprise",
-        "Enterprise AI",
         "Anthropic",
-        "anthropic ipo"
+        "anthropic ipo",
+        "Enterprise AI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -975,10 +1004,11 @@
       "title": "SpaceX locks in $40B GPU financing deal with Apollo",
       "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
       "published_at": "2026-10-26T16:46:36.000Z",
-      "description": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+      "description": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
       "tags": [
         "AI",
-        "TC"
+        "apollo",
+        "SpaceX"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1014,36 +1044,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "published_at": "2026-10-25T21:31:16.000Z",
-      "description": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "Elon Musk",
-        "Grok",
-        "SpaceX"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
-      "published_at": "2026-10-25T20:20:08.000Z",
-      "description": "\"That's a 12-year-old view of the world.\"",
-      "tags": [
-        "Government & Policy",
-        "Media & Entertainment",
-        "books"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
@@ -1283,7 +1283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1416,
+      "stars": 1421,
       "user": "openai"
     },
     {
@@ -1298,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 662,
       "user": "nthnclrk"
     },
     {
@@ -1328,7 +1328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 437,
       "user": "misshexa66"
     },
     {
@@ -1343,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 384,
       "user": "mrdoob"
     },
     {
@@ -1358,23 +1358,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 1533,
+      "stars": 1591,
       "user": "designfuchen"
-    },
-    {
-      "title": "surendrapandar/minilytics - Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "url": "https://github.com/surendrapandar/minilytics",
-      "published_at": "2026-10-23T19:27:24Z",
-      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
-      "source": "GitHub",
-      "stars": 589,
-      "user": "surendrapandar"
     },
     {
       "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
@@ -1388,8 +1373,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 630,
       "user": "andyhuo520"
+    },
+    {
+      "title": "surendrapandar/minilytics - Opensource Revenue-first analytics for indie hackers & solo founders ",
+      "url": "https://github.com/surendrapandar/minilytics",
+      "published_at": "2026-10-23T19:27:24Z",
+      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
+      "source": "GitHub",
+      "stars": 613,
+      "user": "surendrapandar"
     },
     {
       "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
@@ -1403,23 +1403,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 337,
       "user": "agharsallah"
     },
     {
-      "title": "quanhoangindex/ascii-reveal - GitHub Repository",
-      "url": "https://github.com/quanhoangindex/ascii-reveal",
-      "published_at": "2026-10-21T12:12:04Z",
-      "description": "Trending GitHub Repository",
+      "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "url": "https://github.com/yaojingang/GEOInflow",
+      "published_at": "2026-10-26T03:12:45Z",
+      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 307,
-      "user": "quanhoangindex"
+      "stars": 323,
+      "user": "yaojingang"
     },
     {
       "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
@@ -1433,14 +1433,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1297,
+      "stars": 1312,
       "user": "colinhacks"
     },
     {
       "title": "onload() not called when revisiting a PHP page (after upgrade to PHP 8.5)",
       "url": "https://stackoverflow.com/questions/80012637/onload-not-called-when-revisiting-a-php-page-after-upgrade-to-php-8-5",
       "published_at": "2026-10-26T14:53:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "php",
@@ -1454,7 +1454,7 @@
       "title": "Why does my JS make the browser scroll to the bottom of the page when switching to a section that's taller than the window height?",
       "url": "https://stackoverflow.com/questions/80012509/why-does-my-js-make-the-browser-scroll-to-the-bottom-of-the-page-when-switching",
       "published_at": "2026-10-26T00:24:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score 5",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "javascript",
         "html"
@@ -1467,7 +1467,7 @@
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score 7",
+      "description": "Stack Overflow question · 2 answers · score 9",
       "tags": [
         "javascript",
         "html",
@@ -1478,20 +1478,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
-    },
-    {
-      "title": "Request for organic assistance debugging my fading-toolbar(JS)",
-      "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
-      "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BoJacks JJ"
     },
     {
       "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
@@ -1538,7 +1524,7 @@
       "title": "Title: React Native Screens enables edge-to-edge mode on Android 15 despite navigationBarTranslucent: false",
       "url": "https://stackoverflow.com/questions/79865749/title-react-native-screens-enables-edge-to-edge-mode-on-android-15-despite-navi",
       "published_at": "2026-01-11T21:37:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "android",
@@ -1577,6 +1563,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "learner62"
+    },
+    {
+      "title": "Is there something similar to C# regions in JavaScript? Visual Studio 2017",
+      "url": "https://stackoverflow.com/questions/46267908/is-there-something-similar-to-c-regions-in-javascript-visual-studio-2017",
+      "published_at": "2017-09-17T19:13:49.000Z",
+      "description": "Stack Overflow question · 5 answers · score 24",
+      "tags": [
+        "javascript",
+        "c#",
+        "visual-studio",
+        "visual-studio-2017",
+        "code-regions"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Michael Drum"
+    },
+    {
+      "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
+      "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
+      "published_at": "2026-10-26T21:18:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy",
+        "atomic",
+        "jsonb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "madjetmax"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -1757,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1963,
+      "stars": 2030,
       "user": "Jakeschincariol"
     },
     {
@@ -1772,7 +1790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1826,
+      "stars": 1829,
       "user": "ikow"
     },
     {
@@ -1787,23 +1805,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1786,
+      "stars": 1827,
       "user": "rddmwmddr"
-    },
-    {
-      "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-      "published_at": "2026-10-21T11:11:57Z",
-      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
-      "source": "GitHub",
-      "stars": 1471,
-      "user": "9bie"
     },
     {
       "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
@@ -1817,14 +1820,59 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 1253,
+      "stars": 1474,
       "user": "t3dotgg"
+    },
+    {
+      "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "published_at": "2026-10-21T11:11:57Z",
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
+      "source": "GitHub",
+      "stars": 1473,
+      "user": "9bie"
+    },
+    {
+      "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
+      "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
+      "published_at": "2026-10-26T21:18:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy",
+        "atomic",
+        "jsonb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "madjetmax"
+    },
+    {
+      "title": "Why doesn't my PyQt5 Progress Bar Dialog stay visible?",
+      "url": "https://stackoverflow.com/questions/80012687/why-doesnt-my-pyqt5-progress-bar-dialog-stay-visible",
+      "published_at": "2026-10-26T19:53:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "python-3.x",
+        "pyqt5"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kes Perron"
     },
     {
       "title": "Struggling to understand Python while loop code block",
       "url": "https://stackoverflow.com/questions/80012621/struggling-to-understand-python-while-loop-code-block",
       "published_at": "2026-10-26T14:12:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "python"
       ],
@@ -1921,49 +1969,17 @@
       "user": "CADV"
     },
     {
-      "title": "What is the complexity of this algorithm? Common elements in two lists",
-      "url": "https://stackoverflow.com/questions/80012286/what-is-the-complexity-of-this-algorithm-common-elements-in-two-lists",
-      "published_at": "2026-10-24T16:05:47.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "title": "Alternative import hook for modifying source code before compiling",
+      "url": "https://stackoverflow.com/questions/80011839/alternative-import-hook-for-modifying-source-code-before-compiling",
+      "published_at": "2026-10-22T12:13:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
-        "algorithm",
-        "time-complexity",
-        "complexity-theory"
+        "import-hooks"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Shiny_and_Chrome"
-    },
-    {
-      "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
-      "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
-      "published_at": "2026-10-22T17:09:57.000Z",
-      "description": "Stack Overflow question · 4 answers · score 3",
-      "tags": [
-        "python",
-        "string",
-        "text",
-        "tokenize"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "pg27"
-    },
-    {
-      "title": "Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?",
-      "url": "https://stackoverflow.com/questions/80012328/windows-webdav-client-fails-to-read-files-over-a-certain-size-50-mb-0x800700d",
-      "published_at": "2026-10-24T20:15:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "windows",
-        "filesystems",
-        "webdav"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Fungus"
+      "user": "NickC"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2236,10 +2252,22 @@
       "user": "zk"
     },
     {
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "published_at": "2026-10-26T12:55:19.365-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "seb"
+    },
+    {
       "title": "Why does my JS make the browser scroll to the bottom of the page when switching to a section that's taller than the window height?",
       "url": "https://stackoverflow.com/questions/80012509/why-does-my-js-make-the-browser-scroll-to-the-bottom-of-the-page-when-switching",
       "published_at": "2026-10-26T00:24:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score 5",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "javascript",
         "html"
@@ -2252,7 +2280,7 @@
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score 7",
+      "description": "Stack Overflow question · 2 answers · score 9",
       "tags": [
         "javascript",
         "html",
@@ -2263,20 +2291,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
-    },
-    {
-      "title": "Request for organic assistance debugging my fading-toolbar(JS)",
-      "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
-      "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BoJacks JJ"
     },
     {
       "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
@@ -2370,21 +2384,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Building a cross-platform Flutter festival assistant with llamadart",
-      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
-      "published_at": "2026-10-20T13:00:00Z",
-      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
-      "tags": [
-        "flutter",
-        "tutorial",
-        "ai",
-        "dart"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "published_at": "2026-10-24T05:35:47Z",
@@ -2396,14 +2395,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1786,
+      "stars": 1827,
       "user": "rddmwmddr"
     },
     {
       "title": "Title: React Native Screens enables edge-to-edge mode on Android 15 despite navigationBarTranslucent: false",
       "url": "https://stackoverflow.com/questions/79865749/title-react-native-screens-enables-edge-to-edge-mode-on-android-15-despite-navi",
       "published_at": "2026-01-11T21:37:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
         "android",
@@ -2655,7 +2654,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 140,
       "user": "egoist"
     },
     {
@@ -2745,8 +2744,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1297,
+      "stars": 1312,
       "user": "colinhacks"
+    },
+    {
+      "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
+      "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
+      "published_at": "2026-10-26T21:18:35.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy",
+        "atomic",
+        "jsonb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "madjetmax"
     },
     {
       "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
@@ -2937,7 +2952,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1826,
+      "stars": 1829,
       "user": "ikow"
     },
     {
@@ -3119,7 +3134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1416,
+      "stars": 1421,
       "user": "openai"
     },
     {
@@ -3134,7 +3149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
       "source": "GitHub",
-      "stars": 645,
+      "stars": 662,
       "user": "nthnclrk"
     },
     {
@@ -3164,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 437,
       "user": "misshexa66"
     },
     {
@@ -3179,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 384,
       "user": "mrdoob"
     },
     {
@@ -3194,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
       "source": "GitHub",
-      "stars": 1963,
+      "stars": 2030,
       "user": "Jakeschincariol"
     },
     {
@@ -3209,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1826,
+      "stars": 1829,
       "user": "ikow"
     },
     {
@@ -3224,23 +3239,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1786,
+      "stars": 1827,
       "user": "rddmwmddr"
-    },
-    {
-      "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-      "published_at": "2026-10-21T11:11:57Z",
-      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
-      "source": "GitHub",
-      "stars": 1471,
-      "user": "9bie"
     },
     {
       "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
@@ -3254,8 +3254,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 1253,
+      "stars": 1474,
       "user": "t3dotgg"
+    },
+    {
+      "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "published_at": "2026-10-21T11:11:57Z",
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
+      "source": "GitHub",
+      "stars": 1473,
+      "user": "9bie"
     },
     {
       "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
@@ -3269,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 450,
       "user": "DrWhax"
     },
     {
@@ -3284,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 243,
       "user": "Fluepke"
     },
     {
@@ -3299,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 140,
       "user": "egoist"
     },
     {
@@ -3314,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 129,
+      "stars": 131,
       "user": "tractordev"
     },
     {
@@ -3344,23 +3359,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 1533,
+      "stars": 1591,
       "user": "designfuchen"
-    },
-    {
-      "title": "surendrapandar/minilytics - Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "url": "https://github.com/surendrapandar/minilytics",
-      "published_at": "2026-10-23T19:27:24Z",
-      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
-      "source": "GitHub",
-      "stars": 589,
-      "user": "surendrapandar"
     },
     {
       "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
@@ -3374,8 +3374,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 630,
       "user": "andyhuo520"
+    },
+    {
+      "title": "surendrapandar/minilytics - Opensource Revenue-first analytics for indie hackers & solo founders ",
+      "url": "https://github.com/surendrapandar/minilytics",
+      "published_at": "2026-10-23T19:27:24Z",
+      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
+      "source": "GitHub",
+      "stars": 613,
+      "user": "surendrapandar"
     },
     {
       "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
@@ -3389,23 +3404,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 337,
       "user": "agharsallah"
     },
     {
-      "title": "quanhoangindex/ascii-reveal - GitHub Repository",
-      "url": "https://github.com/quanhoangindex/ascii-reveal",
-      "published_at": "2026-10-21T12:12:04Z",
-      "description": "Trending GitHub Repository",
+      "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "url": "https://github.com/yaojingang/GEOInflow",
+      "published_at": "2026-10-26T03:12:45Z",
+      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 307,
-      "user": "quanhoangindex"
+      "stars": 323,
+      "user": "yaojingang"
     },
     {
       "title": "xevrion/hatchzip - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
@@ -3419,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 2029,
+      "stars": 2048,
       "user": "xevrion"
     },
     {
@@ -3434,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1297,
+      "stars": 1312,
       "user": "colinhacks"
     },
     {
@@ -3449,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 703,
       "user": "mizorewww"
     },
     {
@@ -3464,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/345837424?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 665,
       "user": "torrentplayer"
     },
     {
@@ -3479,48 +3494,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 649,
       "user": "dominikmartn"
-    },
-    {
-      "title": "“AI Skills” are worthless in 2026",
-      "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
-      "published_at": "2026-10-25T19:23:42.695-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai-tooling",
-        "practices"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ubernostrum"
-    },
-    {
-      "title": "The Slurptop: A home-built luggable that runs on power tool batteries",
-      "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
-      "published_at": "2026-10-25T08:43:11.758-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "art",
-        "hardware"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hoistbypetard"
-    },
-    {
-      "title": "Request for organic assistance debugging my fading-toolbar(JS)",
-      "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
-      "published_at": "2026-10-23T21:45:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "BoJacks JJ"
     },
     {
       "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
