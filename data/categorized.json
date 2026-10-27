@@ -61,21 +61,6 @@
       "user": "Adam - The Developer ✨"
     },
     {
-      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
-      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
-      "published_at": "2026-10-22T23:51:30Z",
-      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Postmortem: The Tuesday Our AI Bill Had No Owner",
       "url": "https://dev.to/gde/postmortem-the-tuesday-our-ai-bill-had-no-owner-34pd",
       "published_at": "2026-10-25T11:15:42Z",
@@ -211,21 +196,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
-      "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4",
-      "published_at": "2026-10-23T05:52:48Z",
-      "description": "When we use generative AI to proofread our daily writing—whether technical reports, business...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleappsscript",
-        "googleworkspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2bc3ar45xrgqtcuc87ui.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
       "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
       "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
       "published_at": "2026-10-21T18:56:20Z",
@@ -239,6 +209,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
+    },
+    {
+      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
+      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
+      "published_at": "2026-10-22T23:51:30Z",
+      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
@@ -481,21 +466,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
-      "published_at": "2026-10-14T19:53:12Z",
-      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
       "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
       "published_at": "2026-10-16T17:40:16Z",
@@ -509,6 +479,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fle5lxtrblynphqs20c45.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
+      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
+      "published_at": "2026-10-14T19:53:12Z",
+      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Congrats to the Sanity Challenge Winners!",
@@ -598,6 +583,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ctujqzcft2psrp35d48.png",
       "source": "Dev.to",
       "user": "Rachael Berkey"
+    },
+    {
+      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
+      "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4",
+      "published_at": "2026-10-23T05:52:48Z",
+      "description": "When we use generative AI to proofread our daily writing—whether technical reports, business...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "googleworkspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2bc3ar45xrgqtcuc87ui.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "The Model Is the Easy Part",
@@ -813,109 +813,19 @@
       "user": "caseyf7"
     },
     {
-      "title": "openai/php2shell-checker - GitHub Repository",
-      "url": "https://github.com/openai/php2shell-checker",
-      "published_at": "2026-10-21T00:29:12Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 1427,
-      "user": "openai"
-    },
-    {
-      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "published_at": "2026-10-24T05:35:47Z",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "title": "actionow-ai/vvv - Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
+      "url": "https://github.com/actionow-ai/vvv",
+      "published_at": "2026-10-22T07:29:54Z",
+      "description": "Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/255481024?v=4",
       "source": "GitHub",
-      "stars": 2320,
-      "user": "rddmwmddr"
-    },
-    {
-      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "published_at": "2026-10-21T07:55:16Z",
-      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
-      "source": "GitHub",
-      "stars": 1842,
-      "user": "ikow"
-    },
-    {
-      "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
-      "url": "https://github.com/DrWhax/unfairplay",
-      "published_at": "2026-10-25T21:22:20Z",
-      "description": "Decrypt IPA's on MacOS",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
-      "source": "GitHub",
-      "stars": 565,
-      "user": "DrWhax"
-    },
-    {
-      "title": "smhanov/agentloop - Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
-      "url": "https://github.com/smhanov/agentloop",
-      "published_at": "2026-10-25T16:18:50Z",
-      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
-      "source": "GitHub",
-      "stars": 109,
-      "user": "smhanov"
-    },
-    {
-      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "published_at": "2026-10-26T04:34:09Z",
-      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 849,
-      "user": "andyhuo520"
-    },
-    {
-      "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "url": "https://github.com/yaojingang/GEOInflow",
-      "published_at": "2026-10-26T03:12:45Z",
-      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
-      "source": "GitHub",
-      "stars": 434,
-      "user": "yaojingang"
+      "stars": 414,
+      "user": "actionow-ai"
     },
     {
       "title": "Why is it so expensive to send an email?",
@@ -928,18 +838,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "wolfadex"
-    },
-    {
-      "title": "Stalwart v1.0: The Fastest Mail Server on the Planet",
-      "url": "https://stalw.art/blog/stalwart-1-0/",
-      "published_at": "2026-10-26T11:28:12.452-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "email"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ejri"
     },
     {
       "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
@@ -970,6 +868,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Honeywood"
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "published_at": "2026-10-27T11:00:00.000Z",
+      "description": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Accel",
+        "nvidia",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -1043,20 +957,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "published_at": "2026-10-26T16:46:36.000Z",
-      "description": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "tags": [
-        "AI",
-        "apollo",
-        "SpaceX"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
     },
     {
       "title": "How to Build a Simple Data Analyzer in Python with Pandas",
@@ -1301,141 +1201,6 @@
       "user": "velmu"
     },
     {
-      "title": "openai/php2shell-checker - GitHub Repository",
-      "url": "https://github.com/openai/php2shell-checker",
-      "published_at": "2026-10-21T00:29:12Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 1427,
-      "user": "openai"
-    },
-    {
-      "title": "ZiChuanLan/agent-purge - One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "url": "https://github.com/ZiChuanLan/agent-purge",
-      "published_at": "2026-10-25T06:06:02Z",
-      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
-      "source": "GitHub",
-      "stars": 461,
-      "user": "ZiChuanLan"
-    },
-    {
-      "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-      "url": "https://github.com/misshexa66/OunceCake",
-      "published_at": "2026-10-25T14:12:41Z",
-      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
-      "source": "GitHub",
-      "stars": 453,
-      "user": "misshexa66"
-    },
-    {
-      "title": "WoYun520/dsh-purge - DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "url": "https://github.com/WoYun520/dsh-purge",
-      "published_at": "2026-10-21T01:35:52Z",
-      "description": "DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
-      "source": "GitHub",
-      "stars": 446,
-      "user": "WoYun520"
-    },
-    {
-      "title": "KardDev/dsh-plugins - GitHub Repository",
-      "url": "https://github.com/KardDev/dsh-plugins",
-      "published_at": "2026-10-21T01:39:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93955479?v=4",
-      "source": "GitHub",
-      "stars": 287,
-      "user": "KardDev"
-    },
-    {
-      "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-      "url": "https://github.com/designfuchen/word-atlas",
-      "published_at": "2026-10-25T08:27:22Z",
-      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
-      "source": "GitHub",
-      "stars": 1926,
-      "user": "designfuchen"
-    },
-    {
-      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "published_at": "2026-10-26T04:34:09Z",
-      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 849,
-      "user": "andyhuo520"
-    },
-    {
-      "title": "surendrapandar/minilytics - Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "url": "https://github.com/surendrapandar/minilytics",
-      "published_at": "2026-10-23T19:27:24Z",
-      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
-      "source": "GitHub",
-      "stars": 634,
-      "user": "surendrapandar"
-    },
-    {
-      "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "url": "https://github.com/yaojingang/GEOInflow",
-      "published_at": "2026-10-26T03:12:45Z",
-      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
-      "source": "GitHub",
-      "stars": 434,
-      "user": "yaojingang"
-    },
-    {
       "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
       "url": "https://github.com/agharsallah/esp-labs-web",
       "published_at": "2026-10-21T13:40:04Z",
@@ -1447,29 +1212,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 454,
       "user": "agharsallah"
     },
     {
-      "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
-      "url": "https://github.com/colinhacks/reylo",
-      "published_at": "2026-10-21T00:16:54Z",
-      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+      "title": "quanhoangindex/ascii-reveal - GitHub Repository",
+      "url": "https://github.com/quanhoangindex/ascii-reveal",
+      "published_at": "2026-10-21T12:12:04Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
       "source": "GitHub",
-      "stars": 1322,
-      "user": "colinhacks"
+      "stars": 330,
+      "user": "quanhoangindex"
+    },
+    {
+      "title": "How to avoid rendering delays when switching from text to dynamic selects?",
+      "url": "https://stackoverflow.com/questions/80012793/how-to-avoid-rendering-delays-when-switching-from-text-to-dynamic-selects",
+      "published_at": "2026-10-27T08:02:43.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "vue.js",
+        "vuejs3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Adrian Ma&#241;as"
     },
     {
       "title": "Fitting a family tree to the page width in the style of Burke's Peerage",
       "url": "https://stackoverflow.com/questions/80012756/fitting-a-family-tree-to-the-page-width-in-the-style-of-burkes-peerage",
       "published_at": "2026-10-27T03:53:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "css",
@@ -1484,7 +1264,7 @@
       "title": "Vue 3 – Best approach to avoid rendering delays with dynamic form inputs (v-if vs v-show)?",
       "url": "https://stackoverflow.com/questions/80012717/vue-3-best-approach-to-avoid-rendering-delays-with-dynamic-form-inputs-v-if-v",
       "published_at": "2026-10-26T22:21:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "typescript",
@@ -1499,7 +1279,7 @@
       "title": "onload() not called when revisiting a PHP page (after upgrade to PHP 8.5)",
       "url": "https://stackoverflow.com/questions/80012637/onload-not-called-when-revisiting-a-php-page-after-upgrade-to-php-8-5",
       "published_at": "2026-10-26T14:53:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "php",
@@ -1568,7 +1348,7 @@
       "title": "Title: React Native Screens enables edge-to-edge mode on Android 15 despite navigationBarTranslucent: false",
       "url": "https://stackoverflow.com/questions/79865749/title-react-native-screens-enables-edge-to-edge-mode-on-android-15-despite-navi",
       "published_at": "2026-01-11T21:37:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "android",
@@ -1595,23 +1375,10 @@
       "user": "Domenic"
     },
     {
-      "title": "Dynamically set property of nested object",
-      "url": "https://stackoverflow.com/questions/18936915/dynamically-set-property-of-nested-object",
-      "published_at": "2013-09-21T19:50:27.000Z",
-      "description": "Stack Overflow question · 29 answers · score 152",
-      "tags": [
-        "javascript",
-        "ecmascript-5"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "John B."
-    },
-    {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
       "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
       "published_at": "2026-10-26T21:18:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "postgresql",
@@ -1791,85 +1558,37 @@
       "user": "arathore"
     },
     {
-      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "published_at": "2026-10-24T05:35:47Z",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "title": "actionow-ai/vvv - Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
+      "url": "https://github.com/actionow-ai/vvv",
+      "published_at": "2026-10-22T07:29:54Z",
+      "description": "Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/255481024?v=4",
       "source": "GitHub",
-      "stars": 2320,
-      "user": "rddmwmddr"
+      "stars": 414,
+      "user": "actionow-ai"
     },
     {
-      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "published_at": "2026-10-21T07:55:16Z",
-      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "title": "Python's experimental JIT to be removed",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "published_at": "2026-10-27T01:20:38.106-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "python",
-        "github",
-        "open-source"
+        "python"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
-      "source": "GitHub",
-      "stars": 1842,
-      "user": "ikow"
-    },
-    {
-      "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
-      "url": "https://github.com/t3dotgg/tstack",
-      "published_at": "2026-10-24T05:00:20Z",
-      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
-      "source": "GitHub",
-      "stars": 1675,
-      "user": "t3dotgg"
-    },
-    {
-      "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-      "published_at": "2026-10-21T11:11:57Z",
-      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
-      "source": "GitHub",
-      "stars": 1482,
-      "user": "9bie"
-    },
-    {
-      "title": "lyramakesmusic/neuron-explorer - Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
-      "url": "https://github.com/lyramakesmusic/neuron-explorer",
-      "published_at": "2026-10-21T04:09:05Z",
-      "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/21166029?v=4",
-      "source": "GitHub",
-      "stars": 1316,
-      "user": "lyramakesmusic"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "val"
     },
     {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
       "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
       "published_at": "2026-10-26T21:18:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "postgresql",
@@ -1885,7 +1604,7 @@
       "title": "Why doesn't my PyQt5 Progress Bar Dialog stay visible?",
       "url": "https://stackoverflow.com/questions/80012687/why-doesnt-my-pyqt5-progress-bar-dialog-stay-visible",
       "published_at": "2026-10-26T19:53:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "python-3.x",
@@ -1899,7 +1618,7 @@
       "title": "Struggling to understand Python while loop code block",
       "url": "https://stackoverflow.com/questions/80012621/struggling-to-understand-python-while-loop-code-block",
       "published_at": "2026-10-26T14:12:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
+      "description": "Stack Overflow question · 1 answers · score -8",
       "tags": [
         "python"
       ],
@@ -1983,25 +1702,28 @@
       "user": "xAvareS"
     },
     {
-      "title": "Setting italic conditional formatting in Openpyxl",
-      "url": "https://stackoverflow.com/questions/80012239/setting-italic-conditional-formatting-in-openpyxl",
-      "published_at": "2026-10-24T10:35:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "TypeError: 'DefaultMeta' object is not iterable",
+      "url": "https://stackoverflow.com/questions/80011142/typeerror-defaultmeta-object-is-not-iterable",
+      "published_at": "2026-10-19T17:10:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
       "tags": [
         "python",
-        "openpyxl"
+        "flask",
+        "sqlalchemy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "CADV"
+      "user": "gh0st_dancing"
     },
     {
-      "title": "Alternative import hook for modifying source code before compiling",
-      "url": "https://stackoverflow.com/questions/80011839/alternative-import-hook-for-modifying-source-code-before-compiling",
-      "published_at": "2026-10-22T12:13:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Import hook at the AST level",
+      "url": "https://stackoverflow.com/questions/80010756/import-hook-at-the-ast-level",
+      "published_at": "2026-10-17T14:57:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "python",
+        "python-3.x",
+        "python-importlib",
         "import-hooks"
       ],
       "cover_image": null,
@@ -2310,7 +2032,7 @@
       "title": "Fitting a family tree to the page width in the style of Burke's Peerage",
       "url": "https://stackoverflow.com/questions/80012756/fitting-a-family-tree-to-the-page-width-in-the-style-of-burkes-peerage",
       "published_at": "2026-10-27T03:53:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "css",
@@ -2441,25 +2163,10 @@
       "user": "Jhin Lee"
     },
     {
-      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "published_at": "2026-10-24T05:35:47Z",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
-      "source": "GitHub",
-      "stars": 2320,
-      "user": "rddmwmddr"
-    },
-    {
       "title": "Title: React Native Screens enables edge-to-edge mode on Android 15 despite navigationBarTranslucent: false",
       "url": "https://stackoverflow.com/questions/79865749/title-react-native-screens-enables-edge-to-edge-mode-on-android-15-despite-navi",
       "published_at": "2026-01-11T21:37:56.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "android",
@@ -2684,21 +2391,6 @@
       "user": "xbill"
     },
     {
-      "title": "egoist/mygo-cloudmusic - MyGo 云音乐 - 第三方网易云音乐原生客户端",
-      "url": "https://github.com/egoist/mygo-cloudmusic",
-      "published_at": "2026-10-25T11:41:31Z",
-      "description": "MyGo 云音乐 - 第三方网易云音乐原生客户端",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
-      "source": "GitHub",
-      "stars": 178,
-      "user": "egoist"
-    },
-    {
       "title": "What Is Model Distillation? A Guide for Developers",
       "url": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
       "published_at": "2026-10-21T18:46:22.000Z",
@@ -2774,25 +2466,10 @@
       "user": "iancarroll"
     },
     {
-      "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
-      "url": "https://github.com/colinhacks/reylo",
-      "published_at": "2026-10-21T00:16:54Z",
-      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
-      "source": "GitHub",
-      "stars": 1322,
-      "user": "colinhacks"
-    },
-    {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
       "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
       "published_at": "2026-10-26T21:18:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "postgresql",
@@ -2818,6 +2495,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aradhya"
+    },
+    {
+      "title": "TypeError: 'DefaultMeta' object is not iterable",
+      "url": "https://stackoverflow.com/questions/80011142/typeerror-defaultmeta-object-is-not-iterable",
+      "published_at": "2026-10-19T17:10:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score -6",
+      "tags": [
+        "python",
+        "flask",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gh0st_dancing"
     },
     {
       "title": "How to Build a Simple Data Analyzer in Python with Pandas",
@@ -2998,21 +2689,6 @@
       "user": "Varcht"
     },
     {
-      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "published_at": "2026-10-21T07:55:16Z",
-      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
-      "source": "GitHub",
-      "stars": 1842,
-      "user": "ikow"
-    },
-    {
       "title": "About the compromised eMudhra intermediate CAs",
       "url": "https://support.apple.com/en-us/149555",
       "published_at": "2026-10-26T04:58:55.217-05:00",
@@ -3040,21 +2716,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
-      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
-      "published_at": "2026-10-22T23:51:30Z",
-      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
     {
       "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
       "url": "https://dev.to/gde/the-best-prompt-rule-is-the-one-you-delete-moving-ai-guardrails-out-of-markdown-and-into-git-5a5h",
@@ -3084,6 +2745,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyrcl27rqbhvg0y07j34t.png",
       "source": "Dev.to",
       "user": "Piyush Annigeri"
+    },
+    {
+      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
+      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
+      "published_at": "2026-10-22T23:51:30Z",
+      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
@@ -3152,184 +2828,19 @@
       "user": "pabs3"
     },
     {
-      "title": "openai/php2shell-checker - GitHub Repository",
-      "url": "https://github.com/openai/php2shell-checker",
-      "published_at": "2026-10-21T00:29:12Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
-      "source": "GitHub",
-      "stars": 1427,
-      "user": "openai"
-    },
-    {
-      "title": "ZiChuanLan/agent-purge - One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "url": "https://github.com/ZiChuanLan/agent-purge",
-      "published_at": "2026-10-25T06:06:02Z",
-      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
-      "source": "GitHub",
-      "stars": 461,
-      "user": "ZiChuanLan"
-    },
-    {
-      "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-      "url": "https://github.com/misshexa66/OunceCake",
-      "published_at": "2026-10-25T14:12:41Z",
-      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
-      "source": "GitHub",
-      "stars": 453,
-      "user": "misshexa66"
-    },
-    {
-      "title": "WoYun520/dsh-purge - DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "url": "https://github.com/WoYun520/dsh-purge",
-      "published_at": "2026-10-21T01:35:52Z",
-      "description": "DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
-      "source": "GitHub",
-      "stars": 446,
-      "user": "WoYun520"
-    },
-    {
-      "title": "KardDev/dsh-plugins - GitHub Repository",
-      "url": "https://github.com/KardDev/dsh-plugins",
-      "published_at": "2026-10-21T01:39:43Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93955479?v=4",
-      "source": "GitHub",
-      "stars": 287,
-      "user": "KardDev"
-    },
-    {
-      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "published_at": "2026-10-24T05:35:47Z",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "title": "actionow-ai/vvv - Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
+      "url": "https://github.com/actionow-ai/vvv",
+      "published_at": "2026-10-22T07:29:54Z",
+      "description": "Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/255481024?v=4",
       "source": "GitHub",
-      "stars": 2320,
-      "user": "rddmwmddr"
-    },
-    {
-      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "published_at": "2026-10-21T07:55:16Z",
-      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
-      "source": "GitHub",
-      "stars": 1842,
-      "user": "ikow"
-    },
-    {
-      "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
-      "url": "https://github.com/t3dotgg/tstack",
-      "published_at": "2026-10-24T05:00:20Z",
-      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
-      "source": "GitHub",
-      "stars": 1675,
-      "user": "t3dotgg"
-    },
-    {
-      "title": "9bie/php2shell-bypass-aslr-exp - A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-      "published_at": "2026-10-21T11:11:57Z",
-      "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
-      "source": "GitHub",
-      "stars": 1482,
-      "user": "9bie"
-    },
-    {
-      "title": "lyramakesmusic/neuron-explorer - Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
-      "url": "https://github.com/lyramakesmusic/neuron-explorer",
-      "published_at": "2026-10-21T04:09:05Z",
-      "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/21166029?v=4",
-      "source": "GitHub",
-      "stars": 1316,
-      "user": "lyramakesmusic"
-    },
-    {
-      "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
-      "url": "https://github.com/DrWhax/unfairplay",
-      "published_at": "2026-10-25T21:22:20Z",
-      "description": "Decrypt IPA's on MacOS",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
-      "source": "GitHub",
-      "stars": 565,
-      "user": "DrWhax"
-    },
-    {
-      "title": "egoist/mygo-cloudmusic - MyGo 云音乐 - 第三方网易云音乐原生客户端",
-      "url": "https://github.com/egoist/mygo-cloudmusic",
-      "published_at": "2026-10-25T11:41:31Z",
-      "description": "MyGo 云音乐 - 第三方网易云音乐原生客户端",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
-      "source": "GitHub",
-      "stars": 178,
-      "user": "egoist"
+      "stars": 414,
+      "user": "actionow-ai"
     },
     {
       "title": "tractordev/webframe - Run a web page like a program",
@@ -3343,98 +2854,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 139,
+      "stars": 145,
       "user": "tractordev"
-    },
-    {
-      "title": "smhanov/agentloop - Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
-      "url": "https://github.com/smhanov/agentloop",
-      "published_at": "2026-10-25T16:18:50Z",
-      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
-      "source": "GitHub",
-      "stars": 109,
-      "user": "smhanov"
-    },
-    {
-      "title": "xue-y-su/clove-api-1.0.6 - Clove API 1.0.6 source code",
-      "url": "https://github.com/xue-y-su/clove-api-1.0.6",
-      "published_at": "2026-10-21T09:09:08Z",
-      "description": "Clove API 1.0.6 source code",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/190185029?v=4",
-      "source": "GitHub",
-      "stars": 104,
-      "user": "xue-y-su"
-    },
-    {
-      "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-      "url": "https://github.com/designfuchen/word-atlas",
-      "published_at": "2026-10-25T08:27:22Z",
-      "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
-      "source": "GitHub",
-      "stars": 1926,
-      "user": "designfuchen"
-    },
-    {
-      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "published_at": "2026-10-26T04:34:09Z",
-      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 849,
-      "user": "andyhuo520"
-    },
-    {
-      "title": "surendrapandar/minilytics - Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "url": "https://github.com/surendrapandar/minilytics",
-      "published_at": "2026-10-23T19:27:24Z",
-      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
-      "source": "GitHub",
-      "stars": 634,
-      "user": "surendrapandar"
-    },
-    {
-      "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "url": "https://github.com/yaojingang/GEOInflow",
-      "published_at": "2026-10-26T03:12:45Z",
-      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
-      "source": "GitHub",
-      "stars": 434,
-      "user": "yaojingang"
     },
     {
       "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
@@ -3448,38 +2869,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 454,
       "user": "agharsallah"
     },
     {
-      "title": "xevrion/hatchzip - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
-      "url": "https://github.com/xevrion/hatchzip",
-      "published_at": "2026-10-21T17:29:28Z",
-      "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+      "title": "quanhoangindex/ascii-reveal - GitHub Repository",
+      "url": "https://github.com/quanhoangindex/ascii-reveal",
+      "published_at": "2026-10-21T12:12:04Z",
+      "description": "Trending GitHub Repository",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/147161414?v=4",
       "source": "GitHub",
-      "stars": 2071,
-      "user": "xevrion"
-    },
-    {
-      "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
-      "url": "https://github.com/colinhacks/reylo",
-      "published_at": "2026-10-21T00:16:54Z",
-      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
-      "source": "GitHub",
-      "stars": 1322,
-      "user": "colinhacks"
+      "stars": 330,
+      "user": "quanhoangindex"
     },
     {
       "title": "mizorewww/gdirect - Rust Google Drive direct downloader using pinned libaria2",
@@ -3493,38 +2899,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 724,
+      "stars": 739,
       "user": "mizorewww"
     },
     {
-      "title": "heydeer/pngdeer - Smaller PNGs, same picture. Lossy PNG compression that picks the quality for you: 8–12% smaller than TinyPNG at the same quality. Command line and in the browser.",
-      "url": "https://github.com/heydeer/pngdeer",
-      "published_at": "2026-10-25T05:09:24Z",
-      "description": "Smaller PNGs, same picture. Lossy PNG compression that picks the quality for you: 8–12% smaller than TinyPNG at the same quality. Command line and in the browser.",
+      "title": "lucacadalora/oyenza-studio - Oyenza Studio (formerly Oyen Poni): a living notch (Dynamic Island) for Windows and Mac. Music with synced lyrics, a focus timer, a file shelf your phone can drop into, tasks, clipboard history and live system stats. Native Rust, free and open source.",
+      "url": "https://github.com/lucacadalora/oyenza-studio",
+      "published_at": "2026-10-23T22:37:45Z",
+      "description": "Oyenza Studio (formerly Oyen Poni): a living notch (Dynamic Island) for Windows and Mac. Music with synced lyrics, a focus timer, a file shelf your phone can drop into, tasks, clipboard history and live system stats. Native Rust, free and open source.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/49451611?v=4",
       "source": "GitHub",
-      "stars": 206,
-      "user": "heydeer"
-    },
-    {
-      "title": "openmathmodel/open-math-harness - The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
-      "url": "https://github.com/openmathmodel/open-math-harness",
-      "published_at": "2026-10-22T08:17:44Z",
-      "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/330179988?v=4",
-      "source": "GitHub",
-      "stars": 193,
-      "user": "openmathmodel"
+      "stars": 99,
+      "user": "lucacadalora"
     },
     {
       "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
