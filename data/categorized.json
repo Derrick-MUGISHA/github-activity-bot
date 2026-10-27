@@ -31,36 +31,6 @@
       "user": "Khushighosh"
     },
     {
-      "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
-      "url": "https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc",
-      "published_at": "2026-10-23T15:22:41Z",
-      "description": "How I built a voice-and-text-to-4-panel comic generator with Google AI Studio, Gemini structured outputs, a teacher script-review gate, and Imagen 4.",
-      "tags": [
-        "deved",
-        "learngoogleaistudio",
-        "googleai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2FRobinaMirbahar%2Fmain%2Fcomic_studio_ai_cover.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
-      "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
-      "url": "https://dev.to/gde/the-best-prompt-rule-is-the-one-you-delete-moving-ai-guardrails-out-of-markdown-and-into-git-5a5h",
-      "published_at": "2026-10-25T20:19:06Z",
-      "description": "Every rule that stays in a prompt eventually bloats, blurs, or gets gamed by the model. When systems engineers and an autonomous AI red-teamed my workflow, the cure wasn't more Markdown—it was pushing enforcement down into Git Merkle locks, Linux insmod, and 15ms compiler auto-fixes that cost zero tokens and zero turns.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "compilers"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F76spe97b0zo4l86bgyd4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Inference on Google Cloud: Precision, Memory and Capacity on TPU, from v5e to Ironwood",
       "url": "https://dev.to/gde/inference-on-google-cloud-precision-memory-and-capacity-on-tpu-from-v5e-to-ironwood-5dlf",
       "published_at": "2026-10-25T23:02:38Z",
@@ -147,6 +117,21 @@
         "architecture"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
+      "url": "https://dev.to/gde/the-best-prompt-rule-is-the-one-you-delete-moving-ai-guardrails-out-of-markdown-and-into-git-5a5h",
+      "published_at": "2026-10-25T20:19:06Z",
+      "description": "Every rule that stays in a prompt eventually bloats, blurs, or gets gamed by the model. When systems engineers and an autonomous AI red-teamed my workflow, the cure wasn't more Markdown—it was pushing enforcement down into Git Merkle locks, Linux insmod, and 15ms compiler auto-fixes that cost zero tokens and zero turns.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "compilers"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F76spe97b0zo4l86bgyd4.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -391,6 +376,21 @@
       "user": "xbill"
     },
     {
+      "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
+      "url": "https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc",
+      "published_at": "2026-10-23T15:22:41Z",
+      "description": "How I built a voice-and-text-to-4-panel comic generator with Google AI Studio, Gemini structured outputs, a teacher script-review gate, and Imagen 4.",
+      "tags": [
+        "deved",
+        "learngoogleaistudio",
+        "googleai",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2FRobinaMirbahar%2Fmain%2Fcomic_studio_ai_cover.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
+    },
+    {
       "title": "[Agent Platform in Practice (4)] Towards Cloud Two-layer Decoupling and Full Persistence: Completing the LINE AI Business Card M",
       "url": "https://dev.to/gde/agent-platform-in-practice-4-towards-cloud-two-layer-decoupling-and-full-persistence-60g",
       "published_at": "2026-10-23T08:32:27Z",
@@ -630,6 +630,21 @@
       "user": "Blaise Labs"
     },
     {
+      "title": "Building a cross-platform Flutter festival assistant with llamadart",
+      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
+      "published_at": "2026-10-20T13:00:00Z",
+      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
+      "tags": [
+        "flutter",
+        "tutorial",
+        "ai",
+        "dart"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -809,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1422,
+      "stars": 1427,
       "user": "openai"
     },
     {
@@ -824,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1901,
+      "stars": 2320,
       "user": "rddmwmddr"
     },
     {
@@ -839,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1832,
+      "stars": 1842,
       "user": "ikow"
     },
     {
@@ -854,8 +869,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 565,
       "user": "DrWhax"
+    },
+    {
+      "title": "smhanov/agentloop - Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "url": "https://github.com/smhanov/agentloop",
+      "published_at": "2026-10-25T16:18:50Z",
+      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
+      "source": "GitHub",
+      "stars": 109,
+      "user": "smhanov"
     },
     {
       "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
@@ -869,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 849,
       "user": "andyhuo520"
     },
     {
@@ -884,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 434,
       "user": "yaojingang"
     },
     {
@@ -926,19 +956,6 @@
       "user": "somglin wu"
     },
     {
-      "title": "How to check in Javascript if one element is contained within another",
-      "url": "https://stackoverflow.com/questions/2234979/how-to-check-in-javascript-if-one-element-is-contained-within-another",
-      "published_at": "2010-02-10T06:55:05.000Z",
-      "description": "Stack Overflow question · 11 answers · score 327",
-      "tags": [
-        "javascript",
-        "dom"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AJ."
-    },
-    {
       "title": "ValueError: failed to validate MultiPolygons when trying to create interactive map using Carto basemap and geopandas",
       "url": "https://stackoverflow.com/questions/80012435/valueerror-failed-to-validate-multipolygons-when-trying-to-create-interactive-m",
       "published_at": "2026-10-25T15:06:19.000Z",
@@ -953,6 +970,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Honeywood"
+    },
+    {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "published_at": "2026-10-27T02:00:00.000Z",
+      "description": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "tags": [
+        "AI",
+        "Disrupt",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "published_at": "2026-10-27T01:12:21.000Z",
+      "description": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "tags": [
+        "AI",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
     },
     {
       "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren&#8217;t happy about it",
@@ -1015,20 +1059,20 @@
       "user": "Aditya Mehta"
     },
     {
-      "title": "Anthropic officially files for its public debut",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "published_at": "2026-10-26T14:35:22.000Z",
-      "description": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "title": "How to Build a Simple Data Analyzer in Python with Pandas",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/",
+      "published_at": "2026-10-26T21:56:52.000Z",
+      "description": "Data analysis might sound complicated when you first encounter it. You might imagine large databases, advanced mathematics, and complicated machine learning algorithms. But many useful data analysis t",
       "tags": [
-        "AI",
-        "Anthropic",
-        "dario amodei",
-        "existential risk",
-        "IPO"
+        "Python",
+        "pandas",
+        "data analysis",
+        "Data Science",
+        "Beginner Developers"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
@@ -1268,8 +1312,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1422,
+      "stars": 1427,
       "user": "openai"
+    },
+    {
+      "title": "ZiChuanLan/agent-purge - One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "url": "https://github.com/ZiChuanLan/agent-purge",
+      "published_at": "2026-10-25T06:06:02Z",
+      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
+      "source": "GitHub",
+      "stars": 461,
+      "user": "ZiChuanLan"
     },
     {
       "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
@@ -1283,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 453,
       "user": "misshexa66"
     },
     {
@@ -1298,23 +1357,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 446,
       "user": "WoYun520"
-    },
-    {
-      "title": "ZiChuanLan/agent-purge - One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "url": "https://github.com/ZiChuanLan/agent-purge",
-      "published_at": "2026-10-25T06:06:02Z",
-      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
-      "source": "GitHub",
-      "stars": 316,
-      "user": "ZiChuanLan"
     },
     {
       "title": "KardDev/dsh-plugins - GitHub Repository",
@@ -1343,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 1671,
+      "stars": 1926,
       "user": "designfuchen"
     },
     {
@@ -1358,7 +1402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 849,
       "user": "andyhuo520"
     },
     {
@@ -1373,23 +1417,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 634,
       "user": "surendrapandar"
-    },
-    {
-      "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
-      "url": "https://github.com/agharsallah/esp-labs-web",
-      "published_at": "2026-10-21T13:40:04Z",
-      "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
-      "source": "GitHub",
-      "stars": 361,
-      "user": "agharsallah"
     },
     {
       "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
@@ -1403,8 +1432,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 434,
       "user": "yaojingang"
+    },
+    {
+      "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
+      "url": "https://github.com/agharsallah/esp-labs-web",
+      "published_at": "2026-10-21T13:40:04Z",
+      "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
+      "source": "GitHub",
+      "stars": 407,
+      "user": "agharsallah"
     },
     {
       "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
@@ -1418,14 +1462,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1315,
+      "stars": 1322,
       "user": "colinhacks"
+    },
+    {
+      "title": "Fitting a family tree to the page width in the style of Burke's Peerage",
+      "url": "https://stackoverflow.com/questions/80012756/fitting-a-family-tree-to-the-page-width-in-the-style-of-burkes-peerage",
+      "published_at": "2026-10-27T03:53:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "css",
+        "family-tree",
+        "genealogy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mwhite"
     },
     {
       "title": "Vue 3 – Best approach to avoid rendering delays with dynamic form inputs (v-if vs v-show)?",
       "url": "https://stackoverflow.com/questions/80012717/vue-3-best-approach-to-avoid-rendering-delays-with-dynamic-form-inputs-v-if-v",
       "published_at": "2026-10-26T22:21:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "typescript",
@@ -1478,6 +1537,21 @@
       "user": "somglin wu"
     },
     {
+      "title": "React Hook Form validation across multiple tabs: is useWatch + custom validation the right approach?",
+      "url": "https://stackoverflow.com/questions/79978184/react-hook-form-validation-across-multiple-tabs-is-usewatch-custom-validation",
+      "published_at": "2026-07-09T07:47:43.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "reactjs",
+        "react-hook-form"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Furqan"
+    },
+    {
       "title": "how to reset <input type = \"file\"> in Angular",
       "url": "https://stackoverflow.com/questions/20549241/how-to-reset-input-type-file-in-angular",
       "published_at": "2013-12-12T16:46:23.000Z",
@@ -1489,20 +1563,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jesus"
-    },
-    {
-      "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
-      "url": "https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source",
-      "published_at": "2011-07-01T17:48:29.000Z",
-      "description": "Stack Overflow question · 15 answers · score 332",
-      "tags": [
-        "javascript",
-        "html",
-        "github"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Domenic"
     },
     {
       "title": "Title: React Native Screens enables edge-to-edge mode on Android 15 despite navigationBarTranslucent: false",
@@ -1521,54 +1581,37 @@
       "user": "TehITGuy"
     },
     {
-      "title": "How to check in Javascript if one element is contained within another",
-      "url": "https://stackoverflow.com/questions/2234979/how-to-check-in-javascript-if-one-element-is-contained-within-another",
-      "published_at": "2010-02-10T06:55:05.000Z",
-      "description": "Stack Overflow question · 11 answers · score 327",
+      "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
+      "url": "https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source",
+      "published_at": "2011-07-01T17:48:29.000Z",
+      "description": "Stack Overflow question · 15 answers · score 332",
       "tags": [
         "javascript",
-        "dom"
+        "html",
+        "github"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "AJ."
+      "user": "Domenic"
     },
     {
-      "title": "How to create a protected route with react-router-dom?",
-      "url": "https://stackoverflow.com/questions/66289122/how-to-create-a-protected-route-with-react-router-dom",
-      "published_at": "2021-02-20T07:33:23.000Z",
-      "description": "Stack Overflow question · 7 answers · score 27",
+      "title": "Dynamically set property of nested object",
+      "url": "https://stackoverflow.com/questions/18936915/dynamically-set-property-of-nested-object",
+      "published_at": "2013-09-21T19:50:27.000Z",
+      "description": "Stack Overflow question · 29 answers · score 152",
       "tags": [
         "javascript",
-        "reactjs",
-        "react-router",
-        "react-router-dom"
+        "ecmascript-5"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "learner62"
-    },
-    {
-      "title": "Is there something similar to C# regions in JavaScript? Visual Studio 2017",
-      "url": "https://stackoverflow.com/questions/46267908/is-there-something-similar-to-c-regions-in-javascript-visual-studio-2017",
-      "published_at": "2017-09-17T19:13:49.000Z",
-      "description": "Stack Overflow question · 5 answers · score 24",
-      "tags": [
-        "javascript",
-        "c#",
-        "visual-studio",
-        "visual-studio-2017",
-        "code-regions"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Michael Drum"
+      "user": "John B."
     },
     {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
       "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
       "published_at": "2026-10-26T21:18:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "postgresql",
@@ -1759,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1901,
+      "stars": 2320,
       "user": "rddmwmddr"
     },
     {
@@ -1774,7 +1817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1832,
+      "stars": 1842,
       "user": "ikow"
     },
     {
@@ -1789,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 1562,
+      "stars": 1675,
       "user": "t3dotgg"
     },
     {
@@ -1804,7 +1847,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1477,
+      "stars": 1482,
       "user": "9bie"
     },
     {
@@ -1819,14 +1862,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21166029?v=4",
       "source": "GitHub",
-      "stars": 1252,
+      "stars": 1316,
       "user": "lyramakesmusic"
     },
     {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
       "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
       "published_at": "2026-10-26T21:18:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "postgresql",
@@ -1964,6 +2007,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
+    },
+    {
+      "title": "How to Build a Simple Data Analyzer in Python with Pandas",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/",
+      "published_at": "2026-10-26T21:56:52.000Z",
+      "description": "Data analysis might sound complicated when you first encounter it. You might imagine large databases, advanced mathematics, and complicated machine learning algorithms. But many useful data analysis t",
+      "tags": [
+        "Python",
+        "pandas",
+        "data analysis",
+        "Data Science",
+        "Beginner Developers"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2223,6 +2282,18 @@
       "user": "velmu"
     },
     {
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "published_at": "2026-10-26T12:55:19.365-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "seb"
+    },
+    {
       "title": "Websites Should Be Printable",
       "url": "https://brennenputh.me/blog/printable-websites/",
       "published_at": "2026-10-26T07:02:58.798-05:00",
@@ -2236,16 +2307,19 @@
       "user": "zk"
     },
     {
-      "title": "CSS-Tricks has a new owner",
-      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "published_at": "2026-10-26T12:55:19.365-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Fitting a family tree to the page width in the style of Burke's Peerage",
+      "url": "https://stackoverflow.com/questions/80012756/fitting-a-family-tree-to-the-page-width-in-the-style-of-burkes-peerage",
+      "published_at": "2026-10-27T03:53:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "web"
+        "javascript",
+        "css",
+        "family-tree",
+        "genealogy"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "seb"
+      "source": "StackOverflow",
+      "user": "mwhite"
     },
     {
       "title": "Why does my JS make the browser scroll to the bottom of the page when switching to a section that's taller than the window height?",
@@ -2352,6 +2426,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Building a cross-platform Flutter festival assistant with llamadart",
+      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
+      "published_at": "2026-10-20T13:00:00Z",
+      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
+      "tags": [
+        "flutter",
+        "tutorial",
+        "ai",
+        "dart"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "published_at": "2026-10-24T05:35:47Z",
@@ -2363,7 +2452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1901,
+      "stars": 2320,
       "user": "rddmwmddr"
     },
     {
@@ -2381,22 +2470,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "TehITGuy"
-    },
-    {
-      "title": "How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store",
-      "url": "https://www.freecodecamp.org/news/build-publish-native-android-app-from-jetpack-compose-to-google-play-store-handbook/",
-      "published_at": "2026-10-19T13:14:15.000Z",
-      "description": "Most Android tutorials stop at \"it runs on the emulator.\" But getting an app from a blank project to a listing that real people can install from Google Play involves a second half that's rarely discus",
-      "tags": [
-        "Android",
-        "jetpack",
-        "app",
-        "app development",
-        "handbook"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Nikheel Vishwas Savant"
     }
   ],
   "Cloud": [
@@ -2622,7 +2695,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 178,
       "user": "egoist"
     },
     {
@@ -2712,14 +2785,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1315,
+      "stars": 1322,
       "user": "colinhacks"
     },
     {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
       "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
       "published_at": "2026-10-26T21:18:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "postgresql",
@@ -2745,6 +2818,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aradhya"
+    },
+    {
+      "title": "How to Build a Simple Data Analyzer in Python with Pandas",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/",
+      "published_at": "2026-10-26T21:56:52.000Z",
+      "description": "Data analysis might sound complicated when you first encounter it. You might imagine large databases, advanced mathematics, and complicated machine learning algorithms. But many useful data analysis t",
+      "tags": [
+        "Python",
+        "pandas",
+        "data analysis",
+        "Data Science",
+        "Beginner Developers"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
     },
     {
       "title": "Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval",
@@ -2920,7 +3009,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1832,
+      "stars": 1842,
       "user": "ikow"
     },
     {
@@ -2952,21 +3041,6 @@
   ],
   "Tools": [
     {
-      "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
-      "url": "https://dev.to/gde/the-best-prompt-rule-is-the-one-you-delete-moving-ai-guardrails-out-of-markdown-and-into-git-5a5h",
-      "published_at": "2026-10-25T20:19:06Z",
-      "description": "Every rule that stays in a prompt eventually bloats, blurs, or gets gamed by the model. When systems engineers and an autonomous AI red-teamed my workflow, the cure wasn't more Markdown—it was pushing enforcement down into Git Merkle locks, Linux insmod, and 15ms compiler auto-fixes that cost zero tokens and zero turns.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "compilers"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F76spe97b0zo4l86bgyd4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
       "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
       "published_at": "2026-10-22T23:51:30Z",
@@ -2978,6 +3052,21 @@
         "unix"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
+      "url": "https://dev.to/gde/the-best-prompt-rule-is-the-one-you-delete-moving-ai-guardrails-out-of-markdown-and-into-git-5a5h",
+      "published_at": "2026-10-25T20:19:06Z",
+      "description": "Every rule that stays in a prompt eventually bloats, blurs, or gets gamed by the model. When systems engineers and an autonomous AI red-teamed my workflow, the cure wasn't more Markdown—it was pushing enforcement down into Git Merkle locks, Linux insmod, and 15ms compiler auto-fixes that cost zero tokens and zero turns.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "compilers"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F76spe97b0zo4l86bgyd4.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -3027,21 +3116,6 @@
       "user": "xbill"
     },
     {
-      "title": "SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest",
-      "url": "https://dev.to/gde/slothsre-napops-an-overnight-gemma-4-adk-agent-that-compresses-418-lines-of-3-am-alerts-into-a-1pk6",
-      "published_at": "2026-10-21T15:28:00Z",
-      "description": "How I built a local-first open-weights Gemma 4, Google ADK, and Sentry Agent Tracing pipeline that deduplicates overnight stack traces, verifies git patches in a local pytest sandbox, and lets on-call engineers sleep until 8 AM.",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "gemma",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fslothsre-napops%2Fmain%2Farticles%2Fslothsre-napops%2Fcover.1eb32148.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3089,8 +3163,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1422,
+      "stars": 1427,
       "user": "openai"
+    },
+    {
+      "title": "ZiChuanLan/agent-purge - One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "url": "https://github.com/ZiChuanLan/agent-purge",
+      "published_at": "2026-10-25T06:06:02Z",
+      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
+      "source": "GitHub",
+      "stars": 461,
+      "user": "ZiChuanLan"
     },
     {
       "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
@@ -3104,7 +3193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 446,
+      "stars": 453,
       "user": "misshexa66"
     },
     {
@@ -3119,23 +3208,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 446,
       "user": "WoYun520"
-    },
-    {
-      "title": "ZiChuanLan/agent-purge - One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "url": "https://github.com/ZiChuanLan/agent-purge",
-      "published_at": "2026-10-25T06:06:02Z",
-      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
-      "source": "GitHub",
-      "stars": 316,
-      "user": "ZiChuanLan"
     },
     {
       "title": "KardDev/dsh-plugins - GitHub Repository",
@@ -3164,7 +3238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1901,
+      "stars": 2320,
       "user": "rddmwmddr"
     },
     {
@@ -3179,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1832,
+      "stars": 1842,
       "user": "ikow"
     },
     {
@@ -3194,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 1562,
+      "stars": 1675,
       "user": "t3dotgg"
     },
     {
@@ -3209,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1477,
+      "stars": 1482,
       "user": "9bie"
     },
     {
@@ -3224,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21166029?v=4",
       "source": "GitHub",
-      "stars": 1252,
+      "stars": 1316,
       "user": "lyramakesmusic"
     },
     {
@@ -3239,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 565,
       "user": "DrWhax"
     },
     {
@@ -3254,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 178,
       "user": "egoist"
     },
     {
@@ -3269,8 +3343,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 134,
+      "stars": 139,
       "user": "tractordev"
+    },
+    {
+      "title": "smhanov/agentloop - Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "url": "https://github.com/smhanov/agentloop",
+      "published_at": "2026-10-25T16:18:50Z",
+      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
+      "source": "GitHub",
+      "stars": 109,
+      "user": "smhanov"
     },
     {
       "title": "xue-y-su/clove-api-1.0.6 - Clove API 1.0.6 source code",
@@ -3288,21 +3377,6 @@
       "user": "xue-y-su"
     },
     {
-      "title": "aancw/php2shell-scanner - Scanner for PHP2Shell (CVE-2026-109618/109619): URL blackbox, local device and SSH.",
-      "url": "https://github.com/aancw/php2shell-scanner",
-      "published_at": "2026-10-22T09:45:34Z",
-      "description": "Scanner for PHP2Shell (CVE-2026-109618/109619): URL blackbox, local device and SSH.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6284204?v=4",
-      "source": "GitHub",
-      "stars": 96,
-      "user": "aancw"
-    },
-    {
       "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
       "url": "https://github.com/designfuchen/word-atlas",
       "published_at": "2026-10-25T08:27:22Z",
@@ -3314,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 1671,
+      "stars": 1926,
       "user": "designfuchen"
     },
     {
@@ -3329,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 697,
+      "stars": 849,
       "user": "andyhuo520"
     },
     {
@@ -3344,23 +3418,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 634,
       "user": "surendrapandar"
-    },
-    {
-      "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
-      "url": "https://github.com/agharsallah/esp-labs-web",
-      "published_at": "2026-10-21T13:40:04Z",
-      "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
-      "source": "GitHub",
-      "stars": 361,
-      "user": "agharsallah"
     },
     {
       "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
@@ -3374,8 +3433,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 356,
+      "stars": 434,
       "user": "yaojingang"
+    },
+    {
+      "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
+      "url": "https://github.com/agharsallah/esp-labs-web",
+      "published_at": "2026-10-21T13:40:04Z",
+      "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
+      "source": "GitHub",
+      "stars": 407,
+      "user": "agharsallah"
     },
     {
       "title": "xevrion/hatchzip - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
@@ -3389,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 2058,
+      "stars": 2071,
       "user": "xevrion"
     },
     {
@@ -3404,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1315,
+      "stars": 1322,
       "user": "colinhacks"
     },
     {
@@ -3419,8 +3493,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 724,
       "user": "mizorewww"
+    },
+    {
+      "title": "heydeer/pngdeer - Smaller PNGs, same picture. Lossy PNG compression that picks the quality for you: 8–12% smaller than TinyPNG at the same quality. Command line and in the browser.",
+      "url": "https://github.com/heydeer/pngdeer",
+      "published_at": "2026-10-25T05:09:24Z",
+      "description": "Smaller PNGs, same picture. Lossy PNG compression that picks the quality for you: 8–12% smaller than TinyPNG at the same quality. Command line and in the browser.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
+      "source": "GitHub",
+      "stars": 206,
+      "user": "heydeer"
     },
     {
       "title": "openmathmodel/open-math-harness - The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
@@ -3436,21 +3525,6 @@
       "source": "GitHub",
       "stars": 193,
       "user": "openmathmodel"
-    },
-    {
-      "title": "hffgzktbcc-blip/ounce-core - Clean-room systems research runtime and architecture compatibility layer for NVIDIA Tegra T239 (Horizon OS FW 23.0.1 ABI)",
-      "url": "https://github.com/hffgzktbcc-blip/ounce-core",
-      "published_at": "2026-10-24T19:32:45Z",
-      "description": "Clean-room systems research runtime and architecture compatibility layer for NVIDIA Tegra T239 (Horizon OS FW 23.0.1 ABI)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316626863?v=4",
-      "source": "GitHub",
-      "stars": 183,
-      "user": "hffgzktbcc-blip"
     },
     {
       "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
@@ -3480,6 +3554,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kay90"
+    },
+    {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "published_at": "2026-10-27T02:00:00.000Z",
+      "description": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "tags": [
+        "AI",
+        "Disrupt",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "published_at": "2026-10-27T01:12:21.000Z",
+      "description": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "tags": [
+        "AI",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
