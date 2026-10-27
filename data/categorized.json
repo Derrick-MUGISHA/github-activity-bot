@@ -809,23 +809,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1421,
+      "stars": 1422,
       "user": "openai"
-    },
-    {
-      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "published_at": "2026-10-21T07:55:16Z",
-      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
-      "source": "GitHub",
-      "stars": 1829,
-      "user": "ikow"
     },
     {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
@@ -839,8 +824,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1827,
+      "stars": 1901,
       "user": "rddmwmddr"
+    },
+    {
+      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "published_at": "2026-10-21T07:55:16Z",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
+      "source": "GitHub",
+      "stars": 1832,
+      "user": "ikow"
     },
     {
       "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 479,
       "user": "DrWhax"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 697,
       "user": "andyhuo520"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 356,
       "user": "yaojingang"
     },
     {
@@ -1029,21 +1029,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-      "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-      "published_at": "2026-10-26T14:08:04.000Z",
-      "description": "Matiks has introduced a new platform for users to create games using AI.",
-      "tags": [
-        "Apps",
-        "Fundraising",
-        "games",
-        "General Catalyst"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
@@ -1283,38 +1268,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1421,
+      "stars": 1422,
       "user": "openai"
-    },
-    {
-      "title": "nthnclrk/CleanFrame - A personal home screen for Samsung The Frame. A starting point to fork and adapt.",
-      "url": "https://github.com/nthnclrk/CleanFrame",
-      "published_at": "2026-10-20T04:40:07Z",
-      "description": "A personal home screen for Samsung The Frame. A starting point to fork and adapt.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
-      "source": "GitHub",
-      "stars": 662,
-      "user": "nthnclrk"
-    },
-    {
-      "title": "WoYun520/dsh-purge - DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "url": "https://github.com/WoYun520/dsh-purge",
-      "published_at": "2026-10-21T01:35:52Z",
-      "description": "DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
-      "source": "GitHub",
-      "stars": 445,
-      "user": "WoYun520"
     },
     {
       "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
@@ -1328,23 +1283,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 446,
       "user": "misshexa66"
     },
     {
-      "title": "mrdoob/slop-newyork - GitHub Repository",
-      "url": "https://github.com/mrdoob/slop-newyork",
-      "published_at": "2026-10-20T09:16:37Z",
+      "title": "WoYun520/dsh-purge - DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
+      "url": "https://github.com/WoYun520/dsh-purge",
+      "published_at": "2026-10-21T01:35:52Z",
+      "description": "DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
+      "source": "GitHub",
+      "stars": 444,
+      "user": "WoYun520"
+    },
+    {
+      "title": "ZiChuanLan/agent-purge - One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "url": "https://github.com/ZiChuanLan/agent-purge",
+      "published_at": "2026-10-25T06:06:02Z",
+      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
+      "source": "GitHub",
+      "stars": 316,
+      "user": "ZiChuanLan"
+    },
+    {
+      "title": "KardDev/dsh-plugins - GitHub Repository",
+      "url": "https://github.com/KardDev/dsh-plugins",
+      "published_at": "2026-10-21T01:39:43Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/93955479?v=4",
       "source": "GitHub",
-      "stars": 384,
-      "user": "mrdoob"
+      "stars": 287,
+      "user": "KardDev"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
@@ -1358,7 +1343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 1591,
+      "stars": 1671,
       "user": "designfuchen"
     },
     {
@@ -1373,7 +1358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 697,
       "user": "andyhuo520"
     },
     {
@@ -1388,7 +1373,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 621,
       "user": "surendrapandar"
     },
     {
@@ -1403,7 +1388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 361,
       "user": "agharsallah"
     },
     {
@@ -1418,7 +1403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 356,
       "user": "yaojingang"
     },
     {
@@ -1433,8 +1418,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1312,
+      "stars": 1315,
       "user": "colinhacks"
+    },
+    {
+      "title": "Vue 3 – Best approach to avoid rendering delays with dynamic form inputs (v-if vs v-show)?",
+      "url": "https://stackoverflow.com/questions/80012717/vue-3-best-approach-to-avoid-rendering-delays-with-dynamic-form-inputs-v-if-v",
+      "published_at": "2026-10-26T22:21:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "typescript",
+        "vue.js",
+        "vuejs3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Adrian Ma&#241;as"
     },
     {
       "title": "onload() not called when revisiting a PHP page (after upgrade to PHP 8.5)",
@@ -1462,22 +1462,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Black Ink Games"
-    },
-    {
-      "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
-      "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
-      "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score 9",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "unicode",
-        "fonts"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "George Joseph"
     },
     {
       "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
@@ -1764,19 +1748,19 @@
       "user": "arathore"
     },
     {
-      "title": "Jakeschincariol/day-trader-skill - 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-      "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "published_at": "2026-10-20T14:17:54Z",
-      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "published_at": "2026-10-24T05:35:47Z",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 2030,
-      "user": "Jakeschincariol"
+      "stars": 1901,
+      "user": "rddmwmddr"
     },
     {
       "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
@@ -1790,23 +1774,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1829,
+      "stars": 1832,
       "user": "ikow"
-    },
-    {
-      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "published_at": "2026-10-24T05:35:47Z",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
-      "source": "GitHub",
-      "stars": 1827,
-      "user": "rddmwmddr"
     },
     {
       "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
@@ -1820,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 1474,
+      "stars": 1562,
       "user": "t3dotgg"
     },
     {
@@ -1835,8 +1804,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1473,
+      "stars": 1477,
       "user": "9bie"
+    },
+    {
+      "title": "lyramakesmusic/neuron-explorer - Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+      "url": "https://github.com/lyramakesmusic/neuron-explorer",
+      "published_at": "2026-10-21T04:09:05Z",
+      "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/21166029?v=4",
+      "source": "GitHub",
+      "stars": 1252,
+      "user": "lyramakesmusic"
     },
     {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
@@ -1858,7 +1842,7 @@
       "title": "Why doesn't my PyQt5 Progress Bar Dialog stay visible?",
       "url": "https://stackoverflow.com/questions/80012687/why-doesnt-my-pyqt5-progress-bar-dialog-stay-visible",
       "published_at": "2026-10-26T19:53:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "python-3.x",
@@ -2277,22 +2261,6 @@
       "user": "Black Ink Games"
     },
     {
-      "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
-      "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
-      "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 2 answers · score 9",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "unicode",
-        "fonts"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "George Joseph"
-    },
-    {
       "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
       "url": "https://stackoverflow.com/questions/80009408/joomla-4-403-forbidden-error-when-saving-custom-html-module-containing-inline-j",
       "published_at": "2026-10-12T09:03:11.000Z",
@@ -2395,7 +2363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1827,
+      "stars": 1901,
       "user": "rddmwmddr"
     },
     {
@@ -2654,7 +2622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 148,
       "user": "egoist"
     },
     {
@@ -2744,7 +2712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1312,
+      "stars": 1315,
       "user": "colinhacks"
     },
     {
@@ -2952,7 +2920,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1829,
+      "stars": 1832,
       "user": "ikow"
     },
     {
@@ -2967,19 +2935,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "freddyb"
-    },
-    {
-      "title": "POSIX wordexp(3) is dangerous",
-      "url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
-      "published_at": "2026-10-25T10:09:29.815-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "c",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "yossarian"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
@@ -3134,38 +3089,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1421,
+      "stars": 1422,
       "user": "openai"
-    },
-    {
-      "title": "nthnclrk/CleanFrame - A personal home screen for Samsung The Frame. A starting point to fork and adapt.",
-      "url": "https://github.com/nthnclrk/CleanFrame",
-      "published_at": "2026-10-20T04:40:07Z",
-      "description": "A personal home screen for Samsung The Frame. A starting point to fork and adapt.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/3250382?v=4",
-      "source": "GitHub",
-      "stars": 662,
-      "user": "nthnclrk"
-    },
-    {
-      "title": "WoYun520/dsh-purge - DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "url": "https://github.com/WoYun520/dsh-purge",
-      "published_at": "2026-10-21T01:35:52Z",
-      "description": "DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
-      "source": "GitHub",
-      "stars": 445,
-      "user": "WoYun520"
     },
     {
       "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
@@ -3179,53 +3104,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 437,
+      "stars": 446,
       "user": "misshexa66"
     },
     {
-      "title": "mrdoob/slop-newyork - GitHub Repository",
-      "url": "https://github.com/mrdoob/slop-newyork",
-      "published_at": "2026-10-20T09:16:37Z",
+      "title": "WoYun520/dsh-purge - DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
+      "url": "https://github.com/WoYun520/dsh-purge",
+      "published_at": "2026-10-21T01:35:52Z",
+      "description": "DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
+      "source": "GitHub",
+      "stars": 444,
+      "user": "WoYun520"
+    },
+    {
+      "title": "ZiChuanLan/agent-purge - One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "url": "https://github.com/ZiChuanLan/agent-purge",
+      "published_at": "2026-10-25T06:06:02Z",
+      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
+      "source": "GitHub",
+      "stars": 316,
+      "user": "ZiChuanLan"
+    },
+    {
+      "title": "KardDev/dsh-plugins - GitHub Repository",
+      "url": "https://github.com/KardDev/dsh-plugins",
+      "published_at": "2026-10-21T01:39:43Z",
       "description": "Trending GitHub Repository",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97088?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/93955479?v=4",
       "source": "GitHub",
-      "stars": 384,
-      "user": "mrdoob"
-    },
-    {
-      "title": "Jakeschincariol/day-trader-skill - 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-      "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "published_at": "2026-10-20T14:17:54Z",
-      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/196724947?v=4",
-      "source": "GitHub",
-      "stars": 2030,
-      "user": "Jakeschincariol"
-    },
-    {
-      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "published_at": "2026-10-21T07:55:16Z",
-      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
-      "source": "GitHub",
-      "stars": 1829,
-      "user": "ikow"
+      "stars": 287,
+      "user": "KardDev"
     },
     {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
@@ -3239,8 +3164,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 1827,
+      "stars": 1901,
       "user": "rddmwmddr"
+    },
+    {
+      "title": "ikow/php2shell-poc - CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "published_at": "2026-10-21T07:55:16Z",
+      "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
+      "source": "GitHub",
+      "stars": 1832,
+      "user": "ikow"
     },
     {
       "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
@@ -3254,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 1474,
+      "stars": 1562,
       "user": "t3dotgg"
     },
     {
@@ -3269,8 +3209,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1473,
+      "stars": 1477,
       "user": "9bie"
+    },
+    {
+      "title": "lyramakesmusic/neuron-explorer - Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+      "url": "https://github.com/lyramakesmusic/neuron-explorer",
+      "published_at": "2026-10-21T04:09:05Z",
+      "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/21166029?v=4",
+      "source": "GitHub",
+      "stars": 1252,
+      "user": "lyramakesmusic"
     },
     {
       "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
@@ -3284,23 +3239,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 479,
       "user": "DrWhax"
-    },
-    {
-      "title": "Fluepke/emudrahahahahaha - Private Keys",
-      "url": "https://github.com/Fluepke/emudrahahahahaha",
-      "published_at": "2026-10-20T16:42:49Z",
-      "description": "Private Keys",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/7505091?v=4",
-      "source": "GitHub",
-      "stars": 243,
-      "user": "Fluepke"
     },
     {
       "title": "egoist/mygo-cloudmusic - MyGo 云音乐 - 第三方网易云音乐原生客户端",
@@ -3314,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 140,
+      "stars": 148,
       "user": "egoist"
     },
     {
@@ -3329,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 131,
+      "stars": 134,
       "user": "tractordev"
     },
     {
@@ -3348,6 +3288,21 @@
       "user": "xue-y-su"
     },
     {
+      "title": "aancw/php2shell-scanner - Scanner for PHP2Shell (CVE-2026-109618/109619): URL blackbox, local device and SSH.",
+      "url": "https://github.com/aancw/php2shell-scanner",
+      "published_at": "2026-10-22T09:45:34Z",
+      "description": "Scanner for PHP2Shell (CVE-2026-109618/109619): URL blackbox, local device and SSH.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6284204?v=4",
+      "source": "GitHub",
+      "stars": 96,
+      "user": "aancw"
+    },
+    {
       "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
       "url": "https://github.com/designfuchen/word-atlas",
       "published_at": "2026-10-25T08:27:22Z",
@@ -3359,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 1591,
+      "stars": 1671,
       "user": "designfuchen"
     },
     {
@@ -3374,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 630,
+      "stars": 697,
       "user": "andyhuo520"
     },
     {
@@ -3389,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 621,
       "user": "surendrapandar"
     },
     {
@@ -3404,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 361,
       "user": "agharsallah"
     },
     {
@@ -3419,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 356,
       "user": "yaojingang"
     },
     {
@@ -3434,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 2048,
+      "stars": 2058,
       "user": "xevrion"
     },
     {
@@ -3449,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1312,
+      "stars": 1315,
       "user": "colinhacks"
     },
     {
@@ -3464,38 +3419,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 710,
       "user": "mizorewww"
     },
     {
-      "title": "torrentplayer/torrentplayer - Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.",
-      "url": "https://github.com/torrentplayer/torrentplayer",
-      "published_at": "2026-10-20T19:44:10Z",
-      "description": "Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.",
+      "title": "openmathmodel/open-math-harness - The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
+      "url": "https://github.com/openmathmodel/open-math-harness",
+      "published_at": "2026-10-22T08:17:44Z",
+      "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/345837424?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/330179988?v=4",
       "source": "GitHub",
-      "stars": 665,
-      "user": "torrentplayer"
+      "stars": 193,
+      "user": "openmathmodel"
     },
     {
-      "title": "dominikmartn/harp - Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
-      "url": "https://github.com/dominikmartn/harp",
-      "published_at": "2026-10-20T10:39:43Z",
-      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "title": "hffgzktbcc-blip/ounce-core - Clean-room systems research runtime and architecture compatibility layer for NVIDIA Tegra T239 (Horizon OS FW 23.0.1 ABI)",
+      "url": "https://github.com/hffgzktbcc-blip/ounce-core",
+      "published_at": "2026-10-24T19:32:45Z",
+      "description": "Clean-room systems research runtime and architecture compatibility layer for NVIDIA Tegra T239 (Horizon OS FW 23.0.1 ABI)",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/4389660?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/316626863?v=4",
       "source": "GitHub",
-      "stars": 649,
-      "user": "dominikmartn"
+      "stars": 183,
+      "user": "hffgzktbcc-blip"
     },
     {
       "title": "Can I run HTML files directly from GitHub, instead of just viewing their source?",
