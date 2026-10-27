@@ -1,36 +1,6 @@
 {
   "AI": [
     {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine! $2,850 in Prizes Across 21 Winners.",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-2850-in-prizes-across-21-3cho",
-      "published_at": "2026-10-26T19:00:30Z",
-      "description": "Week 4 of our Hacktoberfest DEV Challenges starts today, and it's our final challenge of the series!...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4b2bp0h36xv9ooc5bq0t.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
-      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
-      "url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0",
-      "published_at": "2026-10-25T06:45:27Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "gemma",
-        "tabpfn"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw41tloy7yvhtkzh9237.png",
-      "source": "Dev.to",
-      "user": "Khushighosh"
-    },
-    {
       "title": "Inference on Google Cloud: Precision, Memory and Capacity on TPU, from v5e to Ironwood",
       "url": "https://dev.to/gde/inference-on-google-cloud-precision-memory-and-capacity-on-tpu-from-v5e-to-ironwood-5dlf",
       "published_at": "2026-10-25T23:02:38Z",
@@ -104,6 +74,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine! $2,850 in Prizes Across 21 Winners.",
+      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-2850-in-prizes-across-21-3cho",
+      "published_at": "2026-10-26T19:00:30Z",
+      "description": "Week 4 of our Hacktoberfest DEV Challenges starts today, and it's our final challenge of the series!...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4b2bp0h36xv9ooc5bq0t.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
+      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
+      "url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0",
+      "published_at": "2026-10-25T06:45:27Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "tabpfn"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw41tloy7yvhtkzh9237.png",
+      "source": "Dev.to",
+      "user": "Khushighosh"
     },
     {
       "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
@@ -196,21 +196,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
-      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
-      "published_at": "2026-10-21T18:56:20Z",
-      "description": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
       "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
       "published_at": "2026-10-22T23:51:30Z",
@@ -224,6 +209,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
+      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
+      "published_at": "2026-10-21T18:56:20Z",
+      "description": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.",
+      "tags": [
+        "kubernetes",
+        "ai",
+        "gke",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
+      "source": "Dev.to",
+      "user": "Olivier Bourgeois"
     },
     {
       "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
@@ -241,19 +241,19 @@
       "user": "Paul Horton"
     },
     {
-      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
-      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
-      "published_at": "2026-10-11T19:45:03Z",
-      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
+      "title": "Why Smaller AI Models Can Win in the Enterprise",
+      "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57",
+      "published_at": "2026-10-11T19:41:19Z",
+      "description": "Three engineering lessons from building a 1-billion-parameter foundation model for enterprise fraud detection.",
       "tags": [
         "aie",
-        "ai",
-        "infrastructure",
-        "data"
+        "machinelearning",
+        "gpu",
+        "deeplearning"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm639wbwsz2jige4sw3v1.png",
       "source": "Dev.to",
-      "user": "Kara Silverman"
+      "user": "Freddy Lécué"
     },
     {
       "title": "A World Worth Understanding",
@@ -271,19 +271,19 @@
       "user": "dev.to staff"
     },
     {
-      "title": "Why Smaller AI Models Can Win in the Enterprise",
-      "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57",
-      "published_at": "2026-10-11T19:41:19Z",
-      "description": "Three engineering lessons from building a 1-billion-parameter foundation model for enterprise fraud detection.",
+      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
+      "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
+      "published_at": "2026-10-11T19:45:03Z",
+      "description": "We interviewed Al Chen for year's AI Engineer NYC event. Al is a Software Engineering Leader at...",
       "tags": [
         "aie",
-        "machinelearning",
-        "gpu",
-        "deeplearning"
+        "ai",
+        "infrastructure",
+        "data"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm639wbwsz2jige4sw3v1.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
       "source": "Dev.to",
-      "user": "Freddy Lécué"
+      "user": "Kara Silverman"
     },
     {
       "title": "[Agent Platform in Practice (2)] From Monolithic Cloud Run to Google Cloud Agent Runtime: Refactoring LINE AI Business Card King",
@@ -406,21 +406,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "For Agents, Waiting is the Hardest Part",
-      "url": "https://dev.to/dailycontext/for-agents-waiting-is-the-hardest-part-30ik",
-      "published_at": "2026-10-14T12:03:52Z",
-      "description": "Many engineers rightfully view every step in a financial workflow as a potential point of failure,...",
-      "tags": [
-        "ai",
-        "agents",
-        "opensource",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1hi8lqrej5xsyrhnr9c3.png",
-      "source": "Dev.to",
-      "user": "Tom Wheeler"
-    },
-    {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-2-side-hustle-winners-2i33",
       "published_at": "2026-10-23T20:18:31Z",
@@ -496,21 +481,6 @@
       "user": "Jem"
     },
     {
-      "title": "EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4",
-      "url": "https://dev.to/gde/embeddinggemma-2-on-cloud-run-an-int8-cpu-service-against-an-nvidia-l4-15ac",
-      "published_at": "2026-10-13T01:20:25Z",
-      "description": "Step by step deployment of Google's EmbeddingGemma 2 text embeddings to Cloud Run, on a 1 vCPU instance with an int8 repack and on an NVIDIA L4, with tests, a semantic search demo, benchmarks and a cost per million documents.",
-      "tags": [
-        "googlecloud",
-        "gemma",
-        "cloudrun",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fembedding-cloudrun%2Fmain%2Fdocs%2Farticles%2Fembeddinggemma-cloudrun%2Fdevto-cover.a2390bee.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Frontier AI models outperform human experts on earnings prediction for the first time",
       "url": "https://dev.to/dailycontext/frontier-ai-models-outperform-human-experts-on-earnings-prediction-for-the-first-time-3fhb",
       "published_at": "2026-10-12T21:02:54Z",
@@ -526,19 +496,19 @@
       "user": "Ashwin Paranjape"
     },
     {
-      "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
-      "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
-      "published_at": "2026-10-12T21:03:17Z",
-      "description": "Written by John Feminella  We now inhabit a world where agents can execute operations in production...",
+      "title": "EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4",
+      "url": "https://dev.to/gde/embeddinggemma-2-on-cloud-run-an-int8-cpu-service-against-an-nvidia-l4-15ac",
+      "published_at": "2026-10-13T01:20:25Z",
+      "description": "Step by step deployment of Google's EmbeddingGemma 2 text embeddings to Cloud Run, on a 1 vCPU instance with an int8 repack and on an NVIDIA L4, with tests, a semantic search demo, benchmarks and a cost per million documents.",
       "tags": [
-        "ai",
-        "agents",
-        "security",
-        "aie"
+        "googlecloud",
+        "gemma",
+        "cloudrun",
+        "machinelearning"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fembedding-cloudrun%2Fmain%2Fdocs%2Farticles%2Fembeddinggemma-cloudrun%2Fdevto-cover.a2390bee.jpg",
       "source": "Dev.to",
-      "user": "dev.to staff"
+      "user": "xbill"
     },
     {
       "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
@@ -554,6 +524,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2w4jruci4ticsodem7oi.png",
       "source": "Dev.to",
       "user": "Richard MacManus"
+    },
+    {
+      "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
+      "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
+      "published_at": "2026-10-12T21:03:17Z",
+      "description": "Written by John Feminella  We now inhabit a world where agents can execute operations in production...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
     },
     {
       "title": "Workshop Day Opens AI Engineer NYC",
@@ -600,6 +585,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "OpenGameBuilder: Describe a game in one sentence and generate it using a local LLM like Gemma 4.",
+      "url": "https://dev.to/blaiselabs/opengamebuilder-describe-a-game-in-one-sentence-and-generate-it-using-a-local-llm-like-gemma-4-215m",
+      "published_at": "2026-10-19T07:01:01Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle    Every...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "sentry"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblaiselabs.github.io%2FOpenGameBuilder%2Farticle%2Fhero_cherry_town.png",
+      "source": "Dev.to",
+      "user": "Blaise Labs"
+    },
+    {
       "title": "The Model Is the Easy Part",
       "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
       "published_at": "2026-10-14T12:04:00Z",
@@ -615,19 +615,19 @@
       "user": "Steven Latre"
     },
     {
-      "title": "OpenGameBuilder: Describe a game in one sentence and generate it using a local LLM like Gemma 4.",
-      "url": "https://dev.to/blaiselabs/opengamebuilder-describe-a-game-in-one-sentence-and-generate-it-using-a-local-llm-like-gemma-4-215m",
-      "published_at": "2026-10-19T07:01:01Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle    Every...",
+      "title": "Building a cross-platform Flutter festival assistant with llamadart",
+      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
+      "published_at": "2026-10-20T13:00:00Z",
+      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
       "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "gemma",
-        "sentry"
+        "flutter",
+        "tutorial",
+        "ai",
+        "dart"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblaiselabs.github.io%2FOpenGameBuilder%2Farticle%2Fhero_cherry_town.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
       "source": "Dev.to",
-      "user": "Blaise Labs"
+      "user": "Jhin Lee"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1436,
+      "stars": 1439,
       "user": "openai"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 3121,
+      "stars": 3172,
       "user": "rddmwmddr"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1864,
+      "stars": 1865,
       "user": "ikow"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 655,
       "user": "DrWhax"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "smhanov"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1044,
+      "stars": 1054,
       "user": "andyhuo520"
     },
     {
@@ -899,20 +899,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 586,
       "user": "yaojingang"
     },
     {
-      "title": "Why is it so expensive to send an email?",
-      "url": "https://evancz.dev/why-is-it-so-expensive-to-send-an-email",
-      "published_at": "2026-10-26T08:25:41.253-05:00",
+      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+      "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+      "published_at": "2026-10-27T14:08:23.211-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "email"
+        "ai",
+        "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "wolfadex"
+      "user": "ni5arga"
     },
     {
       "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
@@ -929,29 +930,78 @@
       "user": "somglin wu"
     },
     {
-      "title": "ValueError: failed to validate MultiPolygons when trying to create interactive map using Carto basemap and geopandas",
-      "url": "https://stackoverflow.com/questions/80012435/valueerror-failed-to-validate-multipolygons-when-trying-to-create-interactive-m",
-      "published_at": "2026-10-25T15:06:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
+      "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "published_at": "2026-10-27T21:44:34.000Z",
+      "description": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
       "tags": [
-        "python",
-        "geospatial",
-        "geopandas",
-        "cartopy",
-        "holoviews"
+        "AI",
+        "Fintech",
+        "Security",
+        "agentic payments",
+        "Bank of America"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Honeywood"
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Who&#8217;s really in charge at Anthropic after the IPO?",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "published_at": "2026-10-27T21:38:28.000Z",
+      "description": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "IPO"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "published_at": "2026-10-27T20:31:17.000Z",
+      "description": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "Transportation",
+        "EVs",
+        "General Catalyst"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sean O'Kane"
+    },
+    {
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "published_at": "2026-10-27T18:55:35.000Z",
+      "description": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Venture",
+        "disruptive",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
       "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
       "published_at": "2026-10-27T17:08:08.000Z",
-      "description": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+      "description": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
       "tags": [
         "AI",
-        "Exclusive"
+        "Anthropic",
+        "Exclusive",
+        "MIT",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -961,7 +1011,7 @@
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
       "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
       "published_at": "2026-10-27T16:30:57.000Z",
-      "description": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+      "description": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
       "tags": [
         "AI",
         "Media & Entertainment",
@@ -990,51 +1040,20 @@
       "user": "Rebecca Bellan"
     },
     {
-      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-      "published_at": "2026-10-27T13:54:51.000Z",
-      "description": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+      "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
+      "url": "https://www.freecodecamp.org/news/how-to-build-passkey-authentication-with-webauthn-next-js-and-nestjs/",
+      "published_at": "2026-10-27T17:44:12.000Z",
+      "description": "Passwords are a pain for both users and service providers․ Users often find it difficult to remember passwords, and the risk of phishing and password reuse across multiple websites is high. Developers",
       "tags": [
-        "Apps",
-        "Apple",
-        "iOS",
-        "siri ai"
+        "authentication",
+        "passwordless authentication",
+        "passkeys",
+        "nestjs",
+        "#webauthn"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta, Zack Whittaker"
-    },
-    {
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "published_at": "2026-10-27T13:32:57.000Z",
-      "description": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-      "tags": [
-        "AI",
-        "Security",
-        "CrowdStrike",
-        "cybersecurity",
-        "GMO Internet"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
-    },
-    {
-      "title": "Billionaire Palmer Luckey isn&#8217;t leaving California over the wealth tax",
-      "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-      "published_at": "2026-10-27T13:01:00.000Z",
-      "description": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
-      "tags": [
-        "Startups",
-        "TC",
-        "anduril",
-        "billionaire tax",
-        "Palmer Luckey"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
+      "source": "freeCodeCamp",
+      "user": "Roland Mweze"
     },
     {
       "title": "How to Build a Simple Data Analyzer in Python with Pandas",
@@ -1124,22 +1143,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Gabor Koos"
-    },
-    {
-      "title": "How to Make Your Coding Agent Check Its Work in the Browser",
-      "url": "https://www.freecodecamp.org/news/how-to-make-your-coding-agent-check-its-work-in-the-browser/",
-      "published_at": "2026-10-20T09:16:48.000Z",
-      "description": "I got tired of coding agents telling me the frontend work was done when nobody had opened the frontend. You've probably seen the routine. The agent changes some code, runs the formatter, the type chec",
-      "tags": [
-        "playwright",
-        "AI",
-        "Web Development",
-        "Testing",
-        "Frontend Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "timothy ogbemudia"
     }
   ],
   "JavaScript": [
@@ -1290,7 +1293,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1436,
+      "stars": 1439,
       "user": "openai"
     },
     {
@@ -1305,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 581,
       "user": "ZiChuanLan"
     },
     {
@@ -1320,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 474,
       "user": "misshexa66"
     },
     {
@@ -1335,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 455,
       "user": "WoYun520"
     },
     {
@@ -1350,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93955479?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 410,
       "user": "KardDev"
     },
     {
@@ -1365,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 2409,
+      "stars": 2437,
       "user": "designfuchen"
     },
     {
@@ -1380,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1044,
+      "stars": 1054,
       "user": "andyhuo520"
     },
     {
@@ -1395,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 695,
       "user": "surendrapandar"
     },
     {
@@ -1410,23 +1413,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 586,
       "user": "yaojingang"
     },
     {
-      "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
-      "url": "https://github.com/agharsallah/esp-labs-web",
-      "published_at": "2026-10-21T13:40:04Z",
-      "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
+      "title": "kargulstudio/calender-app-design - GitHub Repository",
+      "url": "https://github.com/kargulstudio/calender-app-design",
+      "published_at": "2026-10-26T18:38:56Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 490,
-      "user": "agharsallah"
+      "stars": 582,
+      "user": "kargulstudio"
     },
     {
       "title": "colinhacks/reylo - Import .sql files into TypeScript with full type inference and zero codegen.",
@@ -1440,14 +1443,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1332,
+      "stars": 1337,
       "user": "colinhacks"
+    },
+    {
+      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+      "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+      "published_at": "2026-10-27T14:08:23.211-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ni5arga"
     },
     {
       "title": "Owl Carousel product links don't respond to the first tap on Android after swiping",
       "url": "https://stackoverflow.com/questions/80012931/owl-carousel-product-links-dont-respond-to-the-first-tap-on-android-after-swipi",
       "published_at": "2026-10-27T17:23:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "jquery",
@@ -1461,7 +1477,7 @@
       "title": "iOS Safari: window.open with the same window name does nothing after the popup tab was closed with the back button",
       "url": "https://stackoverflow.com/questions/80012902/ios-safari-window-open-with-the-same-window-name-does-nothing-after-the-popup-t",
       "published_at": "2026-10-27T15:10:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "ios",
@@ -1519,6 +1535,22 @@
       "user": "Adrian Ma&#241;as"
     },
     {
+      "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
+      "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
+      "published_at": "2026-10-23T18:50:36.000Z",
+      "description": "Stack Overflow question · 3 answers · score 9",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "unicode",
+        "fonts"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "George Joseph"
+    },
+    {
       "title": "onload() not called when revisiting a PHP page (after upgrade to PHP 8.5)",
       "url": "https://stackoverflow.com/questions/80012637/onload-not-called-when-revisiting-a-php-page-after-upgrade-to-php-8-5",
       "published_at": "2026-10-26T14:53:15.000Z",
@@ -1573,21 +1605,6 @@
       "user": "Parking Master"
     },
     {
-      "title": "React Hook Form validation across multiple tabs: is useWatch + custom validation the right approach?",
-      "url": "https://stackoverflow.com/questions/79978184/react-hook-form-validation-across-multiple-tabs-is-usewatch-custom-validation",
-      "published_at": "2026-07-09T07:47:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "reactjs",
-        "react-hook-form"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Furqan"
-    },
-    {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
       "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
       "published_at": "2026-10-26T21:18:35.000Z",
@@ -1602,6 +1619,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "madjetmax"
+    },
+    {
+      "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
+      "url": "https://www.freecodecamp.org/news/how-to-build-passkey-authentication-with-webauthn-next-js-and-nestjs/",
+      "published_at": "2026-10-27T17:44:12.000Z",
+      "description": "Passwords are a pain for both users and service providers․ Users often find it difficult to remember passwords, and the risk of phishing and password reuse across multiple websites is high. Developers",
+      "tags": [
+        "authentication",
+        "passwordless authentication",
+        "passkeys",
+        "nestjs",
+        "#webauthn"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Roland Mweze"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -1782,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 3121,
+      "stars": 3172,
       "user": "rddmwmddr"
     },
     {
@@ -1797,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 1904,
+      "stars": 1974,
       "user": "t3dotgg"
     },
     {
@@ -1812,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1864,
+      "stars": 1865,
       "user": "ikow"
     },
     {
@@ -1827,7 +1860,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1497,
+      "stars": 1499,
       "user": "9bie"
     },
     {
@@ -1842,8 +1875,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21166029?v=4",
       "source": "GitHub",
-      "stars": 1436,
+      "stars": 1461,
       "user": "lyramakesmusic"
+    },
+    {
+      "title": "A fast and secure tar parser for the Rust ecosystem",
+      "url": "https://astral.sh/blog/tar-codec",
+      "published_at": "2026-10-27T11:59:30.534-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "python",
+        "rust"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "yossarian"
     },
     {
       "title": "Python's experimental JIT to be removed",
@@ -1856,6 +1902,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "val"
+    },
+    {
+      "title": "Tkinter Toplevel Windows Persisting in Memory When Deleted",
+      "url": "https://stackoverflow.com/questions/80012958/tkinter-toplevel-windows-persisting-in-memory-when-deleted",
+      "published_at": "2026-10-27T19:50:42.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "tkinter",
+        "garbage-collection",
+        "toplevel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "MikaPika"
     },
     {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
@@ -1874,6 +1935,21 @@
       "user": "madjetmax"
     },
     {
+      "title": "Multithreaded web server is not threading requests",
+      "url": "https://stackoverflow.com/questions/80012553/multithreaded-web-server-is-not-threading-requests",
+      "published_at": "2026-10-26T08:34:12.000Z",
+      "description": "Stack Overflow question · 2 answers · score -2",
+      "tags": [
+        "python",
+        "multithreading",
+        "http",
+        "webserver"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "RS8"
+    },
+    {
       "title": "Why doesn't my PyQt5 Progress Bar Dialog stay visible?",
       "url": "https://stackoverflow.com/questions/80012687/why-doesnt-my-pyqt5-progress-bar-dialog-stay-visible",
       "published_at": "2026-10-26T19:53:45.000Z",
@@ -1888,37 +1964,10 @@
       "user": "Kes Perron"
     },
     {
-      "title": "Struggling to understand Python while loop code block",
-      "url": "https://stackoverflow.com/questions/80012621/struggling-to-understand-python-while-loop-code-block",
-      "published_at": "2026-10-26T14:12:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -8",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NeuronEdge"
-    },
-    {
-      "title": "Multithreaded web server is not threading requests",
-      "url": "https://stackoverflow.com/questions/80012553/multithreaded-web-server-is-not-threading-requests",
-      "published_at": "2026-10-26T08:34:12.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "multithreading",
-        "http",
-        "webserver"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "RS8"
-    },
-    {
       "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
       "url": "https://stackoverflow.com/questions/80012398/how-to-fix-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable-to",
       "published_at": "2026-10-25T10:15:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
         "sqlite",
@@ -1930,20 +1979,16 @@
       "user": "Aradhya"
     },
     {
-      "title": "ValueError: failed to validate MultiPolygons when trying to create interactive map using Carto basemap and geopandas",
-      "url": "https://stackoverflow.com/questions/80012435/valueerror-failed-to-validate-multipolygons-when-trying-to-create-interactive-m",
-      "published_at": "2026-10-25T15:06:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
+      "title": "Struggling to understand Python while loop code block",
+      "url": "https://stackoverflow.com/questions/80012621/struggling-to-understand-python-while-loop-code-block",
+      "published_at": "2026-10-26T14:12:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -8",
       "tags": [
-        "python",
-        "geospatial",
-        "geopandas",
-        "cartopy",
-        "holoviews"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Honeywood"
+      "user": "NeuronEdge"
     },
     {
       "title": "How can I ensure a 20 microsecond cycle during real time testing?",
@@ -1978,7 +2023,7 @@
       "title": "Import hook at the AST level",
       "url": "https://stackoverflow.com/questions/80010756/import-hook-at-the-ast-level",
       "published_at": "2026-10-17T14:57:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "python-3.x",
@@ -1993,7 +2038,7 @@
       "title": "Pydantic v2: default a generic Literal discriminator from its type parameter",
       "url": "https://stackoverflow.com/questions/80010667/pydantic-v2-default-a-generic-literal-discriminator-from-its-type-parameter",
       "published_at": "2026-10-17T03:03:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "pydantic",
@@ -2277,31 +2322,6 @@
       "user": "velmu"
     },
     {
-      "title": "CSS-Tricks has a new owner",
-      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "published_at": "2026-10-26T12:55:19.365-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "seb"
-    },
-    {
-      "title": "Websites Should Be Printable",
-      "url": "https://brennenputh.me/blog/printable-websites/",
-      "published_at": "2026-10-26T07:02:58.798-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "css",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "zk"
-    },
-    {
       "title": "Fitting a family tree to the page width in the style of Burke's Peerage",
       "url": "https://stackoverflow.com/questions/80012756/fitting-a-family-tree-to-the-page-width-in-the-style-of-burkes-peerage",
       "published_at": "2026-10-27T03:53:05.000Z",
@@ -2315,6 +2335,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mwhite"
+    },
+    {
+      "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
+      "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
+      "published_at": "2026-10-23T18:50:36.000Z",
+      "description": "Stack Overflow question · 3 answers · score 9",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "unicode",
+        "fonts"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "George Joseph"
     },
     {
       "title": "Why does my JS make the browser scroll to the bottom of the page when switching to a section that's taller than the window height?",
@@ -2357,22 +2393,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Ahmed Tariq"
-    },
-    {
-      "title": "How to Make Your Coding Agent Check Its Work in the Browser",
-      "url": "https://www.freecodecamp.org/news/how-to-make-your-coding-agent-check-its-work-in-the-browser/",
-      "published_at": "2026-10-20T09:16:48.000Z",
-      "description": "I got tired of coding agents telling me the frontend work was done when nobody had opened the frontend. You've probably seen the routine. The agent changes some code, runs the formatter, the type chec",
-      "tags": [
-        "playwright",
-        "AI",
-        "Web Development",
-        "Testing",
-        "Frontend Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "timothy ogbemudia"
     }
   ],
   "Mobile": [
@@ -2407,6 +2427,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Building a cross-platform Flutter festival assistant with llamadart",
+      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
+      "published_at": "2026-10-20T13:00:00Z",
+      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
+      "tags": [
+        "flutter",
+        "tutorial",
+        "ai",
+        "dart"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "published_at": "2026-10-24T05:35:47Z",
@@ -2418,14 +2453,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 3121,
+      "stars": 3172,
       "user": "rddmwmddr"
     },
     {
       "title": "Owl Carousel product links don't respond to the first tap on Android after swiping",
       "url": "https://stackoverflow.com/questions/80012931/owl-carousel-product-links-dont-respond-to-the-first-tap-on-android-after-swipi",
       "published_at": "2026-10-27T17:23:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "jquery",
@@ -2439,7 +2474,7 @@
       "title": "iOS Safari: window.open with the same window name does nothing after the popup tab was closed with the back button",
       "url": "https://stackoverflow.com/questions/80012902/ios-safari-window-open-with-the-same-window-name-does-nothing-after-the-popup-t",
       "published_at": "2026-10-27T15:10:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "ios",
@@ -2450,21 +2485,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "윤진섭"
-    },
-    {
-      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-      "published_at": "2026-10-27T13:54:51.000Z",
-      "description": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
-      "tags": [
-        "Apps",
-        "Apple",
-        "iOS",
-        "siri ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta, Zack Whittaker"
     }
   ],
   "Cloud": [
@@ -2690,24 +2710,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 261,
       "user": "egoist"
-    },
-    {
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "published_at": "2026-10-27T13:32:57.000Z",
-      "description": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-      "tags": [
-        "AI",
-        "Security",
-        "CrowdStrike",
-        "cybersecurity",
-        "GMO Internet"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2796,7 +2800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1332,
+      "stars": 1337,
       "user": "colinhacks"
     },
     {
@@ -2819,7 +2823,7 @@
       "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
       "url": "https://stackoverflow.com/questions/80012398/how-to-fix-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable-to",
       "published_at": "2026-10-25T10:15:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
         "sqlite",
@@ -3020,55 +3024,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1864,
+      "stars": 1865,
       "user": "ikow"
     },
     {
-      "title": "US government says hackers are now exploiting critical PHP web bugs",
-      "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
-      "published_at": "2026-10-27T14:40:39.000Z",
-      "description": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+      "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+      "published_at": "2026-10-27T14:08:23.211-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
+        "ai",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ni5arga"
+    },
+    {
+      "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "published_at": "2026-10-27T21:44:34.000Z",
+      "description": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "tags": [
+        "AI",
+        "Fintech",
         "Security",
-        "CISA",
-        "cyberattacks",
-        "cybersecurity",
-        "php"
+        "agentic payments",
+        "Bank of America"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
     },
     {
-      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-      "published_at": "2026-10-27T13:54:51.000Z",
-      "description": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+      "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
+      "url": "https://www.freecodecamp.org/news/how-to-build-passkey-authentication-with-webauthn-next-js-and-nestjs/",
+      "published_at": "2026-10-27T17:44:12.000Z",
+      "description": "Passwords are a pain for both users and service providers․ Users often find it difficult to remember passwords, and the risk of phishing and password reuse across multiple websites is high. Developers",
       "tags": [
-        "Apps",
-        "Apple",
-        "iOS",
-        "siri ai"
+        "authentication",
+        "passwordless authentication",
+        "passkeys",
+        "nestjs",
+        "#webauthn"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta, Zack Whittaker"
-    },
-    {
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "published_at": "2026-10-27T13:32:57.000Z",
-      "description": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-      "tags": [
-        "AI",
-        "Security",
-        "CrowdStrike",
-        "cybersecurity",
-        "GMO Internet"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kate Park"
+      "source": "freeCodeCamp",
+      "user": "Roland Mweze"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
@@ -3208,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "source": "GitHub",
-      "stars": 1436,
+      "stars": 1439,
       "user": "openai"
     },
     {
@@ -3223,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 581,
       "user": "ZiChuanLan"
     },
     {
@@ -3238,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 474,
       "user": "misshexa66"
     },
     {
@@ -3253,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 453,
+      "stars": 455,
       "user": "WoYun520"
     },
     {
@@ -3268,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93955479?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 410,
       "user": "KardDev"
     },
     {
@@ -3283,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 3121,
+      "stars": 3172,
       "user": "rddmwmddr"
     },
     {
@@ -3298,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 1904,
+      "stars": 1974,
       "user": "t3dotgg"
     },
     {
@@ -3313,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5469411?v=4",
       "source": "GitHub",
-      "stars": 1864,
+      "stars": 1865,
       "user": "ikow"
     },
     {
@@ -3328,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12439321?v=4",
       "source": "GitHub",
-      "stars": 1497,
+      "stars": 1499,
       "user": "9bie"
     },
     {
@@ -3343,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/21166029?v=4",
       "source": "GitHub",
-      "stars": 1436,
+      "stars": 1461,
       "user": "lyramakesmusic"
     },
     {
@@ -3358,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 646,
+      "stars": 655,
       "user": "DrWhax"
     },
     {
@@ -3373,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 255,
+      "stars": 261,
       "user": "egoist"
     },
     {
@@ -3388,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 154,
+      "stars": 162,
       "user": "tractordev"
     },
     {
@@ -3403,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
       "source": "GitHub",
-      "stars": 117,
+      "stars": 118,
       "user": "smhanov"
     },
     {
@@ -3433,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 2409,
+      "stars": 2437,
       "user": "designfuchen"
     },
     {
@@ -3448,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1044,
+      "stars": 1054,
       "user": "andyhuo520"
     },
     {
@@ -3463,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 687,
+      "stars": 695,
       "user": "surendrapandar"
     },
     {
@@ -3478,23 +3480,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 578,
+      "stars": 586,
       "user": "yaojingang"
     },
     {
-      "title": "agharsallah/esp-labs-web - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
-      "url": "https://github.com/agharsallah/esp-labs-web",
-      "published_at": "2026-10-21T13:40:04Z",
-      "description": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.",
+      "title": "kargulstudio/calender-app-design - GitHub Repository",
+      "url": "https://github.com/kargulstudio/calender-app-design",
+      "published_at": "2026-10-26T18:38:56Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/17379925?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 490,
-      "user": "agharsallah"
+      "stars": 582,
+      "user": "kargulstudio"
     },
     {
       "title": "xevrion/hatchzip - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
@@ -3508,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77008538?v=4",
       "source": "GitHub",
-      "stars": 2144,
+      "stars": 2165,
       "user": "xevrion"
     },
     {
@@ -3523,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/3084745?v=4",
       "source": "GitHub",
-      "stars": 1332,
+      "stars": 1337,
       "user": "colinhacks"
     },
     {
@@ -3538,7 +3540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 748,
+      "stars": 749,
       "user": "mizorewww"
     },
     {
@@ -3553,7 +3555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 256,
       "user": "heydeer"
     },
     {
@@ -3568,7 +3570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/330179988?v=4",
       "source": "GitHub",
-      "stars": 199,
+      "stars": 200,
       "user": "openmathmodel"
     },
     {
@@ -3613,22 +3615,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Gabor Koos"
-    },
-    {
-      "title": "How to Make Your Coding Agent Check Its Work in the Browser",
-      "url": "https://www.freecodecamp.org/news/how-to-make-your-coding-agent-check-its-work-in-the-browser/",
-      "published_at": "2026-10-20T09:16:48.000Z",
-      "description": "I got tired of coding agents telling me the frontend work was done when nobody had opened the frontend. You've probably seen the routine. The agent changes some code, runs the formatter, the type chec",
-      "tags": [
-        "playwright",
-        "AI",
-        "Web Development",
-        "Testing",
-        "Frontend Development"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "timothy ogbemudia"
     }
   ]
 }
