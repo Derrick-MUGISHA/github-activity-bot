@@ -91,36 +91,6 @@
       "user": "Khushighosh"
     },
     {
-      "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
-      "url": "https://dev.to/gde/the-best-prompt-rule-is-the-one-you-delete-moving-ai-guardrails-out-of-markdown-and-into-git-5a5h",
-      "published_at": "2026-10-25T20:19:06Z",
-      "description": "Every rule that stays in a prompt eventually bloats, blurs, or gets gamed by the model. When systems engineers and an autonomous AI red-teamed my workflow, the cure wasn't more Markdown—it was pushing enforcement down into Git Merkle locks, Linux insmod, and 15ms compiler auto-fixes that cost zero tokens and zero turns.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "compilers"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F76spe97b0zo4l86bgyd4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Trick, Treat, and Code: Highlighting GDGC VTU's Best Halloween Hacks 🕸️💻",
-      "url": "https://dev.to/gdg/trick-treat-and-code-highlighting-gdgc-vtus-best-halloween-hacks-4hpf",
-      "published_at": "2026-10-25T11:26:29Z",
-      "description": "#GDGCVTU #HalloweenDevChallenge #TrickOrTreat      Hello Developers,  That's a wrap on...",
-      "tags": [
-        "ai",
-        "opensource",
-        "showdev",
-        "github"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyrcl27rqbhvg0y07j34t.png",
-      "source": "Dev.to",
-      "user": "Piyush Annigeri"
-    },
-    {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
       "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02",
       "published_at": "2026-10-16T05:36:01Z",
@@ -316,21 +286,6 @@
       "user": "Laurent Picard"
     },
     {
-      "title": "PyTorch on TPU: Hands On With Colab",
-      "url": "https://dev.to/gde/pytorch-on-tpu-hands-on-with-colab-5b5g",
-      "published_at": "2026-10-24T03:03:30Z",
-      "description": "Five Colab notebooks take Gemma 4 E2B on one v5e chip from 5 tokens per second under Hugging Face generate to 50 with one compiled decode step, and to the full 131,072-token context with a ring cache, against a JAX engine on the same chip.",
-      "tags": [
-        "pytorch",
-        "tpu",
-        "gemma",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftorchtpu-dev%2Fmain%2Fdocs%2Ftorchtpu-notebooks%2Fdevto-cover.36e8e15c.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma 4 on a 4 GB GPU in Plain PyTorch: From Out of Memory to Faster Than llama.cpp",
       "url": "https://dev.to/gde/gemma-4-on-a-4-gb-gpu-in-plain-pytorch-from-out-of-memory-to-faster-than-llamacpp-31jb",
       "published_at": "2026-10-24T13:44:48Z",
@@ -374,6 +329,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2FRobinaMirbahar%2Fmain%2Fcomic_studio_ai_cover.jpg",
       "source": "Dev.to",
       "user": "Robina Mirbahar"
+    },
+    {
+      "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
+      "url": "https://dev.to/gde/the-best-prompt-rule-is-the-one-you-delete-moving-ai-guardrails-out-of-markdown-and-into-git-5a5h",
+      "published_at": "2026-10-25T20:19:06Z",
+      "description": "Every rule that stays in a prompt eventually bloats, blurs, or gets gamed by the model. When systems engineers and an autonomous AI red-teamed my workflow, the cure wasn't more Markdown—it was pushing enforcement down into Git Merkle locks, Linux insmod, and 15ms compiler auto-fixes that cost zero tokens and zero turns.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "compilers"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F76spe97b0zo4l86bgyd4.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "[Agent Platform in Practice (4)] Towards Cloud Two-layer Decoupling and Full Persistence: Completing the LINE AI Business Card M",
@@ -630,6 +600,36 @@
       "user": "Ramakrishnan Lokanathan"
     },
     {
+      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
+      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
+      "published_at": "2026-10-11T00:59:52Z",
+      "description": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
+      "tags": [
+        "ai",
+        "programming",
+        "unix",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ifoyhfo9dj5uu8s5xqz.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "What The Rebirth of Classifiers Tells Us About ChatGPT's Success",
+      "url": "https://dev.to/dailycontext/what-the-rebirth-of-classifiers-tells-us-about-chatgpts-success-d90",
+      "published_at": "2026-10-12T21:02:39Z",
+      "description": "One of the unexpected releases of Sept 2026 was Jev, a promptable classifier that took X and the...",
+      "tags": [
+        "ai",
+        "llm",
+        "chatgpt",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc7bwzjdvauca7wc5vgfm.png",
+      "source": "Dev.to",
+      "user": "Denys Linkov"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 3767,
+      "stars": 4129,
       "user": "rddmwmddr"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 1300,
+      "stars": 1972,
       "user": "interplains"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1120,
       "user": "DenisSergeevitch"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 694,
       "user": "DrWhax"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "smhanov"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1172,
+      "stars": 1250,
       "user": "andyhuo520"
     },
     {
@@ -899,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 671,
       "user": "yaojingang"
     },
     {
@@ -915,10 +915,24 @@
       "user": "binjip978"
     },
     {
+      "title": "The Benchmarking Crisis",
+      "url": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
+      "published_at": "2026-10-28T03:32:09.482-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "databases",
+        "performance"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "timschumi"
+    },
+    {
       "title": "jQuery: $.when.apply() fails when there is only one AJAX request instead of several",
       "url": "https://stackoverflow.com/questions/80013016/jquery-when-apply-fails-when-there-is-only-one-ajax-request-instead-of-seve",
       "published_at": "2026-10-28T05:57:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "jquery",
@@ -930,24 +944,10 @@
       "user": "Mijeli Lucero"
     },
     {
-      "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
-      "url": "https://stackoverflow.com/questions/80009408/joomla-4-403-forbidden-error-when-saving-custom-html-module-containing-inline-j",
-      "published_at": "2026-10-12T09:03:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "javascript",
-        "html",
-        "joomla"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "somglin wu"
-    },
-    {
       "title": "Unable to build using Python 3.16 (current Python main)",
       "url": "https://stackoverflow.com/questions/80012969/unable-to-build-using-python-3-16-current-python-main",
       "published_at": "2026-10-27T22:04:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 4",
       "tags": [
         "python",
         "clang",
@@ -956,6 +956,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "smontanaro"
+    },
+    {
+      "title": "Meta has a new AI pet app called Waddle World",
+      "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+      "published_at": "2026-10-28T13:53:31.000Z",
+      "description": "Meta has launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
+      "tags": [
+        "Apps",
+        "Meta",
+        "muse",
+        "tamagotchi"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
@@ -1033,36 +1048,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
-      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "published_at": "2026-10-27T21:44:34.000Z",
-      "description": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-      "tags": [
-        "AI",
-        "Fintech",
-        "Security",
-        "agentic payments",
-        "Bank of America"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Who&#8217;s really in charge at Anthropic after the IPO?",
-      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-      "published_at": "2026-10-27T21:38:28.000Z",
-      "description": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "IPO"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1318,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 752,
       "user": "ZiChuanLan"
     },
     {
@@ -1333,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 488,
       "user": "misshexa66"
     },
     {
@@ -1348,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 358,
       "user": "mochiiwuff"
     },
     {
@@ -1363,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88021016?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 274,
       "user": "Charonyuu"
     },
     {
@@ -1378,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 235,
       "user": "Jestions-dev"
     },
     {
@@ -1393,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 2782,
+      "stars": 2970,
       "user": "designfuchen"
     },
     {
@@ -1408,23 +1393,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1172,
+      "stars": 1250,
       "user": "andyhuo520"
-    },
-    {
-      "title": "surendrapandar/minilytics - Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "url": "https://github.com/surendrapandar/minilytics",
-      "published_at": "2026-10-23T19:27:24Z",
-      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
-      "source": "GitHub",
-      "stars": 730,
-      "user": "surendrapandar"
     },
     {
       "title": "kargulstudio/calender-app-design - GitHub Repository",
@@ -1438,8 +1408,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 746,
       "user": "kargulstudio"
+    },
+    {
+      "title": "surendrapandar/minilytics - Opensource Revenue-first analytics for indie hackers & solo founders ",
+      "url": "https://github.com/surendrapandar/minilytics",
+      "published_at": "2026-10-23T19:27:24Z",
+      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
+      "source": "GitHub",
+      "stars": 745,
+      "user": "surendrapandar"
     },
     {
       "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
@@ -1453,26 +1438,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 671,
       "user": "yaojingang"
     },
     {
-      "title": "How to get rid of the session storage in my code?",
-      "url": "https://stackoverflow.com/questions/80013026/how-to-get-rid-of-the-session-storage-in-my-code",
-      "published_at": "2026-10-28T06:23:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "TinyMCE 5 editor displays a blank white area when Android keyboard opens",
+      "url": "https://stackoverflow.com/questions/80013070/tinymce-5-editor-displays-a-blank-white-area-when-android-keyboard-opens",
+      "published_at": "2026-10-28T10:34:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
-        "javascript"
+        "javascript",
+        "android",
+        "css",
+        "mobile",
+        "tinymce"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "عبدالرحمن اشرف"
+      "user": "Testas Testauskas"
+    },
+    {
+      "title": "Product links don't respond to the first tap on Android after swiping",
+      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
+      "published_at": "2026-10-28T09:49:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "jquery",
+        "owl-carousel-2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user9440558"
     },
     {
       "title": "jQuery: $.when.apply() fails when there is only one AJAX request instead of several",
       "url": "https://stackoverflow.com/questions/80013016/jquery-when-apply-fails-when-there-is-only-one-ajax-request-instead-of-seve",
       "published_at": "2026-10-28T05:57:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "jquery",
@@ -1482,6 +1485,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mijeli Lucero"
+    },
+    {
+      "title": "How to get rid of the session storage in my code?",
+      "url": "https://stackoverflow.com/questions/80013026/how-to-get-rid-of-the-session-storage-in-my-code",
+      "published_at": "2026-10-28T06:23:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "asp.net-core-mvc"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "عبدالرحمن اشرف"
     },
     {
       "title": "Three.js canvas memory leak in React function components during rapid unmounting",
@@ -1495,20 +1511,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Tech Akm"
-    },
-    {
-      "title": "Owl Carousel product links don't respond to the first tap on Android after swiping",
-      "url": "https://stackoverflow.com/questions/80012931/owl-carousel-product-links-dont-respond-to-the-first-tap-on-android-after-swipi",
-      "published_at": "2026-10-27T17:23:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "jquery",
-        "owl-carousel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user9440558"
     },
     {
       "title": "How to avoid rendering delays when switching from text to dynamic selects?",
@@ -1544,7 +1546,7 @@
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 9",
+      "description": "Stack Overflow question · 3 answers · score 10",
       "tags": [
         "javascript",
         "html",
@@ -1584,20 +1586,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Adrian"
-    },
-    {
-      "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
-      "url": "https://stackoverflow.com/questions/80009408/joomla-4-403-forbidden-error-when-saving-custom-html-module-containing-inline-j",
-      "published_at": "2026-10-12T09:03:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "javascript",
-        "html",
-        "joomla"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "somglin wu"
     },
     {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
@@ -1810,7 +1798,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 3767,
+      "stars": 4129,
       "user": "rddmwmddr"
     },
     {
@@ -1825,23 +1813,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2084,
+      "stars": 2174,
       "user": "t3dotgg"
-    },
-    {
-      "title": "morganlinton/BeautifulRust - Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "url": "https://github.com/morganlinton/BeautifulRust",
-      "published_at": "2026-10-23T03:01:11Z",
-      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
-      "source": "GitHub",
-      "stars": 1333,
-      "user": "morganlinton"
     },
     {
       "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
@@ -1855,8 +1828,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 1300,
+      "stars": 1972,
       "user": "interplains"
+    },
+    {
+      "title": "morganlinton/BeautifulRust - Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "published_at": "2026-10-23T03:01:11Z",
+      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
+      "source": "GitHub",
+      "stars": 1352,
+      "user": "morganlinton"
     },
     {
       "title": "DenisSergeevitch/ex-ussr-kinship-research - Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
@@ -1870,7 +1858,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1120,
       "user": "DenisSergeevitch"
     },
     {
@@ -1902,7 +1890,7 @@
       "title": "Tkinter Toplevel Windows Persisting in Memory When Deleted",
       "url": "https://stackoverflow.com/questions/80012958/tkinter-toplevel-windows-persisting-in-memory-when-deleted",
       "published_at": "2026-10-27T19:50:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "python",
         "tkinter",
@@ -1917,7 +1905,7 @@
       "title": "Unable to build using Python 3.16 (current Python main)",
       "url": "https://stackoverflow.com/questions/80012969/unable-to-build-using-python-3-16-current-python-main",
       "published_at": "2026-10-27T22:04:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 4",
       "tags": [
         "python",
         "clang",
@@ -2000,20 +1988,6 @@
       "user": "NeuronEdge"
     },
     {
-      "title": "For loop within a function that writes contents of list parameter to desired file name",
-      "url": "https://stackoverflow.com/questions/80012195/for-loop-within-a-function-that-writes-contents-of-list-parameter-to-desired-fil",
-      "published_at": "2026-10-24T03:08:13.000Z",
-      "description": "Stack Overflow question · 2 answers · score -5",
-      "tags": [
-        "python",
-        "function",
-        "for-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "xAvareS"
-    },
-    {
       "title": "Import hook at the AST level",
       "url": "https://stackoverflow.com/questions/80010756/import-hook-at-the-ast-level",
       "published_at": "2026-10-17T14:57:59.000Z",
@@ -2041,6 +2015,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Bhargav"
+    },
+    {
+      "title": "How can I update the font size for all of the UI in pyqt",
+      "url": "https://stackoverflow.com/questions/80009992/how-can-i-update-the-font-size-for-all-of-the-ui-in-pyqt",
+      "published_at": "2026-10-14T13:56:35.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "user-interface",
+        "fonts",
+        "pyqt",
+        "pyqt6"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Hossein Dastoory"
     },
     {
       "title": "How to Build a Simple Data Analyzer in Python with Pandas",
@@ -2316,6 +2306,22 @@
       "user": "velmu"
     },
     {
+      "title": "TinyMCE 5 editor displays a blank white area when Android keyboard opens",
+      "url": "https://stackoverflow.com/questions/80013070/tinymce-5-editor-displays-a-blank-white-area-when-android-keyboard-opens",
+      "published_at": "2026-10-28T10:34:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "android",
+        "css",
+        "mobile",
+        "tinymce"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Testas Testauskas"
+    },
+    {
       "title": "Fitting a family tree to the page width in the style of Burke's Peerage",
       "url": "https://stackoverflow.com/questions/80012756/fitting-a-family-tree-to-the-page-width-in-the-style-of-burkes-peerage",
       "published_at": "2026-10-27T03:53:05.000Z",
@@ -2334,7 +2340,7 @@
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 9",
+      "description": "Stack Overflow question · 3 answers · score 10",
       "tags": [
         "javascript",
         "html",
@@ -2345,20 +2351,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
-    },
-    {
-      "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
-      "url": "https://stackoverflow.com/questions/80009408/joomla-4-403-forbidden-error-when-saving-custom-html-module-containing-inline-j",
-      "published_at": "2026-10-12T09:03:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score -6",
-      "tags": [
-        "javascript",
-        "html",
-        "joomla"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "somglin wu"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -2434,7 +2426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 3767,
+      "stars": 4129,
       "user": "rddmwmddr"
     },
     {
@@ -2449,18 +2441,34 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 1300,
+      "stars": 1972,
       "user": "interplains"
     },
     {
-      "title": "Owl Carousel product links don't respond to the first tap on Android after swiping",
-      "url": "https://stackoverflow.com/questions/80012931/owl-carousel-product-links-dont-respond-to-the-first-tap-on-android-after-swipi",
-      "published_at": "2026-10-27T17:23:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "TinyMCE 5 editor displays a blank white area when Android keyboard opens",
+      "url": "https://stackoverflow.com/questions/80013070/tinymce-5-editor-displays-a-blank-white-area-when-android-keyboard-opens",
+      "published_at": "2026-10-28T10:34:27.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "android",
+        "css",
+        "mobile",
+        "tinymce"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Testas Testauskas"
+    },
+    {
+      "title": "Product links don't respond to the first tap on Android after swiping",
+      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
+      "published_at": "2026-10-28T09:49:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "jquery",
-        "owl-carousel"
+        "owl-carousel-2"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2589,21 +2597,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "PyTorch on TPU: Hands On With Colab",
-      "url": "https://dev.to/gde/pytorch-on-tpu-hands-on-with-colab-5b5g",
-      "published_at": "2026-10-24T03:03:30Z",
-      "description": "Five Colab notebooks take Gemma 4 E2B on one v5e chip from 5 tokens per second under Hugging Face generate to 50 with one compiled decode step, and to the full 131,072-token context with a ring cache, against a JAX engine on the same chip.",
-      "tags": [
-        "pytorch",
-        "tpu",
-        "gemma",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftorchtpu-dev%2Fmain%2Fdocs%2Ftorchtpu-notebooks%2Fdevto-cover.36e8e15c.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "[Agent Platform in Practice (4)] Towards Cloud Two-layer Decoupling and Full Persistence: Completing the LINE AI Business Card M",
       "url": "https://dev.to/gde/agent-platform-in-practice-4-towards-cloud-two-layer-decoupling-and-full-persistence-60g",
       "published_at": "2026-10-23T08:32:27Z",
@@ -2705,7 +2698,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 316,
       "user": "egoist"
     },
     {
@@ -2782,6 +2775,20 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "The Benchmarking Crisis",
+      "url": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
+      "published_at": "2026-10-28T03:32:09.482-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "databases",
+        "performance"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "timschumi"
     },
     {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
@@ -3020,20 +3027,16 @@
       "user": "binjip978"
     },
     {
-      "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
-      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "published_at": "2026-10-27T21:44:34.000Z",
-      "description": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "published_at": "2026-10-28T04:18:31.981-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "AI",
-        "Fintech",
-        "Security",
-        "agentic payments",
-        "Bank of America"
+        "security"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "source": "Lobste.rs",
+      "user": "aCaB"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -3066,36 +3069,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
-      "url": "https://dev.to/gde/the-best-prompt-rule-is-the-one-you-delete-moving-ai-guardrails-out-of-markdown-and-into-git-5a5h",
-      "published_at": "2026-10-25T20:19:06Z",
-      "description": "Every rule that stays in a prompt eventually bloats, blurs, or gets gamed by the model. When systems engineers and an autonomous AI red-teamed my workflow, the cure wasn't more Markdown—it was pushing enforcement down into Git Merkle locks, Linux insmod, and 15ms compiler auto-fixes that cost zero tokens and zero turns.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "compilers"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F76spe97b0zo4l86bgyd4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Trick, Treat, and Code: Highlighting GDGC VTU's Best Halloween Hacks 🕸️💻",
-      "url": "https://dev.to/gdg/trick-treat-and-code-highlighting-gdgc-vtus-best-halloween-hacks-4hpf",
-      "published_at": "2026-10-25T11:26:29Z",
-      "description": "#GDGCVTU #HalloweenDevChallenge #TrickOrTreat      Hello Developers,  That's a wrap on...",
-      "tags": [
-        "ai",
-        "opensource",
-        "showdev",
-        "github"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyrcl27rqbhvg0y07j34t.png",
-      "source": "Dev.to",
-      "user": "Piyush Annigeri"
-    },
     {
       "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
       "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
@@ -3140,6 +3113,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fmodel-sweep%2Fmain%2Farticle%2Fdevto-cover.a42e27c5.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
+      "url": "https://dev.to/gde/the-best-prompt-rule-is-the-one-you-delete-moving-ai-guardrails-out-of-markdown-and-into-git-5a5h",
+      "published_at": "2026-10-25T20:19:06Z",
+      "description": "Every rule that stays in a prompt eventually bloats, blurs, or gets gamed by the model. When systems engineers and an autonomous AI red-teamed my workflow, the cure wasn't more Markdown—it was pushing enforcement down into Git Merkle locks, Linux insmod, and 15ms compiler auto-fixes that cost zero tokens and zero turns.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "compilers"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F76spe97b0zo4l86bgyd4.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "AI Needs a Test That Fights Back",
@@ -3204,7 +3192,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 692,
+      "stars": 752,
       "user": "ZiChuanLan"
     },
     {
@@ -3219,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 488,
       "user": "misshexa66"
     },
     {
@@ -3234,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 351,
+      "stars": 358,
       "user": "mochiiwuff"
     },
     {
@@ -3249,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88021016?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 274,
       "user": "Charonyuu"
     },
     {
@@ -3264,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 235,
       "user": "Jestions-dev"
     },
     {
@@ -3279,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 3767,
+      "stars": 4129,
       "user": "rddmwmddr"
     },
     {
@@ -3294,23 +3282,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2084,
+      "stars": 2174,
       "user": "t3dotgg"
-    },
-    {
-      "title": "morganlinton/BeautifulRust - Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "url": "https://github.com/morganlinton/BeautifulRust",
-      "published_at": "2026-10-23T03:01:11Z",
-      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
-      "source": "GitHub",
-      "stars": 1333,
-      "user": "morganlinton"
     },
     {
       "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
@@ -3324,8 +3297,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 1300,
+      "stars": 1972,
       "user": "interplains"
+    },
+    {
+      "title": "morganlinton/BeautifulRust - Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "published_at": "2026-10-23T03:01:11Z",
+      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
+      "source": "GitHub",
+      "stars": 1352,
+      "user": "morganlinton"
     },
     {
       "title": "DenisSergeevitch/ex-ussr-kinship-research - Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
@@ -3339,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1078,
+      "stars": 1120,
       "user": "DenisSergeevitch"
     },
     {
@@ -3354,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 694,
       "user": "DrWhax"
     },
     {
@@ -3369,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 316,
       "user": "egoist"
     },
     {
@@ -3384,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 174,
+      "stars": 182,
       "user": "tractordev"
     },
     {
@@ -3399,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 123,
       "user": "smhanov"
     },
     {
@@ -3429,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 2782,
+      "stars": 2970,
       "user": "designfuchen"
     },
     {
@@ -3444,23 +3432,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1172,
+      "stars": 1250,
       "user": "andyhuo520"
-    },
-    {
-      "title": "surendrapandar/minilytics - Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "url": "https://github.com/surendrapandar/minilytics",
-      "published_at": "2026-10-23T19:27:24Z",
-      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
-      "source": "GitHub",
-      "stars": 730,
-      "user": "surendrapandar"
     },
     {
       "title": "kargulstudio/calender-app-design - GitHub Repository",
@@ -3474,8 +3447,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 746,
       "user": "kargulstudio"
+    },
+    {
+      "title": "surendrapandar/minilytics - Opensource Revenue-first analytics for indie hackers & solo founders ",
+      "url": "https://github.com/surendrapandar/minilytics",
+      "published_at": "2026-10-23T19:27:24Z",
+      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
+      "source": "GitHub",
+      "stars": 745,
+      "user": "surendrapandar"
     },
     {
       "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
@@ -3489,7 +3477,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 671,
       "user": "yaojingang"
     },
     {
@@ -3504,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 754,
       "user": "mizorewww"
     },
     {
@@ -3519,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 307,
       "user": "heydeer"
     },
     {
@@ -3534,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316626863?v=4",
       "source": "GitHub",
-      "stars": 202,
+      "stars": 203,
       "user": "hffgzktbcc-blip"
     },
     {
@@ -3564,8 +3552,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18633264?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 192,
       "user": "lalalune"
+    },
+    {
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "published_at": "2026-10-28T06:03:56.591-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "cryptography",
+        "mac"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "galadran"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
