@@ -809,8 +809,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 3345,
+      "stars": 3767,
       "user": "rddmwmddr"
+    },
+    {
+      "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "published_at": "2026-10-25T14:41:34Z",
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
+      "source": "GitHub",
+      "stars": 1300,
+      "user": "interplains"
     },
     {
       "title": "DenisSergeevitch/ex-ussr-kinship-research - Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
@@ -824,23 +839,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1078,
       "user": "DenisSergeevitch"
-    },
-    {
-      "title": "Snapintosh/Snapintosh - EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-      "url": "https://github.com/Snapintosh/Snapintosh",
-      "published_at": "2026-10-22T01:40:05Z",
-      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/346728985?v=4",
-      "source": "GitHub",
-      "stars": 1012,
-      "user": "Snapintosh"
     },
     {
       "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 668,
       "user": "DrWhax"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 121,
       "user": "smhanov"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1084,
+      "stars": 1172,
       "user": "andyhuo520"
     },
     {
@@ -899,21 +899,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 644,
       "user": "yaojingang"
     },
     {
-      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-      "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-      "published_at": "2026-10-27T14:08:23.211-05:00",
+      "title": "This is not sustainable",
+      "url": "https://www.netmeister.org/blog/defense-ddos.html",
+      "published_at": "2026-10-27T22:56:49.155-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "ai",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "ni5arga"
+      "user": "binjip978"
+    },
+    {
+      "title": "jQuery: $.when.apply() fails when there is only one AJAX request instead of several",
+      "url": "https://stackoverflow.com/questions/80013016/jquery-when-apply-fails-when-there-is-only-one-ajax-request-instead-of-seve",
+      "published_at": "2026-10-28T05:57:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax",
+        "jquery-deferred"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mijeli Lucero"
     },
     {
       "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
@@ -933,9 +947,10 @@
       "title": "Unable to build using Python 3.16 (current Python main)",
       "url": "https://stackoverflow.com/questions/80012969/unable-to-build-using-python-3-16-current-python-main",
       "published_at": "2026-10-27T22:04:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
+        "clang",
         "python-imaging-library"
       ],
       "cover_image": null,
@@ -1048,22 +1063,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
-      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
-      "published_at": "2026-10-27T20:31:17.000Z",
-      "description": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "Transportation",
-        "EVs",
-        "General Catalyst"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1319,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 692,
       "user": "ZiChuanLan"
     },
     {
@@ -1334,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 480,
       "user": "misshexa66"
     },
     {
@@ -1349,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 351,
       "user": "mochiiwuff"
     },
     {
@@ -1364,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88021016?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 271,
       "user": "Charonyuu"
     },
     {
@@ -1379,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "Jestions-dev"
     },
     {
@@ -1394,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 2517,
+      "stars": 2782,
       "user": "designfuchen"
     },
     {
@@ -1409,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1084,
+      "stars": 1172,
       "user": "andyhuo520"
     },
     {
@@ -1424,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 730,
       "user": "surendrapandar"
     },
     {
@@ -1439,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 691,
       "user": "kargulstudio"
     },
     {
@@ -1454,21 +1453,48 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 644,
       "user": "yaojingang"
     },
     {
-      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-      "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-      "published_at": "2026-10-27T14:08:23.211-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How to get rid of the session storage in my code?",
+      "url": "https://stackoverflow.com/questions/80013026/how-to-get-rid-of-the-session-storage-in-my-code",
+      "published_at": "2026-10-28T06:23:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
-        "ai",
-        "security"
+        "javascript"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ni5arga"
+      "source": "StackOverflow",
+      "user": "عبدالرحمن اشرف"
+    },
+    {
+      "title": "jQuery: $.when.apply() fails when there is only one AJAX request instead of several",
+      "url": "https://stackoverflow.com/questions/80013016/jquery-when-apply-fails-when-there-is-only-one-ajax-request-instead-of-seve",
+      "published_at": "2026-10-28T05:57:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax",
+        "jquery-deferred"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mijeli Lucero"
+    },
+    {
+      "title": "Three.js canvas memory leak in React function components during rapid unmounting",
+      "url": "https://stackoverflow.com/questions/80012985/three-js-canvas-memory-leak-in-react-function-components-during-rapid-unmounting",
+      "published_at": "2026-10-28T01:37:48.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Tech Akm"
     },
     {
       "title": "Owl Carousel product links don't respond to the first tap on Android after swiping",
@@ -1515,21 +1541,6 @@
       "user": "mwhite"
     },
     {
-      "title": "Vue 3 – Best approach to avoid rendering delays with dynamic form inputs (v-if vs v-show)?",
-      "url": "https://stackoverflow.com/questions/80012717/vue-3-best-approach-to-avoid-rendering-delays-with-dynamic-form-inputs-v-if-v",
-      "published_at": "2026-10-26T22:21:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "typescript",
-        "vue.js",
-        "vuejs3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Adrian Ma&#241;as"
-    },
-    {
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
@@ -1546,6 +1557,21 @@
       "user": "George Joseph"
     },
     {
+      "title": "Vue 3 – Best approach to avoid rendering delays with dynamic form inputs (v-if vs v-show)?",
+      "url": "https://stackoverflow.com/questions/80012717/vue-3-best-approach-to-avoid-rendering-delays-with-dynamic-form-inputs-v-if-v",
+      "published_at": "2026-10-26T22:21:53.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "typescript",
+        "vue.js",
+        "vuejs3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Adrian Ma&#241;as"
+    },
+    {
       "title": "onload() not called when revisiting a PHP page (after upgrade to PHP 8.5)",
       "url": "https://stackoverflow.com/questions/80012637/onload-not-called-when-revisiting-a-php-page-after-upgrade-to-php-8-5",
       "published_at": "2026-10-26T14:53:15.000Z",
@@ -1560,19 +1586,6 @@
       "user": "Adrian"
     },
     {
-      "title": "Why does my JS make the browser scroll to the bottom of the page when switching to a section that's taller than the window height?",
-      "url": "https://stackoverflow.com/questions/80012509/why-does-my-js-make-the-browser-scroll-to-the-bottom-of-the-page-when-switching",
-      "published_at": "2026-10-26T00:24:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score 5",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Black Ink Games"
-    },
-    {
       "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
       "url": "https://stackoverflow.com/questions/80009408/joomla-4-403-forbidden-error-when-saving-custom-html-module-containing-inline-j",
       "published_at": "2026-10-12T09:03:11.000Z",
@@ -1585,34 +1598,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "somglin wu"
-    },
-    {
-      "title": "How do I accurately detect gamepad button presses in JavaScript?",
-      "url": "https://stackoverflow.com/questions/80009122/how-do-i-accurately-detect-gamepad-button-presses-in-javascript",
-      "published_at": "2026-10-10T15:12:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "gamepad"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Parking Master"
-    },
-    {
-      "title": "React Hook Form validation across multiple tabs: is useWatch + custom validation the right approach?",
-      "url": "https://stackoverflow.com/questions/79978184/react-hook-form-validation-across-multiple-tabs-is-usewatch-custom-validation",
-      "published_at": "2026-07-09T07:47:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "reactjs",
-        "react-hook-form"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Furqan"
     },
     {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
@@ -1825,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 3345,
+      "stars": 3767,
       "user": "rddmwmddr"
     },
     {
@@ -1840,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2009,
+      "stars": 2084,
       "user": "t3dotgg"
     },
     {
@@ -1855,8 +1840,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1333,
       "user": "morganlinton"
+    },
+    {
+      "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "published_at": "2026-10-25T14:41:34Z",
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
+      "source": "GitHub",
+      "stars": 1300,
+      "user": "interplains"
     },
     {
       "title": "DenisSergeevitch/ex-ussr-kinship-research - Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
@@ -1870,23 +1870,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1078,
       "user": "DenisSergeevitch"
-    },
-    {
-      "title": "Snapintosh/Snapintosh - EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-      "url": "https://github.com/Snapintosh/Snapintosh",
-      "published_at": "2026-10-22T01:40:05Z",
-      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/346728985?v=4",
-      "source": "GitHub",
-      "stars": 1012,
-      "user": "Snapintosh"
     },
     {
       "title": "A fast and secure tar parser for the Rust ecosystem",
@@ -1914,23 +1899,10 @@
       "user": "val"
     },
     {
-      "title": "Unable to build using Python 3.16 (current Python main)",
-      "url": "https://stackoverflow.com/questions/80012969/unable-to-build-using-python-3-16-current-python-main",
-      "published_at": "2026-10-27T22:04:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "python-imaging-library"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "smontanaro"
-    },
-    {
       "title": "Tkinter Toplevel Windows Persisting in Memory When Deleted",
       "url": "https://stackoverflow.com/questions/80012958/tkinter-toplevel-windows-persisting-in-memory-when-deleted",
       "published_at": "2026-10-27T19:50:42.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "tkinter",
@@ -1940,6 +1912,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MikaPika"
+    },
+    {
+      "title": "Unable to build using Python 3.16 (current Python main)",
+      "url": "https://stackoverflow.com/questions/80012969/unable-to-build-using-python-3-16-current-python-main",
+      "published_at": "2026-10-27T22:04:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "clang",
+        "python-imaging-library"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "smontanaro"
+    },
+    {
+      "title": "Why doesn't my PyQt5 Progress Bar Dialog stay visible?",
+      "url": "https://stackoverflow.com/questions/80012687/why-doesnt-my-pyqt5-progress-bar-dialog-stay-visible",
+      "published_at": "2026-10-26T19:53:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "python-3.x",
+        "pyqt5"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kes Perron"
     },
     {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
@@ -1971,20 +1971,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "RS8"
-    },
-    {
-      "title": "Why doesn't my PyQt5 Progress Bar Dialog stay visible?",
-      "url": "https://stackoverflow.com/questions/80012687/why-doesnt-my-pyqt5-progress-bar-dialog-stay-visible",
-      "published_at": "2026-10-26T19:53:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "python-3.x",
-        "pyqt5"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kes Perron"
     },
     {
       "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
@@ -2361,19 +2347,6 @@
       "user": "George Joseph"
     },
     {
-      "title": "Why does my JS make the browser scroll to the bottom of the page when switching to a section that's taller than the window height?",
-      "url": "https://stackoverflow.com/questions/80012509/why-does-my-js-make-the-browser-scroll-to-the-bottom-of-the-page-when-switching",
-      "published_at": "2026-10-26T00:24:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score 5",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Black Ink Games"
-    },
-    {
       "title": "Joomla 4: 403 Forbidden error when saving custom HTML module containing inline JavaScript",
       "url": "https://stackoverflow.com/questions/80009408/joomla-4-403-forbidden-error-when-saving-custom-html-module-containing-inline-j",
       "published_at": "2026-10-12T09:03:11.000Z",
@@ -2405,21 +2378,6 @@
   ],
   "Mobile": [
     {
-      "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
-      "url": "https://dev.to/gde/why-blocadd-isnt-what-you-think-synchronous-event-fast-paths-and-0ms-form-bindings-6o",
-      "published_at": "2026-10-25T23:44:27Z",
-      "description": "Why classic BLoC's StreamController forces an asynchronous microtask tax, how BlocSignal executes synchronous event handlers inline on the exact same call stack, and why this is the only way to build 120 FPS Generative UI form bindings.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwuehs85o3yn71ytprfk.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
       "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
       "published_at": "2026-10-20T04:34:20Z",
@@ -2431,6 +2389,21 @@
         "architecture"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
+      "url": "https://dev.to/gde/why-blocadd-isnt-what-you-think-synchronous-event-fast-paths-and-0ms-form-bindings-6o",
+      "published_at": "2026-10-25T23:44:27Z",
+      "description": "Why classic BLoC's StreamController forces an asynchronous microtask tax, how BlocSignal executes synchronous event handlers inline on the exact same call stack, and why this is the only way to build 120 FPS Generative UI form bindings.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwuehs85o3yn71ytprfk.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
     },
@@ -2461,8 +2434,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 3345,
+      "stars": 3767,
       "user": "rddmwmddr"
+    },
+    {
+      "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "published_at": "2026-10-25T14:41:34Z",
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
+      "source": "GitHub",
+      "stars": 1300,
+      "user": "interplains"
     },
     {
       "title": "Owl Carousel product links don't respond to the first tap on Android after swiping",
@@ -2717,7 +2705,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 304,
       "user": "egoist"
     },
     {
@@ -3020,17 +3008,16 @@
       "user": "Varcht"
     },
     {
-      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-      "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-      "published_at": "2026-10-27T14:08:23.211-05:00",
+      "title": "This is not sustainable",
+      "url": "https://www.netmeister.org/blog/defense-ddos.html",
+      "published_at": "2026-10-27T22:56:49.155-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "ai",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "ni5arga"
+      "user": "binjip978"
     },
     {
       "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
@@ -3217,7 +3204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 585,
+      "stars": 692,
       "user": "ZiChuanLan"
     },
     {
@@ -3232,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 480,
       "user": "misshexa66"
     },
     {
@@ -3247,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 351,
       "user": "mochiiwuff"
     },
     {
@@ -3262,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88021016?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 271,
       "user": "Charonyuu"
     },
     {
@@ -3277,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
       "source": "GitHub",
-      "stars": 228,
+      "stars": 230,
       "user": "Jestions-dev"
     },
     {
@@ -3292,7 +3279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 3345,
+      "stars": 3767,
       "user": "rddmwmddr"
     },
     {
@@ -3307,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2009,
+      "stars": 2084,
       "user": "t3dotgg"
     },
     {
@@ -3322,8 +3309,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
       "source": "GitHub",
-      "stars": 1311,
+      "stars": 1333,
       "user": "morganlinton"
+    },
+    {
+      "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "published_at": "2026-10-25T14:41:34Z",
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
+      "source": "GitHub",
+      "stars": 1300,
+      "user": "interplains"
     },
     {
       "title": "DenisSergeevitch/ex-ussr-kinship-research - Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
@@ -3337,23 +3339,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1058,
+      "stars": 1078,
       "user": "DenisSergeevitch"
-    },
-    {
-      "title": "Snapintosh/Snapintosh - EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-      "url": "https://github.com/Snapintosh/Snapintosh",
-      "published_at": "2026-10-22T01:40:05Z",
-      "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/346728985?v=4",
-      "source": "GitHub",
-      "stars": 1012,
-      "user": "Snapintosh"
     },
     {
       "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
@@ -3367,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 660,
+      "stars": 668,
       "user": "DrWhax"
     },
     {
@@ -3382,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 304,
       "user": "egoist"
     },
     {
@@ -3397,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 174,
       "user": "tractordev"
     },
     {
@@ -3412,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 121,
       "user": "smhanov"
     },
     {
@@ -3427,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6284204?v=4",
       "source": "GitHub",
-      "stars": 98,
+      "stars": 99,
       "user": "aancw"
     },
     {
@@ -3442,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 2517,
+      "stars": 2782,
       "user": "designfuchen"
     },
     {
@@ -3457,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1084,
+      "stars": 1172,
       "user": "andyhuo520"
     },
     {
@@ -3472,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 730,
       "user": "surendrapandar"
     },
     {
@@ -3487,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 621,
+      "stars": 691,
       "user": "kargulstudio"
     },
     {
@@ -3502,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 604,
+      "stars": 644,
       "user": "yaojingang"
     },
     {
@@ -3517,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 751,
+      "stars": 752,
       "user": "mizorewww"
     },
     {
@@ -3532,8 +3519,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 285,
       "user": "heydeer"
+    },
+    {
+      "title": "hffgzktbcc-blip/ounce-core - Clean-room systems research runtime and architecture compatibility layer for NVIDIA Tegra T239 (Horizon OS FW 23.0.1 ABI)",
+      "url": "https://github.com/hffgzktbcc-blip/ounce-core",
+      "published_at": "2026-10-24T19:32:45Z",
+      "description": "Clean-room systems research runtime and architecture compatibility layer for NVIDIA Tegra T239 (Horizon OS FW 23.0.1 ABI)",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316626863?v=4",
+      "source": "GitHub",
+      "stars": 202,
+      "user": "hffgzktbcc-blip"
     },
     {
       "title": "openmathmodel/open-math-harness - The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
@@ -3551,21 +3553,6 @@
       "user": "openmathmodel"
     },
     {
-      "title": "hffgzktbcc-blip/ounce-core - Clean-room systems research runtime and architecture compatibility layer for NVIDIA Tegra T239 (Horizon OS FW 23.0.1 ABI)",
-      "url": "https://github.com/hffgzktbcc-blip/ounce-core",
-      "published_at": "2026-10-24T19:32:45Z",
-      "description": "Clean-room systems research runtime and architecture compatibility layer for NVIDIA Tegra T239 (Horizon OS FW 23.0.1 ABI)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316626863?v=4",
-      "source": "GitHub",
-      "stars": 198,
-      "user": "hffgzktbcc-blip"
-    },
-    {
       "title": "lalalune/pumpfun-source - Reverse engineering the pump.fun smart contracts",
       "url": "https://github.com/lalalune/pumpfun-source",
       "published_at": "2026-10-24T23:37:50Z",
@@ -3577,7 +3564,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18633264?v=4",
       "source": "GitHub",
-      "stars": 170,
+      "stars": 179,
       "user": "lalalune"
     },
     {
