@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Your Laptop Might Replace Most of Your AI Bill",
+      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
+      "published_at": "2026-10-28T11:58:00Z",
+      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
+      "tags": [
+        "ai",
+        "llm",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
+    },
+    {
       "title": "Inference on Google Cloud: Precision, Memory and Capacity on TPU, from v5e to Ironwood",
       "url": "https://dev.to/gde/inference-on-google-cloud-precision-memory-and-capacity-on-tpu-from-v5e-to-ironwood-5dlf",
       "published_at": "2026-10-25T23:02:38Z",
@@ -31,6 +46,36 @@
       "user": "Adam - The Developer ✨"
     },
     {
+      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
+      "url": "https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc",
+      "published_at": "2026-10-27T09:53:26Z",
+      "description": "1. The problem: an agent that can spend money   Most agent demos stop at \"the model called a...",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gn9hgsdfqcf4qx8tayd.png",
+      "source": "Dev.to",
+      "user": "Esra Kadah"
+    },
+    {
+      "title": "I approved the order. Then my Genkit Dart agent forgot its own tool.",
+      "url": "https://dev.to/gde/i-approved-the-order-then-my-genkit-dart-agent-forgot-its-own-tool-3mjp",
+      "published_at": "2026-10-27T09:54:50Z",
+      "description": "My agent asked me \"can I order this part?\". I said yes. And the answer came back as a...",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnovb7w7zmrggeds1gyth.jpg",
+      "source": "Dev.to",
+      "user": "Esra Kadah"
+    },
+    {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
       "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
       "published_at": "2026-10-20T19:14:39Z",
@@ -44,21 +89,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fajukpnfpo90v31p2y6af.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
-      "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
-      "published_at": "2026-10-20T04:34:20Z",
-      "description": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporting two-way reactive forms, Riverpod/BLoC interop, Flutter Material 3, and ANSI terminal TUIs.",
-      "tags": [
-        "flutter",
-        "dart",
-        "ai",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine! $2,850 in Prizes Across 21 Winners.",
@@ -89,6 +119,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw41tloy7yvhtkzh9237.png",
       "source": "Dev.to",
       "user": "Khushighosh"
+    },
+    {
+      "title": "Beyond Passive AI Rewrites and Vibe Coding in Google Docs",
+      "url": "https://dev.to/gde/beyond-passive-ai-rewrites-and-vibe-coding-in-google-docs-3db6",
+      "published_at": "2026-10-27T05:37:22Z",
+      "description": "Scaling a Multimodal AI Writing and Code Review Coach Across Classrooms and Research Labs...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "googleworkspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa9fv4elps0bi1tfopqc2.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
     },
     {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
@@ -316,6 +361,21 @@
       "user": "xbill"
     },
     {
+      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
+      "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
+      "published_at": "2026-10-20T04:34:20Z",
+      "description": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporting two-way reactive forms, Riverpod/BLoC interop, Flutter Material 3, and ANSI terminal TUIs.",
+      "tags": [
+        "flutter",
+        "dart",
+        "ai",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
       "url": "https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc",
       "published_at": "2026-10-23T15:22:41Z",
@@ -361,6 +421,21 @@
       "user": "Evan Lin"
     },
     {
+      "title": "Trick, Treat, and Code: Highlighting GDGC VTU's Best Halloween Hacks 🕸️💻",
+      "url": "https://dev.to/gdg/trick-treat-and-code-highlighting-gdgc-vtus-best-halloween-hacks-4hpf",
+      "published_at": "2026-10-25T11:26:29Z",
+      "description": "#GDGCVTU #HalloweenDevChallenge #TrickOrTreat      Hello Developers,  That's a wrap on...",
+      "tags": [
+        "ai",
+        "opensource",
+        "showdev",
+        "github"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyrcl27rqbhvg0y07j34t.png",
+      "source": "Dev.to",
+      "user": "Piyush Annigeri"
+    },
+    {
       "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
       "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
       "published_at": "2026-10-22T16:05:20Z",
@@ -387,21 +462,6 @@
         "cloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8w8cdi29390hiagtmt5p.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "[Agent Platform in Action (3)] Solving Stateless Container HITL Amnesia: Cross-Instance Business Card Recognition and Pause/Resu",
-      "url": "https://dev.to/gde/agent-platform-in-action-3-solving-stateless-container-hitl-amnesia-cross-instance-business-3c4h",
-      "published_at": "2026-10-23T08:33:24Z",
-      "description": "Recap   In the previous two articles of this series:    \"[Agent Platform in Action (1)]...",
-      "tags": [
-        "agents",
-        "ai",
-        "architecture",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm89ce893816xmnu5f86c.png",
       "source": "Dev.to",
       "user": "Evan Lin"
     },
@@ -523,111 +583,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fle5lxtrblynphqs20c45.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
-      "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4",
-      "published_at": "2026-10-23T05:52:48Z",
-      "description": "When we use generative AI to proofread our daily writing—whether technical reports, business...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleappsscript",
-        "googleworkspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2bc3ar45xrgqtcuc87ui.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
-    },
-    {
-      "title": "OpenGameBuilder: Describe a game in one sentence and generate it using a local LLM like Gemma 4.",
-      "url": "https://dev.to/blaiselabs/opengamebuilder-describe-a-game-in-one-sentence-and-generate-it-using-a-local-llm-like-gemma-4-215m",
-      "published_at": "2026-10-19T07:01:01Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle    Every...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "gemma",
-        "sentry"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblaiselabs.github.io%2FOpenGameBuilder%2Farticle%2Fhero_cherry_town.png",
-      "source": "Dev.to",
-      "user": "Blaise Labs"
-    },
-    {
-      "title": "The Model Is the Easy Part",
-      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
-      "published_at": "2026-10-14T12:04:00Z",
-      "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
-      "tags": [
-        "ai",
-        "llm",
-        "opensource",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png",
-      "source": "Dev.to",
-      "user": "Steven Latre"
-    },
-    {
-      "title": "Building a cross-platform Flutter festival assistant with llamadart",
-      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
-      "published_at": "2026-10-20T13:00:00Z",
-      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
-      "tags": [
-        "flutter",
-        "tutorial",
-        "ai",
-        "dart"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
-      "title": "AI Needs a Test That Fights Back",
-      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
-      "published_at": "2026-10-12T21:03:49Z",
-      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
-      "tags": [
-        "ai",
-        "opensource",
-        "testing",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
-      "source": "Dev.to",
-      "user": "Ramakrishnan Lokanathan"
-    },
-    {
-      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
-      "url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
-      "published_at": "2026-10-11T00:59:52Z",
-      "description": "Why did a 1976 Makefile (Part 3.6) and a 1983 Unix init.d directory (Part 3.7) outperform 2,000 lines of English prompt rules? Because prompt engineering is static symbol linkage against 50 years of pre-trained computer science canon.",
-      "tags": [
-        "ai",
-        "programming",
-        "unix",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ifoyhfo9dj5uu8s5xqz.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "What The Rebirth of Classifiers Tells Us About ChatGPT's Success",
-      "url": "https://dev.to/dailycontext/what-the-rebirth-of-classifiers-tells-us-about-chatgpts-success-d90",
-      "published_at": "2026-10-12T21:02:39Z",
-      "description": "One of the unexpected releases of Sept 2026 was Jev, a promptable classifier that took X and the...",
-      "tags": [
-        "ai",
-        "llm",
-        "chatgpt",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc7bwzjdvauca7wc5vgfm.png",
-      "source": "Dev.to",
-      "user": "Denys Linkov"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -809,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4129,
+      "stars": 4245,
       "user": "rddmwmddr"
     },
     {
@@ -824,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 1972,
+      "stars": 2467,
       "user": "interplains"
     },
     {
@@ -839,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1156,
       "user": "DenisSergeevitch"
     },
     {
@@ -854,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 705,
       "user": "DrWhax"
     },
     {
@@ -869,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "smhanov"
     },
     {
@@ -884,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1250,
+      "stars": 1296,
       "user": "andyhuo520"
     },
     {
@@ -899,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 688,
       "user": "yaojingang"
     },
     {
@@ -913,20 +868,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "binjip978"
-    },
-    {
-      "title": "The Benchmarking Crisis",
-      "url": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
-      "published_at": "2026-10-28T03:32:09.482-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "databases",
-        "performance"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "timschumi"
     },
     {
       "title": "jQuery: $.when.apply() fails when there is only one AJAX request instead of several",
@@ -944,10 +885,24 @@
       "user": "Mijeli Lucero"
     },
     {
+      "title": "Best way to launch smaller applications from main application in tkinter",
+      "url": "https://stackoverflow.com/questions/80013161/best-way-to-launch-smaller-applications-from-main-application-in-tkinter",
+      "published_at": "2026-10-28T16:27:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "advice",
+        "python",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
       "title": "Unable to build using Python 3.16 (current Python main)",
       "url": "https://stackoverflow.com/questions/80012969/unable-to-build-using-python-3-16-current-python-main",
       "published_at": "2026-10-27T22:04:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score 4",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "python",
         "clang",
@@ -958,96 +913,108 @@
       "user": "smontanaro"
     },
     {
-      "title": "Meta has a new AI pet app called Waddle World",
-      "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-      "published_at": "2026-10-28T13:53:31.000Z",
-      "description": "Meta has launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "published_at": "2026-10-28T19:19:58.000Z",
+      "description": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
       "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Wiz’s CTO on PHP2Shell and the coming &#8216;vulnpocalypse&#8217;",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "published_at": "2026-10-28T19:05:46.000Z",
+      "description": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. Accord",
+      "tags": [
+        "AI",
+        "Security",
+        "Startups",
+        "CTO",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
+    },
+    {
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "published_at": "2026-10-28T17:00:00.000Z",
+      "description": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "tags": [
+        "AI",
         "Apps",
-        "Meta",
-        "muse",
-        "tamagotchi"
+        "gemini",
+        "Google",
+        "Google Search"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Ivan Mehta"
+      "user": "Sarah Perez"
     },
     {
-      "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "published_at": "2026-10-28T01:15:28.000Z",
-      "description": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "title": "Chrome&#8217;s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "published_at": "2026-10-28T17:00:00.000Z",
+      "description": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
       "tags": [
         "AI",
-        "Startups",
-        "Venture",
-        "Amazon",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "published_at": "2026-10-27T23:34:27.000Z",
-      "description": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "OpenAI",
-        "OpenAI Files"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
-    },
-    {
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "published_at": "2026-10-27T22:55:41.000Z",
-      "description": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-      "tags": [
-        "AI",
-        "data centers",
-        "TechCrunch Disrupt",
-        "Veir"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-      "published_at": "2026-10-27T22:26:03.000Z",
-      "description": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
-      "tags": [
-        "Startups",
-        "Venture",
-        "guidewire",
-        "hyperexponential",
+        "Apps",
+        "Chrome",
+        "Google",
         "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
+      "user": "Sarah Perez"
     },
     {
-      "title": "From 8VC to Benchmark, here&#8217;s what&#8217;s hiding in October SEC filings",
-      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
-      "published_at": "2026-10-27T22:17:18.000Z",
-      "description": "A whole crop of venture capital firms  are raising significant new funds.",
+      "title": "Reddit is the latest platform to embrace the &#8216;For You&#8217; feed",
+      "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+      "published_at": "2026-10-28T16:00:00.000Z",
+      "description": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
       "tags": [
-        "Venture",
-        "8VC",
-        "AI",
-        "Benchmark"
+        "Apps",
+        "Social",
+        "Reddit",
+        "social media"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "published_at": "2026-10-28T15:53:52.000Z",
+      "description": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "tags": [
+        "AI",
+        "Social",
+        "Marissa Mayer"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "South Korea&#8217;s financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "published_at": "2026-10-28T15:41:18.000Z",
+      "description": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "tags": [
+        "AI",
+        "Security",
+        "CrowdStrike",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1156,6 +1123,21 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "🗓️ Monthly Dev Report: October 2026",
+      "url": "https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7",
+      "published_at": "2026-10-26T13:56:28Z",
+      "description": "Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...",
+      "tags": [
+        "discuss",
+        "devjournal",
+        "php",
+        "node"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftzrbzcftvwzoxwj2cp7o.jpg",
+      "source": "Dev.to",
+      "user": "FrancisTRᴅᴇᴠ"
+    },
     {
       "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
       "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
@@ -1303,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 786,
       "user": "ZiChuanLan"
     },
     {
@@ -1318,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 493,
       "user": "misshexa66"
     },
     {
@@ -1333,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 369,
       "user": "mochiiwuff"
     },
     {
@@ -1348,7 +1330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88021016?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 276,
       "user": "Charonyuu"
     },
     {
@@ -1363,7 +1345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 270,
       "user": "Jestions-dev"
     },
     {
@@ -1378,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 2970,
+      "stars": 3028,
       "user": "designfuchen"
     },
     {
@@ -1393,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1250,
+      "stars": 1296,
       "user": "andyhuo520"
     },
     {
@@ -1408,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 780,
       "user": "kargulstudio"
     },
     {
@@ -1423,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 757,
       "user": "surendrapandar"
     },
     {
@@ -1438,14 +1420,57 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 688,
       "user": "yaojingang"
+    },
+    {
+      "title": "How to close mobile menu after clicking a link",
+      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
+      "published_at": "2026-10-28T16:52:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "responsive-design"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kismet-"
+    },
+    {
+      "title": "Next.js 15 memory usage keeps increasing when polling a live darts API every second",
+      "url": "https://stackoverflow.com/questions/80013104/next-js-15-memory-usage-keeps-increasing-when-polling-a-live-darts-api-every-sec",
+      "published_at": "2026-10-28T13:40:42.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "node.js",
+        "next.js",
+        "memory-leaks",
+        "fetch-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "tudiude"
+    },
+    {
+      "title": "Product links don't respond to the first tap on Android after swiping",
+      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
+      "published_at": "2026-10-28T09:49:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "jquery",
+        "owl-carousel-2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user9440558"
     },
     {
       "title": "TinyMCE 5 editor displays a blank white area when Android keyboard opens",
       "url": "https://stackoverflow.com/questions/80013070/tinymce-5-editor-displays-a-blank-white-area-when-android-keyboard-opens",
       "published_at": "2026-10-28T10:34:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "android",
@@ -1458,18 +1483,17 @@
       "user": "Testas Testauskas"
     },
     {
-      "title": "Product links don't respond to the first tap on Android after swiping",
-      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
-      "published_at": "2026-10-28T09:49:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "How to get rid of the session storage in my code?",
+      "url": "https://stackoverflow.com/questions/80013026/how-to-get-rid-of-the-session-storage-in-my-code",
+      "published_at": "2026-10-28T06:23:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
-        "jquery",
-        "owl-carousel-2"
+        "asp.net-core-mvc"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user9440558"
+      "user": "عبدالرحمن اشرف"
     },
     {
       "title": "jQuery: $.when.apply() fails when there is only one AJAX request instead of several",
@@ -1487,23 +1511,10 @@
       "user": "Mijeli Lucero"
     },
     {
-      "title": "How to get rid of the session storage in my code?",
-      "url": "https://stackoverflow.com/questions/80013026/how-to-get-rid-of-the-session-storage-in-my-code",
-      "published_at": "2026-10-28T06:23:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "asp.net-core-mvc"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "عبدالرحمن اشرف"
-    },
-    {
       "title": "Three.js canvas memory leak in React function components during rapid unmounting",
       "url": "https://stackoverflow.com/questions/80012985/three-js-canvas-memory-leak-in-react-function-components-during-rapid-unmounting",
       "published_at": "2026-10-28T01:37:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "reactjs"
@@ -1528,21 +1539,6 @@
       "user": "Adrian Ma&#241;as"
     },
     {
-      "title": "Fitting a family tree to the page width in the style of Burke's Peerage",
-      "url": "https://stackoverflow.com/questions/80012756/fitting-a-family-tree-to-the-page-width-in-the-style-of-burkes-peerage",
-      "published_at": "2026-10-27T03:53:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "javascript",
-        "css",
-        "family-tree",
-        "genealogy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mwhite"
-    },
-    {
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
@@ -1559,33 +1555,19 @@
       "user": "George Joseph"
     },
     {
-      "title": "Vue 3 – Best approach to avoid rendering delays with dynamic form inputs (v-if vs v-show)?",
-      "url": "https://stackoverflow.com/questions/80012717/vue-3-best-approach-to-avoid-rendering-delays-with-dynamic-form-inputs-v-if-v",
-      "published_at": "2026-10-26T22:21:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Fitting a family tree to the page width in the style of Burke's Peerage",
+      "url": "https://stackoverflow.com/questions/80012756/fitting-a-family-tree-to-the-page-width-in-the-style-of-burkes-peerage",
+      "published_at": "2026-10-27T03:53:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript",
-        "typescript",
-        "vue.js",
-        "vuejs3"
+        "css",
+        "family-tree",
+        "genealogy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Adrian Ma&#241;as"
-    },
-    {
-      "title": "onload() not called when revisiting a PHP page (after upgrade to PHP 8.5)",
-      "url": "https://stackoverflow.com/questions/80012637/onload-not-called-when-revisiting-a-php-page-after-upgrade-to-php-8-5",
-      "published_at": "2026-10-26T14:53:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "javascript",
-        "php",
-        "onload"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Adrian"
+      "user": "mwhite"
     },
     {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
@@ -1602,6 +1584,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "madjetmax"
+    },
+    {
+      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+      "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+      "published_at": "2026-10-28T15:53:21.000Z",
+      "description": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
+      "tags": [
+        "Climate",
+        "Government & Policy",
+        "Amazon",
+        "Constellation",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1798,23 +1796,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4129,
+      "stars": 4245,
       "user": "rddmwmddr"
-    },
-    {
-      "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
-      "url": "https://github.com/t3dotgg/tstack",
-      "published_at": "2026-10-24T05:00:20Z",
-      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
-      "source": "GitHub",
-      "stars": 2174,
-      "user": "t3dotgg"
     },
     {
       "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
@@ -1828,8 +1811,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 1972,
+      "stars": 2467,
       "user": "interplains"
+    },
+    {
+      "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
+      "url": "https://github.com/t3dotgg/tstack",
+      "published_at": "2026-10-24T05:00:20Z",
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
+      "source": "GitHub",
+      "stars": 2223,
+      "user": "t3dotgg"
     },
     {
       "title": "morganlinton/BeautifulRust - Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
@@ -1843,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1359,
       "user": "morganlinton"
     },
     {
@@ -1858,7 +1856,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1156,
       "user": "DenisSergeevitch"
     },
     {
@@ -1875,16 +1873,58 @@
       "user": "yossarian"
     },
     {
-      "title": "Python's experimental JIT to be removed",
-      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-      "published_at": "2026-10-27T01:20:38.106-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Why colors are not changing",
+      "url": "https://stackoverflow.com/questions/80013184/why-colors-are-not-changing",
+      "published_at": "2026-10-28T17:25:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
-        "python"
+        "python",
+        "numpy"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "val"
+      "source": "StackOverflow",
+      "user": "FoSack 3000"
+    },
+    {
+      "title": "Best way to launch smaller applications from main application in tkinter",
+      "url": "https://stackoverflow.com/questions/80013161/best-way-to-launch-smaller-applications-from-main-application-in-tkinter",
+      "published_at": "2026-10-28T16:27:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "advice",
+        "python",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "Why is Pyright saying I have already declared this enum member?",
+      "url": "https://stackoverflow.com/questions/80013112/why-is-pyright-saying-i-have-already-declared-this-enum-member",
+      "published_at": "2026-10-28T13:59:41.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "pyright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "Unable to build using Python 3.16 (current Python main)",
+      "url": "https://stackoverflow.com/questions/80012969/unable-to-build-using-python-3-16-current-python-main",
+      "published_at": "2026-10-27T22:04:03.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
+      "tags": [
+        "python",
+        "clang",
+        "python-imaging-library"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "smontanaro"
     },
     {
       "title": "Tkinter Toplevel Windows Persisting in Memory When Deleted",
@@ -1900,20 +1940,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "MikaPika"
-    },
-    {
-      "title": "Unable to build using Python 3.16 (current Python main)",
-      "url": "https://stackoverflow.com/questions/80012969/unable-to-build-using-python-3-16-current-python-main",
-      "published_at": "2026-10-27T22:04:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score 4",
-      "tags": [
-        "python",
-        "clang",
-        "python-imaging-library"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "smontanaro"
     },
     {
       "title": "Why doesn't my PyQt5 Progress Bar Dialog stay visible?",
@@ -1976,18 +2002,6 @@
       "user": "Aradhya"
     },
     {
-      "title": "Struggling to understand Python while loop code block",
-      "url": "https://stackoverflow.com/questions/80012621/struggling-to-understand-python-while-loop-code-block",
-      "published_at": "2026-10-26T14:12:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -8",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NeuronEdge"
-    },
-    {
       "title": "Import hook at the AST level",
       "url": "https://stackoverflow.com/questions/80010756/import-hook-at-the-ast-level",
       "published_at": "2026-10-17T14:57:59.000Z",
@@ -2001,36 +2015,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "NickC"
-    },
-    {
-      "title": "Pydantic v2: default a generic Literal discriminator from its type parameter",
-      "url": "https://stackoverflow.com/questions/80010667/pydantic-v2-default-a-generic-literal-discriminator-from-its-type-parameter",
-      "published_at": "2026-10-17T03:03:43.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "pydantic",
-        "pydantic-v2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Bhargav"
-    },
-    {
-      "title": "How can I update the font size for all of the UI in pyqt",
-      "url": "https://stackoverflow.com/questions/80009992/how-can-i-update-the-font-size-for-all-of-the-ui-in-pyqt",
-      "published_at": "2026-10-14T13:56:35.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "user-interface",
-        "fonts",
-        "pyqt",
-        "pyqt6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Hossein Dastoory"
     },
     {
       "title": "How to Build a Simple Data Analyzer in Python with Pandas",
@@ -2066,6 +2050,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
+      "url": "https://dev.to/gde/shipping-flutter-web-to-firebase-when-your-github-actions-budget-hits-zero-2mi5",
+      "published_at": "2026-10-27T08:06:59Z",
+      "description": "On October 18, right in the middle of shipping a multi-feature audit and a supplement tracker...",
+      "tags": [
+        "flutter",
+        "firebase",
+        "webdev",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F471epezz3m6cdkvp598f.jpg",
+      "source": "Dev.to",
+      "user": "Esra Kadah"
+    },
     {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
       "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
@@ -2309,7 +2308,7 @@
       "title": "TinyMCE 5 editor displays a blank white area when Android keyboard opens",
       "url": "https://stackoverflow.com/questions/80013070/tinymce-5-editor-displays-a-blank-white-area-when-android-keyboard-opens",
       "published_at": "2026-10-28T10:34:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "android",
@@ -2320,21 +2319,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Testas Testauskas"
-    },
-    {
-      "title": "Fitting a family tree to the page width in the style of Burke's Peerage",
-      "url": "https://stackoverflow.com/questions/80012756/fitting-a-family-tree-to-the-page-width-in-the-style-of-burkes-peerage",
-      "published_at": "2026-10-27T03:53:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "javascript",
-        "css",
-        "family-tree",
-        "genealogy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mwhite"
     },
     {
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
@@ -2351,6 +2335,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
+    },
+    {
+      "title": "Fitting a family tree to the page width in the style of Burke's Peerage",
+      "url": "https://stackoverflow.com/questions/80012756/fitting-a-family-tree-to-the-page-width-in-the-style-of-burkes-peerage",
+      "published_at": "2026-10-27T03:53:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -9",
+      "tags": [
+        "javascript",
+        "css",
+        "family-tree",
+        "genealogy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mwhite"
     },
     {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
@@ -2370,19 +2369,49 @@
   ],
   "Mobile": [
     {
-      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
-      "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
-      "published_at": "2026-10-20T04:34:20Z",
-      "description": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporting two-way reactive forms, Riverpod/BLoC interop, Flutter Material 3, and ANSI terminal TUIs.",
+      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
+      "url": "https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc",
+      "published_at": "2026-10-27T09:53:26Z",
+      "description": "1. The problem: an agent that can spend money   Most agent demos stop at \"the model called a...",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gn9hgsdfqcf4qx8tayd.png",
+      "source": "Dev.to",
+      "user": "Esra Kadah"
+    },
+    {
+      "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
+      "url": "https://dev.to/gde/shipping-flutter-web-to-firebase-when-your-github-actions-budget-hits-zero-2mi5",
+      "published_at": "2026-10-27T08:06:59Z",
+      "description": "On October 18, right in the middle of shipping a multi-feature audit and a supplement tracker...",
       "tags": [
         "flutter",
-        "dart",
-        "ai",
-        "architecture"
+        "firebase",
+        "webdev",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F471epezz3m6cdkvp598f.jpg",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": "Esra Kadah"
+    },
+    {
+      "title": "I approved the order. Then my Genkit Dart agent forgot its own tool.",
+      "url": "https://dev.to/gde/i-approved-the-order-then-my-genkit-dart-agent-forgot-its-own-tool-3mjp",
+      "published_at": "2026-10-27T09:54:50Z",
+      "description": "My agent asked me \"can I order this part?\". I said yes. And the answer came back as a...",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnovb7w7zmrggeds1gyth.jpg",
+      "source": "Dev.to",
+      "user": "Esra Kadah"
     },
     {
       "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
@@ -2400,19 +2429,19 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Building a cross-platform Flutter festival assistant with llamadart",
-      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
-      "published_at": "2026-10-20T13:00:00Z",
-      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
+      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
+      "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
+      "published_at": "2026-10-20T04:34:20Z",
+      "description": "Why we built a pure-Dart, 0ms synchronous Generative UI state machine on top of Google's official A2UI protocol—supporting two-way reactive forms, Riverpod/BLoC interop, Flutter Material 3, and ANSI terminal TUIs.",
       "tags": [
         "flutter",
-        "tutorial",
+        "dart",
         "ai",
-        "dart"
+        "architecture"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
       "source": "Dev.to",
-      "user": "Jhin Lee"
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
@@ -2426,7 +2455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4129,
+      "stars": 4245,
       "user": "rddmwmddr"
     },
     {
@@ -2441,14 +2470,41 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 1972,
+      "stars": 2467,
       "user": "interplains"
+    },
+    {
+      "title": "How to close mobile menu after clicking a link",
+      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
+      "published_at": "2026-10-28T16:52:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "responsive-design"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kismet-"
+    },
+    {
+      "title": "Product links don't respond to the first tap on Android after swiping",
+      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
+      "published_at": "2026-10-28T09:49:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "jquery",
+        "owl-carousel-2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user9440558"
     },
     {
       "title": "TinyMCE 5 editor displays a blank white area when Android keyboard opens",
       "url": "https://stackoverflow.com/questions/80013070/tinymce-5-editor-displays-a-blank-white-area-when-android-keyboard-opens",
       "published_at": "2026-10-28T10:34:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "android",
@@ -2461,21 +2517,52 @@
       "user": "Testas Testauskas"
     },
     {
-      "title": "Product links don't respond to the first tap on Android after swiping",
-      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
-      "published_at": "2026-10-28T09:49:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "title": "Xreal Aura is a new wired headset powered by Android XR",
+      "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+      "published_at": "2026-10-28T17:00:00.000Z",
+      "description": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
       "tags": [
-        "javascript",
-        "jquery",
-        "owl-carousel-2"
+        "Hardware",
+        "Samsung",
+        "smartglasses",
+        "XReal"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user9440558"
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     }
   ],
   "Cloud": [
+    {
+      "title": "Your Laptop Might Replace Most of Your AI Bill",
+      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
+      "published_at": "2026-10-28T11:58:00Z",
+      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
+      "tags": [
+        "ai",
+        "llm",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
+    },
+    {
+      "title": "Size Your Model to Where You Run It: Gemma 4 E2B and E4B on an AWS L4 and Two Small GPUs",
+      "url": "https://dev.to/gde/size-your-model-to-where-you-run-it-gemma-4-e2b-and-e4b-on-an-aws-l4-and-two-small-gpus-1d47",
+      "published_at": "2026-10-27T13:30:52Z",
+      "description": "A 24 GB NVIDIA L4 serves Gemma 4 E2B and E4B at only 1.2-1.3x an 8 GB desktop RTX 3050 for one user, with the same answers, because a 4-bit small model uses 13-29% of the card. Pick the model for the hardware, and the hardware for the model.",
+      "tags": [
+        "gemma",
+        "llamacpp",
+        "aws",
+        "cuda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsize-your-model%2Fdevto-cover.3f5286be.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Inference on Google Cloud: Precision, Memory and Capacity on TPU, from v5e to Ironwood",
       "url": "https://dev.to/gde/inference-on-google-cloud-precision-memory-and-capacity-on-tpu-from-v5e-to-ironwood-5dlf",
@@ -2490,6 +2577,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-survey%2Fmain%2Fdevto-cover.eef6abe3.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
+      "url": "https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc",
+      "published_at": "2026-10-27T09:53:26Z",
+      "description": "1. The problem: an agent that can spend money   Most agent demos stop at \"the model called a...",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gn9hgsdfqcf4qx8tayd.png",
+      "source": "Dev.to",
+      "user": "Esra Kadah"
     },
     {
       "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
@@ -2672,21 +2774,6 @@
       "user": "xbill"
     },
     {
-      "title": "Two ways to build with Claude models on Google Cloud!",
-      "url": "https://dev.to/googleai/two-ways-to-build-with-claude-models-on-google-cloud-1mfe",
-      "published_at": "2026-10-22T22:03:52Z",
-      "description": "Choose Claude Models on Google Cloud (Google managed) for in-boundary security, regional data...",
-      "tags": [
-        "claude",
-        "google",
-        "cloud",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjdmfjcl5tswqewynrf6s.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "egoist/mygo-cloudmusic - MyGo 云音乐 - 第三方网易云音乐原生客户端",
       "url": "https://github.com/egoist/mygo-cloudmusic",
       "published_at": "2026-10-25T11:41:31Z",
@@ -2698,7 +2785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 323,
       "user": "egoist"
     },
     {
@@ -2777,20 +2864,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "The Benchmarking Crisis",
-      "url": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
-      "published_at": "2026-10-28T03:32:09.482-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "databases",
-        "performance"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "timschumi"
-    },
-    {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
       "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
       "published_at": "2026-10-26T21:18:35.000Z",
@@ -2866,21 +2939,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png",
       "source": "Dev.to",
       "user": "dev.to staff"
-    },
-    {
-      "title": "Two ways to build with Claude models on Google Cloud!",
-      "url": "https://dev.to/googleai/two-ways-to-build-with-claude-models-on-google-cloud-1mfe",
-      "published_at": "2026-10-22T22:03:52Z",
-      "description": "Choose Claude Models on Google Cloud (Google managed) for in-boundary security, regional data...",
-      "tags": [
-        "claude",
-        "google",
-        "cloud",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjdmfjcl5tswqewynrf6s.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3039,6 +3097,37 @@
       "user": "aCaB"
     },
     {
+      "title": "Wiz’s CTO on PHP2Shell and the coming &#8216;vulnpocalypse&#8217;",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "published_at": "2026-10-28T19:05:46.000Z",
+      "description": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. Accord",
+      "tags": [
+        "AI",
+        "Security",
+        "Startups",
+        "CTO",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
+    },
+    {
+      "title": "South Korea&#8217;s financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "published_at": "2026-10-28T15:41:18.000Z",
+      "description": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "tags": [
+        "AI",
+        "Security",
+        "CrowdStrike",
+        "cybersecurity"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kate Park"
+    },
+    {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
       "url": "https://www.freecodecamp.org/news/how-to-build-passkey-authentication-with-webauthn-next-js-and-nestjs/",
       "published_at": "2026-10-27T17:44:12.000Z",
@@ -3069,6 +3158,51 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Your Laptop Might Replace Most of Your AI Bill",
+      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
+      "published_at": "2026-10-28T11:58:00Z",
+      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
+      "tags": [
+        "ai",
+        "llm",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
+    },
+    {
+      "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
+      "url": "https://dev.to/gde/shipping-flutter-web-to-firebase-when-your-github-actions-budget-hits-zero-2mi5",
+      "published_at": "2026-10-27T08:06:59Z",
+      "description": "On October 18, right in the middle of shipping a multi-feature audit and a supplement tracker...",
+      "tags": [
+        "flutter",
+        "firebase",
+        "webdev",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F471epezz3m6cdkvp598f.jpg",
+      "source": "Dev.to",
+      "user": "Esra Kadah"
+    },
+    {
+      "title": "I approved the order. Then my Genkit Dart agent forgot its own tool.",
+      "url": "https://dev.to/gde/i-approved-the-order-then-my-genkit-dart-agent-forgot-its-own-tool-3mjp",
+      "published_at": "2026-10-27T09:54:50Z",
+      "description": "My agent asked me \"can I order this part?\". I said yes. And the answer came back as a...",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnovb7w7zmrggeds1gyth.jpg",
+      "source": "Dev.to",
+      "user": "Esra Kadah"
+    },
     {
       "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
       "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
@@ -3130,19 +3264,19 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "AI Needs a Test That Fights Back",
-      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
-      "published_at": "2026-10-12T21:03:49Z",
-      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
+      "title": "Trick, Treat, and Code: Highlighting GDGC VTU's Best Halloween Hacks 🕸️💻",
+      "url": "https://dev.to/gdg/trick-treat-and-code-highlighting-gdgc-vtus-best-halloween-hacks-4hpf",
+      "published_at": "2026-10-25T11:26:29Z",
+      "description": "#GDGCVTU #HalloweenDevChallenge #TrickOrTreat      Hello Developers,  That's a wrap on...",
       "tags": [
         "ai",
         "opensource",
-        "testing",
-        "aie"
+        "showdev",
+        "github"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyrcl27rqbhvg0y07j34t.png",
       "source": "Dev.to",
-      "user": "Ramakrishnan Lokanathan"
+      "user": "Piyush Annigeri"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3192,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 752,
+      "stars": 786,
       "user": "ZiChuanLan"
     },
     {
@@ -3207,7 +3341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 493,
       "user": "misshexa66"
     },
     {
@@ -3222,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 358,
+      "stars": 369,
       "user": "mochiiwuff"
     },
     {
@@ -3237,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88021016?v=4",
       "source": "GitHub",
-      "stars": 274,
+      "stars": 276,
       "user": "Charonyuu"
     },
     {
@@ -3252,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
       "source": "GitHub",
-      "stars": 235,
+      "stars": 270,
       "user": "Jestions-dev"
     },
     {
@@ -3267,23 +3401,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4129,
+      "stars": 4245,
       "user": "rddmwmddr"
-    },
-    {
-      "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
-      "url": "https://github.com/t3dotgg/tstack",
-      "published_at": "2026-10-24T05:00:20Z",
-      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
-      "source": "GitHub",
-      "stars": 2174,
-      "user": "t3dotgg"
     },
     {
       "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
@@ -3297,8 +3416,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 1972,
+      "stars": 2467,
       "user": "interplains"
+    },
+    {
+      "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
+      "url": "https://github.com/t3dotgg/tstack",
+      "published_at": "2026-10-24T05:00:20Z",
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
+      "source": "GitHub",
+      "stars": 2223,
+      "user": "t3dotgg"
     },
     {
       "title": "morganlinton/BeautifulRust - Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
@@ -3312,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
       "source": "GitHub",
-      "stars": 1352,
+      "stars": 1359,
       "user": "morganlinton"
     },
     {
@@ -3327,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1120,
+      "stars": 1156,
       "user": "DenisSergeevitch"
     },
     {
@@ -3342,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 694,
+      "stars": 705,
       "user": "DrWhax"
     },
     {
@@ -3357,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 323,
       "user": "egoist"
     },
     {
@@ -3372,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 182,
+      "stars": 186,
       "user": "tractordev"
     },
     {
@@ -3387,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
       "source": "GitHub",
-      "stars": 123,
+      "stars": 124,
       "user": "smhanov"
     },
     {
@@ -3417,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 2970,
+      "stars": 3028,
       "user": "designfuchen"
     },
     {
@@ -3432,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1250,
+      "stars": 1296,
       "user": "andyhuo520"
     },
     {
@@ -3447,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 746,
+      "stars": 780,
       "user": "kargulstudio"
     },
     {
@@ -3462,7 +3596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 757,
       "user": "surendrapandar"
     },
     {
@@ -3477,7 +3611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 671,
+      "stars": 688,
       "user": "yaojingang"
     },
     {
@@ -3492,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 754,
+      "stars": 755,
       "user": "mizorewww"
     },
     {
@@ -3507,7 +3641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 316,
       "user": "heydeer"
     },
     {
@@ -3526,21 +3660,6 @@
       "user": "hffgzktbcc-blip"
     },
     {
-      "title": "openmathmodel/open-math-harness - The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
-      "url": "https://github.com/openmathmodel/open-math-harness",
-      "published_at": "2026-10-22T08:17:44Z",
-      "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/330179988?v=4",
-      "source": "GitHub",
-      "stars": 200,
-      "user": "openmathmodel"
-    },
-    {
       "title": "lalalune/pumpfun-source - Reverse engineering the pump.fun smart contracts",
       "url": "https://github.com/lalalune/pumpfun-source",
       "published_at": "2026-10-24T23:37:50Z",
@@ -3552,8 +3671,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18633264?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 202,
       "user": "lalalune"
+    },
+    {
+      "title": "openmathmodel/open-math-harness - The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
+      "url": "https://github.com/openmathmodel/open-math-harness",
+      "published_at": "2026-10-22T08:17:44Z",
+      "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/330179988?v=4",
+      "source": "GitHub",
+      "stars": 202,
+      "user": "openmathmodel"
     },
     {
       "title": "Apple's git still trusts the compromised eMudhra certificates",
@@ -3567,6 +3701,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "galadran"
+    },
+    {
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "published_at": "2026-10-28T19:19:58.000Z",
+      "description": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
