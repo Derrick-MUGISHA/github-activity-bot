@@ -31,21 +31,6 @@
       "user": "xbill"
     },
     {
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
-      "published_at": "2026-10-22T04:31:09Z",
-      "description": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
-      "tags": [
-        "ai",
-        "discuss",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
-      "source": "Dev.to",
-      "user": "Adam - The Developer ✨"
-    },
-    {
       "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
       "url": "https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc",
       "published_at": "2026-10-27T09:53:26Z",
@@ -59,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gn9hgsdfqcf4qx8tayd.png",
       "source": "Dev.to",
       "user": "Esra Kadah"
+    },
+    {
+      "title": "Don't Be a Proxy Between Me and Your AI",
+      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
+      "published_at": "2026-10-22T04:31:09Z",
+      "description": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
+      "tags": [
+        "ai",
+        "discuss",
+        "career",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
+      "source": "Dev.to",
+      "user": "Adam - The Developer ✨"
     },
     {
       "title": "I approved the order. Then my Genkit Dart agent forgot its own tool.",
@@ -89,21 +89,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fajukpnfpo90v31p2y6af.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
-      "url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0",
-      "published_at": "2026-10-25T06:45:27Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "gemma",
-        "tabpfn"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw41tloy7yvhtkzh9237.png",
-      "source": "Dev.to",
-      "user": "Khushighosh"
     },
     {
       "title": "Beyond Passive AI Rewrites and Vibe Coding in Google Docs",
@@ -406,21 +391,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "[Agent Platform in Practice (4)] Towards Cloud Two-layer Decoupling and Full Persistence: Completing the LINE AI Business Card M",
-      "url": "https://dev.to/gde/agent-platform-in-practice-4-towards-cloud-two-layer-decoupling-and-full-persistence-60g",
-      "published_at": "2026-10-23T08:32:27Z",
-      "description": "Recap   In the first three articles of the \"Agent Platform in Action\" series, we...",
-      "tags": [
-        "agents",
-        "architecture",
-        "cloud",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fla3l7bjvp6jd5pq42om9.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Trick, Treat, and Code: Highlighting GDGC VTU's Best Halloween Hacks 🕸️💻",
       "url": "https://dev.to/gdg/trick-treat-and-code-highlighting-gdgc-vtus-best-halloween-hacks-4hpf",
       "published_at": "2026-10-25T11:26:29Z",
@@ -436,6 +406,21 @@
       "user": "Piyush Annigeri"
     },
     {
+      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
+      "url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0",
+      "published_at": "2026-10-25T06:45:27Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "tabpfn"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw41tloy7yvhtkzh9237.png",
+      "source": "Dev.to",
+      "user": "Khushighosh"
+    },
+    {
       "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
       "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
       "published_at": "2026-10-22T16:05:20Z",
@@ -449,21 +434,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "[Agent Platform in Practice (5)] Building an AI Agent Quality Flywheel: Automated Benchmarking for LINE AI Business Card King wi",
-      "url": "https://dev.to/gde/agent-platform-in-practice-5-building-an-ai-agent-quality-flywheel-automated-benchmarking-for-58m2",
-      "published_at": "2026-10-23T08:31:26Z",
-      "description": "Recap   In the first four articles of the \"Agent Platform in Action\" series, we have...",
-      "tags": [
-        "agents",
-        "ai",
-        "architecture",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8w8cdi29390hiagtmt5p.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
@@ -526,21 +496,6 @@
       "user": "xbill"
     },
     {
-      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-      "url": "https://dev.to/dailycontext/how-anthropics-dynamic-workflows-coordinate-claude-agents-3f23",
-      "published_at": "2026-10-12T21:00:36Z",
-      "description": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can...",
-      "tags": [
-        "ai",
-        "agents",
-        "llm",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2w4jruci4ticsodem7oi.png",
-      "source": "Dev.to",
-      "user": "Richard MacManus"
-    },
-    {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
       "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
       "published_at": "2026-10-12T21:03:17Z",
@@ -554,6 +509,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png",
       "source": "Dev.to",
       "user": "dev.to staff"
+    },
+    {
+      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+      "url": "https://dev.to/dailycontext/how-anthropics-dynamic-workflows-coordinate-claude-agents-3f23",
+      "published_at": "2026-10-12T21:00:36Z",
+      "description": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can...",
+      "tags": [
+        "ai",
+        "agents",
+        "llm",
+        "news"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2w4jruci4ticsodem7oi.png",
+      "source": "Dev.to",
+      "user": "Richard MacManus"
     },
     {
       "title": "Workshop Day Opens AI Engineer NYC",
@@ -570,6 +540,21 @@
       "user": "Rachael Berkey"
     },
     {
+      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
+      "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4",
+      "published_at": "2026-10-23T05:52:48Z",
+      "description": "When we use generative AI to proofread our daily writing—whether technical reports, business...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "googleworkspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2bc3ar45xrgqtcuc87ui.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
       "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
       "published_at": "2026-10-16T17:40:16Z",
@@ -583,6 +568,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fle5lxtrblynphqs20c45.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "OpenGameBuilder: Describe a game in one sentence and generate it using a local LLM like Gemma 4.",
+      "url": "https://dev.to/blaiselabs/opengamebuilder-describe-a-game-in-one-sentence-and-generate-it-using-a-local-llm-like-gemma-4-215m",
+      "published_at": "2026-10-19T07:01:01Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle    Every...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "sentry"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblaiselabs.github.io%2FOpenGameBuilder%2Farticle%2Fhero_cherry_town.png",
+      "source": "Dev.to",
+      "user": "Blaise Labs"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -753,6 +753,36 @@
       "user": "caseyf7"
     },
     {
+      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "url": "https://github.com/jacke-pp/open-yoki",
+      "published_at": "2026-10-28T08:58:27Z",
+      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
+      "source": "GitHub",
+      "stars": 340,
+      "user": "jacke-pp"
+    },
+    {
+      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "published_at": "2026-10-27T12:03:01Z",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
+      "source": "GitHub",
+      "stars": 309,
+      "user": "haydenschmitty"
+    },
+    {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "published_at": "2026-10-24T05:35:47Z",
@@ -764,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4362,
+      "stars": 4543,
       "user": "rddmwmddr"
     },
     {
@@ -779,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 2836,
+      "stars": 3034,
       "user": "interplains"
     },
     {
@@ -794,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1199,
       "user": "DenisSergeevitch"
     },
     {
@@ -809,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 749,
       "user": "DrWhax"
     },
     {
@@ -839,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174145742?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 107,
       "user": "Shaitrish"
     },
     {
@@ -854,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1380,
       "user": "andyhuo520"
     },
     {
@@ -869,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 706,
       "user": "yaojingang"
     },
     {
@@ -883,19 +913,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "binjip978"
-    },
-    {
-      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "published_at": "2026-10-28T13:55:15.090-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "reversing"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "haze"
     },
     {
       "title": "jQuery: $.when.apply() fails when there is only one AJAX request instead of several",
@@ -1302,7 +1319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 859,
       "user": "ZiChuanLan"
     },
     {
@@ -1317,7 +1334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 510,
       "user": "misshexa66"
     },
     {
@@ -1332,38 +1349,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 382,
       "user": "mochiiwuff"
     },
     {
-      "title": "Jestions-dev/BlueFatFish - 蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
-      "url": "https://github.com/Jestions-dev/BlueFatFish",
-      "published_at": "2026-10-24T12:03:38Z",
-      "description": "蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
+      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "url": "https://github.com/jacke-pp/open-yoki",
+      "published_at": "2026-10-28T08:58:27Z",
+      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
       "source": "GitHub",
-      "stars": 295,
-      "user": "Jestions-dev"
+      "stars": 340,
+      "user": "jacke-pp"
     },
     {
-      "title": "Charonyuu/whatsmyagentdoing - See what every Claude Code and Codex agent on your machine is doing — live, in a little office.",
-      "url": "https://github.com/Charonyuu/whatsmyagentdoing",
-      "published_at": "2026-10-23T14:15:26Z",
-      "description": "See what every Claude Code and Codex agent on your machine is doing — live, in a little office.",
+      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "published_at": "2026-10-27T12:03:01Z",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/88021016?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 278,
-      "user": "Charonyuu"
+      "stars": 309,
+      "user": "haydenschmitty"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
@@ -1377,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3068,
+      "stars": 3154,
       "user": "designfuchen"
     },
     {
@@ -1392,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1380,
       "user": "andyhuo520"
     },
     {
@@ -1407,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 793,
       "user": "kargulstudio"
     },
     {
@@ -1422,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 766,
       "user": "surendrapandar"
     },
     {
@@ -1437,14 +1454,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 706,
       "user": "yaojingang"
     },
     {
       "title": "How can callers cancel independently when they share the same fetch request?",
       "url": "https://stackoverflow.com/questions/80013221/how-can-callers-cancel-independently-when-they-share-the-same-fetch-request",
       "published_at": "2026-10-28T20:28:34.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "javascript",
         "promise",
@@ -1453,6 +1470,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "David Brierton"
+    },
+    {
+      "title": "Product links don't respond to the first tap on Android after swiping",
+      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
+      "published_at": "2026-10-28T09:49:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "jquery",
+        "owl-carousel-2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user9440558"
     },
     {
       "title": "How to close mobile menu after clicking a link",
@@ -1471,7 +1502,7 @@
       "title": "Next.js 15 memory usage keeps increasing when polling a live darts API every second",
       "url": "https://stackoverflow.com/questions/80013104/next-js-15-memory-usage-keeps-increasing-when-polling-a-live-darts-api-every-sec",
       "published_at": "2026-10-28T13:40:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
         "node.js",
@@ -1484,18 +1515,18 @@
       "user": "tudiude"
     },
     {
-      "title": "Product links don't respond to the first tap on Android after swiping",
-      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
-      "published_at": "2026-10-28T09:49:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "title": "How to avoid rendering delays when switching from text to dynamic selects?",
+      "url": "https://stackoverflow.com/questions/80012793/how-to-avoid-rendering-delays-when-switching-from-text-to-dynamic-selects",
+      "published_at": "2026-10-27T08:02:43.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "javascript",
-        "jquery",
-        "owl-carousel-2"
+        "vue.js",
+        "vuejs3"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user9440558"
+      "user": "Adrian Ma&#241;as"
     },
     {
       "title": "TinyMCE 5 editor displays a blank white area when Android keyboard opens",
@@ -1569,37 +1600,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
-    },
-    {
-      "title": "How to avoid rendering delays when switching from text to dynamic selects?",
-      "url": "https://stackoverflow.com/questions/80012793/how-to-avoid-rendering-delays-when-switching-from-text-to-dynamic-selects",
-      "published_at": "2026-10-27T08:02:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "vue.js",
-        "vuejs3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Adrian Ma&#241;as"
-    },
-    {
-      "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
-      "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
-      "published_at": "2026-10-26T21:18:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "postgresql",
-        "sqlalchemy",
-        "atomic",
-        "jsonb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "madjetmax"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1781,7 +1781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4362,
+      "stars": 4543,
       "user": "rddmwmddr"
     },
     {
@@ -1796,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 2836,
+      "stars": 3034,
       "user": "interplains"
     },
     {
@@ -1811,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2277,
+      "stars": 2305,
       "user": "t3dotgg"
     },
     {
@@ -1826,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
       "source": "GitHub",
-      "stars": 1368,
+      "stars": 1382,
       "user": "morganlinton"
     },
     {
@@ -1841,27 +1841,43 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1199,
       "user": "DenisSergeevitch"
     },
     {
-      "title": "A fast and secure tar parser for the Rust ecosystem",
-      "url": "https://astral.sh/blog/tar-codec",
-      "published_at": "2026-10-27T11:59:30.534-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "VS Code - bad indentation in jupyter notebook's cell",
+      "url": "https://stackoverflow.com/questions/80013304/vs-code-bad-indentation-in-jupyter-notebooks-cell",
+      "published_at": "2026-10-29T08:18:54.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
-        "rust"
+        "vs-code",
+        "jupyter-notebook",
+        "jupyter"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "yossarian"
+      "source": "StackOverflow",
+      "user": "dacian"
+    },
+    {
+      "title": "Can I make Pyright catch unnecessarily broad type annotations?",
+      "url": "https://stackoverflow.com/questions/80013267/can-i-make-pyright-catch-unnecessarily-broad-type-annotations",
+      "published_at": "2026-10-29T02:32:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
     },
     {
       "title": "Why can't I make this loop in this pyglet-using code work?",
       "url": "https://stackoverflow.com/questions/80013265/why-cant-i-make-this-loop-in-this-pyglet-using-code-work",
       "published_at": "2026-10-29T01:20:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "windows",
@@ -1904,9 +1920,8 @@
       "title": "Is this really the best solution to it or is there any other options to make this code more clear?",
       "url": "https://stackoverflow.com/questions/80012993/is-this-really-the-best-solution-to-it-or-is-there-any-other-options-to-make-thi",
       "published_at": "2026-10-28T03:57:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
-        "advice",
         "python"
       ],
       "cover_image": null,
@@ -1943,18 +1958,6 @@
       "user": "MikaPika"
     },
     {
-      "title": "Struggling to understand Python 'while' loop code block",
-      "url": "https://stackoverflow.com/questions/80012621/struggling-to-understand-python-while-loop-code-block",
-      "published_at": "2026-10-26T14:12:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -8",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NeuronEdge"
-    },
-    {
       "title": "Why doesn't my PyQt5 Progress Bar Dialog stay visible?",
       "url": "https://stackoverflow.com/questions/80012687/why-doesnt-my-pyqt5-progress-bar-dialog-stay-visible",
       "published_at": "2026-10-26T19:53:45.000Z",
@@ -1969,35 +1972,16 @@
       "user": "Kes Perron"
     },
     {
-      "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
-      "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
-      "published_at": "2026-10-26T21:18:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
+      "title": "Struggling to understand Python 'while' loop code block",
+      "url": "https://stackoverflow.com/questions/80012621/struggling-to-understand-python-while-loop-code-block",
+      "published_at": "2026-10-26T14:12:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -8",
       "tags": [
-        "python",
-        "postgresql",
-        "sqlalchemy",
-        "atomic",
-        "jsonb"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "madjetmax"
-    },
-    {
-      "title": "Multithreaded web server is not threading requests",
-      "url": "https://stackoverflow.com/questions/80012553/multithreaded-web-server-is-not-threading-requests",
-      "published_at": "2026-10-26T08:34:12.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "python",
-        "multithreading",
-        "http",
-        "webserver"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "RS8"
+      "user": "NeuronEdge"
     },
     {
       "title": "How to Build a Command-Line Weather App with Python",
@@ -2270,7 +2254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 403,
       "user": "zeabur-oss"
     },
     {
@@ -2453,7 +2437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4362,
+      "stars": 4543,
       "user": "rddmwmddr"
     },
     {
@@ -2468,21 +2452,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 2836,
+      "stars": 3034,
       "user": "interplains"
-    },
-    {
-      "title": "How to close mobile menu after clicking a link",
-      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
-      "published_at": "2026-10-28T16:52:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "responsive-design"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kismet-"
     },
     {
       "title": "Product links don't respond to the first tap on Android after swiping",
@@ -2497,6 +2468,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user9440558"
+    },
+    {
+      "title": "How to close mobile menu after clicking a link",
+      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
+      "published_at": "2026-10-28T16:52:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "responsive-design"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kismet-"
     },
     {
       "title": "TinyMCE 5 editor displays a blank white area when Android keyboard opens",
@@ -2682,21 +2666,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "[Agent Platform in Practice (4)] Towards Cloud Two-layer Decoupling and Full Persistence: Completing the LINE AI Business Card M",
-      "url": "https://dev.to/gde/agent-platform-in-practice-4-towards-cloud-two-layer-decoupling-and-full-persistence-60g",
-      "published_at": "2026-10-23T08:32:27Z",
-      "description": "Recap   In the first three articles of the \"Agent Platform in Action\" series, we...",
-      "tags": [
-        "agents",
-        "architecture",
-        "cloud",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fla3l7bjvp6jd5pq42om9.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
       "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
       "published_at": "2026-10-22T16:05:20Z",
@@ -2710,21 +2679,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
       "source": "Dev.to",
       "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "[Agent Platform in Practice (5)] Building an AI Agent Quality Flywheel: Automated Benchmarking for LINE AI Business Card King wi",
-      "url": "https://dev.to/gde/agent-platform-in-practice-5-building-an-ai-agent-quality-flywheel-automated-benchmarking-for-58m2",
-      "published_at": "2026-10-23T08:31:26Z",
-      "description": "Recap   In the first four articles of the \"Agent Platform in Action\" series, we have...",
-      "tags": [
-        "agents",
-        "ai",
-        "architecture",
-        "cloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8w8cdi29390hiagtmt5p.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
@@ -2768,7 +2722,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 334,
       "user": "egoist"
     },
     {
@@ -2877,22 +2831,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
-      "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
-      "published_at": "2026-10-26T21:18:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "postgresql",
-        "sqlalchemy",
-        "atomic",
-        "jsonb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "madjetmax"
     },
     {
       "title": "How to Build a Simple Data Analyzer in Python with Pandas",
@@ -3073,19 +3011,7 @@
       "user": "Varcht"
     },
     {
-      "title": "This is not sustainable",
-      "url": "https://www.netmeister.org/blog/defense-ddos.html",
-      "published_at": "2026-10-27T22:56:49.155-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "binjip978"
-    },
-    {
-      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux",
+      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
       "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
       "published_at": "2026-10-28T18:01:26.314-05:00",
       "description": "Lobste.rs Discussion",
@@ -3098,16 +3024,16 @@
       "user": "durrendal"
     },
     {
-      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "published_at": "2026-10-28T04:18:31.981-05:00",
+      "title": "This is not sustainable",
+      "url": "https://www.netmeister.org/blog/defense-ddos.html",
+      "published_at": "2026-10-27T22:56:49.155-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "aCaB"
+      "user": "binjip978"
     },
     {
       "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
@@ -3356,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 814,
+      "stars": 859,
       "user": "ZiChuanLan"
     },
     {
@@ -3371,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 510,
       "user": "misshexa66"
     },
     {
@@ -3386,38 +3312,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 382,
       "user": "mochiiwuff"
     },
     {
-      "title": "Jestions-dev/BlueFatFish - 蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
-      "url": "https://github.com/Jestions-dev/BlueFatFish",
-      "published_at": "2026-10-24T12:03:38Z",
-      "description": "蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
+      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "url": "https://github.com/jacke-pp/open-yoki",
+      "published_at": "2026-10-28T08:58:27Z",
+      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
       "source": "GitHub",
-      "stars": 295,
-      "user": "Jestions-dev"
+      "stars": 340,
+      "user": "jacke-pp"
     },
     {
-      "title": "Charonyuu/whatsmyagentdoing - See what every Claude Code and Codex agent on your machine is doing — live, in a little office.",
-      "url": "https://github.com/Charonyuu/whatsmyagentdoing",
-      "published_at": "2026-10-23T14:15:26Z",
-      "description": "See what every Claude Code and Codex agent on your machine is doing — live, in a little office.",
+      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "published_at": "2026-10-27T12:03:01Z",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/88021016?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 278,
-      "user": "Charonyuu"
+      "stars": 309,
+      "user": "haydenschmitty"
     },
     {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
@@ -3431,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4362,
+      "stars": 4543,
       "user": "rddmwmddr"
     },
     {
@@ -3446,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 2836,
+      "stars": 3034,
       "user": "interplains"
     },
     {
@@ -3461,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2277,
+      "stars": 2305,
       "user": "t3dotgg"
     },
     {
@@ -3476,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
       "source": "GitHub",
-      "stars": 1368,
+      "stars": 1382,
       "user": "morganlinton"
     },
     {
@@ -3491,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1185,
+      "stars": 1199,
       "user": "DenisSergeevitch"
     },
     {
@@ -3506,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 749,
       "user": "DrWhax"
     },
     {
@@ -3521,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 330,
+      "stars": 334,
       "user": "egoist"
     },
     {
@@ -3536,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 188,
+      "stars": 197,
       "user": "tractordev"
     },
     {
@@ -3566,7 +3492,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174145742?v=4",
       "source": "GitHub",
-      "stars": 105,
+      "stars": 107,
       "user": "Shaitrish"
     },
     {
@@ -3581,7 +3507,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3068,
+      "stars": 3154,
       "user": "designfuchen"
     },
     {
@@ -3596,7 +3522,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1325,
+      "stars": 1380,
       "user": "andyhuo520"
     },
     {
@@ -3611,7 +3537,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 793,
       "user": "kargulstudio"
     },
     {
@@ -3626,7 +3552,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 766,
       "user": "surendrapandar"
     },
     {
@@ -3641,7 +3567,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 706,
       "user": "yaojingang"
     },
     {
@@ -3656,23 +3582,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 760,
       "user": "mizorewww"
-    },
-    {
-      "title": "heydeer/pngdeer - Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
-      "url": "https://github.com/heydeer/pngdeer",
-      "published_at": "2026-10-25T05:09:24Z",
-      "description": "Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
-      "source": "GitHub",
-      "stars": 324,
-      "user": "heydeer"
     },
     {
       "title": "zeabur-oss/zeabur - Self-hosted PaaS on your own Kubernetes.",
@@ -3686,8 +3597,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 271,
+      "stars": 403,
       "user": "zeabur-oss"
+    },
+    {
+      "title": "heydeer/pngdeer - Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
+      "url": "https://github.com/heydeer/pngdeer",
+      "published_at": "2026-10-25T05:09:24Z",
+      "description": "Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
+      "source": "GitHub",
+      "stars": 331,
+      "user": "heydeer"
     },
     {
       "title": "lalalune/pumpfun-source - Reverse engineering the pump.fun smart contracts",
@@ -3701,7 +3627,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18633264?v=4",
       "source": "GitHub",
-      "stars": 206,
+      "stars": 207,
       "user": "lalalune"
     },
     {
@@ -3716,7 +3642,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316626863?v=4",
       "source": "GitHub",
-      "stars": 203,
+      "stars": 204,
       "user": "hffgzktbcc-blip"
     },
     {
@@ -3733,7 +3659,7 @@
       "user": "galadran"
     },
     {
-      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux",
+      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
       "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
       "published_at": "2026-10-28T18:01:26.314-05:00",
       "description": "Lobste.rs Discussion",
