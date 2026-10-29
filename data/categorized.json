@@ -1,6 +1,66 @@
 {
   "AI": [
     {
+      "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
+      "url": "https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66",
+      "published_at": "2026-10-29T13:14:48Z",
+      "description": "Google DeepMind’s Gemini 4 Carbon (Oct 28) claims AA Index v5.0 #1 at 59 and SOTA cyber benches — still Fairwind/cyber-defenders first, no public model ID. Intro $2/$10 → $4/$20, 95% cache off, builder checklist before the API.",
+      "tags": [
+        "ai",
+        "llm",
+        "google",
+        "cybersecurity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frb38kxt40ap8gon8h5mi.png",
+      "source": "Dev.to",
+      "user": "Yong Yu"
+    },
+    {
+      "title": "Welcome to the Prompt Pad: AI Tips & Tricks with Rosendo Pili",
+      "url": "https://blog.mlh.com/welcome-to-the-prompt-pad-ai-tips-tricks-with-rosendo-pili-2hkl",
+      "published_at": "2026-10-29T19:07:55Z",
+      "description": "Keeping up with AI is a full-time job. Prompt Pad is here to help you keep up a little at a...",
+      "tags": [
+        "ai",
+        "beginners",
+        "promptengineering",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F89unnpv2l9egvfexk82u.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
+      "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
+      "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi",
+      "published_at": "2026-10-29T15:57:07Z",
+      "description": "Week of Oct 23-29: GPT-6.1 Terra, restricted Gemini Carbon access, Kimi K3.1 Pro, Copilot Fusion and GitHub's agentic workflow launches.",
+      "tags": [
+        "aidevweekly",
+        "gpt61terra",
+        "gemini4carbon",
+        "kimik31"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aimadetools.com%2F_astro%2Fai-dev-weekly-032-gpt-61-terra-gemini-carbon-kimi-copilot-fusion.7SXVtojB.png",
+      "source": "Dev.to",
+      "user": "Joske Vermeulen"
+    },
+    {
+      "title": "Performance vs Quality: Gemma 4 E2B Quantization on an NVIDIA L4 and a Tesla T4",
+      "url": "https://dev.to/gde/performance-vs-quality-gemma-4-e2b-quantization-on-an-nvidia-l4-and-a-tesla-t4-4b90",
+      "published_at": "2026-10-29T14:39:09Z",
+      "description": "Gemma 4 E2B from BF16 to Q2_K, speed against GSM8K accuracy, on an AWS L4 with byte-identical GGUF files and the same llama.cpp build as the Tesla T4. The L4 decodes 1.25 to 1.89 times faster, Q5_K_M is still the best trade, and switching GPUs changes nearly as many grades as quantizing from BF16 to Q5_K_M.",
+      "tags": [
+        "gemma",
+        "llamacpp",
+        "aws",
+        "quantization"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma-graveyard%2Fmain%2Fdocs%2Fdevto-cover-l4.82c50f0e.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Your Laptop Might Replace Most of Your AI Bill",
       "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
       "published_at": "2026-10-28T11:58:00Z",
@@ -136,21 +196,6 @@
       "user": "Esra Kadah"
     },
     {
-      "title": "Postmortem: The Tuesday Our AI Bill Had No Owner",
-      "url": "https://dev.to/gde/postmortem-the-tuesday-our-ai-bill-had-no-owner-34pd",
-      "published_at": "2026-10-25T11:15:42Z",
-      "description": "I've read a lot of postmortems. The best ones aren't about blame. They're about the gap between what...",
-      "tags": [
-        "discuss",
-        "vertexai",
-        "sre",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzugwwkecbbd6ytgoann3.png",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
-    },
-    {
       "title": "I approved the order. Then my Genkit Dart agent forgot its own tool.",
       "url": "https://dev.to/gde/i-approved-the-order-then-my-genkit-dart-agent-forgot-its-own-tool-3mjp",
       "published_at": "2026-10-27T09:54:50Z",
@@ -179,21 +224,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
-      "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
-      "published_at": "2026-10-21T16:59:00Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "tigerdata",
-        "githubcopilot"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsz6wqckn1mxagladj1ln.png",
-      "source": "Dev.to",
-      "user": "Paul Horton"
     },
     {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
@@ -271,6 +301,21 @@
       "user": "Jem"
     },
     {
+      "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
+      "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
+      "published_at": "2026-10-21T16:59:00Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "tigerdata",
+        "githubcopilot"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsz6wqckn1mxagladj1ln.png",
+      "source": "Dev.to",
+      "user": "Paul Horton"
+    },
+    {
       "title": "Gemma 4 on a 4 GB GPU in Plain PyTorch: From Out of Memory to Faster Than llama.cpp",
       "url": "https://dev.to/gde/gemma-4-on-a-4-gb-gpu-in-plain-pytorch-from-out-of-memory-to-faster-than-llamacpp-31jb",
       "published_at": "2026-10-24T13:44:48Z",
@@ -329,36 +374,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2FRobinaMirbahar%2Fmain%2Fcomic_studio_ai_cover.jpg",
       "source": "Dev.to",
       "user": "Robina Mirbahar"
-    },
-    {
-      "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
-      "url": "https://dev.to/gde/the-best-prompt-rule-is-the-one-you-delete-moving-ai-guardrails-out-of-markdown-and-into-git-5a5h",
-      "published_at": "2026-10-25T20:19:06Z",
-      "description": "Every rule that stays in a prompt eventually bloats, blurs, or gets gamed by the model. When systems engineers and an autonomous AI red-teamed my workflow, the cure wasn't more Markdown—it was pushing enforcement down into Git Merkle locks, Linux insmod, and 15ms compiler auto-fixes that cost zero tokens and zero turns.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "compilers"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F76spe97b0zo4l86bgyd4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Trick, Treat, and Code: Highlighting GDGC VTU's Best Halloween Hacks 🕸️💻",
-      "url": "https://dev.to/gdg/trick-treat-and-code-highlighting-gdgc-vtus-best-halloween-hacks-4hpf",
-      "published_at": "2026-10-25T11:26:29Z",
-      "description": "#GDGCVTU #HalloweenDevChallenge #TrickOrTreat      Hello Developers,  That's a wrap on...",
-      "tags": [
-        "ai",
-        "opensource",
-        "showdev",
-        "github"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyrcl27rqbhvg0y07j34t.png",
-      "source": "Dev.to",
-      "user": "Piyush Annigeri"
     },
     {
       "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
@@ -570,21 +585,6 @@
       "user": "Jhin Lee"
     },
     {
-      "title": "AI Needs a Test That Fights Back",
-      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
-      "published_at": "2026-10-12T21:03:49Z",
-      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
-      "tags": [
-        "ai",
-        "opensource",
-        "testing",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
-      "source": "Dev.to",
-      "user": "Ramakrishnan Lokanathan"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -764,23 +764,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 373,
       "user": "haydenschmitty"
-    },
-    {
-      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "url": "https://github.com/jacke-pp/open-yoki",
-      "published_at": "2026-10-28T08:58:27Z",
-      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
-      "source": "GitHub",
-      "stars": 340,
-      "user": "jacke-pp"
     },
     {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
@@ -794,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4670,
+      "stars": 4705,
       "user": "rddmwmddr"
     },
     {
@@ -809,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3315,
+      "stars": 3512,
       "user": "interplains"
     },
     {
@@ -824,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1251,
       "user": "DenisSergeevitch"
     },
     {
@@ -839,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 766,
       "user": "DrWhax"
     },
     {
@@ -869,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174145742?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 112,
       "user": "Shaitrish"
     },
     {
@@ -884,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1441,
+      "stars": 1456,
       "user": "andyhuo520"
     },
     {
@@ -899,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 723,
       "user": "yaojingang"
     },
     {
@@ -913,18 +898,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ndr"
-    },
-    {
-      "title": "The Future Trait Has A Missing State",
-      "url": "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state",
-      "published_at": "2026-10-28T23:24:28.224-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "rust"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "fanf"
     },
     {
       "title": "jQuery: $.when.apply() fails when there is only one AJAX request instead of several",
@@ -942,126 +915,135 @@
       "user": "Mijeli Lucero"
     },
     {
-      "title": "Unable to build using Python 3.16 (current Python main)",
-      "url": "https://stackoverflow.com/questions/80012969/unable-to-build-using-python-3-16-current-python-main",
-      "published_at": "2026-10-27T22:04:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
+      "title": "Starting a Netbox Plugin with Template Extension fails with ModuleNotFoundError",
+      "url": "https://stackoverflow.com/questions/80013401/starting-a-netbox-plugin-with-template-extension-fails-with-modulenotfounderror",
+      "published_at": "2026-10-29T13:52:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "clang",
-        "python-imaging-library"
+        "netbox"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "smontanaro"
+      "user": "Rainer"
     },
     {
-      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-      "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
-      "published_at": "2026-10-29T15:00:00.000Z",
-      "description": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "TC",
-        "cowboy ventures"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "published_at": "2026-10-29T14:35:26.000Z",
-      "description": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "title": "As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "published_at": "2026-10-29T20:08:31.000Z",
+      "description": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
       "tags": [
         "AI",
         "Apps",
-        "IVP",
-        "ai agent",
-        "Wabi"
+        "Media & Entertainment",
+        "TC",
+        "Reddit"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
     },
     {
-      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "published_at": "2026-10-29T13:00:00.000Z",
-      "description": "Deepgram said that it is committed to keep Pipecat open source.",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "published_at": "2026-10-29T20:05:47.000Z",
+      "description": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
       "tags": [
         "AI",
-        "DeepGram",
-        "voice AI"
+        "Transportation",
+        "Rivian",
+        "Volkswagen Group"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Ivan Mehta"
+      "user": "Kirsten Korosec"
     },
     {
-      "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
-      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
-      "published_at": "2026-10-29T13:00:00.000Z",
-      "description": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "published_at": "2026-10-29T19:56:19.000Z",
+      "description": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
       "tags": [
         "AI",
-        "Commerce",
-        "Amazon",
-        "Alexa"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
-      "url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
-      "published_at": "2026-10-29T13:00:00.000Z",
-      "description": "Six days from now, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston on Nov. 4 to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals.",
-      "tags": [
-        "TC",
-        "Startups",
         "Venture",
-        "Fundraising",
-        "TechCrunch Founder Summit 2026"
+        "ADT",
+        "In Brief",
+        "M&A"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "TechCrunch Events"
+      "user": "Julie Bort"
     },
     {
-      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-      "published_at": "2026-10-28T23:15:00.000Z",
-      "description": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
+      "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
+      "published_at": "2026-10-29T19:17:49.000Z",
+      "description": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
       "tags": [
-        "Security",
-        "Startups",
-        "Bessemer Venture Partners",
-        "cloud security",
-        "Datadog"
+        "Media & Entertainment",
+        "Airbnb",
+        "Hollywood"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Marina Temkin"
+      "user": "Dominic-Madori Davis"
     },
     {
-      "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "published_at": "2026-10-28T21:58:32.000Z",
-      "description": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "published_at": "2026-10-29T19:14:36.000Z",
+      "description": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
       "tags": [
         "AI",
-        "Enterprise",
-        "TC",
-        "Azure",
-        "Microsoft"
+        "Apps",
+        "Meta"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Aditya Mehta"
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "published_at": "2026-10-29T17:54:38.000Z",
+      "description": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "tags": [
+        "AI",
+        "Apps",
+        "ai dictation",
+        "granola",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "published_at": "2026-10-29T17:00:00.000Z",
+      "description": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "tags": [
+        "AI",
+        "cyber",
+        "mistral"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Cloud Service Models Explained: IaaS vs PaaS vs SaaS",
+      "url": "https://www.freecodecamp.org/news/cloud-service-models-explained-iaas-vs-paas-vs-saas/",
+      "published_at": "2026-10-29T15:39:58.000Z",
+      "description": "You likely use cloud services every day. When you check Gmail, join a Zoom meeting, or message your team on Slack, you use cloud-hosted software. But you don't manage the servers it runs on or maintai",
+      "tags": [
+        "Cloud Computing",
+        "Cloud Engineering"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Chinwendu Enyinna"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1138,20 +1120,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Ahmed Tariq"
-    },
-    {
-      "title": "How Neural Networks Work: Why Straight Lines Aren't Enough",
-      "url": "https://www.freecodecamp.org/news/how-neural-networks-work-why-straight-lines-aren-t-enough/",
-      "published_at": "2026-10-20T16:36:05.000Z",
-      "description": "A straight line equation is a good place to start understanding how a neural network works. It's what we explored in my previous article, How Neural Networks Work – Explained Using the Straight Line E",
-      "tags": [
-        "neural networks",
-        "DeepLearning",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Samyukta Hegde"
     }
   ],
   "JavaScript": [
@@ -1317,7 +1285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 869,
+      "stars": 874,
       "user": "ZiChuanLan"
     },
     {
@@ -1332,7 +1300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 524,
       "user": "misshexa66"
     },
     {
@@ -1347,7 +1315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 404,
       "user": "mochiiwuff"
     },
     {
@@ -1362,23 +1330,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 373,
       "user": "haydenschmitty"
     },
     {
-      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "url": "https://github.com/jacke-pp/open-yoki",
-      "published_at": "2026-10-28T08:58:27Z",
-      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "title": "Jestions-dev/BlueFatFish - 蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
+      "url": "https://github.com/Jestions-dev/BlueFatFish",
+      "published_at": "2026-10-24T12:03:38Z",
+      "description": "蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
       "source": "GitHub",
-      "stars": 340,
-      "user": "jacke-pp"
+      "stars": 357,
+      "user": "Jestions-dev"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
@@ -1392,7 +1360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3215,
+      "stars": 3218,
       "user": "designfuchen"
     },
     {
@@ -1407,7 +1375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1441,
+      "stars": 1456,
       "user": "andyhuo520"
     },
     {
@@ -1422,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 801,
       "user": "kargulstudio"
     },
     {
@@ -1437,7 +1405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 774,
       "user": "surendrapandar"
     },
     {
@@ -1452,7 +1420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 723,
       "user": "yaojingang"
     },
     {
@@ -1594,6 +1562,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
+    },
+    {
+      "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
+      "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
+      "published_at": "2026-10-29T19:17:49.000Z",
+      "description": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
+      "tags": [
+        "Media & Entertainment",
+        "Airbnb",
+        "Hollywood"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1775,7 +1757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4670,
+      "stars": 4705,
       "user": "rddmwmddr"
     },
     {
@@ -1790,7 +1772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3315,
+      "stars": 3512,
       "user": "interplains"
     },
     {
@@ -1805,7 +1787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2353,
+      "stars": 2375,
       "user": "t3dotgg"
     },
     {
@@ -1820,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
       "source": "GitHub",
-      "stars": 1394,
+      "stars": 1410,
       "user": "morganlinton"
     },
     {
@@ -1835,8 +1817,50 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1251,
       "user": "DenisSergeevitch"
+    },
+    {
+      "title": "Null values from Salesforce overwriting data in PostgreSQL",
+      "url": "https://stackoverflow.com/questions/80013497/null-values-from-salesforce-overwriting-data-in-postgresql",
+      "published_at": "2026-10-29T20:03:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "postgresql",
+        "salesforce",
+        "upsert"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DataSyncPRO"
+    },
+    {
+      "title": "Same records showing up on different API pages",
+      "url": "https://stackoverflow.com/questions/80013493/same-records-showing-up-on-different-api-pages",
+      "published_at": "2026-10-29T19:57:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "rest",
+        "google-bigquery",
+        "pagination"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Unhappy-Leading-6796"
+    },
+    {
+      "title": "Finding out the time of multiple files at once",
+      "url": "https://stackoverflow.com/questions/80013460/finding-out-the-time-of-multiple-files-at-once",
+      "published_at": "2026-10-29T17:00:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ali Kinaan"
     },
     {
       "title": "Why does comparing two visually identical strings \"Jos&#233;\" and \"Jos&#233;\" return False in Python?",
@@ -1852,6 +1876,49 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Tulionsky"
+    },
+    {
+      "title": "Starting a Netbox Plugin with Template Extension fails with ModuleNotFoundError",
+      "url": "https://stackoverflow.com/questions/80013401/starting-a-netbox-plugin-with-template-extension-fails-with-modulenotfounderror",
+      "published_at": "2026-10-29T13:52:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "netbox"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rainer"
+    },
+    {
+      "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
+      "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
+      "published_at": "2026-10-29T10:20:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
+      "tags": [
+        "python",
+        "pytorch",
+        "cuda",
+        "artificial-intelligence"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "HMPtwo"
+    },
+    {
+      "title": "Why does VS Code insert incorrect indentation in Jupyter Notebook cells?",
+      "url": "https://stackoverflow.com/questions/80013304/why-does-vs-code-insert-incorrect-indentation-in-jupyter-notebook-cells",
+      "published_at": "2026-10-29T08:18:54.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "vs-code",
+        "jupyter-notebook",
+        "jupyter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dacian"
     },
     {
       "title": "What are the best practices for setting up a Python development environment for beginners?",
@@ -1884,40 +1951,10 @@
       "user": "Naira"
     },
     {
-      "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
-      "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
-      "published_at": "2026-10-29T10:20:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "python",
-        "pytorch",
-        "cuda",
-        "artificial-intelligence"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "HMPtwo"
-    },
-    {
-      "title": "VS Code - bad indentation in jupyter notebook's cell",
-      "url": "https://stackoverflow.com/questions/80013304/vs-code-bad-indentation-in-jupyter-notebooks-cell",
-      "published_at": "2026-10-29T08:18:54.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "vs-code",
-        "jupyter-notebook",
-        "jupyter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "dacian"
-    },
-    {
       "title": "Why can't I make this loop in this pyglet-using code work?",
       "url": "https://stackoverflow.com/questions/80013265/why-cant-i-make-this-loop-in-this-pyglet-using-code-work",
       "published_at": "2026-10-29T01:20:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "windows",
@@ -1930,59 +1967,20 @@
       "user": "user33244385"
     },
     {
-      "title": "Can I make Pyright catch unnecessarily broad type annotations?",
-      "url": "https://stackoverflow.com/questions/80013267/can-i-make-pyright-catch-unnecessarily-broad-type-annotations",
-      "published_at": "2026-10-29T02:32:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
+      "url": "https://www.freecodecamp.org/news/python-in-marketing-a-practical-book/",
+      "published_at": "2026-10-29T15:42:25.000Z",
+      "description": "Marketing has always involved wrangling lots of data. Before digital marketing, businesses had to track sales, customer purchases, coupon redemptions, store traffic, and survey responses to understand",
       "tags": [
-        "python",
-        "python-typing",
-        "pyright"
+        "Python",
+        "data analytics",
+        "Data Science",
+        "software development",
+        "automation"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Why is Pyright saying I have already declared this enum member?",
-      "url": "https://stackoverflow.com/questions/80013112/why-is-pyright-saying-i-have-already-declared-this-enum-member",
-      "published_at": "2026-10-28T13:59:41.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python",
-        "python-typing",
-        "pyright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Why colors are not changing",
-      "url": "https://stackoverflow.com/questions/80013184/why-colors-are-not-changing",
-      "published_at": "2026-10-28T17:25:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
-      "tags": [
-        "python",
-        "numpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "FoSack 3000"
-    },
-    {
-      "title": "Unable to build using Python 3.16 (current Python main)",
-      "url": "https://stackoverflow.com/questions/80012969/unable-to-build-using-python-3-16-current-python-main",
-      "published_at": "2026-10-27T22:04:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "clang",
-        "python-imaging-library"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "smontanaro"
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
     },
     {
       "title": "How to Build a Command-Line Weather App with Python",
@@ -2225,7 +2223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 499,
       "user": "zeabur-oss"
     },
     {
@@ -2407,7 +2405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4670,
+      "stars": 4705,
       "user": "rddmwmddr"
     },
     {
@@ -2422,7 +2420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3315,
+      "stars": 3512,
       "user": "interplains"
     },
     {
@@ -2467,6 +2465,21 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Performance vs Quality: Gemma 4 E2B Quantization on an NVIDIA L4 and a Tesla T4",
+      "url": "https://dev.to/gde/performance-vs-quality-gemma-4-e2b-quantization-on-an-nvidia-l4-and-a-tesla-t4-4b90",
+      "published_at": "2026-10-29T14:39:09Z",
+      "description": "Gemma 4 E2B from BF16 to Q2_K, speed against GSM8K accuracy, on an AWS L4 with byte-identical GGUF files and the same llama.cpp build as the Tesla T4. The L4 decodes 1.25 to 1.89 times faster, Q5_K_M is still the best trade, and switching GPUs changes nearly as many grades as quantizing from BF16 to Q5_K_M.",
+      "tags": [
+        "gemma",
+        "llamacpp",
+        "aws",
+        "quantization"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma-graveyard%2Fmain%2Fdocs%2Fdevto-cover-l4.82c50f0e.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Your Laptop Might Replace Most of Your AI Bill",
       "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
@@ -2659,40 +2672,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 349,
       "user": "egoist"
     },
     {
-      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-      "published_at": "2026-10-28T23:15:00.000Z",
-      "description": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "title": "GM reaches $220M settlement over selling drivers&#8217; private data",
+      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+      "published_at": "2026-10-29T21:01:04.000Z",
+      "description": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
       "tags": [
-        "Security",
-        "Startups",
-        "Bessemer Venture Partners",
-        "cloud security",
-        "Datadog"
+        "Transportation",
+        "General Motors",
+        "lawsuit",
+        "onstar"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Marina Temkin"
+      "user": "Kirsten Korosec"
     },
     {
-      "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "published_at": "2026-10-28T21:58:32.000Z",
-      "description": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "title": "Cloud Service Models Explained: IaaS vs PaaS vs SaaS",
+      "url": "https://www.freecodecamp.org/news/cloud-service-models-explained-iaas-vs-paas-vs-saas/",
+      "published_at": "2026-10-29T15:39:58.000Z",
+      "description": "You likely use cloud services every day. When you check Gmail, join a Zoom meeting, or message your team on Slack, you use cloud-hosted software. But you don't manage the servers it runs on or maintai",
       "tags": [
-        "AI",
-        "Enterprise",
-        "TC",
-        "Azure",
-        "Microsoft"
+        "Cloud Computing",
+        "Cloud Engineering"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
+      "source": "freeCodeCamp",
+      "user": "Chinwendu Enyinna"
     },
     {
       "title": "What Is Model Distillation? A Guide for Developers",
@@ -2770,6 +2779,21 @@
       "user": "iancarroll"
     },
     {
+      "title": "Null values from Salesforce overwriting data in PostgreSQL",
+      "url": "https://stackoverflow.com/questions/80013497/null-values-from-salesforce-overwriting-data-in-postgresql",
+      "published_at": "2026-10-29T20:03:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "postgresql",
+        "salesforce",
+        "upsert"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DataSyncPRO"
+    },
+    {
       "title": "How to Build a Simple Data Analyzer in Python with Pandas",
       "url": "https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/",
       "published_at": "2026-10-26T21:56:52.000Z",
@@ -2800,6 +2824,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
+      "url": "https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66",
+      "published_at": "2026-10-29T13:14:48Z",
+      "description": "Google DeepMind’s Gemini 4 Carbon (Oct 28) claims AA Index v5.0 #1 at 59 and SOTA cyber benches — still Fairwind/cyber-defenders first, no public model ID. Intro $2/$10 → $4/$20, 95% cache off, builder checklist before the API.",
+      "tags": [
+        "ai",
+        "llm",
+        "google",
+        "cybersecurity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frb38kxt40ap8gon8h5mi.png",
+      "source": "Dev.to",
+      "user": "Yong Yu"
+    },
     {
       "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
       "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
@@ -2948,19 +2987,6 @@
       "user": "Varcht"
     },
     {
-      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "published_at": "2026-10-28T18:01:26.314-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "linux",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "durrendal"
-    },
-    {
       "title": "Shared password manager for families?",
       "url": "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
       "published_at": "2026-10-29T09:39:51.453-05:00",
@@ -2974,36 +3000,47 @@
       "user": "icefox"
     },
     {
-      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
-      "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
-      "published_at": "2026-10-29T13:43:53.000Z",
-      "description": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.",
+      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "published_at": "2026-10-28T18:01:26.314-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "Government & Policy",
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach"
+        "linux",
+        "security"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "source": "Lobste.rs",
+      "user": "durrendal"
     },
     {
-      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-      "published_at": "2026-10-28T23:15:00.000Z",
-      "description": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "published_at": "2026-10-29T19:56:19.000Z",
+      "description": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
       "tags": [
-        "Security",
-        "Startups",
-        "Bessemer Venture Partners",
-        "cloud security",
-        "Datadog"
+        "AI",
+        "Venture",
+        "ADT",
+        "In Brief",
+        "M&A"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Marina Temkin"
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "published_at": "2026-10-29T17:00:00.000Z",
+      "description": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "tags": [
+        "AI",
+        "cyber",
+        "mistral"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -3036,6 +3073,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
+      "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi",
+      "published_at": "2026-10-29T15:57:07Z",
+      "description": "Week of Oct 23-29: GPT-6.1 Terra, restricted Gemini Carbon access, Kimi K3.1 Pro, Copilot Fusion and GitHub's agentic workflow launches.",
+      "tags": [
+        "aidevweekly",
+        "gpt61terra",
+        "gemini4carbon",
+        "kimik31"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aimadetools.com%2F_astro%2Fai-dev-weekly-032-gpt-61-terra-gemini-carbon-kimi-copilot-fusion.7SXVtojB.png",
+      "source": "Dev.to",
+      "user": "Joske Vermeulen"
+    },
     {
       "title": "Your Laptop Might Replace Most of Your AI Bill",
       "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
@@ -3127,51 +3179,6 @@
       "user": "xbill"
     },
     {
-      "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
-      "url": "https://dev.to/gde/the-best-prompt-rule-is-the-one-you-delete-moving-ai-guardrails-out-of-markdown-and-into-git-5a5h",
-      "published_at": "2026-10-25T20:19:06Z",
-      "description": "Every rule that stays in a prompt eventually bloats, blurs, or gets gamed by the model. When systems engineers and an autonomous AI red-teamed my workflow, the cure wasn't more Markdown—it was pushing enforcement down into Git Merkle locks, Linux insmod, and 15ms compiler auto-fixes that cost zero tokens and zero turns.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "compilers"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F76spe97b0zo4l86bgyd4.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Trick, Treat, and Code: Highlighting GDGC VTU's Best Halloween Hacks 🕸️💻",
-      "url": "https://dev.to/gdg/trick-treat-and-code-highlighting-gdgc-vtus-best-halloween-hacks-4hpf",
-      "published_at": "2026-10-25T11:26:29Z",
-      "description": "#GDGCVTU #HalloweenDevChallenge #TrickOrTreat      Hello Developers,  That's a wrap on...",
-      "tags": [
-        "ai",
-        "opensource",
-        "showdev",
-        "github"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyrcl27rqbhvg0y07j34t.png",
-      "source": "Dev.to",
-      "user": "Piyush Annigeri"
-    },
-    {
-      "title": "AI Needs a Test That Fights Back",
-      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
-      "published_at": "2026-10-12T21:03:49Z",
-      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
-      "tags": [
-        "ai",
-        "opensource",
-        "testing",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
-      "source": "Dev.to",
-      "user": "Ramakrishnan Lokanathan"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3219,7 +3226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 869,
+      "stars": 874,
       "user": "ZiChuanLan"
     },
     {
@@ -3234,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 513,
+      "stars": 524,
       "user": "misshexa66"
     },
     {
@@ -3249,7 +3256,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 404,
       "user": "mochiiwuff"
     },
     {
@@ -3264,23 +3271,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 342,
+      "stars": 373,
       "user": "haydenschmitty"
     },
     {
-      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "url": "https://github.com/jacke-pp/open-yoki",
-      "published_at": "2026-10-28T08:58:27Z",
-      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "title": "Jestions-dev/BlueFatFish - 蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
+      "url": "https://github.com/Jestions-dev/BlueFatFish",
+      "published_at": "2026-10-24T12:03:38Z",
+      "description": "蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
       "source": "GitHub",
-      "stars": 340,
-      "user": "jacke-pp"
+      "stars": 357,
+      "user": "Jestions-dev"
     },
     {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
@@ -3294,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4670,
+      "stars": 4705,
       "user": "rddmwmddr"
     },
     {
@@ -3309,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3315,
+      "stars": 3512,
       "user": "interplains"
     },
     {
@@ -3324,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2353,
+      "stars": 2375,
       "user": "t3dotgg"
     },
     {
@@ -3339,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
       "source": "GitHub",
-      "stars": 1394,
+      "stars": 1410,
       "user": "morganlinton"
     },
     {
@@ -3354,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1235,
+      "stars": 1251,
       "user": "DenisSergeevitch"
     },
     {
@@ -3369,7 +3376,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 757,
+      "stars": 766,
       "user": "DrWhax"
     },
     {
@@ -3384,7 +3391,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 343,
+      "stars": 349,
       "user": "egoist"
     },
     {
@@ -3399,7 +3406,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 211,
       "user": "tractordev"
     },
     {
@@ -3429,7 +3436,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174145742?v=4",
       "source": "GitHub",
-      "stars": 110,
+      "stars": 112,
       "user": "Shaitrish"
     },
     {
@@ -3444,7 +3451,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3215,
+      "stars": 3218,
       "user": "designfuchen"
     },
     {
@@ -3459,7 +3466,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1441,
+      "stars": 1456,
       "user": "andyhuo520"
     },
     {
@@ -3474,7 +3481,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 798,
+      "stars": 801,
       "user": "kargulstudio"
     },
     {
@@ -3489,7 +3496,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 774,
       "user": "surendrapandar"
     },
     {
@@ -3504,7 +3511,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 717,
+      "stars": 723,
       "user": "yaojingang"
     },
     {
@@ -3519,7 +3526,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 761,
+      "stars": 766,
       "user": "mizorewww"
     },
     {
@@ -3534,7 +3541,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 499,
       "user": "zeabur-oss"
     },
     {
@@ -3549,7 +3556,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 341,
       "user": "heydeer"
     },
     {
@@ -3579,7 +3586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178333324?v=4",
       "source": "GitHub",
-      "stars": 179,
+      "stars": 205,
       "user": "yjid"
     },
     {
@@ -3607,6 +3614,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "durrendal"
+    },
+    {
+      "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
+      "url": "https://www.freecodecamp.org/news/python-in-marketing-a-practical-book/",
+      "published_at": "2026-10-29T15:42:25.000Z",
+      "description": "Marketing has always involved wrangling lots of data. Before digital marketing, businesses had to track sales, customer purchases, coupon redemptions, store traffic, and survey responses to understand",
+      "tags": [
+        "Python",
+        "data analytics",
+        "Data Science",
+        "software development",
+        "automation"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Eva J Patel"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
