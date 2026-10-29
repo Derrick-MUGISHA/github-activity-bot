@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4266,
+      "stars": 4362,
       "user": "rddmwmddr"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 2721,
+      "stars": 2836,
       "user": "interplains"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1176,
+      "stars": 1185,
       "user": "DenisSergeevitch"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 721,
       "user": "DrWhax"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174145742?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 105,
       "user": "Shaitrish"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1302,
+      "stars": 1325,
       "user": "andyhuo520"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 691,
       "user": "yaojingang"
     },
     {
@@ -883,6 +883,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "binjip978"
+    },
+    {
+      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "published_at": "2026-10-28T13:55:15.090-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "reversing"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "haze"
     },
     {
       "title": "jQuery: $.when.apply() fails when there is only one AJAX request instead of several",
@@ -919,11 +932,11 @@
       "published_at": "2026-10-28T23:15:00.000Z",
       "description": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
       "tags": [
-        "Startups",
         "Security",
-        "M&A",
-        "Datadog",
-        "upwind"
+        "Startups",
+        "Bessemer Venture Partners",
+        "cloud security",
+        "Datadog"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1124,21 +1137,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Samyukta Hegde"
-    },
-    {
-      "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
-      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/",
-      "published_at": "2026-10-20T09:33:46.000Z",
-      "description": "Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri",
-      "tags": [
-        "ai agents",
-        "Harness",
-        "TypeScript",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gabor Koos"
     }
   ],
   "JavaScript": [
@@ -1304,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 814,
       "user": "ZiChuanLan"
     },
     {
@@ -1319,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 504,
       "user": "misshexa66"
     },
     {
@@ -1334,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 375,
       "user": "mochiiwuff"
     },
     {
@@ -1349,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 295,
       "user": "Jestions-dev"
     },
     {
@@ -1364,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88021016?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 278,
       "user": "Charonyuu"
     },
     {
@@ -1379,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3037,
+      "stars": 3068,
       "user": "designfuchen"
     },
     {
@@ -1394,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1302,
+      "stars": 1325,
       "user": "andyhuo520"
     },
     {
@@ -1409,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 788,
       "user": "kargulstudio"
     },
     {
@@ -1424,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 760,
       "user": "surendrapandar"
     },
     {
@@ -1439,14 +1437,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 691,
       "user": "yaojingang"
     },
     {
       "title": "How can callers cancel independently when they share the same fetch request?",
       "url": "https://stackoverflow.com/questions/80013221/how-can-callers-cancel-independently-when-they-share-the-same-fetch-request",
       "published_at": "2026-10-28T20:28:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
         "promise",
@@ -1557,21 +1555,6 @@
       "user": "Tech Akm"
     },
     {
-      "title": "How to avoid rendering delays when switching from text to dynamic selects?",
-      "url": "https://stackoverflow.com/questions/80012793/how-to-avoid-rendering-delays-when-switching-from-text-to-dynamic-selects",
-      "published_at": "2026-10-27T08:02:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "vue.js",
-        "vuejs3"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Adrian Ma&#241;as"
-    },
-    {
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
@@ -1586,6 +1569,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
+    },
+    {
+      "title": "How to avoid rendering delays when switching from text to dynamic selects?",
+      "url": "https://stackoverflow.com/questions/80012793/how-to-avoid-rendering-delays-when-switching-from-text-to-dynamic-selects",
+      "published_at": "2026-10-27T08:02:43.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "vue.js",
+        "vuejs3"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Adrian Ma&#241;as"
     },
     {
       "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
@@ -1633,21 +1631,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Ahmed Tariq"
-    },
-    {
-      "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
-      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/",
-      "published_at": "2026-10-20T09:33:46.000Z",
-      "description": "Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri",
-      "tags": [
-        "ai agents",
-        "Harness",
-        "TypeScript",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gabor Koos"
     }
   ],
   "Python": [
@@ -1798,7 +1781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4266,
+      "stars": 4362,
       "user": "rddmwmddr"
     },
     {
@@ -1813,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 2721,
+      "stars": 2836,
       "user": "interplains"
     },
     {
@@ -1828,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2253,
+      "stars": 2277,
       "user": "t3dotgg"
     },
     {
@@ -1843,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1368,
       "user": "morganlinton"
     },
     {
@@ -1858,7 +1841,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1176,
+      "stars": 1185,
       "user": "DenisSergeevitch"
     },
     {
@@ -1875,12 +1858,29 @@
       "user": "yossarian"
     },
     {
+      "title": "Why can't I make this loop in this pyglet-using code work?",
+      "url": "https://stackoverflow.com/questions/80013265/why-cant-i-make-this-loop-in-this-pyglet-using-code-work",
+      "published_at": "2026-10-29T01:20:21.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "windows",
+        "loops",
+        "time",
+        "pyglet"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33244385"
+    },
+    {
       "title": "Why is Pyright saying I have already declared this enum member?",
       "url": "https://stackoverflow.com/questions/80013112/why-is-pyright-saying-i-have-already-declared-this-enum-member",
       "published_at": "2026-10-28T13:59:41.000Z",
       "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "python",
+        "typing",
         "pyright"
       ],
       "cover_image": null,
@@ -2000,19 +2000,19 @@
       "user": "RS8"
     },
     {
-      "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
-      "url": "https://stackoverflow.com/questions/80012398/how-to-fix-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable-to",
-      "published_at": "2026-10-25T10:15:26.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "title": "How to Build a Command-Line Weather App with Python",
+      "url": "https://www.freecodecamp.org/news/how-to-build-a-command-line-weather-app-with-python/",
+      "published_at": "2026-10-28T21:16:04.000Z",
+      "description": "After doing a few basic Python projects, I got a bit bored of programs that just take input and print something back. I wanted to make something that actually gets data from the internet. So, I built",
       "tags": [
-        "python",
-        "sqlite",
-        "sqlalchemy",
-        "model-context-protocol"
+        "Python",
+        "Beginner Developers",
+        "api",
+        "webdev"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aradhya"
+      "source": "freeCodeCamp",
+      "user": "Sameer Qaiser"
     },
     {
       "title": "How to Build a Simple Data Analyzer in Python with Pandas",
@@ -2259,6 +2259,21 @@
       "user": "jknupp"
     },
     {
+      "title": "zeabur-oss/zeabur - Self-hosted PaaS on your own Kubernetes.",
+      "url": "https://github.com/zeabur-oss/zeabur",
+      "published_at": "2026-10-24T07:25:39Z",
+      "description": "Self-hosted PaaS on your own Kubernetes.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
+      "source": "GitHub",
+      "stars": 271,
+      "user": "zeabur-oss"
+    },
+    {
       "title": "How to Diagnose vite: not found After npm ci in a Container Build",
       "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
       "published_at": "2026-10-21T16:03:14.000Z",
@@ -2438,7 +2453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4266,
+      "stars": 4362,
       "user": "rddmwmddr"
     },
     {
@@ -2453,7 +2468,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 2721,
+      "stars": 2836,
       "user": "interplains"
     },
     {
@@ -2502,21 +2517,6 @@
   ],
   "Cloud": [
     {
-      "title": "Your Laptop Might Replace Most of Your AI Bill",
-      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
-      "published_at": "2026-10-28T11:58:00Z",
-      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
-      "tags": [
-        "ai",
-        "llm",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
-      "source": "Dev.to",
-      "user": "Carla Urrea Stabile"
-    },
-    {
       "title": "Size Your Model to Where You Run It: Gemma 4 E2B and E4B on an AWS L4 and Two Small GPUs",
       "url": "https://dev.to/gde/size-your-model-to-where-you-run-it-gemma-4-e2b-and-e4b-on-an-aws-l4-and-two-small-gpus-1d47",
       "published_at": "2026-10-27T13:30:52Z",
@@ -2530,6 +2530,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsize-your-model%2Fdevto-cover.3f5286be.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Your Laptop Might Replace Most of Your AI Bill",
+      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
+      "published_at": "2026-10-28T11:58:00Z",
+      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
+      "tags": [
+        "ai",
+        "llm",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
     },
     {
       "title": "Inference on Google Cloud: Precision, Memory and Capacity on TPU, from v5e to Ironwood",
@@ -2753,7 +2768,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 330,
       "user": "egoist"
     },
     {
@@ -2762,11 +2777,11 @@
       "published_at": "2026-10-28T23:15:00.000Z",
       "description": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
       "tags": [
-        "Startups",
         "Security",
-        "M&A",
-        "Datadog",
-        "upwind"
+        "Startups",
+        "Bessemer Venture Partners",
+        "cloud security",
+        "Datadog"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2878,21 +2893,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "madjetmax"
-    },
-    {
-      "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
-      "url": "https://stackoverflow.com/questions/80012398/how-to-fix-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable-to",
-      "published_at": "2026-10-25T10:15:26.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "sqlite",
-        "sqlalchemy",
-        "model-context-protocol"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aradhya"
     },
     {
       "title": "How to Build a Simple Data Analyzer in Python with Pandas",
@@ -3085,6 +3085,19 @@
       "user": "binjip978"
     },
     {
+      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "published_at": "2026-10-28T18:01:26.314-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "linux",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "durrendal"
+    },
+    {
       "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
       "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
       "published_at": "2026-10-28T04:18:31.981-05:00",
@@ -3102,11 +3115,11 @@
       "published_at": "2026-10-28T23:15:00.000Z",
       "description": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
       "tags": [
-        "Startups",
         "Security",
-        "M&A",
-        "Datadog",
-        "upwind"
+        "Startups",
+        "Bessemer Venture Partners",
+        "cloud security",
+        "Datadog"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3343,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 788,
+      "stars": 814,
       "user": "ZiChuanLan"
     },
     {
@@ -3358,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 497,
+      "stars": 504,
       "user": "misshexa66"
     },
     {
@@ -3373,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 375,
       "user": "mochiiwuff"
     },
     {
@@ -3388,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 295,
       "user": "Jestions-dev"
     },
     {
@@ -3403,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88021016?v=4",
       "source": "GitHub",
-      "stars": 277,
+      "stars": 278,
       "user": "Charonyuu"
     },
     {
@@ -3418,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4266,
+      "stars": 4362,
       "user": "rddmwmddr"
     },
     {
@@ -3433,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 2721,
+      "stars": 2836,
       "user": "interplains"
     },
     {
@@ -3448,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2253,
+      "stars": 2277,
       "user": "t3dotgg"
     },
     {
@@ -3463,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
       "source": "GitHub",
-      "stars": 1365,
+      "stars": 1368,
       "user": "morganlinton"
     },
     {
@@ -3478,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1176,
+      "stars": 1185,
       "user": "DenisSergeevitch"
     },
     {
@@ -3493,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 713,
+      "stars": 721,
       "user": "DrWhax"
     },
     {
@@ -3508,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 323,
+      "stars": 330,
       "user": "egoist"
     },
     {
@@ -3553,7 +3566,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174145742?v=4",
       "source": "GitHub",
-      "stars": 101,
+      "stars": 105,
       "user": "Shaitrish"
     },
     {
@@ -3568,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3037,
+      "stars": 3068,
       "user": "designfuchen"
     },
     {
@@ -3583,7 +3596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1302,
+      "stars": 1325,
       "user": "andyhuo520"
     },
     {
@@ -3598,7 +3611,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 788,
       "user": "kargulstudio"
     },
     {
@@ -3613,7 +3626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 759,
+      "stars": 760,
       "user": "surendrapandar"
     },
     {
@@ -3628,7 +3641,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 688,
+      "stars": 691,
       "user": "yaojingang"
     },
     {
@@ -3643,14 +3656,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 756,
       "user": "mizorewww"
     },
     {
-      "title": "heydeer/pngdeer - Smaller PNGs, same picture. Lossy PNG compression that picks the quality for you: 8–12% smaller than TinyPNG at the same quality. Command line and in the browser.",
+      "title": "heydeer/pngdeer - Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
       "url": "https://github.com/heydeer/pngdeer",
       "published_at": "2026-10-25T05:09:24Z",
-      "description": "Smaller PNGs, same picture. Lossy PNG compression that picks the quality for you: 8–12% smaller than TinyPNG at the same quality. Command line and in the browser.",
+      "description": "Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
       "tags": [
         "rust",
         "github",
@@ -3658,8 +3671,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 318,
+      "stars": 324,
       "user": "heydeer"
+    },
+    {
+      "title": "zeabur-oss/zeabur - Self-hosted PaaS on your own Kubernetes.",
+      "url": "https://github.com/zeabur-oss/zeabur",
+      "published_at": "2026-10-24T07:25:39Z",
+      "description": "Self-hosted PaaS on your own Kubernetes.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
+      "source": "GitHub",
+      "stars": 271,
+      "user": "zeabur-oss"
     },
     {
       "title": "lalalune/pumpfun-source - Reverse engineering the pump.fun smart contracts",
@@ -3673,7 +3701,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/18633264?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 206,
       "user": "lalalune"
     },
     {
@@ -3692,21 +3720,6 @@
       "user": "hffgzktbcc-blip"
     },
     {
-      "title": "openmathmodel/open-math-harness - The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
-      "url": "https://github.com/openmathmodel/open-math-harness",
-      "published_at": "2026-10-22T08:17:44Z",
-      "description": "The harness of Open Math OS, infrastructure for Math 2.0. Built for everyday math research.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/330179988?v=4",
-      "source": "GitHub",
-      "stars": 203,
-      "user": "openmathmodel"
-    },
-    {
       "title": "Apple's git still trusts the compromised eMudhra certificates",
       "url": "https://emudhra.we-have-a-problem.com/apple.html",
       "published_at": "2026-10-28T06:03:56.591-05:00",
@@ -3718,6 +3731,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "galadran"
+    },
+    {
+      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "published_at": "2026-10-28T18:01:26.314-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "linux",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "durrendal"
     },
     {
       "title": "Anthropic just launched tools to show companies what their AI spending is buying",
@@ -3744,21 +3770,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Build an AI Agent Harness from Scratch in TypeScript",
-      "url": "https://www.freecodecamp.org/news/how-to-build-an-ai-agent-harness-from-scratch-in-typescript/",
-      "published_at": "2026-10-20T09:33:46.000Z",
-      "description": "Many AI agent tutorials start with a language model, give it a few tools, and run a loop until it produces an answer. That's enough to demonstrate tool calling, but it leaves the interesting engineeri",
-      "tags": [
-        "ai agents",
-        "Harness",
-        "TypeScript",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Gabor Koos"
     }
   ]
 }
