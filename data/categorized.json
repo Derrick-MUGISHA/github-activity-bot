@@ -31,21 +31,6 @@
       "user": "xbill"
     },
     {
-      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
-      "url": "https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc",
-      "published_at": "2026-10-27T09:53:26Z",
-      "description": "1. The problem: an agent that can spend money   Most agent demos stop at \"the model called a...",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gn9hgsdfqcf4qx8tayd.png",
-      "source": "Dev.to",
-      "user": "Esra Kadah"
-    },
-    {
       "title": "Don't Be a Proxy Between Me and Your AI",
       "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
       "published_at": "2026-10-22T04:31:09Z",
@@ -59,36 +44,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
       "source": "Dev.to",
       "user": "Adam - The Developer ✨"
-    },
-    {
-      "title": "I approved the order. Then my Genkit Dart agent forgot its own tool.",
-      "url": "https://dev.to/gde/i-approved-the-order-then-my-genkit-dart-agent-forgot-its-own-tool-3mjp",
-      "published_at": "2026-10-27T09:54:50Z",
-      "description": "My agent asked me \"can I order this part?\". I said yes. And the answer came back as a...",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnovb7w7zmrggeds1gyth.jpg",
-      "source": "Dev.to",
-      "user": "Esra Kadah"
-    },
-    {
-      "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
-      "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
-      "published_at": "2026-10-20T19:14:39Z",
-      "description": "Automate root-cause incident triage on GKE by combining Gemini 4 Argon multi-step reasoning with the GKE Model Context Protocol server.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fajukpnfpo90v31p2y6af.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
     },
     {
       "title": "Beyond Passive AI Rewrites and Vibe Coding in Google Docs",
@@ -166,6 +121,21 @@
       "user": "Olivier Bourgeois"
     },
     {
+      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
+      "url": "https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc",
+      "published_at": "2026-10-27T09:53:26Z",
+      "description": "1. The problem: an agent that can spend money   Most agent demos stop at \"the model called a...",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gn9hgsdfqcf4qx8tayd.png",
+      "source": "Dev.to",
+      "user": "Esra Kadah"
+    },
+    {
       "title": "Postmortem: The Tuesday Our AI Bill Had No Owner",
       "url": "https://dev.to/gde/postmortem-the-tuesday-our-ai-bill-had-no-owner-34pd",
       "published_at": "2026-10-25T11:15:42Z",
@@ -181,6 +151,21 @@
       "user": "Karthigayan Devan"
     },
     {
+      "title": "I approved the order. Then my Genkit Dart agent forgot its own tool.",
+      "url": "https://dev.to/gde/i-approved-the-order-then-my-genkit-dart-agent-forgot-its-own-tool-3mjp",
+      "published_at": "2026-10-27T09:54:50Z",
+      "description": "My agent asked me \"can I order this part?\". I said yes. And the answer came back as a...",
+      "tags": [
+        "dart",
+        "flutter",
+        "ai",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnovb7w7zmrggeds1gyth.jpg",
+      "source": "Dev.to",
+      "user": "Esra Kadah"
+    },
+    {
       "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
       "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
       "published_at": "2026-10-22T23:51:30Z",
@@ -194,21 +179,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
-      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
-      "published_at": "2026-10-21T18:56:20Z",
-      "description": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
     },
     {
       "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
@@ -284,21 +254,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv26ia4v0iyw0egmy64ac.png",
       "source": "Dev.to",
       "user": "Evan Lin"
-    },
-    {
-      "title": "Generating a Physics Lab in Minutes with Gemini 4 Argon and Antigravity",
-      "url": "https://dev.to/googlecloud/generating-a-physics-lab-in-minutes-with-gemini-4-argon-and-antigravity-h4i",
-      "published_at": "2026-10-20T09:11:42Z",
-      "description": "We have all faced a new concept or a textbook chapter that raised more questions than anything....",
-      "tags": [
-        "gemini4argon",
-        "googleantigravity",
-        "llm",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fed32gcn3nbq47ayzc5nr.png",
-      "source": "Dev.to",
-      "user": "Laurent Picard"
     },
     {
       "title": "Join the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine! $2,850 in Prizes Across 21 Winners.",
@@ -585,6 +540,51 @@
       "user": "Blaise Labs"
     },
     {
+      "title": "The Model Is the Easy Part",
+      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
+      "published_at": "2026-10-14T12:04:00Z",
+      "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
+      "tags": [
+        "ai",
+        "llm",
+        "opensource",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png",
+      "source": "Dev.to",
+      "user": "Steven Latre"
+    },
+    {
+      "title": "Building a cross-platform Flutter festival assistant with llamadart",
+      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
+      "published_at": "2026-10-20T13:00:00Z",
+      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
+      "tags": [
+        "flutter",
+        "tutorial",
+        "ai",
+        "dart"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
+      "title": "AI Needs a Test That Fights Back",
+      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
+      "published_at": "2026-10-12T21:03:49Z",
+      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
+      "tags": [
+        "ai",
+        "opensource",
+        "testing",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -753,6 +753,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "published_at": "2026-10-27T12:03:01Z",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "haydenschmitty"
+    },
+    {
       "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
       "url": "https://github.com/jacke-pp/open-yoki",
       "published_at": "2026-10-28T08:58:27Z",
@@ -768,21 +783,6 @@
       "user": "jacke-pp"
     },
     {
-      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "url": "https://github.com/haydenschmitty/floorplan",
-      "published_at": "2026-10-27T12:03:01Z",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
-      "source": "GitHub",
-      "stars": 309,
-      "user": "haydenschmitty"
-    },
-    {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "published_at": "2026-10-24T05:35:47Z",
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4543,
+      "stars": 4670,
       "user": "rddmwmddr"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3034,
+      "stars": 3315,
       "user": "interplains"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1235,
       "user": "DenisSergeevitch"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 757,
       "user": "DrWhax"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "smhanov"
     },
     {
@@ -869,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174145742?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 110,
       "user": "Shaitrish"
     },
     {
@@ -884,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1380,
+      "stars": 1441,
       "user": "andyhuo520"
     },
     {
@@ -899,20 +899,32 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 717,
       "user": "yaojingang"
     },
     {
-      "title": "This is not sustainable",
-      "url": "https://www.netmeister.org/blog/defense-ddos.html",
-      "published_at": "2026-10-27T22:56:49.155-05:00",
+      "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "published_at": "2026-10-29T05:00:04.439-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "security"
+        "ai"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "binjip978"
+      "user": "ndr"
+    },
+    {
+      "title": "The Future Trait Has A Missing State",
+      "url": "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state",
+      "published_at": "2026-10-28T23:24:28.224-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "rust"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "fanf"
     },
     {
       "title": "jQuery: $.when.apply() fails when there is only one AJAX request instead of several",
@@ -942,6 +954,82 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "smontanaro"
+    },
+    {
+      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+      "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+      "published_at": "2026-10-29T15:00:00.000Z",
+      "description": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
+      "tags": [
+        "Fundraising",
+        "Startups",
+        "TC",
+        "cowboy ventures"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "published_at": "2026-10-29T14:35:26.000Z",
+      "description": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "tags": [
+        "AI",
+        "Apps",
+        "IVP",
+        "ai agent",
+        "Wabi"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "published_at": "2026-10-29T13:00:00.000Z",
+      "description": "Deepgram said that it is committed to keep Pipecat open source.",
+      "tags": [
+        "AI",
+        "DeepGram",
+        "voice AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+      "published_at": "2026-10-29T13:00:00.000Z",
+      "description": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.",
+      "tags": [
+        "AI",
+        "Commerce",
+        "Amazon",
+        "Alexa"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
+      "url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
+      "published_at": "2026-10-29T13:00:00.000Z",
+      "description": "Six days from now, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston on Nov. 4 to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals.",
+      "tags": [
+        "TC",
+        "Startups",
+        "Venture",
+        "Fundraising",
+        "TechCrunch Founder Summit 2026"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
     },
     {
       "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
@@ -974,96 +1062,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aditya Mehta"
-    },
-    {
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "published_at": "2026-10-28T21:48:37.000Z",
-      "description": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "tags": [
-        "AI",
-        "gemini",
-        "Google",
-        "Google Search"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "published_at": "2026-10-28T21:34:30.000Z",
-      "description": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Microsoft",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "published_at": "2026-10-28T21:25:30.000Z",
-      "description": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "TC",
-        "Microsoft"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-      "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-      "published_at": "2026-10-28T20:01:00.000Z",
-      "description": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
-      "tags": [
-        "Government & Policy",
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "Department of Homeland Security"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "published_at": "2026-10-28T19:19:58.000Z",
-      "description": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "tags": [
-        "AI",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Wiz’s CTO on PHP2Shell and the coming &#8216;vulnpocalypse&#8217;",
-      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "published_at": "2026-10-28T19:05:46.000Z",
-      "description": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. Accord",
-      "tags": [
-        "AI",
-        "Security",
-        "Startups",
-        "CTO",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1319,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 869,
       "user": "ZiChuanLan"
     },
     {
@@ -1334,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 513,
       "user": "misshexa66"
     },
     {
@@ -1349,8 +1347,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 395,
       "user": "mochiiwuff"
+    },
+    {
+      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "published_at": "2026-10-27T12:03:01Z",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "haydenschmitty"
     },
     {
       "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
@@ -1368,21 +1381,6 @@
       "user": "jacke-pp"
     },
     {
-      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "url": "https://github.com/haydenschmitty/floorplan",
-      "published_at": "2026-10-27T12:03:01Z",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
-      "source": "GitHub",
-      "stars": 309,
-      "user": "haydenschmitty"
-    },
-    {
       "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
       "url": "https://github.com/designfuchen/word-atlas",
       "published_at": "2026-10-25T08:27:22Z",
@@ -1394,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3154,
+      "stars": 3215,
       "user": "designfuchen"
     },
     {
@@ -1409,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1380,
+      "stars": 1441,
       "user": "andyhuo520"
     },
     {
@@ -1424,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 798,
       "user": "kargulstudio"
     },
     {
@@ -1439,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 772,
       "user": "surendrapandar"
     },
     {
@@ -1454,8 +1452,33 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 717,
       "user": "yaojingang"
+    },
+    {
+      "title": "Why does my async function return \"Promise { <pending> }\" instead of the fetched data in JavaScript?",
+      "url": "https://stackoverflow.com/questions/80013408/why-does-my-async-function-return-promise-pending-instead-of-the-fetched",
+      "published_at": "2026-10-29T14:13:55.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "DANIELA MARICLER GUITZ PALMA"
+    },
+    {
+      "title": "How to close mobile menu after clicking a link",
+      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
+      "published_at": "2026-10-28T16:52:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "responsive-design"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kismet-"
     },
     {
       "title": "How can callers cancel independently when they share the same fetch request?",
@@ -1484,19 +1507,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user9440558"
-    },
-    {
-      "title": "How to close mobile menu after clicking a link",
-      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
-      "published_at": "2026-10-28T16:52:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "responsive-design"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kismet-"
     },
     {
       "title": "Next.js 15 memory usage keeps increasing when polling a live darts API every second",
@@ -1529,35 +1539,6 @@
       "user": "Adrian Ma&#241;as"
     },
     {
-      "title": "TinyMCE 5 editor displays a blank white area when Android keyboard opens",
-      "url": "https://stackoverflow.com/questions/80013070/tinymce-5-editor-displays-a-blank-white-area-when-android-keyboard-opens",
-      "published_at": "2026-10-28T10:34:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "android",
-        "css",
-        "mobile",
-        "tinymce"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Testas Testauskas"
-    },
-    {
-      "title": "How to get rid of the session storage in my code?",
-      "url": "https://stackoverflow.com/questions/80013026/how-to-get-rid-of-the-session-storage-in-my-code",
-      "published_at": "2026-10-28T06:23:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "asp.net-core-mvc"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "عبدالرحمن اشرف"
-    },
-    {
       "title": "jQuery: $.when.apply() fails when there is only one AJAX request instead of several",
       "url": "https://stackoverflow.com/questions/80013016/jquery-when-apply-fails-when-there-is-only-one-ajax-request-instead-of-seve",
       "published_at": "2026-10-28T05:57:29.000Z",
@@ -1571,6 +1552,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mijeli Lucero"
+    },
+    {
+      "title": "How to get rid of the session storage in my code?",
+      "url": "https://stackoverflow.com/questions/80013026/how-to-get-rid-of-the-session-storage-in-my-code",
+      "published_at": "2026-10-28T06:23:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "javascript",
+        "asp.net-core-mvc"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "عبدالرحمن اشرف"
     },
     {
       "title": "Three.js canvas memory leak in React function components during rapid unmounting",
@@ -1781,7 +1775,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4543,
+      "stars": 4670,
       "user": "rddmwmddr"
     },
     {
@@ -1796,7 +1790,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3034,
+      "stars": 3315,
       "user": "interplains"
     },
     {
@@ -1811,7 +1805,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2305,
+      "stars": 2353,
       "user": "t3dotgg"
     },
     {
@@ -1826,7 +1820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
       "source": "GitHub",
-      "stars": 1382,
+      "stars": 1394,
       "user": "morganlinton"
     },
     {
@@ -1841,14 +1835,74 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1235,
       "user": "DenisSergeevitch"
+    },
+    {
+      "title": "Why does comparing two visually identical strings \"Jos&#233;\" and \"Jos&#233;\" return False in Python?",
+      "url": "https://stackoverflow.com/questions/80013426/why-does-comparing-two-visually-identical-strings-jos%c3%a9-and-jos%c3%a9-return-false",
+      "published_at": "2026-10-29T15:09:36.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "unicode",
+        "string-comparison",
+        "unicode-normalization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Tulionsky"
+    },
+    {
+      "title": "What are the best practices for setting up a Python development environment for beginners?",
+      "url": "https://stackoverflow.com/questions/80013391/what-are-the-best-practices-for-setting-up-a-python-development-environment-for",
+      "published_at": "2026-10-29T13:04:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "best-practices",
+        "python",
+        "pip",
+        "virtualenv",
+        "development-environment"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "TechNes"
+    },
+    {
+      "title": "Placing a NIFTY short straddle as one strategy order in Nubra: qty vs unitQty, and why side is BUY?",
+      "url": "https://stackoverflow.com/questions/80013343/placing-a-nifty-short-straddle-as-one-strategy-order-in-nubra-qty-vs-unitqty-a",
+      "published_at": "2026-10-29T10:33:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pandas",
+        "trading"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Naira"
+    },
+    {
+      "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
+      "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
+      "published_at": "2026-10-29T10:20:20.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "pytorch",
+        "cuda",
+        "artificial-intelligence"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "HMPtwo"
     },
     {
       "title": "VS Code - bad indentation in jupyter notebook's cell",
       "url": "https://stackoverflow.com/questions/80013304/vs-code-bad-indentation-in-jupyter-notebooks-cell",
       "published_at": "2026-10-29T08:18:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "vs-code",
@@ -1860,24 +1914,10 @@
       "user": "dacian"
     },
     {
-      "title": "Can I make Pyright catch unnecessarily broad type annotations?",
-      "url": "https://stackoverflow.com/questions/80013267/can-i-make-pyright-catch-unnecessarily-broad-type-annotations",
-      "published_at": "2026-10-29T02:32:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "python-typing",
-        "pyright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
       "title": "Why can't I make this loop in this pyglet-using code work?",
       "url": "https://stackoverflow.com/questions/80013265/why-cant-i-make-this-loop-in-this-pyglet-using-code-work",
       "published_at": "2026-10-29T01:20:21.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "windows",
@@ -1890,13 +1930,27 @@
       "user": "user33244385"
     },
     {
+      "title": "Can I make Pyright catch unnecessarily broad type annotations?",
+      "url": "https://stackoverflow.com/questions/80013267/can-i-make-pyright-catch-unnecessarily-broad-type-annotations",
+      "published_at": "2026-10-29T02:32:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
       "title": "Why is Pyright saying I have already declared this enum member?",
       "url": "https://stackoverflow.com/questions/80013112/why-is-pyright-saying-i-have-already-declared-this-enum-member",
       "published_at": "2026-10-28T13:59:41.000Z",
       "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "python",
-        "typing",
+        "python-typing",
         "pyright"
       ],
       "cover_image": null,
@@ -1907,7 +1961,7 @@
       "title": "Why colors are not changing",
       "url": "https://stackoverflow.com/questions/80013184/why-colors-are-not-changing",
       "published_at": "2026-10-28T17:25:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "python",
         "numpy"
@@ -1915,18 +1969,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "FoSack 3000"
-    },
-    {
-      "title": "Is this really the best solution to it or is there any other options to make this code more clear?",
-      "url": "https://stackoverflow.com/questions/80012993/is-this-really-the-best-solution-to-it-or-is-there-any-other-options-to-make-thi",
-      "published_at": "2026-10-28T03:57:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ハリー・ポッター"
     },
     {
       "title": "Unable to build using Python 3.16 (current Python main)",
@@ -1941,47 +1983,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "smontanaro"
-    },
-    {
-      "title": "Tkinter Toplevel Windows Persisting in Memory When Deleted",
-      "url": "https://stackoverflow.com/questions/80012958/tkinter-toplevel-windows-persisting-in-memory-when-deleted",
-      "published_at": "2026-10-27T19:50:42.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "tkinter",
-        "garbage-collection",
-        "toplevel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "MikaPika"
-    },
-    {
-      "title": "Why doesn't my PyQt5 Progress Bar Dialog stay visible?",
-      "url": "https://stackoverflow.com/questions/80012687/why-doesnt-my-pyqt5-progress-bar-dialog-stay-visible",
-      "published_at": "2026-10-26T19:53:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "python-3.x",
-        "pyqt5"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kes Perron"
-    },
-    {
-      "title": "Struggling to understand Python 'while' loop code block",
-      "url": "https://stackoverflow.com/questions/80012621/struggling-to-understand-python-while-loop-code-block",
-      "published_at": "2026-10-26T14:12:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -8",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NeuronEdge"
     },
     {
       "title": "How to Build a Command-Line Weather App with Python",
@@ -2033,36 +2034,6 @@
   ],
   "DevOps": [
     {
-      "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
-      "url": "https://dev.to/gde/shipping-flutter-web-to-firebase-when-your-github-actions-budget-hits-zero-2mi5",
-      "published_at": "2026-10-27T08:06:59Z",
-      "description": "On October 18, right in the middle of shipping a multi-feature audit and a supplement tracker...",
-      "tags": [
-        "flutter",
-        "firebase",
-        "webdev",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F471epezz3m6cdkvp598f.jpg",
-      "source": "Dev.to",
-      "user": "Esra Kadah"
-    },
-    {
-      "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
-      "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
-      "published_at": "2026-10-20T19:14:39Z",
-      "description": "Automate root-cause incident triage on GKE by combining Gemini 4 Argon multi-step reasoning with the GKE Model Context Protocol server.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fajukpnfpo90v31p2y6af.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
       "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa",
       "published_at": "2026-10-25T10:05:18Z",
@@ -2093,19 +2064,19 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
-      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
-      "published_at": "2026-10-21T18:56:20Z",
-      "description": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.",
+      "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
+      "url": "https://dev.to/gde/shipping-flutter-web-to-firebase-when-your-github-actions-budget-hits-zero-2mi5",
+      "published_at": "2026-10-27T08:06:59Z",
+      "description": "On October 18, right in the middle of shipping a multi-feature audit and a supplement tracker...",
       "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
+        "flutter",
+        "firebase",
+        "webdev",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F471epezz3m6cdkvp598f.jpg",
       "source": "Dev.to",
-      "user": "Olivier Bourgeois"
+      "user": "Esra Kadah"
     },
     {
       "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
@@ -2254,7 +2225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 481,
       "user": "zeabur-oss"
     },
     {
@@ -2300,22 +2271,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
-    },
-    {
-      "title": "TinyMCE 5 editor displays a blank white area when Android keyboard opens",
-      "url": "https://stackoverflow.com/questions/80013070/tinymce-5-editor-displays-a-blank-white-area-when-android-keyboard-opens",
-      "published_at": "2026-10-28T10:34:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "android",
-        "css",
-        "mobile",
-        "tinymce"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Testas Testauskas"
     },
     {
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
@@ -2366,6 +2321,21 @@
       "user": "Esra Kadah"
     },
     {
+      "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
+      "url": "https://dev.to/gde/why-blocadd-isnt-what-you-think-synchronous-event-fast-paths-and-0ms-form-bindings-6o",
+      "published_at": "2026-10-25T23:44:27Z",
+      "description": "Why classic BLoC's StreamController forces an asynchronous microtask tax, how BlocSignal executes synchronous event handlers inline on the exact same call stack, and why this is the only way to build 120 FPS Generative UI form bindings.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwuehs85o3yn71ytprfk.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
       "url": "https://dev.to/gde/shipping-flutter-web-to-firebase-when-your-github-actions-budget-hits-zero-2mi5",
       "published_at": "2026-10-27T08:06:59Z",
@@ -2396,21 +2366,6 @@
       "user": "Esra Kadah"
     },
     {
-      "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
-      "url": "https://dev.to/gde/why-blocadd-isnt-what-you-think-synchronous-event-fast-paths-and-0ms-form-bindings-6o",
-      "published_at": "2026-10-25T23:44:27Z",
-      "description": "Why classic BLoC's StreamController forces an asynchronous microtask tax, how BlocSignal executes synchronous event handlers inline on the exact same call stack, and why this is the only way to build 120 FPS Generative UI form bindings.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwuehs85o3yn71ytprfk.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
       "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
       "published_at": "2026-10-20T04:34:20Z",
@@ -2426,6 +2381,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Building a cross-platform Flutter festival assistant with llamadart",
+      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
+      "published_at": "2026-10-20T13:00:00Z",
+      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
+      "tags": [
+        "flutter",
+        "tutorial",
+        "ai",
+        "dart"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
+      "source": "Dev.to",
+      "user": "Jhin Lee"
+    },
+    {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "published_at": "2026-10-24T05:35:47Z",
@@ -2437,7 +2407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4543,
+      "stars": 4670,
       "user": "rddmwmddr"
     },
     {
@@ -2452,22 +2422,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3034,
+      "stars": 3315,
       "user": "interplains"
     },
     {
-      "title": "Product links don't respond to the first tap on Android after swiping",
-      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
-      "published_at": "2026-10-28T09:49:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "title": "Shared password manager for families?",
+      "url": "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
+      "published_at": "2026-10-29T09:39:51.453-05:00",
+      "description": "Long story short, I need to have a bunch of shared accounts with family for finance and insurance and stuff, mostly for the sake of family members who are getting old and need help keeping things organized.  So the requirements are:\r\n\r\n* Shared over long distances; just having each of us have our own password manager won't work well\r\n* Usable for non-techie people, so no command line stuff\r\n* I can self-host a web thing if necessary\r\n* Works on Linux and MacOS/iOS\r\n\r\nI *would* just use 1Password, but recent events have demonstrated them as not exactly competent.  I could always use KeepassXC and keep the file in a Google Drive folder, or maybe teach my siblings to use Syncthing, but that feels like extra steps we could do without.  Anyone have any recommendations for how to do this well?",
       "tags": [
-        "javascript",
-        "jquery",
-        "owl-carousel-2"
+        "ask",
+        "security"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user9440558"
+      "source": "Lobste.rs",
+      "user": "icefox"
     },
     {
       "title": "How to close mobile menu after clicking a link",
@@ -2483,38 +2452,21 @@
       "user": "Kismet-"
     },
     {
-      "title": "TinyMCE 5 editor displays a blank white area when Android keyboard opens",
-      "url": "https://stackoverflow.com/questions/80013070/tinymce-5-editor-displays-a-blank-white-area-when-android-keyboard-opens",
-      "published_at": "2026-10-28T10:34:27.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Product links don't respond to the first tap on Android after swiping",
+      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
+      "published_at": "2026-10-28T09:49:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
-        "android",
-        "css",
-        "mobile",
-        "tinymce"
+        "jquery",
+        "owl-carousel-2"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Testas Testauskas"
+      "user": "user9440558"
     }
   ],
   "Cloud": [
-    {
-      "title": "Size Your Model to Where You Run It: Gemma 4 E2B and E4B on an AWS L4 and Two Small GPUs",
-      "url": "https://dev.to/gde/size-your-model-to-where-you-run-it-gemma-4-e2b-and-e4b-on-an-aws-l4-and-two-small-gpus-1d47",
-      "published_at": "2026-10-27T13:30:52Z",
-      "description": "A 24 GB NVIDIA L4 serves Gemma 4 E2B and E4B at only 1.2-1.3x an 8 GB desktop RTX 3050 for one user, with the same answers, because a 4-bit small model uses 13-29% of the card. Pick the model for the hardware, and the hardware for the model.",
-      "tags": [
-        "gemma",
-        "llamacpp",
-        "aws",
-        "cuda"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsize-your-model%2Fdevto-cover.3f5286be.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
     {
       "title": "Your Laptop Might Replace Most of Your AI Bill",
       "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
@@ -2531,6 +2483,21 @@
       "user": "Carla Urrea Stabile"
     },
     {
+      "title": "Size Your Model to Where You Run It: Gemma 4 E2B and E4B on an AWS L4 and Two Small GPUs",
+      "url": "https://dev.to/gde/size-your-model-to-where-you-run-it-gemma-4-e2b-and-e4b-on-an-aws-l4-and-two-small-gpus-1d47",
+      "published_at": "2026-10-27T13:30:52Z",
+      "description": "A 24 GB NVIDIA L4 serves Gemma 4 E2B and E4B at only 1.2-1.3x an 8 GB desktop RTX 3050 for one user, with the same answers, because a 4-bit small model uses 13-29% of the card. Pick the model for the hardware, and the hardware for the model.",
+      "tags": [
+        "gemma",
+        "llamacpp",
+        "aws",
+        "cuda"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsize-your-model%2Fdevto-cover.3f5286be.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Inference on Google Cloud: Precision, Memory and Capacity on TPU, from v5e to Ironwood",
       "url": "https://dev.to/gde/inference-on-google-cloud-precision-memory-and-capacity-on-tpu-from-v5e-to-ironwood-5dlf",
       "published_at": "2026-10-25T23:02:38Z",
@@ -2544,36 +2511,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-survey%2Fmain%2Fdevto-cover.eef6abe3.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
-      "url": "https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc",
-      "published_at": "2026-10-27T09:53:26Z",
-      "description": "1. The problem: an agent that can spend money   Most agent demos stop at \"the model called a...",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gn9hgsdfqcf4qx8tayd.png",
-      "source": "Dev.to",
-      "user": "Esra Kadah"
-    },
-    {
-      "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
-      "url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
-      "published_at": "2026-10-20T19:14:39Z",
-      "description": "Automate root-cause incident triage on GKE by combining Gemini 4 Argon multi-step reasoning with the GKE Model Context Protocol server.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fajukpnfpo90v31p2y6af.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
     },
     {
       "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
@@ -2636,19 +2573,19 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
-      "url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
-      "published_at": "2026-10-21T18:56:20Z",
-      "description": "Build a high-throughput model routing gateway on GKE to dynamically route requests between Gemini 4 Argon, Gemini 3.8 Flash, and local Gemma 4 models.",
+      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
+      "url": "https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc",
+      "published_at": "2026-10-27T09:53:26Z",
+      "description": "1. The problem: an agent that can spend money   Most agent demos stop at \"the model called a...",
       "tags": [
-        "kubernetes",
+        "dart",
+        "flutter",
         "ai",
-        "gke",
         "googlecloud"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdm5uqv0deix42cb2vlp2.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gn9hgsdfqcf4qx8tayd.png",
       "source": "Dev.to",
-      "user": "Olivier Bourgeois"
+      "user": "Esra Kadah"
     },
     {
       "title": "[Agent Platform in Practice (2)] From Monolithic Cloud Run to Google Cloud Agent Runtime: Refactoring LINE AI Business Card King",
@@ -2722,7 +2659,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 343,
       "user": "egoist"
     },
     {
@@ -3024,16 +2961,33 @@
       "user": "durrendal"
     },
     {
-      "title": "This is not sustainable",
-      "url": "https://www.netmeister.org/blog/defense-ddos.html",
-      "published_at": "2026-10-27T22:56:49.155-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Shared password manager for families?",
+      "url": "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
+      "published_at": "2026-10-29T09:39:51.453-05:00",
+      "description": "Long story short, I need to have a bunch of shared accounts with family for finance and insurance and stuff, mostly for the sake of family members who are getting old and need help keeping things organized.  So the requirements are:\r\n\r\n* Shared over long distances; just having each of us have our own password manager won't work well\r\n* Usable for non-techie people, so no command line stuff\r\n* I can self-host a web thing if necessary\r\n* Works on Linux and MacOS/iOS\r\n\r\nI *would* just use 1Password, but recent events have demonstrated them as not exactly competent.  I could always use KeepassXC and keep the file in a Google Drive folder, or maybe teach my siblings to use Syncthing, but that feels like extra steps we could do without.  Anyone have any recommendations for how to do this well?",
       "tags": [
+        "ask",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "binjip978"
+      "user": "icefox"
+    },
+    {
+      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
+      "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
+      "published_at": "2026-10-29T13:43:53.000Z",
+      "description": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.",
+      "tags": [
+        "Government & Policy",
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "data breach"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
@@ -3050,38 +3004,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Marina Temkin"
-    },
-    {
-      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-      "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-      "published_at": "2026-10-28T20:01:00.000Z",
-      "description": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
-      "tags": [
-        "Government & Policy",
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "Department of Homeland Security"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Wiz’s CTO on PHP2Shell and the coming &#8216;vulnpocalypse&#8217;",
-      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "published_at": "2026-10-28T19:05:46.000Z",
-      "description": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. Accord",
-      "tags": [
-        "AI",
-        "Security",
-        "Startups",
-        "CTO",
-        "cybersecurity"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -3235,6 +3157,21 @@
       "user": "Piyush Annigeri"
     },
     {
+      "title": "AI Needs a Test That Fights Back",
+      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
+      "published_at": "2026-10-12T21:03:49Z",
+      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
+      "tags": [
+        "ai",
+        "opensource",
+        "testing",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3282,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 859,
+      "stars": 869,
       "user": "ZiChuanLan"
     },
     {
@@ -3297,7 +3234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 513,
       "user": "misshexa66"
     },
     {
@@ -3312,8 +3249,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 382,
+      "stars": 395,
       "user": "mochiiwuff"
+    },
+    {
+      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "published_at": "2026-10-27T12:03:01Z",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
+      "source": "GitHub",
+      "stars": 342,
+      "user": "haydenschmitty"
     },
     {
       "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
@@ -3331,21 +3283,6 @@
       "user": "jacke-pp"
     },
     {
-      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "url": "https://github.com/haydenschmitty/floorplan",
-      "published_at": "2026-10-27T12:03:01Z",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
-      "source": "GitHub",
-      "stars": 309,
-      "user": "haydenschmitty"
-    },
-    {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "published_at": "2026-10-24T05:35:47Z",
@@ -3357,7 +3294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4543,
+      "stars": 4670,
       "user": "rddmwmddr"
     },
     {
@@ -3372,7 +3309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3034,
+      "stars": 3315,
       "user": "interplains"
     },
     {
@@ -3387,7 +3324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2305,
+      "stars": 2353,
       "user": "t3dotgg"
     },
     {
@@ -3402,7 +3339,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
       "source": "GitHub",
-      "stars": 1382,
+      "stars": 1394,
       "user": "morganlinton"
     },
     {
@@ -3417,7 +3354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1199,
+      "stars": 1235,
       "user": "DenisSergeevitch"
     },
     {
@@ -3432,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 757,
       "user": "DrWhax"
     },
     {
@@ -3447,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 334,
+      "stars": 343,
       "user": "egoist"
     },
     {
@@ -3462,7 +3399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 197,
+      "stars": 210,
       "user": "tractordev"
     },
     {
@@ -3477,7 +3414,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
       "source": "GitHub",
-      "stars": 125,
+      "stars": 126,
       "user": "smhanov"
     },
     {
@@ -3492,7 +3429,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/174145742?v=4",
       "source": "GitHub",
-      "stars": 107,
+      "stars": 110,
       "user": "Shaitrish"
     },
     {
@@ -3507,7 +3444,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3154,
+      "stars": 3215,
       "user": "designfuchen"
     },
     {
@@ -3522,7 +3459,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1380,
+      "stars": 1441,
       "user": "andyhuo520"
     },
     {
@@ -3537,7 +3474,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 793,
+      "stars": 798,
       "user": "kargulstudio"
     },
     {
@@ -3552,7 +3489,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 772,
       "user": "surendrapandar"
     },
     {
@@ -3567,7 +3504,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 706,
+      "stars": 717,
       "user": "yaojingang"
     },
     {
@@ -3582,7 +3519,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 760,
+      "stars": 761,
       "user": "mizorewww"
     },
     {
@@ -3597,7 +3534,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 481,
       "user": "zeabur-oss"
     },
     {
@@ -3612,23 +3549,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 331,
+      "stars": 340,
       "user": "heydeer"
-    },
-    {
-      "title": "lalalune/pumpfun-source - Reverse engineering the pump.fun smart contracts",
-      "url": "https://github.com/lalalune/pumpfun-source",
-      "published_at": "2026-10-24T23:37:50Z",
-      "description": "Reverse engineering the pump.fun smart contracts",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/18633264?v=4",
-      "source": "GitHub",
-      "stars": 207,
-      "user": "lalalune"
     },
     {
       "title": "hffgzktbcc-blip/ounce-core - Clean-room systems research runtime and architecture compatibility layer for NVIDIA Tegra T239 (Horizon OS FW 23.0.1 ABI)",
@@ -3642,8 +3564,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316626863?v=4",
       "source": "GitHub",
-      "stars": 204,
+      "stars": 206,
       "user": "hffgzktbcc-blip"
+    },
+    {
+      "title": "yjid/kensaku - Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
+      "url": "https://github.com/yjid/kensaku",
+      "published_at": "2026-10-24T21:00:26Z",
+      "description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/178333324?v=4",
+      "source": "GitHub",
+      "stars": 179,
+      "user": "yjid"
     },
     {
       "title": "Apple's git still trusts the compromised eMudhra certificates",
@@ -3670,19 +3607,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "durrendal"
-    },
-    {
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "published_at": "2026-10-28T19:19:58.000Z",
-      "description": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "tags": [
-        "AI",
-        "Anthropic"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
     },
     {
       "title": "Learn Model Context Protocol (MCP) Security",
