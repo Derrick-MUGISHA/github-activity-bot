@@ -16,36 +16,6 @@
       "user": "MLH Team"
     },
     {
-      "title": "Performance vs Quality: Gemma 4 E2B Quantization on an NVIDIA L4 and a Tesla T4",
-      "url": "https://dev.to/gde/performance-vs-quality-gemma-4-e2b-quantization-on-an-nvidia-l4-and-a-tesla-t4-4b90",
-      "published_at": "2026-10-29T14:39:09Z",
-      "description": "Gemma 4 E2B from BF16 to Q2_K, speed against GSM8K accuracy, on an AWS L4 with byte-identical GGUF files and the same llama.cpp build as the Tesla T4. The L4 decodes 1.25 to 1.89 times faster, Q5_K_M is still the best trade, and switching GPUs changes nearly as many grades as quantizing from BF16 to Q5_K_M.",
-      "tags": [
-        "gemma",
-        "llamacpp",
-        "aws",
-        "quantization"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma-graveyard%2Fmain%2Fdocs%2Fdevto-cover-l4.82c50f0e.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Your Laptop Might Replace Most of Your AI Bill",
-      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
-      "published_at": "2026-10-28T11:58:00Z",
-      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
-      "tags": [
-        "ai",
-        "llm",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
-      "source": "Dev.to",
-      "user": "Carla Urrea Stabile"
-    },
-    {
       "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
       "url": "https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66",
       "published_at": "2026-10-29T13:14:48Z",
@@ -76,6 +46,21 @@
       "user": "Joske Vermeulen"
     },
     {
+      "title": "Performance vs Quality: Gemma 4 E2B Quantization on an NVIDIA L4 and a Tesla T4",
+      "url": "https://dev.to/gde/performance-vs-quality-gemma-4-e2b-quantization-on-an-nvidia-l4-and-a-tesla-t4-4b90",
+      "published_at": "2026-10-29T14:39:09Z",
+      "description": "Gemma 4 E2B from BF16 to Q2_K, speed against GSM8K accuracy, on an AWS L4 with byte-identical GGUF files and the same llama.cpp build as the Tesla T4. The L4 decodes 1.25 to 1.89 times faster, Q5_K_M is still the best trade, and switching GPUs changes nearly as many grades as quantizing from BF16 to Q5_K_M.",
+      "tags": [
+        "gemma",
+        "llamacpp",
+        "aws",
+        "quantization"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma-graveyard%2Fmain%2Fdocs%2Fdevto-cover-l4.82c50f0e.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Inference on Google Cloud: Precision, Memory and Capacity on TPU, from v5e to Ironwood",
       "url": "https://dev.to/gde/inference-on-google-cloud-precision-memory-and-capacity-on-tpu-from-v5e-to-ironwood-5dlf",
       "published_at": "2026-10-25T23:02:38Z",
@@ -104,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
       "source": "Dev.to",
       "user": "Adam - The Developer ✨"
+    },
+    {
+      "title": "Your Laptop Might Replace Most of Your AI Bill",
+      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
+      "published_at": "2026-10-28T11:58:00Z",
+      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
+      "tags": [
+        "ai",
+        "llm",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
     },
     {
       "title": "Beyond Passive AI Rewrites and Vibe Coding in Google Docs",
@@ -466,21 +466,6 @@
       "user": "xbill"
     },
     {
-      "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
-      "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
-      "published_at": "2026-10-12T21:03:17Z",
-      "description": "Written by John Feminella  We now inhabit a world where agents can execute operations in production...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
       "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
       "url": "https://dev.to/dailycontext/how-anthropics-dynamic-workflows-coordinate-claude-agents-3f23",
       "published_at": "2026-10-12T21:00:36Z",
@@ -496,6 +481,21 @@
       "user": "Richard MacManus"
     },
     {
+      "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
+      "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
+      "published_at": "2026-10-12T21:03:17Z",
+      "description": "Written by John Feminella  We now inhabit a world where agents can execute operations in production...",
+      "tags": [
+        "ai",
+        "agents",
+        "security",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
+    {
       "title": "Workshop Day Opens AI Engineer NYC",
       "url": "https://dev.to/dailycontext/workshop-day-opens-ai-engineer-nyc-23i2",
       "published_at": "2026-10-12T21:00:19Z",
@@ -508,21 +508,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ctujqzcft2psrp35d48.png",
       "source": "Dev.to",
       "user": "Rachael Berkey"
-    },
-    {
-      "title": "Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs",
-      "url": "https://dev.to/gde/building-a-multimodal-suggestion-based-ai-writing-coach-with-gemini-and-google-docs-ea4",
-      "published_at": "2026-10-23T05:52:48Z",
-      "description": "When we use generative AI to proofread our daily writing—whether technical reports, business...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleappsscript",
-        "googleworkspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2bc3ar45xrgqtcuc87ui.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
@@ -779,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 433,
       "user": "haydenschmitty"
     },
     {
@@ -794,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4841,
+      "stars": 4975,
       "user": "rddmwmddr"
     },
     {
@@ -809,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3676,
+      "stars": 3760,
       "user": "interplains"
     },
     {
@@ -824,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1292,
       "user": "DenisSergeevitch"
     },
     {
@@ -839,23 +824,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1107,
+      "stars": 1124,
       "user": "Motionsites-AI"
-    },
-    {
-      "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
-      "url": "https://github.com/DrWhax/unfairplay",
-      "published_at": "2026-10-25T21:22:20Z",
-      "description": "Decrypt IPA's on MacOS",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
-      "source": "GitHub",
-      "stars": 782,
-      "user": "DrWhax"
     },
     {
       "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
@@ -869,23 +839,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 887,
       "user": "paipiange"
     },
     {
-      "title": "smhanov/agentloop - Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
-      "url": "https://github.com/smhanov/agentloop",
-      "published_at": "2026-10-25T16:18:50Z",
-      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
+      "url": "https://github.com/DrWhax/unfairplay",
+      "published_at": "2026-10-25T21:22:20Z",
+      "description": "Decrypt IPA's on MacOS",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 127,
-      "user": "smhanov"
+      "stars": 797,
+      "user": "DrWhax"
     },
     {
       "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
@@ -899,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1508,
+      "stars": 1537,
       "user": "andyhuo520"
     },
     {
@@ -914,7 +884,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1202,
       "user": "qybaihe"
     },
     {
@@ -929,41 +899,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 755,
       "user": "yaojingang"
-    },
-    {
-      "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "url": "https://divagr.com/blog/qwenputer",
-      "published_at": "2026-10-29T05:00:04.439-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ndr"
-    },
-    {
-      "title": "jQuery: $.when.apply() fails when there is only one AJAX request instead of several",
-      "url": "https://stackoverflow.com/questions/80013016/jquery-when-apply-fails-when-there-is-only-one-ajax-request-instead-of-seve",
-      "published_at": "2026-10-28T05:57:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "jquery",
-        "ajax",
-        "jquery-deferred"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mijeli Lucero"
     },
     {
       "title": "Starting a Netbox Plugin with Template Extension fails with ModuleNotFoundError",
       "url": "https://stackoverflow.com/questions/80013401/starting-a-netbox-plugin-with-template-extension-fails-with-modulenotfounderror",
       "published_at": "2026-10-29T13:52:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "netbox"
@@ -971,6 +914,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rainer"
+    },
+    {
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "published_at": "2026-10-30T13:00:00.000Z",
+      "description": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "tags": [
+        "AI",
+        "Startups",
+        "data centers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
     },
     {
       "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
@@ -988,12 +945,13 @@
       "title": "Andy Jassy says Prime Video is on track to earn &#8216;tens of billions of dollars&#8217;",
       "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
       "published_at": "2026-10-29T23:44:56.000Z",
-      "description": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "description": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
       "tags": [
         "Apps",
         "Media & Entertainment",
-        "TC",
-        "Amazon"
+        "Amazon",
+        "Andy Jassy",
+        "prime video"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1029,37 +987,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "published_at": "2026-10-29T20:08:31.000Z",
-      "description": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Media & Entertainment",
-        "Social",
-        "Reddit"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "published_at": "2026-10-29T20:05:47.000Z",
-      "description": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "tags": [
-        "AI",
-        "Transportation",
-        "Rivian",
-        "Volkswagen Group"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "How AI-Powered Search Works: A Guide for Devs on AI Visibility",
@@ -1299,7 +1226,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 907,
       "user": "ZiChuanLan"
     },
     {
@@ -1314,8 +1241,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 535,
       "user": "misshexa66"
+    },
+    {
+      "title": "HRuiCcc/RuiC-PoseAtlas - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+      "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
+      "published_at": "2026-10-28T07:00:53Z",
+      "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
+      "source": "GitHub",
+      "stars": 531,
+      "user": "HRuiCcc"
     },
     {
       "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
@@ -1333,21 +1275,6 @@
       "user": "jacke-pp"
     },
     {
-      "title": "mochiiwuff/capri-desktop - Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
-      "url": "https://github.com/mochiiwuff/capri-desktop",
-      "published_at": "2026-10-25T09:07:06Z",
-      "description": "Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
-      "source": "GitHub",
-      "stars": 414,
-      "user": "mochiiwuff"
-    },
-    {
       "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
       "url": "https://github.com/haydenschmitty/floorplan",
       "published_at": "2026-10-27T12:03:01Z",
@@ -1359,8 +1286,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 433,
       "user": "haydenschmitty"
+    },
+    {
+      "title": "beilunyang/openhongguo - 红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
+      "url": "https://github.com/beilunyang/openhongguo",
+      "published_at": "2026-10-26T13:47:23Z",
+      "description": "红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
+      "source": "GitHub",
+      "stars": 145,
+      "user": "beilunyang"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
@@ -1374,7 +1316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3277,
+      "stars": 3323,
       "user": "designfuchen"
     },
     {
@@ -1389,7 +1331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1508,
+      "stars": 1537,
       "user": "andyhuo520"
     },
     {
@@ -1404,7 +1346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1202,
       "user": "qybaihe"
     },
     {
@@ -1419,7 +1361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 817,
       "user": "kargulstudio"
     },
     {
@@ -1434,8 +1376,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 755,
       "user": "yaojingang"
+    },
+    {
+      "title": "Function bubble wrapped in propagation",
+      "url": "https://stackoverflow.com/questions/80013586/function-bubble-wrapped-in-propagation",
+      "published_at": "2026-10-30T08:25:13.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "event-bubbling",
+        "event-propagation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Realto619"
     },
     {
       "title": "Why does my async function return \"Promise { <pending> }\" instead of the fetched data in JavaScript?",
@@ -1494,7 +1450,7 @@
       "title": "Next.js 15 memory usage keeps increasing when polling a live darts API every second",
       "url": "https://stackoverflow.com/questions/80013104/next-js-15-memory-usage-keeps-increasing-when-polling-a-live-darts-api-every-sec",
       "published_at": "2026-10-28T13:40:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
         "node.js",
@@ -1521,47 +1477,6 @@
       "user": "Adrian Ma&#241;as"
     },
     {
-      "title": "jQuery: $.when.apply() fails when there is only one AJAX request instead of several",
-      "url": "https://stackoverflow.com/questions/80013016/jquery-when-apply-fails-when-there-is-only-one-ajax-request-instead-of-seve",
-      "published_at": "2026-10-28T05:57:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "jquery",
-        "ajax",
-        "jquery-deferred"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mijeli Lucero"
-    },
-    {
-      "title": "How to get rid of the session storage in my code?",
-      "url": "https://stackoverflow.com/questions/80013026/how-to-get-rid-of-the-session-storage-in-my-code",
-      "published_at": "2026-10-28T06:23:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "asp.net-core-mvc"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "عبدالرحمن اشرف"
-    },
-    {
-      "title": "Three.js canvas memory leak in React function components during rapid unmounting",
-      "url": "https://stackoverflow.com/questions/80012985/three-js-canvas-memory-leak-in-react-function-components-during-rapid-unmounting",
-      "published_at": "2026-10-28T01:37:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "reactjs"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Tech Akm"
-    },
-    {
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
@@ -1576,6 +1491,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
+    },
+    {
+      "title": "Reddit devvit stops without any error while fetching comments. What is happening and how would I circumvent this?",
+      "url": "https://stackoverflow.com/questions/80012182/reddit-devvit-stops-without-any-error-while-fetching-comments-what-is-happening",
+      "published_at": "2026-10-24T00:44:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "express",
+        "reddit"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Asger &#216;rmen Dalmeijer"
+    },
+    {
+      "title": "Does sinon.restore() also restore all mySandbox.stub()s?",
+      "url": "https://stackoverflow.com/questions/80010151/does-sinon-restore-also-restore-all-mysandbox-stubs",
+      "published_at": "2026-10-15T06:29:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "sinon",
+        "stubbing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Florian"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1742,7 +1685,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4841,
+      "stars": 4975,
       "user": "rddmwmddr"
     },
     {
@@ -1757,7 +1700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3676,
+      "stars": 3760,
       "user": "interplains"
     },
     {
@@ -1772,7 +1715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2417,
+      "stars": 2438,
       "user": "t3dotgg"
     },
     {
@@ -1787,7 +1730,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1292,
       "user": "DenisSergeevitch"
     },
     {
@@ -1802,7 +1745,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1107,
+      "stars": 1124,
       "user": "Motionsites-AI"
     },
     {
@@ -1817,8 +1760,34 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1202,
       "user": "qybaihe"
+    },
+    {
+      "title": "Write Prim's algorithm in Python",
+      "url": "https://stackoverflow.com/questions/80013569/write-prims-algorithm-in-python",
+      "published_at": "2026-10-30T06:36:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "prims-algorithm"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JAc Polloc"
+    },
+    {
+      "title": "Netbox Plugin with Template Extension does not take account of PluginTemplateExtension.models",
+      "url": "https://stackoverflow.com/questions/80013585/netbox-plugin-with-template-extension-does-not-take-account-of-plugintemplateext",
+      "published_at": "2026-10-30T08:21:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "netbox"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rainer"
     },
     {
       "title": "Why does the randomiser repeatedly print B?",
@@ -1850,17 +1819,19 @@
       "user": "DataSyncPRO"
     },
     {
-      "title": "Starting a Netbox Plugin with Template Extension fails with ModuleNotFoundError",
-      "url": "https://stackoverflow.com/questions/80013401/starting-a-netbox-plugin-with-template-extension-fails-with-modulenotfounderror",
-      "published_at": "2026-10-29T13:52:04.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "title": "Same records showing up on different API pages",
+      "url": "https://stackoverflow.com/questions/80013493/same-records-showing-up-on-different-api-pages",
+      "published_at": "2026-10-29T19:57:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
-        "netbox"
+        "rest",
+        "google-bigquery",
+        "pagination"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Rainer"
+      "user": "Unhappy-Leading-6796"
     },
     {
       "title": "Finding out the time of multiple files at once",
@@ -1875,25 +1846,23 @@
       "user": "Ali Kinaan"
     },
     {
-      "title": "Same records showing up on different API pages",
-      "url": "https://stackoverflow.com/questions/80013493/same-records-showing-up-on-different-api-pages",
-      "published_at": "2026-10-29T19:57:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "Starting a Netbox Plugin with Template Extension fails with ModuleNotFoundError",
+      "url": "https://stackoverflow.com/questions/80013401/starting-a-netbox-plugin-with-template-extension-fails-with-modulenotfounderror",
+      "published_at": "2026-10-29T13:52:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
-        "rest",
-        "google-bigquery",
-        "pagination"
+        "netbox"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Unhappy-Leading-6796"
+      "user": "Rainer"
     },
     {
       "title": "How do I properly make a flashing message in Pyglet?",
       "url": "https://stackoverflow.com/questions/80013265/how-do-i-properly-make-a-flashing-message-in-pyglet",
       "published_at": "2026-10-29T01:20:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "loops",
@@ -1903,21 +1872,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33244385"
-    },
-    {
-      "title": "Why does comparing two visually identical strings \"Jos&#233;\" and \"Jos&#233;\" return False in Python?",
-      "url": "https://stackoverflow.com/questions/80013426/why-does-comparing-two-visually-identical-strings-jos%c3%a9-and-jos%c3%a9-return-false",
-      "published_at": "2026-10-29T15:09:36.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "unicode",
-        "string-comparison",
-        "unicode-normalization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Tulionsky"
     },
     {
       "title": "Why is Pyright saying I have already declared this enum member?",
@@ -1947,22 +1901,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "dacian"
-    },
-    {
-      "title": "What are the best practices for setting up a Python development environment for beginners?",
-      "url": "https://stackoverflow.com/questions/80013391/what-are-the-best-practices-for-setting-up-a-python-development-environment-for",
-      "published_at": "2026-10-29T13:04:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "best-practices",
-        "python",
-        "pip",
-        "virtualenv",
-        "development-environment"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "TechNes"
     },
     {
       "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
@@ -2205,7 +2143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 562,
       "user": "zeabur-oss"
     }
   ],
@@ -2357,7 +2295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4841,
+      "stars": 4975,
       "user": "rddmwmddr"
     },
     {
@@ -2372,8 +2310,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3676,
+      "stars": 3760,
       "user": "interplains"
+    },
+    {
+      "title": "beilunyang/openhongguo - 红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
+      "url": "https://github.com/beilunyang/openhongguo",
+      "published_at": "2026-10-26T13:47:23Z",
+      "description": "红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
+      "source": "GitHub",
+      "stars": 145,
+      "user": "beilunyang"
     },
     {
       "title": "Shared password manager for families?",
@@ -2418,36 +2371,6 @@
   ],
   "Cloud": [
     {
-      "title": "Performance vs Quality: Gemma 4 E2B Quantization on an NVIDIA L4 and a Tesla T4",
-      "url": "https://dev.to/gde/performance-vs-quality-gemma-4-e2b-quantization-on-an-nvidia-l4-and-a-tesla-t4-4b90",
-      "published_at": "2026-10-29T14:39:09Z",
-      "description": "Gemma 4 E2B from BF16 to Q2_K, speed against GSM8K accuracy, on an AWS L4 with byte-identical GGUF files and the same llama.cpp build as the Tesla T4. The L4 decodes 1.25 to 1.89 times faster, Q5_K_M is still the best trade, and switching GPUs changes nearly as many grades as quantizing from BF16 to Q5_K_M.",
-      "tags": [
-        "gemma",
-        "llamacpp",
-        "aws",
-        "quantization"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma-graveyard%2Fmain%2Fdocs%2Fdevto-cover-l4.82c50f0e.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Your Laptop Might Replace Most of Your AI Bill",
-      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
-      "published_at": "2026-10-28T11:58:00Z",
-      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
-      "tags": [
-        "ai",
-        "llm",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
-      "source": "Dev.to",
-      "user": "Carla Urrea Stabile"
-    },
-    {
       "title": "Size Your Model to Where You Run It: Gemma 4 E2B and E4B on an AWS L4 and Two Small GPUs",
       "url": "https://dev.to/gde/size-your-model-to-where-you-run-it-gemma-4-e2b-and-e4b-on-an-aws-l4-and-two-small-gpus-1d47",
       "published_at": "2026-10-27T13:30:52Z",
@@ -2459,6 +2382,21 @@
         "cuda"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsize-your-model%2Fdevto-cover.3f5286be.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Performance vs Quality: Gemma 4 E2B Quantization on an NVIDIA L4 and a Tesla T4",
+      "url": "https://dev.to/gde/performance-vs-quality-gemma-4-e2b-quantization-on-an-nvidia-l4-and-a-tesla-t4-4b90",
+      "published_at": "2026-10-29T14:39:09Z",
+      "description": "Gemma 4 E2B from BF16 to Q2_K, speed against GSM8K accuracy, on an AWS L4 with byte-identical GGUF files and the same llama.cpp build as the Tesla T4. The L4 decodes 1.25 to 1.89 times faster, Q5_K_M is still the best trade, and switching GPUs changes nearly as many grades as quantizing from BF16 to Q5_K_M.",
+      "tags": [
+        "gemma",
+        "llamacpp",
+        "aws",
+        "quantization"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma-graveyard%2Fmain%2Fdocs%2Fdevto-cover-l4.82c50f0e.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -2476,6 +2414,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftpu-survey%2Fmain%2Fdevto-cover.eef6abe3.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Your Laptop Might Replace Most of Your AI Bill",
+      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
+      "published_at": "2026-10-28T11:58:00Z",
+      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
+      "tags": [
+        "ai",
+        "llm",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
     },
     {
       "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
@@ -2624,7 +2577,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 415,
       "user": "egoist"
     },
     {
@@ -2937,17 +2890,16 @@
       "user": "Varcht"
     },
     {
-      "title": "Shared password manager for families?",
-      "url": "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
-      "published_at": "2026-10-29T09:39:51.453-05:00",
-      "description": "Long story short, I need to have a bunch of shared accounts with family for finance and insurance and stuff, mostly for the sake of family members who are getting old and need help keeping things organized.  So the requirements are:\r\n\r\n* Shared over long distances; just having each of us have our own password manager won't work well\r\n* Usable for non-techie people, so no command line stuff\r\n* I can self-host a web thing if necessary\r\n* Works on Linux and MacOS/iOS\r\n\r\nI *would* just use 1Password, but recent events have demonstrated them as not exactly competent.  I could always use KeepassXC and keep the file in a Google Drive folder, or maybe teach my siblings to use Syncthing, but that feels like extra steps we could do without.  Anyone have any recommendations for how to do this well?",
+      "title": "Backdoors in Claude Code for VS, Cursor official extensions",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "published_at": "2026-10-30T06:04:55.168-05:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "ask",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "icefox"
+      "user": "dsr"
     },
     {
       "title": "C2PA's eMudhra Moment",
@@ -2961,6 +2913,19 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "retr0id"
+    },
+    {
+      "title": "Shared password manager for families?",
+      "url": "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
+      "published_at": "2026-10-29T09:39:51.453-05:00",
+      "description": "Long story short, I need to have a bunch of shared accounts with family for finance and insurance and stuff, mostly for the sake of family members who are getting old and need help keeping things organized.  So the requirements are:\r\n\r\n* Shared over long distances; just having each of us have our own password manager won't work well\r\n* Usable for non-techie people, so no command line stuff\r\n* I can self-host a web thing if necessary\r\n* Works on Linux and MacOS/iOS\r\n\r\nI *would* just use 1Password, but recent events have demonstrated them as not exactly competent.  I could always use KeepassXC and keep the file in a Google Drive folder, or maybe teach my siblings to use Syncthing, but that feels like extra steps we could do without.  Anyone have any recommendations for how to do this well?",
+      "tags": [
+        "ask",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "icefox"
     },
     {
       "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
@@ -2977,21 +2942,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
-      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-      "published_at": "2026-10-29T20:43:56.000Z",
-      "description": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
-      "tags": [
-        "Social",
-        "archive of our own",
-        "fan fiction",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
@@ -3038,21 +2988,6 @@
   ],
   "Tools": [
     {
-      "title": "Your Laptop Might Replace Most of Your AI Bill",
-      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
-      "published_at": "2026-10-28T11:58:00Z",
-      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
-      "tags": [
-        "ai",
-        "llm",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
-      "source": "Dev.to",
-      "user": "Carla Urrea Stabile"
-    },
-    {
       "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
       "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi",
       "published_at": "2026-10-29T15:57:07Z",
@@ -3066,6 +3001,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aimadetools.com%2F_astro%2Fai-dev-weekly-032-gpt-61-terra-gemini-carbon-kimi-copilot-fusion.7SXVtojB.png",
       "source": "Dev.to",
       "user": "Joske Vermeulen"
+    },
+    {
+      "title": "Your Laptop Might Replace Most of Your AI Bill",
+      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
+      "published_at": "2026-10-28T11:58:00Z",
+      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
+      "tags": [
+        "ai",
+        "llm",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
     },
     {
       "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
@@ -3190,7 +3140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 883,
+      "stars": 907,
       "user": "ZiChuanLan"
     },
     {
@@ -3205,8 +3155,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 533,
+      "stars": 535,
       "user": "misshexa66"
+    },
+    {
+      "title": "HRuiCcc/RuiC-PoseAtlas - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+      "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
+      "published_at": "2026-10-28T07:00:53Z",
+      "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
+      "source": "GitHub",
+      "stars": 531,
+      "user": "HRuiCcc"
     },
     {
       "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
@@ -3224,21 +3189,6 @@
       "user": "jacke-pp"
     },
     {
-      "title": "mochiiwuff/capri-desktop - Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
-      "url": "https://github.com/mochiiwuff/capri-desktop",
-      "published_at": "2026-10-25T09:07:06Z",
-      "description": "Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
-      "source": "GitHub",
-      "stars": 414,
-      "user": "mochiiwuff"
-    },
-    {
       "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
       "url": "https://github.com/haydenschmitty/floorplan",
       "published_at": "2026-10-27T12:03:01Z",
@@ -3250,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 433,
       "user": "haydenschmitty"
     },
     {
@@ -3265,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4841,
+      "stars": 4975,
       "user": "rddmwmddr"
     },
     {
@@ -3280,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3676,
+      "stars": 3760,
       "user": "interplains"
     },
     {
@@ -3295,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2417,
+      "stars": 2438,
       "user": "t3dotgg"
     },
     {
@@ -3310,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1292,
       "user": "DenisSergeevitch"
     },
     {
@@ -3325,23 +3275,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1107,
+      "stars": 1124,
       "user": "Motionsites-AI"
-    },
-    {
-      "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
-      "url": "https://github.com/DrWhax/unfairplay",
-      "published_at": "2026-10-25T21:22:20Z",
-      "description": "Decrypt IPA's on MacOS",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
-      "source": "GitHub",
-      "stars": 782,
-      "user": "DrWhax"
     },
     {
       "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
@@ -3355,8 +3290,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 428,
+      "stars": 887,
       "user": "paipiange"
+    },
+    {
+      "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
+      "url": "https://github.com/DrWhax/unfairplay",
+      "published_at": "2026-10-25T21:22:20Z",
+      "description": "Decrypt IPA's on MacOS",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
+      "source": "GitHub",
+      "stars": 797,
+      "user": "DrWhax"
     },
     {
       "title": "egoist/mygo-cloudmusic - MyGo 云音乐 - 第三方网易云音乐原生客户端",
@@ -3370,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 415,
       "user": "egoist"
     },
     {
@@ -3385,23 +3335,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 218,
+      "stars": 219,
       "user": "tractordev"
     },
     {
-      "title": "smhanov/agentloop - Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
-      "url": "https://github.com/smhanov/agentloop",
-      "published_at": "2026-10-25T16:18:50Z",
-      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "title": "beilunyang/openhongguo - 红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
+      "url": "https://github.com/beilunyang/openhongguo",
+      "published_at": "2026-10-26T13:47:23Z",
+      "description": "红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 127,
-      "user": "smhanov"
+      "stars": 145,
+      "user": "beilunyang"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
@@ -3415,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3277,
+      "stars": 3323,
       "user": "designfuchen"
     },
     {
@@ -3430,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1508,
+      "stars": 1537,
       "user": "andyhuo520"
     },
     {
@@ -3445,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1004,
+      "stars": 1202,
       "user": "qybaihe"
     },
     {
@@ -3460,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 811,
+      "stars": 817,
       "user": "kargulstudio"
     },
     {
@@ -3475,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 740,
+      "stars": 755,
       "user": "yaojingang"
     },
     {
@@ -3490,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 765,
+      "stars": 769,
       "user": "mizorewww"
     },
     {
@@ -3505,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 562,
       "user": "zeabur-oss"
     },
     {
@@ -3520,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 361,
+      "stars": 378,
       "user": "heydeer"
     },
     {
@@ -3535,23 +3485,36 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178333324?v=4",
       "source": "GitHub",
-      "stars": 238,
+      "stars": 260,
       "user": "yjid"
     },
     {
-      "title": "hffgzktbcc-blip/ounce-core - Clean-room systems research runtime and architecture compatibility layer for NVIDIA Tegra T239 (Horizon OS FW 23.0.1 ABI)",
-      "url": "https://github.com/hffgzktbcc-blip/ounce-core",
-      "published_at": "2026-10-24T19:32:45Z",
-      "description": "Clean-room systems research runtime and architecture compatibility layer for NVIDIA Tegra T239 (Horizon OS FW 23.0.1 ABI)",
+      "title": "anomalyco/hokum - Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
+      "url": "https://github.com/anomalyco/hokum",
+      "published_at": "2026-10-28T01:37:19Z",
+      "description": "Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316626863?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/66570915?v=4",
       "source": "GitHub",
-      "stars": 206,
-      "user": "hffgzktbcc-blip"
+      "stars": 209,
+      "user": "anomalyco"
+    },
+    {
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "published_at": "2026-10-30T07:01:00.000Z",
+      "description": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+      "tags": [
+        "Transportation",
+        "Waymo"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
