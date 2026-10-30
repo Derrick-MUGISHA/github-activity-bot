@@ -16,36 +16,6 @@
       "user": "MLH Team"
     },
     {
-      "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
-      "url": "https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66",
-      "published_at": "2026-10-29T13:14:48Z",
-      "description": "Google DeepMind’s Gemini 4 Carbon (Oct 28) claims AA Index v5.0 #1 at 59 and SOTA cyber benches — still Fairwind/cyber-defenders first, no public model ID. Intro $2/$10 → $4/$20, 95% cache off, builder checklist before the API.",
-      "tags": [
-        "ai",
-        "llm",
-        "google",
-        "cybersecurity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frb38kxt40ap8gon8h5mi.png",
-      "source": "Dev.to",
-      "user": "Yong Yu"
-    },
-    {
-      "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
-      "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi",
-      "published_at": "2026-10-29T15:57:07Z",
-      "description": "Week of Oct 23-29: GPT-6.1 Terra, restricted Gemini Carbon access, Kimi K3.1 Pro, Copilot Fusion and GitHub's agentic workflow launches.",
-      "tags": [
-        "aidevweekly",
-        "gpt61terra",
-        "gemini4carbon",
-        "kimik31"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aimadetools.com%2F_astro%2Fai-dev-weekly-032-gpt-61-terra-gemini-carbon-kimi-copilot-fusion.7SXVtojB.png",
-      "source": "Dev.to",
-      "user": "Joske Vermeulen"
-    },
-    {
       "title": "Performance vs Quality: Gemma 4 E2B Quantization on an NVIDIA L4 and a Tesla T4",
       "url": "https://dev.to/gde/performance-vs-quality-gemma-4-e2b-quantization-on-an-nvidia-l4-and-a-tesla-t4-4b90",
       "published_at": "2026-10-29T14:39:09Z",
@@ -74,6 +44,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
       "source": "Dev.to",
       "user": "Carla Urrea Stabile"
+    },
+    {
+      "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
+      "url": "https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66",
+      "published_at": "2026-10-29T13:14:48Z",
+      "description": "Google DeepMind’s Gemini 4 Carbon (Oct 28) claims AA Index v5.0 #1 at 59 and SOTA cyber benches — still Fairwind/cyber-defenders first, no public model ID. Intro $2/$10 → $4/$20, 95% cache off, builder checklist before the API.",
+      "tags": [
+        "ai",
+        "llm",
+        "google",
+        "cybersecurity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frb38kxt40ap8gon8h5mi.png",
+      "source": "Dev.to",
+      "user": "Yong Yu"
+    },
+    {
+      "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
+      "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi",
+      "published_at": "2026-10-29T15:57:07Z",
+      "description": "Week of Oct 23-29: GPT-6.1 Terra, restricted Gemini Carbon access, Kimi K3.1 Pro, Copilot Fusion and GitHub's agentic workflow launches.",
+      "tags": [
+        "aidevweekly",
+        "gpt61terra",
+        "gemini4carbon",
+        "kimik31"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aimadetools.com%2F_astro%2Fai-dev-weekly-032-gpt-61-terra-gemini-carbon-kimi-copilot-fusion.7SXVtojB.png",
+      "source": "Dev.to",
+      "user": "Joske Vermeulen"
     },
     {
       "title": "Inference on Google Cloud: Precision, Memory and Capacity on TPU, from v5e to Ironwood",
@@ -753,6 +753,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "url": "https://github.com/jacke-pp/open-yoki",
+      "published_at": "2026-10-28T08:58:27Z",
+      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
+      "source": "GitHub",
+      "stars": 464,
+      "user": "jacke-pp"
+    },
+    {
       "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
       "url": "https://github.com/haydenschmitty/floorplan",
       "published_at": "2026-10-27T12:03:01Z",
@@ -764,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 403,
       "user": "haydenschmitty"
     },
     {
@@ -779,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4732,
+      "stars": 4841,
       "user": "rddmwmddr"
     },
     {
@@ -794,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3612,
+      "stars": 3676,
       "user": "interplains"
     },
     {
@@ -809,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1266,
+      "stars": 1279,
       "user": "DenisSergeevitch"
     },
     {
@@ -824,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1088,
+      "stars": 1107,
       "user": "Motionsites-AI"
     },
     {
@@ -839,8 +854,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 782,
       "user": "DrWhax"
+    },
+    {
+      "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "published_at": "2026-10-29T06:08:00Z",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
+      "source": "GitHub",
+      "stars": 428,
+      "user": "paipiange"
     },
     {
       "title": "smhanov/agentloop - Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
@@ -854,23 +884,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "smhanov"
-    },
-    {
-      "title": "missuo/unfairplay-bot - Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
-      "url": "https://github.com/missuo/unfairplay-bot",
-      "published_at": "2026-10-28T12:17:29Z",
-      "description": "Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55200481?v=4",
-      "source": "GitHub",
-      "stars": 103,
-      "user": "missuo"
     },
     {
       "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
@@ -884,7 +899,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1464,
+      "stars": 1508,
       "user": "andyhuo520"
     },
     {
@@ -899,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 1004,
       "user": "qybaihe"
     },
     {
@@ -914,7 +929,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 740,
       "user": "yaojingang"
     },
     {
@@ -948,7 +963,7 @@
       "title": "Starting a Netbox Plugin with Template Extension fails with ModuleNotFoundError",
       "url": "https://stackoverflow.com/questions/80013401/starting-a-netbox-plugin-with-template-extension-fails-with-modulenotfounderror",
       "published_at": "2026-10-29T13:52:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "netbox"
@@ -956,6 +971,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rainer"
+    },
+    {
+      "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "published_at": "2026-10-30T01:20:48.000Z",
+      "description": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "tags": [
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "Andy Jassy says Prime Video is on track to earn &#8216;tens of billions of dollars&#8217;",
@@ -973,16 +1000,15 @@
       "user": "Julie Bort"
     },
     {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "published_at": "2026-10-29T23:42:22.000Z",
       "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
       "tags": [
         "AI",
         "Enterprise",
-        "TC",
         "Amazon",
-        "cloud"
+        "AWS"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1034,6 +1060,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Kirsten Korosec"
+    },
+    {
+      "title": "How AI-Powered Search Works: A Guide for Devs on AI Visibility",
+      "url": "https://www.freecodecamp.org/news/ai-search-visibility/",
+      "published_at": "2026-10-29T21:53:51.000Z",
+      "description": "Searched worked in a familiar way for decades: you'd type in your query, get back a list of pages, and choose one to click on. Behind the scenes, Google would find the pages it thought you might want,",
+      "tags": [
+        "Artificial Intelligence",
+        "ai search",
+        "SEO",
+        "generative ai",
+        "#content strategy"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Reetain Raina"
     },
     {
       "title": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
@@ -1257,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 876,
+      "stars": 883,
       "user": "ZiChuanLan"
     },
     {
@@ -1272,8 +1314,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 533,
       "user": "misshexa66"
+    },
+    {
+      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "url": "https://github.com/jacke-pp/open-yoki",
+      "published_at": "2026-10-28T08:58:27Z",
+      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
+      "source": "GitHub",
+      "stars": 464,
+      "user": "jacke-pp"
     },
     {
       "title": "mochiiwuff/capri-desktop - Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
@@ -1287,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 414,
       "user": "mochiiwuff"
     },
     {
@@ -1302,23 +1359,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 403,
       "user": "haydenschmitty"
-    },
-    {
-      "title": "Jestions-dev/BlueFatFish - 蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
-      "url": "https://github.com/Jestions-dev/BlueFatFish",
-      "published_at": "2026-10-24T12:03:38Z",
-      "description": "蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
-      "source": "GitHub",
-      "stars": 368,
-      "user": "Jestions-dev"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
@@ -1332,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3230,
+      "stars": 3277,
       "user": "designfuchen"
     },
     {
@@ -1347,23 +1389,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1464,
+      "stars": 1508,
       "user": "andyhuo520"
-    },
-    {
-      "title": "kargulstudio/calender-app-design - GitHub Repository",
-      "url": "https://github.com/kargulstudio/calender-app-design",
-      "published_at": "2026-10-26T18:38:56Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
-      "source": "GitHub",
-      "stars": 804,
-      "user": "kargulstudio"
     },
     {
       "title": "qybaihe/bla - 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
@@ -1377,8 +1404,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 1004,
       "user": "qybaihe"
+    },
+    {
+      "title": "kargulstudio/calender-app-design - GitHub Repository",
+      "url": "https://github.com/kargulstudio/calender-app-design",
+      "published_at": "2026-10-26T18:38:56Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
+      "source": "GitHub",
+      "stars": 811,
+      "user": "kargulstudio"
     },
     {
       "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
@@ -1392,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 740,
       "user": "yaojingang"
     },
     {
@@ -1406,20 +1448,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DANIELA MARICLER GUITZ PALMA"
-    },
-    {
-      "title": "Product links don't respond to the first tap on Android after swiping",
-      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
-      "published_at": "2026-10-28T09:49:31.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "javascript",
-        "jquery",
-        "owl-carousel-2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user9440558"
     },
     {
       "title": "How can callers cancel independently when they share the same fetch request?",
@@ -1436,10 +1464,24 @@
       "user": "David Brierton"
     },
     {
+      "title": "Product links don't respond to the first tap on Android after swiping",
+      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
+      "published_at": "2026-10-28T09:49:31.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
+      "tags": [
+        "javascript",
+        "jquery",
+        "owl-carousel-2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user9440558"
+    },
+    {
       "title": "How to close mobile menu after clicking a link",
       "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
       "published_at": "2026-10-28T16:52:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "responsive-design"
@@ -1452,7 +1494,7 @@
       "title": "Next.js 15 memory usage keeps increasing when polling a live darts API every second",
       "url": "https://stackoverflow.com/questions/80013104/next-js-15-memory-usage-keeps-increasing-when-polling-a-live-darts-api-every-sec",
       "published_at": "2026-10-28T13:40:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "javascript",
         "node.js",
@@ -1468,7 +1510,7 @@
       "title": "How to avoid rendering delays when switching from text to dynamic selects?",
       "url": "https://stackoverflow.com/questions/80012793/how-to-avoid-rendering-delays-when-switching-from-text-to-dynamic-selects",
       "published_at": "2026-10-27T08:02:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 2 answers · score 4",
       "tags": [
         "javascript",
         "vue.js",
@@ -1523,7 +1565,7 @@
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 10",
+      "description": "Stack Overflow question · 3 answers · score 11",
       "tags": [
         "javascript",
         "html",
@@ -1700,7 +1742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4732,
+      "stars": 4841,
       "user": "rddmwmddr"
     },
     {
@@ -1715,7 +1757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3612,
+      "stars": 3676,
       "user": "interplains"
     },
     {
@@ -1730,7 +1772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2394,
+      "stars": 2417,
       "user": "t3dotgg"
     },
     {
@@ -1745,7 +1787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1266,
+      "stars": 1279,
       "user": "DenisSergeevitch"
     },
     {
@@ -1760,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1088,
+      "stars": 1107,
       "user": "Motionsites-AI"
     },
     {
@@ -1775,8 +1817,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 1004,
       "user": "qybaihe"
+    },
+    {
+      "title": "Why does the randomiser repeatedly print B?",
+      "url": "https://stackoverflow.com/questions/80013523/why-does-the-randomiser-repeatedly-print-b",
+      "published_at": "2026-10-30T01:24:29.000Z",
+      "description": "Stack Overflow question · 2 answers · score -6",
+      "tags": [
+        "python",
+        "random",
+        "pyglet"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33244385"
     },
     {
       "title": "Null values from Salesforce overwriting data in PostgreSQL",
@@ -1794,6 +1850,31 @@
       "user": "DataSyncPRO"
     },
     {
+      "title": "Starting a Netbox Plugin with Template Extension fails with ModuleNotFoundError",
+      "url": "https://stackoverflow.com/questions/80013401/starting-a-netbox-plugin-with-template-extension-fails-with-modulenotfounderror",
+      "published_at": "2026-10-29T13:52:04.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "netbox"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rainer"
+    },
+    {
+      "title": "Finding out the time of multiple files at once",
+      "url": "https://stackoverflow.com/questions/80013460/finding-out-the-time-of-multiple-files-at-once",
+      "published_at": "2026-10-29T17:00:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ali Kinaan"
+    },
+    {
       "title": "Same records showing up on different API pages",
       "url": "https://stackoverflow.com/questions/80013493/same-records-showing-up-on-different-api-pages",
       "published_at": "2026-10-29T19:57:57.000Z",
@@ -1809,16 +1890,19 @@
       "user": "Unhappy-Leading-6796"
     },
     {
-      "title": "Finding out the time of multiple files at once",
-      "url": "https://stackoverflow.com/questions/80013460/finding-out-the-time-of-multiple-files-at-once",
-      "published_at": "2026-10-29T17:00:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
+      "title": "How do I properly make a flashing message in Pyglet?",
+      "url": "https://stackoverflow.com/questions/80013265/how-do-i-properly-make-a-flashing-message-in-pyglet",
+      "published_at": "2026-10-29T01:20:21.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
-        "python"
+        "python",
+        "loops",
+        "time",
+        "pyglet"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Ali Kinaan"
+      "user": "user33244385"
     },
     {
       "title": "Why does comparing two visually identical strings \"Jos&#233;\" and \"Jos&#233;\" return False in Python?",
@@ -1836,17 +1920,18 @@
       "user": "Tulionsky"
     },
     {
-      "title": "Starting a Netbox Plugin with Template Extension fails with ModuleNotFoundError",
-      "url": "https://stackoverflow.com/questions/80013401/starting-a-netbox-plugin-with-template-extension-fails-with-modulenotfounderror",
-      "published_at": "2026-10-29T13:52:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "Why is Pyright saying I have already declared this enum member?",
+      "url": "https://stackoverflow.com/questions/80013112/why-is-pyright-saying-i-have-already-declared-this-enum-member",
+      "published_at": "2026-10-28T13:59:41.000Z",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "python",
-        "netbox"
+        "python-typing",
+        "pyright"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Rainer"
+      "user": "JadenV15"
     },
     {
       "title": "Why does VS Code insert incorrect indentation in Jupyter Notebook cells?",
@@ -1878,49 +1963,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "TechNes"
-    },
-    {
-      "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
-      "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
-      "published_at": "2026-10-29T10:20:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "pytorch",
-        "cuda",
-        "artificial-intelligence"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "HMPtwo"
-    },
-    {
-      "title": "Why is Pyright saying I have already declared this enum member?",
-      "url": "https://stackoverflow.com/questions/80013112/why-is-pyright-saying-i-have-already-declared-this-enum-member",
-      "published_at": "2026-10-28T13:59:41.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "python",
-        "python-typing",
-        "pyright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Placing a NIFTY short straddle as one strategy order in Nubra: qty vs unitQty, and why side is BUY?",
-      "url": "https://stackoverflow.com/questions/80013343/placing-a-nifty-short-straddle-as-one-strategy-order-in-nubra-qty-vs-unitqty-a",
-      "published_at": "2026-10-29T10:33:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "python",
-        "pandas",
-        "trading"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Naira"
     },
     {
       "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
@@ -2163,7 +2205,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 543,
       "user": "zeabur-oss"
     }
   ],
@@ -2199,7 +2241,7 @@
       "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
       "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
       "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 10",
+      "description": "Stack Overflow question · 3 answers · score 11",
       "tags": [
         "javascript",
         "html",
@@ -2315,7 +2357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4732,
+      "stars": 4841,
       "user": "rddmwmddr"
     },
     {
@@ -2330,7 +2372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3612,
+      "stars": 3676,
       "user": "interplains"
     },
     {
@@ -2364,7 +2406,7 @@
       "title": "How to close mobile menu after clicking a link",
       "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
       "published_at": "2026-10-28T16:52:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "responsive-design"
@@ -2582,20 +2624,19 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 379,
       "user": "egoist"
     },
     {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "published_at": "2026-10-29T23:42:22.000Z",
       "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
       "tags": [
         "AI",
         "Enterprise",
-        "TC",
         "Amazon",
-        "cloud"
+        "AWS"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2927,15 +2968,30 @@
       "published_at": "2026-10-29T22:27:23.000Z",
       "description": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
       "tags": [
-        "Security",
         "Crypto",
+        "Security",
         "Binance",
-        "breach",
-        "crypto"
+        "cyberattack",
+        "tether"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
+    },
+    {
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
+      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+      "published_at": "2026-10-29T20:43:56.000Z",
+      "description": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
+      "tags": [
+        "Social",
+        "archive of our own",
+        "fan fiction",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
@@ -2982,21 +3038,6 @@
   ],
   "Tools": [
     {
-      "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
-      "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi",
-      "published_at": "2026-10-29T15:57:07Z",
-      "description": "Week of Oct 23-29: GPT-6.1 Terra, restricted Gemini Carbon access, Kimi K3.1 Pro, Copilot Fusion and GitHub's agentic workflow launches.",
-      "tags": [
-        "aidevweekly",
-        "gpt61terra",
-        "gemini4carbon",
-        "kimik31"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aimadetools.com%2F_astro%2Fai-dev-weekly-032-gpt-61-terra-gemini-carbon-kimi-copilot-fusion.7SXVtojB.png",
-      "source": "Dev.to",
-      "user": "Joske Vermeulen"
-    },
-    {
       "title": "Your Laptop Might Replace Most of Your AI Bill",
       "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
       "published_at": "2026-10-28T11:58:00Z",
@@ -3010,6 +3051,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
       "source": "Dev.to",
       "user": "Carla Urrea Stabile"
+    },
+    {
+      "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
+      "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi",
+      "published_at": "2026-10-29T15:57:07Z",
+      "description": "Week of Oct 23-29: GPT-6.1 Terra, restricted Gemini Carbon access, Kimi K3.1 Pro, Copilot Fusion and GitHub's agentic workflow launches.",
+      "tags": [
+        "aidevweekly",
+        "gpt61terra",
+        "gemini4carbon",
+        "kimik31"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aimadetools.com%2F_astro%2Fai-dev-weekly-032-gpt-61-terra-gemini-carbon-kimi-copilot-fusion.7SXVtojB.png",
+      "source": "Dev.to",
+      "user": "Joske Vermeulen"
     },
     {
       "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
@@ -3134,7 +3190,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 876,
+      "stars": 883,
       "user": "ZiChuanLan"
     },
     {
@@ -3149,8 +3205,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 528,
+      "stars": 533,
       "user": "misshexa66"
+    },
+    {
+      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "url": "https://github.com/jacke-pp/open-yoki",
+      "published_at": "2026-10-28T08:58:27Z",
+      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
+      "source": "GitHub",
+      "stars": 464,
+      "user": "jacke-pp"
     },
     {
       "title": "mochiiwuff/capri-desktop - Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
@@ -3164,7 +3235,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 414,
       "user": "mochiiwuff"
     },
     {
@@ -3179,23 +3250,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 392,
+      "stars": 403,
       "user": "haydenschmitty"
-    },
-    {
-      "title": "Jestions-dev/BlueFatFish - 蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
-      "url": "https://github.com/Jestions-dev/BlueFatFish",
-      "published_at": "2026-10-24T12:03:38Z",
-      "description": "蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
-      "source": "GitHub",
-      "stars": 368,
-      "user": "Jestions-dev"
     },
     {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
@@ -3209,7 +3265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4732,
+      "stars": 4841,
       "user": "rddmwmddr"
     },
     {
@@ -3224,7 +3280,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3612,
+      "stars": 3676,
       "user": "interplains"
     },
     {
@@ -3239,7 +3295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2394,
+      "stars": 2417,
       "user": "t3dotgg"
     },
     {
@@ -3254,7 +3310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1266,
+      "stars": 1279,
       "user": "DenisSergeevitch"
     },
     {
@@ -3269,7 +3325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1088,
+      "stars": 1107,
       "user": "Motionsites-AI"
     },
     {
@@ -3284,8 +3340,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 782,
       "user": "DrWhax"
+    },
+    {
+      "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "published_at": "2026-10-29T06:08:00Z",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
+      "source": "GitHub",
+      "stars": 428,
+      "user": "paipiange"
     },
     {
       "title": "egoist/mygo-cloudmusic - MyGo 云音乐 - 第三方网易云音乐原生客户端",
@@ -3299,7 +3370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 355,
+      "stars": 379,
       "user": "egoist"
     },
     {
@@ -3314,7 +3385,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 218,
       "user": "tractordev"
     },
     {
@@ -3329,23 +3400,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
       "source": "GitHub",
-      "stars": 126,
+      "stars": 127,
       "user": "smhanov"
-    },
-    {
-      "title": "missuo/unfairplay-bot - Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
-      "url": "https://github.com/missuo/unfairplay-bot",
-      "published_at": "2026-10-28T12:17:29Z",
-      "description": "Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55200481?v=4",
-      "source": "GitHub",
-      "stars": 103,
-      "user": "missuo"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
@@ -3359,7 +3415,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3230,
+      "stars": 3277,
       "user": "designfuchen"
     },
     {
@@ -3374,23 +3430,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1464,
+      "stars": 1508,
       "user": "andyhuo520"
-    },
-    {
-      "title": "kargulstudio/calender-app-design - GitHub Repository",
-      "url": "https://github.com/kargulstudio/calender-app-design",
-      "published_at": "2026-10-26T18:38:56Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
-      "source": "GitHub",
-      "stars": 804,
-      "user": "kargulstudio"
     },
     {
       "title": "qybaihe/bla - 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
@@ -3404,8 +3445,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 768,
+      "stars": 1004,
       "user": "qybaihe"
+    },
+    {
+      "title": "kargulstudio/calender-app-design - GitHub Repository",
+      "url": "https://github.com/kargulstudio/calender-app-design",
+      "published_at": "2026-10-26T18:38:56Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
+      "source": "GitHub",
+      "stars": 811,
+      "user": "kargulstudio"
     },
     {
       "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
@@ -3419,7 +3475,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 725,
+      "stars": 740,
       "user": "yaojingang"
     },
     {
@@ -3449,7 +3505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 509,
+      "stars": 543,
       "user": "zeabur-oss"
     },
     {
@@ -3464,7 +3520,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 344,
+      "stars": 361,
       "user": "heydeer"
     },
     {
@@ -3479,7 +3535,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178333324?v=4",
       "source": "GitHub",
-      "stars": 220,
+      "stars": 238,
       "user": "yjid"
     },
     {
@@ -3496,19 +3552,6 @@
       "source": "GitHub",
       "stars": 206,
       "user": "hffgzktbcc-blip"
-    },
-    {
-      "title": "Apple's git still trusts the compromised eMudhra certificates",
-      "url": "https://emudhra.we-have-a-problem.com/apple.html",
-      "published_at": "2026-10-28T06:03:56.591-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "cryptography",
-        "mac"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "galadran"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",

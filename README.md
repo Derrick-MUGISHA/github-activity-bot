@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-10-30 2:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-10-30 8:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -46,26 +46,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frb38kxt40ap8gon8h5mi.png" width="200" alt="Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API" />
-      <br/>
-      <b>Gemini 4 Carbon Is #1 on AA Index — Still Fairwind...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aimadetools.com%2F_astro%2Fai-dev-weekly-032-gpt-61-terra-gemini-carbon-kimi-copilot-fusion.7SXVtojB.png" width="200" alt="AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion" />
-      <br/>
-      <b>AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, K...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://dev.to/sloan/welcome-thread-v400-fho">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fanwnz50irkpxgi75d3ax.jpeg" width="200" alt="Welcome Thread - v399" />
       <br/>
@@ -74,11 +54,31 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/accuracy-vs-speed-gemma-4-e2b-quantization-tradeoffs-bf16-to-q2k-aea">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma-graveyard%2Fmain%2Fdocs%2Fdevto-cover.50dc7d50.jpg" width="200" alt="Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to Q2_K" />
       <br/>
       <b>Accuracy vs Speed: Gemma 4 E2B Quantization Tradeo...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/gde/performance-vs-quality-gemma-4-e2b-quantization-on-an-nvidia-l4-and-a-tesla-t4-4b90">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma-graveyard%2Fmain%2Fdocs%2Fdevto-cover-l4.82c50f0e.jpg" width="200" alt="Performance vs Quality: Gemma 4 E2B Quantization on an NVIDIA L4 and a Tesla T4" />
+      <br/>
+      <b>Performance vs Quality: Gemma 4 E2B Quantization o...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png" width="200" alt="Your Laptop Might Replace Most of Your AI Bill" />
+      <br/>
+      <b>Your Laptop Might Replace Most of Your AI Bill</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -94,13 +94,13 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |---|----------|--------|
 | 1 | [Your DEV posts have a beautiful new share card ✨](https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8) | Dev.to |
 | 2 | [Welcome to the Prompt Pad: AI Tips & Tricks with Rosendo Pili](https://blog.mlh.com/welcome-to-the-prompt-pad-ai-tips-tricks-with-rosendo-pili-2hkl) | Dev.to |
-| 3 | [Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API](https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66) | Dev.to |
-| 4 | [AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion](https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi) | Dev.to |
-| 5 | [Welcome Thread - v399](https://dev.to/sloan/welcome-thread-v400-fho) | Dev.to |
-| 6 | [Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to Q2_K](https://dev.to/gde/accuracy-vs-speed-gemma-4-e2b-quantization-tradeoffs-bf16-to-q2k-aea) | Dev.to |
-| 7 | [Performance vs Quality: Gemma 4 E2B Quantization on an NVIDIA L4 and a Tesla T4](https://dev.to/gde/performance-vs-quality-gemma-4-e2b-quantization-on-an-nvidia-l4-and-a-tesla-t4-4b90) | Dev.to |
-| 8 | [Your Laptop Might Replace Most of Your AI Bill](https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f) | Dev.to |
-| 9 | [Size Your Model to Where You Run It: Gemma 4 E2B and E4B on an AWS L4 and Two Small GPUs](https://dev.to/gde/size-your-model-to-where-you-run-it-gemma-4-e2b-and-e4b-on-an-aws-l4-and-two-small-gpus-1d47) | Dev.to |
+| 3 | [Welcome Thread - v399](https://dev.to/sloan/welcome-thread-v400-fho) | Dev.to |
+| 4 | [Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to Q2_K](https://dev.to/gde/accuracy-vs-speed-gemma-4-e2b-quantization-tradeoffs-bf16-to-q2k-aea) | Dev.to |
+| 5 | [Performance vs Quality: Gemma 4 E2B Quantization on an NVIDIA L4 and a Tesla T4](https://dev.to/gde/performance-vs-quality-gemma-4-e2b-quantization-on-an-nvidia-l4-and-a-tesla-t4-4b90) | Dev.to |
+| 6 | [Your Laptop Might Replace Most of Your AI Bill](https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f) | Dev.to |
+| 7 | [Size Your Model to Where You Run It: Gemma 4 E2B and E4B on an AWS L4 and Two Small GPUs](https://dev.to/gde/size-your-model-to-where-you-run-it-gemma-4-e2b-and-e4b-on-an-aws-l4-and-two-small-gpus-1d47) | Dev.to |
+| 8 | [Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API](https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66) | Dev.to |
+| 9 | [AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion](https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi) | Dev.to |
 | 10 | [Inference on Google Cloud: Precision, Memory and Capacity on TPU, from v5e to Ironwood](https://dev.to/gde/inference-on-google-cloud-precision-memory-and-capacity-on-tpu-from-v5e-to-ironwood-5dlf) | Dev.to |
 | 11 | [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn) | Dev.to |
 | 12 | [Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)](https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?](https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l) | Dev.to |
 | 20 | [Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale](https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60) | Dev.to |
 
-<sub>Last fetched: Fri, 30 Oct 2026 02:53:49 CAT</sub>
+<sub>Last fetched: Fri, 30 Oct 2026 08:41:27 CAT</sub>
 
 
 ---
@@ -122,29 +122,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Execution timing, event loop phases
-
-</details>
-
-**2. `Python` — Explain GIL and its implications for multithreading**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Global Interpreter Lock, multiprocessing alternatives
-
-</details>
-
-**3. `Database` — Explain database indexing and when to use it**
+**1. `Database` — Explain database indexing and when to use it**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
 
@@ -152,6 +130,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > B-tree, trade-offs, query performance
+
+</details>
+
+**2. `Database` — Design a database schema for a social media platform**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Users, posts, relationships, indexes, partitioning
+
+</details>
+
+**3. `Python` — Explain decorators in Python with an example**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functions, metaprogramming
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Function wrappers, @syntax, practical uses
 
 </details>
 
@@ -164,11 +164,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 76 | 41.3% | `████████████████████` |
-| **Tools** | 39 | 21.2% | `██████████░░░░░░░░░░` |
-| **JavaScript** | 33 | 17.9% | `█████████░░░░░░░░░░░` |
+| **AI** | 79 | 42.9% | `████████████████████` |
+| **Tools** | 38 | 20.7% | `██████████░░░░░░░░░░` |
+| **JavaScript** | 33 | 17.9% | `████████░░░░░░░░░░░░` |
 | **Python** | 30 | 16.3% | `████████░░░░░░░░░░░░` |
-| **Security** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 20 | 10.9% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **Mobile** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.7%
-JavaScript      ████████████████████████ 23.1%
-Python          ██████████████████████ 21.0%
-Java            ██████████████████ 17.5%
-Rust            █████ 4.9%
+Go              ██████████████████████████████ 29.9%
+JavaScript      ███████████████████████ 22.9%
+Python          █████████████████████ 20.8%
+Java            █████████████████ 17.4%
+Rust            ████ 4.2%
 Kotlin          ██ 2.1%
 PHP             █ 1.4%
 Swift           █ 0.7%
@@ -208,11 +208,11 @@ CSharp          █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 41
+    "Go" : 43
     "JavaScript" : 33
     "Python" : 30
     "Java" : 25
-    "Rust" : 7
+    "Rust" : 6
     "Kotlin" : 3
     "PHP" : 2
     "Swift" : 1
@@ -221,7 +221,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-40-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-25-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-9-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-7-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-6-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-28-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-25-0969da?style=flat-square) ![gemma](https://img.shields.io/badge/gemma-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-9-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-7-0969da?style=flat-square) ![devchallenge](https://img.shields.io/badge/devchallenge-6-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Fri, 30 Oct 2026 00:53:49 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Fri, 30 Oct 2026 06:41:27 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
