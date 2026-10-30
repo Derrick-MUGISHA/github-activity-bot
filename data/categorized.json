@@ -16,6 +16,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
+      "published_at": "2026-10-30T20:35:58Z",
+      "description": "The results are in for Week 3 of our five Hacktoberfest DEV Challenges! For Slow and Steady, we asked...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
       "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
       "published_at": "2026-10-30T05:35:56Z",
@@ -301,21 +316,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "Join the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine! $2,850 in Prizes Across 21 Winners.",
-      "url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-2850-in-prizes-across-21-3cho",
-      "published_at": "2026-10-26T19:00:30Z",
-      "description": "Week 4 of our Hacktoberfest DEV Challenges starts today, and it's our final challenge of the series!...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4b2bp0h36xv9ooc5bq0t.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
       "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
       "published_at": "2026-10-21T16:59:00Z",
@@ -525,6 +525,21 @@
       "user": "Rachael Berkey"
     },
     {
+      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
+      "published_at": "2026-10-16T17:40:16Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
+      "tags": [
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fle5lxtrblynphqs20c45.jpeg",
+      "source": "Dev.to",
+      "user": "Hemapriya Kanagala"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -704,23 +719,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 800,
+      "stars": 1099,
       "user": "heydamir"
     },
     {
-      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "url": "https://github.com/jacke-pp/open-yoki",
-      "published_at": "2026-10-28T08:58:27Z",
-      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "published_at": "2026-10-27T12:03:01Z",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 466,
-      "user": "jacke-pp"
+      "stars": 477,
+      "user": "haydenschmitty"
     },
     {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
@@ -734,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 5035,
+      "stars": 5044,
       "user": "rddmwmddr"
     },
     {
@@ -749,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3821,
+      "stars": 3850,
       "user": "interplains"
     },
     {
@@ -764,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1310,
+      "stars": 1335,
       "user": "DenisSergeevitch"
     },
     {
@@ -779,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1174,
       "user": "Motionsites-AI"
     },
     {
@@ -794,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1113,
+      "stars": 1148,
       "user": "paipiange"
     },
     {
@@ -809,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 807,
       "user": "DrWhax"
     },
     {
@@ -824,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1547,
+      "stars": 1549,
       "user": "andyhuo520"
     },
     {
@@ -839,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1329,
+      "stars": 1382,
       "user": "qybaihe"
     },
     {
@@ -854,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 759,
       "user": "yaojingang"
     },
     {
@@ -872,17 +887,78 @@
       "user": "newuser"
     },
     {
-      "title": "Starting a Netbox Plugin with Template Extension fails with ModuleNotFoundError",
-      "url": "https://stackoverflow.com/questions/80013401/starting-a-netbox-plugin-with-template-extension-fails-with-modulenotfounderror",
-      "published_at": "2026-10-29T13:52:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "published_at": "2026-10-30T21:54:34.000Z",
+      "description": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
       "tags": [
-        "python",
-        "netbox"
+        "AI",
+        "Enterprise",
+        "TC",
+        "Intel"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rainer"
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "published_at": "2026-10-30T21:52:03.000Z",
+      "description": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "In Brief",
+        "IPO"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "published_at": "2026-10-30T21:26:59.000Z",
+      "description": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "tags": [
+        "TC",
+        "Media & Entertainment",
+        "AI",
+        "Halloween"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "published_at": "2026-10-30T21:17:40.000Z",
+      "description": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "ai infrastructure",
+        "Alphabet",
+        "Amazon"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "published_at": "2026-10-30T19:55:13.000Z",
+      "description": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
+      "tags": [
+        "Startups",
+        "Legal AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "Satlyt takes another step toward turning satellites into space data centers",
@@ -893,7 +969,8 @@
         "Space",
         "Startups",
         "AI",
-        "data centers"
+        "data centers",
+        "satlyt"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -944,53 +1021,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "published_at": "2026-10-30T14:00:00.000Z",
-      "description": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, ",
-      "tags": [
-        "TC",
-        "Startups",
-        "Crypto",
-        "Climate",
-        "Fintech"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "TechCrunch Events"
-    },
-    {
-      "title": "DoorDash said it&#8217;s only received &#8216;several hundred&#8217; orders from AI agents",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "published_at": "2026-10-30T13:54:25.000Z",
-      "description": "DoorDash said that it is open to working with third-party agent makers.",
-      "tags": [
-        "AI",
-        "Commerce",
-        "AI agents",
-        "DoorDash",
-        "muse"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "published_at": "2026-10-30T13:00:00.000Z",
-      "description": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-      "tags": [
-        "AI",
-        "Startups",
-        "data centers",
-        "Runware"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
@@ -1066,21 +1096,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "🗓️ Monthly Dev Report: October 2026",
-      "url": "https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7",
-      "published_at": "2026-10-26T13:56:28Z",
-      "description": "Hey everyone! I bring you my development journey on what I have discovered, accomplishments for this...",
-      "tags": [
-        "discuss",
-        "devjournal",
-        "php",
-        "node"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftzrbzcftvwzoxwj2cp7o.jpg",
-      "source": "Dev.to",
-      "user": "FrancisTRᴅᴇᴠ"
-    },
     {
       "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
       "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
@@ -1217,6 +1232,21 @@
       "user": "velmu"
     },
     {
+      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "url": "https://github.com/heydamir/unslop",
+      "published_at": "2026-10-29T15:41:21Z",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
+      "source": "GitHub",
+      "stars": 1099,
+      "user": "heydamir"
+    },
+    {
       "title": "ZiChuanLan/agent-purge - One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
       "url": "https://github.com/ZiChuanLan/agent-purge",
       "published_at": "2026-10-25T06:06:02Z",
@@ -1232,21 +1262,6 @@
       "user": "ZiChuanLan"
     },
     {
-      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "url": "https://github.com/heydamir/unslop",
-      "published_at": "2026-10-29T15:41:21Z",
-      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
-      "source": "GitHub",
-      "stars": 800,
-      "user": "heydamir"
-    },
-    {
       "title": "HRuiCcc/RuiC-PoseAtlas - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
       "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
       "published_at": "2026-10-28T07:00:53Z",
@@ -1258,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 605,
       "user": "HRuiCcc"
     },
     {
@@ -1273,23 +1288,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 538,
       "user": "misshexa66"
     },
     {
-      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "url": "https://github.com/jacke-pp/open-yoki",
-      "published_at": "2026-10-28T08:58:27Z",
-      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "published_at": "2026-10-27T12:03:01Z",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 466,
-      "user": "jacke-pp"
+      "stars": 477,
+      "user": "haydenschmitty"
     },
     {
       "title": "beilunyang/openhongguo - 红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
@@ -1318,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3351,
+      "stars": 3353,
       "user": "designfuchen"
     },
     {
@@ -1333,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1547,
+      "stars": 1549,
       "user": "andyhuo520"
     },
     {
@@ -1348,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1329,
+      "stars": 1382,
       "user": "qybaihe"
     },
     {
@@ -1363,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 829,
       "user": "kargulstudio"
     },
     {
@@ -1378,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 759,
       "user": "yaojingang"
     },
     {
@@ -1392,6 +1407,33 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "smoores"
+    },
+    {
+      "title": "Dealing with unsupported media type in HTML5 audio element?",
+      "url": "https://stackoverflow.com/questions/80013732/dealing-with-unsupported-media-type-in-html5-audio-element",
+      "published_at": "2026-10-30T21:19:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html5-audio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Andre M"
+    },
+    {
+      "title": "In WebGPU, is it faster to use a single interleaved GPUBuffer for positions, normals, and UVs? Or should I use separate GPUBuffers?",
+      "url": "https://stackoverflow.com/questions/80013705/in-webgpu-is-it-faster-to-use-a-single-interleaved-gpubuffer-for-positions-nor",
+      "published_at": "2026-10-30T19:16:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "vertex-buffer",
+        "webgpu"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user3163495"
     },
     {
       "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
@@ -1475,22 +1517,6 @@
       "user": "user9440558"
     },
     {
-      "title": "Next.js 15 memory usage keeps increasing when polling a live darts API every second",
-      "url": "https://stackoverflow.com/questions/80013104/next-js-15-memory-usage-keeps-increasing-when-polling-a-live-darts-api-every-sec",
-      "published_at": "2026-10-28T13:40:42.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "node.js",
-        "next.js",
-        "memory-leaks",
-        "fetch-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "tudiude"
-    },
-    {
       "title": "How to avoid rendering delays when switching from text to dynamic selects?",
       "url": "https://stackoverflow.com/questions/80012793/how-to-avoid-rendering-delays-when-switching-from-text-to-dynamic-selects",
       "published_at": "2026-10-27T08:02:43.000Z",
@@ -1517,20 +1543,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Asger &#216;rmen Dalmeijer"
-    },
-    {
-      "title": "Does sinon.restore() also restore all mySandbox.stub()s?",
-      "url": "https://stackoverflow.com/questions/80010151/does-sinon-restore-also-restore-all-mysandbox-stubs",
-      "published_at": "2026-10-15T06:29:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "sinon",
-        "stubbing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Florian"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1697,7 +1709,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 5035,
+      "stars": 5044,
       "user": "rddmwmddr"
     },
     {
@@ -1712,7 +1724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3821,
+      "stars": 3850,
       "user": "interplains"
     },
     {
@@ -1727,7 +1739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2454,
+      "stars": 2462,
       "user": "t3dotgg"
     },
     {
@@ -1742,7 +1754,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1310,
+      "stars": 1335,
       "user": "DenisSergeevitch"
     },
     {
@@ -1757,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1174,
       "user": "Motionsites-AI"
     },
     {
@@ -1772,14 +1784,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1329,
+      "stars": 1382,
       "user": "qybaihe"
     },
     {
       "title": "How do I implement different modified objects by using classes?",
       "url": "https://stackoverflow.com/questions/80013673/how-do-i-implement-different-modified-objects-by-using-classes",
       "published_at": "2026-10-30T16:28:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "pygame"
@@ -1787,6 +1799,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "corv1224"
+    },
+    {
+      "title": "Write Prim's algorithm in Python",
+      "url": "https://stackoverflow.com/questions/80013569/write-prims-algorithm-in-python",
+      "published_at": "2026-10-30T06:36:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "prims-algorithm"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JAc Polloc"
     },
     {
       "title": "How to iterate a dictionary which has custom objects defined by a class for keys?",
@@ -1801,19 +1826,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Feli-tech"
-    },
-    {
-      "title": "Write Prim's algorithm in Python",
-      "url": "https://stackoverflow.com/questions/80013569/write-prims-algorithm-in-python",
-      "published_at": "2026-10-30T06:36:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "prims-algorithm"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JAc Polloc"
     },
     {
       "title": "Netbox Plugin with Template Extension does not take account of PluginTemplateExtension.models",
@@ -1843,6 +1855,20 @@
       "user": "user33244385"
     },
     {
+      "title": "Can I make Pyright catch unnecessarily broad type annotations?",
+      "url": "https://stackoverflow.com/questions/80013267/can-i-make-pyright-catch-unnecessarily-broad-type-annotations",
+      "published_at": "2026-10-29T02:32:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score 3",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
       "title": "Null values from Salesforce overwriting data in PostgreSQL",
       "url": "https://stackoverflow.com/questions/80013497/null-values-from-salesforce-overwriting-data-in-postgresql",
       "published_at": "2026-10-29T20:03:55.000Z",
@@ -1856,6 +1882,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DataSyncPRO"
+    },
+    {
+      "title": "Finding out the time of multiple files at once",
+      "url": "https://stackoverflow.com/questions/80013460/finding-out-the-time-of-multiple-files-at-once",
+      "published_at": "2026-10-29T17:00:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ali Kinaan"
     },
     {
       "title": "Same records showing up on different API pages",
@@ -1873,18 +1911,6 @@
       "user": "Unhappy-Leading-6796"
     },
     {
-      "title": "Finding out the time of multiple files at once",
-      "url": "https://stackoverflow.com/questions/80013460/finding-out-the-time-of-multiple-files-at-once",
-      "published_at": "2026-10-29T17:00:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ali Kinaan"
-    },
-    {
       "title": "Why is Pyright saying I have already declared this enum member?",
       "url": "https://stackoverflow.com/questions/80013112/why-is-pyright-saying-i-have-already-declared-this-enum-member",
       "published_at": "2026-10-28T13:59:41.000Z",
@@ -1897,19 +1923,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
-    },
-    {
-      "title": "Starting a Netbox Plugin with Template Extension fails with ModuleNotFoundError",
-      "url": "https://stackoverflow.com/questions/80013401/starting-a-netbox-plugin-with-template-extension-fails-with-modulenotfounderror",
-      "published_at": "2026-10-29T13:52:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "netbox"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rainer"
     },
     {
       "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
@@ -2166,7 +2179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 568,
       "user": "zeabur-oss"
     }
   ],
@@ -2197,6 +2210,19 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "Dealing with unsupported media type in HTML5 audio element?",
+      "url": "https://stackoverflow.com/questions/80013732/dealing-with-unsupported-media-type-in-html5-audio-element",
+      "published_at": "2026-10-30T21:19:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html5-audio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Andre M"
     },
     {
       "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
@@ -2301,7 +2327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 5035,
+      "stars": 5044,
       "user": "rddmwmddr"
     },
     {
@@ -2316,7 +2342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3821,
+      "stars": 3850,
       "user": "interplains"
     },
     {
@@ -2600,7 +2626,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 436,
       "user": "egoist"
     },
     {
@@ -2674,6 +2700,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DataSyncPRO"
+    },
+    {
+      "title": "Applebee&#8217;s exposed customers&#8217; personal data after leaving database password in app",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+      "published_at": "2026-10-30T21:48:53.000Z",
+      "description": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+      "tags": [
+        "Security",
+        "applebee's",
+        "cybersecurity",
+        "dine brands",
+        "Exclusive"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
@@ -2894,29 +2936,16 @@
       "user": "dsr"
     },
     {
-      "title": "Update on AO3 Downtime, October 30, 2026",
-      "url": "https://www.transformativeworks.org/update-on-ao3-downtime-october-30-2026/",
-      "published_at": "2026-10-30T08:54:17.523-05:00",
-      "description": "The Archive of our Own aka AO3, a huge, non-profit, volunteer-run fanfic archive with over 11 million registered users, discovered a security incident yesterday and took the site down. They expect the site to be down at least two weeks.",
+      "title": "Applebee&#8217;s exposed customers&#8217; personal data after leaving database password in app",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+      "published_at": "2026-10-30T21:48:53.000Z",
+      "description": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
       "tags": [
-        "privacy",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "horrorcheck"
-    },
-    {
-      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
-      "published_at": "2026-10-30T14:00:25.000Z",
-      "description": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
-      "tags": [
-        "Crypto",
         "Security",
-        "Binance",
-        "crypto",
-        "cyberattack"
+        "applebee's",
+        "cybersecurity",
+        "dine brands",
+        "Exclusive"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2966,6 +2995,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
+      "published_at": "2026-10-30T20:35:58Z",
+      "description": "The results are in for Week 3 of our five Hacktoberfest DEV Challenges! For Slow and Steady, we asked...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
     {
       "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
       "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi",
@@ -3108,6 +3152,21 @@
       "user": "pabs3"
     },
     {
+      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "url": "https://github.com/heydamir/unslop",
+      "published_at": "2026-10-29T15:41:21Z",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
+      "source": "GitHub",
+      "stars": 1099,
+      "user": "heydamir"
+    },
+    {
       "title": "ZiChuanLan/agent-purge - One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
       "url": "https://github.com/ZiChuanLan/agent-purge",
       "published_at": "2026-10-25T06:06:02Z",
@@ -3123,21 +3182,6 @@
       "user": "ZiChuanLan"
     },
     {
-      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "url": "https://github.com/heydamir/unslop",
-      "published_at": "2026-10-29T15:41:21Z",
-      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
-      "source": "GitHub",
-      "stars": 800,
-      "user": "heydamir"
-    },
-    {
       "title": "HRuiCcc/RuiC-PoseAtlas - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
       "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
       "published_at": "2026-10-28T07:00:53Z",
@@ -3149,7 +3193,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 605,
       "user": "HRuiCcc"
     },
     {
@@ -3164,23 +3208,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 537,
+      "stars": 538,
       "user": "misshexa66"
     },
     {
-      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "url": "https://github.com/jacke-pp/open-yoki",
-      "published_at": "2026-10-28T08:58:27Z",
-      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "published_at": "2026-10-27T12:03:01Z",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 466,
-      "user": "jacke-pp"
+      "stars": 477,
+      "user": "haydenschmitty"
     },
     {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
@@ -3194,7 +3238,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 5035,
+      "stars": 5044,
       "user": "rddmwmddr"
     },
     {
@@ -3209,7 +3253,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3821,
+      "stars": 3850,
       "user": "interplains"
     },
     {
@@ -3224,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2454,
+      "stars": 2462,
       "user": "t3dotgg"
     },
     {
@@ -3239,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1310,
+      "stars": 1335,
       "user": "DenisSergeevitch"
     },
     {
@@ -3254,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1152,
+      "stars": 1174,
       "user": "Motionsites-AI"
     },
     {
@@ -3269,7 +3313,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1113,
+      "stars": 1148,
       "user": "paipiange"
     },
     {
@@ -3284,7 +3328,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 802,
+      "stars": 807,
       "user": "DrWhax"
     },
     {
@@ -3299,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 434,
+      "stars": 436,
       "user": "egoist"
     },
     {
@@ -3314,7 +3358,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 222,
       "user": "tractordev"
     },
     {
@@ -3344,7 +3388,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3351,
+      "stars": 3353,
       "user": "designfuchen"
     },
     {
@@ -3359,7 +3403,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1547,
+      "stars": 1549,
       "user": "andyhuo520"
     },
     {
@@ -3374,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1329,
+      "stars": 1382,
       "user": "qybaihe"
     },
     {
@@ -3389,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 825,
+      "stars": 829,
       "user": "kargulstudio"
     },
     {
@@ -3404,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 758,
+      "stars": 759,
       "user": "yaojingang"
     },
     {
@@ -3419,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 773,
       "user": "mizorewww"
     },
     {
@@ -3434,7 +3478,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 568,
       "user": "zeabur-oss"
     },
     {
@@ -3449,7 +3493,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 386,
       "user": "heydeer"
     },
     {
@@ -3464,7 +3508,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178333324?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 294,
       "user": "yjid"
     },
     {
@@ -3479,24 +3523,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66570915?v=4",
       "source": "GitHub",
-      "stars": 213,
+      "stars": 214,
       "user": "anomalyco"
-    },
-    {
-      "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-      "published_at": "2026-10-30T07:01:00.000Z",
-      "description": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
-      "tags": [
-        "Transportation",
-        "autonomous vehicles",
-        "robotaxis",
-        "Toyota",
-        "toyota bz4x ev"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
