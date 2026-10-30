@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
-      "url": "https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66",
-      "published_at": "2026-10-29T13:14:48Z",
-      "description": "Google DeepMind’s Gemini 4 Carbon (Oct 28) claims AA Index v5.0 #1 at 59 and SOTA cyber benches — still Fairwind/cyber-defenders first, no public model ID. Intro $2/$10 → $4/$20, 95% cache off, builder checklist before the API.",
-      "tags": [
-        "ai",
-        "llm",
-        "google",
-        "cybersecurity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frb38kxt40ap8gon8h5mi.png",
-      "source": "Dev.to",
-      "user": "Yong Yu"
-    },
-    {
       "title": "Welcome to the Prompt Pad: AI Tips & Tricks with Rosendo Pili",
       "url": "https://blog.mlh.com/welcome-to-the-prompt-pad-ai-tips-tricks-with-rosendo-pili-2hkl",
       "published_at": "2026-10-29T19:07:55Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F89unnpv2l9egvfexk82u.png",
       "source": "Dev.to",
       "user": "MLH Team"
+    },
+    {
+      "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
+      "url": "https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66",
+      "published_at": "2026-10-29T13:14:48Z",
+      "description": "Google DeepMind’s Gemini 4 Carbon (Oct 28) claims AA Index v5.0 #1 at 59 and SOTA cyber benches — still Fairwind/cyber-defenders first, no public model ID. Intro $2/$10 → $4/$20, 95% cache off, builder checklist before the API.",
+      "tags": [
+        "ai",
+        "llm",
+        "google",
+        "cybersecurity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frb38kxt40ap8gon8h5mi.png",
+      "source": "Dev.to",
+      "user": "Yong Yu"
     },
     {
       "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 392,
       "user": "haydenschmitty"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4705,
+      "stars": 4732,
       "user": "rddmwmddr"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3512,
+      "stars": 3612,
       "user": "interplains"
     },
     {
@@ -809,8 +809,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1266,
       "user": "DenisSergeevitch"
+    },
+    {
+      "title": "Motionsites-AI/claude-skill - Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "url": "https://github.com/Motionsites-AI/claude-skill",
+      "published_at": "2026-10-26T06:58:45Z",
+      "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
+      "source": "GitHub",
+      "stars": 1088,
+      "user": "Motionsites-AI"
     },
     {
       "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
@@ -824,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 772,
       "user": "DrWhax"
     },
     {
@@ -843,19 +858,19 @@
       "user": "smhanov"
     },
     {
-      "title": "Shaitrish/37studio - Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
-      "url": "https://github.com/Shaitrish/37studio",
-      "published_at": "2026-10-23T00:26:52Z",
-      "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
+      "title": "missuo/unfairplay-bot - Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
+      "url": "https://github.com/missuo/unfairplay-bot",
+      "published_at": "2026-10-28T12:17:29Z",
+      "description": "Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/174145742?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/55200481?v=4",
       "source": "GitHub",
-      "stars": 112,
-      "user": "Shaitrish"
+      "stars": 103,
+      "user": "missuo"
     },
     {
       "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
@@ -869,8 +884,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1464,
       "user": "andyhuo520"
+    },
+    {
+      "title": "qybaihe/bla - 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "url": "https://github.com/qybaihe/bla",
+      "published_at": "2026-10-25T05:25:45Z",
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
+      "source": "GitHub",
+      "stars": 768,
+      "user": "qybaihe"
     },
     {
       "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
@@ -884,7 +914,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 725,
       "user": "yaojingang"
     },
     {
@@ -928,6 +958,53 @@
       "user": "Rainer"
     },
     {
+      "title": "Andy Jassy says Prime Video is on track to earn &#8216;tens of billions of dollars&#8217;",
+      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "published_at": "2026-10-29T23:44:56.000Z",
+      "description": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "TC",
+        "Amazon"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "published_at": "2026-10-29T23:42:22.000Z",
+      "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Amazon",
+        "cloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Elon Musk is &#8216;truly a genius,&#8217; says Vladimir Putin",
+      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+      "published_at": "2026-10-29T21:51:29.000Z",
+      "description": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
+      "tags": [
+        "Government & Policy",
+        "Elon Musk",
+        "In Brief",
+        "Starlink",
+        "Ukraine war"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
       "title": "As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in experience",
       "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
       "published_at": "2026-10-29T20:08:31.000Z",
@@ -936,7 +1013,7 @@
         "AI",
         "Apps",
         "Media & Entertainment",
-        "TC",
+        "Social",
         "Reddit"
       ],
       "cover_image": null,
@@ -959,78 +1036,17 @@
       "user": "Kirsten Korosec"
     },
     {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "published_at": "2026-10-29T19:56:19.000Z",
-      "description": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "title": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
+      "url": "https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/",
+      "published_at": "2026-10-29T20:48:09.000Z",
+      "description": "The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface. We",
       "tags": [
-        "AI",
-        "Venture",
-        "ADT",
-        "In Brief",
-        "M&A"
+        "mcp",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
-      "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
-      "published_at": "2026-10-29T19:17:49.000Z",
-      "description": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
-      "tags": [
-        "Media & Entertainment",
-        "Airbnb",
-        "Hollywood"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "published_at": "2026-10-29T19:14:36.000Z",
-      "description": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "published_at": "2026-10-29T17:54:38.000Z",
-      "description": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-      "tags": [
-        "AI",
-        "Apps",
-        "ai dictation",
-        "granola",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "published_at": "2026-10-29T17:00:00.000Z",
-      "description": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "tags": [
-        "AI",
-        "cyber",
-        "mistral"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "Cloud Service Models Explained: IaaS vs PaaS vs SaaS",
@@ -1076,50 +1092,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Eva J Patel"
-    },
-    {
-      "title": "Learn Model Context Protocol (MCP) Security",
-      "url": "https://www.freecodecamp.org/news/learn-model-context-protocol-mcp-security/",
-      "published_at": "2026-10-23T01:49:44.000Z",
-      "description": "MCP bridges the gap between your AI agents and your external tools, allowing them to send Discord messages, read your emails, and interact with your environment. But this massive leap in capability co",
-      "tags": [
-        "mcp",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "What Is Model Distillation? A Guide for Developers",
-      "url": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
-      "published_at": "2026-10-21T18:46:22.000Z",
-      "description": "Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre",
-      "tags": [
-        "llm",
-        "AI models",
-        "Python",
-        "pytorch",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Mene-Ejegi Ogbemi"
-    },
-    {
-      "title": "How to Diagnose vite: not found After npm ci in a Container Build",
-      "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
-      "published_at": "2026-10-21T16:03:14.000Z",
-      "description": "I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure",
-      "tags": [
-        "npm",
-        "Docker",
-        "Node.js",
-        "vite"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ahmed Tariq"
     }
   ],
   "JavaScript": [
@@ -1285,7 +1257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 876,
       "user": "ZiChuanLan"
     },
     {
@@ -1300,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 528,
       "user": "misshexa66"
     },
     {
@@ -1315,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 411,
       "user": "mochiiwuff"
     },
     {
@@ -1330,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 392,
       "user": "haydenschmitty"
     },
     {
@@ -1345,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 368,
       "user": "Jestions-dev"
     },
     {
@@ -1360,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3218,
+      "stars": 3230,
       "user": "designfuchen"
     },
     {
@@ -1375,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1464,
       "user": "andyhuo520"
     },
     {
@@ -1390,23 +1362,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 804,
       "user": "kargulstudio"
     },
     {
-      "title": "surendrapandar/minilytics - Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "url": "https://github.com/surendrapandar/minilytics",
-      "published_at": "2026-10-23T19:27:24Z",
-      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
+      "title": "qybaihe/bla - 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "url": "https://github.com/qybaihe/bla",
+      "published_at": "2026-10-25T05:25:45Z",
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 774,
-      "user": "surendrapandar"
+      "stars": 768,
+      "user": "qybaihe"
     },
     {
       "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
@@ -1420,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 725,
       "user": "yaojingang"
     },
     {
@@ -1436,17 +1408,18 @@
       "user": "DANIELA MARICLER GUITZ PALMA"
     },
     {
-      "title": "How to close mobile menu after clicking a link",
-      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
-      "published_at": "2026-10-28T16:52:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "Product links don't respond to the first tap on Android after swiping",
+      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
+      "published_at": "2026-10-28T09:49:31.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
       "tags": [
         "javascript",
-        "responsive-design"
+        "jquery",
+        "owl-carousel-2"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Kismet-"
+      "user": "user9440558"
     },
     {
       "title": "How can callers cancel independently when they share the same fetch request?",
@@ -1463,18 +1436,17 @@
       "user": "David Brierton"
     },
     {
-      "title": "Product links don't respond to the first tap on Android after swiping",
-      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
-      "published_at": "2026-10-28T09:49:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "title": "How to close mobile menu after clicking a link",
+      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
+      "published_at": "2026-10-28T16:52:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "javascript",
-        "jquery",
-        "owl-carousel-2"
+        "responsive-design"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user9440558"
+      "user": "Kismet-"
     },
     {
       "title": "Next.js 15 memory usage keeps increasing when polling a live darts API every second",
@@ -1564,20 +1536,6 @@
       "user": "George Joseph"
     },
     {
-      "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
-      "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
-      "published_at": "2026-10-29T19:17:49.000Z",
-      "description": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
-      "tags": [
-        "Media & Entertainment",
-        "Airbnb",
-        "Hollywood"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
       "url": "https://www.freecodecamp.org/news/how-to-build-passkey-authentication-with-webauthn-next-js-and-nestjs/",
       "published_at": "2026-10-27T17:44:12.000Z",
@@ -1592,21 +1550,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Roland Mweze"
-    },
-    {
-      "title": "How to Diagnose vite: not found After npm ci in a Container Build",
-      "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
-      "published_at": "2026-10-21T16:03:14.000Z",
-      "description": "I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure",
-      "tags": [
-        "npm",
-        "Docker",
-        "Node.js",
-        "vite"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ahmed Tariq"
     }
   ],
   "Python": [
@@ -1757,7 +1700,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4705,
+      "stars": 4732,
       "user": "rddmwmddr"
     },
     {
@@ -1772,7 +1715,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3512,
+      "stars": 3612,
       "user": "interplains"
     },
     {
@@ -1787,23 +1730,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2375,
+      "stars": 2394,
       "user": "t3dotgg"
-    },
-    {
-      "title": "morganlinton/BeautifulRust - Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "url": "https://github.com/morganlinton/BeautifulRust",
-      "published_at": "2026-10-23T03:01:11Z",
-      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
-      "source": "GitHub",
-      "stars": 1410,
-      "user": "morganlinton"
     },
     {
       "title": "DenisSergeevitch/ex-ussr-kinship-research - Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
@@ -1817,14 +1745,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1266,
       "user": "DenisSergeevitch"
+    },
+    {
+      "title": "Motionsites-AI/claude-skill - Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "url": "https://github.com/Motionsites-AI/claude-skill",
+      "published_at": "2026-10-26T06:58:45Z",
+      "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
+      "source": "GitHub",
+      "stars": 1088,
+      "user": "Motionsites-AI"
+    },
+    {
+      "title": "qybaihe/bla - 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "url": "https://github.com/qybaihe/bla",
+      "published_at": "2026-10-25T05:25:45Z",
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
+      "source": "GitHub",
+      "stars": 768,
+      "user": "qybaihe"
     },
     {
       "title": "Null values from Salesforce overwriting data in PostgreSQL",
       "url": "https://stackoverflow.com/questions/80013497/null-values-from-salesforce-overwriting-data-in-postgresql",
       "published_at": "2026-10-29T20:03:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "postgresql",
@@ -1839,7 +1797,7 @@
       "title": "Same records showing up on different API pages",
       "url": "https://stackoverflow.com/questions/80013493/same-records-showing-up-on-different-api-pages",
       "published_at": "2026-10-29T19:57:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "rest",
@@ -1854,7 +1812,7 @@
       "title": "Finding out the time of multiple files at once",
       "url": "https://stackoverflow.com/questions/80013460/finding-out-the-time-of-multiple-files-at-once",
       "published_at": "2026-10-29T17:00:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "python"
       ],
@@ -1891,21 +1849,6 @@
       "user": "Rainer"
     },
     {
-      "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
-      "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
-      "published_at": "2026-10-29T10:20:20.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "pytorch",
-        "cuda",
-        "artificial-intelligence"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "HMPtwo"
-    },
-    {
       "title": "Why does VS Code insert incorrect indentation in Jupyter Notebook cells?",
       "url": "https://stackoverflow.com/questions/80013304/why-does-vs-code-insert-incorrect-indentation-in-jupyter-notebook-cells",
       "published_at": "2026-10-29T08:18:54.000Z",
@@ -1937,10 +1880,39 @@
       "user": "TechNes"
     },
     {
+      "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
+      "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
+      "published_at": "2026-10-29T10:20:20.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
+      "tags": [
+        "python",
+        "pytorch",
+        "cuda",
+        "artificial-intelligence"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "HMPtwo"
+    },
+    {
+      "title": "Why is Pyright saying I have already declared this enum member?",
+      "url": "https://stackoverflow.com/questions/80013112/why-is-pyright-saying-i-have-already-declared-this-enum-member",
+      "published_at": "2026-10-28T13:59:41.000Z",
+      "description": "Stack Overflow question · 3 answers · score 3",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
       "title": "Placing a NIFTY short straddle as one strategy order in Nubra: qty vs unitQty, and why side is BUY?",
       "url": "https://stackoverflow.com/questions/80013343/placing-a-nifty-short-straddle-as-one-strategy-order-in-nubra-qty-vs-unitqty-a",
       "published_at": "2026-10-29T10:33:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "pandas",
@@ -1949,22 +1921,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Naira"
-    },
-    {
-      "title": "Why can't I make this loop in this pyglet-using code work?",
-      "url": "https://stackoverflow.com/questions/80013265/why-cant-i-make-this-loop-in-this-pyglet-using-code-work",
-      "published_at": "2026-10-29T01:20:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "windows",
-        "loops",
-        "time",
-        "pyglet"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33244385"
     },
     {
       "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
@@ -2012,22 +1968,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Eva J Patel"
-    },
-    {
-      "title": "What Is Model Distillation? A Guide for Developers",
-      "url": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
-      "published_at": "2026-10-21T18:46:22.000Z",
-      "description": "Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre",
-      "tags": [
-        "llm",
-        "AI models",
-        "Python",
-        "pytorch",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Mene-Ejegi Ogbemi"
     }
   ],
   "DevOps": [
@@ -2223,23 +2163,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 509,
       "user": "zeabur-oss"
-    },
-    {
-      "title": "How to Diagnose vite: not found After npm ci in a Container Build",
-      "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
-      "published_at": "2026-10-21T16:03:14.000Z",
-      "description": "I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure",
-      "tags": [
-        "npm",
-        "Docker",
-        "Node.js",
-        "vite"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ahmed Tariq"
     }
   ],
   "WebDev": [
@@ -2285,21 +2210,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "George Joseph"
-    },
-    {
-      "title": "How to Diagnose vite: not found After npm ci in a Container Build",
-      "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
-      "published_at": "2026-10-21T16:03:14.000Z",
-      "description": "I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure",
-      "tags": [
-        "npm",
-        "Docker",
-        "Node.js",
-        "vite"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ahmed Tariq"
     }
   ],
   "Mobile": [
@@ -2405,7 +2315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4705,
+      "stars": 4732,
       "user": "rddmwmddr"
     },
     {
@@ -2420,7 +2330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3512,
+      "stars": 3612,
       "user": "interplains"
     },
     {
@@ -2437,6 +2347,20 @@
       "user": "icefox"
     },
     {
+      "title": "Product links don't respond to the first tap on Android after swiping",
+      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
+      "published_at": "2026-10-28T09:49:31.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
+      "tags": [
+        "javascript",
+        "jquery",
+        "owl-carousel-2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user9440558"
+    },
+    {
       "title": "How to close mobile menu after clicking a link",
       "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
       "published_at": "2026-10-28T16:52:28.000Z",
@@ -2448,20 +2372,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kismet-"
-    },
-    {
-      "title": "Product links don't respond to the first tap on Android after swiping",
-      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
-      "published_at": "2026-10-28T09:49:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "jquery",
-        "owl-carousel-2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user9440558"
     }
   ],
   "Cloud": [
@@ -2672,8 +2582,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 355,
       "user": "egoist"
+    },
+    {
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "published_at": "2026-10-29T23:42:22.000Z",
+      "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "Amazon",
+        "cloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+      "published_at": "2026-10-29T21:20:47.000Z",
+      "description": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+      "tags": [
+        "Enterprise",
+        "Amazon",
+        "AWS"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
     },
     {
       "title": "GM reaches $220M settlement over selling drivers&#8217; private data",
@@ -2702,37 +2642,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Chinwendu Enyinna"
-    },
-    {
-      "title": "What Is Model Distillation? A Guide for Developers",
-      "url": "https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/",
-      "published_at": "2026-10-21T18:46:22.000Z",
-      "description": "Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre",
-      "tags": [
-        "llm",
-        "AI models",
-        "Python",
-        "pytorch",
-        "Machine Learning"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Mene-Ejegi Ogbemi"
-    },
-    {
-      "title": "How to Diagnose vite: not found After npm ci in a Container Build",
-      "url": "https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/",
-      "published_at": "2026-10-21T16:03:14.000Z",
-      "description": "I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure",
-      "tags": [
-        "npm",
-        "Docker",
-        "Node.js",
-        "vite"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Ahmed Tariq"
     }
   ],
   "Database": [
@@ -2782,7 +2691,7 @@
       "title": "Null values from Salesforce overwriting data in PostgreSQL",
       "url": "https://stackoverflow.com/questions/80013497/null-values-from-salesforce-overwriting-data-in-postgresql",
       "published_at": "2026-10-29T20:03:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "postgresql",
@@ -2792,6 +2701,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DataSyncPRO"
+    },
+    {
+      "title": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
+      "url": "https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/",
+      "published_at": "2026-10-29T20:48:09.000Z",
+      "description": "The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface. We",
+      "tags": [
+        "mcp",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "How to Build a Simple Data Analyzer in Python with Pandas",
@@ -2808,19 +2730,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Eva J Patel"
-    },
-    {
-      "title": "Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval",
-      "url": "https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/",
-      "published_at": "2026-10-21T11:42:44.000Z",
-      "description": "Most application search setups force a trade-off: settle for simple text filters, or manage a separate search cluster like Elasticsearch with complex synchronization pipelines. In a new video course o",
-      "tags": [
-        "PostgreSQL",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "Security": [
@@ -3000,47 +2909,59 @@
       "user": "icefox"
     },
     {
-      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "published_at": "2026-10-28T18:01:26.314-05:00",
+      "title": "C2PA's eMudhra Moment",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html",
+      "published_at": "2026-10-29T15:33:44.663-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "linux",
+        "cryptography",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "durrendal"
+      "user": "retr0id"
     },
     {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "published_at": "2026-10-29T19:56:19.000Z",
-      "description": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "published_at": "2026-10-29T22:27:23.000Z",
+      "description": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
       "tags": [
-        "AI",
-        "Venture",
-        "ADT",
-        "In Brief",
-        "M&A"
+        "Security",
+        "Crypto",
+        "Binance",
+        "breach",
+        "crypto"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Julie Bort"
+      "user": "Zack Whittaker"
     },
     {
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "published_at": "2026-10-29T17:00:00.000Z",
-      "description": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
+      "url": "https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/",
+      "published_at": "2026-10-29T21:00:09.000Z",
+      "description": "Understanding how malicious actors infiltrate networks is the first step to building resilient infrastructure. To help developers and aspiring security analysts learn the fundamentals of offensive sec",
       "tags": [
-        "AI",
-        "cyber",
-        "mistral"
+        "penetration testing",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
+    },
+    {
+      "title": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
+      "url": "https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/",
+      "published_at": "2026-10-29T20:48:09.000Z",
+      "description": "The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface. We",
+      "tags": [
+        "mcp",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -3057,19 +2978,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Roland Mweze"
-    },
-    {
-      "title": "Learn Model Context Protocol (MCP) Security",
-      "url": "https://www.freecodecamp.org/news/learn-model-context-protocol-mcp-security/",
-      "published_at": "2026-10-23T01:49:44.000Z",
-      "description": "MCP bridges the gap between your AI agents and your external tools, allowing them to send Discord messages, read your emails, and interact with your environment. But this massive leap in capability co",
-      "tags": [
-        "mcp",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "Tools": [
@@ -3226,7 +3134,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 874,
+      "stars": 876,
       "user": "ZiChuanLan"
     },
     {
@@ -3241,7 +3149,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 524,
+      "stars": 528,
       "user": "misshexa66"
     },
     {
@@ -3256,7 +3164,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/321940728?v=4",
       "source": "GitHub",
-      "stars": 404,
+      "stars": 411,
       "user": "mochiiwuff"
     },
     {
@@ -3271,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 392,
       "user": "haydenschmitty"
     },
     {
@@ -3286,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272715639?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 368,
       "user": "Jestions-dev"
     },
     {
@@ -3301,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4705,
+      "stars": 4732,
       "user": "rddmwmddr"
     },
     {
@@ -3316,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3512,
+      "stars": 3612,
       "user": "interplains"
     },
     {
@@ -3331,23 +3239,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2375,
+      "stars": 2394,
       "user": "t3dotgg"
-    },
-    {
-      "title": "morganlinton/BeautifulRust - Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "url": "https://github.com/morganlinton/BeautifulRust",
-      "published_at": "2026-10-23T03:01:11Z",
-      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41390763?v=4",
-      "source": "GitHub",
-      "stars": 1410,
-      "user": "morganlinton"
     },
     {
       "title": "DenisSergeevitch/ex-ussr-kinship-research - Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
@@ -3361,8 +3254,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1251,
+      "stars": 1266,
       "user": "DenisSergeevitch"
+    },
+    {
+      "title": "Motionsites-AI/claude-skill - Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "url": "https://github.com/Motionsites-AI/claude-skill",
+      "published_at": "2026-10-26T06:58:45Z",
+      "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
+      "source": "GitHub",
+      "stars": 1088,
+      "user": "Motionsites-AI"
     },
     {
       "title": "DrWhax/unfairplay - Decrypt IPA's on MacOS",
@@ -3376,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 772,
       "user": "DrWhax"
     },
     {
@@ -3391,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 349,
+      "stars": 355,
       "user": "egoist"
     },
     {
@@ -3406,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 211,
+      "stars": 213,
       "user": "tractordev"
     },
     {
@@ -3425,19 +3333,19 @@
       "user": "smhanov"
     },
     {
-      "title": "Shaitrish/37studio - Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
-      "url": "https://github.com/Shaitrish/37studio",
-      "published_at": "2026-10-23T00:26:52Z",
-      "description": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.",
+      "title": "missuo/unfairplay-bot - Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
+      "url": "https://github.com/missuo/unfairplay-bot",
+      "published_at": "2026-10-28T12:17:29Z",
+      "description": "Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/174145742?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/55200481?v=4",
       "source": "GitHub",
-      "stars": 112,
-      "user": "Shaitrish"
+      "stars": 103,
+      "user": "missuo"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
@@ -3451,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3218,
+      "stars": 3230,
       "user": "designfuchen"
     },
     {
@@ -3466,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1456,
+      "stars": 1464,
       "user": "andyhuo520"
     },
     {
@@ -3481,23 +3389,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 801,
+      "stars": 804,
       "user": "kargulstudio"
     },
     {
-      "title": "surendrapandar/minilytics - Opensource Revenue-first analytics for indie hackers & solo founders ",
-      "url": "https://github.com/surendrapandar/minilytics",
-      "published_at": "2026-10-23T19:27:24Z",
-      "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
+      "title": "qybaihe/bla - 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "url": "https://github.com/qybaihe/bla",
+      "published_at": "2026-10-25T05:25:45Z",
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/71205618?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 774,
-      "user": "surendrapandar"
+      "stars": 768,
+      "user": "qybaihe"
     },
     {
       "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
@@ -3511,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 723,
+      "stars": 725,
       "user": "yaojingang"
     },
     {
@@ -3526,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 766,
+      "stars": 765,
       "user": "mizorewww"
     },
     {
@@ -3541,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 499,
+      "stars": 509,
       "user": "zeabur-oss"
     },
     {
@@ -3556,8 +3464,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 341,
+      "stars": 344,
       "user": "heydeer"
+    },
+    {
+      "title": "yjid/kensaku - Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
+      "url": "https://github.com/yjid/kensaku",
+      "published_at": "2026-10-24T21:00:26Z",
+      "description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/178333324?v=4",
+      "source": "GitHub",
+      "stars": 220,
+      "user": "yjid"
     },
     {
       "title": "hffgzktbcc-blip/ounce-core - Clean-room systems research runtime and architecture compatibility layer for NVIDIA Tegra T239 (Horizon OS FW 23.0.1 ABI)",
@@ -3575,21 +3498,6 @@
       "user": "hffgzktbcc-blip"
     },
     {
-      "title": "yjid/kensaku - Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
-      "url": "https://github.com/yjid/kensaku",
-      "published_at": "2026-10-24T21:00:26Z",
-      "description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/178333324?v=4",
-      "source": "GitHub",
-      "stars": 205,
-      "user": "yjid"
-    },
-    {
       "title": "Apple's git still trusts the compromised eMudhra certificates",
       "url": "https://emudhra.we-have-a-problem.com/apple.html",
       "published_at": "2026-10-28T06:03:56.591-05:00",
@@ -3603,17 +3511,30 @@
       "user": "galadran"
     },
     {
-      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "published_at": "2026-10-28T18:01:26.314-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
+      "url": "https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/",
+      "published_at": "2026-10-29T21:00:09.000Z",
+      "description": "Understanding how malicious actors infiltrate networks is the first step to building resilient infrastructure. To help developers and aspiring security analysts learn the fundamentals of offensive sec",
       "tags": [
-        "linux",
-        "security"
+        "penetration testing",
+        "youtube"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "durrendal"
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
+    },
+    {
+      "title": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
+      "url": "https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/",
+      "published_at": "2026-10-29T20:48:09.000Z",
+      "description": "The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface. We",
+      "tags": [
+        "mcp",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
@@ -3630,19 +3551,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Eva J Patel"
-    },
-    {
-      "title": "Learn Model Context Protocol (MCP) Security",
-      "url": "https://www.freecodecamp.org/news/learn-model-context-protocol-mcp-security/",
-      "published_at": "2026-10-23T01:49:44.000Z",
-      "description": "MCP bridges the gap between your AI agents and your external tools, allowing them to send Discord messages, read your emails, and interact with your environment. But this massive leap in capability co",
-      "tags": [
-        "mcp",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ]
 }
