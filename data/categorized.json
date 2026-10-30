@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
+      "url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740",
+      "published_at": "2026-10-29T20:32:53Z",
+      "description": "Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson fails in open-world software, and how we compile mid-flight collisions into 4-Vector Synthetic Scars and a Six-Pillar Critic.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiky1u2td754x8dzoee8p.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
+      "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
+      "published_at": "2026-10-30T05:35:56Z",
+      "description": "When a production Kubernetes cluster starts throwing 5xx errors , the hardest part of incident...",
+      "tags": [
+        "sre",
+        "kubernetes",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7epj18utz7xdyl1fo4rb.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "Welcome to the Prompt Pad: AI Tips & Tricks with Rosendo Pili",
       "url": "https://blog.mlh.com/welcome-to-the-prompt-pad-ai-tips-tricks-with-rosendo-pili-2hkl",
       "published_at": "2026-10-29T19:07:55Z",
@@ -104,21 +134,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
       "source": "Dev.to",
       "user": "Carla Urrea Stabile"
-    },
-    {
-      "title": "Beyond Passive AI Rewrites and Vibe Coding in Google Docs",
-      "url": "https://dev.to/gde/beyond-passive-ai-rewrites-and-vibe-coding-in-google-docs-3db6",
-      "published_at": "2026-10-27T05:37:22Z",
-      "description": "Scaling a Multimodal AI Writing and Code Review Coach Across Classrooms and Research Labs...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleappsscript",
-        "googleworkspace"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa9fv4elps0bi1tfopqc2.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
@@ -346,6 +361,21 @@
       "user": "xbill"
     },
     {
+      "title": "Beyond Passive AI Rewrites and Vibe Coding in Google Docs",
+      "url": "https://dev.to/gde/beyond-passive-ai-rewrites-and-vibe-coding-in-google-docs-3db6",
+      "published_at": "2026-10-27T05:37:22Z",
+      "description": "Scaling a Multimodal AI Writing and Code Review Coach Across Classrooms and Research Labs...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleappsscript",
+        "googleworkspace"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa9fv4elps0bi1tfopqc2.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
       "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
       "published_at": "2026-10-20T04:34:20Z",
@@ -421,21 +451,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Congrats to the Sanity Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-sanity-challenge-winners-1140",
-      "published_at": "2026-10-22T15:53:41Z",
-      "description": "We are thrilled to announce the winners of the Sanity Challenge, our partnership with Sanity built...",
-      "tags": [
-        "devchallenge",
-        "sanitychallenge",
-        "sanity",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fai84dn5sg47787tv3qsi.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Frontier AI models outperform human experts on earnings prediction for the first time",
       "url": "https://dev.to/dailycontext/frontier-ai-models-outperform-human-experts-on-earnings-prediction-for-the-first-time-3fhb",
       "published_at": "2026-10-12T21:02:54Z",
@@ -508,66 +523,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ctujqzcft2psrp35d48.png",
       "source": "Dev.to",
       "user": "Rachael Berkey"
-    },
-    {
-      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
-      "published_at": "2026-10-16T17:40:16Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "opportunities",
-        "resources"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fle5lxtrblynphqs20c45.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "OpenGameBuilder: Describe a game in one sentence and generate it using a local LLM like Gemma 4.",
-      "url": "https://dev.to/blaiselabs/opengamebuilder-describe-a-game-in-one-sentence-and-generate-it-using-a-local-llm-like-gemma-4-215m",
-      "published_at": "2026-10-19T07:01:01Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle    Every...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "gemma",
-        "sentry"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblaiselabs.github.io%2FOpenGameBuilder%2Farticle%2Fhero_cherry_town.png",
-      "source": "Dev.to",
-      "user": "Blaise Labs"
-    },
-    {
-      "title": "The Model Is the Easy Part",
-      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
-      "published_at": "2026-10-14T12:04:00Z",
-      "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
-      "tags": [
-        "ai",
-        "llm",
-        "opensource",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png",
-      "source": "Dev.to",
-      "user": "Steven Latre"
-    },
-    {
-      "title": "Building a cross-platform Flutter festival assistant with llamadart",
-      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
-      "published_at": "2026-10-20T13:00:00Z",
-      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
-      "tags": [
-        "flutter",
-        "tutorial",
-        "ai",
-        "dart"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -738,6 +693,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "url": "https://github.com/heydamir/unslop",
+      "published_at": "2026-10-29T15:41:21Z",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
+      "source": "GitHub",
+      "stars": 800,
+      "user": "heydamir"
+    },
+    {
       "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
       "url": "https://github.com/jacke-pp/open-yoki",
       "published_at": "2026-10-28T08:58:27Z",
@@ -749,23 +719,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 466,
       "user": "jacke-pp"
-    },
-    {
-      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "url": "https://github.com/haydenschmitty/floorplan",
-      "published_at": "2026-10-27T12:03:01Z",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
-      "source": "GitHub",
-      "stars": 433,
-      "user": "haydenschmitty"
     },
     {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
@@ -779,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4975,
+      "stars": 5035,
       "user": "rddmwmddr"
     },
     {
@@ -794,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3760,
+      "stars": 3821,
       "user": "interplains"
     },
     {
@@ -809,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1292,
+      "stars": 1310,
       "user": "DenisSergeevitch"
     },
     {
@@ -824,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1124,
+      "stars": 1152,
       "user": "Motionsites-AI"
     },
     {
@@ -839,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 1113,
       "user": "paipiange"
     },
     {
@@ -854,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 802,
       "user": "DrWhax"
     },
     {
@@ -869,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1537,
+      "stars": 1547,
       "user": "andyhuo520"
     },
     {
@@ -884,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1329,
       "user": "qybaihe"
     },
     {
@@ -899,8 +854,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 758,
       "user": "yaojingang"
+    },
+    {
+      "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
+      "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
+      "published_at": "2026-10-30T15:34:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "newuser"
     },
     {
       "title": "Starting a Netbox Plugin with Template Extension fails with ModuleNotFoundError",
@@ -916,13 +885,14 @@
       "user": "Rainer"
     },
     {
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "published_at": "2026-10-30T13:00:00.000Z",
-      "description": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "title": "Satlyt takes another step toward turning satellites into space data centers",
+      "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+      "published_at": "2026-10-30T18:01:24.000Z",
+      "description": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites,  into virtual data centers.",
       "tags": [
-        "AI",
+        "Space",
         "Startups",
+        "AI",
         "data centers"
       ],
       "cover_image": null,
@@ -930,63 +900,111 @@
       "user": "Dominic-Madori Davis"
     },
     {
-      "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "published_at": "2026-10-30T01:20:48.000Z",
-      "description": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "tags": [
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "Andy Jassy says Prime Video is on track to earn &#8216;tens of billions of dollars&#8217;",
-      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-      "published_at": "2026-10-29T23:44:56.000Z",
-      "description": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Amazon",
-        "Andy Jassy",
-        "prime video"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "published_at": "2026-10-29T23:42:22.000Z",
-      "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "title": "Zest&#8217;s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "published_at": "2026-10-30T17:47:12.000Z",
+      "description": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
       "tags": [
         "AI",
-        "Enterprise",
-        "Amazon",
-        "AWS"
+        "Startups",
+        "AI agents",
+        "dining",
+        "zest"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "user": "Sarah Perez"
     },
     {
-      "title": "Elon Musk is &#8216;truly a genius,&#8217; says Vladimir Putin",
-      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
-      "published_at": "2026-10-29T21:51:29.000Z",
-      "description": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
+      "title": "Google&#8217;s first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "published_at": "2026-10-30T17:00:00.000Z",
+      "description": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
       "tags": [
-        "Government & Policy",
-        "Elon Musk",
-        "In Brief",
-        "Starlink",
-        "Ukraine war"
+        "AI",
+        "Space",
+        "Exclusive",
+        "Google",
+        "space data centers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim Fernholz"
+    },
+    {
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people&#8217;",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "published_at": "2026-10-30T16:03:45.000Z",
+      "description": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "tags": [
+        "AI",
+        "elizabeth holmes",
+        "Theranos"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
+    },
+    {
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "published_at": "2026-10-30T14:00:00.000Z",
+      "description": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, ",
+      "tags": [
+        "TC",
+        "Startups",
+        "Crypto",
+        "Climate",
+        "Fintech"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "TechCrunch Events"
+    },
+    {
+      "title": "DoorDash said it&#8217;s only received &#8216;several hundred&#8217; orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "published_at": "2026-10-30T13:54:25.000Z",
+      "description": "DoorDash said that it is open to working with third-party agent makers.",
+      "tags": [
+        "AI",
+        "Commerce",
+        "AI agents",
+        "DoorDash",
+        "muse"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "published_at": "2026-10-30T13:00:00.000Z",
+      "description": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "tags": [
+        "AI",
+        "Startups",
+        "data centers",
+        "Runware"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
+      "url": "https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/",
+      "published_at": "2026-10-30T13:57:52.000Z",
+      "description": "Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet",
+      "tags": [
+        "knowledge graph",
+        "finance",
+        "graph database"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Kamal Kishore"
     },
     {
       "title": "How AI-Powered Search Works: A Guide for Devs on AI Visibility",
@@ -1045,22 +1063,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Roland Mweze"
-    },
-    {
-      "title": "How to Build a Simple Data Analyzer in Python with Pandas",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/",
-      "published_at": "2026-10-26T21:56:52.000Z",
-      "description": "Data analysis might sound complicated when you first encounter it. You might imagine large databases, advanced mathematics, and complicated machine learning algorithms. But many useful data analysis t",
-      "tags": [
-        "Python",
-        "pandas",
-        "data analysis",
-        "Data Science",
-        "Beginner Developers"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Eva J Patel"
     }
   ],
   "JavaScript": [
@@ -1226,23 +1228,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 913,
       "user": "ZiChuanLan"
     },
     {
-      "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-      "url": "https://github.com/misshexa66/OunceCake",
-      "published_at": "2026-10-25T14:12:41Z",
-      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "url": "https://github.com/heydamir/unslop",
+      "published_at": "2026-10-29T15:41:21Z",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 535,
-      "user": "misshexa66"
+      "stars": 800,
+      "user": "heydamir"
     },
     {
       "title": "HRuiCcc/RuiC-PoseAtlas - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
@@ -1256,8 +1258,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 598,
       "user": "HRuiCcc"
+    },
+    {
+      "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+      "url": "https://github.com/misshexa66/OunceCake",
+      "published_at": "2026-10-25T14:12:41Z",
+      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
+      "source": "GitHub",
+      "stars": 537,
+      "user": "misshexa66"
     },
     {
       "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
@@ -1271,23 +1288,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 466,
       "user": "jacke-pp"
-    },
-    {
-      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "url": "https://github.com/haydenschmitty/floorplan",
-      "published_at": "2026-10-27T12:03:01Z",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
-      "source": "GitHub",
-      "stars": 433,
-      "user": "haydenschmitty"
     },
     {
       "title": "beilunyang/openhongguo - 红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
@@ -1301,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 148,
       "user": "beilunyang"
     },
     {
@@ -1316,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3323,
+      "stars": 3351,
       "user": "designfuchen"
     },
     {
@@ -1331,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1537,
+      "stars": 1547,
       "user": "andyhuo520"
     },
     {
@@ -1346,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1329,
       "user": "qybaihe"
     },
     {
@@ -1361,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 825,
       "user": "kargulstudio"
     },
     {
@@ -1376,8 +1378,34 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 758,
       "user": "yaojingang"
+    },
+    {
+      "title": "No, npm, “estee” is not a typo of “testem”",
+      "url": "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
+      "published_at": "2026-10-30T10:01:56.550-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "smoores"
+    },
+    {
+      "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
+      "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
+      "published_at": "2026-10-30T15:34:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "newuser"
     },
     {
       "title": "Function bubble wrapped in propagation",
@@ -1420,6 +1448,19 @@
       "user": "David Brierton"
     },
     {
+      "title": "How to close mobile menu after clicking a link",
+      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
+      "published_at": "2026-10-28T16:52:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "responsive-design"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kismet-"
+    },
+    {
       "title": "Product links don't respond to the first tap on Android after swiping",
       "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
       "published_at": "2026-10-28T09:49:31.000Z",
@@ -1432,19 +1473,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user9440558"
-    },
-    {
-      "title": "How to close mobile menu after clicking a link",
-      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
-      "published_at": "2026-10-28T16:52:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "responsive-design"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kismet-"
     },
     {
       "title": "Next.js 15 memory usage keeps increasing when polling a live darts API every second",
@@ -1475,22 +1503,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Adrian Ma&#241;as"
-    },
-    {
-      "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
-      "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
-      "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 11",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "unicode",
-        "fonts"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "George Joseph"
     },
     {
       "title": "Reddit devvit stops without any error while fetching comments. What is happening and how would I circumvent this?",
@@ -1685,7 +1697,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4975,
+      "stars": 5035,
       "user": "rddmwmddr"
     },
     {
@@ -1700,7 +1712,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3760,
+      "stars": 3821,
       "user": "interplains"
     },
     {
@@ -1715,7 +1727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2438,
+      "stars": 2454,
       "user": "t3dotgg"
     },
     {
@@ -1730,7 +1742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1292,
+      "stars": 1310,
       "user": "DenisSergeevitch"
     },
     {
@@ -1745,7 +1757,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1124,
+      "stars": 1152,
       "user": "Motionsites-AI"
     },
     {
@@ -1760,8 +1772,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1329,
       "user": "qybaihe"
+    },
+    {
+      "title": "How do I implement different modified objects by using classes?",
+      "url": "https://stackoverflow.com/questions/80013673/how-do-i-implement-different-modified-objects-by-using-classes",
+      "published_at": "2026-10-30T16:28:01.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "corv1224"
+    },
+    {
+      "title": "How to iterate a dictionary which has custom objects defined by a class for keys?",
+      "url": "https://stackoverflow.com/questions/80013648/how-to-iterate-a-dictionary-which-has-custom-objects-defined-by-a-class-for-keys",
+      "published_at": "2026-10-30T14:35:02.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "dictionary",
+        "class"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Feli-tech"
     },
     {
       "title": "Write Prim's algorithm in Python",
@@ -1780,7 +1819,7 @@
       "title": "Netbox Plugin with Template Extension does not take account of PluginTemplateExtension.models",
       "url": "https://stackoverflow.com/questions/80013585/netbox-plugin-with-template-extension-does-not-take-account-of-plugintemplateext",
       "published_at": "2026-10-30T08:21:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 3",
       "tags": [
         "python",
         "netbox"
@@ -1846,34 +1885,6 @@
       "user": "Ali Kinaan"
     },
     {
-      "title": "Starting a Netbox Plugin with Template Extension fails with ModuleNotFoundError",
-      "url": "https://stackoverflow.com/questions/80013401/starting-a-netbox-plugin-with-template-extension-fails-with-modulenotfounderror",
-      "published_at": "2026-10-29T13:52:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "netbox"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rainer"
-    },
-    {
-      "title": "How do I properly make a flashing message in Pyglet?",
-      "url": "https://stackoverflow.com/questions/80013265/how-do-i-properly-make-a-flashing-message-in-pyglet",
-      "published_at": "2026-10-29T01:20:21.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "loops",
-        "time",
-        "pyglet"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33244385"
-    },
-    {
       "title": "Why is Pyright saying I have already declared this enum member?",
       "url": "https://stackoverflow.com/questions/80013112/why-is-pyright-saying-i-have-already-declared-this-enum-member",
       "published_at": "2026-10-28T13:59:41.000Z",
@@ -1888,19 +1899,17 @@
       "user": "JadenV15"
     },
     {
-      "title": "Why does VS Code insert incorrect indentation in Jupyter Notebook cells?",
-      "url": "https://stackoverflow.com/questions/80013304/why-does-vs-code-insert-incorrect-indentation-in-jupyter-notebook-cells",
-      "published_at": "2026-10-29T08:18:54.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "Starting a Netbox Plugin with Template Extension fails with ModuleNotFoundError",
+      "url": "https://stackoverflow.com/questions/80013401/starting-a-netbox-plugin-with-template-extension-fails-with-modulenotfounderror",
+      "published_at": "2026-10-29T13:52:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
-        "vs-code",
-        "jupyter-notebook",
-        "jupyter"
+        "netbox"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "dacian"
+      "user": "Rainer"
     },
     {
       "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
@@ -1932,25 +1941,39 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Sameer Qaiser"
-    },
-    {
-      "title": "How to Build a Simple Data Analyzer in Python with Pandas",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/",
-      "published_at": "2026-10-26T21:56:52.000Z",
-      "description": "Data analysis might sound complicated when you first encounter it. You might imagine large databases, advanced mathematics, and complicated machine learning algorithms. But many useful data analysis t",
-      "tags": [
-        "Python",
-        "pandas",
-        "data analysis",
-        "Data Science",
-        "Beginner Developers"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Eva J Patel"
     }
   ],
   "DevOps": [
+    {
+      "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
+      "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
+      "published_at": "2026-10-30T05:35:56Z",
+      "description": "When a production Kubernetes cluster starts throwing 5xx errors , the hardest part of incident...",
+      "tags": [
+        "sre",
+        "kubernetes",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7epj18utz7xdyl1fo4rb.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Zero Trust CI/CD: Keyless Bitbucket Deployment on Google Cloud",
+      "url": "https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1",
+      "published_at": "2026-10-29T20:41:19Z",
+      "description": "Using static Service Account (SA) keys in CI/CD pipelines has long been a common method for...",
+      "tags": [
+        "devops",
+        "cicd",
+        "security",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsb3mwitsukou1aehtfah.png",
+      "source": "Dev.to",
+      "user": "Azidin Shairi"
+    },
     {
       "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
       "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa",
@@ -2143,7 +2166,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 567,
       "user": "zeabur-oss"
     }
   ],
@@ -2176,20 +2199,18 @@
       "user": "velmu"
     },
     {
-      "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
-      "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
-      "published_at": "2026-10-23T18:50:36.000Z",
-      "description": "Stack Overflow question · 3 answers · score 11",
+      "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
+      "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
+      "published_at": "2026-10-30T15:34:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "html",
-        "css",
-        "unicode",
-        "fonts"
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "George Joseph"
+      "user": "newuser"
     }
   ],
   "Mobile": [
@@ -2269,21 +2290,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Building a cross-platform Flutter festival assistant with llamadart",
-      "url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
-      "published_at": "2026-10-20T13:00:00Z",
-      "description": "Beyond chat with llamadart · Part 5  Rain starts falling over the village. Dash asks Mo, “Where are...",
-      "tags": [
-        "flutter",
-        "tutorial",
-        "ai",
-        "dart"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
-      "source": "Dev.to",
-      "user": "Jhin Lee"
-    },
-    {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "published_at": "2026-10-24T05:35:47Z",
@@ -2295,7 +2301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4975,
+      "stars": 5035,
       "user": "rddmwmddr"
     },
     {
@@ -2310,7 +2316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3760,
+      "stars": 3821,
       "user": "interplains"
     },
     {
@@ -2325,21 +2331,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 148,
       "user": "beilunyang"
     },
     {
-      "title": "Shared password manager for families?",
-      "url": "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
-      "published_at": "2026-10-29T09:39:51.453-05:00",
-      "description": "Long story short, I need to have a bunch of shared accounts with family for finance and insurance and stuff, mostly for the sake of family members who are getting old and need help keeping things organized.  So the requirements are:\r\n\r\n* Shared over long distances; just having each of us have our own password manager won't work well\r\n* Usable for non-techie people, so no command line stuff\r\n* I can self-host a web thing if necessary\r\n* Works on Linux and MacOS/iOS\r\n\r\nI *would* just use 1Password, but recent events have demonstrated them as not exactly competent.  I could always use KeepassXC and keep the file in a Google Drive folder, or maybe teach my siblings to use Syncthing, but that feels like extra steps we could do without.  Anyone have any recommendations for how to do this well?",
+      "title": "How to close mobile menu after clicking a link",
+      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
+      "published_at": "2026-10-28T16:52:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "ask",
-        "security"
+        "javascript",
+        "responsive-design"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "icefox"
+      "source": "StackOverflow",
+      "user": "Kismet-"
     },
     {
       "title": "Product links don't respond to the first tap on Android after swiping",
@@ -2354,22 +2360,24 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user9440558"
-    },
-    {
-      "title": "How to close mobile menu after clicking a link",
-      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
-      "published_at": "2026-10-28T16:52:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "responsive-design"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kismet-"
     }
   ],
   "Cloud": [
+    {
+      "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
+      "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
+      "published_at": "2026-10-30T05:35:56Z",
+      "description": "When a production Kubernetes cluster starts throwing 5xx errors , the hardest part of incident...",
+      "tags": [
+        "sre",
+        "kubernetes",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7epj18utz7xdyl1fo4rb.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
     {
       "title": "Size Your Model to Where You Run It: Gemma 4 E2B and E4B on an AWS L4 and Two Small GPUs",
       "url": "https://dev.to/gde/size-your-model-to-where-you-run-it-gemma-4-e2b-and-e4b-on-an-aws-l4-and-two-small-gpus-1d47",
@@ -2384,6 +2392,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsize-your-model%2Fdevto-cover.3f5286be.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Zero Trust CI/CD: Keyless Bitbucket Deployment on Google Cloud",
+      "url": "https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1",
+      "published_at": "2026-10-29T20:41:19Z",
+      "description": "Using static Service Account (SA) keys in CI/CD pipelines has long been a common method for...",
+      "tags": [
+        "devops",
+        "cicd",
+        "security",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsb3mwitsukou1aehtfah.png",
+      "source": "Dev.to",
+      "user": "Azidin Shairi"
     },
     {
       "title": "Performance vs Quality: Gemma 4 E2B Quantization on an NVIDIA L4 and a Tesla T4",
@@ -2577,52 +2600,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 434,
       "user": "egoist"
-    },
-    {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "published_at": "2026-10-29T23:42:22.000Z",
-      "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Amazon",
-        "AWS"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-      "published_at": "2026-10-29T21:20:47.000Z",
-      "description": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
-      "tags": [
-        "Enterprise",
-        "Amazon",
-        "AWS"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "GM reaches $220M settlement over selling drivers&#8217; private data",
-      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-      "published_at": "2026-10-29T21:01:04.000Z",
-      "description": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
-      "tags": [
-        "Transportation",
-        "General Motors",
-        "lawsuit",
-        "onstar"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Kirsten Korosec"
     },
     {
       "title": "Cloud Service Models Explained: IaaS vs PaaS vs SaaS",
@@ -2697,6 +2676,20 @@
       "user": "DataSyncPRO"
     },
     {
+      "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
+      "url": "https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/",
+      "published_at": "2026-10-30T13:57:52.000Z",
+      "description": "Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet",
+      "tags": [
+        "knowledge graph",
+        "finance",
+        "graph database"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Kamal Kishore"
+    },
+    {
       "title": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
       "url": "https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/",
       "published_at": "2026-10-29T20:48:09.000Z",
@@ -2708,25 +2701,24 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Build a Simple Data Analyzer in Python with Pandas",
-      "url": "https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/",
-      "published_at": "2026-10-26T21:56:52.000Z",
-      "description": "Data analysis might sound complicated when you first encounter it. You might imagine large databases, advanced mathematics, and complicated machine learning algorithms. But many useful data analysis t",
-      "tags": [
-        "Python",
-        "pandas",
-        "data analysis",
-        "Data Science",
-        "Beginner Developers"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Eva J Patel"
     }
   ],
   "Security": [
+    {
+      "title": "Zero Trust CI/CD: Keyless Bitbucket Deployment on Google Cloud",
+      "url": "https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1",
+      "published_at": "2026-10-29T20:41:19Z",
+      "description": "Using static Service Account (SA) keys in CI/CD pipelines has long been a common method for...",
+      "tags": [
+        "devops",
+        "cicd",
+        "security",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsb3mwitsukou1aehtfah.png",
+      "source": "Dev.to",
+      "user": "Azidin Shairi"
+    },
     {
       "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
       "url": "https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66",
@@ -2902,42 +2894,29 @@
       "user": "dsr"
     },
     {
-      "title": "C2PA's eMudhra Moment",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html",
-      "published_at": "2026-10-29T15:33:44.663-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Update on AO3 Downtime, October 30, 2026",
+      "url": "https://www.transformativeworks.org/update-on-ao3-downtime-october-30-2026/",
+      "published_at": "2026-10-30T08:54:17.523-05:00",
+      "description": "The Archive of our Own aka AO3, a huge, non-profit, volunteer-run fanfic archive with over 11 million registered users, discovered a security incident yesterday and took the site down. They expect the site to be down at least two weeks.",
       "tags": [
-        "cryptography",
+        "privacy",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "retr0id"
+      "user": "horrorcheck"
     },
     {
-      "title": "Shared password manager for families?",
-      "url": "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
-      "published_at": "2026-10-29T09:39:51.453-05:00",
-      "description": "Long story short, I need to have a bunch of shared accounts with family for finance and insurance and stuff, mostly for the sake of family members who are getting old and need help keeping things organized.  So the requirements are:\r\n\r\n* Shared over long distances; just having each of us have our own password manager won't work well\r\n* Usable for non-techie people, so no command line stuff\r\n* I can self-host a web thing if necessary\r\n* Works on Linux and MacOS/iOS\r\n\r\nI *would* just use 1Password, but recent events have demonstrated them as not exactly competent.  I could always use KeepassXC and keep the file in a Google Drive folder, or maybe teach my siblings to use Syncthing, but that feels like extra steps we could do without.  Anyone have any recommendations for how to do this well?",
-      "tags": [
-        "ask",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "icefox"
-    },
-    {
-      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-      "published_at": "2026-10-29T22:27:23.000Z",
-      "description": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+      "published_at": "2026-10-30T14:00:25.000Z",
+      "description": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
       "tags": [
         "Crypto",
         "Security",
         "Binance",
-        "cyberattack",
-        "tether"
+        "crypto",
+        "cyberattack"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3140,23 +3119,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 913,
       "user": "ZiChuanLan"
     },
     {
-      "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-      "url": "https://github.com/misshexa66/OunceCake",
-      "published_at": "2026-10-25T14:12:41Z",
-      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "url": "https://github.com/heydamir/unslop",
+      "published_at": "2026-10-29T15:41:21Z",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 535,
-      "user": "misshexa66"
+      "stars": 800,
+      "user": "heydamir"
     },
     {
       "title": "HRuiCcc/RuiC-PoseAtlas - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
@@ -3170,8 +3149,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 531,
+      "stars": 598,
       "user": "HRuiCcc"
+    },
+    {
+      "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+      "url": "https://github.com/misshexa66/OunceCake",
+      "published_at": "2026-10-25T14:12:41Z",
+      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
+      "source": "GitHub",
+      "stars": 537,
+      "user": "misshexa66"
     },
     {
       "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
@@ -3185,23 +3179,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
       "source": "GitHub",
-      "stars": 464,
+      "stars": 466,
       "user": "jacke-pp"
-    },
-    {
-      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "url": "https://github.com/haydenschmitty/floorplan",
-      "published_at": "2026-10-27T12:03:01Z",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
-      "source": "GitHub",
-      "stars": 433,
-      "user": "haydenschmitty"
     },
     {
       "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
@@ -3215,7 +3194,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
       "source": "GitHub",
-      "stars": 4975,
+      "stars": 5035,
       "user": "rddmwmddr"
     },
     {
@@ -3230,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3760,
+      "stars": 3821,
       "user": "interplains"
     },
     {
@@ -3245,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
       "source": "GitHub",
-      "stars": 2438,
+      "stars": 2454,
       "user": "t3dotgg"
     },
     {
@@ -3260,7 +3239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1292,
+      "stars": 1310,
       "user": "DenisSergeevitch"
     },
     {
@@ -3275,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1124,
+      "stars": 1152,
       "user": "Motionsites-AI"
     },
     {
@@ -3290,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 1113,
       "user": "paipiange"
     },
     {
@@ -3305,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 797,
+      "stars": 802,
       "user": "DrWhax"
     },
     {
@@ -3320,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 415,
+      "stars": 434,
       "user": "egoist"
     },
     {
@@ -3335,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 221,
       "user": "tractordev"
     },
     {
@@ -3350,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 145,
+      "stars": 148,
       "user": "beilunyang"
     },
     {
@@ -3365,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3323,
+      "stars": 3351,
       "user": "designfuchen"
     },
     {
@@ -3380,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1537,
+      "stars": 1547,
       "user": "andyhuo520"
     },
     {
@@ -3395,7 +3374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1329,
       "user": "qybaihe"
     },
     {
@@ -3410,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 817,
+      "stars": 825,
       "user": "kargulstudio"
     },
     {
@@ -3425,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
       "source": "GitHub",
-      "stars": 755,
+      "stars": 758,
       "user": "yaojingang"
     },
     {
@@ -3440,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 769,
+      "stars": 772,
       "user": "mizorewww"
     },
     {
@@ -3455,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
       "source": "GitHub",
-      "stars": 562,
+      "stars": 567,
       "user": "zeabur-oss"
     },
     {
@@ -3470,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 378,
+      "stars": 384,
       "user": "heydeer"
     },
     {
@@ -3485,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/178333324?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 280,
       "user": "yjid"
     },
     {
@@ -3500,17 +3479,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66570915?v=4",
       "source": "GitHub",
-      "stars": 209,
+      "stars": 213,
       "user": "anomalyco"
     },
     {
-      "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
       "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
       "published_at": "2026-10-30T07:01:00.000Z",
       "description": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
       "tags": [
         "Transportation",
-        "Waymo"
+        "autonomous vehicles",
+        "robotaxis",
+        "Toyota",
+        "toyota bz4x ev"
       ],
       "cover_image": null,
       "source": "TechCrunch",
