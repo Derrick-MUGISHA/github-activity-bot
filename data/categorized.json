@@ -16,21 +16,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
-      "published_at": "2026-10-30T20:35:58Z",
-      "description": "The results are in for Week 3 of our five Hacktoberfest DEV Challenges! For Slow and Steady, we asked...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
       "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
       "published_at": "2026-10-30T05:35:56Z",
@@ -61,6 +46,21 @@
       "user": "MLH Team"
     },
     {
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
+      "published_at": "2026-10-30T20:35:58Z",
+      "description": "The results are in for Week 3 of our five Hacktoberfest DEV Challenges! For Slow and Steady, we asked...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
       "url": "https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66",
       "published_at": "2026-10-29T13:14:48Z",
@@ -74,21 +74,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frb38kxt40ap8gon8h5mi.png",
       "source": "Dev.to",
       "user": "Yong Yu"
-    },
-    {
-      "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
-      "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi",
-      "published_at": "2026-10-29T15:57:07Z",
-      "description": "Week of Oct 23-29: GPT-6.1 Terra, restricted Gemini Carbon access, Kimi K3.1 Pro, Copilot Fusion and GitHub's agentic workflow launches.",
-      "tags": [
-        "aidevweekly",
-        "gpt61terra",
-        "gemini4carbon",
-        "kimik31"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aimadetools.com%2F_astro%2Fai-dev-weekly-032-gpt-61-terra-gemini-carbon-kimi-copilot-fusion.7SXVtojB.png",
-      "source": "Dev.to",
-      "user": "Joske Vermeulen"
     },
     {
       "title": "Performance vs Quality: Gemma 4 E2B Quantization on an NVIDIA L4 and a Tesla T4",
@@ -149,6 +134,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
       "source": "Dev.to",
       "user": "Carla Urrea Stabile"
+    },
+    {
+      "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
+      "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi",
+      "published_at": "2026-10-29T15:57:07Z",
+      "description": "Week of Oct 23-29: GPT-6.1 Terra, restricted Gemini Carbon access, Kimi K3.1 Pro, Copilot Fusion and GitHub's agentic workflow launches.",
+      "tags": [
+        "aidevweekly",
+        "gpt61terra",
+        "gemini4carbon",
+        "kimik31"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aimadetools.com%2F_astro%2Fai-dev-weekly-032-gpt-61-terra-gemini-carbon-kimi-copilot-fusion.7SXVtojB.png",
+      "source": "Dev.to",
+      "user": "Joske Vermeulen"
     },
     {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 1754,
+      "stars": 2669,
       "user": "heydamir"
     },
     {
@@ -734,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 583,
       "user": "jacke-pp"
     },
     {
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3911,
+      "stars": 3958,
       "user": "interplains"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1384,
       "user": "DenisSergeevitch"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1219,
+      "stars": 1240,
       "user": "Motionsites-AI"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1430,
+      "stars": 1569,
       "user": "paipiange"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 820,
       "user": "DrWhax"
     },
     {
@@ -824,23 +824,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 4218,
+      "stars": 4492,
       "user": "anhao"
-    },
-    {
-      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "published_at": "2026-10-26T04:34:09Z",
-      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 1567,
-      "user": "andyhuo520"
     },
     {
       "title": "qybaihe/bla - 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
@@ -854,27 +839,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1530,
+      "stars": 1637,
       "user": "qybaihe"
     },
     {
-      "title": "The support case of a customer who said that all they could see was a black screen",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
-      "published_at": "2026-10-30T20:01:21.760-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "published_at": "2026-10-26T04:34:09Z",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
       "tags": [
-        "historical",
-        "windows"
+        "typescript",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ubernostrum"
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "source": "GitHub",
+      "stars": 1573,
+      "user": "andyhuo520"
     },
     {
       "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
       "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
       "published_at": "2026-10-30T15:34:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -989,19 +976,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Rebecca Bellan"
-    },
-    {
-      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-      "published_at": "2026-10-30T19:55:13.000Z",
-      "description": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
-      "tags": [
-        "Startups",
-        "Legal AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
@@ -1224,7 +1198,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 1754,
+      "stars": 2669,
       "user": "heydamir"
     },
     {
@@ -1239,8 +1213,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 932,
       "user": "ZiChuanLan"
+    },
+    {
+      "title": "patch-gg/pixelfx - 232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "published_at": "2026-10-30T06:43:25Z",
+      "description": "232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
+      "source": "GitHub",
+      "stars": 909,
+      "user": "patch-gg"
     },
     {
       "title": "HRuiCcc/RuiC-PoseAtlas - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
@@ -1254,7 +1243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 803,
       "user": "HRuiCcc"
     },
     {
@@ -1269,23 +1258,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 583,
       "user": "jacke-pp"
-    },
-    {
-      "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-      "url": "https://github.com/misshexa66/OunceCake",
-      "published_at": "2026-10-25T14:12:41Z",
-      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
-      "source": "GitHub",
-      "stars": 545,
-      "user": "misshexa66"
     },
     {
       "title": "beilunyang/openhongguo - 红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
@@ -1299,7 +1273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 168,
       "user": "beilunyang"
     },
     {
@@ -1314,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 4218,
+      "stars": 4492,
       "user": "anhao"
     },
     {
@@ -1329,23 +1303,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3439,
+      "stars": 3501,
       "user": "designfuchen"
-    },
-    {
-      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "published_at": "2026-10-26T04:34:09Z",
-      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 1567,
-      "user": "andyhuo520"
     },
     {
       "title": "qybaihe/bla - 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
@@ -1359,8 +1318,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1530,
+      "stars": 1637,
       "user": "qybaihe"
+    },
+    {
+      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "published_at": "2026-10-26T04:34:09Z",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "source": "GitHub",
+      "stars": 1573,
+      "user": "andyhuo520"
     },
     {
       "title": "kargulstudio/calender-app-design - GitHub Repository",
@@ -1374,20 +1348,34 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 832,
       "user": "kargulstudio"
     },
     {
-      "title": "No, npm, “estee” is not a typo of “testem”",
-      "url": "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
-      "published_at": "2026-10-30T10:01:56.550-05:00",
-      "description": "Lobste.rs Discussion",
+      "title": "How to display the numbers after using API Get question",
+      "url": "https://stackoverflow.com/questions/80013736/how-to-display-the-numbers-after-using-api-get-question",
+      "published_at": "2026-10-30T21:43:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "smoores"
+      "source": "StackOverflow",
+      "user": "What ups"
+    },
+    {
+      "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
+      "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
+      "published_at": "2026-10-30T15:34:45.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "newuser"
     },
     {
       "title": "Dealing with unsupported media type in HTML5 audio element?",
@@ -1403,25 +1391,10 @@
       "user": "Andre M"
     },
     {
-      "title": "How to display the numbers after using API Get question",
-      "url": "https://stackoverflow.com/questions/80013736/how-to-display-the-numbers-after-using-api-get-question",
-      "published_at": "2026-10-30T21:43:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "typescript",
-        "fetch-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "What ups"
-    },
-    {
       "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
       "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
       "published_at": "2026-10-30T23:01:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "cloud",
@@ -1437,7 +1410,7 @@
       "title": "In WebGPU, is it faster to use a single interleaved GPUBuffer for positions, normals, and UVs? Or should I use separate GPUBuffers?",
       "url": "https://stackoverflow.com/questions/80013705/in-webgpu-is-it-faster-to-use-a-single-interleaved-gpubuffer-for-positions-nor",
       "published_at": "2026-10-30T19:16:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "vertex-buffer",
@@ -1446,20 +1419,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user3163495"
-    },
-    {
-      "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
-      "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
-      "published_at": "2026-10-30T15:34:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "newuser"
     },
     {
       "title": "Function bubble wrapped in propagation",
@@ -1502,19 +1461,6 @@
       "user": "DANIELA MARICLER GUITZ PALMA"
     },
     {
-      "title": "How to close mobile menu after clicking a link",
-      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
-      "published_at": "2026-10-28T16:52:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "responsive-design"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kismet-"
-    },
-    {
       "title": "Reddit devvit stops without any error while fetching comments. What is happening and how would I circumvent this?",
       "url": "https://stackoverflow.com/questions/80012182/reddit-devvit-stops-without-any-error-while-fetching-comments-what-is-happening",
       "published_at": "2026-10-24T00:44:23.000Z",
@@ -1527,6 +1473,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Asger &#216;rmen Dalmeijer"
+    },
+    {
+      "title": "Does sinon.restore() also restore all mySandbox.stub()s?",
+      "url": "https://stackoverflow.com/questions/80010151/does-sinon-restore-also-restore-all-mysandbox-stubs",
+      "published_at": "2026-10-15T06:29:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "javascript",
+        "sinon",
+        "stubbing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Florian"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1693,7 +1653,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3911,
+      "stars": 3958,
       "user": "interplains"
     },
     {
@@ -1708,7 +1668,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1384,
       "user": "DenisSergeevitch"
     },
     {
@@ -1723,23 +1683,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1219,
+      "stars": 1240,
       "user": "Motionsites-AI"
-    },
-    {
-      "title": "KillaBoi/StealMyBitcoin-PoC - A public release of the Steal My Bitcoin challenge",
-      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-      "published_at": "2026-10-25T21:48:32Z",
-      "description": "A public release of the Steal My Bitcoin challenge",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46409262?v=4",
-      "source": "GitHub",
-      "stars": 1019,
-      "user": "KillaBoi"
     },
     {
       "title": "deepopen-com/deepopen-3d-webs - Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
@@ -1753,8 +1698,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1131,
       "user": "deepopen-com"
+    },
+    {
+      "title": "KillaBoi/StealMyBitcoin-PoC - A public release of the Steal My Bitcoin challenge",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "published_at": "2026-10-25T21:48:32Z",
+      "description": "A public release of the Steal My Bitcoin challenge",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46409262?v=4",
+      "source": "GitHub",
+      "stars": 1021,
+      "user": "KillaBoi"
     },
     {
       "title": "zklmiao/CodeWar - 网页端 Python 编程对抗游戏：解题速度即战斗力 · A turn-based competitive Python programming game",
@@ -1768,7 +1728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 148,
       "user": "zklmiao"
     },
     {
@@ -1783,8 +1743,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1530,
+      "stars": 1637,
       "user": "qybaihe"
+    },
+    {
+      "title": "Python command not working in a particular project",
+      "url": "https://stackoverflow.com/questions/80013847/python-command-not-working-in-a-particular-project",
+      "published_at": "2026-10-31T14:05:30.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "F Rafael Alvarez"
+    },
+    {
+      "title": "Why does Python return True when comparing two datetime objects with different UTC timestamps?",
+      "url": "https://stackoverflow.com/questions/80013794/why-does-python-return-true-when-comparing-two-datetime-objects-with-different-u",
+      "published_at": "2026-10-31T08:12:30.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "datetime",
+        "timezone"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Below 1000 monthly questions"
     },
     {
       "title": "How to idiomatically map data&#160;(in my case prime numbers) to a reusable class in Python?",
@@ -1800,23 +1787,10 @@
       "user": "gnarol "
     },
     {
-      "title": "Install Python3.15 in brew",
-      "url": "https://stackoverflow.com/questions/80013762/install-python3-15-in-brew",
-      "published_at": "2026-10-31T02:13:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "homebrew"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Huy Khang Nguyễn"
-    },
-    {
-      "title": "Buggy implementation of Knuth's Mastermind algorithm in python",
+      "title": "Buggy implementation of Knuth's Mastermind algorithm in Python",
       "url": "https://stackoverflow.com/questions/80013760/buggy-implementation-of-knuths-mastermind-algorithm-in-python",
       "published_at": "2026-10-31T01:58:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score 5",
+      "description": "Stack Overflow question · 1 answers · score 6",
       "tags": [
         "python",
         "algorithm",
@@ -1828,17 +1802,17 @@
       "user": "YOLOAerospaceIndustries"
     },
     {
-      "title": "Write Prim's algorithm in Python",
-      "url": "https://stackoverflow.com/questions/80013569/write-prims-algorithm-in-python",
-      "published_at": "2026-10-30T06:36:30.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
+      "title": "Install Python3.15 in brew",
+      "url": "https://stackoverflow.com/questions/80013762/install-python3-15-in-brew",
+      "published_at": "2026-10-31T02:13:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python",
-        "prims-algorithm"
+        "homebrew"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "JAc Polloc"
+      "user": "Huy Khang Nguyễn"
     },
     {
       "title": "How do I implement different modified objects by using classes?",
@@ -1852,6 +1826,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "corv1224"
+    },
+    {
+      "title": "Write Prim's algorithm in Python",
+      "url": "https://stackoverflow.com/questions/80013569/write-prims-algorithm-in-python",
+      "published_at": "2026-10-30T06:36:30.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
+      "tags": [
+        "python",
+        "prims-algorithm"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JAc Polloc"
     },
     {
       "title": "How to iterate a dictionary which has custom objects defined by a class for keys?",
@@ -1881,38 +1868,10 @@
       "user": "Rainer"
     },
     {
-      "title": "Why does the randomiser repeatedly print B?",
-      "url": "https://stackoverflow.com/questions/80013523/why-does-the-randomiser-repeatedly-print-b",
-      "published_at": "2026-10-30T01:24:29.000Z",
-      "description": "Stack Overflow question · 2 answers · score -6",
-      "tags": [
-        "python",
-        "random",
-        "pyglet"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33244385"
-    },
-    {
       "title": "Can I make Pyright catch unnecessarily broad type annotations?",
       "url": "https://stackoverflow.com/questions/80013267/can-i-make-pyright-catch-unnecessarily-broad-type-annotations",
       "published_at": "2026-10-29T02:32:28.000Z",
       "description": "Stack Overflow question · 0 answers · score 3",
-      "tags": [
-        "python",
-        "python-typing",
-        "pyright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Why is Pyright saying I have already declared this enum member?",
-      "url": "https://stackoverflow.com/questions/80013112/why-is-pyright-saying-i-have-already-declared-this-enum-member",
-      "published_at": "2026-10-28T13:59:41.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "python",
         "python-typing",
@@ -2195,6 +2154,20 @@
       "user": "velmu"
     },
     {
+      "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
+      "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
+      "published_at": "2026-10-30T15:34:45.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "newuser"
+    },
+    {
       "title": "Dealing with unsupported media type in HTML5 audio element?",
       "url": "https://stackoverflow.com/questions/80013732/dealing-with-unsupported-media-type-in-html5-audio-element",
       "published_at": "2026-10-30T21:19:47.000Z",
@@ -2206,20 +2179,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Andre M"
-    },
-    {
-      "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
-      "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
-      "published_at": "2026-10-30T15:34:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "newuser"
     }
   ],
   "Mobile": [
@@ -2310,7 +2269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3911,
+      "stars": 3958,
       "user": "interplains"
     },
     {
@@ -2325,7 +2284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 168,
       "user": "beilunyang"
     },
     {
@@ -2341,19 +2300,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user9440558"
-    },
-    {
-      "title": "How to close mobile menu after clicking a link",
-      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
-      "published_at": "2026-10-28T16:52:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "responsive-design"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kismet-"
     }
   ],
   "Cloud": [
@@ -2594,7 +2540,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1131,
       "user": "deepopen-com"
     },
     {
@@ -2609,7 +2555,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 469,
       "user": "egoist"
     },
     {
@@ -2624,14 +2570,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26444923?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 369,
       "user": "chris124567"
     },
     {
       "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
       "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
       "published_at": "2026-10-30T23:01:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "cloud",
@@ -2923,18 +2869,6 @@
       "user": "Varcht"
     },
     {
-      "title": "Backdoors in Claude Code for VS, Cursor official extensions",
-      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-      "published_at": "2026-10-30T06:04:55.168-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "dsr"
-    },
-    {
       "title": "Applebee&#8217;s exposed customers&#8217; personal data after leaving database password in app",
       "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
       "published_at": "2026-10-30T21:48:53.000Z",
@@ -3010,21 +2944,6 @@
       "user": "Jem"
     },
     {
-      "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
-      "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi",
-      "published_at": "2026-10-29T15:57:07Z",
-      "description": "Week of Oct 23-29: GPT-6.1 Terra, restricted Gemini Carbon access, Kimi K3.1 Pro, Copilot Fusion and GitHub's agentic workflow launches.",
-      "tags": [
-        "aidevweekly",
-        "gpt61terra",
-        "gemini4carbon",
-        "kimik31"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aimadetools.com%2F_astro%2Fai-dev-weekly-032-gpt-61-terra-gemini-carbon-kimi-copilot-fusion.7SXVtojB.png",
-      "source": "Dev.to",
-      "user": "Joske Vermeulen"
-    },
-    {
       "title": "Your Laptop Might Replace Most of Your AI Bill",
       "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
       "published_at": "2026-10-28T11:58:00Z",
@@ -3038,6 +2957,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
       "source": "Dev.to",
       "user": "Carla Urrea Stabile"
+    },
+    {
+      "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
+      "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi",
+      "published_at": "2026-10-29T15:57:07Z",
+      "description": "Week of Oct 23-29: GPT-6.1 Terra, restricted Gemini Carbon access, Kimi K3.1 Pro, Copilot Fusion and GitHub's agentic workflow launches.",
+      "tags": [
+        "aidevweekly",
+        "gpt61terra",
+        "gemini4carbon",
+        "kimik31"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.aimadetools.com%2F_astro%2Fai-dev-weekly-032-gpt-61-terra-gemini-carbon-kimi-copilot-fusion.7SXVtojB.png",
+      "source": "Dev.to",
+      "user": "Joske Vermeulen"
     },
     {
       "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
@@ -3162,7 +3096,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 1754,
+      "stars": 2669,
       "user": "heydamir"
     },
     {
@@ -3177,8 +3111,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 921,
+      "stars": 932,
       "user": "ZiChuanLan"
+    },
+    {
+      "title": "patch-gg/pixelfx - 232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "published_at": "2026-10-30T06:43:25Z",
+      "description": "232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
+      "source": "GitHub",
+      "stars": 909,
+      "user": "patch-gg"
     },
     {
       "title": "HRuiCcc/RuiC-PoseAtlas - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
@@ -3192,7 +3141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 803,
       "user": "HRuiCcc"
     },
     {
@@ -3207,23 +3156,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
       "source": "GitHub",
-      "stars": 581,
+      "stars": 583,
       "user": "jacke-pp"
-    },
-    {
-      "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-      "url": "https://github.com/misshexa66/OunceCake",
-      "published_at": "2026-10-25T14:12:41Z",
-      "description": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
-      "source": "GitHub",
-      "stars": 545,
-      "user": "misshexa66"
     },
     {
       "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
@@ -3237,7 +3171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3911,
+      "stars": 3958,
       "user": "interplains"
     },
     {
@@ -3252,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1384,
       "user": "DenisSergeevitch"
     },
     {
@@ -3267,23 +3201,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1219,
+      "stars": 1240,
       "user": "Motionsites-AI"
-    },
-    {
-      "title": "KillaBoi/StealMyBitcoin-PoC - A public release of the Steal My Bitcoin challenge",
-      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-      "published_at": "2026-10-25T21:48:32Z",
-      "description": "A public release of the Steal My Bitcoin challenge",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/46409262?v=4",
-      "source": "GitHub",
-      "stars": 1019,
-      "user": "KillaBoi"
     },
     {
       "title": "deepopen-com/deepopen-3d-webs - Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
@@ -3297,8 +3216,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1131,
       "user": "deepopen-com"
+    },
+    {
+      "title": "KillaBoi/StealMyBitcoin-PoC - A public release of the Steal My Bitcoin challenge",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "published_at": "2026-10-25T21:48:32Z",
+      "description": "A public release of the Steal My Bitcoin challenge",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46409262?v=4",
+      "source": "GitHub",
+      "stars": 1021,
+      "user": "KillaBoi"
     },
     {
       "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
@@ -3312,7 +3246,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1430,
+      "stars": 1569,
       "user": "paipiange"
     },
     {
@@ -3327,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 818,
+      "stars": 820,
       "user": "DrWhax"
     },
     {
@@ -3342,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 456,
+      "stars": 469,
       "user": "egoist"
     },
     {
@@ -3357,7 +3291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 159,
+      "stars": 168,
       "user": "beilunyang"
     },
     {
@@ -3372,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
       "source": "GitHub",
-      "stars": 137,
+      "stars": 148,
       "user": "zklmiao"
     },
     {
@@ -3387,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 4218,
+      "stars": 4492,
       "user": "anhao"
     },
     {
@@ -3402,23 +3336,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3439,
+      "stars": 3501,
       "user": "designfuchen"
-    },
-    {
-      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "published_at": "2026-10-26T04:34:09Z",
-      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
-      "source": "GitHub",
-      "stars": 1567,
-      "user": "andyhuo520"
     },
     {
       "title": "qybaihe/bla - 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
@@ -3432,8 +3351,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1530,
+      "stars": 1637,
       "user": "qybaihe"
+    },
+    {
+      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "published_at": "2026-10-26T04:34:09Z",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "source": "GitHub",
+      "stars": 1573,
+      "user": "andyhuo520"
     },
     {
       "title": "kargulstudio/calender-app-design - GitHub Repository",
@@ -3447,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 831,
+      "stars": 832,
       "user": "kargulstudio"
     },
     {
@@ -3462,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 774,
+      "stars": 775,
       "user": "mizorewww"
     },
     {
@@ -3477,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 409,
       "user": "heydeer"
     },
     {
@@ -3492,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93106514?v=4",
       "source": "GitHub",
-      "stars": 316,
+      "stars": 407,
       "user": "physicsdolphin"
     },
     {
@@ -3507,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26444923?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 369,
       "user": "chris124567"
     },
     {
@@ -3522,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66570915?v=4",
       "source": "GitHub",
-      "stars": 217,
+      "stars": 219,
       "user": "anomalyco"
     },
     {
