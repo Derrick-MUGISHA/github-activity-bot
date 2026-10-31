@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1342,
       "user": "heydamir"
     },
     {
@@ -734,23 +734,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 489,
       "user": "haydenschmitty"
-    },
-    {
-      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "published_at": "2026-10-24T05:35:47Z",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
-      "source": "GitHub",
-      "stars": 5044,
-      "user": "rddmwmddr"
     },
     {
       "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
@@ -764,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3850,
+      "stars": 3874,
       "user": "interplains"
     },
     {
@@ -779,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1347,
       "user": "DenisSergeevitch"
     },
     {
@@ -794,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1174,
+      "stars": 1193,
       "user": "Motionsites-AI"
     },
     {
@@ -809,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1148,
+      "stars": 1222,
       "user": "paipiange"
     },
     {
@@ -824,8 +809,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 812,
       "user": "DrWhax"
+    },
+    {
+      "title": "smhanov/agentloop - Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "url": "https://github.com/smhanov/agentloop",
+      "published_at": "2026-10-25T16:18:50Z",
+      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
+      "source": "GitHub",
+      "stars": 136,
+      "user": "smhanov"
+    },
+    {
+      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "published_at": "2026-10-27T12:24:37Z",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
+      "source": "GitHub",
+      "stars": 3980,
+      "user": "anhao"
     },
     {
       "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
@@ -839,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1549,
+      "stars": 1557,
       "user": "andyhuo520"
     },
     {
@@ -854,23 +869,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1382,
+      "stars": 1424,
       "user": "qybaihe"
-    },
-    {
-      "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "url": "https://github.com/yaojingang/GEOInflow",
-      "published_at": "2026-10-26T03:12:45Z",
-      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
-      "source": "GitHub",
-      "stars": 759,
-      "user": "yaojingang"
     },
     {
       "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
@@ -885,6 +885,51 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "newuser"
+    },
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "published_at": "2026-10-31T01:20:05.000Z",
+      "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "tags": [
+        "AI",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
+    },
+    {
+      "title": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "published_at": "2026-10-30T23:21:23.000Z",
+      "description": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+      "tags": [
+        "Enterprise",
+        "Startups",
+        "defense tech",
+        "In Brief",
+        "Mergers and Acquisitions"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "published_at": "2026-10-30T22:56:13.000Z",
+      "description": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Startups",
+        "AI assistant",
+        "ollie"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
@@ -975,52 +1020,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Zest&#8217;s new AI agent finds restaurants and books reservations over text",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "published_at": "2026-10-30T17:47:12.000Z",
-      "description": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "tags": [
-        "AI",
-        "Startups",
-        "AI agents",
-        "dining",
-        "zest"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Google&#8217;s first data center satellite is online and writing poetry",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "published_at": "2026-10-30T17:00:00.000Z",
-      "description": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "tags": [
-        "AI",
-        "Space",
-        "Exclusive",
-        "Google",
-        "space data centers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people&#8217;",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "published_at": "2026-10-30T16:03:45.000Z",
-      "description": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-      "tags": [
-        "AI",
-        "elizabeth holmes",
-        "Theranos"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
@@ -1243,7 +1242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1342,
       "user": "heydamir"
     },
     {
@@ -1273,7 +1272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 642,
       "user": "HRuiCcc"
     },
     {
@@ -1288,7 +1287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 541,
       "user": "misshexa66"
     },
     {
@@ -1303,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 489,
       "user": "haydenschmitty"
     },
     {
@@ -1318,8 +1317,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 151,
       "user": "beilunyang"
+    },
+    {
+      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "published_at": "2026-10-27T12:24:37Z",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
+      "source": "GitHub",
+      "stars": 3980,
+      "user": "anhao"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
@@ -1333,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3353,
+      "stars": 3372,
       "user": "designfuchen"
     },
     {
@@ -1348,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1549,
+      "stars": 1557,
       "user": "andyhuo520"
     },
     {
@@ -1363,7 +1377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1382,
+      "stars": 1424,
       "user": "qybaihe"
     },
     {
@@ -1378,41 +1392,57 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 830,
       "user": "kargulstudio"
     },
     {
-      "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "url": "https://github.com/yaojingang/GEOInflow",
-      "published_at": "2026-10-26T03:12:45Z",
-      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
-      "source": "GitHub",
-      "stars": 759,
-      "user": "yaojingang"
-    },
-    {
-      "title": "No, npm, “estee” is not a typo of “testem”",
-      "url": "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
-      "published_at": "2026-10-30T10:01:56.550-05:00",
+      "title": "ReasonML Standard Library",
+      "url": "https://www.smoothterminal.com/articles/reasonml-standard-library",
+      "published_at": "2018-08-21T08:00:11.000-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
         "javascript"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "smoores"
+      "user": "matt2ray"
+    },
+    {
+      "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
+      "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
+      "published_at": "2026-10-30T23:01:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "cloud",
+        "speech-recognition",
+        "local",
+        "webspeech-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jeff Baker"
+    },
+    {
+      "title": "How to display the numbers after using API Get question",
+      "url": "https://stackoverflow.com/questions/80013736/how-to-display-the-numbers-after-using-api-get-question",
+      "published_at": "2026-10-30T21:43:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "typescript",
+        "fetch-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "What ups"
     },
     {
       "title": "Dealing with unsupported media type in HTML5 audio element?",
       "url": "https://stackoverflow.com/questions/80013732/dealing-with-unsupported-media-type-in-html5-audio-element",
       "published_at": "2026-10-30T21:19:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "javascript",
         "html5-audio"
@@ -1464,6 +1494,20 @@
       "user": "Realto619"
     },
     {
+      "title": "Product links don't respond to the first tap on Android after swiping",
+      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
+      "published_at": "2026-10-28T09:49:31.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
+      "tags": [
+        "javascript",
+        "jquery",
+        "owl-carousel-2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user9440558"
+    },
+    {
       "title": "Why does my async function return \"Promise { <pending> }\" instead of the fetched data in JavaScript?",
       "url": "https://stackoverflow.com/questions/80013408/why-does-my-async-function-return-promise-pending-instead-of-the-fetched",
       "published_at": "2026-10-29T14:13:55.000Z",
@@ -1474,20 +1518,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "DANIELA MARICLER GUITZ PALMA"
-    },
-    {
-      "title": "How can callers cancel independently when they share the same fetch request?",
-      "url": "https://stackoverflow.com/questions/80013221/how-can-callers-cancel-independently-when-they-share-the-same-fetch-request",
-      "published_at": "2026-10-28T20:28:34.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "javascript",
-        "promise",
-        "abortcontroller"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "David Brierton"
     },
     {
       "title": "How to close mobile menu after clicking a link",
@@ -1503,20 +1533,6 @@
       "user": "Kismet-"
     },
     {
-      "title": "Product links don't respond to the first tap on Android after swiping",
-      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
-      "published_at": "2026-10-28T09:49:31.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "javascript",
-        "jquery",
-        "owl-carousel-2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user9440558"
-    },
-    {
       "title": "How to avoid rendering delays when switching from text to dynamic selects?",
       "url": "https://stackoverflow.com/questions/80012793/how-to-avoid-rendering-delays-when-switching-from-text-to-dynamic-selects",
       "published_at": "2026-10-27T08:02:43.000Z",
@@ -1529,20 +1545,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Adrian Ma&#241;as"
-    },
-    {
-      "title": "Reddit devvit stops without any error while fetching comments. What is happening and how would I circumvent this?",
-      "url": "https://stackoverflow.com/questions/80012182/reddit-devvit-stops-without-any-error-while-fetching-comments-what-is-happening",
-      "published_at": "2026-10-24T00:44:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "javascript",
-        "express",
-        "reddit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Asger &#216;rmen Dalmeijer"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1698,21 +1700,6 @@
       "user": "arathore"
     },
     {
-      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "published_at": "2026-10-24T05:35:47Z",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
-      "source": "GitHub",
-      "stars": 5044,
-      "user": "rddmwmddr"
-    },
-    {
       "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
       "published_at": "2026-10-25T14:41:34Z",
@@ -1724,23 +1711,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3850,
+      "stars": 3874,
       "user": "interplains"
-    },
-    {
-      "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
-      "url": "https://github.com/t3dotgg/tstack",
-      "published_at": "2026-10-24T05:00:20Z",
-      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
-      "source": "GitHub",
-      "stars": 2462,
-      "user": "t3dotgg"
     },
     {
       "title": "DenisSergeevitch/ex-ussr-kinship-research - Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
@@ -1754,7 +1726,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1347,
       "user": "DenisSergeevitch"
     },
     {
@@ -1769,8 +1741,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1174,
+      "stars": 1193,
       "user": "Motionsites-AI"
+    },
+    {
+      "title": "KillaBoi/StealMyBitcoin-PoC - A public release of the Steal My Bitcoin challenge",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "published_at": "2026-10-25T21:48:32Z",
+      "description": "A public release of the Steal My Bitcoin challenge",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46409262?v=4",
+      "source": "GitHub",
+      "stars": 1017,
+      "user": "KillaBoi"
+    },
+    {
+      "title": "deepopen-com/deepopen-3d-webs - Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+      "url": "https://github.com/deepopen-com/deepopen-3d-webs",
+      "published_at": "2026-10-26T12:13:47Z",
+      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
+      "source": "GitHub",
+      "stars": 880,
+      "user": "deepopen-com"
     },
     {
       "title": "qybaihe/bla - 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
@@ -1784,14 +1786,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1382,
+      "stars": 1424,
       "user": "qybaihe"
     },
     {
       "title": "How do I implement different modified objects by using classes?",
       "url": "https://stackoverflow.com/questions/80013673/how-do-i-implement-different-modified-objects-by-using-classes",
       "published_at": "2026-10-30T16:28:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "pygame"
@@ -1804,7 +1806,7 @@
       "title": "Write Prim's algorithm in Python",
       "url": "https://stackoverflow.com/questions/80013569/write-prims-algorithm-in-python",
       "published_at": "2026-10-30T06:36:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 2 answers · score -4",
       "tags": [
         "python",
         "prims-algorithm"
@@ -1817,7 +1819,7 @@
       "title": "How to iterate a dictionary which has custom objects defined by a class for keys?",
       "url": "https://stackoverflow.com/questions/80013648/how-to-iterate-a-dictionary-which-has-custom-objects-defined-by-a-class-for-keys",
       "published_at": "2026-10-30T14:35:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "dictionary",
@@ -1869,6 +1871,32 @@
       "user": "JadenV15"
     },
     {
+      "title": "Why is Pyright saying I have already declared this enum member?",
+      "url": "https://stackoverflow.com/questions/80013112/why-is-pyright-saying-i-have-already-declared-this-enum-member",
+      "published_at": "2026-10-28T13:59:41.000Z",
+      "description": "Stack Overflow question · 3 answers · score 3",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "Finding out the time of multiple files at once",
+      "url": "https://stackoverflow.com/questions/80013460/finding-out-the-time-of-multiple-files-at-once",
+      "published_at": "2026-10-29T17:00:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ali Kinaan"
+    },
+    {
       "title": "Null values from Salesforce overwriting data in PostgreSQL",
       "url": "https://stackoverflow.com/questions/80013497/null-values-from-salesforce-overwriting-data-in-postgresql",
       "published_at": "2026-10-29T20:03:55.000Z",
@@ -1884,18 +1912,6 @@
       "user": "DataSyncPRO"
     },
     {
-      "title": "Finding out the time of multiple files at once",
-      "url": "https://stackoverflow.com/questions/80013460/finding-out-the-time-of-multiple-files-at-once",
-      "published_at": "2026-10-29T17:00:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ali Kinaan"
-    },
-    {
       "title": "Same records showing up on different API pages",
       "url": "https://stackoverflow.com/questions/80013493/same-records-showing-up-on-different-api-pages",
       "published_at": "2026-10-29T19:57:57.000Z",
@@ -1909,20 +1925,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Unhappy-Leading-6796"
-    },
-    {
-      "title": "Why is Pyright saying I have already declared this enum member?",
-      "url": "https://stackoverflow.com/questions/80013112/why-is-pyright-saying-i-have-already-declared-this-enum-member",
-      "published_at": "2026-10-28T13:59:41.000Z",
-      "description": "Stack Overflow question · 3 answers · score 3",
-      "tags": [
-        "python",
-        "python-typing",
-        "pyright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
     },
     {
       "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
@@ -2166,21 +2168,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
-    },
-    {
-      "title": "zeabur-oss/zeabur - Self-hosted PaaS on your own Kubernetes.",
-      "url": "https://github.com/zeabur-oss/zeabur",
-      "published_at": "2026-10-24T07:25:39Z",
-      "description": "Self-hosted PaaS on your own Kubernetes.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
-      "source": "GitHub",
-      "stars": 568,
-      "user": "zeabur-oss"
     }
   ],
   "WebDev": [
@@ -2215,7 +2202,7 @@
       "title": "Dealing with unsupported media type in HTML5 audio element?",
       "url": "https://stackoverflow.com/questions/80013732/dealing-with-unsupported-media-type-in-html5-audio-element",
       "published_at": "2026-10-30T21:19:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "javascript",
         "html5-audio"
@@ -2316,21 +2303,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "published_at": "2026-10-24T05:35:47Z",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
-      "source": "GitHub",
-      "stars": 5044,
-      "user": "rddmwmddr"
-    },
-    {
       "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
       "published_at": "2026-10-25T14:41:34Z",
@@ -2342,7 +2314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3850,
+      "stars": 3874,
       "user": "interplains"
     },
     {
@@ -2357,21 +2329,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 151,
       "user": "beilunyang"
-    },
-    {
-      "title": "How to close mobile menu after clicking a link",
-      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
-      "published_at": "2026-10-28T16:52:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "responsive-design"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kismet-"
     },
     {
       "title": "Product links don't respond to the first tap on Android after swiping",
@@ -2386,6 +2345,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user9440558"
+    },
+    {
+      "title": "How to close mobile menu after clicking a link",
+      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
+      "published_at": "2026-10-28T16:52:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "responsive-design"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kismet-"
     }
   ],
   "Cloud": [
@@ -2615,6 +2587,21 @@
       "user": "xbill"
     },
     {
+      "title": "deepopen-com/deepopen-3d-webs - Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+      "url": "https://github.com/deepopen-com/deepopen-3d-webs",
+      "published_at": "2026-10-26T12:13:47Z",
+      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
+      "source": "GitHub",
+      "stars": 880,
+      "user": "deepopen-com"
+    },
+    {
       "title": "egoist/mygo-cloudmusic - MyGo 云音乐 - 第三方网易云音乐原生客户端",
       "url": "https://github.com/egoist/mygo-cloudmusic",
       "published_at": "2026-10-25T11:41:31Z",
@@ -2626,8 +2613,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 443,
       "user": "egoist"
+    },
+    {
+      "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
+      "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
+      "published_at": "2026-10-30T23:01:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "cloud",
+        "speech-recognition",
+        "local",
+        "webspeech-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jeff Baker"
     },
     {
       "title": "Cloud Service Models Explained: IaaS vs PaaS vs SaaS",
@@ -2685,6 +2688,18 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "Making slow queries fast with composite indexes in MySQL",
+      "url": "https://blog.nodeswat.com/making-slow-queries-fast-with-composite-indexes-in-mysql-eb452a8d6e46",
+      "published_at": "2018-08-21T21:47:51.000-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pek"
     },
     {
       "title": "Null values from Salesforce overwriting data in PostgreSQL",
@@ -2924,16 +2939,17 @@
       "user": "Varcht"
     },
     {
-      "title": "Backdoors in Claude Code for VS, Cursor official extensions",
-      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-      "published_at": "2026-10-30T06:04:55.168-05:00",
+      "title": "Fix for L1TF issue in Intel CPUs committed",
+      "url": "http://undeadly.org/cgi?action=article;sid=20180821191906",
+      "published_at": "2018-08-21T15:36:17.000-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
+        "openbsd",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "dsr"
+      "user": "calvin"
     },
     {
       "title": "Applebee&#8217;s exposed customers&#8217; personal data after leaving database password in app",
@@ -3163,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 1099,
+      "stars": 1342,
       "user": "heydamir"
     },
     {
@@ -3193,7 +3209,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 605,
+      "stars": 642,
       "user": "HRuiCcc"
     },
     {
@@ -3208,7 +3224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 538,
+      "stars": 541,
       "user": "misshexa66"
     },
     {
@@ -3223,23 +3239,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 477,
+      "stars": 489,
       "user": "haydenschmitty"
-    },
-    {
-      "title": "rddmwmddr/android-ad-cleaner - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "published_at": "2026-10-24T05:35:47Z",
-      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/5119232?v=4",
-      "source": "GitHub",
-      "stars": 5044,
-      "user": "rddmwmddr"
     },
     {
       "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
@@ -3253,23 +3254,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3850,
+      "stars": 3874,
       "user": "interplains"
-    },
-    {
-      "title": "t3dotgg/tstack - The agent skills I use every day. Works with Claude Code and Codex.",
-      "url": "https://github.com/t3dotgg/tstack",
-      "published_at": "2026-10-24T05:00:20Z",
-      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6751787?v=4",
-      "source": "GitHub",
-      "stars": 2462,
-      "user": "t3dotgg"
     },
     {
       "title": "DenisSergeevitch/ex-ussr-kinship-research - Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
@@ -3283,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1335,
+      "stars": 1347,
       "user": "DenisSergeevitch"
     },
     {
@@ -3298,8 +3284,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1174,
+      "stars": 1193,
       "user": "Motionsites-AI"
+    },
+    {
+      "title": "KillaBoi/StealMyBitcoin-PoC - A public release of the Steal My Bitcoin challenge",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "published_at": "2026-10-25T21:48:32Z",
+      "description": "A public release of the Steal My Bitcoin challenge",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/46409262?v=4",
+      "source": "GitHub",
+      "stars": 1017,
+      "user": "KillaBoi"
+    },
+    {
+      "title": "deepopen-com/deepopen-3d-webs - Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+      "url": "https://github.com/deepopen-com/deepopen-3d-webs",
+      "published_at": "2026-10-26T12:13:47Z",
+      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
+      "source": "GitHub",
+      "stars": 880,
+      "user": "deepopen-com"
     },
     {
       "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
@@ -3313,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1148,
+      "stars": 1222,
       "user": "paipiange"
     },
     {
@@ -3328,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 807,
+      "stars": 812,
       "user": "DrWhax"
     },
     {
@@ -3343,23 +3359,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 443,
       "user": "egoist"
-    },
-    {
-      "title": "tractordev/webframe - Run a web page like a program",
-      "url": "https://github.com/tractordev/webframe",
-      "published_at": "2026-10-24T14:18:15Z",
-      "description": "Run a web page like a program",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/65003157?v=4",
-      "source": "GitHub",
-      "stars": 222,
-      "user": "tractordev"
     },
     {
       "title": "beilunyang/openhongguo - 红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
@@ -3373,8 +3374,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 148,
+      "stars": 151,
       "user": "beilunyang"
+    },
+    {
+      "title": "smhanov/agentloop - Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "url": "https://github.com/smhanov/agentloop",
+      "published_at": "2026-10-25T16:18:50Z",
+      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
+      "source": "GitHub",
+      "stars": 136,
+      "user": "smhanov"
+    },
+    {
+      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "published_at": "2026-10-27T12:24:37Z",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
+      "source": "GitHub",
+      "stars": 3980,
+      "user": "anhao"
     },
     {
       "title": "designfuchen/word-atlas - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
@@ -3388,7 +3419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3353,
+      "stars": 3372,
       "user": "designfuchen"
     },
     {
@@ -3403,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1549,
+      "stars": 1557,
       "user": "andyhuo520"
     },
     {
@@ -3418,7 +3449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1382,
+      "stars": 1424,
       "user": "qybaihe"
     },
     {
@@ -3433,23 +3464,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 829,
+      "stars": 830,
       "user": "kargulstudio"
-    },
-    {
-      "title": "yaojingang/GEOInflow - Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "url": "https://github.com/yaojingang/GEOInflow",
-      "published_at": "2026-10-26T03:12:45Z",
-      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/266242792?v=4",
-      "source": "GitHub",
-      "stars": 759,
-      "user": "yaojingang"
     },
     {
       "title": "mizorewww/gdirect - Rust Google Drive direct downloader using pinned libaria2",
@@ -3467,21 +3483,6 @@
       "user": "mizorewww"
     },
     {
-      "title": "zeabur-oss/zeabur - Self-hosted PaaS on your own Kubernetes.",
-      "url": "https://github.com/zeabur-oss/zeabur",
-      "published_at": "2026-10-24T07:25:39Z",
-      "description": "Self-hosted PaaS on your own Kubernetes.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/347201155?v=4",
-      "source": "GitHub",
-      "stars": 568,
-      "user": "zeabur-oss"
-    },
-    {
       "title": "heydeer/pngdeer - Smaller images, same picture. Compress PNGs to PNG or WebP with automatic quality. PNG output is 8–12% smaller than TinyPNG at equal quality on the median image. Command line and browser.",
       "url": "https://github.com/heydeer/pngdeer",
       "published_at": "2026-10-25T05:09:24Z",
@@ -3493,23 +3494,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 386,
+      "stars": 389,
       "user": "heydeer"
     },
     {
-      "title": "yjid/kensaku - Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
-      "url": "https://github.com/yjid/kensaku",
-      "published_at": "2026-10-24T21:00:26Z",
-      "description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
+      "title": "physicsdolphin/nv-uefi-unlocker - UEFI pre-driver NVIDIA GPU unlocker for Windows (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verified on RTX 4060 Laptop 28e0.",
+      "url": "https://github.com/physicsdolphin/nv-uefi-unlocker",
+      "published_at": "2026-10-26T06:22:24Z",
+      "description": "UEFI pre-driver NVIDIA GPU unlocker for Windows (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verified on RTX 4060 Laptop 28e0.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/178333324?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/93106514?v=4",
       "source": "GitHub",
-      "stars": 294,
-      "user": "yjid"
+      "stars": 221,
+      "user": "physicsdolphin"
     },
     {
       "title": "anomalyco/hokum - Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
@@ -3523,8 +3524,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66570915?v=4",
       "source": "GitHub",
-      "stars": 214,
+      "stars": 216,
       "user": "anomalyco"
+    },
+    {
+      "title": "emanuele-em/kanzo - Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.",
+      "url": "https://github.com/emanuele-em/kanzo",
+      "published_at": "2026-10-25T11:14:03Z",
+      "description": "Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/100081325?v=4",
+      "source": "GitHub",
+      "stars": 197,
+      "user": "emanuele-em"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
