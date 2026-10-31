@@ -1,46 +1,46 @@
 {
-  "total": 174,
+  "total": 184,
   "by_source": {
     "Dev.to": 60,
     "HackerNews": 49,
     "GitHub": 25,
+    "Lobste.rs": 10,
     "StackOverflow": 20,
     "TechCrunch": 10,
     "freeCodeCamp": 10
   },
   "by_category": {
     "AI": 73,
-    "JavaScript": 33,
+    "JavaScript": 34,
     "Python": 30,
     "DevOps": 16,
     "WebDev": 4,
     "Mobile": 8,
-    "Cloud": 20,
-    "Database": 6,
-    "Security": 18,
-    "Tools": 39
+    "Cloud": 21,
+    "Database": 7,
+    "Security": 19,
+    "Tools": 42
   },
   "by_language": {
-    "Go": 42,
     "Rust": 9,
+    "Go": 42,
     "Python": 30,
-    "JavaScript": 33,
-    "Java": 25,
+    "JavaScript": 34,
+    "Java": 27,
     "Kotlin": 3,
-    "Swift": 1,
-    "PHP": 1
+    "Swift": 1
   },
   "by_date": {
+    "2026-10-29": 16,
+    "2026-10-30": 26,
     "2026-10-27": 9,
-    "2026-10-30": 23,
-    "2026-10-29": 18,
     "2026-10-25": 15,
-    "2026-10-28": 9,
+    "2026-10-28": 7,
     "2026-10-22": 3,
     "2026-10-18": 3,
     "2026-10-15": 4,
     "2026-10-16": 3,
-    "2026-10-24": 3,
+    "2026-10-24": 2,
     "2026-10-19": 1,
     "2026-10-11": 4,
     "2026-10-20": 4,
@@ -99,15 +99,17 @@
     "2024-02-21": 1,
     "2013-11-06": 1,
     "2017-11-08": 1,
-    "2026-10-31": 8
+    "2026-10-31": 18,
+    "2026-07-09": 1,
+    "2025-11-30": 1
   },
   "top_tags": {
     "github": 25,
     "open-source": 25,
     "ai": 24,
-    "AI": 15,
-    "javascript": 15,
+    "javascript": 16,
     "python": 15,
+    "AI": 14,
     "Python": 12,
     "gemma": 11,
     "Security": 11,
@@ -120,18 +122,17 @@
     "programming": 6,
     "architecture": 6,
     "llamacpp": 6,
-    "llm": 5,
-    "flutter": 5
+    "typescript": 6,
+    "llm": 5
   },
   "trending_topics": [],
   "language_percentages": {
-    "Go": "29.2",
-    "Rust": "6.3",
-    "Python": "20.8",
-    "JavaScript": "22.9",
-    "Java": "17.4",
+    "Rust": "6.2",
+    "Go": "28.8",
+    "Python": "20.5",
+    "JavaScript": "23.3",
+    "Java": "18.5",
     "Kotlin": "2.1",
-    "Swift": "0.7",
-    "PHP": "0.7"
+    "Swift": "0.7"
   }
 }
