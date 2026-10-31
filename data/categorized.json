@@ -719,23 +719,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 1342,
+      "stars": 1754,
       "user": "heydamir"
     },
     {
-      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "url": "https://github.com/haydenschmitty/floorplan",
-      "published_at": "2026-10-27T12:03:01Z",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "url": "https://github.com/jacke-pp/open-yoki",
+      "published_at": "2026-10-28T08:58:27Z",
+      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
       "source": "GitHub",
-      "stars": 489,
-      "user": "haydenschmitty"
+      "stars": 581,
+      "user": "jacke-pp"
     },
     {
       "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3874,
+      "stars": 3911,
       "user": "interplains"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1347,
+      "stars": 1356,
       "user": "DenisSergeevitch"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1219,
       "user": "Motionsites-AI"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1222,
+      "stars": 1430,
       "user": "paipiange"
     },
     {
@@ -809,23 +809,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 818,
       "user": "DrWhax"
-    },
-    {
-      "title": "smhanov/agentloop - Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
-      "url": "https://github.com/smhanov/agentloop",
-      "published_at": "2026-10-25T16:18:50Z",
-      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
-      "source": "GitHub",
-      "stars": 136,
-      "user": "smhanov"
     },
     {
       "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
@@ -839,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 3980,
+      "stars": 4218,
       "user": "anhao"
     },
     {
@@ -854,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1557,
+      "stars": 1567,
       "user": "andyhuo520"
     },
     {
@@ -869,14 +854,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1530,
       "user": "qybaihe"
+    },
+    {
+      "title": "The support case of a customer who said that all they could see was a black screen",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
+      "published_at": "2026-10-30T20:01:21.760-05:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "historical",
+        "windows"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ubernostrum"
     },
     {
       "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
       "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
       "published_at": "2026-10-30T15:34:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1004,22 +1002,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "Satlyt takes another step toward turning satellites into space data centers",
-      "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
-      "published_at": "2026-10-30T18:01:24.000Z",
-      "description": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites,  into virtual data centers.",
-      "tags": [
-        "Space",
-        "Startups",
-        "AI",
-        "data centers",
-        "satlyt"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
     },
     {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
@@ -1242,7 +1224,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 1342,
+      "stars": 1754,
       "user": "heydamir"
     },
     {
@@ -1257,7 +1239,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 913,
+      "stars": 921,
       "user": "ZiChuanLan"
     },
     {
@@ -1272,8 +1254,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 745,
       "user": "HRuiCcc"
+    },
+    {
+      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "url": "https://github.com/jacke-pp/open-yoki",
+      "published_at": "2026-10-28T08:58:27Z",
+      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
+      "source": "GitHub",
+      "stars": 581,
+      "user": "jacke-pp"
     },
     {
       "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
@@ -1287,23 +1284,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 545,
       "user": "misshexa66"
-    },
-    {
-      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "url": "https://github.com/haydenschmitty/floorplan",
-      "published_at": "2026-10-27T12:03:01Z",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
-      "source": "GitHub",
-      "stars": 489,
-      "user": "haydenschmitty"
     },
     {
       "title": "beilunyang/openhongguo - 红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
@@ -1317,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 159,
       "user": "beilunyang"
     },
     {
@@ -1332,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 3980,
+      "stars": 4218,
       "user": "anhao"
     },
     {
@@ -1347,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3372,
+      "stars": 3439,
       "user": "designfuchen"
     },
     {
@@ -1362,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1557,
+      "stars": 1567,
       "user": "andyhuo520"
     },
     {
@@ -1377,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1530,
       "user": "qybaihe"
     },
     {
@@ -1392,36 +1374,33 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 831,
       "user": "kargulstudio"
     },
     {
-      "title": "ReasonML Standard Library",
-      "url": "https://www.smoothterminal.com/articles/reasonml-standard-library",
-      "published_at": "2018-08-21T08:00:11.000-05:00",
+      "title": "No, npm, “estee” is not a typo of “testem”",
+      "url": "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
+      "published_at": "2026-10-30T10:01:56.550-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
         "javascript"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "matt2ray"
+      "user": "smoores"
     },
     {
-      "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
-      "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
-      "published_at": "2026-10-30T23:01:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Dealing with unsupported media type in HTML5 audio element?",
+      "url": "https://stackoverflow.com/questions/80013732/dealing-with-unsupported-media-type-in-html5-audio-element",
+      "published_at": "2026-10-30T21:19:47.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
-        "cloud",
-        "speech-recognition",
-        "local",
-        "webspeech-api"
+        "html5-audio"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Jeff Baker"
+      "user": "Andre M"
     },
     {
       "title": "How to display the numbers after using API Get question",
@@ -1439,17 +1418,20 @@
       "user": "What ups"
     },
     {
-      "title": "Dealing with unsupported media type in HTML5 audio element?",
-      "url": "https://stackoverflow.com/questions/80013732/dealing-with-unsupported-media-type-in-html5-audio-element",
-      "published_at": "2026-10-30T21:19:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
+      "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
+      "published_at": "2026-10-30T23:01:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
-        "html5-audio"
+        "cloud",
+        "speech-recognition",
+        "local",
+        "webspeech-api"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Andre M"
+      "user": "Jeff Baker"
     },
     {
       "title": "In WebGPU, is it faster to use a single interleaved GPUBuffer for positions, normals, and UVs? Or should I use separate GPUBuffers?",
@@ -1469,7 +1451,7 @@
       "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
       "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
       "published_at": "2026-10-30T15:34:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1483,7 +1465,7 @@
       "title": "Function bubble wrapped in propagation",
       "url": "https://stackoverflow.com/questions/80013586/function-bubble-wrapped-in-propagation",
       "published_at": "2026-10-30T08:25:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "event-bubbling",
@@ -1533,18 +1515,18 @@
       "user": "Kismet-"
     },
     {
-      "title": "How to avoid rendering delays when switching from text to dynamic selects?",
-      "url": "https://stackoverflow.com/questions/80012793/how-to-avoid-rendering-delays-when-switching-from-text-to-dynamic-selects",
-      "published_at": "2026-10-27T08:02:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
+      "title": "Reddit devvit stops without any error while fetching comments. What is happening and how would I circumvent this?",
+      "url": "https://stackoverflow.com/questions/80012182/reddit-devvit-stops-without-any-error-while-fetching-comments-what-is-happening",
+      "published_at": "2026-10-24T00:44:23.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
-        "vue.js",
-        "vuejs3"
+        "express",
+        "reddit"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Adrian Ma&#241;as"
+      "user": "Asger &#216;rmen Dalmeijer"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1711,7 +1693,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3874,
+      "stars": 3911,
       "user": "interplains"
     },
     {
@@ -1726,7 +1708,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1347,
+      "stars": 1356,
       "user": "DenisSergeevitch"
     },
     {
@@ -1741,7 +1723,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1219,
       "user": "Motionsites-AI"
     },
     {
@@ -1756,7 +1738,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46409262?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1019,
       "user": "KillaBoi"
     },
     {
@@ -1771,8 +1753,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 1001,
       "user": "deepopen-com"
+    },
+    {
+      "title": "zklmiao/CodeWar - 网页端 Python 编程对抗游戏：解题速度即战斗力 · A turn-based competitive Python programming game",
+      "url": "https://github.com/zklmiao/CodeWar",
+      "published_at": "2026-10-28T03:49:23Z",
+      "description": "网页端 Python 编程对抗游戏：解题速度即战斗力 · A turn-based competitive Python programming game",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
+      "source": "GitHub",
+      "stars": 137,
+      "user": "zklmiao"
     },
     {
       "title": "qybaihe/bla - 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
@@ -1786,21 +1783,49 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1530,
       "user": "qybaihe"
     },
     {
-      "title": "How do I implement different modified objects by using classes?",
-      "url": "https://stackoverflow.com/questions/80013673/how-do-i-implement-different-modified-objects-by-using-classes",
-      "published_at": "2026-10-30T16:28:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "How to idiomatically map data&#160;(in my case prime numbers) to a reusable class in Python?",
+      "url": "https://stackoverflow.com/questions/80013764/how-to-idiomatically-map-data-in-my-case-prime-numbers-to-a-reusable-class-in",
+      "published_at": "2026-10-31T03:30:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "python",
-        "pygame"
+        "dictionary"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "corv1224"
+      "user": "gnarol "
+    },
+    {
+      "title": "Install Python3.15 in brew",
+      "url": "https://stackoverflow.com/questions/80013762/install-python3-15-in-brew",
+      "published_at": "2026-10-31T02:13:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "homebrew"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Huy Khang Nguyễn"
+    },
+    {
+      "title": "Buggy implementation of Knuth's Mastermind algorithm in python",
+      "url": "https://stackoverflow.com/questions/80013760/buggy-implementation-of-knuths-mastermind-algorithm-in-python",
+      "published_at": "2026-10-31T01:58:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score 5",
+      "tags": [
+        "python",
+        "algorithm",
+        "minimax",
+        "knuth"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "YOLOAerospaceIndustries"
     },
     {
       "title": "Write Prim's algorithm in Python",
@@ -1814,6 +1839,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JAc Polloc"
+    },
+    {
+      "title": "How do I implement different modified objects by using classes?",
+      "url": "https://stackoverflow.com/questions/80013673/how-do-i-implement-different-modified-objects-by-using-classes",
+      "published_at": "2026-10-30T16:28:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "corv1224"
     },
     {
       "title": "How to iterate a dictionary which has custom objects defined by a class for keys?",
@@ -1883,48 +1921,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
-    },
-    {
-      "title": "Finding out the time of multiple files at once",
-      "url": "https://stackoverflow.com/questions/80013460/finding-out-the-time-of-multiple-files-at-once",
-      "published_at": "2026-10-29T17:00:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ali Kinaan"
-    },
-    {
-      "title": "Null values from Salesforce overwriting data in PostgreSQL",
-      "url": "https://stackoverflow.com/questions/80013497/null-values-from-salesforce-overwriting-data-in-postgresql",
-      "published_at": "2026-10-29T20:03:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "postgresql",
-        "salesforce",
-        "upsert"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DataSyncPRO"
-    },
-    {
-      "title": "Same records showing up on different API pages",
-      "url": "https://stackoverflow.com/questions/80013493/same-records-showing-up-on-different-api-pages",
-      "published_at": "2026-10-29T19:57:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "rest",
-        "google-bigquery",
-        "pagination"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Unhappy-Leading-6796"
     },
     {
       "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
@@ -2202,7 +2198,7 @@
       "title": "Dealing with unsupported media type in HTML5 audio element?",
       "url": "https://stackoverflow.com/questions/80013732/dealing-with-unsupported-media-type-in-html5-audio-element",
       "published_at": "2026-10-30T21:19:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "html5-audio"
@@ -2215,7 +2211,7 @@
       "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
       "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
       "published_at": "2026-10-30T15:34:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2314,7 +2310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3874,
+      "stars": 3911,
       "user": "interplains"
     },
     {
@@ -2329,7 +2325,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 159,
       "user": "beilunyang"
     },
     {
@@ -2598,7 +2594,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 1001,
       "user": "deepopen-com"
     },
     {
@@ -2613,8 +2609,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 456,
       "user": "egoist"
+    },
+    {
+      "title": "chris124567/cfsolve - Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)",
+      "url": "https://github.com/chris124567/cfsolve",
+      "published_at": "2026-10-26T02:31:21Z",
+      "description": "Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/26444923?v=4",
+      "source": "GitHub",
+      "stars": 253,
+      "user": "chris124567"
     },
     {
       "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
@@ -2688,33 +2699,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "Making slow queries fast with composite indexes in MySQL",
-      "url": "https://blog.nodeswat.com/making-slow-queries-fast-with-composite-indexes-in-mysql-eb452a8d6e46",
-      "published_at": "2018-08-21T21:47:51.000-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pek"
-    },
-    {
-      "title": "Null values from Salesforce overwriting data in PostgreSQL",
-      "url": "https://stackoverflow.com/questions/80013497/null-values-from-salesforce-overwriting-data-in-postgresql",
-      "published_at": "2026-10-29T20:03:55.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "postgresql",
-        "salesforce",
-        "upsert"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "DataSyncPRO"
     },
     {
       "title": "Applebee&#8217;s exposed customers&#8217; personal data after leaving database password in app",
@@ -2939,17 +2923,16 @@
       "user": "Varcht"
     },
     {
-      "title": "Fix for L1TF issue in Intel CPUs committed",
-      "url": "http://undeadly.org/cgi?action=article;sid=20180821191906",
-      "published_at": "2018-08-21T15:36:17.000-05:00",
+      "title": "Backdoors in Claude Code for VS, Cursor official extensions",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "published_at": "2026-10-30T06:04:55.168-05:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "openbsd",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "calvin"
+      "user": "dsr"
     },
     {
       "title": "Applebee&#8217;s exposed customers&#8217; personal data after leaving database password in app",
@@ -3179,7 +3162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 1342,
+      "stars": 1754,
       "user": "heydamir"
     },
     {
@@ -3194,7 +3177,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139305401?v=4",
       "source": "GitHub",
-      "stars": 913,
+      "stars": 921,
       "user": "ZiChuanLan"
     },
     {
@@ -3209,8 +3192,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 642,
+      "stars": 745,
       "user": "HRuiCcc"
+    },
+    {
+      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "url": "https://github.com/jacke-pp/open-yoki",
+      "published_at": "2026-10-28T08:58:27Z",
+      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
+      "source": "GitHub",
+      "stars": 581,
+      "user": "jacke-pp"
     },
     {
       "title": "misshexa66/OunceCake - Tool to dump unencrypted romFS and exeFS for Switch 2 games",
@@ -3224,23 +3222,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/275284869?v=4",
       "source": "GitHub",
-      "stars": 541,
+      "stars": 545,
       "user": "misshexa66"
-    },
-    {
-      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "url": "https://github.com/haydenschmitty/floorplan",
-      "published_at": "2026-10-27T12:03:01Z",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
-      "source": "GitHub",
-      "stars": 489,
-      "user": "haydenschmitty"
     },
     {
       "title": "interplains/Zero-Breach-Toolkit - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
@@ -3254,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/39777629?v=4",
       "source": "GitHub",
-      "stars": 3874,
+      "stars": 3911,
       "user": "interplains"
     },
     {
@@ -3269,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2140110?v=4",
       "source": "GitHub",
-      "stars": 1347,
+      "stars": 1356,
       "user": "DenisSergeevitch"
     },
     {
@@ -3284,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1193,
+      "stars": 1219,
       "user": "Motionsites-AI"
     },
     {
@@ -3299,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/46409262?v=4",
       "source": "GitHub",
-      "stars": 1017,
+      "stars": 1019,
       "user": "KillaBoi"
     },
     {
@@ -3314,7 +3297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 880,
+      "stars": 1001,
       "user": "deepopen-com"
     },
     {
@@ -3329,7 +3312,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1222,
+      "stars": 1430,
       "user": "paipiange"
     },
     {
@@ -3344,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/299879?v=4",
       "source": "GitHub",
-      "stars": 812,
+      "stars": 818,
       "user": "DrWhax"
     },
     {
@@ -3359,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 443,
+      "stars": 456,
       "user": "egoist"
     },
     {
@@ -3374,23 +3357,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 151,
+      "stars": 159,
       "user": "beilunyang"
     },
     {
-      "title": "smhanov/agentloop - Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
-      "url": "https://github.com/smhanov/agentloop",
-      "published_at": "2026-10-25T16:18:50Z",
-      "description": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "title": "zklmiao/CodeWar - 网页端 Python 编程对抗游戏：解题速度即战斗力 · A turn-based competitive Python programming game",
+      "url": "https://github.com/zklmiao/CodeWar",
+      "published_at": "2026-10-28T03:49:23Z",
+      "description": "网页端 Python 编程对抗游戏：解题速度即战斗力 · A turn-based competitive Python programming game",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/346367?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
       "source": "GitHub",
-      "stars": 136,
-      "user": "smhanov"
+      "stars": 137,
+      "user": "zklmiao"
     },
     {
       "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
@@ -3404,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 3980,
+      "stars": 4218,
       "user": "anhao"
     },
     {
@@ -3419,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/17679892?v=4",
       "source": "GitHub",
-      "stars": 3372,
+      "stars": 3439,
       "user": "designfuchen"
     },
     {
@@ -3434,7 +3417,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1557,
+      "stars": 1567,
       "user": "andyhuo520"
     },
     {
@@ -3449,7 +3432,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/137127051?v=4",
       "source": "GitHub",
-      "stars": 1424,
+      "stars": 1530,
       "user": "qybaihe"
     },
     {
@@ -3464,7 +3447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 830,
+      "stars": 831,
       "user": "kargulstudio"
     },
     {
@@ -3479,7 +3462,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/252857002?v=4",
       "source": "GitHub",
-      "stars": 773,
+      "stars": 774,
       "user": "mizorewww"
     },
     {
@@ -3494,14 +3477,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331110110?v=4",
       "source": "GitHub",
-      "stars": 389,
+      "stars": 403,
       "user": "heydeer"
     },
     {
-      "title": "physicsdolphin/nv-uefi-unlocker - UEFI pre-driver NVIDIA GPU unlocker for Windows (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verified on RTX 4060 Laptop 28e0.",
+      "title": "physicsdolphin/nv-uefi-unlocker - UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verified on most RTX 20 30 40 Series.",
       "url": "https://github.com/physicsdolphin/nv-uefi-unlocker",
       "published_at": "2026-10-26T06:22:24Z",
-      "description": "UEFI pre-driver NVIDIA GPU unlocker for Windows (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verified on RTX 4060 Laptop 28e0.",
+      "description": "UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verified on most RTX 20 30 40 Series.",
       "tags": [
         "rust",
         "github",
@@ -3509,8 +3492,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93106514?v=4",
       "source": "GitHub",
-      "stars": 221,
+      "stars": 316,
       "user": "physicsdolphin"
+    },
+    {
+      "title": "chris124567/cfsolve - Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)",
+      "url": "https://github.com/chris124567/cfsolve",
+      "published_at": "2026-10-26T02:31:21Z",
+      "description": "Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/26444923?v=4",
+      "source": "GitHub",
+      "stars": 253,
+      "user": "chris124567"
     },
     {
       "title": "anomalyco/hokum - Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
@@ -3524,23 +3522,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/66570915?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 217,
       "user": "anomalyco"
-    },
-    {
-      "title": "emanuele-em/kanzo - Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.",
-      "url": "https://github.com/emanuele-em/kanzo",
-      "published_at": "2026-10-25T11:14:03Z",
-      "description": "Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/100081325?v=4",
-      "source": "GitHub",
-      "stars": 197,
-      "user": "emanuele-em"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
