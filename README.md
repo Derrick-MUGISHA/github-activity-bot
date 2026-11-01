@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-11-01 8:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-11-01 16:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -46,17 +46,6 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7epj18utz7xdyl1fo4rb.png" width="200" alt="Build a production-style Autonomous SRE Command Center using Gemini 4 Argon" />
-      <br/>
-      <b>Build a production-style Autonomous SRE Command Ce...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8">
       <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzayaadne36cbq4m0gftb.png" width="200" alt="Your DEV posts have a beautiful new share card ✨" />
       <br/>
@@ -65,6 +54,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+</tr>
+<tr>
   <td align="center" width="33%">
     <a href="https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsb3mwitsukou1aehtfah.png" width="200" alt="Zero Trust CI/CD: Keyless Bitbucket Deployment on Google Cloud" />
@@ -83,6 +74,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <br/>
     <sub>Dev.to</sub>
   </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/sizzlebop/is-tech-actually-welcoming-to-beginners-or-do-we-just-say-it-is-3d6p">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yc1pejankke91kwx544.png" width="200" alt="Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?" />
+      <br/>
+      <b>Is Tech Actually Welcoming to Beginners, or Do We ...</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
 </tr>
 </table>
 
@@ -94,26 +94,26 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 |---|----------|--------|
 | 1 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47ci) | Dev.to |
 | 2 | [Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner](https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740) | Dev.to |
-| 3 | [Build a production-style Autonomous SRE Command Center using Gemini 4 Argon](https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759) | Dev.to |
-| 4 | [Your DEV posts have a beautiful new share card ✨](https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8) | Dev.to |
-| 5 | [Zero Trust CI/CD: Keyless Bitbucket Deployment on Google Cloud](https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1) | Dev.to |
-| 6 | [Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API](https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66) | Dev.to |
-| 7 | [Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?](https://dev.to/sizzlebop/is-tech-actually-welcoming-to-beginners-or-do-we-just-say-it-is-3d6p) | Dev.to |
-| 8 | [Welcome Thread - v399](https://dev.to/sloan/welcome-thread-v400-fho) | Dev.to |
-| 9 | [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn) | Dev.to |
-| 10 | [Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)](https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa) | Dev.to |
-| 11 | [Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!](https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a) | Dev.to |
-| 12 | [Your Laptop Might Replace Most of Your AI Bill](https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f) | Dev.to |
-| 13 | [Four GPUs, One Quantization Ladder: Gemma 4 E2B From a 4 GB Laptop to an NVIDIA L4](https://dev.to/gde/four-gpus-one-quantization-ladder-gemma-4-e2b-from-a-4-gb-laptop-to-an-nvidia-l4-4olp) | Dev.to |
-| 14 | [AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion](https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi) | Dev.to |
-| 15 | [Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed](https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi) | Dev.to |
-| 16 | [Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath](https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02) | Dev.to |
-| 17 | [[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli](https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa) | Dev.to |
-| 18 | [Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to Q2_K](https://dev.to/gde/accuracy-vs-speed-gemma-4-e2b-quantization-tradeoffs-bf16-to-q2k-aea) | Dev.to |
-| 19 | [DuckLess: serverless DuckDB on Google Cloud, in your own project](https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a) | Dev.to |
-| 20 | [GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?](https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l) | Dev.to |
+| 3 | [Your DEV posts have a beautiful new share card ✨](https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8) | Dev.to |
+| 4 | [Zero Trust CI/CD: Keyless Bitbucket Deployment on Google Cloud](https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1) | Dev.to |
+| 5 | [Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API](https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66) | Dev.to |
+| 6 | [Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?](https://dev.to/sizzlebop/is-tech-actually-welcoming-to-beginners-or-do-we-just-say-it-is-3d6p) | Dev.to |
+| 7 | [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn) | Dev.to |
+| 8 | [Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)](https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa) | Dev.to |
+| 9 | [Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!](https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a) | Dev.to |
+| 10 | [Your Laptop Might Replace Most of Your AI Bill](https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f) | Dev.to |
+| 11 | [Four GPUs, One Quantization Ladder: Gemma 4 E2B From a 4 GB Laptop to an NVIDIA L4](https://dev.to/gde/four-gpus-one-quantization-ladder-gemma-4-e2b-from-a-4-gb-laptop-to-an-nvidia-l4-4olp) | Dev.to |
+| 12 | [AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion](https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi) | Dev.to |
+| 13 | [Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed](https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi) | Dev.to |
+| 14 | [Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath](https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02) | Dev.to |
+| 15 | [[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli](https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa) | Dev.to |
+| 16 | [Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to Q2_K](https://dev.to/gde/accuracy-vs-speed-gemma-4-e2b-quantization-tradeoffs-bf16-to-q2k-aea) | Dev.to |
+| 17 | [DuckLess: serverless DuckDB on Google Cloud, in your own project](https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a) | Dev.to |
+| 18 | [GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?](https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l) | Dev.to |
+| 19 | [Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale](https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60) | Dev.to |
+| 20 | [Welcome Thread - v399](https://dev.to/sloan/welcome-thread-v400-fho) | Dev.to |
 
-<sub>Last fetched: Sun, 01 Nov 2026 08:58:11 CAT</sub>
+<sub>Last fetched: Sun, 01 Nov 2026 16:11:44 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `React` — Explain the difference between state and props**
+**1. `Database` — Explain database indexing and when to use it**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Ownership, mutability, data flow direction
+> B-tree, trade-offs, query performance
 
 </details>
 
-**2. `Python` — What is the difference between list and tuple in Python?**
+**2. `Java` — Explain the Java memory model**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Mutability, performance, use cases
+> Heap, stack, garbage collection
 
 </details>
 
-**3. `Database` — What is database normalization and denormalization?**
+**3. `Database` — Design a database schema for a social media platform**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Normal forms, redundancy, performance trade-offs
+> Users, posts, relationships, indexes, partitioning
 
 </details>
 
@@ -164,12 +164,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 76 | 41.3% | `████████████████████` |
-| **Tools** | 42 | 22.8% | `███████████░░░░░░░░░` |
+| **AI** | 75 | 40.8% | `████████████████████` |
+| **Tools** | 43 | 23.4% | `███████████░░░░░░░░░` |
 | **JavaScript** | 33 | 17.9% | `█████████░░░░░░░░░░░` |
 | **Python** | 29 | 15.8% | `████████░░░░░░░░░░░░` |
 | **Cloud** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 17 | 9.2% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **Mobile** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
@@ -194,11 +194,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 29.1%
-JavaScript      ████████████████████████ 23.4%
-Python          █████████████████████ 20.6%
-Java            ███████████████████ 18.4%
-Rust            ███████ 6.4%
+Go              ██████████████████████████████ 28.3%
+JavaScript      █████████████████████████ 23.9%
+Python          ██████████████████████ 21.0%
+Java            ███████████████████ 18.1%
+Rust            ███████ 6.5%
 Kotlin          █ 1.4%
 Swift           █ 0.7%
 
@@ -206,10 +206,10 @@ Swift           █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 41
+    "Go" : 39
     "JavaScript" : 33
     "Python" : 29
-    "Java" : 26
+    "Java" : 25
     "Rust" : 9
     "Kotlin" : 2
     "Swift" : 1
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 01 Nov 2026 06:58:11 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 01 Nov 2026 14:11:44 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

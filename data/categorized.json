@@ -16,21 +16,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
-      "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
-      "published_at": "2026-10-30T05:35:56Z",
-      "description": "When a production Kubernetes cluster starts throwing 5xx errors , the hardest part of incident...",
-      "tags": [
-        "sre",
-        "kubernetes",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7epj18utz7xdyl1fo4rb.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
       "url": "https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66",
       "published_at": "2026-10-29T13:14:48Z",
@@ -269,6 +254,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
+    },
+    {
+      "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
+      "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
+      "published_at": "2026-10-30T05:35:56Z",
+      "description": "When a production Kubernetes cluster starts throwing 5xx errors , the hardest part of incident...",
+      "tags": [
+        "sre",
+        "kubernetes",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7epj18utz7xdyl1fo4rb.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "[Agent Platform in Practice (2)] From Monolithic Cloud Run to Google Cloud Agent Runtime: Refactoring LINE AI Business Card King",
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 3812,
+      "stars": 4271,
       "user": "heydamir"
     },
     {
@@ -764,23 +764,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1224,
       "user": "haydenschmitty"
-    },
-    {
-      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "url": "https://github.com/jacke-pp/open-yoki",
-      "published_at": "2026-10-28T08:58:27Z",
-      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
-      "source": "GitHub",
-      "stars": 706,
-      "user": "jacke-pp"
     },
     {
       "title": "Motionsites-AI/claude-skill - Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
@@ -794,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1356,
       "user": "Motionsites-AI"
     },
     {
@@ -809,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/198685879?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 603,
       "user": "konlu"
     },
     {
@@ -824,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1793,
+      "stars": 1838,
       "user": "paipiange"
     },
     {
@@ -843,21 +828,6 @@
       "user": "missuo"
     },
     {
-      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "published_at": "2026-10-27T12:24:37Z",
-      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
-      "source": "GitHub",
-      "stars": 4865,
-      "user": "anhao"
-    },
-    {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "published_at": "2026-10-31T09:32:46Z",
@@ -869,8 +839,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 4028,
+      "stars": 5770,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "published_at": "2026-10-27T12:24:37Z",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
+      "source": "GitHub",
+      "stars": 5038,
+      "user": "anhao"
     },
     {
       "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
@@ -884,8 +869,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1600,
+      "stars": 1617,
       "user": "andyhuo520"
+    },
+    {
+      "title": "ShineFinancialStrut/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+      "url": "https://github.com/ShineFinancialStrut/game-server-route-racer",
+      "published_at": "2026-10-31T23:52:41Z",
+      "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
+      "source": "GitHub",
+      "stars": 275,
+      "user": "ShineFinancialStrut"
     },
     {
       "title": "The support case of a customer who said that all they could see was a black screen",
@@ -1000,22 +1000,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aditya Mehta"
-    },
-    {
-      "title": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
-      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "published_at": "2026-10-30T23:21:23.000Z",
-      "description": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-      "tags": [
-        "Enterprise",
-        "Startups",
-        "defense tech",
-        "In Brief",
-        "Mergers and Acquisitions"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
@@ -1238,7 +1222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 3812,
+      "stars": 4271,
       "user": "heydamir"
     },
     {
@@ -1253,7 +1237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 1736,
+      "stars": 2160,
       "user": "patch-gg"
     },
     {
@@ -1268,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1224,
       "user": "haydenschmitty"
     },
     {
@@ -1283,23 +1267,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 942,
       "user": "HRuiCcc"
     },
     {
-      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "url": "https://github.com/jacke-pp/open-yoki",
-      "published_at": "2026-10-28T08:58:27Z",
-      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "title": "elvarofficial/teardown - A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "url": "https://github.com/elvarofficial/teardown",
+      "published_at": "2026-10-30T09:29:01Z",
+      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 706,
-      "user": "jacke-pp"
+      "stars": 753,
+      "user": "elvarofficial"
     },
     {
       "title": "beilunyang/openhongguo - 红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
@@ -1313,23 +1297,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 181,
       "user": "beilunyang"
-    },
-    {
-      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "published_at": "2026-10-27T12:24:37Z",
-      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
-      "source": "GitHub",
-      "stars": 4865,
-      "user": "anhao"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -1343,8 +1312,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 4028,
+      "stars": 5770,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "published_at": "2026-10-27T12:24:37Z",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
+      "source": "GitHub",
+      "stars": 5038,
+      "user": "anhao"
     },
     {
       "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
@@ -1358,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1600,
+      "stars": 1617,
       "user": "andyhuo520"
     },
     {
@@ -1373,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139697969?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 965,
       "user": "D3voz"
     },
     {
@@ -1388,14 +1372,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 838,
       "user": "kargulstudio"
+    },
+    {
+      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
+      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
+      "published_at": "2026-11-01T04:11:32.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "javascript",
+        "html",
+        "dom-events"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mith sams"
     },
     {
       "title": "Adding a Private property to CanvasRenderingContext2D",
       "url": "https://stackoverflow.com/questions/80013933/adding-a-private-property-to-canvasrenderingcontext2d",
       "published_at": "2026-11-01T04:34:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "javascript",
         "class",
@@ -1405,20 +1403,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Manngo"
-    },
-    {
-      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
-      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
-      "published_at": "2026-11-01T04:11:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "dom-events"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mith sams"
     },
     {
       "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
@@ -1438,7 +1422,7 @@
       "title": "How to display the numbers after using API Get question",
       "url": "https://stackoverflow.com/questions/80013736/how-to-display-the-numbers-after-using-api-get-question",
       "published_at": "2026-10-30T21:43:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "javascript",
         "reactjs",
@@ -1493,20 +1477,6 @@
       "user": "Jeff Baker"
     },
     {
-      "title": "Function bubble wrapped in propagation",
-      "url": "https://stackoverflow.com/questions/80013586/function-bubble-wrapped-in-propagation",
-      "published_at": "2026-10-30T08:25:13.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "javascript",
-        "event-bubbling",
-        "event-propagation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Realto619"
-    },
-    {
       "title": "Product links don't respond to the first tap on Android after swiping",
       "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
       "published_at": "2026-10-28T09:49:31.000Z",
@@ -1521,18 +1491,32 @@
       "user": "user9440558"
     },
     {
-      "title": "Does sinon.restore() also restore all mySandbox.stub()s?",
-      "url": "https://stackoverflow.com/questions/80010151/does-sinon-restore-also-restore-all-mysandbox-stubs",
-      "published_at": "2026-10-15T06:29:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "title": "React Hook Form validation across multiple tabs: is useWatch + custom validation the right approach?",
+      "url": "https://stackoverflow.com/questions/79978184/react-hook-form-validation-across-multiple-tabs-is-usewatch-custom-validation",
+      "published_at": "2026-07-09T07:47:43.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
+        "best-practices",
         "javascript",
-        "sinon",
-        "stubbing"
+        "reactjs",
+        "react-hook-form"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Florian"
+      "user": "Furqan"
+    },
+    {
+      "title": "Match a string not preceded by a pattern",
+      "url": "https://stackoverflow.com/questions/79833648/match-a-string-not-preceded-by-a-pattern",
+      "published_at": "2025-11-30T03:12:04.000Z",
+      "description": "Stack Overflow question · 5 answers · score -1",
+      "tags": [
+        "javascript",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Misiur"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1699,7 +1683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1356,
       "user": "Motionsites-AI"
     },
     {
@@ -1729,7 +1713,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1101,
       "user": "BryceYuuu"
     },
     {
@@ -1744,7 +1728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/198685879?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 603,
       "user": "konlu"
     },
     {
@@ -1759,7 +1743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 589,
       "user": "ramenvr"
     },
     {
@@ -1774,8 +1758,78 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 176,
       "user": "zklmiao"
+    },
+    {
+      "title": "Does calling super have any effect in the body of __init__ method of a meta model?",
+      "url": "https://stackoverflow.com/questions/80014004/does-calling-super-have-any-effect-in-the-body-of-init-method-of-a-meta-mode",
+      "published_at": "2026-11-01T13:53:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "oop"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ariko stephen"
+    },
+    {
+      "title": "Do I need a try/finally clause when calling cv2.VideoCapture.release()?",
+      "url": "https://stackoverflow.com/questions/80013974/do-i-need-a-try-finally-clause-when-calling-cv2-videocapture-release",
+      "published_at": "2026-11-01T11:19:39.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "opencv",
+        "exception",
+        "try-finally"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "Python 2 vs. Python 3: what does \"not backward compatible\" mean exactly?",
+      "url": "https://stackoverflow.com/questions/80013954/python-2-vs-python-3-what-does-not-backward-compatible-mean-exactly",
+      "published_at": "2026-11-01T08:03:19.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "cluster1"
+    },
+    {
+      "title": "Dog Bark Emotion Analysis: Should I include a breed classification pre-model?",
+      "url": "https://stackoverflow.com/questions/80013971/dog-bark-emotion-analysis-should-i-include-a-breed-classification-pre-model",
+      "published_at": "2026-11-01T10:52:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "machine-learning",
+        "classification",
+        "audio-processing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "noa"
+    },
+    {
+      "title": "Python 3.14: NameError for a self-referencing annotation, but only when it’s read in __init_subclass__",
+      "url": "https://stackoverflow.com/questions/80013905/python-3-14-nameerror-for-a-self-referencing-annotation-but-only-when-it-s-rea",
+      "published_at": "2026-10-31T21:58:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
+      "tags": [
+        "python",
+        "python-typing",
+        "python-3.14"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad Raham Saleem"
     },
     {
       "title": "Why can't I use key.A and key.B after importing Pyglet?",
@@ -1793,20 +1847,6 @@
       "user": "user33244385"
     },
     {
-      "title": "Python 3.14: NameError for a self-referencing annotation, but only when it’s read in __init_subclass__",
-      "url": "https://stackoverflow.com/questions/80013905/python-3-14-nameerror-for-a-self-referencing-annotation-but-only-when-it-s-rea",
-      "published_at": "2026-10-31T21:58:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "python",
-        "python-typing",
-        "python-3.14"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Raham Saleem"
-    },
-    {
       "title": "forecast the future price of a stock based on the past prices of other stocks",
       "url": "https://stackoverflow.com/questions/80013867/forecast-the-future-price-of-a-stock-based-on-the-past-prices-of-other-stocks",
       "published_at": "2026-10-31T15:52:41.000Z",
@@ -1822,7 +1862,7 @@
       "title": "modifying one inner list in `[[0]] * 3` changes all three. How to avoid it?",
       "url": "https://stackoverflow.com/questions/80013908/modifying-one-inner-list-in-0-3-changes-all-three-how-to-avoid-it",
       "published_at": "2026-10-31T22:23:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
@@ -1858,60 +1898,6 @@
       "user": "F Rafael Alvarez"
     },
     {
-      "title": "How to idiomatically map data&#160;(in my case prime numbers) to a reusable class in Python?",
-      "url": "https://stackoverflow.com/questions/80013764/how-to-idiomatically-map-data-in-my-case-prime-numbers-to-a-reusable-class-in",
-      "published_at": "2026-10-31T03:30:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "python",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "gnarol "
-    },
-    {
-      "title": "Install Python3.15 in brew",
-      "url": "https://stackoverflow.com/questions/80013762/install-python3-15-in-brew",
-      "published_at": "2026-10-31T02:13:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "homebrew"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Huy Khang Nguyễn"
-    },
-    {
-      "title": "Buggy implementation of Knuth's Mastermind algorithm in Python",
-      "url": "https://stackoverflow.com/questions/80013760/buggy-implementation-of-knuths-mastermind-algorithm-in-python",
-      "published_at": "2026-10-31T01:58:40.000Z",
-      "description": "Stack Overflow question · 1 answers · score 5",
-      "tags": [
-        "python",
-        "algorithm",
-        "minimax",
-        "knuth"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "YOLOAerospaceIndustries"
-    },
-    {
-      "title": "How do I implement different modified objects by using classes?",
-      "url": "https://stackoverflow.com/questions/80013673/how-do-i-implement-different-modified-objects-by-using-classes",
-      "published_at": "2026-10-30T16:28:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "corv1224"
-    },
-    {
       "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
       "url": "https://www.freecodecamp.org/news/python-in-marketing-a-practical-book/",
       "published_at": "2026-10-29T15:42:25.000Z",
@@ -1944,21 +1930,6 @@
     }
   ],
   "DevOps": [
-    {
-      "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
-      "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
-      "published_at": "2026-10-30T05:35:56Z",
-      "description": "When a production Kubernetes cluster starts throwing 5xx errors , the hardest part of incident...",
-      "tags": [
-        "sre",
-        "kubernetes",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7epj18utz7xdyl1fo4rb.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
     {
       "title": "Zero Trust CI/CD: Keyless Bitbucket Deployment on Google Cloud",
       "url": "https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1",
@@ -2018,6 +1989,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F471epezz3m6cdkvp598f.jpg",
       "source": "Dev.to",
       "user": "Esra Kadah"
+    },
+    {
+      "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
+      "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
+      "published_at": "2026-10-30T05:35:56Z",
+      "description": "When a production Kubernetes cluster starts throwing 5xx errors , the hardest part of incident...",
+      "tags": [
+        "sre",
+        "kubernetes",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7epj18utz7xdyl1fo4rb.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
@@ -2184,10 +2170,24 @@
       "user": "velmu"
     },
     {
+      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
+      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
+      "published_at": "2026-11-01T04:11:32.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "javascript",
+        "html",
+        "dom-events"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mith sams"
+    },
+    {
       "title": "Adding a Private property to CanvasRenderingContext2D",
       "url": "https://stackoverflow.com/questions/80013933/adding-a-private-property-to-canvasrenderingcontext2d",
       "published_at": "2026-11-01T04:34:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "javascript",
         "class",
@@ -2197,20 +2197,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Manngo"
-    },
-    {
-      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
-      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
-      "published_at": "2026-11-01T04:11:32.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "html",
-        "dom-events"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mith sams"
     },
     {
       "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
@@ -2343,7 +2329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 181,
       "user": "beilunyang"
     },
     {
@@ -2362,21 +2348,6 @@
     }
   ],
   "Cloud": [
-    {
-      "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
-      "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
-      "published_at": "2026-10-30T05:35:56Z",
-      "description": "When a production Kubernetes cluster starts throwing 5xx errors , the hardest part of incident...",
-      "tags": [
-        "sre",
-        "kubernetes",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7epj18utz7xdyl1fo4rb.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
     {
       "title": "Zero Trust CI/CD: Keyless Bitbucket Deployment on Google Cloud",
       "url": "https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1",
@@ -2483,6 +2454,21 @@
       "user": "Esra Kadah"
     },
     {
+      "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
+      "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
+      "published_at": "2026-10-30T05:35:56Z",
+      "description": "When a production Kubernetes cluster starts throwing 5xx errors , the hardest part of incident...",
+      "tags": [
+        "sre",
+        "kubernetes",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7epj18utz7xdyl1fo4rb.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "[Agent Platform in Practice (2)] From Monolithic Cloud Run to Google Cloud Agent Runtime: Refactoring LINE AI Business Card King",
       "url": "https://dev.to/gde/agent-platform-in-practice-2-from-monolithic-cloud-run-to-google-cloud-agent-runtime-bo1",
       "published_at": "2026-10-20T12:12:59Z",
@@ -2584,7 +2570,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26444923?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 481,
       "user": "chris124567"
     },
     {
@@ -2599,7 +2585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 379,
       "user": "ashayas"
     },
     {
@@ -3121,7 +3107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 3812,
+      "stars": 4271,
       "user": "heydamir"
     },
     {
@@ -3136,7 +3122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 1736,
+      "stars": 2160,
       "user": "patch-gg"
     },
     {
@@ -3151,7 +3137,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1001,
+      "stars": 1224,
       "user": "haydenschmitty"
     },
     {
@@ -3166,23 +3152,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 942,
       "user": "HRuiCcc"
     },
     {
-      "title": "jacke-pp/open-yoki - An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "url": "https://github.com/jacke-pp/open-yoki",
-      "published_at": "2026-10-28T08:58:27Z",
-      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "title": "elvarofficial/teardown - A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "url": "https://github.com/elvarofficial/teardown",
+      "published_at": "2026-10-30T09:29:01Z",
+      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316605581?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 706,
-      "user": "jacke-pp"
+      "stars": 753,
+      "user": "elvarofficial"
     },
     {
       "title": "Motionsites-AI/claude-skill - Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
@@ -3196,7 +3182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1321,
+      "stars": 1356,
       "user": "Motionsites-AI"
     },
     {
@@ -3226,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 999,
+      "stars": 1101,
       "user": "BryceYuuu"
     },
     {
@@ -3241,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/198685879?v=4",
       "source": "GitHub",
-      "stars": 575,
+      "stars": 603,
       "user": "konlu"
     },
     {
@@ -3256,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 548,
+      "stars": 589,
       "user": "ramenvr"
     },
     {
@@ -3271,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1793,
+      "stars": 1838,
       "user": "paipiange"
     },
     {
@@ -3286,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 181,
       "user": "beilunyang"
     },
     {
@@ -3301,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
       "source": "GitHub",
-      "stars": 175,
+      "stars": 176,
       "user": "zklmiao"
     },
     {
@@ -3316,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261793229?v=4",
       "source": "GitHub",
-      "stars": 120,
+      "stars": 121,
       "user": "theconsensuslabs"
     },
     {
@@ -3335,21 +3321,6 @@
       "user": "missuo"
     },
     {
-      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "published_at": "2026-10-27T12:24:37Z",
-      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
-      "source": "GitHub",
-      "stars": 4865,
-      "user": "anhao"
-    },
-    {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "published_at": "2026-10-31T09:32:46Z",
@@ -3361,8 +3332,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 4028,
+      "stars": 5770,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "published_at": "2026-10-27T12:24:37Z",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
+      "source": "GitHub",
+      "stars": 5038,
+      "user": "anhao"
     },
     {
       "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
@@ -3376,7 +3362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1600,
+      "stars": 1617,
       "user": "andyhuo520"
     },
     {
@@ -3391,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139697969?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 965,
       "user": "D3voz"
     },
     {
@@ -3406,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 835,
+      "stars": 838,
       "user": "kargulstudio"
     },
     {
@@ -3421,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93106514?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 890,
       "user": "physicsdolphin"
     },
     {
@@ -3436,8 +3422,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26444923?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 481,
       "user": "chris124567"
+    },
+    {
+      "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
+      "url": "https://github.com/storytold/craft-anything",
+      "published_at": "2026-10-31T14:50:00Z",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "source": "GitHub",
+      "stars": 467,
+      "user": "storytold"
     },
     {
       "title": "ashayas/icloud-s3 - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
@@ -3451,38 +3452,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 379,
       "user": "ashayas"
     },
     {
-      "title": "Weft-Rust/Weft - GitHub Repository",
-      "url": "https://github.com/Weft-Rust/Weft",
-      "published_at": "2026-10-29T22:57:18Z",
-      "description": "Trending GitHub Repository",
+      "title": "ShineFinancialStrut/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+      "url": "https://github.com/ShineFinancialStrut/game-server-route-racer",
+      "published_at": "2026-10-31T23:52:41Z",
+      "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/350534499?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
       "source": "GitHub",
-      "stars": 242,
-      "user": "Weft-Rust"
-    },
-    {
-      "title": "anomalyco/hokum - Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
-      "url": "https://github.com/anomalyco/hokum",
-      "published_at": "2026-10-28T01:37:19Z",
-      "description": "Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66570915?v=4",
-      "source": "GitHub",
-      "stars": 225,
-      "user": "anomalyco"
+      "stars": 275,
+      "user": "ShineFinancialStrut"
     },
     {
       "title": "Jepsen: ParticleDB 1.1.4",
@@ -3508,6 +3494,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "JordiGH"
+    },
+    {
+      "title": "Dog Bark Emotion Analysis: Should I include a breed classification pre-model?",
+      "url": "https://stackoverflow.com/questions/80013971/dog-bark-emotion-analysis-should-i-include-a-breed-classification-pre-model",
+      "published_at": "2026-11-01T10:52:26.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "machine-learning",
+        "classification",
+        "audio-processing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "noa"
     },
     {
       "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
