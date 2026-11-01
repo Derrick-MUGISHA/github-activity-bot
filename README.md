@@ -21,26 +21,26 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-11-01 2:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-11-01 8:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiky1u2td754x8dzoee8p.png" width="200" alt="Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner" />
+    <a href="https://dev.to/devteam/what-was-your-win-this-week-47ci">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8upd03ge8c0a414jq3ai.jpg" width="200" alt="What was your win this week?" />
       <br/>
-      <b>Giving AI Pain: The Architecture of Synthetic Scar...</b>
+      <b>What was your win this week?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/devteam/what-was-your-win-this-week-47ci">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8upd03ge8c0a414jq3ai.jpg" width="200" alt="What was your win this week?" />
+    <a href="https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiky1u2td754x8dzoee8p.png" width="200" alt="Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner" />
       <br/>
-      <b>What was your win this week?</b>
+      <b>Giving AI Pain: The Architecture of Synthetic Scar...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -92,8 +92,8 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner](https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740) | Dev.to |
-| 2 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47ci) | Dev.to |
+| 1 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47ci) | Dev.to |
+| 2 | [Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner](https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740) | Dev.to |
 | 3 | [Build a production-style Autonomous SRE Command Center using Gemini 4 Argon](https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759) | Dev.to |
 | 4 | [Your DEV posts have a beautiful new share card ✨](https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8) | Dev.to |
 | 5 | [Zero Trust CI/CD: Keyless Bitbucket Deployment on Google Cloud](https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [DuckLess: serverless DuckDB on Google Cloud, in your own project](https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a) | Dev.to |
 | 20 | [GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?](https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l) | Dev.to |
 
-<sub>Last fetched: Sun, 01 Nov 2026 02:50:17 CAT</sub>
+<sub>Last fetched: Sun, 01 Nov 2026 08:58:11 CAT</sub>
 
 
 ---
@@ -122,29 +122,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `React` — Implement a custom hook for fetching data**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 hooks, async
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> useState, useEffect, loading states, error handling
-
-</details>
-
-**2. `Database` — Design a database schema for a social media platform**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
-
-> Users, posts, relationships, indexes, partitioning
-
-</details>
-
-**3. `React` — Explain the difference between state and props**
+**1. `React` — Explain the difference between state and props**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data flow, components
 
@@ -152,6 +130,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
 > Ownership, mutability, data flow direction
+
+</details>
+
+**2. `Python` — What is the difference between list and tuple in Python?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Mutability, performance, use cases
+
+</details>
+
+**3. `Database` — What is database normalization and denormalization?**
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 design, optimization
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
+
+> Normal forms, redundancy, performance trade-offs
 
 </details>
 
@@ -169,11 +169,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | **JavaScript** | 33 | 17.9% | `█████████░░░░░░░░░░░` |
 | **Python** | 29 | 15.8% | `████████░░░░░░░░░░░░` |
 | **Cloud** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
 | **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **Mobile** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 | **Database** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,10 +194,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 28.6%
-JavaScript      █████████████████████████ 23.6%
-Python          ██████████████████████ 20.7%
-Java            ████████████████████ 18.6%
+Go              ██████████████████████████████ 29.1%
+JavaScript      ████████████████████████ 23.4%
+Python          █████████████████████ 20.6%
+Java            ███████████████████ 18.4%
 Rust            ███████ 6.4%
 Kotlin          █ 1.4%
 Swift           █ 0.7%
@@ -206,7 +206,7 @@ Swift           █ 0.7%
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 40
+    "Go" : 41
     "JavaScript" : 33
     "Python" : 29
     "Java" : 26
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Sun, 01 Nov 2026 00:50:17 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sun, 01 Nov 2026 06:58:11 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
