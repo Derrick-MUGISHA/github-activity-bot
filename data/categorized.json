@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 4650,
+      "stars": 4785,
       "user": "heydamir"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1436,
+      "stars": 1673,
       "user": "haydenschmitty"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1386,
+      "stars": 1401,
       "user": "Motionsites-AI"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/198685879?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 624,
       "user": "konlu"
     },
     {
@@ -809,23 +809,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1859,
+      "stars": 1861,
       "user": "paipiange"
-    },
-    {
-      "title": "missuo/unfairplay-bot - Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
-      "url": "https://github.com/missuo/unfairplay-bot",
-      "published_at": "2026-10-28T12:17:29Z",
-      "description": "Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55200481?v=4",
-      "source": "GitHub",
-      "stars": 114,
-      "user": "missuo"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -839,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 6736,
+      "stars": 7066,
       "user": "deepseek-ai"
     },
     {
@@ -854,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 5112,
+      "stars": 5126,
       "user": "anhao"
     },
     {
@@ -869,8 +854,33 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1632,
+      "stars": 1634,
       "user": "andyhuo520"
+    },
+    {
+      "title": "London Meetup - Nov 2026",
+      "url": "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026",
+      "published_at": "2026-11-01T12:47:10.632-06:00",
+      "description": "Pub Address: The Fellow, 24 York Way, London, N1 9AA.\r\n\r\nDate: Sunday, 15/11/2026 1pm\r\n\r\nThe idea is to just meet and have a chat really. \r\n\r\nI have submitted a request to book a table. Hopefully they approve but if not we can just find an un-booked table. \r\n\r\nI am posting the meetup prior to receiving their approval, so that those of you who live outside London can (hopefully) bag a cheaper train ticket by booking 2 weeks in advance. \r\n\r\nI've created a London Lobsters [Whatsapp group](https://chat.whatsapp.com/LWdobBbWVt315rNzs4a1EZ)\r\n too, where we can communicate on the day to share the table number/updates.\r\n\r\nPlease do join it.",
+      "tags": [
+        "event"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "prole"
+    },
+    {
+      "title": "so i guess everyone uses llms to think now",
+      "url": "https://eva.ac/blog/llms",
+      "published_at": "2026-11-01T15:13:55.607-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "culture"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "xyzeva"
     },
     {
       "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
@@ -887,16 +897,63 @@
       "user": "newuser"
     },
     {
+      "title": "How do I target only Internet Explorer 10 for certain situations like Internet Explorer-specific CSS or Internet Explorer-specific JavaScript code?",
+      "url": "https://stackoverflow.com/questions/9900311/how-do-i-target-only-internet-explorer-10-for-certain-situations-like-internet-e",
+      "published_at": "2012-03-28T02:21:32.000Z",
+      "description": "Stack Overflow question · 24 answers · score 160",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "internet-explorer-10",
+        "conditional-comments"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "trusktr"
+    },
+    {
       "title": "Match-Case in python 3. I do not know how to use Match case so could someone please explain?",
       "url": "https://stackoverflow.com/questions/80014047/match-case-in-python-3-i-do-not-know-how-to-use-match-case-so-could-someone-ple",
       "published_at": "2026-11-01T18:07:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Beltran Mir"
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "published_at": "2026-11-01T21:55:23.000Z",
+      "description": "Data centers are deeply unpopular. But what if we called them something else?",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "Chris Lehane",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "published_at": "2026-11-01T20:57:58.000Z",
+      "description": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "tags": [
+        "AI",
+        "Marissa Mayer",
+        "Mark Zuckerberg",
+        "sam altman",
+        "Whitney Wolfe Herd"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
@@ -981,20 +1038,6 @@
         "Government & Policy",
         "SpaceX",
         "xAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "published_at": "2026-10-31T16:12:55.000Z",
-      "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1221,7 +1264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 4650,
+      "stars": 4785,
       "user": "heydamir"
     },
     {
@@ -1236,7 +1279,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 2427,
+      "stars": 2515,
       "user": "patch-gg"
     },
     {
@@ -1251,7 +1294,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1436,
+      "stars": 1673,
       "user": "haydenschmitty"
     },
     {
@@ -1266,7 +1309,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 959,
       "user": "HRuiCcc"
     },
     {
@@ -1281,7 +1324,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 899,
       "user": "elvarofficial"
     },
     {
@@ -1311,7 +1354,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 6736,
+      "stars": 7066,
       "user": "deepseek-ai"
     },
     {
@@ -1326,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 5112,
+      "stars": 5126,
       "user": "anhao"
     },
     {
@@ -1341,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1632,
+      "stars": 1634,
       "user": "andyhuo520"
     },
     {
@@ -1356,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139697969?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1041,
       "user": "D3voz"
     },
     {
@@ -1371,8 +1414,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 839,
       "user": "kargulstudio"
+    },
+    {
+      "title": "Swapping unique values in mongoose without swapping all properties",
+      "url": "https://stackoverflow.com/questions/80014074/swapping-unique-values-in-mongoose-without-swapping-all-properties",
+      "published_at": "2026-11-01T21:33:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "node.js",
+        "mongodb",
+        "mongoose"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33267884"
+    },
+    {
+      "title": "Adding a Private property to CanvasRenderingContext2D",
+      "url": "https://stackoverflow.com/questions/80013933/adding-a-private-property-to-canvasrenderingcontext2d",
+      "published_at": "2026-11-01T04:34:46.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "javascript",
+        "class",
+        "html5-canvas",
+        "extends"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Manngo"
     },
     {
       "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
@@ -1387,21 +1460,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mith sams"
-    },
-    {
-      "title": "Adding a Private property to CanvasRenderingContext2D",
-      "url": "https://stackoverflow.com/questions/80013933/adding-a-private-property-to-canvasrenderingcontext2d",
-      "published_at": "2026-11-01T04:34:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "javascript",
-        "class",
-        "html5-canvas",
-        "extends"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Manngo"
     },
     {
       "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
@@ -1444,20 +1502,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Andre M"
-    },
-    {
-      "title": "In WebGPU, is it faster to use a single interleaved GPUBuffer for positions, normals, and UVs? Or should I use separate GPUBuffers?",
-      "url": "https://stackoverflow.com/questions/80013705/in-webgpu-is-it-faster-to-use-a-single-interleaved-gpubuffer-for-positions-nor",
-      "published_at": "2026-10-30T19:16:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "vertex-buffer",
-        "webgpu"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user3163495"
     },
     {
       "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
@@ -1505,17 +1549,20 @@
       "user": "Furqan"
     },
     {
-      "title": "Match a string not preceded by a pattern",
-      "url": "https://stackoverflow.com/questions/79833648/match-a-string-not-preceded-by-a-pattern",
-      "published_at": "2025-11-30T03:12:04.000Z",
-      "description": "Stack Overflow question · 5 answers · score -1",
+      "title": "How do I target only Internet Explorer 10 for certain situations like Internet Explorer-specific CSS or Internet Explorer-specific JavaScript code?",
+      "url": "https://stackoverflow.com/questions/9900311/how-do-i-target-only-internet-explorer-10-for-certain-situations-like-internet-e",
+      "published_at": "2012-03-28T02:21:32.000Z",
+      "description": "Stack Overflow question · 24 answers · score 160",
       "tags": [
         "javascript",
-        "regex"
+        "html",
+        "css",
+        "internet-explorer-10",
+        "conditional-comments"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Misiur"
+      "user": "trusktr"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1682,7 +1729,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1386,
+      "stars": 1401,
       "user": "Motionsites-AI"
     },
     {
@@ -1697,7 +1744,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 1134,
+      "stars": 1146,
       "user": "BryceYuuu"
     },
     {
@@ -1712,7 +1759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1130,
       "user": "deepopen-com"
     },
     {
@@ -1727,7 +1774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/198685879?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 624,
       "user": "konlu"
     },
     {
@@ -1742,7 +1789,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 613,
       "user": "ramenvr"
     },
     {
@@ -1761,22 +1808,22 @@
       "user": "zklmiao"
     },
     {
-      "title": "Match-Case in python 3. I do not know how to use Match case so could someone please explain?",
-      "url": "https://stackoverflow.com/questions/80014047/match-case-in-python-3-i-do-not-know-how-to-use-match-case-so-could-someone-ple",
-      "published_at": "2026-11-01T18:07:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "How make a program temperature vs heat with python",
+      "url": "https://stackoverflow.com/questions/80014068/how-make-a-program-temperature-vs-heat-with-python",
+      "published_at": "2026-11-01T20:57:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Beltran Mir"
+      "user": "Luis Miguel Yarhui Sandoval"
     },
     {
       "title": "Why does attrs treat a frozen attrs class differently from a frozen attrs field",
       "url": "https://stackoverflow.com/questions/80014020/why-does-attrs-treat-a-frozen-attrs-class-differently-from-a-frozen-attrs-field",
       "published_at": "2026-11-01T16:07:41.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 2 answers · score 4",
       "tags": [
         "python",
         "python-attrs"
@@ -1784,6 +1831,18 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
+    },
+    {
+      "title": "Match-Case in python 3. I do not know how to use Match case so could someone please explain?",
+      "url": "https://stackoverflow.com/questions/80014047/match-case-in-python-3-i-do-not-know-how-to-use-match-case-so-could-someone-ple",
+      "published_at": "2026-11-01T18:07:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -10",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Beltran Mir"
     },
     {
       "title": "Looking for a practical example where making a super call in the body of __init__ method of a metaclass makes a difference",
@@ -1802,7 +1861,7 @@
       "title": "Python 2 vs. Python 3: what does \"not backward compatible\" mean exactly?",
       "url": "https://stackoverflow.com/questions/80013954/python-2-vs-python-3-what-does-not-backward-compatible-mean-exactly",
       "published_at": "2026-11-01T08:03:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "python-3.x",
@@ -1831,7 +1890,7 @@
       "title": "Dog Bark Emotion Analysis: Should I include a breed classification pre-model?",
       "url": "https://stackoverflow.com/questions/80013971/dog-bark-emotion-analysis-should-i-include-a-breed-classification-pre-model",
       "published_at": "2026-11-01T10:52:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "tooling-recommendation",
         "python",
@@ -1883,20 +1942,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Karol"
-    },
-    {
-      "title": "Why does Python return True when comparing two datetime objects with different UTC timestamps?",
-      "url": "https://stackoverflow.com/questions/80013794/why-does-python-return-true-when-comparing-two-datetime-objects-with-different-u",
-      "published_at": "2026-10-31T08:12:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "datetime",
-        "timezone"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Stake Overflow down 99 percent"
     },
     {
       "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
@@ -2171,6 +2216,21 @@
       "user": "velmu"
     },
     {
+      "title": "Adding a Private property to CanvasRenderingContext2D",
+      "url": "https://stackoverflow.com/questions/80013933/adding-a-private-property-to-canvasrenderingcontext2d",
+      "published_at": "2026-11-01T04:34:46.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "javascript",
+        "class",
+        "html5-canvas",
+        "extends"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Manngo"
+    },
+    {
       "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
       "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
       "published_at": "2026-11-01T04:11:32.000Z",
@@ -2183,21 +2243,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mith sams"
-    },
-    {
-      "title": "Adding a Private property to CanvasRenderingContext2D",
-      "url": "https://stackoverflow.com/questions/80013933/adding-a-private-property-to-canvasrenderingcontext2d",
-      "published_at": "2026-11-01T04:34:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "javascript",
-        "class",
-        "html5-canvas",
-        "extends"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Manngo"
     },
     {
       "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
@@ -2225,6 +2270,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Andre M"
+    },
+    {
+      "title": "How do I target only Internet Explorer 10 for certain situations like Internet Explorer-specific CSS or Internet Explorer-specific JavaScript code?",
+      "url": "https://stackoverflow.com/questions/9900311/how-do-i-target-only-internet-explorer-10-for-certain-situations-like-internet-e",
+      "published_at": "2012-03-28T02:21:32.000Z",
+      "description": "Stack Overflow question · 24 answers · score 160",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "internet-explorer-10",
+        "conditional-comments"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "trusktr"
     }
   ],
   "Mobile": [
@@ -2556,7 +2617,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1130,
       "user": "deepopen-com"
     },
     {
@@ -2571,7 +2632,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26444923?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 494,
       "user": "chris124567"
     },
     {
@@ -2586,7 +2647,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 439,
       "user": "ashayas"
     },
     {
@@ -2689,6 +2750,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "aphyr"
+    },
+    {
+      "title": "Swapping unique values in mongoose without swapping all properties",
+      "url": "https://stackoverflow.com/questions/80014074/swapping-unique-values-in-mongoose-without-swapping-all-properties",
+      "published_at": "2026-11-01T21:33:34.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "node.js",
+        "mongodb",
+        "mongoose"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33267884"
     },
     {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
@@ -3093,7 +3169,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 4650,
+      "stars": 4785,
       "user": "heydamir"
     },
     {
@@ -3108,7 +3184,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 2427,
+      "stars": 2515,
       "user": "patch-gg"
     },
     {
@@ -3123,7 +3199,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1436,
+      "stars": 1673,
       "user": "haydenschmitty"
     },
     {
@@ -3138,7 +3214,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 955,
+      "stars": 959,
       "user": "HRuiCcc"
     },
     {
@@ -3153,7 +3229,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 899,
       "user": "elvarofficial"
     },
     {
@@ -3168,7 +3244,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1386,
+      "stars": 1401,
       "user": "Motionsites-AI"
     },
     {
@@ -3183,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 1134,
+      "stars": 1146,
       "user": "BryceYuuu"
     },
     {
@@ -3198,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
       "source": "GitHub",
-      "stars": 1131,
+      "stars": 1130,
       "user": "deepopen-com"
     },
     {
@@ -3213,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/198685879?v=4",
       "source": "GitHub",
-      "stars": 619,
+      "stars": 624,
       "user": "konlu"
     },
     {
@@ -3228,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 606,
+      "stars": 613,
       "user": "ramenvr"
     },
     {
@@ -3243,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1859,
+      "stars": 1861,
       "user": "paipiange"
     },
     {
@@ -3260,6 +3336,21 @@
       "source": "GitHub",
       "stars": 183,
       "user": "beilunyang"
+    },
+    {
+      "title": "Balanov/uncut - A 7 MB lossless coding-agent harness for shell, CI, and local models. No TUI. No silent context cuts.",
+      "url": "https://github.com/Balanov/uncut",
+      "published_at": "2026-11-01T17:19:30Z",
+      "description": "A 7 MB lossless coding-agent harness for shell, CI, and local models. No TUI. No silent context cuts.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
+      "source": "GitHub",
+      "stars": 180,
+      "user": "Balanov"
     },
     {
       "title": "zklmiao/CodeWar - 网页端 Python 编程对抗游戏：解题速度即战斗力 · A turn-based competitive Python programming game",
@@ -3288,23 +3379,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261793229?v=4",
       "source": "GitHub",
-      "stars": 122,
+      "stars": 124,
       "user": "theconsensuslabs"
-    },
-    {
-      "title": "missuo/unfairplay-bot - Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
-      "url": "https://github.com/missuo/unfairplay-bot",
-      "published_at": "2026-10-28T12:17:29Z",
-      "description": "Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55200481?v=4",
-      "source": "GitHub",
-      "stars": 114,
-      "user": "missuo"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -3318,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 6736,
+      "stars": 7066,
       "user": "deepseek-ai"
     },
     {
@@ -3333,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 5112,
+      "stars": 5126,
       "user": "anhao"
     },
     {
@@ -3348,7 +3424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1632,
+      "stars": 1634,
       "user": "andyhuo520"
     },
     {
@@ -3363,7 +3439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139697969?v=4",
       "source": "GitHub",
-      "stars": 1010,
+      "stars": 1041,
       "user": "D3voz"
     },
     {
@@ -3378,7 +3454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
       "source": "GitHub",
-      "stars": 838,
+      "stars": 839,
       "user": "kargulstudio"
     },
     {
@@ -3393,7 +3469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93106514?v=4",
       "source": "GitHub",
-      "stars": 980,
+      "stars": 1024,
       "user": "physicsdolphin"
     },
     {
@@ -3408,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 865,
       "user": "storytold"
     },
     {
@@ -3423,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26444923?v=4",
       "source": "GitHub",
-      "stars": 489,
+      "stars": 494,
       "user": "chris124567"
     },
     {
@@ -3438,7 +3514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 439,
       "user": "ashayas"
     },
     {
@@ -3453,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/142839048?v=4",
       "source": "GitHub",
-      "stars": 335,
+      "stars": 368,
       "user": "yalongwastaken"
     },
     {
@@ -3470,22 +3546,10 @@
       "user": "aphyr"
     },
     {
-      "title": "The Kluever Maneuver",
-      "url": "https://jordi.inversethought.com/blog/the-kluever-maneuver/",
-      "published_at": "2026-10-31T10:05:04.540-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "testing"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "JordiGH"
-    },
-    {
       "title": "Dog Bark Emotion Analysis: Should I include a breed classification pre-model?",
       "url": "https://stackoverflow.com/questions/80013971/dog-bark-emotion-analysis-should-i-include-a-breed-classification-pre-model",
       "published_at": "2026-11-01T10:52:26.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "tooling-recommendation",
         "python",
@@ -3496,22 +3560,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "noa"
-    },
-    {
-      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-      "published_at": "2026-10-31T15:41:57.000Z",
-      "description": "TikTok may be working to become the app that people use for most of their digital activities.",
-      "tags": [
-        "Apps",
-        "Social",
-        "evergeen",
-        "evergreens",
-        "super app"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
