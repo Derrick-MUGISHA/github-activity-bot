@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Singularity News :: CCG",
+      "url": "https://dev.to/pengeszikra/singularity-news-ccg-5ejk",
+      "published_at": "2026-10-31T02:18:22Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gamedev",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyh84oxpucdnmygo396v.png",
+      "source": "Dev.to",
+      "user": "Peter Vivo"
+    },
+    {
       "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
       "url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740",
       "published_at": "2026-10-29T20:32:53Z",
@@ -555,21 +570,6 @@
       "user": "Karthigayan Devan"
     },
     {
-      "title": "AI Needs a Test That Fights Back",
-      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
-      "published_at": "2026-10-12T21:03:49Z",
-      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
-      "tags": [
-        "ai",
-        "opensource",
-        "testing",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
-      "source": "Dev.to",
-      "user": "Ramakrishnan Lokanathan"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 4271,
+      "stars": 4650,
       "user": "heydamir"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1224,
+      "stars": 1436,
       "user": "haydenschmitty"
     },
     {
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1386,
       "user": "Motionsites-AI"
     },
     {
@@ -794,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/198685879?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 619,
       "user": "konlu"
     },
     {
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1838,
+      "stars": 1859,
       "user": "paipiange"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5770,
+      "stars": 6736,
       "user": "deepseek-ai"
     },
     {
@@ -854,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 5038,
+      "stars": 5112,
       "user": "anhao"
     },
     {
@@ -869,36 +869,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1617,
+      "stars": 1632,
       "user": "andyhuo520"
-    },
-    {
-      "title": "ShineFinancialStrut/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
-      "url": "https://github.com/ShineFinancialStrut/game-server-route-racer",
-      "published_at": "2026-10-31T23:52:41Z",
-      "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
-      "source": "GitHub",
-      "stars": 275,
-      "user": "ShineFinancialStrut"
-    },
-    {
-      "title": "The support case of a customer who said that all they could see was a black screen",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
-      "published_at": "2026-10-30T20:01:21.760-05:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "historical",
-        "windows"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ubernostrum"
     },
     {
       "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
@@ -913,6 +885,46 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "newuser"
+    },
+    {
+      "title": "Match-Case in python 3. I do not know how to use Match case so could someone please explain?",
+      "url": "https://stackoverflow.com/questions/80014047/match-case-in-python-3-i-do-not-know-how-to-use-match-case-so-could-someone-ple",
+      "published_at": "2026-11-01T18:07:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Beltran Mir"
+    },
+    {
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "published_at": "2026-11-01T17:04:00.000Z",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "tags": [
+        "Transportation",
+        "Robotics",
+        "avs",
+        "Trucks VC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
+    },
+    {
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "published_at": "2026-11-01T16:20:10.000Z",
+      "description": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "tags": [
+        "Crypto",
+        "Binance"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Data centers are now a midterm issue, even in Brooklyn",
@@ -987,19 +999,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "published_at": "2026-10-31T01:20:05.000Z",
-      "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "tags": [
-        "AI",
-        "TC"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
     },
     {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
@@ -1222,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 4271,
+      "stars": 4650,
       "user": "heydamir"
     },
     {
@@ -1237,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 2160,
+      "stars": 2427,
       "user": "patch-gg"
     },
     {
@@ -1252,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1224,
+      "stars": 1436,
       "user": "haydenschmitty"
     },
     {
@@ -1267,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 942,
+      "stars": 955,
       "user": "HRuiCcc"
     },
     {
@@ -1282,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 845,
       "user": "elvarofficial"
     },
     {
@@ -1297,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 183,
       "user": "beilunyang"
     },
     {
@@ -1312,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5770,
+      "stars": 6736,
       "user": "deepseek-ai"
     },
     {
@@ -1327,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 5038,
+      "stars": 5112,
       "user": "anhao"
     },
     {
@@ -1342,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1617,
+      "stars": 1632,
       "user": "andyhuo520"
     },
     {
@@ -1357,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139697969?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 1010,
       "user": "D3voz"
     },
     {
@@ -1683,8 +1682,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1386,
       "user": "Motionsites-AI"
+    },
+    {
+      "title": "BryceYuuu/RUN - RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "url": "https://github.com/BryceYuuu/RUN",
+      "published_at": "2026-10-29T11:28:43Z",
+      "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
+      "source": "GitHub",
+      "stars": 1134,
+      "user": "BryceYuuu"
     },
     {
       "title": "deepopen-com/deepopen-3d-webs - Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
@@ -1702,21 +1716,6 @@
       "user": "deepopen-com"
     },
     {
-      "title": "BryceYuuu/RUN - RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-      "url": "https://github.com/BryceYuuu/RUN",
-      "published_at": "2026-10-29T11:28:43Z",
-      "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
-      "source": "GitHub",
-      "stars": 1101,
-      "user": "BryceYuuu"
-    },
-    {
       "title": "konlu/story-studio - 从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
       "url": "https://github.com/konlu/story-studio",
       "published_at": "2026-10-26T09:20:06Z",
@@ -1728,7 +1727,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/198685879?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 619,
       "user": "konlu"
     },
     {
@@ -1743,7 +1742,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 606,
       "user": "ramenvr"
     },
     {
@@ -1758,14 +1757,39 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "zklmiao"
     },
     {
-      "title": "Does calling super have any effect in the body of __init__ method of a meta model?",
-      "url": "https://stackoverflow.com/questions/80014004/does-calling-super-have-any-effect-in-the-body-of-init-method-of-a-meta-mode",
+      "title": "Match-Case in python 3. I do not know how to use Match case so could someone please explain?",
+      "url": "https://stackoverflow.com/questions/80014047/match-case-in-python-3-i-do-not-know-how-to-use-match-case-so-could-someone-ple",
+      "published_at": "2026-11-01T18:07:22.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Beltran Mir"
+    },
+    {
+      "title": "Why does attrs treat a frozen attrs class differently from a frozen attrs field",
+      "url": "https://stackoverflow.com/questions/80014020/why-does-attrs-treat-a-frozen-attrs-class-differently-from-a-frozen-attrs-field",
+      "published_at": "2026-11-01T16:07:41.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "python-attrs"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "Looking for a practical example where making a super call in the body of __init__ method of a metaclass makes a difference",
+      "url": "https://stackoverflow.com/questions/80014004/looking-for-a-practical-example-where-making-a-super-call-in-the-body-of-init",
       "published_at": "2026-11-01T13:53:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "python",
         "oop"
@@ -1775,10 +1799,24 @@
       "user": "ariko stephen"
     },
     {
+      "title": "Python 2 vs. Python 3: what does \"not backward compatible\" mean exactly?",
+      "url": "https://stackoverflow.com/questions/80013954/python-2-vs-python-3-what-does-not-backward-compatible-mean-exactly",
+      "published_at": "2026-11-01T08:03:19.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "python-3.x",
+        "backwards-compatibility"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "cluster1"
+    },
+    {
       "title": "Do I need a try/finally clause when calling cv2.VideoCapture.release()?",
       "url": "https://stackoverflow.com/questions/80013974/do-i-need-a-try-finally-clause-when-calling-cv2-videocapture-release",
       "published_at": "2026-11-01T11:19:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "opencv",
@@ -1788,18 +1826,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
-    },
-    {
-      "title": "Python 2 vs. Python 3: what does \"not backward compatible\" mean exactly?",
-      "url": "https://stackoverflow.com/questions/80013954/python-2-vs-python-3-what-does-not-backward-compatible-mean-exactly",
-      "published_at": "2026-11-01T08:03:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "cluster1"
     },
     {
       "title": "Dog Bark Emotion Analysis: Should I include a breed classification pre-model?",
@@ -1821,7 +1847,7 @@
       "title": "Python 3.14: NameError for a self-referencing annotation, but only when it’s read in __init_subclass__",
       "url": "https://stackoverflow.com/questions/80013905/python-3-14-nameerror-for-a-self-referencing-annotation-but-only-when-it-s-rea",
       "published_at": "2026-10-31T21:58:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
+      "description": "Stack Overflow question · 2 answers · score 4",
       "tags": [
         "python",
         "python-typing",
@@ -1850,25 +1876,13 @@
       "title": "forecast the future price of a stock based on the past prices of other stocks",
       "url": "https://stackoverflow.com/questions/80013867/forecast-the-future-price-of-a-stock-based-on-the-past-prices-of-other-stocks",
       "published_at": "2026-10-31T15:52:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Karol"
-    },
-    {
-      "title": "modifying one inner list in `[[0]] * 3` changes all three. How to avoid it?",
-      "url": "https://stackoverflow.com/questions/80013908/modifying-one-inner-list-in-0-3-changes-all-three-how-to-avoid-it",
-      "published_at": "2026-10-31T22:23:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "vincent wirawan"
     },
     {
       "title": "Why does Python return True when comparing two datetime objects with different UTC timestamps?",
@@ -1883,19 +1897,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Stake Overflow down 99 percent"
-    },
-    {
-      "title": "Python command not working in a particular project",
-      "url": "https://stackoverflow.com/questions/80013847/python-command-not-working-in-a-particular-project",
-      "published_at": "2026-10-31T14:05:30.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "F Rafael Alvarez"
     },
     {
       "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
@@ -2329,7 +2330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 183,
       "user": "beilunyang"
     },
     {
@@ -2570,7 +2571,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26444923?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 489,
       "user": "chris124567"
     },
     {
@@ -2585,7 +2586,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 423,
       "user": "ashayas"
     },
     {
@@ -3045,21 +3046,6 @@
       "user": "Paul Horton"
     },
     {
-      "title": "AI Needs a Test That Fights Back",
-      "url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
-      "published_at": "2026-10-12T21:03:49Z",
-      "description": "One right answer is not the same as a good sequence of decisions. eSlams is building a public stadium...",
-      "tags": [
-        "ai",
-        "opensource",
-        "testing",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpzq1lyktot28wqlp88l.png",
-      "source": "Dev.to",
-      "user": "Ramakrishnan Lokanathan"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3107,7 +3093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 4271,
+      "stars": 4650,
       "user": "heydamir"
     },
     {
@@ -3122,7 +3108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 2160,
+      "stars": 2427,
       "user": "patch-gg"
     },
     {
@@ -3137,7 +3123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1224,
+      "stars": 1436,
       "user": "haydenschmitty"
     },
     {
@@ -3152,7 +3138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 942,
+      "stars": 955,
       "user": "HRuiCcc"
     },
     {
@@ -3167,7 +3153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 753,
+      "stars": 845,
       "user": "elvarofficial"
     },
     {
@@ -3182,8 +3168,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "source": "GitHub",
-      "stars": 1356,
+      "stars": 1386,
       "user": "Motionsites-AI"
+    },
+    {
+      "title": "BryceYuuu/RUN - RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "url": "https://github.com/BryceYuuu/RUN",
+      "published_at": "2026-10-29T11:28:43Z",
+      "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
+      "source": "GitHub",
+      "stars": 1134,
+      "user": "BryceYuuu"
     },
     {
       "title": "deepopen-com/deepopen-3d-webs - Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
@@ -3201,21 +3202,6 @@
       "user": "deepopen-com"
     },
     {
-      "title": "BryceYuuu/RUN - RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-      "url": "https://github.com/BryceYuuu/RUN",
-      "published_at": "2026-10-29T11:28:43Z",
-      "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
-      "source": "GitHub",
-      "stars": 1101,
-      "user": "BryceYuuu"
-    },
-    {
       "title": "konlu/story-studio - 从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
       "url": "https://github.com/konlu/story-studio",
       "published_at": "2026-10-26T09:20:06Z",
@@ -3227,7 +3213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/198685879?v=4",
       "source": "GitHub",
-      "stars": 603,
+      "stars": 619,
       "user": "konlu"
     },
     {
@@ -3242,7 +3228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 606,
       "user": "ramenvr"
     },
     {
@@ -3257,7 +3243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1838,
+      "stars": 1859,
       "user": "paipiange"
     },
     {
@@ -3272,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
       "source": "GitHub",
-      "stars": 181,
+      "stars": 183,
       "user": "beilunyang"
     },
     {
@@ -3287,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
       "source": "GitHub",
-      "stars": 176,
+      "stars": 177,
       "user": "zklmiao"
     },
     {
@@ -3302,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/261793229?v=4",
       "source": "GitHub",
-      "stars": 121,
+      "stars": 122,
       "user": "theconsensuslabs"
     },
     {
@@ -3332,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 5770,
+      "stars": 6736,
       "user": "deepseek-ai"
     },
     {
@@ -3347,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 5038,
+      "stars": 5112,
       "user": "anhao"
     },
     {
@@ -3362,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
       "source": "GitHub",
-      "stars": 1617,
+      "stars": 1632,
       "user": "andyhuo520"
     },
     {
@@ -3377,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/139697969?v=4",
       "source": "GitHub",
-      "stars": 965,
+      "stars": 1010,
       "user": "D3voz"
     },
     {
@@ -3407,23 +3393,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93106514?v=4",
       "source": "GitHub",
-      "stars": 890,
+      "stars": 980,
       "user": "physicsdolphin"
-    },
-    {
-      "title": "chris124567/cfsolve - Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)",
-      "url": "https://github.com/chris124567/cfsolve",
-      "published_at": "2026-10-26T02:31:21Z",
-      "description": "Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26444923?v=4",
-      "source": "GitHub",
-      "stars": 481,
-      "user": "chris124567"
     },
     {
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
@@ -3437,8 +3408,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 467,
+      "stars": 654,
       "user": "storytold"
+    },
+    {
+      "title": "chris124567/cfsolve - Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)",
+      "url": "https://github.com/chris124567/cfsolve",
+      "published_at": "2026-10-26T02:31:21Z",
+      "description": "Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/26444923?v=4",
+      "source": "GitHub",
+      "stars": 489,
+      "user": "chris124567"
     },
     {
       "title": "ashayas/icloud-s3 - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
@@ -3452,23 +3438,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 379,
+      "stars": 423,
       "user": "ashayas"
     },
     {
-      "title": "ShineFinancialStrut/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
-      "url": "https://github.com/ShineFinancialStrut/game-server-route-racer",
-      "published_at": "2026-10-31T23:52:41Z",
-      "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+      "title": "yalongwastaken/git-koi - Draw a pixel-art koi from a GitHub account's public activity, as a looping GIF for a profile README.",
+      "url": "https://github.com/yalongwastaken/git-koi",
+      "published_at": "2026-10-26T00:08:44Z",
+      "description": "Draw a pixel-art koi from a GitHub account's public activity, as a looping GIF for a profile README.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/142839048?v=4",
       "source": "GitHub",
-      "stars": 275,
-      "user": "ShineFinancialStrut"
+      "stars": 335,
+      "user": "yalongwastaken"
     },
     {
       "title": "Jepsen: ParticleDB 1.1.4",
