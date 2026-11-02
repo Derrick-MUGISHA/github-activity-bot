@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Singularity News :: CCG",
-      "url": "https://dev.to/pengeszikra/singularity-news-ccg-5ejk",
-      "published_at": "2026-10-31T02:18:22Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "gamedev",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyh84oxpucdnmygo396v.png",
-      "source": "Dev.to",
-      "user": "Peter Vivo"
-    },
-    {
       "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
       "url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740",
       "published_at": "2026-10-29T20:32:53Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiky1u2td754x8dzoee8p.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Singularity News :: CCG",
+      "url": "https://dev.to/pengeszikra/singularity-news-ccg-5ejk",
+      "published_at": "2026-10-31T02:18:22Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gamedev",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyh84oxpucdnmygo396v.png",
+      "source": "Dev.to",
+      "user": "Peter Vivo"
     },
     {
       "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
@@ -59,36 +59,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
       "source": "Dev.to",
       "user": "Adam - The Developer ✨"
-    },
-    {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
-      "published_at": "2026-10-30T20:35:58Z",
-      "description": "The results are in for Week 3 of our five Hacktoberfest DEV Challenges! For Slow and Steady, we asked...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
-      "title": "Your Laptop Might Replace Most of Your AI Bill",
-      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
-      "published_at": "2026-10-28T11:58:00Z",
-      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
-      "tags": [
-        "ai",
-        "llm",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
-      "source": "Dev.to",
-      "user": "Carla Urrea Stabile"
     },
     {
       "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
@@ -209,6 +179,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnovb7w7zmrggeds1gyth.jpg",
       "source": "Dev.to",
       "user": "Esra Kadah"
+    },
+    {
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
+      "published_at": "2026-10-30T20:35:58Z",
+      "description": "The results are in for Week 3 of our five Hacktoberfest DEV Challenges! For Slow and Steady, we asked...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
@@ -555,6 +540,21 @@
       "user": "Tanaike"
     },
     {
+      "title": "Your Laptop Might Replace Most of Your AI Bill",
+      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
+      "published_at": "2026-10-28T11:58:00Z",
+      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
+      "tags": [
+        "ai",
+        "llm",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
+    },
+    {
       "title": "Postmortem: The Tuesday Our AI Bill Had No Owner",
       "url": "https://dev.to/gde/postmortem-the-tuesday-our-ai-bill-had-no-owner-34pd",
       "published_at": "2026-10-25T11:15:42Z",
@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 4913,
+      "stars": 5258,
       "user": "heydamir"
     },
     {
@@ -764,7 +764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1810,
+      "stars": 1958,
       "user": "haydenschmitty"
     },
     {
@@ -779,23 +779,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 685,
       "user": "hyz317"
     },
     {
-      "title": "MiniMax-AI/mcode-stack - The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
-      "url": "https://github.com/MiniMax-AI/mcode-stack",
-      "published_at": "2026-10-28T02:17:41Z",
-      "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
+      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "published_at": "2026-10-30T15:12:35Z",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 495,
-      "user": "MiniMax-AI"
+      "stars": 549,
+      "user": "N1nEmAn"
     },
     {
       "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
@@ -809,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1875,
+      "stars": 2002,
       "user": "paipiange"
     },
     {
@@ -824,7 +824,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 439,
       "user": "Balanov"
     },
     {
@@ -839,23 +839,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55200481?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "missuo"
-    },
-    {
-      "title": "phodal/pero - Open-source AI4S workspace connecting people, agents, and compute through project-based collaboration, proactive workflows, and distributed tasks.",
-      "url": "https://github.com/phodal/pero",
-      "published_at": "2026-10-28T06:37:03Z",
-      "description": "Open-source AI4S workspace connecting people, agents, and compute through project-based collaboration, proactive workflows, and distributed tasks.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/472311?v=4",
-      "source": "GitHub",
-      "stars": 79,
-      "user": "phodal"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -869,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 7845,
+      "stars": 10366,
       "user": "deepseek-ai"
     },
     {
@@ -884,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 5155,
+      "stars": 5327,
       "user": "anhao"
     },
     {
@@ -899,23 +884,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267078600?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 942,
       "user": "modelflare-ai"
-    },
-    {
-      "title": "vaishantsah/watson-AI-osint-all-in-one - Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
-      "url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
-      "published_at": "2026-10-28T00:09:33Z",
-      "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45460589?v=4",
-      "source": "GitHub",
-      "stars": 359,
-      "user": "vaishantsah"
     },
     {
       "title": "ShineFinancialStrut/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
@@ -929,8 +899,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 364,
       "user": "ShineFinancialStrut"
+    },
+    {
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "published_at": "2026-11-01T20:19:02.905-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases",
+        "practices"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "eduard"
     },
     {
       "title": "London Meetup - Nov 2026",
@@ -975,16 +958,17 @@
       "user": "trusktr"
     },
     {
-      "title": "Match-Case in python 3. I do not know how to use Match case so could someone please explain?",
-      "url": "https://stackoverflow.com/questions/80014047/match-case-in-python-3-i-do-not-know-how-to-use-match-case-so-could-someone-ple",
-      "published_at": "2026-11-01T18:07:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -14",
+      "title": "Borrowed reading: stories from our extended colleagues",
+      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+      "published_at": "2026-11-02T04:23:48.000Z",
+      "description": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
       "tags": [
-        "python"
+        "Media & Entertainment",
+        "TC"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Beltran Mir"
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -1089,21 +1073,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "TechCrunch Events"
-    },
-    {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "published_at": "2026-10-31T21:17:03.000Z",
-      "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "SpaceX",
-        "xAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     },
     {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
@@ -1326,7 +1295,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 4913,
+      "stars": 5258,
       "user": "heydamir"
     },
     {
@@ -1341,7 +1310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 2638,
+      "stars": 3054,
       "user": "patch-gg"
     },
     {
@@ -1356,23 +1325,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1810,
+      "stars": 1958,
       "user": "haydenschmitty"
-    },
-    {
-      "title": "HRuiCcc/RuiC-PoseAtlas - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-      "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
-      "published_at": "2026-10-28T07:00:53Z",
-      "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
-      "source": "GitHub",
-      "stars": 971,
-      "user": "HRuiCcc"
     },
     {
       "title": "elvarofficial/teardown - A Claude Code skill that turns any machine into a 3D simulator you can take apart",
@@ -1386,8 +1340,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 938,
+      "stars": 1060,
       "user": "elvarofficial"
+    },
+    {
+      "title": "HRuiCcc/RuiC-PoseAtlas - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+      "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
+      "published_at": "2026-10-28T07:00:53Z",
+      "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
+      "source": "GitHub",
+      "stars": 1014,
+      "user": "HRuiCcc"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -1401,7 +1370,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 7845,
+      "stars": 10366,
       "user": "deepseek-ai"
     },
     {
@@ -1416,23 +1385,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 5155,
+      "stars": 5327,
       "user": "anhao"
-    },
-    {
-      "title": "OpenBMB/MiniCPM-OCR - Fast, accurate OCR with correctness assessment.",
-      "url": "https://github.com/OpenBMB/MiniCPM-OCR",
-      "published_at": "2026-10-27T13:22:00Z",
-      "description": "Fast, accurate OCR with correctness assessment.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89920203?v=4",
-      "source": "GitHub",
-      "stars": 745,
-      "user": "OpenBMB"
     },
     {
       "title": "modelflare-ai/AnyModelBot - 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
@@ -1446,23 +1400,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267078600?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 942,
       "user": "modelflare-ai"
     },
     {
-      "title": "vaishantsah/watson-AI-osint-all-in-one - Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
-      "url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
-      "published_at": "2026-10-28T00:09:33Z",
-      "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
+      "title": "OpenBMB/MiniCPM-OCR - Fast, accurate OCR with correctness assessment.",
+      "url": "https://github.com/OpenBMB/MiniCPM-OCR",
+      "published_at": "2026-10-27T13:22:00Z",
+      "description": "Fast, accurate OCR with correctness assessment.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45460589?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/89920203?v=4",
       "source": "GitHub",
-      "stars": 359,
-      "user": "vaishantsah"
+      "stars": 758,
+      "user": "OpenBMB"
+    },
+    {
+      "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "published_at": "2026-11-01T05:35:12Z",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
+      "source": "GitHub",
+      "stars": 748,
+      "user": "caru-ini"
     },
     {
       "title": "Swapping unique values in mongoose without swapping all properties",
@@ -1551,19 +1520,18 @@
       "user": "Andre M"
     },
     {
-      "title": "React Hook Form validation across multiple tabs: is useWatch + custom validation the right approach?",
-      "url": "https://stackoverflow.com/questions/79978184/react-hook-form-validation-across-multiple-tabs-is-usewatch-custom-validation",
-      "published_at": "2026-07-09T07:47:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "How can I synchronously determine a JavaScript Promise's state?",
+      "url": "https://stackoverflow.com/questions/30564053/how-can-i-synchronously-determine-a-javascript-promises-state",
+      "published_at": "2015-06-01T00:16:23.000Z",
+      "description": "Stack Overflow question · 33 answers · score 288",
       "tags": [
-        "best-practices",
         "javascript",
-        "reactjs",
-        "react-hook-form"
+        "promise",
+        "es6-promise"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Furqan"
+      "user": "jokeyrhyme"
     },
     {
       "title": "How do I target only Internet Explorer 10 for certain situations like Internet Explorer-specific CSS or Internet Explorer-specific JavaScript code?",
@@ -1585,7 +1553,7 @@
       "title": "HTML static webpage - how would I have any of the files present in a particular directory be selected in a src",
       "url": "https://stackoverflow.com/questions/79833069/html-static-webpage-how-would-i-have-any-of-the-files-present-in-a-particular",
       "published_at": "2025-11-29T05:51:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1773,23 +1741,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 1186,
+      "stars": 1372,
       "user": "BryceYuuu"
-    },
-    {
-      "title": "ramenvr/autopilot - Play any game",
-      "url": "https://github.com/ramenvr/autopilot",
-      "published_at": "2026-10-30T03:47:28Z",
-      "description": "Play any game",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
-      "source": "GitHub",
-      "stars": 618,
-      "user": "ramenvr"
     },
     {
       "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
@@ -1803,8 +1756,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 685,
       "user": "hyz317"
+    },
+    {
+      "title": "ramenvr/autopilot - Play any game",
+      "url": "https://github.com/ramenvr/autopilot",
+      "published_at": "2026-10-30T03:47:28Z",
+      "description": "Play any game",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
+      "source": "GitHub",
+      "stars": 637,
+      "user": "ramenvr"
+    },
+    {
+      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "published_at": "2026-10-30T15:12:35Z",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
+      "source": "GitHub",
+      "stars": 549,
+      "user": "N1nEmAn"
     },
     {
       "title": "speridlabs/idol-sdk - Idol: a single image to 3D Gaussians. Inference SDK and demo.",
@@ -1818,23 +1801,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207595948?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 537,
       "user": "speridlabs"
-    },
-    {
-      "title": "MiniMax-AI/mcode-stack - The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
-      "url": "https://github.com/MiniMax-AI/mcode-stack",
-      "published_at": "2026-10-28T02:17:41Z",
-      "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
-      "source": "GitHub",
-      "stars": 495,
-      "user": "MiniMax-AI"
     },
     {
       "title": "zklmiao/CodeWar - 网页端 Python 编程对抗游戏：解题速度即战斗力 · A turn-based competitive Python programming game",
@@ -1848,20 +1816,77 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "zklmiao"
     },
     {
-      "title": "Storing items in classes in python game development",
-      "url": "https://stackoverflow.com/questions/80014087/storing-items-in-classes-in-python-game-development",
-      "published_at": "2026-11-02T01:02:11.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "title": "Why can a parameterized class be instantiated?",
+      "url": "https://stackoverflow.com/questions/80014144/why-can-a-parameterized-class-be-instantiated",
+      "published_at": "2026-11-02T07:42:05.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
-        "python"
+        "python",
+        "python-typing",
+        "instantiation"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "phoenix irwin"
+      "user": "JadenV15"
+    },
+    {
+      "title": "Python API returns 8 and 22 instead of dates and symbols when selecting individual columns",
+      "url": "https://stackoverflow.com/questions/80014124/python-api-returns-8-and-22-instead-of-dates-and-symbols-when-selecting-individu",
+      "published_at": "2026-11-02T05:51:54.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "select",
+        "dolphindb"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ethan"
+    },
+    {
+      "title": "Difference between three forms of instantiating a generic class in Python",
+      "url": "https://stackoverflow.com/questions/80014112/difference-between-three-forms-of-instantiating-a-generic-class-in-python",
+      "published_at": "2026-11-02T04:55:05.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "generics",
+        "python-typing",
+        "instantiation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "Weird effects when calling pygame.display.set_mode() without explicitly initializing pygame.display",
+      "url": "https://stackoverflow.com/questions/80014123/weird-effects-when-calling-pygame-display-set-mode-without-explicitly-initiali",
+      "published_at": "2026-11-02T05:47:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "Is there a way to use lazy imports in backwards-compatible code?",
+      "url": "https://stackoverflow.com/questions/80014095/is-there-a-way-to-use-lazy-imports-in-backwards-compatible-code",
+      "published_at": "2026-11-02T02:14:15.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "python-import"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
     },
     {
       "title": "Why does attrs treat a frozen attrs class differently from a frozen attrs field",
@@ -1877,16 +1902,31 @@
       "user": "JadenV15"
     },
     {
-      "title": "Match-Case in python 3. I do not know how to use Match case so could someone please explain?",
-      "url": "https://stackoverflow.com/questions/80014047/match-case-in-python-3-i-do-not-know-how-to-use-match-case-so-could-someone-ple",
-      "published_at": "2026-11-01T18:07:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -14",
+      "title": "Storing items in classes in python game development",
+      "url": "https://stackoverflow.com/questions/80014087/storing-items-in-classes-in-python-game-development",
+      "published_at": "2026-11-02T01:02:11.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Beltran Mir"
+      "user": "phoenix irwin"
+    },
+    {
+      "title": "Dog Bark Emotion Analysis: Should I include a breed classification pre-model?",
+      "url": "https://stackoverflow.com/questions/80013971/dog-bark-emotion-analysis-should-i-include-a-breed-classification-pre-model",
+      "published_at": "2026-11-01T10:52:26.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "machine-learning",
+        "classification",
+        "audio-processing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "noa"
     },
     {
       "title": "Looking for a practical example where making a super call in the body of __init__ method of a metaclass makes a difference",
@@ -1902,20 +1942,6 @@
       "user": "ariko stephen"
     },
     {
-      "title": "Python 2 vs. Python 3: what does \"not backward compatible\" mean exactly?",
-      "url": "https://stackoverflow.com/questions/80013954/python-2-vs-python-3-what-does-not-backward-compatible-mean-exactly",
-      "published_at": "2026-11-01T08:03:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python",
-        "python-3.x",
-        "backwards-compatibility"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "cluster1"
-    },
-    {
       "title": "Python 3.14: NameError for a self-referencing annotation, but only when it’s read in __init_subclass__",
       "url": "https://stackoverflow.com/questions/80013905/python-3-14-nameerror-for-a-self-referencing-annotation-but-only-when-it-s-rea",
       "published_at": "2026-10-31T21:58:02.000Z",
@@ -1928,64 +1954,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad Raham Saleem"
-    },
-    {
-      "title": "Do I need a try/finally clause when calling cv2.VideoCapture.release()?",
-      "url": "https://stackoverflow.com/questions/80013974/do-i-need-a-try-finally-clause-when-calling-cv2-videocapture-release",
-      "published_at": "2026-11-01T11:19:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "opencv",
-        "exception",
-        "try-finally"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Dog Bark Emotion Analysis: Should I include a breed classification pre-model?",
-      "url": "https://stackoverflow.com/questions/80013971/dog-bark-emotion-analysis-should-i-include-a-breed-classification-pre-model",
-      "published_at": "2026-11-01T10:52:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "machine-learning",
-        "classification",
-        "audio-processing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "noa"
-    },
-    {
-      "title": "Why can't I use key.A and key.B after importing Pyglet?",
-      "url": "https://stackoverflow.com/questions/80013880/why-cant-i-use-key-a-and-key-b-after-importing-pyglet",
-      "published_at": "2026-10-31T18:16:54.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "import",
-        "nameerror",
-        "pyglet"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33244385"
-    },
-    {
-      "title": "forecast the future price of a stock based on the past prices of other stocks",
-      "url": "https://stackoverflow.com/questions/80013867/forecast-the-future-price-of-a-stock-based-on-the-past-prices-of-other-stocks",
-      "published_at": "2026-10-31T15:52:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Karol"
     },
     {
       "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
@@ -2335,7 +2303,7 @@
       "title": "HTML static webpage - how would I have any of the files present in a particular directory be selected in a src",
       "url": "https://stackoverflow.com/questions/79833069/html-static-webpage-how-would-i-have-any-of-the-files-present-in-a-particular",
       "published_at": "2025-11-29T05:51:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2453,21 +2421,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsb3mwitsukou1aehtfah.png",
       "source": "Dev.to",
       "user": "Azidin Shairi"
-    },
-    {
-      "title": "Your Laptop Might Replace Most of Your AI Bill",
-      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
-      "published_at": "2026-10-28T11:58:00Z",
-      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
-      "tags": [
-        "ai",
-        "llm",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
-      "source": "Dev.to",
-      "user": "Carla Urrea Stabile"
     },
     {
       "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
@@ -2620,6 +2573,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Your Laptop Might Replace Most of Your AI Bill",
+      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
+      "published_at": "2026-10-28T11:58:00Z",
+      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
+      "tags": [
+        "ai",
+        "llm",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
+    },
+    {
       "title": "Size Your Model to Where You Run It: Gemma 4 E2B and E4B on an AWS L4 and Two Small GPUs",
       "url": "https://dev.to/gde/size-your-model-to-where-you-run-it-gemma-4-e2b-and-e4b-on-an-aws-l4-and-two-small-gpus-1d47",
       "published_at": "2026-10-27T13:30:52Z",
@@ -2646,23 +2614,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 454,
       "user": "ashayas"
-    },
-    {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "published_at": "2026-10-31T21:17:03.000Z",
-      "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "SpaceX",
-        "xAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     },
     {
       "title": "Cloud Service Models Explained: IaaS vs PaaS vs SaaS",
@@ -2720,6 +2673,19 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "published_at": "2026-11-01T20:19:02.905-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases",
+        "practices"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "eduard"
     },
     {
       "title": "Jepsen: ParticleDB 1.1.4",
@@ -3000,36 +2966,6 @@
   ],
   "Tools": [
     {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
-      "published_at": "2026-10-30T20:35:58Z",
-      "description": "The results are in for Week 3 of our five Hacktoberfest DEV Challenges! For Slow and Steady, we asked...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
-      "title": "Your Laptop Might Replace Most of Your AI Bill",
-      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
-      "published_at": "2026-10-28T11:58:00Z",
-      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
-      "tags": [
-        "ai",
-        "llm",
-        "programming",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
-      "source": "Dev.to",
-      "user": "Carla Urrea Stabile"
-    },
-    {
       "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
       "url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi",
       "published_at": "2026-10-29T15:57:07Z",
@@ -3075,6 +3011,21 @@
       "user": "Esra Kadah"
     },
     {
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
+      "published_at": "2026-10-30T20:35:58Z",
+      "description": "The results are in for Week 3 of our five Hacktoberfest DEV Challenges! For Slow and Steady, we asked...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
       "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
       "published_at": "2026-10-22T23:51:30Z",
@@ -3103,6 +3054,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsz6wqckn1mxagladj1ln.png",
       "source": "Dev.to",
       "user": "Paul Horton"
+    },
+    {
+      "title": "Your Laptop Might Replace Most of Your AI Bill",
+      "url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
+      "published_at": "2026-10-28T11:58:00Z",
+      "description": "I've never run an AI model on my own machine, and I assumed the cloud was the best way to get good...",
+      "tags": [
+        "ai",
+        "llm",
+        "programming",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvv4gydlf8d9ahgb9saf.png",
+      "source": "Dev.to",
+      "user": "Carla Urrea Stabile"
     },
     {
       "title": "Nix is the ultimate DevOps toolkit",
@@ -3152,7 +3118,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 4913,
+      "stars": 5258,
       "user": "heydamir"
     },
     {
@@ -3167,7 +3133,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 2638,
+      "stars": 3054,
       "user": "patch-gg"
     },
     {
@@ -3182,23 +3148,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1810,
+      "stars": 1958,
       "user": "haydenschmitty"
-    },
-    {
-      "title": "HRuiCcc/RuiC-PoseAtlas - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-      "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
-      "published_at": "2026-10-28T07:00:53Z",
-      "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
-      "source": "GitHub",
-      "stars": 971,
-      "user": "HRuiCcc"
     },
     {
       "title": "elvarofficial/teardown - A Claude Code skill that turns any machine into a 3D simulator you can take apart",
@@ -3212,8 +3163,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 938,
+      "stars": 1060,
       "user": "elvarofficial"
+    },
+    {
+      "title": "HRuiCcc/RuiC-PoseAtlas - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+      "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
+      "published_at": "2026-10-28T07:00:53Z",
+      "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
+      "source": "GitHub",
+      "stars": 1014,
+      "user": "HRuiCcc"
     },
     {
       "title": "BryceYuuu/RUN - RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
@@ -3227,23 +3193,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 1186,
+      "stars": 1372,
       "user": "BryceYuuu"
-    },
-    {
-      "title": "ramenvr/autopilot - Play any game",
-      "url": "https://github.com/ramenvr/autopilot",
-      "published_at": "2026-10-30T03:47:28Z",
-      "description": "Play any game",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
-      "source": "GitHub",
-      "stars": 618,
-      "user": "ramenvr"
     },
     {
       "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
@@ -3257,8 +3208,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 685,
       "user": "hyz317"
+    },
+    {
+      "title": "ramenvr/autopilot - Play any game",
+      "url": "https://github.com/ramenvr/autopilot",
+      "published_at": "2026-10-30T03:47:28Z",
+      "description": "Play any game",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
+      "source": "GitHub",
+      "stars": 637,
+      "user": "ramenvr"
+    },
+    {
+      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "published_at": "2026-10-30T15:12:35Z",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
+      "source": "GitHub",
+      "stars": 549,
+      "user": "N1nEmAn"
     },
     {
       "title": "speridlabs/idol-sdk - Idol: a single image to 3D Gaussians. Inference SDK and demo.",
@@ -3272,23 +3253,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207595948?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 537,
       "user": "speridlabs"
-    },
-    {
-      "title": "MiniMax-AI/mcode-stack - The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
-      "url": "https://github.com/MiniMax-AI/mcode-stack",
-      "published_at": "2026-10-28T02:17:41Z",
-      "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
-      "source": "GitHub",
-      "stars": 495,
-      "user": "MiniMax-AI"
     },
     {
       "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
@@ -3302,7 +3268,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1875,
+      "stars": 2002,
       "user": "paipiange"
     },
     {
@@ -3317,7 +3283,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 237,
+      "stars": 439,
       "user": "Balanov"
     },
     {
@@ -3332,7 +3298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
       "source": "GitHub",
-      "stars": 178,
+      "stars": 179,
       "user": "zklmiao"
     },
     {
@@ -3347,23 +3313,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/55200481?v=4",
       "source": "GitHub",
-      "stars": 114,
+      "stars": 115,
       "user": "missuo"
     },
     {
-      "title": "phodal/pero - Open-source AI4S workspace connecting people, agents, and compute through project-based collaboration, proactive workflows, and distributed tasks.",
-      "url": "https://github.com/phodal/pero",
-      "published_at": "2026-10-28T06:37:03Z",
-      "description": "Open-source AI4S workspace connecting people, agents, and compute through project-based collaboration, proactive workflows, and distributed tasks.",
+      "title": "MoeForge/moego - A collection of optimized Go packages for performance-critical code paths.",
+      "url": "https://github.com/MoeForge/moego",
+      "published_at": "2026-10-28T06:31:46Z",
+      "description": "A collection of optimized Go packages for performance-critical code paths.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/472311?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/347858525?v=4",
       "source": "GitHub",
-      "stars": 79,
-      "user": "phodal"
+      "stars": 85,
+      "user": "MoeForge"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -3377,7 +3343,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 7845,
+      "stars": 10366,
       "user": "deepseek-ai"
     },
     {
@@ -3392,23 +3358,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 5155,
+      "stars": 5327,
       "user": "anhao"
-    },
-    {
-      "title": "OpenBMB/MiniCPM-OCR - Fast, accurate OCR with correctness assessment.",
-      "url": "https://github.com/OpenBMB/MiniCPM-OCR",
-      "published_at": "2026-10-27T13:22:00Z",
-      "description": "Fast, accurate OCR with correctness assessment.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89920203?v=4",
-      "source": "GitHub",
-      "stars": 745,
-      "user": "OpenBMB"
     },
     {
       "title": "modelflare-ai/AnyModelBot - 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
@@ -3422,23 +3373,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/267078600?v=4",
       "source": "GitHub",
-      "stars": 487,
+      "stars": 942,
       "user": "modelflare-ai"
     },
     {
-      "title": "vaishantsah/watson-AI-osint-all-in-one - Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
-      "url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
-      "published_at": "2026-10-28T00:09:33Z",
-      "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
+      "title": "OpenBMB/MiniCPM-OCR - Fast, accurate OCR with correctness assessment.",
+      "url": "https://github.com/OpenBMB/MiniCPM-OCR",
+      "published_at": "2026-10-27T13:22:00Z",
+      "description": "Fast, accurate OCR with correctness assessment.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/45460589?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/89920203?v=4",
       "source": "GitHub",
-      "stars": 359,
-      "user": "vaishantsah"
+      "stars": 758,
+      "user": "OpenBMB"
+    },
+    {
+      "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "published_at": "2026-11-01T05:35:12Z",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
+      "source": "GitHub",
+      "stars": 748,
+      "user": "caru-ini"
     },
     {
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
@@ -3452,7 +3418,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 1202,
+      "stars": 1931,
       "user": "storytold"
     },
     {
@@ -3467,7 +3433,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 454,
       "user": "ashayas"
     },
     {
@@ -3482,7 +3448,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
       "source": "GitHub",
-      "stars": 357,
+      "stars": 364,
       "user": "ShineFinancialStrut"
     },
     {
@@ -3497,7 +3463,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350534499?v=4",
       "source": "GitHub",
-      "stars": 280,
+      "stars": 284,
       "user": "Weft-Rust"
     },
     {
@@ -3527,22 +3493,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "aphyr"
-    },
-    {
-      "title": "Dog Bark Emotion Analysis: Should I include a breed classification pre-model?",
-      "url": "https://stackoverflow.com/questions/80013971/dog-bark-emotion-analysis-should-i-include-a-breed-classification-pre-model",
-      "published_at": "2026-11-01T10:52:26.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "tooling-recommendation",
-        "python",
-        "machine-learning",
-        "classification",
-        "audio-processing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "noa"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
