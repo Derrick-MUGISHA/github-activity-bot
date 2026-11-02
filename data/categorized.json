@@ -749,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 4785,
+      "stars": 4913,
       "user": "heydamir"
     },
     {
@@ -764,38 +764,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1673,
+      "stars": 1810,
       "user": "haydenschmitty"
     },
     {
-      "title": "Motionsites-AI/claude-skill - Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-      "url": "https://github.com/Motionsites-AI/claude-skill",
-      "published_at": "2026-10-26T06:58:45Z",
-      "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "url": "https://github.com/hyz317/HairDeck",
+      "published_at": "2026-10-29T17:16:13Z",
+      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 1401,
-      "user": "Motionsites-AI"
+      "stars": 610,
+      "user": "hyz317"
     },
     {
-      "title": "konlu/story-studio - 从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
-      "url": "https://github.com/konlu/story-studio",
-      "published_at": "2026-10-26T09:20:06Z",
-      "description": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
+      "title": "MiniMax-AI/mcode-stack - The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
+      "url": "https://github.com/MiniMax-AI/mcode-stack",
+      "published_at": "2026-10-28T02:17:41Z",
+      "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/198685879?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
       "source": "GitHub",
-      "stars": 624,
-      "user": "konlu"
+      "stars": 495,
+      "user": "MiniMax-AI"
     },
     {
       "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
@@ -809,8 +809,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1861,
+      "stars": 1875,
       "user": "paipiange"
+    },
+    {
+      "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "url": "https://github.com/Balanov/uncut",
+      "published_at": "2026-11-01T17:19:30Z",
+      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
+      "source": "GitHub",
+      "stars": 237,
+      "user": "Balanov"
+    },
+    {
+      "title": "missuo/unfairplay-bot - Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
+      "url": "https://github.com/missuo/unfairplay-bot",
+      "published_at": "2026-10-28T12:17:29Z",
+      "description": "Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/55200481?v=4",
+      "source": "GitHub",
+      "stars": 114,
+      "user": "missuo"
+    },
+    {
+      "title": "phodal/pero - Open-source AI4S workspace connecting people, agents, and compute through project-based collaboration, proactive workflows, and distributed tasks.",
+      "url": "https://github.com/phodal/pero",
+      "published_at": "2026-10-28T06:37:03Z",
+      "description": "Open-source AI4S workspace connecting people, agents, and compute through project-based collaboration, proactive workflows, and distributed tasks.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/472311?v=4",
+      "source": "GitHub",
+      "stars": 79,
+      "user": "phodal"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -824,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 7066,
+      "stars": 7845,
       "user": "deepseek-ai"
     },
     {
@@ -839,23 +884,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 5126,
+      "stars": 5155,
       "user": "anhao"
     },
     {
-      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "published_at": "2026-10-26T04:34:09Z",
-      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "title": "modelflare-ai/AnyModelBot - 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+      "url": "https://github.com/modelflare-ai/AnyModelBot",
+      "published_at": "2026-10-27T08:51:18Z",
+      "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/267078600?v=4",
       "source": "GitHub",
-      "stars": 1634,
-      "user": "andyhuo520"
+      "stars": 487,
+      "user": "modelflare-ai"
+    },
+    {
+      "title": "vaishantsah/watson-AI-osint-all-in-one - Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
+      "url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
+      "published_at": "2026-10-28T00:09:33Z",
+      "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/45460589?v=4",
+      "source": "GitHub",
+      "stars": 359,
+      "user": "vaishantsah"
+    },
+    {
+      "title": "ShineFinancialStrut/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+      "url": "https://github.com/ShineFinancialStrut/game-server-route-racer",
+      "published_at": "2026-10-31T23:52:41Z",
+      "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
+      "source": "GitHub",
+      "stars": 357,
+      "user": "ShineFinancialStrut"
     },
     {
       "title": "London Meetup - Nov 2026",
@@ -868,19 +943,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "prole"
-    },
-    {
-      "title": "so i guess everyone uses llms to think now",
-      "url": "https://eva.ac/blog/llms",
-      "published_at": "2026-11-01T15:13:55.607-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "culture"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "xyzeva"
     },
     {
       "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
@@ -916,7 +978,7 @@
       "title": "Match-Case in python 3. I do not know how to use Match case so could someone please explain?",
       "url": "https://stackoverflow.com/questions/80014047/match-case-in-python-3-i-do-not-know-how-to-use-match-case-so-could-someone-ple",
       "published_at": "2026-11-01T18:07:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -14",
       "tags": [
         "python"
       ],
@@ -1264,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 4785,
+      "stars": 4913,
       "user": "heydamir"
     },
     {
@@ -1279,7 +1341,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 2515,
+      "stars": 2638,
       "user": "patch-gg"
     },
     {
@@ -1294,7 +1356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1673,
+      "stars": 1810,
       "user": "haydenschmitty"
     },
     {
@@ -1309,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 959,
+      "stars": 971,
       "user": "HRuiCcc"
     },
     {
@@ -1324,23 +1386,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 938,
       "user": "elvarofficial"
-    },
-    {
-      "title": "beilunyang/openhongguo - 红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
-      "url": "https://github.com/beilunyang/openhongguo",
-      "published_at": "2026-10-26T13:47:23Z",
-      "description": "红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
-      "source": "GitHub",
-      "stars": 183,
-      "user": "beilunyang"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -1354,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 7066,
+      "stars": 7845,
       "user": "deepseek-ai"
     },
     {
@@ -1369,53 +1416,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 5126,
+      "stars": 5155,
       "user": "anhao"
     },
     {
-      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "published_at": "2026-10-26T04:34:09Z",
-      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "title": "OpenBMB/MiniCPM-OCR - Fast, accurate OCR with correctness assessment.",
+      "url": "https://github.com/OpenBMB/MiniCPM-OCR",
+      "published_at": "2026-10-27T13:22:00Z",
+      "description": "Fast, accurate OCR with correctness assessment.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/89920203?v=4",
       "source": "GitHub",
-      "stars": 1634,
-      "user": "andyhuo520"
+      "stars": 745,
+      "user": "OpenBMB"
     },
     {
-      "title": "D3voz/openjutsu - One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
-      "url": "https://github.com/D3voz/openjutsu",
-      "published_at": "2026-10-26T13:48:11Z",
-      "description": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
+      "title": "modelflare-ai/AnyModelBot - 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+      "url": "https://github.com/modelflare-ai/AnyModelBot",
+      "published_at": "2026-10-27T08:51:18Z",
+      "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139697969?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/267078600?v=4",
       "source": "GitHub",
-      "stars": 1041,
-      "user": "D3voz"
+      "stars": 487,
+      "user": "modelflare-ai"
     },
     {
-      "title": "kargulstudio/calender-app-design - GitHub Repository",
-      "url": "https://github.com/kargulstudio/calender-app-design",
-      "published_at": "2026-10-26T18:38:56Z",
-      "description": "Trending GitHub Repository",
+      "title": "vaishantsah/watson-AI-osint-all-in-one - Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
+      "url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
+      "published_at": "2026-10-28T00:09:33Z",
+      "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/45460589?v=4",
       "source": "GitHub",
-      "stars": 839,
-      "user": "kargulstudio"
+      "stars": 359,
+      "user": "vaishantsah"
     },
     {
       "title": "Swapping unique values in mongoose without swapping all properties",
@@ -1504,36 +1551,6 @@
       "user": "Andre M"
     },
     {
-      "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
-      "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
-      "published_at": "2026-10-30T23:01:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "cloud",
-        "speech-recognition",
-        "local",
-        "webspeech-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeff Baker"
-    },
-    {
-      "title": "Product links don't respond to the first tap on Android after swiping",
-      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
-      "published_at": "2026-10-28T09:49:31.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "javascript",
-        "jquery",
-        "owl-carousel-2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user9440558"
-    },
-    {
       "title": "React Hook Form validation across multiple tabs: is useWatch + custom validation the right approach?",
       "url": "https://stackoverflow.com/questions/79978184/react-hook-form-validation-across-multiple-tabs-is-usewatch-custom-validation",
       "published_at": "2026-07-09T07:47:43.000Z",
@@ -1563,6 +1580,33 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "trusktr"
+    },
+    {
+      "title": "HTML static webpage - how would I have any of the files present in a particular directory be selected in a src",
+      "url": "https://stackoverflow.com/questions/79833069/html-static-webpage-how-would-i-have-any-of-the-files-present-in-a-particular",
+      "published_at": "2025-11-29T05:51:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "utternovice"
+    },
+    {
+      "title": "Netflix toggle subtitle keyboard hotkey using JavaScript",
+      "url": "https://stackoverflow.com/questions/79827940/netflix-toggle-subtitle-keyboard-hotkey-using-javascript",
+      "published_at": "2025-11-23T15:02:36.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "netflix"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "moortje"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1718,21 +1762,6 @@
       "user": "arathore"
     },
     {
-      "title": "Motionsites-AI/claude-skill - Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-      "url": "https://github.com/Motionsites-AI/claude-skill",
-      "published_at": "2026-10-26T06:58:45Z",
-      "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
-      "source": "GitHub",
-      "stars": 1401,
-      "user": "Motionsites-AI"
-    },
-    {
       "title": "BryceYuuu/RUN - RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
       "url": "https://github.com/BryceYuuu/RUN",
       "published_at": "2026-10-29T11:28:43Z",
@@ -1744,38 +1773,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1186,
       "user": "BryceYuuu"
-    },
-    {
-      "title": "deepopen-com/deepopen-3d-webs - Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
-      "url": "https://github.com/deepopen-com/deepopen-3d-webs",
-      "published_at": "2026-10-26T12:13:47Z",
-      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
-      "source": "GitHub",
-      "stars": 1130,
-      "user": "deepopen-com"
-    },
-    {
-      "title": "konlu/story-studio - 从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
-      "url": "https://github.com/konlu/story-studio",
-      "published_at": "2026-10-26T09:20:06Z",
-      "description": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/198685879?v=4",
-      "source": "GitHub",
-      "stars": 624,
-      "user": "konlu"
     },
     {
       "title": "ramenvr/autopilot - Play any game",
@@ -1789,8 +1788,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 618,
       "user": "ramenvr"
+    },
+    {
+      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "url": "https://github.com/hyz317/HairDeck",
+      "published_at": "2026-10-29T17:16:13Z",
+      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
+      "source": "GitHub",
+      "stars": 610,
+      "user": "hyz317"
+    },
+    {
+      "title": "speridlabs/idol-sdk - Idol: a single image to 3D Gaussians. Inference SDK and demo.",
+      "url": "https://github.com/speridlabs/idol-sdk",
+      "published_at": "2026-10-28T19:44:27Z",
+      "description": "Idol: a single image to 3D Gaussians. Inference SDK and demo.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/207595948?v=4",
+      "source": "GitHub",
+      "stars": 508,
+      "user": "speridlabs"
+    },
+    {
+      "title": "MiniMax-AI/mcode-stack - The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
+      "url": "https://github.com/MiniMax-AI/mcode-stack",
+      "published_at": "2026-10-28T02:17:41Z",
+      "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
+      "source": "GitHub",
+      "stars": 495,
+      "user": "MiniMax-AI"
     },
     {
       "title": "zklmiao/CodeWar - 网页端 Python 编程对抗游戏：解题速度即战斗力 · A turn-based competitive Python programming game",
@@ -1804,26 +1848,26 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 178,
       "user": "zklmiao"
     },
     {
-      "title": "How make a program temperature vs heat with python",
-      "url": "https://stackoverflow.com/questions/80014068/how-make-a-program-temperature-vs-heat-with-python",
-      "published_at": "2026-11-01T20:57:22.000Z",
+      "title": "Storing items in classes in python game development",
+      "url": "https://stackoverflow.com/questions/80014087/storing-items-in-classes-in-python-game-development",
+      "published_at": "2026-11-02T01:02:11.000Z",
       "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Luis Miguel Yarhui Sandoval"
+      "user": "phoenix irwin"
     },
     {
       "title": "Why does attrs treat a frozen attrs class differently from a frozen attrs field",
       "url": "https://stackoverflow.com/questions/80014020/why-does-attrs-treat-a-frozen-attrs-class-differently-from-a-frozen-attrs-field",
       "published_at": "2026-11-01T16:07:41.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
+      "description": "Stack Overflow question · 2 answers · score 5",
       "tags": [
         "python",
         "python-attrs"
@@ -1836,7 +1880,7 @@
       "title": "Match-Case in python 3. I do not know how to use Match case so could someone please explain?",
       "url": "https://stackoverflow.com/questions/80014047/match-case-in-python-3-i-do-not-know-how-to-use-match-case-so-could-someone-ple",
       "published_at": "2026-11-01T18:07:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -14",
       "tags": [
         "python"
       ],
@@ -1872,6 +1916,20 @@
       "user": "cluster1"
     },
     {
+      "title": "Python 3.14: NameError for a self-referencing annotation, but only when it’s read in __init_subclass__",
+      "url": "https://stackoverflow.com/questions/80013905/python-3-14-nameerror-for-a-self-referencing-annotation-but-only-when-it-s-rea",
+      "published_at": "2026-10-31T21:58:02.000Z",
+      "description": "Stack Overflow question · 3 answers · score 4",
+      "tags": [
+        "python",
+        "python-typing",
+        "python-3.14"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad Raham Saleem"
+    },
+    {
       "title": "Do I need a try/finally clause when calling cv2.VideoCapture.release()?",
       "url": "https://stackoverflow.com/questions/80013974/do-i-need-a-try-finally-clause-when-calling-cv2-videocapture-release",
       "published_at": "2026-11-01T11:19:39.000Z",
@@ -1903,20 +1961,6 @@
       "user": "noa"
     },
     {
-      "title": "Python 3.14: NameError for a self-referencing annotation, but only when it’s read in __init_subclass__",
-      "url": "https://stackoverflow.com/questions/80013905/python-3-14-nameerror-for-a-self-referencing-annotation-but-only-when-it-s-rea",
-      "published_at": "2026-10-31T21:58:02.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
-      "tags": [
-        "python",
-        "python-typing",
-        "python-3.14"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Raham Saleem"
-    },
-    {
       "title": "Why can't I use key.A and key.B after importing Pyglet?",
       "url": "https://stackoverflow.com/questions/80013880/why-cant-i-use-key-a-and-key-b-after-importing-pyglet",
       "published_at": "2026-10-31T18:16:54.000Z",
@@ -1935,7 +1979,7 @@
       "title": "forecast the future price of a stock based on the past prices of other stocks",
       "url": "https://stackoverflow.com/questions/80013867/forecast-the-future-price-of-a-stock-based-on-the-past-prices-of-other-stocks",
       "published_at": "2026-10-31T15:52:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python"
       ],
@@ -2286,6 +2330,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "trusktr"
+    },
+    {
+      "title": "HTML static webpage - how would I have any of the files present in a particular directory be selected in a src",
+      "url": "https://stackoverflow.com/questions/79833069/html-static-webpage-how-would-i-have-any-of-the-files-present-in-a-particular",
+      "published_at": "2025-11-29T05:51:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "utternovice"
     }
   ],
   "Mobile": [
@@ -2378,35 +2436,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1sizwczr1zoaa7igivox.png",
       "source": "Dev.to",
       "user": "Jhin Lee"
-    },
-    {
-      "title": "beilunyang/openhongguo - 红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
-      "url": "https://github.com/beilunyang/openhongguo",
-      "published_at": "2026-10-26T13:47:23Z",
-      "description": "红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
-      "source": "GitHub",
-      "stars": 183,
-      "user": "beilunyang"
-    },
-    {
-      "title": "Product links don't respond to the first tap on Android after swiping",
-      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
-      "published_at": "2026-10-28T09:49:31.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "javascript",
-        "jquery",
-        "owl-carousel-2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user9440558"
     }
   ],
   "Cloud": [
@@ -2606,36 +2635,6 @@
       "user": "xbill"
     },
     {
-      "title": "deepopen-com/deepopen-3d-webs - Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
-      "url": "https://github.com/deepopen-com/deepopen-3d-webs",
-      "published_at": "2026-10-26T12:13:47Z",
-      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
-      "source": "GitHub",
-      "stars": 1130,
-      "user": "deepopen-com"
-    },
-    {
-      "title": "chris124567/cfsolve - Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)",
-      "url": "https://github.com/chris124567/cfsolve",
-      "published_at": "2026-10-26T02:31:21Z",
-      "description": "Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26444923?v=4",
-      "source": "GitHub",
-      "stars": 494,
-      "user": "chris124567"
-    },
-    {
       "title": "ashayas/icloud-s3 - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
       "url": "https://github.com/ashayas/icloud-s3",
       "published_at": "2026-10-30T23:54:20Z",
@@ -2647,24 +2646,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 444,
       "user": "ashayas"
-    },
-    {
-      "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
-      "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
-      "published_at": "2026-10-30T23:01:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "cloud",
-        "speech-recognition",
-        "local",
-        "webspeech-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeff Baker"
     },
     {
       "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
@@ -3169,7 +3152,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 4785,
+      "stars": 4913,
       "user": "heydamir"
     },
     {
@@ -3184,7 +3167,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 2515,
+      "stars": 2638,
       "user": "patch-gg"
     },
     {
@@ -3199,7 +3182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "source": "GitHub",
-      "stars": 1673,
+      "stars": 1810,
       "user": "haydenschmitty"
     },
     {
@@ -3214,7 +3197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 959,
+      "stars": 971,
       "user": "HRuiCcc"
     },
     {
@@ -3229,23 +3212,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 899,
+      "stars": 938,
       "user": "elvarofficial"
-    },
-    {
-      "title": "Motionsites-AI/claude-skill - Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-      "url": "https://github.com/Motionsites-AI/claude-skill",
-      "published_at": "2026-10-26T06:58:45Z",
-      "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348156401?v=4",
-      "source": "GitHub",
-      "stars": 1401,
-      "user": "Motionsites-AI"
     },
     {
       "title": "BryceYuuu/RUN - RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
@@ -3259,38 +3227,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 1146,
+      "stars": 1186,
       "user": "BryceYuuu"
-    },
-    {
-      "title": "deepopen-com/deepopen-3d-webs - Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
-      "url": "https://github.com/deepopen-com/deepopen-3d-webs",
-      "published_at": "2026-10-26T12:13:47Z",
-      "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/331844194?v=4",
-      "source": "GitHub",
-      "stars": 1130,
-      "user": "deepopen-com"
-    },
-    {
-      "title": "konlu/story-studio - 从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
-      "url": "https://github.com/konlu/story-studio",
-      "published_at": "2026-10-26T09:20:06Z",
-      "description": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/198685879?v=4",
-      "source": "GitHub",
-      "stars": 624,
-      "user": "konlu"
     },
     {
       "title": "ramenvr/autopilot - Play any game",
@@ -3304,8 +3242,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 613,
+      "stars": 618,
       "user": "ramenvr"
+    },
+    {
+      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "url": "https://github.com/hyz317/HairDeck",
+      "published_at": "2026-10-29T17:16:13Z",
+      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
+      "source": "GitHub",
+      "stars": 610,
+      "user": "hyz317"
+    },
+    {
+      "title": "speridlabs/idol-sdk - Idol: a single image to 3D Gaussians. Inference SDK and demo.",
+      "url": "https://github.com/speridlabs/idol-sdk",
+      "published_at": "2026-10-28T19:44:27Z",
+      "description": "Idol: a single image to 3D Gaussians. Inference SDK and demo.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/207595948?v=4",
+      "source": "GitHub",
+      "stars": 508,
+      "user": "speridlabs"
+    },
+    {
+      "title": "MiniMax-AI/mcode-stack - The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
+      "url": "https://github.com/MiniMax-AI/mcode-stack",
+      "published_at": "2026-10-28T02:17:41Z",
+      "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
+      "source": "GitHub",
+      "stars": 495,
+      "user": "MiniMax-AI"
     },
     {
       "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
@@ -3319,29 +3302,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 1861,
+      "stars": 1875,
       "user": "paipiange"
     },
     {
-      "title": "beilunyang/openhongguo - 红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
-      "url": "https://github.com/beilunyang/openhongguo",
-      "published_at": "2026-10-26T13:47:23Z",
-      "description": "红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/13795713?v=4",
-      "source": "GitHub",
-      "stars": 183,
-      "user": "beilunyang"
-    },
-    {
-      "title": "Balanov/uncut - A 7 MB lossless coding-agent harness for shell, CI, and local models. No TUI. No silent context cuts.",
+      "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
       "url": "https://github.com/Balanov/uncut",
       "published_at": "2026-11-01T17:19:30Z",
-      "description": "A 7 MB lossless coding-agent harness for shell, CI, and local models. No TUI. No silent context cuts.",
+      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
       "tags": [
         "go",
         "github",
@@ -3349,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 237,
       "user": "Balanov"
     },
     {
@@ -3364,23 +3332,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
       "source": "GitHub",
-      "stars": 177,
+      "stars": 178,
       "user": "zklmiao"
     },
     {
-      "title": "theconsensuslabs/noalloc - Tooling and libraries to enforce zero heap allocations in Golang",
-      "url": "https://github.com/theconsensuslabs/noalloc",
-      "published_at": "2026-10-26T20:21:22Z",
-      "description": "Tooling and libraries to enforce zero heap allocations in Golang",
+      "title": "missuo/unfairplay-bot - Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
+      "url": "https://github.com/missuo/unfairplay-bot",
+      "published_at": "2026-10-28T12:17:29Z",
+      "description": "Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/261793229?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/55200481?v=4",
       "source": "GitHub",
-      "stars": 124,
-      "user": "theconsensuslabs"
+      "stars": 114,
+      "user": "missuo"
+    },
+    {
+      "title": "phodal/pero - Open-source AI4S workspace connecting people, agents, and compute through project-based collaboration, proactive workflows, and distributed tasks.",
+      "url": "https://github.com/phodal/pero",
+      "published_at": "2026-10-28T06:37:03Z",
+      "description": "Open-source AI4S workspace connecting people, agents, and compute through project-based collaboration, proactive workflows, and distributed tasks.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/472311?v=4",
+      "source": "GitHub",
+      "stars": 79,
+      "user": "phodal"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -3394,7 +3377,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 7066,
+      "stars": 7845,
       "user": "deepseek-ai"
     },
     {
@@ -3409,68 +3392,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "source": "GitHub",
-      "stars": 5126,
+      "stars": 5155,
       "user": "anhao"
     },
     {
-      "title": "andyhuo520/digital-human-koubo - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "published_at": "2026-10-26T04:34:09Z",
-      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "title": "OpenBMB/MiniCPM-OCR - Fast, accurate OCR with correctness assessment.",
+      "url": "https://github.com/OpenBMB/MiniCPM-OCR",
+      "published_at": "2026-10-27T13:22:00Z",
+      "description": "Fast, accurate OCR with correctness assessment.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/187917479?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/89920203?v=4",
       "source": "GitHub",
-      "stars": 1634,
-      "user": "andyhuo520"
+      "stars": 745,
+      "user": "OpenBMB"
     },
     {
-      "title": "D3voz/openjutsu - One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
-      "url": "https://github.com/D3voz/openjutsu",
-      "published_at": "2026-10-26T13:48:11Z",
-      "description": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
+      "title": "modelflare-ai/AnyModelBot - 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+      "url": "https://github.com/modelflare-ai/AnyModelBot",
+      "published_at": "2026-10-27T08:51:18Z",
+      "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/139697969?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/267078600?v=4",
       "source": "GitHub",
-      "stars": 1041,
-      "user": "D3voz"
+      "stars": 487,
+      "user": "modelflare-ai"
     },
     {
-      "title": "kargulstudio/calender-app-design - GitHub Repository",
-      "url": "https://github.com/kargulstudio/calender-app-design",
-      "published_at": "2026-10-26T18:38:56Z",
-      "description": "Trending GitHub Repository",
+      "title": "vaishantsah/watson-AI-osint-all-in-one - Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
+      "url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
+      "published_at": "2026-10-28T00:09:33Z",
+      "description": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/245261909?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/45460589?v=4",
       "source": "GitHub",
-      "stars": 839,
-      "user": "kargulstudio"
-    },
-    {
-      "title": "physicsdolphin/nv-uefi-unlocker - UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verified on most RTX 20 30 40 Series.",
-      "url": "https://github.com/physicsdolphin/nv-uefi-unlocker",
-      "published_at": "2026-10-26T06:22:24Z",
-      "description": "UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verified on most RTX 20 30 40 Series.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/93106514?v=4",
-      "source": "GitHub",
-      "stars": 1024,
-      "user": "physicsdolphin"
+      "stars": 359,
+      "user": "vaishantsah"
     },
     {
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
@@ -3484,23 +3452,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 865,
+      "stars": 1202,
       "user": "storytold"
-    },
-    {
-      "title": "chris124567/cfsolve - Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)",
-      "url": "https://github.com/chris124567/cfsolve",
-      "published_at": "2026-10-26T02:31:21Z",
-      "description": "Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26444923?v=4",
-      "source": "GitHub",
-      "stars": 494,
-      "user": "chris124567"
     },
     {
       "title": "ashayas/icloud-s3 - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
@@ -3514,23 +3467,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 444,
       "user": "ashayas"
     },
     {
-      "title": "yalongwastaken/git-koi - Draw a pixel-art koi from a GitHub account's public activity, as a looping GIF for a profile README.",
-      "url": "https://github.com/yalongwastaken/git-koi",
-      "published_at": "2026-10-26T00:08:44Z",
-      "description": "Draw a pixel-art koi from a GitHub account's public activity, as a looping GIF for a profile README.",
+      "title": "ShineFinancialStrut/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+      "url": "https://github.com/ShineFinancialStrut/game-server-route-racer",
+      "published_at": "2026-10-31T23:52:41Z",
+      "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/142839048?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
       "source": "GitHub",
-      "stars": 368,
-      "user": "yalongwastaken"
+      "stars": 357,
+      "user": "ShineFinancialStrut"
+    },
+    {
+      "title": "Weft-Rust/Weft - GitHub Repository",
+      "url": "https://github.com/Weft-Rust/Weft",
+      "published_at": "2026-10-29T22:57:18Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/350534499?v=4",
+      "source": "GitHub",
+      "stars": 280,
+      "user": "Weft-Rust"
+    },
+    {
+      "title": "anomalyco/hokum - Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
+      "url": "https://github.com/anomalyco/hokum",
+      "published_at": "2026-10-28T01:37:19Z",
+      "description": "Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/66570915?v=4",
+      "source": "GitHub",
+      "stars": 230,
+      "user": "anomalyco"
     },
     {
       "title": "Jepsen: ParticleDB 1.1.4",
