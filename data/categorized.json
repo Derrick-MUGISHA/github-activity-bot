@@ -60,21 +60,6 @@
       "user": "Peter Vivo"
     },
     {
-      "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
-      "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
-      "published_at": "2026-11-01T00:41:17Z",
-      "description": "Why do an eager intern with a Hacker News blog post, a C-level executive stepping off an airplane with an in-flight magazine, and a trillion-parameter LLM all walk straight into the exact same production bog? And why even Google DeepMind can only bake half of our 600 scars into model weights.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlk0251k4s6ucmxlzfnw.jpg",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
       "url": "https://dev.to/gde/agent-platform-in-action-7-when-adk-go-graph-workflow-meets-google-research-harness-part-1-28c1",
       "published_at": "2026-11-01T14:37:47Z",
@@ -120,34 +105,19 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
-      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
-      "published_at": "2026-10-31T23:02:02Z",
-      "description": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
+      "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
+      "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
+      "published_at": "2026-11-01T00:41:17Z",
+      "description": "Why do an eager intern with a Hacker News blog post, a C-level executive stepping off an airplane with an in-flight magazine, and a trillion-parameter LLM all walk straight into the exact same production bog? And why even Google DeepMind can only bake half of our 600 scars into model weights.",
       "tags": [
         "ai",
-        "devtools",
-        "productivity",
-        "opensource"
+        "programming",
+        "architecture",
+        "machinelearning"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fskill-drift%2Fcover.0c041943.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlk0251k4s6ucmxlzfnw.jpg",
       "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
-      "url": "https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig",
-      "published_at": "2026-11-01T19:01:20Z",
-      "description": "The incident that never shows up in your deploy log   Here is a scenario that's easy to...",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "agents",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmsiafz9fl8c4y4ife411.jpg",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
@@ -178,6 +148,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
       "source": "Dev.to",
       "user": "Adam - The Developer ✨"
+    },
+    {
+      "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
+      "url": "https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig",
+      "published_at": "2026-11-01T19:01:20Z",
+      "description": "The incident that never shows up in your deploy log   Here is a scenario that's easy to...",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "agents",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmsiafz9fl8c4y4ife411.jpg",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
+    {
+      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
+      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
+      "published_at": "2026-10-31T23:02:02Z",
+      "description": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
+      "tags": [
+        "ai",
+        "devtools",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fskill-drift%2Fcover.0c041943.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
@@ -255,21 +255,6 @@
       "user": "MLH Team"
     },
     {
-      "title": "I approved the order. Then my Genkit Dart agent forgot its own tool.",
-      "url": "https://dev.to/gde/i-approved-the-order-then-my-genkit-dart-agent-forgot-its-own-tool-3mjp",
-      "published_at": "2026-10-27T09:54:50Z",
-      "description": "My agent asked me \"can I order this part?\". I said yes. And the answer came back as a...",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnovb7w7zmrggeds1gyth.jpg",
-      "source": "Dev.to",
-      "user": "Esra Kadah"
-    },
-    {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
       "published_at": "2026-10-30T20:35:58Z",
@@ -283,6 +268,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
       "source": "Dev.to",
       "user": "Jem"
+    },
+    {
+      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
+      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
+      "published_at": "2026-10-22T23:51:30Z",
+      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
@@ -569,21 +569,6 @@
       "user": "Blaise Labs"
     },
     {
-      "title": "The Model Is the Easy Part",
-      "url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
-      "published_at": "2026-10-14T12:04:00Z",
-      "description": "We spent the past few months on a question that sounds simple: what does it actually take to move a...",
-      "tags": [
-        "ai",
-        "llm",
-        "opensource",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy36os4joe9iruszo40ix.png",
-      "source": "Dev.to",
-      "user": "Steven Latre"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -763,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 6295,
+      "stars": 6688,
       "user": "heydamir"
     },
     {
@@ -778,23 +763,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 756,
       "user": "hyz317"
-    },
-    {
-      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "url": "https://github.com/N1nEmAn/sapper-v2",
-      "published_at": "2026-10-30T15:12:35Z",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
-      "source": "GitHub",
-      "stars": 606,
-      "user": "N1nEmAn"
     },
     {
       "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
@@ -808,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2079,
       "user": "paipiange"
     },
     {
@@ -823,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 577,
       "user": "Balanov"
     },
     {
@@ -838,7 +808,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 171,
+      "stars": 412,
+      "user": "Balanov"
+    },
+    {
+      "title": "Balanov/skein - Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
+      "url": "https://github.com/Balanov/skein",
+      "published_at": "2026-11-02T23:57:05Z",
+      "description": "Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
+      "source": "GitHub",
+      "stars": 256,
       "user": "Balanov"
     },
     {
@@ -853,8 +838,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 13293,
+      "stars": 14890,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "hongye007/open-pose-costume - A bilingual reference studio for poses, costumes, and AI character creation.",
+      "url": "https://github.com/hongye007/open-pose-costume",
+      "published_at": "2026-10-29T22:05:35Z",
+      "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12199008?v=4",
+      "source": "GitHub",
+      "stars": 384,
+      "user": "hongye007"
     },
     {
       "title": "shipwords-dev/shipwords - Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
@@ -868,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/349182003?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "shipwords-dev"
     },
     {
@@ -887,6 +887,21 @@
       "user": "ShineFinancialStrut"
     },
     {
+      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "url": "https://github.com/sqlpxc/airhand",
+      "published_at": "2026-10-31T13:33:04Z",
+      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
+      "source": "GitHub",
+      "stars": 307,
+      "user": "sqlpxc"
+    },
+    {
       "title": "Jailbreaking my car's navigation system just so I can change the time",
       "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
       "published_at": "2026-11-02T10:30:58.517-06:00",
@@ -901,17 +916,102 @@
       "user": "xx"
     },
     {
-      "title": "Postgres 19 is late, and it's AI's fault",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "published_at": "2026-11-01T20:19:02.905-06:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Why did you choose the nix you nix?",
+      "url": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
+      "published_at": "2026-11-02T21:58:06.895-06:00",
+      "description": "I don't which nix is good and at this point I'm afraid I need to ask.\r\n\r\n- (Cpp)[Nix](https://nixos.org/)\r\n- [Determinate Nix](https://determinate.systems/)\r\n- [Lix](https://lix.systems/)\r\n\r\nOr, you know, [Guix](https://guix.gnu.org/)?\r\n\r\n(I _suspect_ that [Snix](https://snix.dev/), [Tvix](https://code.tvl.fyi/tree/tvix), and others aren't intended for general use… but I might be wrong?)",
       "tags": [
-        "databases",
-        "practices"
+        "ask",
+        "nix"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "eduard"
+      "user": "quad"
+    },
+    {
+      "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "published_at": "2026-11-02T13:24:33.645-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "timschumi"
+    },
+    {
+      "title": "Setattr on frozen slotted dataclass raises FrozenInstanceError in py3.13 but TypeError in py3.12",
+      "url": "https://stackoverflow.com/questions/80014347/setattr-on-frozen-slotted-dataclass-raises-frozeninstanceerror-in-py3-13-but-typ",
+      "published_at": "2026-11-03T04:27:21.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "python",
+        "python-dataclasses"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe&#8217;s startup scene",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "published_at": "2026-11-03T08:01:00.000Z",
+      "description": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "tags": [
+        "Venture",
+        "UK"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "published_at": "2026-11-03T07:20:00.000Z",
+      "description": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Apple",
+        "Apple Intelligence"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "published_at": "2026-11-03T03:30:00.000Z",
+      "description": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Android",
+        "Google",
+        "iOS"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "published_at": "2026-11-03T01:49:52.000Z",
+      "description": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "tags": [
+        "TC",
+        "AI",
+        "Apple",
+        "earnings"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
@@ -984,52 +1084,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Anthropic warns that it&#8217;s very close to RSI capability, aka self-building AI",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "published_at": "2026-11-02T22:14:50.000Z",
-      "description": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-      "tags": [
-        "AI",
-        "TC",
-        "Anthropic",
-        "RSI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "published_at": "2026-11-02T19:25:59.000Z",
-      "description": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-      "tags": [
-        "AI",
-        "Commerce",
-        "Layoffs",
-        "Squarespace",
-        "vibe coding"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "published_at": "2026-11-02T19:19:17.000Z",
-      "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "tags": [
-        "AI",
-        "Brave",
-        "In Brief",
-        "new york times"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
@@ -1281,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 6295,
+      "stars": 6688,
       "user": "heydamir"
     },
     {
@@ -1296,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 3529,
+      "stars": 3734,
       "user": "patch-gg"
     },
     {
@@ -1311,7 +1365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1404,
       "user": "elvarofficial"
     },
     {
@@ -1326,7 +1380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 1056,
+      "stars": 1096,
       "user": "HRuiCcc"
     },
     {
@@ -1341,7 +1395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
       "source": "GitHub",
-      "stars": 959,
+      "stars": 1000,
       "user": "NiazMorshed2007"
     },
     {
@@ -1356,7 +1410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 13293,
+      "stars": 14890,
       "user": "deepseek-ai"
     },
     {
@@ -1371,7 +1425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1205,
+      "stars": 1324,
       "user": "caru-ini"
     },
     {
@@ -1386,8 +1440,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 837,
       "user": "mromidev"
+    },
+    {
+      "title": "hongye007/open-pose-costume - A bilingual reference studio for poses, costumes, and AI character creation.",
+      "url": "https://github.com/hongye007/open-pose-costume",
+      "published_at": "2026-10-29T22:05:35Z",
+      "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12199008?v=4",
+      "source": "GitHub",
+      "stars": 384,
+      "user": "hongye007"
     },
     {
       "title": "shipwords-dev/shipwords - Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
@@ -1401,23 +1470,52 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/349182003?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "shipwords-dev"
     },
     {
-      "title": "0xCodez/cleanly - Cleanly — a stylish, safe PC cleaner for Windows and macOS",
-      "url": "https://github.com/0xCodez/cleanly",
-      "published_at": "2026-10-29T14:31:45Z",
-      "description": "Cleanly — a stylish, safe PC cleaner for Windows and macOS",
+      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "url": "https://github.com/sqlpxc/airhand",
+      "published_at": "2026-10-31T13:33:04Z",
+      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
       "tags": [
-        "typescript",
+        "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329118438?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 317,
-      "user": "0xCodez"
+      "stars": 307,
+      "user": "sqlpxc"
+    },
+    {
+      "title": "Unusual syntax for declaring or extending a class - how does this work?",
+      "url": "https://stackoverflow.com/questions/80014338/unusual-syntax-for-declaring-or-extending-a-class-how-does-this-work",
+      "published_at": "2026-11-03T02:04:03.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "javascript",
+        "class"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Manngo"
+    },
+    {
+      "title": "How can I safely load custom CSS and JavaScript only on a specific WordPress page?",
+      "url": "https://stackoverflow.com/questions/80014356/how-can-i-safely-load-custom-css-and-javascript-only-on-a-specific-wordpress-pag",
+      "published_at": "2026-11-03T05:41:43.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "javascript",
+        "css",
+        "wordpress",
+        "conditional-statements",
+        "wp-enqueue-scripts"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Web Designer Orange County"
     },
     {
       "title": "JS image dithering converter and compression",
@@ -1523,19 +1621,6 @@
       "user": "utternovice"
     },
     {
-      "title": "Netflix toggle subtitle keyboard hotkey using JavaScript",
-      "url": "https://stackoverflow.com/questions/79827940/netflix-toggle-subtitle-keyboard-hotkey-using-javascript",
-      "published_at": "2025-11-23T15:02:36.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "netflix"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "moortje"
-    },
-    {
       "title": "How to access React context for base URL when creating Redux-Toolkit Query API slice?",
       "url": "https://stackoverflow.com/questions/79815540/how-to-access-react-context-for-base-url-when-creating-redux-toolkit-query-api-s",
       "published_at": "2025-11-10T11:36:16.000Z",
@@ -1549,20 +1634,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "vegemite4me"
-    },
-    {
-      "title": "How can I use JSON generated from source code to build a documentation site with searchable, navigable content?",
-      "url": "https://stackoverflow.com/questions/79829812/how-can-i-use-json-generated-from-source-code-to-build-a-documentation-site-with",
-      "published_at": "2025-11-25T14:19:43.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "javascript",
-        "electron",
-        "documentation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ethan Martin"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1759,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 1544,
+      "stars": 2252,
       "user": "BryceYuuu"
     },
     {
@@ -1774,23 +1845,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 756,
       "user": "hyz317"
     },
     {
-      "title": "ramenvr/autopilot - Play any game",
-      "url": "https://github.com/ramenvr/autopilot",
-      "published_at": "2026-10-30T03:47:28Z",
-      "description": "Play any game",
+      "title": "Pika-Labs/Pika-H3-Flex - Pika H3 Flex: video and audio generation inference",
+      "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
+      "published_at": "2026-10-29T17:08:59Z",
+      "description": "Pika H3 Flex: video and audio generation inference",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/272671295?v=4",
       "source": "GitHub",
-      "stars": 670,
-      "user": "ramenvr"
+      "stars": 696,
+      "user": "Pika-Labs"
     },
     {
       "title": "speridlabs/idol-sdk - Idol: a single image to 3D Gaussians. Inference SDK and demo.",
@@ -1804,23 +1875,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207595948?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 678,
       "user": "speridlabs"
     },
     {
-      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "url": "https://github.com/N1nEmAn/sapper-v2",
-      "published_at": "2026-10-30T15:12:35Z",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "title": "ramenvr/autopilot - Play any game",
+      "url": "https://github.com/ramenvr/autopilot",
+      "published_at": "2026-10-30T03:47:28Z",
+      "description": "Play any game",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 606,
-      "user": "N1nEmAn"
+      "stars": 676,
+      "user": "ramenvr"
     },
     {
       "title": "zklmiao/CodeWar - 网页端 Python 编程对抗游戏：解题速度即战斗力 · A turn-based competitive Python programming game",
@@ -1834,14 +1905,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "zklmiao"
+    },
+    {
+      "title": "Setattr on frozen slotted dataclass raises FrozenInstanceError in py3.13 but TypeError in py3.12",
+      "url": "https://stackoverflow.com/questions/80014347/setattr-on-frozen-slotted-dataclass-raises-frozeninstanceerror-in-py3-13-but-typ",
+      "published_at": "2026-11-03T04:27:21.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "python",
+        "python-dataclasses"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
     },
     {
       "title": "Google OAuth token exchange gives 401 invalid_client after successful consent",
       "url": "https://stackoverflow.com/questions/80014324/google-oauth-token-exchange-gives-401-invalid-client-after-successful-consent",
       "published_at": "2026-11-02T23:31:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "oauth-2.0",
@@ -1852,17 +1936,46 @@
       "user": "RKG Enterprises"
     },
     {
-      "title": "Why does scikit-image skeletonization produce off-center loops and unwanted branches in thresholded handwritten strokes?",
-      "url": "https://stackoverflow.com/questions/80014319/why-does-scikit-image-skeletonization-produce-off-center-loops-and-unwanted-bran",
-      "published_at": "2026-11-02T22:48:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "title": "How to write a generic class that accepts Ellipsis like tuple[int, ...]",
+      "url": "https://stackoverflow.com/questions/80014259/how-to-write-a-generic-class-that-accepts-ellipsis-like-tupleint",
+      "published_at": "2026-11-02T16:20:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
-        "handwriting-recognition"
+        "generics",
+        "python-typing"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Roman"
+      "user": "JadenV15"
+    },
+    {
+      "title": "Does anyone know how images in pyglet work?",
+      "url": "https://stackoverflow.com/questions/80014334/does-anyone-know-how-images-in-pyglet-work",
+      "published_at": "2026-11-03T01:33:39.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "image",
+        "pyglet"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33244385"
+    },
+    {
+      "title": "Why does ContextVar return its default value inside run_in_executor() in Python asyncio?",
+      "url": "https://stackoverflow.com/questions/80014255/why-does-contextvar-return-its-default-value-inside-run-in-executor-in-python",
+      "published_at": "2026-11-02T16:02:33.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "python-asyncio",
+        "python-contextvars"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "questionx"
     },
     {
       "title": "Should module-level constants in constants.py be annotated with typing.Final",
@@ -1879,10 +1992,38 @@
       "user": "JadenV15"
     },
     {
+      "title": "Why does scikit-image skeletonization produce off-center loops and unwanted branches in thresholded handwritten strokes?",
+      "url": "https://stackoverflow.com/questions/80014319/why-does-scikit-image-skeletonization-produce-off-center-loops-and-unwanted-bran",
+      "published_at": "2026-11-02T22:48:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "handwriting-recognition"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Roman"
+    },
+    {
+      "title": "Difference between three forms of instantiating a generic class in Python",
+      "url": "https://stackoverflow.com/questions/80014112/difference-between-three-forms-of-instantiating-a-generic-class-in-python",
+      "published_at": "2026-11-02T04:55:05.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "generics",
+        "python-typing",
+        "instantiation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
       "title": "Can ast be used to parse a single line?",
       "url": "https://stackoverflow.com/questions/80014264/can-ast-be-used-to-parse-a-single-line",
       "published_at": "2026-11-02T16:36:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "python-ast"
@@ -1903,78 +2044,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "qtamo"
-    },
-    {
-      "title": "Why does ContextVar return its default value inside run_in_executor() in Python asyncio?",
-      "url": "https://stackoverflow.com/questions/80014255/why-does-contextvar-return-its-default-value-inside-run-in-executor-in-python",
-      "published_at": "2026-11-02T16:02:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "python-asyncio",
-        "python-contextvars"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "questionx"
-    },
-    {
-      "title": "Python API returns 8 and 22 instead of dates and symbols when selecting individual columns",
-      "url": "https://stackoverflow.com/questions/80014124/python-api-returns-8-and-22-instead-of-dates-and-symbols-when-selecting-individu",
-      "published_at": "2026-11-02T05:51:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "select",
-        "dolphindb"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ethan"
-    },
-    {
-      "title": "How to make a generic type that accepts Ellipsis like tuple[int, ...]",
-      "url": "https://stackoverflow.com/questions/80014259/how-to-make-a-generic-type-that-accepts-ellipsis-like-tupleint",
-      "published_at": "2026-11-02T16:20:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "generics",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Making a bar chart with varying values along the y-axis",
-      "url": "https://stackoverflow.com/questions/80014179/making-a-bar-chart-with-varying-values-along-the-y-axis",
-      "published_at": "2026-11-02T10:43:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "numpy",
-        "matplotlib",
-        "bar-chart"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Elisa Dahle"
-    },
-    {
-      "title": "Difference between three forms of instantiating a generic class in Python",
-      "url": "https://stackoverflow.com/questions/80014112/difference-between-three-forms-of-instantiating-a-generic-class-in-python",
-      "published_at": "2026-11-02T04:55:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "generics",
-        "python-typing",
-        "instantiation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
     },
     {
       "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
@@ -2248,19 +2317,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
-    },
-    {
-      "title": "My reflex of assuming our servers need ever-growing amounts of RAM",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex",
-      "published_at": "2026-11-02T04:33:02.386-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "devops",
-        "hardware"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "davidklassen"
     }
   ],
   "WebDev": [
@@ -2320,6 +2376,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "How can I safely load custom CSS and JavaScript only on a specific WordPress page?",
+      "url": "https://stackoverflow.com/questions/80014356/how-can-i-safely-load-custom-css-and-javascript-only-on-a-specific-wordpress-pag",
+      "published_at": "2026-11-03T05:41:43.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "javascript",
+        "css",
+        "wordpress",
+        "conditional-statements",
+        "wp-enqueue-scripts"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Web Designer Orange County"
     },
     {
       "title": "JS image dithering converter and compression",
@@ -2428,21 +2500,6 @@
       "user": "Esra Kadah"
     },
     {
-      "title": "I approved the order. Then my Genkit Dart agent forgot its own tool.",
-      "url": "https://dev.to/gde/i-approved-the-order-then-my-genkit-dart-agent-forgot-its-own-tool-3mjp",
-      "published_at": "2026-10-27T09:54:50Z",
-      "description": "My agent asked me \"can I order this part?\". I said yes. And the answer came back as a...",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnovb7w7zmrggeds1gyth.jpg",
-      "source": "Dev.to",
-      "user": "Esra Kadah"
-    },
-    {
       "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
       "url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
       "published_at": "2026-10-20T04:34:20Z",
@@ -2471,6 +2528,22 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gn9hgsdfqcf4qx8tayd.png",
       "source": "Dev.to",
       "user": "Esra Kadah"
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "published_at": "2026-11-03T03:30:00.000Z",
+      "description": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Android",
+        "Google",
+        "iOS"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     }
   ],
   "Cloud": [
@@ -2651,7 +2724,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/349182003?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "shipwords-dev"
     },
     {
@@ -2666,7 +2739,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 484,
       "user": "ashayas"
     },
     {
@@ -2727,17 +2800,19 @@
       "user": "iancarroll"
     },
     {
-      "title": "Postgres 19 is late, and it's AI's fault",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "published_at": "2026-11-01T20:19:02.905-06:00",
-      "description": "Lobste.rs Discussion",
+      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "url": "https://github.com/sqlpxc/airhand",
+      "published_at": "2026-10-31T13:33:04Z",
+      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
       "tags": [
-        "databases",
-        "practices"
+        "rust",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "eduard"
+      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
+      "source": "GitHub",
+      "stars": 307,
+      "user": "sqlpxc"
     },
     {
       "title": "Swapping unique values in mongoose without swapping all properties",
@@ -2992,7 +3067,7 @@
       "title": "Google OAuth token exchange gives 401 invalid_client after successful consent",
       "url": "https://stackoverflow.com/questions/80014324/google-oauth-token-exchange-gives-401-invalid-client-after-successful-consent",
       "published_at": "2026-11-02T23:31:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -5",
       "tags": [
         "python",
         "oauth-2.0",
@@ -3001,22 +3076,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "RKG Enterprises"
-    },
-    {
-      "title": "Germany says lawmakers&#8217; iPhones may have been hacked with spyware",
-      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-      "published_at": "2026-11-02T19:45:54.000Z",
-      "description": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
-      "tags": [
-        "Security",
-        "Apple",
-        "cyberattack",
-        "cybersecurity",
-        "Spyware"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
@@ -3108,21 +3167,6 @@
       "user": "Esra Kadah"
     },
     {
-      "title": "I approved the order. Then my Genkit Dart agent forgot its own tool.",
-      "url": "https://dev.to/gde/i-approved-the-order-then-my-genkit-dart-agent-forgot-its-own-tool-3mjp",
-      "published_at": "2026-10-27T09:54:50Z",
-      "description": "My agent asked me \"can I order this part?\". I said yes. And the answer came back as a...",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnovb7w7zmrggeds1gyth.jpg",
-      "source": "Dev.to",
-      "user": "Esra Kadah"
-    },
-    {
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
       "published_at": "2026-10-30T20:35:58Z",
@@ -3136,6 +3180,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
       "source": "Dev.to",
       "user": "Jem"
+    },
+    {
+      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
+      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
+      "published_at": "2026-10-22T23:51:30Z",
+      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
@@ -3200,7 +3259,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 6295,
+      "stars": 6688,
       "user": "heydamir"
     },
     {
@@ -3215,7 +3274,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 3529,
+      "stars": 3734,
       "user": "patch-gg"
     },
     {
@@ -3230,7 +3289,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1272,
+      "stars": 1404,
       "user": "elvarofficial"
     },
     {
@@ -3245,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 1056,
+      "stars": 1096,
       "user": "HRuiCcc"
     },
     {
@@ -3260,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
       "source": "GitHub",
-      "stars": 959,
+      "stars": 1000,
       "user": "NiazMorshed2007"
     },
     {
@@ -3275,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 1544,
+      "stars": 2252,
       "user": "BryceYuuu"
     },
     {
@@ -3290,23 +3349,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 737,
+      "stars": 756,
       "user": "hyz317"
     },
     {
-      "title": "ramenvr/autopilot - Play any game",
-      "url": "https://github.com/ramenvr/autopilot",
-      "published_at": "2026-10-30T03:47:28Z",
-      "description": "Play any game",
+      "title": "Pika-Labs/Pika-H3-Flex - Pika H3 Flex: video and audio generation inference",
+      "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
+      "published_at": "2026-10-29T17:08:59Z",
+      "description": "Pika H3 Flex: video and audio generation inference",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/272671295?v=4",
       "source": "GitHub",
-      "stars": 670,
-      "user": "ramenvr"
+      "stars": 696,
+      "user": "Pika-Labs"
     },
     {
       "title": "speridlabs/idol-sdk - Idol: a single image to 3D Gaussians. Inference SDK and demo.",
@@ -3320,23 +3379,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207595948?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 678,
       "user": "speridlabs"
     },
     {
-      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "url": "https://github.com/N1nEmAn/sapper-v2",
-      "published_at": "2026-10-30T15:12:35Z",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "title": "ramenvr/autopilot - Play any game",
+      "url": "https://github.com/ramenvr/autopilot",
+      "published_at": "2026-10-30T03:47:28Z",
+      "description": "Play any game",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 606,
-      "user": "N1nEmAn"
+      "stars": 676,
+      "user": "ramenvr"
     },
     {
       "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
@@ -3350,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 2044,
+      "stars": 2079,
       "user": "paipiange"
     },
     {
@@ -3365,7 +3424,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 572,
+      "stars": 577,
+      "user": "Balanov"
+    },
+    {
+      "title": "Balanov/shim - Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+      "url": "https://github.com/Balanov/shim",
+      "published_at": "2026-11-02T17:54:29Z",
+      "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
+      "source": "GitHub",
+      "stars": 412,
+      "user": "Balanov"
+    },
+    {
+      "title": "Balanov/skein - Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
+      "url": "https://github.com/Balanov/skein",
+      "published_at": "2026-11-02T23:57:05Z",
+      "description": "Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
+      "source": "GitHub",
+      "stars": 256,
       "user": "Balanov"
     },
     {
@@ -3380,38 +3469,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
       "source": "GitHub",
-      "stars": 180,
+      "stars": 181,
       "user": "zklmiao"
-    },
-    {
-      "title": "Balanov/shim - Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
-      "url": "https://github.com/Balanov/shim",
-      "published_at": "2026-11-02T17:54:29Z",
-      "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
-      "source": "GitHub",
-      "stars": 171,
-      "user": "Balanov"
-    },
-    {
-      "title": "egoist/godraw - infinite canvas in mygo",
-      "url": "https://github.com/egoist/godraw",
-      "published_at": "2026-11-02T09:47:18Z",
-      "description": "infinite canvas in mygo",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
-      "source": "GitHub",
-      "stars": 145,
-      "user": "egoist"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -3425,7 +3484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 13293,
+      "stars": 14890,
       "user": "deepseek-ai"
     },
     {
@@ -3440,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1205,
+      "stars": 1324,
       "user": "caru-ini"
     },
     {
@@ -3455,8 +3514,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 648,
+      "stars": 837,
       "user": "mromidev"
+    },
+    {
+      "title": "hongye007/open-pose-costume - A bilingual reference studio for poses, costumes, and AI character creation.",
+      "url": "https://github.com/hongye007/open-pose-costume",
+      "published_at": "2026-10-29T22:05:35Z",
+      "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/12199008?v=4",
+      "source": "GitHub",
+      "stars": 384,
+      "user": "hongye007"
     },
     {
       "title": "shipwords-dev/shipwords - Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
@@ -3470,23 +3544,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/349182003?v=4",
       "source": "GitHub",
-      "stars": 346,
+      "stars": 348,
       "user": "shipwords-dev"
-    },
-    {
-      "title": "0xCodez/cleanly - Cleanly — a stylish, safe PC cleaner for Windows and macOS",
-      "url": "https://github.com/0xCodez/cleanly",
-      "published_at": "2026-10-29T14:31:45Z",
-      "description": "Cleanly — a stylish, safe PC cleaner for Windows and macOS",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329118438?v=4",
-      "source": "GitHub",
-      "stars": 317,
-      "user": "0xCodez"
     },
     {
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
@@ -3500,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 4351,
+      "stars": 5489,
       "user": "storytold"
     },
     {
@@ -3515,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 476,
+      "stars": 484,
       "user": "ashayas"
     },
     {
@@ -3534,6 +3593,21 @@
       "user": "ShineFinancialStrut"
     },
     {
+      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "url": "https://github.com/sqlpxc/airhand",
+      "published_at": "2026-10-31T13:33:04Z",
+      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
+      "source": "GitHub",
+      "stars": 307,
+      "user": "sqlpxc"
+    },
+    {
       "title": "Weft-Rust/Weft - GitHub Repository",
       "url": "https://github.com/Weft-Rust/Weft",
       "published_at": "2026-10-29T22:57:18Z",
@@ -3545,23 +3619,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350534499?v=4",
       "source": "GitHub",
-      "stars": 289,
+      "stars": 291,
       "user": "Weft-Rust"
-    },
-    {
-      "title": "RatioGoldsmithMuse/valorant-fps-lag-fixer - VALORANT won't start, stutters or lags? Tick reads the Vanguard code, measures FPS for 60 seconds, finds where the lag starts and fixes what it can, with one-click undo. Never touches the game.",
-      "url": "https://github.com/RatioGoldsmithMuse/valorant-fps-lag-fixer",
-      "published_at": "2026-10-31T23:33:33Z",
-      "description": "VALORANT won't start, stutters or lags? Tick reads the Vanguard code, measures FPS for 60 seconds, finds where the lag starts and fixes what it can, with one-click undo. Never touches the game.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316771930?v=4",
-      "source": "GitHub",
-      "stars": 235,
-      "user": "RatioGoldsmithMuse"
     },
     {
       "title": "How to access React context for base URL when creating Redux-Toolkit Query API slice?",
@@ -3577,6 +3636,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "vegemite4me"
+    },
+    {
+      "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "published_at": "2026-11-03T07:20:00.000Z",
+      "description": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Apple",
+        "Apple Intelligence"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
