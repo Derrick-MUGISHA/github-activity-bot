@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
+      "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io",
+      "published_at": "2026-11-03T14:00:00Z",
+      "description": "If you've ever tried to parse an LLM response in code, you know the pain: the format changes slightly...",
+      "tags": [
+        "ai",
+        "gemini",
+        "promptengineering",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk4s78yb3dgm2xz85byoo.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
       "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
       "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1",
       "published_at": "2026-11-02T21:32:30Z",
@@ -14,20 +29,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftorchtpu-dev%2Fmain%2Fdocs%2Ftorchtpu-native-rust%2Fdevto-cover.3ce8c43b.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm",
-      "published_at": "2026-11-02T09:45:08Z",
-      "description": "Anyone with the public URL can use my tokens to perform image analysis and text-to-speech, which can...",
-      "tags": [
-        "angular",
-        "firebase",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F94tpwuwjg44m2i882twm.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
@@ -105,6 +106,20 @@
       "user": "Connie Leung"
     },
     {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm",
+      "published_at": "2026-11-02T09:45:08Z",
+      "description": "Anyone with the public URL can use my tokens to perform image analysis and text-to-speech, which can...",
+      "tags": [
+        "angular",
+        "firebase",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F94tpwuwjg44m2i882twm.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
       "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
       "published_at": "2026-11-01T00:41:17Z",
@@ -150,21 +165,6 @@
       "user": "Adam - The Developer ✨"
     },
     {
-      "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
-      "url": "https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig",
-      "published_at": "2026-11-01T19:01:20Z",
-      "description": "The incident that never shows up in your deploy log   Here is a scenario that's easy to...",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "agents",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmsiafz9fl8c4y4ife411.jpg",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
-    },
-    {
       "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
       "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
       "published_at": "2026-10-31T23:02:02Z",
@@ -178,6 +178,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fskill-drift%2Fcover.0c041943.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
+      "url": "https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig",
+      "published_at": "2026-11-01T19:01:20Z",
+      "description": "The incident that never shows up in your deploy log   Here is a scenario that's easy to...",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "agents",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmsiafz9fl8c4y4ife411.jpg",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
     },
     {
       "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
@@ -253,36 +268,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F89unnpv2l9egvfexk82u.png",
       "source": "Dev.to",
       "user": "MLH Team"
-    },
-    {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
-      "published_at": "2026-10-30T20:35:58Z",
-      "description": "The results are in for Week 3 of our five Hacktoberfest DEV Challenges! For Slow and Steady, we asked...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
-      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
-      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
-      "published_at": "2026-10-22T23:51:30Z",
-      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
@@ -748,7 +733,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 6688,
+      "stars": 7169,
       "user": "heydamir"
     },
     {
@@ -763,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 771,
       "user": "hyz317"
     },
     {
@@ -778,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 2079,
+      "stars": 2113,
       "user": "paipiange"
     },
     {
@@ -793,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 588,
       "user": "Balanov"
     },
     {
@@ -808,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 424,
       "user": "Balanov"
     },
     {
@@ -823,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 259,
       "user": "Balanov"
     },
     {
@@ -838,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 14890,
+      "stars": 16138,
       "user": "deepseek-ai"
     },
     {
@@ -853,23 +838,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12199008?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 509,
       "user": "hongye007"
     },
     {
-      "title": "shipwords-dev/shipwords - Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
-      "url": "https://github.com/shipwords-dev/shipwords",
-      "published_at": "2026-10-28T06:35:51Z",
-      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "title": "rerun-build/rerun - AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+      "url": "https://github.com/rerun-build/rerun",
+      "published_at": "2026-10-29T16:09:54Z",
+      "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/349182003?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 348,
-      "user": "shipwords-dev"
+      "stars": 488,
+      "user": "rerun-build"
     },
     {
       "title": "ShineFinancialStrut/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
@@ -883,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "ShineFinancialStrut"
     },
     {
@@ -944,7 +929,7 @@
       "title": "Setattr on frozen slotted dataclass raises FrozenInstanceError in py3.13 but TypeError in py3.12",
       "url": "https://stackoverflow.com/questions/80014347/setattr-on-frozen-slotted-dataclass-raises-frozeninstanceerror-in-py3-13-but-typ",
       "published_at": "2026-11-03T04:27:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "python-dataclasses"
@@ -952,6 +937,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
+    },
+    {
+      "title": "New York City&#8217;s Mamdani criticizes Madison Square Garden owner over surveillance tech",
+      "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
+      "published_at": "2026-11-03T16:04:55.000Z",
+      "description": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "In Brief",
+        "new york city",
+        "privacy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "published_at": "2026-11-03T15:38:27.000Z",
+      "description": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "tags": [
+        "AI",
+        "Apps",
+        "ai companion",
+        "app store",
+        "online dating"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe&#8217;s startup scene",
@@ -1042,50 +1059,6 @@
       "user": "Julie Bort"
     },
     {
-      "title": "Apple says it&#8217;s &#8216;hard to predict&#8217; when iPhone Duo constraints will improve",
-      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
-      "published_at": "2026-11-02T23:25:32.000Z",
-      "description": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
-      "tags": [
-        "TC",
-        "Hardware",
-        "Apple",
-        "iPhone"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "published_at": "2026-11-02T23:13:53.000Z",
-      "description": "The one-year-old startup is now valued at $300 million.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Startups",
-        "Venture",
-        "fine-tuning"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Apple&#8217;s inventory surges 154% as memory chip costs climb",
-      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
-      "published_at": "2026-11-02T23:04:57.000Z",
-      "description": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
-      "tags": [
-        "Hardware",
-        "Apple"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
       "url": "https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/",
       "published_at": "2026-10-30T13:57:52.000Z",
@@ -1160,20 +1133,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm",
-      "published_at": "2026-11-02T09:45:08Z",
-      "description": "Anyone with the public URL can use my tokens to perform image analysis and text-to-speech, which can...",
-      "tags": [
-        "angular",
-        "firebase",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F94tpwuwjg44m2i882twm.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]",
       "url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg",
       "published_at": "2026-11-01T13:23:27Z",
@@ -1185,6 +1144,20 @@
         "performance"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqujte2p4zz2v05hybojq.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm",
+      "published_at": "2026-11-02T09:45:08Z",
+      "description": "Anyone with the public URL can use my tokens to perform image analysis and text-to-speech, which can...",
+      "tags": [
+        "angular",
+        "firebase",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F94tpwuwjg44m2i882twm.png",
       "source": "Dev.to",
       "user": "Connie Leung"
     },
@@ -1335,7 +1308,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 6688,
+      "stars": 7169,
       "user": "heydamir"
     },
     {
@@ -1350,7 +1323,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 3734,
+      "stars": 3993,
       "user": "patch-gg"
     },
     {
@@ -1365,7 +1338,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1404,
+      "stars": 1541,
       "user": "elvarofficial"
     },
     {
@@ -1380,7 +1353,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 1096,
+      "stars": 1123,
       "user": "HRuiCcc"
     },
     {
@@ -1395,7 +1368,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1044,
       "user": "NiazMorshed2007"
     },
     {
@@ -1410,7 +1383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 14890,
+      "stars": 16138,
       "user": "deepseek-ai"
     },
     {
@@ -1425,7 +1398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1324,
+      "stars": 1452,
       "user": "caru-ini"
     },
     {
@@ -1440,7 +1413,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 1068,
       "user": "mromidev"
     },
     {
@@ -1455,23 +1428,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12199008?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 509,
       "user": "hongye007"
     },
     {
-      "title": "shipwords-dev/shipwords - Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
-      "url": "https://github.com/shipwords-dev/shipwords",
-      "published_at": "2026-10-28T06:35:51Z",
-      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "title": "rerun-build/rerun - AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+      "url": "https://github.com/rerun-build/rerun",
+      "published_at": "2026-10-29T16:09:54Z",
+      "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/349182003?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 348,
-      "user": "shipwords-dev"
+      "stars": 488,
+      "user": "rerun-build"
     },
     {
       "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
@@ -1489,10 +1462,25 @@
       "user": "sqlpxc"
     },
     {
+      "title": "How do I create a JS object (rather than an array) from HTML table values?",
+      "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
+      "published_at": "2026-11-03T15:07:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "php",
+        "html",
+        "jquery"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eireni &#39;Fikia&#39; Moutoussi"
+    },
+    {
       "title": "Unusual syntax for declaring or extending a class - how does this work?",
       "url": "https://stackoverflow.com/questions/80014338/unusual-syntax-for-declaring-or-extending-a-class-how-does-this-work",
       "published_at": "2026-11-03T02:04:03.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "description": "Stack Overflow question · 2 answers · score 4",
       "tags": [
         "javascript",
         "class"
@@ -1502,20 +1490,18 @@
       "user": "Manngo"
     },
     {
-      "title": "How can I safely load custom CSS and JavaScript only on a specific WordPress page?",
-      "url": "https://stackoverflow.com/questions/80014356/how-can-i-safely-load-custom-css-and-javascript-only-on-a-specific-wordpress-pag",
-      "published_at": "2026-11-03T05:41:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
+      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
+      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
+      "published_at": "2026-11-01T04:11:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
-        "css",
-        "wordpress",
-        "conditional-statements",
-        "wp-enqueue-scripts"
+        "html",
+        "dom-events"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Web Designer Orange County"
+      "user": "mith sams"
     },
     {
       "title": "JS image dithering converter and compression",
@@ -1565,18 +1551,33 @@
       "user": "Manngo"
     },
     {
-      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
-      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
-      "published_at": "2026-11-01T04:11:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
+      "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
+      "published_at": "2026-10-30T23:01:14.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "javascript",
-        "html",
-        "dom-events"
+        "cloud",
+        "speech-recognition",
+        "local",
+        "webspeech-api"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "mith sams"
+      "user": "Jeff Baker"
+    },
+    {
+      "title": "Split and capture text ending with brackets and two letters",
+      "url": "https://stackoverflow.com/questions/80011025/split-and-capture-text-ending-with-brackets-and-two-letters",
+      "published_at": "2026-10-19T09:42:40.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "javascript",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Federico"
     },
     {
       "title": "How to find the sum of an array of numbers",
@@ -1605,35 +1606,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "jokeyrhyme"
-    },
-    {
-      "title": "HTML static webpage - how would I have any of the files present in a particular directory be selected in a src",
-      "url": "https://stackoverflow.com/questions/79833069/html-static-webpage-how-would-i-have-any-of-the-files-present-in-a-particular",
-      "published_at": "2025-11-29T05:51:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "utternovice"
-    },
-    {
-      "title": "How to access React context for base URL when creating Redux-Toolkit Query API slice?",
-      "url": "https://stackoverflow.com/questions/79815540/how-to-access-react-context-for-base-url-when-creating-redux-toolkit-query-api-s",
-      "published_at": "2025-11-10T11:36:16.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-context",
-        "rtk-query"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "vegemite4me"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1830,23 +1802,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 2252,
+      "stars": 2870,
       "user": "BryceYuuu"
-    },
-    {
-      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "url": "https://github.com/hyz317/HairDeck",
-      "published_at": "2026-10-29T17:16:13Z",
-      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
-      "source": "GitHub",
-      "stars": 756,
-      "user": "hyz317"
     },
     {
       "title": "Pika-Labs/Pika-H3-Flex - Pika H3 Flex: video and audio generation inference",
@@ -1860,8 +1817,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272671295?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 1096,
       "user": "Pika-Labs"
+    },
+    {
+      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "url": "https://github.com/hyz317/HairDeck",
+      "published_at": "2026-10-29T17:16:13Z",
+      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
+      "source": "GitHub",
+      "stars": 771,
+      "user": "hyz317"
     },
     {
       "title": "speridlabs/idol-sdk - Idol: a single image to 3D Gaussians. Inference SDK and demo.",
@@ -1875,44 +1847,56 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207595948?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 707,
       "user": "speridlabs"
     },
     {
-      "title": "ramenvr/autopilot - Play any game",
-      "url": "https://github.com/ramenvr/autopilot",
-      "published_at": "2026-10-30T03:47:28Z",
-      "description": "Play any game",
+      "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "published_at": "2026-11-02T00:40:47Z",
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 676,
-      "user": "ramenvr"
+      "stars": 687,
+      "user": "AssassinCreator"
     },
     {
-      "title": "zklmiao/CodeWar - 网页端 Python 编程对抗游戏：解题速度即战斗力 · A turn-based competitive Python programming game",
-      "url": "https://github.com/zklmiao/CodeWar",
-      "published_at": "2026-10-28T03:49:23Z",
-      "description": "网页端 Python 编程对抗游戏：解题速度即战斗力 · A turn-based competitive Python programming game",
+      "title": "Can I use HSV in Tkinter?",
+      "url": "https://stackoverflow.com/questions/80014464/can-i-use-hsv-in-tkinter",
+      "published_at": "2026-11-03T16:00:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "go",
-        "github",
-        "open-source"
+        "python",
+        "tkinter",
+        "hsv"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
-      "source": "GitHub",
-      "stars": 181,
-      "user": "zklmiao"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rowan Harris"
+    },
+    {
+      "title": "Python asyncio function sometimes returns None instead of the expected result",
+      "url": "https://stackoverflow.com/questions/80014439/python-asyncio-function-sometimes-returns-none-instead-of-the-expected-result",
+      "published_at": "2026-11-03T14:44:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33272367"
     },
     {
       "title": "Setattr on frozen slotted dataclass raises FrozenInstanceError in py3.13 but TypeError in py3.12",
       "url": "https://stackoverflow.com/questions/80014347/setattr-on-frozen-slotted-dataclass-raises-frozeninstanceerror-in-py3-13-but-typ",
       "published_at": "2026-11-03T04:27:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "python-dataclasses"
@@ -1922,10 +1906,36 @@
       "user": "JadenV15"
     },
     {
+      "title": "Why does scikit-image skeletonization produce off-center loops and unwanted branches in thresholded handwritten strokes?",
+      "url": "https://stackoverflow.com/questions/80014319/why-does-scikit-image-skeletonization-produce-off-center-loops-and-unwanted-bran",
+      "published_at": "2026-11-02T22:48:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "handwriting-recognition"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Roman"
+    },
+    {
+      "title": "Compare lists in one column to the first n elements of another column in Python Polars lazyframes, where n is dynamically determined from index",
+      "url": "https://stackoverflow.com/questions/80014247/compare-lists-in-one-column-to-the-first-n-elements-of-another-column-in-python",
+      "published_at": "2026-11-02T15:38:57.000Z",
+      "description": "Stack Overflow question · 0 answers · score 3",
+      "tags": [
+        "python",
+        "python-polars"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "qtamo"
+    },
+    {
       "title": "Google OAuth token exchange gives 401 invalid_client after successful consent",
       "url": "https://stackoverflow.com/questions/80014324/google-oauth-token-exchange-gives-401-invalid-client-after-successful-consent",
       "published_at": "2026-11-02T23:31:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "oauth-2.0",
@@ -1950,18 +1960,18 @@
       "user": "JadenV15"
     },
     {
-      "title": "Does anyone know how images in pyglet work?",
-      "url": "https://stackoverflow.com/questions/80014334/does-anyone-know-how-images-in-pyglet-work",
-      "published_at": "2026-11-03T01:33:39.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "title": "Should module-level constants in constants.py be annotated with typing.Final",
+      "url": "https://stackoverflow.com/questions/80014209/should-module-level-constants-in-constants-py-be-annotated-with-typing-final",
+      "published_at": "2026-11-02T13:00:11.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
-        "image",
-        "pyglet"
+        "constants",
+        "python-typing"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user33244385"
+      "user": "JadenV15"
     },
     {
       "title": "Why does ContextVar return its default value inside run_in_executor() in Python asyncio?",
@@ -1978,72 +1988,18 @@
       "user": "questionx"
     },
     {
-      "title": "Should module-level constants in constants.py be annotated with typing.Final",
-      "url": "https://stackoverflow.com/questions/80014209/should-module-level-constants-in-constants-py-be-annotated-with-typing-final",
-      "published_at": "2026-11-02T13:00:11.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "title": "Changing WSGI app makes SQLite file unable to be found",
+      "url": "https://stackoverflow.com/questions/80014221/changing-wsgi-app-makes-sqlite-file-unable-to-be-found",
+      "published_at": "2026-11-02T13:48:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
-        "constants",
-        "python-typing"
+        "docker",
+        "sqlite"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Why does scikit-image skeletonization produce off-center loops and unwanted branches in thresholded handwritten strokes?",
-      "url": "https://stackoverflow.com/questions/80014319/why-does-scikit-image-skeletonization-produce-off-center-loops-and-unwanted-bran",
-      "published_at": "2026-11-02T22:48:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "handwriting-recognition"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Roman"
-    },
-    {
-      "title": "Difference between three forms of instantiating a generic class in Python",
-      "url": "https://stackoverflow.com/questions/80014112/difference-between-three-forms-of-instantiating-a-generic-class-in-python",
-      "published_at": "2026-11-02T04:55:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "generics",
-        "python-typing",
-        "instantiation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Can ast be used to parse a single line?",
-      "url": "https://stackoverflow.com/questions/80014264/can-ast-be-used-to-parse-a-single-line",
-      "published_at": "2026-11-02T16:36:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "python-ast"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "Compare lists in one column to the first n elements of another column in Python Polars lazyframes, where n is dynamically determined from index",
-      "url": "https://stackoverflow.com/questions/80014247/compare-lists-in-one-column-to-the-first-n-elements-of-another-column-in-python",
-      "published_at": "2026-11-02T15:38:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "python-polars"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "qtamo"
+      "user": "Jurian Sluiman"
     },
     {
       "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
@@ -2317,6 +2273,20 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "Changing WSGI app makes SQLite file unable to be found",
+      "url": "https://stackoverflow.com/questions/80014221/changing-wsgi-app-makes-sqlite-file-unable-to-be-found",
+      "published_at": "2026-11-02T13:48:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "docker",
+        "sqlite"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jurian Sluiman"
     }
   ],
   "WebDev": [
@@ -2378,20 +2348,33 @@
       "user": "velmu"
     },
     {
-      "title": "How can I safely load custom CSS and JavaScript only on a specific WordPress page?",
-      "url": "https://stackoverflow.com/questions/80014356/how-can-i-safely-load-custom-css-and-javascript-only-on-a-specific-wordpress-pag",
-      "published_at": "2026-11-03T05:41:43.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
+      "title": "How do I create a JS object (rather than an array) from HTML table values?",
+      "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
+      "published_at": "2026-11-03T15:07:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
-        "css",
-        "wordpress",
-        "conditional-statements",
-        "wp-enqueue-scripts"
+        "php",
+        "html",
+        "jquery"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Web Designer Orange County"
+      "user": "Eireni &#39;Fikia&#39; Moutoussi"
+    },
+    {
+      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
+      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
+      "published_at": "2026-11-01T04:11:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "javascript",
+        "html",
+        "dom-events"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mith sams"
     },
     {
       "title": "JS image dithering converter and compression",
@@ -2423,34 +2406,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Manngo"
-    },
-    {
-      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
-      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
-      "published_at": "2026-11-01T04:11:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "javascript",
-        "html",
-        "dom-events"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mith sams"
-    },
-    {
-      "title": "HTML static webpage - how would I have any of the files present in a particular directory be selected in a src",
-      "url": "https://stackoverflow.com/questions/79833069/html-static-webpage-how-would-i-have-any-of-the-files-present-in-a-particular",
-      "published_at": "2025-11-29T05:51:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "utternovice"
     }
   ],
   "Mobile": [
@@ -2713,21 +2668,6 @@
       "user": "Esra Kadah"
     },
     {
-      "title": "shipwords-dev/shipwords - Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
-      "url": "https://github.com/shipwords-dev/shipwords",
-      "published_at": "2026-10-28T06:35:51Z",
-      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/349182003?v=4",
-      "source": "GitHub",
-      "stars": 348,
-      "user": "shipwords-dev"
-    },
-    {
       "title": "ashayas/icloud-s3 - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
       "url": "https://github.com/ashayas/icloud-s3",
       "published_at": "2026-10-30T23:54:20Z",
@@ -2739,8 +2679,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 489,
       "user": "ashayas"
+    },
+    {
+      "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
+      "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
+      "published_at": "2026-10-30T23:01:14.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "javascript",
+        "cloud",
+        "speech-recognition",
+        "local",
+        "webspeech-api"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jeff Baker"
     },
     {
       "title": "Cloud Service Models Explained: IaaS vs PaaS vs SaaS",
@@ -2829,6 +2785,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33267884"
+    },
+    {
+      "title": "Changing WSGI app makes SQLite file unable to be found",
+      "url": "https://stackoverflow.com/questions/80014221/changing-wsgi-app-makes-sqlite-file-unable-to-be-found",
+      "published_at": "2026-11-02T13:48:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "docker",
+        "sqlite"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jurian Sluiman"
     },
     {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
@@ -3067,7 +3037,7 @@
       "title": "Google OAuth token exchange gives 401 invalid_client after successful consent",
       "url": "https://stackoverflow.com/questions/80014324/google-oauth-token-exchange-gives-401-invalid-client-after-successful-consent",
       "published_at": "2026-11-02T23:31:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "oauth-2.0",
@@ -3076,6 +3046,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "RKG Enterprises"
+    },
+    {
+      "title": "New York City&#8217;s Mamdani criticizes Madison Square Garden owner over surveillance tech",
+      "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
+      "published_at": "2026-11-03T16:04:55.000Z",
+      "description": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "In Brief",
+        "new york city",
+        "privacy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
@@ -3167,36 +3153,6 @@
       "user": "Esra Kadah"
     },
     {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
-      "published_at": "2026-10-30T20:35:58Z",
-      "description": "The results are in for Week 3 of our five Hacktoberfest DEV Challenges! For Slow and Steady, we asked...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
-      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
-      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
-      "published_at": "2026-10-22T23:51:30Z",
-      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
       "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
       "published_at": "2026-10-21T16:59:00Z",
@@ -3259,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 6688,
+      "stars": 7169,
       "user": "heydamir"
     },
     {
@@ -3274,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 3734,
+      "stars": 3993,
       "user": "patch-gg"
     },
     {
@@ -3289,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1404,
+      "stars": 1541,
       "user": "elvarofficial"
     },
     {
@@ -3304,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 1096,
+      "stars": 1123,
       "user": "HRuiCcc"
     },
     {
@@ -3319,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
       "source": "GitHub",
-      "stars": 1000,
+      "stars": 1044,
       "user": "NiazMorshed2007"
     },
     {
@@ -3334,23 +3290,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 2252,
+      "stars": 2870,
       "user": "BryceYuuu"
-    },
-    {
-      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "url": "https://github.com/hyz317/HairDeck",
-      "published_at": "2026-10-29T17:16:13Z",
-      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
-      "source": "GitHub",
-      "stars": 756,
-      "user": "hyz317"
     },
     {
       "title": "Pika-Labs/Pika-H3-Flex - Pika H3 Flex: video and audio generation inference",
@@ -3364,8 +3305,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272671295?v=4",
       "source": "GitHub",
-      "stars": 696,
+      "stars": 1096,
       "user": "Pika-Labs"
+    },
+    {
+      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "url": "https://github.com/hyz317/HairDeck",
+      "published_at": "2026-10-29T17:16:13Z",
+      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
+      "source": "GitHub",
+      "stars": 771,
+      "user": "hyz317"
     },
     {
       "title": "speridlabs/idol-sdk - Idol: a single image to 3D Gaussians. Inference SDK and demo.",
@@ -3379,23 +3335,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207595948?v=4",
       "source": "GitHub",
-      "stars": 678,
+      "stars": 707,
       "user": "speridlabs"
     },
     {
-      "title": "ramenvr/autopilot - Play any game",
-      "url": "https://github.com/ramenvr/autopilot",
-      "published_at": "2026-10-30T03:47:28Z",
-      "description": "Play any game",
+      "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "published_at": "2026-11-02T00:40:47Z",
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 676,
-      "user": "ramenvr"
+      "stars": 687,
+      "user": "AssassinCreator"
     },
     {
       "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
@@ -3409,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 2079,
+      "stars": 2113,
       "user": "paipiange"
     },
     {
@@ -3424,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 577,
+      "stars": 588,
       "user": "Balanov"
     },
     {
@@ -3439,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 412,
+      "stars": 424,
       "user": "Balanov"
     },
     {
@@ -3454,23 +3410,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 256,
+      "stars": 259,
       "user": "Balanov"
     },
     {
-      "title": "zklmiao/CodeWar - 网页端 Python 编程对抗游戏：解题速度即战斗力 · A turn-based competitive Python programming game",
-      "url": "https://github.com/zklmiao/CodeWar",
-      "published_at": "2026-10-28T03:49:23Z",
-      "description": "网页端 Python 编程对抗游戏：解题速度即战斗力 · A turn-based competitive Python programming game",
+      "title": "egoist/godraw - infinite canvas in mygo",
+      "url": "https://github.com/egoist/godraw",
+      "published_at": "2026-11-02T09:47:18Z",
+      "description": "infinite canvas in mygo",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34015567?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 181,
-      "user": "zklmiao"
+      "stars": 195,
+      "user": "egoist"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -3484,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 14890,
+      "stars": 16138,
       "user": "deepseek-ai"
     },
     {
@@ -3499,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1324,
+      "stars": 1452,
       "user": "caru-ini"
     },
     {
@@ -3514,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 837,
+      "stars": 1068,
       "user": "mromidev"
     },
     {
@@ -3529,23 +3485,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12199008?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 509,
       "user": "hongye007"
     },
     {
-      "title": "shipwords-dev/shipwords - Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
-      "url": "https://github.com/shipwords-dev/shipwords",
-      "published_at": "2026-10-28T06:35:51Z",
-      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "title": "rerun-build/rerun - AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+      "url": "https://github.com/rerun-build/rerun",
+      "published_at": "2026-10-29T16:09:54Z",
+      "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/349182003?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 348,
-      "user": "shipwords-dev"
+      "stars": 488,
+      "user": "rerun-build"
     },
     {
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
@@ -3559,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 5489,
+      "stars": 7179,
       "user": "storytold"
     },
     {
@@ -3574,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 489,
       "user": "ashayas"
     },
     {
@@ -3589,7 +3545,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
       "source": "GitHub",
-      "stars": 369,
+      "stars": 371,
       "user": "ShineFinancialStrut"
     },
     {
@@ -3619,23 +3575,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350534499?v=4",
       "source": "GitHub",
-      "stars": 291,
+      "stars": 296,
       "user": "Weft-Rust"
-    },
-    {
-      "title": "How to access React context for base URL when creating Redux-Toolkit Query API slice?",
-      "url": "https://stackoverflow.com/questions/79815540/how-to-access-react-context-for-base-url-when-creating-redux-toolkit-query-api-s",
-      "published_at": "2025-11-10T11:36:16.000Z",
-      "description": "Stack Overflow question · 3 answers · score -1",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "react-context",
-        "rtk-query"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "vegemite4me"
     },
     {
       "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
@@ -3665,22 +3606,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
-      "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
-      "published_at": "2026-11-03T00:14:51.000Z",
-      "description": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
-      "tags": [
-        "Apps",
-        "Social",
-        "dating apps",
-        "Hinge",
-        "Match Group"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
