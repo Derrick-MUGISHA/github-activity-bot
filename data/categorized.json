@@ -1,6 +1,21 @@
 {
   "AI": [
     {
+      "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
+      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1",
+      "published_at": "2026-11-02T21:32:30Z",
+      "description": "Gemma 4 E2B with the model in Rust, served from a TPU v5e-1 VM through PyO3 and a C++ shim over ATen, with no tch and no pinned PyTorch, an OpenAI endpoint, an MCP server and a local chat UI.",
+      "tags": [
+        "rust",
+        "pytorch",
+        "tpu",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftorchtpu-dev%2Fmain%2Fdocs%2Ftorchtpu-native-rust%2Fdevto-cover.3ce8c43b.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
       "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm",
       "published_at": "2026-11-02T09:45:08Z",
@@ -15,19 +30,19 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
-      "url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740",
-      "published_at": "2026-10-29T20:32:53Z",
-      "description": "Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson fails in open-world software, and how we compile mid-flight collisions into 4-Vector Synthetic Scars and a Six-Pillar Critic.",
+      "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
+      "url": "https://blog.mlh.com/prompt-pad-frame-your-persona-for-better-ai-answers-eg3",
+      "published_at": "2026-11-02T20:09:37Z",
+      "description": "Want better answers from AI? Start by telling it who to be.  In this episode of Prompt Pad,...",
       "tags": [
         "ai",
-        "programming",
-        "architecture",
-        "unix"
+        "promptengineering",
+        "llm",
+        "beginners"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiky1u2td754x8dzoee8p.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fralecpmeu7wdeyp4foom.png",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": "MLH Team"
     },
     {
       "title": "Singularity News :: CCG",
@@ -43,6 +58,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyh84oxpucdnmygo396v.png",
       "source": "Dev.to",
       "user": "Peter Vivo"
+    },
+    {
+      "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
+      "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
+      "published_at": "2026-11-01T00:41:17Z",
+      "description": "Why do an eager intern with a Hacker News blog post, a C-level executive stepping off an airplane with an in-flight magazine, and a trillion-parameter LLM all walk straight into the exact same production bog? And why even Google DeepMind can only bake half of our 600 scars into model weights.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlk0251k4s6ucmxlzfnw.jpg",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
@@ -90,21 +120,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
-      "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
-      "published_at": "2026-11-01T00:41:17Z",
-      "description": "Why do an eager intern with a Hacker News blog post, a C-level executive stepping off an airplane with an in-flight magazine, and a trillion-parameter LLM all walk straight into the exact same production bog? And why even Google DeepMind can only bake half of our 600 scars into model weights.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlk0251k4s6ucmxlzfnw.jpg",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
       "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
       "published_at": "2026-10-31T23:02:02Z",
@@ -133,6 +148,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmsiafz9fl8c4y4ife411.jpg",
       "source": "Dev.to",
       "user": "Karthigayan Devan"
+    },
+    {
+      "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
+      "url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740",
+      "published_at": "2026-10-29T20:32:53Z",
+      "description": "Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson fails in open-world software, and how we compile mid-flight collisions into 4-Vector Synthetic Scars and a Six-Pillar Critic.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "unix"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiky1u2td754x8dzoee8p.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Don't Be a Proxy Between Me and Your AI",
@@ -253,21 +283,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
       "source": "Dev.to",
       "user": "Jem"
-    },
-    {
-      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
-      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
-      "published_at": "2026-10-22T23:51:30Z",
-      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
@@ -748,23 +763,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 5971,
+      "stars": 6295,
       "user": "heydamir"
-    },
-    {
-      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "url": "https://github.com/haydenschmitty/floorplan",
-      "published_at": "2026-10-27T12:03:01Z",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
-      "source": "GitHub",
-      "stars": 2170,
-      "user": "haydenschmitty"
     },
     {
       "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 737,
       "user": "hyz317"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 606,
       "user": "N1nEmAn"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 2041,
+      "stars": 2044,
       "user": "paipiange"
     },
     {
@@ -823,23 +823,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 572,
       "user": "Balanov"
     },
     {
-      "title": "missuo/unfairplay-bot - Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
-      "url": "https://github.com/missuo/unfairplay-bot",
-      "published_at": "2026-10-28T12:17:29Z",
-      "description": "Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
+      "title": "Balanov/shim - Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+      "url": "https://github.com/Balanov/shim",
+      "published_at": "2026-11-02T17:54:29Z",
+      "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55200481?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 115,
-      "user": "missuo"
+      "stars": 171,
+      "user": "Balanov"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -853,38 +853,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 12610,
+      "stars": 13293,
       "user": "deepseek-ai"
     },
     {
-      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "published_at": "2026-10-27T12:24:37Z",
-      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "title": "shipwords-dev/shipwords - Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "url": "https://github.com/shipwords-dev/shipwords",
+      "published_at": "2026-10-28T06:35:51Z",
+      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/349182003?v=4",
       "source": "GitHub",
-      "stars": 5466,
-      "user": "anhao"
-    },
-    {
-      "title": "modelflare-ai/AnyModelBot - 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
-      "url": "https://github.com/modelflare-ai/AnyModelBot",
-      "published_at": "2026-10-27T08:51:18Z",
-      "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/267078600?v=4",
-      "source": "GitHub",
-      "stars": 1318,
-      "user": "modelflare-ai"
+      "stars": 346,
+      "user": "shipwords-dev"
     },
     {
       "title": "ShineFinancialStrut/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
@@ -898,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 369,
       "user": "ShineFinancialStrut"
     },
     {
@@ -929,125 +914,122 @@
       "user": "eduard"
     },
     {
-      "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
-      "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
-      "published_at": "2026-10-30T15:34:45.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "published_at": "2026-11-03T01:12:55.000Z",
+      "description": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
       "tags": [
-        "javascript",
-        "html",
-        "css"
+        "Hardware",
+        "TC"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "newuser"
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
-      "title": "How do I target only Internet Explorer 10 for certain situations like Internet Explorer-specific CSS or Internet Explorer-specific JavaScript code?",
-      "url": "https://stackoverflow.com/questions/9900311/how-do-i-target-only-internet-explorer-10-for-certain-situations-like-internet-e",
-      "published_at": "2012-03-28T02:21:32.000Z",
-      "description": "Stack Overflow question · 24 answers · score 160",
+      "title": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "published_at": "2026-11-03T00:35:52.000Z",
+      "description": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
       "tags": [
-        "javascript",
-        "html",
-        "css",
-        "internet-explorer-10",
-        "conditional-comments"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "trusktr"
-    },
-    {
-      "title": "Readwise takes on Amazon&#8217;s Kindle and Goodreads with its new app for book lovers",
-      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
-      "published_at": "2026-11-02T17:49:41.000Z",
-      "description": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
-      "tags": [
-        "Apps",
+        "AI",
         "Startups",
-        "books",
-        "reading"
+        "garry tan",
+        "Y Combinator"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Apple says it&#8217;s &#8216;hard to predict&#8217; when iPhone Duo constraints will improve",
+      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "published_at": "2026-11-02T23:25:32.000Z",
+      "description": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+      "tags": [
+        "TC",
+        "Hardware",
+        "Apple",
+        "iPhone"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
     },
     {
-      "title": "42AI comes out of stealth with $62.5M and a world model that can &#8216;predict human behavior&#8217;",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "published_at": "2026-11-02T16:30:00.000Z",
-      "description": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "published_at": "2026-11-02T23:13:53.000Z",
+      "description": "The one-year-old startup is now valued at $300 million.",
       "tags": [
+        "AI",
+        "Fundraising",
         "Startups",
-        "AI",
-        "Exclusive",
-        "predictive analytics",
-        "behavioral analysis"
+        "Venture",
+        "fine-tuning"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Ram Iyer"
+      "user": "Marina Temkin"
     },
     {
-      "title": "Elon Musk throttles Grok Bot limits due to &#8216;unsustainably high&#8217; costs",
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "published_at": "2026-11-02T16:23:21.000Z",
-      "description": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "tags": [
-        "AI",
-        "Elon Musk",
-        "Grok"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "published_at": "2026-11-02T15:00:00.000Z",
-      "description": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "tags": [
-        "AI",
-        "Startups",
-        "data centers",
-        "Exclusive",
-        "infrastructure"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
-      "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
-      "published_at": "2026-11-02T14:42:38.000Z",
-      "description": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
+      "title": "Apple&#8217;s inventory surges 154% as memory chip costs climb",
+      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+      "published_at": "2026-11-02T23:04:57.000Z",
+      "description": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
       "tags": [
         "Hardware",
-        "kitchen appliances",
-        "Ninja"
+        "Apple"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lauren Forristal"
+      "user": "Sarah Perez"
     },
     {
-      "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
-      "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
-      "published_at": "2026-11-02T14:22:35.000Z",
-      "description": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
+      "title": "Anthropic warns that it&#8217;s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "published_at": "2026-11-02T22:14:50.000Z",
+      "description": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
       "tags": [
-        "Fundraising",
-        "Space",
-        "In Brief",
-        "Northwood Space",
-        "spacetech"
+        "AI",
+        "TC",
+        "Anthropic",
+        "RSI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "published_at": "2026-11-02T19:25:59.000Z",
+      "description": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "tags": [
+        "AI",
+        "Commerce",
+        "Layoffs",
+        "Squarespace",
+        "vibe coding"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "published_at": "2026-11-02T19:19:17.000Z",
+      "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "tags": [
+        "AI",
+        "Brave",
+        "In Brief",
+        "new york times"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
@@ -1299,7 +1281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 5971,
+      "stars": 6295,
       "user": "heydamir"
     },
     {
@@ -1314,23 +1296,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 3407,
+      "stars": 3529,
       "user": "patch-gg"
-    },
-    {
-      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "url": "https://github.com/haydenschmitty/floorplan",
-      "published_at": "2026-10-27T12:03:01Z",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
-      "source": "GitHub",
-      "stars": 2170,
-      "user": "haydenschmitty"
     },
     {
       "title": "elvarofficial/teardown - A Claude Code skill that turns any machine into a 3D simulator you can take apart",
@@ -1344,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1188,
+      "stars": 1272,
       "user": "elvarofficial"
     },
     {
@@ -1359,8 +1326,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1056,
       "user": "HRuiCcc"
+    },
+    {
+      "title": "NiazMorshed2007/reanimate - A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+      "url": "https://github.com/NiazMorshed2007/reanimate",
+      "published_at": "2026-10-29T06:20:59Z",
+      "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
+      "source": "GitHub",
+      "stars": 959,
+      "user": "NiazMorshed2007"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -1374,38 +1356,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 12610,
+      "stars": 13293,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "published_at": "2026-10-27T12:24:37Z",
-      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
-      "source": "GitHub",
-      "stars": 5466,
-      "user": "anhao"
-    },
-    {
-      "title": "modelflare-ai/AnyModelBot - 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
-      "url": "https://github.com/modelflare-ai/AnyModelBot",
-      "published_at": "2026-10-27T08:51:18Z",
-      "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/267078600?v=4",
-      "source": "GitHub",
-      "stars": 1318,
-      "user": "modelflare-ai"
     },
     {
       "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
@@ -1419,23 +1371,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1061,
+      "stars": 1205,
       "user": "caru-ini"
     },
     {
-      "title": "OpenBMB/MiniCPM-OCR - Fast, accurate OCR with correctness assessment.",
-      "url": "https://github.com/OpenBMB/MiniCPM-OCR",
-      "published_at": "2026-10-27T13:22:00Z",
-      "description": "Fast, accurate OCR with correctness assessment.",
+      "title": "mromidev/claude-animated-shorts - Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "published_at": "2026-11-01T05:50:38Z",
+      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89920203?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 768,
-      "user": "OpenBMB"
+      "stars": 648,
+      "user": "mromidev"
+    },
+    {
+      "title": "shipwords-dev/shipwords - Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "url": "https://github.com/shipwords-dev/shipwords",
+      "published_at": "2026-10-28T06:35:51Z",
+      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/349182003?v=4",
+      "source": "GitHub",
+      "stars": 346,
+      "user": "shipwords-dev"
+    },
+    {
+      "title": "0xCodez/cleanly - Cleanly — a stylish, safe PC cleaner for Windows and macOS",
+      "url": "https://github.com/0xCodez/cleanly",
+      "published_at": "2026-10-29T14:31:45Z",
+      "description": "Cleanly — a stylish, safe PC cleaner for Windows and macOS",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329118438?v=4",
+      "source": "GitHub",
+      "stars": 317,
+      "user": "0xCodez"
     },
     {
       "title": "JS image dithering converter and compression",
@@ -1457,7 +1439,7 @@
       "title": "Swapping unique values in mongoose without swapping all properties",
       "url": "https://stackoverflow.com/questions/80014074/swapping-unique-values-in-mongoose-without-swapping-all-properties",
       "published_at": "2026-11-01T21:33:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "node.js",
@@ -1499,20 +1481,6 @@
       "user": "mith sams"
     },
     {
-      "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
-      "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
-      "published_at": "2026-10-30T15:34:45.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "newuser"
-    },
-    {
       "title": "How to find the sum of an array of numbers",
       "url": "https://stackoverflow.com/questions/1230233/how-to-find-the-sum-of-an-array-of-numbers",
       "published_at": "2009-08-04T22:29:40.000Z",
@@ -1541,22 +1509,6 @@
       "user": "jokeyrhyme"
     },
     {
-      "title": "How do I target only Internet Explorer 10 for certain situations like Internet Explorer-specific CSS or Internet Explorer-specific JavaScript code?",
-      "url": "https://stackoverflow.com/questions/9900311/how-do-i-target-only-internet-explorer-10-for-certain-situations-like-internet-e",
-      "published_at": "2012-03-28T02:21:32.000Z",
-      "description": "Stack Overflow question · 24 answers · score 160",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "internet-explorer-10",
-        "conditional-comments"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "trusktr"
-    },
-    {
       "title": "HTML static webpage - how would I have any of the files present in a particular directory be selected in a src",
       "url": "https://stackoverflow.com/questions/79833069/html-static-webpage-how-would-i-have-any-of-the-files-present-in-a-particular",
       "published_at": "2025-11-29T05:51:01.000Z",
@@ -1582,6 +1534,35 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "moortje"
+    },
+    {
+      "title": "How to access React context for base URL when creating Redux-Toolkit Query API slice?",
+      "url": "https://stackoverflow.com/questions/79815540/how-to-access-react-context-for-base-url-when-creating-redux-toolkit-query-api-s",
+      "published_at": "2025-11-10T11:36:16.000Z",
+      "description": "Stack Overflow question · 3 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-context",
+        "rtk-query"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "vegemite4me"
+    },
+    {
+      "title": "How can I use JSON generated from source code to build a documentation site with searchable, navigable content?",
+      "url": "https://stackoverflow.com/questions/79829812/how-can-i-use-json-generated-from-source-code-to-build-a-documentation-site-with",
+      "published_at": "2025-11-25T14:19:43.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "electron",
+        "documentation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ethan Martin"
     },
     {
       "title": "How to Build Passkey Authentication with WebAuthn, Next.js and NestJS",
@@ -1778,7 +1759,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 1475,
+      "stars": 1544,
       "user": "BryceYuuu"
     },
     {
@@ -1793,7 +1774,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 737,
       "user": "hyz317"
     },
     {
@@ -1808,23 +1789,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 670,
       "user": "ramenvr"
-    },
-    {
-      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "url": "https://github.com/N1nEmAn/sapper-v2",
-      "published_at": "2026-10-30T15:12:35Z",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
-      "source": "GitHub",
-      "stars": 595,
-      "user": "N1nEmAn"
     },
     {
       "title": "speridlabs/idol-sdk - Idol: a single image to 3D Gaussians. Inference SDK and demo.",
@@ -1838,8 +1804,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207595948?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 635,
       "user": "speridlabs"
+    },
+    {
+      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "published_at": "2026-10-30T15:12:35Z",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
+      "source": "GitHub",
+      "stars": 606,
+      "user": "N1nEmAn"
     },
     {
       "title": "zklmiao/CodeWar - 网页端 Python 编程对抗游戏：解题速度即战斗力 · A turn-based competitive Python programming game",
@@ -1857,10 +1838,51 @@
       "user": "zklmiao"
     },
     {
+      "title": "Google OAuth token exchange gives 401 invalid_client after successful consent",
+      "url": "https://stackoverflow.com/questions/80014324/google-oauth-token-exchange-gives-401-invalid-client-after-successful-consent",
+      "published_at": "2026-11-02T23:31:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "oauth-2.0",
+        "google-oauth"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "RKG Enterprises"
+    },
+    {
+      "title": "Why does scikit-image skeletonization produce off-center loops and unwanted branches in thresholded handwritten strokes?",
+      "url": "https://stackoverflow.com/questions/80014319/why-does-scikit-image-skeletonization-produce-off-center-loops-and-unwanted-bran",
+      "published_at": "2026-11-02T22:48:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "handwriting-recognition"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Roman"
+    },
+    {
+      "title": "Should module-level constants in constants.py be annotated with typing.Final",
+      "url": "https://stackoverflow.com/questions/80014209/should-module-level-constants-in-constants-py-be-annotated-with-typing-final",
+      "published_at": "2026-11-02T13:00:11.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "constants",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
       "title": "Can ast be used to parse a single line?",
       "url": "https://stackoverflow.com/questions/80014264/can-ast-be-used-to-parse-a-single-line",
       "published_at": "2026-11-02T16:36:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "python-ast"
@@ -1870,10 +1892,23 @@
       "user": "NickC"
     },
     {
+      "title": "Compare lists in one column to the first n elements of another column in Python Polars lazyframes, where n is dynamically determined from index",
+      "url": "https://stackoverflow.com/questions/80014247/compare-lists-in-one-column-to-the-first-n-elements-of-another-column-in-python",
+      "published_at": "2026-11-02T15:38:57.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "python-polars"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "qtamo"
+    },
+    {
       "title": "Why does ContextVar return its default value inside run_in_executor() in Python asyncio?",
       "url": "https://stackoverflow.com/questions/80014255/why-does-contextvar-return-its-default-value-inside-run-in-executor-in-python",
       "published_at": "2026-11-02T16:02:33.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "python-asyncio",
@@ -1884,18 +1919,18 @@
       "user": "questionx"
     },
     {
-      "title": "how to have mypy spot wrong ORM object creations with sqlalchemy 2.1",
-      "url": "https://stackoverflow.com/questions/80014256/how-to-have-mypy-spot-wrong-orm-object-creations-with-sqlalchemy-2-1",
-      "published_at": "2026-11-02T16:04:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "Python API returns 8 and 22 instead of dates and symbols when selecting individual columns",
+      "url": "https://stackoverflow.com/questions/80014124/python-api-returns-8-and-22-instead-of-dates-and-symbols-when-selecting-individu",
+      "published_at": "2026-11-02T05:51:54.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
-        "sqlalchemy",
-        "mypy"
+        "select",
+        "dolphindb"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "sevan"
+      "user": "Ethan"
     },
     {
       "title": "How to make a generic type that accepts Ellipsis like tuple[int, ...]",
@@ -1912,37 +1947,10 @@
       "user": "JadenV15"
     },
     {
-      "title": "Compare lists in one column to the first n elements of another column in Python Polars lazyframes, where n is dynamically determined from index",
-      "url": "https://stackoverflow.com/questions/80014247/compare-lists-in-one-column-to-the-first-n-elements-of-another-column-in-python",
-      "published_at": "2026-11-02T15:38:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "python",
-        "python-polars"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "qtamo"
-    },
-    {
-      "title": "Should module-level constants in constants.py be annotated with typing.Final",
-      "url": "https://stackoverflow.com/questions/80014209/should-module-level-constants-in-constants-py-be-annotated-with-typing-final",
-      "published_at": "2026-11-02T13:00:11.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "constants",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
       "title": "Making a bar chart with varying values along the y-axis",
       "url": "https://stackoverflow.com/questions/80014179/making-a-bar-chart-with-varying-values-along-the-y-axis",
       "published_at": "2026-11-02T10:43:35.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "numpy",
@@ -1952,34 +1960,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Elisa Dahle"
-    },
-    {
-      "title": "Moving from legacy docker / uWSGI / Flask to new best practice",
-      "url": "https://stackoverflow.com/questions/80014172/moving-from-legacy-docker-uwsgi-flask-to-new-best-practice",
-      "published_at": "2026-11-02T10:15:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "docker",
-        "flask"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jurian Sluiman"
-    },
-    {
-      "title": "Changing WSGI app makes SQLite file unable to be found",
-      "url": "https://stackoverflow.com/questions/80014221/changing-wsgi-app-makes-sqlite-file-unable-to-be-found",
-      "published_at": "2026-11-02T13:48:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "docker",
-        "sqlite"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jurian Sluiman"
     },
     {
       "title": "Difference between three forms of instantiating a generic class in Python",
@@ -2281,34 +2261,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "davidklassen"
-    },
-    {
-      "title": "Moving from legacy docker / uWSGI / Flask to new best practice",
-      "url": "https://stackoverflow.com/questions/80014172/moving-from-legacy-docker-uwsgi-flask-to-new-best-practice",
-      "published_at": "2026-11-02T10:15:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "docker",
-        "flask"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jurian Sluiman"
-    },
-    {
-      "title": "Changing WSGI app makes SQLite file unable to be found",
-      "url": "https://stackoverflow.com/questions/80014221/changing-wsgi-app-makes-sqlite-file-unable-to-be-found",
-      "published_at": "2026-11-02T13:48:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "docker",
-        "sqlite"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jurian Sluiman"
     }
   ],
   "WebDev": [
@@ -2415,36 +2367,6 @@
       "user": "mith sams"
     },
     {
-      "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
-      "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
-      "published_at": "2026-10-30T15:34:45.000Z",
-      "description": "Stack Overflow question · 3 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "newuser"
-    },
-    {
-      "title": "How do I target only Internet Explorer 10 for certain situations like Internet Explorer-specific CSS or Internet Explorer-specific JavaScript code?",
-      "url": "https://stackoverflow.com/questions/9900311/how-do-i-target-only-internet-explorer-10-for-certain-situations-like-internet-e",
-      "published_at": "2012-03-28T02:21:32.000Z",
-      "description": "Stack Overflow question · 24 answers · score 160",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "internet-explorer-10",
-        "conditional-comments"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "trusktr"
-    },
-    {
       "title": "HTML static webpage - how would I have any of the files present in a particular directory be selected in a src",
       "url": "https://stackoverflow.com/questions/79833069/html-static-webpage-how-would-i-have-any-of-the-files-present-in-a-particular",
       "published_at": "2025-11-29T05:51:01.000Z",
@@ -2549,21 +2471,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gn9hgsdfqcf4qx8tayd.png",
       "source": "Dev.to",
       "user": "Esra Kadah"
-    },
-    {
-      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&#038;T, T-Mobile, and Verizon",
-      "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
-      "published_at": "2026-11-02T16:44:48.000Z",
-      "description": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
-      "tags": [
-        "Space",
-        "EchoStar",
-        "cellular networks",
-        "Starlink"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
     }
   ],
   "Cloud": [
@@ -2733,6 +2640,21 @@
       "user": "Esra Kadah"
     },
     {
+      "title": "shipwords-dev/shipwords - Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "url": "https://github.com/shipwords-dev/shipwords",
+      "published_at": "2026-10-28T06:35:51Z",
+      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/349182003?v=4",
+      "source": "GitHub",
+      "stars": 346,
+      "user": "shipwords-dev"
+    },
+    {
       "title": "ashayas/icloud-s3 - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
       "url": "https://github.com/ashayas/icloud-s3",
       "published_at": "2026-10-30T23:54:20Z",
@@ -2744,7 +2666,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 476,
       "user": "ashayas"
     },
     {
@@ -2821,7 +2743,7 @@
       "title": "Swapping unique values in mongoose without swapping all properties",
       "url": "https://stackoverflow.com/questions/80014074/swapping-unique-values-in-mongoose-without-swapping-all-properties",
       "published_at": "2026-11-01T21:33:34.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "node.js",
@@ -2832,34 +2754,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33267884"
-    },
-    {
-      "title": "how to have mypy spot wrong ORM object creations with sqlalchemy 2.1",
-      "url": "https://stackoverflow.com/questions/80014256/how-to-have-mypy-spot-wrong-orm-object-creations-with-sqlalchemy-2-1",
-      "published_at": "2026-11-02T16:04:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "sqlalchemy",
-        "mypy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "sevan"
-    },
-    {
-      "title": "Changing WSGI app makes SQLite file unable to be found",
-      "url": "https://stackoverflow.com/questions/80014221/changing-wsgi-app-makes-sqlite-file-unable-to-be-found",
-      "published_at": "2026-11-02T13:48:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "docker",
-        "sqlite"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jurian Sluiman"
     },
     {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
@@ -3081,16 +2975,44 @@
       "user": "xx"
     },
     {
-      "title": "A fresh wave of cyberattacks has hit Europe&#8217;s supermarket refrigerators, destroying food across countries",
-      "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
-      "published_at": "2026-11-02T14:08:52.000Z",
-      "description": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
+      "title": "This background sound leaks your exact location",
+      "url": "https://youtu.be/UytYrhYLOKI",
+      "published_at": "2026-11-02T13:42:32.458-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "math",
+        "security",
+        "video"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "fanf"
+    },
+    {
+      "title": "Google OAuth token exchange gives 401 invalid_client after successful consent",
+      "url": "https://stackoverflow.com/questions/80014324/google-oauth-token-exchange-gives-401-invalid-client-after-successful-consent",
+      "published_at": "2026-11-02T23:31:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "oauth-2.0",
+        "google-oauth"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "RKG Enterprises"
+    },
+    {
+      "title": "Germany says lawmakers&#8217; iPhones may have been hacked with spyware",
+      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "published_at": "2026-11-02T19:45:54.000Z",
+      "description": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
       "tags": [
         "Security",
+        "Apple",
         "cyberattack",
         "cybersecurity",
-        "food supply",
-        "In Brief"
+        "Spyware"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3216,21 +3138,6 @@
       "user": "Jem"
     },
     {
-      "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
-      "url": "https://dev.to/gde/926-steps-two-lobotomies-and-zero-nudges-flight-testing-the-commitment-machine-across-gemini-55ca",
-      "published_at": "2026-10-22T23:51:30Z",
-      "description": "A 2026 Harvard study of 718 companies found that AI agents write 30% more code and close zero additional tickets because review times jump 49%. Here is what happened when I put my 1986 Commitment Machine into live production across Gemini, Claude, and GPT-OSS.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0i1iy0f3e5i20n3hb8p.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
       "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
       "published_at": "2026-10-21T16:59:00Z",
@@ -3293,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 5971,
+      "stars": 6295,
       "user": "heydamir"
     },
     {
@@ -3308,23 +3215,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 3407,
+      "stars": 3529,
       "user": "patch-gg"
-    },
-    {
-      "title": "haydenschmitty/floorplan - See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "url": "https://github.com/haydenschmitty/floorplan",
-      "published_at": "2026-10-27T12:03:01Z",
-      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/348570593?v=4",
-      "source": "GitHub",
-      "stars": 2170,
-      "user": "haydenschmitty"
     },
     {
       "title": "elvarofficial/teardown - A Claude Code skill that turns any machine into a 3D simulator you can take apart",
@@ -3338,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1188,
+      "stars": 1272,
       "user": "elvarofficial"
     },
     {
@@ -3353,8 +3245,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "source": "GitHub",
-      "stars": 1051,
+      "stars": 1056,
       "user": "HRuiCcc"
+    },
+    {
+      "title": "NiazMorshed2007/reanimate - A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+      "url": "https://github.com/NiazMorshed2007/reanimate",
+      "published_at": "2026-10-29T06:20:59Z",
+      "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
+      "source": "GitHub",
+      "stars": 959,
+      "user": "NiazMorshed2007"
     },
     {
       "title": "BryceYuuu/RUN - RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
@@ -3368,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 1475,
+      "stars": 1544,
       "user": "BryceYuuu"
     },
     {
@@ -3383,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 737,
       "user": "hyz317"
     },
     {
@@ -3398,23 +3305,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 661,
+      "stars": 670,
       "user": "ramenvr"
-    },
-    {
-      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "url": "https://github.com/N1nEmAn/sapper-v2",
-      "published_at": "2026-10-30T15:12:35Z",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
-      "source": "GitHub",
-      "stars": 595,
-      "user": "N1nEmAn"
     },
     {
       "title": "speridlabs/idol-sdk - Idol: a single image to 3D Gaussians. Inference SDK and demo.",
@@ -3428,8 +3320,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/207595948?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 635,
       "user": "speridlabs"
+    },
+    {
+      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "published_at": "2026-10-30T15:12:35Z",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
+      "source": "GitHub",
+      "stars": 606,
+      "user": "N1nEmAn"
     },
     {
       "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
@@ -3443,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 2041,
+      "stars": 2044,
       "user": "paipiange"
     },
     {
@@ -3458,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 570,
+      "stars": 572,
       "user": "Balanov"
     },
     {
@@ -3477,6 +3384,21 @@
       "user": "zklmiao"
     },
     {
+      "title": "Balanov/shim - Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+      "url": "https://github.com/Balanov/shim",
+      "published_at": "2026-11-02T17:54:29Z",
+      "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
+      "source": "GitHub",
+      "stars": 171,
+      "user": "Balanov"
+    },
+    {
       "title": "egoist/godraw - infinite canvas in mygo",
       "url": "https://github.com/egoist/godraw",
       "published_at": "2026-11-02T09:47:18Z",
@@ -3488,23 +3410,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 118,
+      "stars": 145,
       "user": "egoist"
-    },
-    {
-      "title": "missuo/unfairplay-bot - Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
-      "url": "https://github.com/missuo/unfairplay-bot",
-      "published_at": "2026-10-28T12:17:29Z",
-      "description": "Private Telegram bot and API that downloads App Store IPAs with ipatool and decrypts them with UnfairPlay",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/55200481?v=4",
-      "source": "GitHub",
-      "stars": 115,
-      "user": "missuo"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -3518,38 +3425,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 12610,
+      "stars": 13293,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "anhao/ai-pose-gallery-zh - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "published_at": "2026-10-27T12:24:37Z",
-      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/9844218?v=4",
-      "source": "GitHub",
-      "stars": 5466,
-      "user": "anhao"
-    },
-    {
-      "title": "modelflare-ai/AnyModelBot - 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
-      "url": "https://github.com/modelflare-ai/AnyModelBot",
-      "published_at": "2026-10-27T08:51:18Z",
-      "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/267078600?v=4",
-      "source": "GitHub",
-      "stars": 1318,
-      "user": "modelflare-ai"
     },
     {
       "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
@@ -3563,23 +3440,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1061,
+      "stars": 1205,
       "user": "caru-ini"
     },
     {
-      "title": "OpenBMB/MiniCPM-OCR - Fast, accurate OCR with correctness assessment.",
-      "url": "https://github.com/OpenBMB/MiniCPM-OCR",
-      "published_at": "2026-10-27T13:22:00Z",
-      "description": "Fast, accurate OCR with correctness assessment.",
+      "title": "mromidev/claude-animated-shorts - Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "published_at": "2026-11-01T05:50:38Z",
+      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/89920203?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 768,
-      "user": "OpenBMB"
+      "stars": 648,
+      "user": "mromidev"
+    },
+    {
+      "title": "shipwords-dev/shipwords - Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "url": "https://github.com/shipwords-dev/shipwords",
+      "published_at": "2026-10-28T06:35:51Z",
+      "description": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/349182003?v=4",
+      "source": "GitHub",
+      "stars": 346,
+      "user": "shipwords-dev"
+    },
+    {
+      "title": "0xCodez/cleanly - Cleanly — a stylish, safe PC cleaner for Windows and macOS",
+      "url": "https://github.com/0xCodez/cleanly",
+      "published_at": "2026-10-29T14:31:45Z",
+      "description": "Cleanly — a stylish, safe PC cleaner for Windows and macOS",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329118438?v=4",
+      "source": "GitHub",
+      "stars": 317,
+      "user": "0xCodez"
     },
     {
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
@@ -3593,7 +3500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 3402,
+      "stars": 4351,
       "user": "storytold"
     },
     {
@@ -3608,7 +3515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 476,
       "user": "ashayas"
     },
     {
@@ -3623,7 +3530,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
       "source": "GitHub",
-      "stars": 367,
+      "stars": 369,
       "user": "ShineFinancialStrut"
     },
     {
@@ -3638,23 +3545,67 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350534499?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 289,
       "user": "Weft-Rust"
     },
     {
-      "title": "anomalyco/hokum - Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
-      "url": "https://github.com/anomalyco/hokum",
-      "published_at": "2026-10-28T01:37:19Z",
-      "description": "Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.",
+      "title": "RatioGoldsmithMuse/valorant-fps-lag-fixer - VALORANT won't start, stutters or lags? Tick reads the Vanguard code, measures FPS for 60 seconds, finds where the lag starts and fixes what it can, with one-click undo. Never touches the game.",
+      "url": "https://github.com/RatioGoldsmithMuse/valorant-fps-lag-fixer",
+      "published_at": "2026-10-31T23:33:33Z",
+      "description": "VALORANT won't start, stutters or lags? Tick reads the Vanguard code, measures FPS for 60 seconds, finds where the lag starts and fixes what it can, with one-click undo. Never touches the game.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/66570915?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/316771930?v=4",
       "source": "GitHub",
-      "stars": 233,
-      "user": "anomalyco"
+      "stars": 235,
+      "user": "RatioGoldsmithMuse"
+    },
+    {
+      "title": "How to access React context for base URL when creating Redux-Toolkit Query API slice?",
+      "url": "https://stackoverflow.com/questions/79815540/how-to-access-react-context-for-base-url-when-creating-redux-toolkit-query-api-s",
+      "published_at": "2025-11-10T11:36:16.000Z",
+      "description": "Stack Overflow question · 3 answers · score -1",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-context",
+        "rtk-query"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "vegemite4me"
+    },
+    {
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "published_at": "2026-11-03T01:12:55.000Z",
+      "description": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+      "tags": [
+        "Hardware",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
+    },
+    {
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+      "published_at": "2026-11-03T00:14:51.000Z",
+      "description": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+      "tags": [
+        "Apps",
+        "Social",
+        "dating apps",
+        "Hinge",
+        "Match Group"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
