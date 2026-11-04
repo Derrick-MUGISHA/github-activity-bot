@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
-      "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io",
-      "published_at": "2026-11-03T14:00:00Z",
-      "description": "If you've ever tried to parse an LLM response in code, you know the pain: the format changes slightly...",
-      "tags": [
-        "ai",
-        "gemini",
-        "promptengineering",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk4s78yb3dgm2xz85byoo.png",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
       "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1",
       "published_at": "2026-11-02T21:32:30Z",
@@ -29,6 +14,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftorchtpu-dev%2Fmain%2Fdocs%2Ftorchtpu-native-rust%2Fdevto-cover.3ce8c43b.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
+      "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io",
+      "published_at": "2026-11-03T14:00:00Z",
+      "description": "If you've ever tried to parse an LLM response in code, you know the pain: the format changes slightly...",
+      "tags": [
+        "ai",
+        "gemini",
+        "promptengineering",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk4s78yb3dgm2xz85byoo.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
     },
     {
       "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
@@ -285,21 +285,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "A World Worth Understanding",
-      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
-      "published_at": "2026-10-11T19:43:19Z",
-      "description": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
-      "tags": [
-        "aie",
-        "career",
-        "ai",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
       "title": "Why Smaller AI Models Can Win in the Enterprise",
       "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57",
       "published_at": "2026-10-11T19:41:19Z",
@@ -328,6 +313,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
+    },
+    {
+      "title": "A World Worth Understanding",
+      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
+      "published_at": "2026-10-11T19:43:19Z",
+      "description": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
+      "tags": [
+        "aie",
+        "career",
+        "ai",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
     },
     {
       "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
@@ -403,21 +403,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
-      "url": "https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc",
-      "published_at": "2026-10-23T15:22:41Z",
-      "description": "How I built a voice-and-text-to-4-panel comic generator with Google AI Studio, Gemini structured outputs, a teacher script-review gate, and Imagen 4.",
-      "tags": [
-        "deved",
-        "learngoogleaistudio",
-        "googleai",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2FRobinaMirbahar%2Fmain%2Fcomic_studio_ai_cover.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
     },
     {
       "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
@@ -524,19 +509,34 @@
       "user": "Rachael Berkey"
     },
     {
-      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
-      "url": "https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc",
-      "published_at": "2026-10-27T09:53:26Z",
-      "description": "1. The problem: an agent that can spend money   Most agent demos stop at \"the model called a...",
+      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
+      "published_at": "2026-10-16T17:40:16Z",
+      "description": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
       "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "googlecloud"
+        "discuss",
+        "community",
+        "opportunities",
+        "resources"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gn9hgsdfqcf4qx8tayd.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fle5lxtrblynphqs20c45.jpeg",
       "source": "Dev.to",
-      "user": "Esra Kadah"
+      "user": "Hemapriya Kanagala"
+    },
+    {
+      "title": "OpenGameBuilder: Describe a game in one sentence and generate it using a local LLM like Gemma 4.",
+      "url": "https://dev.to/blaiselabs/opengamebuilder-describe-a-game-in-one-sentence-and-generate-it-using-a-local-llm-like-gemma-4-215m",
+      "published_at": "2026-10-19T07:01:01Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle    Every...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gemma",
+        "sentry"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblaiselabs.github.io%2FOpenGameBuilder%2Farticle%2Fhero_cherry_town.png",
+      "source": "Dev.to",
+      "user": "Blaise Labs"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -718,8 +718,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 7444,
+      "stars": 7583,
       "user": "heydamir"
+    },
+    {
+      "title": "sleepy-zone/ai-ref-library-cn - AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
+      "published_at": "2026-10-29T15:28:16Z",
+      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/131369648?v=4",
+      "source": "GitHub",
+      "stars": 702,
+      "user": "sleepy-zone"
     },
     {
       "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
@@ -733,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 780,
       "user": "hyz317"
     },
     {
@@ -748,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 749,
       "user": "RikiyaT"
     },
     {
@@ -763,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 2119,
+      "stars": 2130,
       "user": "paipiange"
     },
     {
@@ -778,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 593,
       "user": "Balanov"
     },
     {
@@ -793,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 436,
       "user": "Balanov"
     },
     {
@@ -808,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 261,
       "user": "Balanov"
     },
     {
@@ -823,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 16573,
+      "stars": 16926,
       "user": "deepseek-ai"
     },
     {
@@ -838,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 589,
       "user": "rerun-build"
     },
     {
@@ -853,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12199008?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 554,
       "user": "hongye007"
     },
     {
@@ -901,19 +916,6 @@
       "user": "xx"
     },
     {
-      "title": "Why did you choose the nix you nix?",
-      "url": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
-      "published_at": "2026-11-02T21:58:06.895-06:00",
-      "description": "I don't which nix is good and at this point I'm afraid I need to ask.\r\n\r\n- (Cpp)[Nix](https://nixos.org/)\r\n- [Determinate Nix](https://determinate.systems/)\r\n- [Lix](https://lix.systems/)\r\n\r\nOr, you know, [Guix](https://guix.gnu.org/)?\r\n\r\n(I _suspect_ that [Snix](https://snix.dev/), [Tvix](https://code.tvl.fyi/tree/tvix), and others aren't intended for general use… but I might be wrong?)",
-      "tags": [
-        "ask",
-        "nix"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "quad"
-    },
-    {
       "title": "Your terminal manipulation/navigation setups",
       "url": "https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation",
       "published_at": "2026-11-03T12:54:55.545-06:00",
@@ -928,10 +930,23 @@
       "user": "nocoffei"
     },
     {
+      "title": "Why did you choose the nix you nix?",
+      "url": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
+      "published_at": "2026-11-02T21:58:06.895-06:00",
+      "description": "I don't which nix is good and at this point I'm afraid I need to ask.\r\n\r\n- (Cpp)[Nix](https://nixos.org/)\r\n- [Determinate Nix](https://determinate.systems/)\r\n- [Lix](https://lix.systems/)\r\n\r\nOr, you know, [Guix](https://guix.gnu.org/)?\r\n\r\n(I _suspect_ that [Snix](https://snix.dev/), [Tvix](https://code.tvl.fyi/tree/tvix), and others aren't intended for general use… but I might be wrong?)",
+      "tags": [
+        "ask",
+        "nix"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "quad"
+    },
+    {
       "title": "How to have JavaScript send an email after form submit",
       "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
       "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "python",
@@ -956,10 +971,38 @@
       "user": "JadenV15"
     },
     {
+      "title": "Anthropic is working on a system to prove AI models&#8217; identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "published_at": "2026-11-03T22:41:03.000Z",
+      "description": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "cryptography",
+        "inference"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "published_at": "2026-11-03T22:19:53.000Z",
+      "description": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "tags": [
+        "AI",
+        "data centers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
+    },
+    {
       "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
       "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
       "published_at": "2026-11-03T21:43:08.000Z",
-      "description": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "description": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
       "tags": [
         "AI",
         "Security",
@@ -975,7 +1018,7 @@
       "title": "Hiding inside Palantir&#8217;s skyrocketing quarter is a foreboding signal",
       "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
       "published_at": "2026-11-03T21:05:55.000Z",
-      "description": "Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were &#8220;crushing consensus expectations.&#8221; Yet, retail investors were lukewarm on the company on Tuesday, with the stock trading slightly down. That&#8217;s because Pa",
+      "description": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
       "tags": [
         "AI",
         "Enterprise",
@@ -1018,34 +1061,34 @@
       "user": "Sarah Perez"
     },
     {
-      "title": "Netflix&#8217;s new AI Discover tab helps you find something to watch based on your mood",
-      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "published_at": "2026-11-03T18:42:16.000Z",
-      "description": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
+      "url": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
+      "published_at": "2026-11-03T19:00:29.000Z",
+      "description": "Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan",
       "tags": [
-        "AI",
-        "Apps",
-        "Media & Entertainment",
-        "Netflix"
+        "SEO",
+        "Web Development",
+        "Beginner Developers"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
+      "source": "freeCodeCamp",
+      "user": "Saar Twito"
     },
     {
-      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-      "published_at": "2026-11-03T17:56:52.000Z",
-      "description": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+      "title": "How to Automate Docker Image Creation for Postgres Using Shell Commands",
+      "url": "https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/",
+      "published_at": "2026-11-03T18:40:47.000Z",
+      "description": "If you have certain lines of code that repeat over and over again in a project, there's a pretty standard solution for it: using a function. But what about when you have the same project file setup th",
       "tags": [
-        "Security",
-        "ai security",
-        "CrowdStrike",
-        "Mergers and Acquisitions"
+        "shell",
+        "shell scripting",
+        "Bash",
+        "docker images",
+        "Docker compose"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
+      "source": "freeCodeCamp",
+      "user": "jabo Landry"
     },
     {
       "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
@@ -1089,19 +1132,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "Cloud Service Models Explained: IaaS vs PaaS vs SaaS",
-      "url": "https://www.freecodecamp.org/news/cloud-service-models-explained-iaas-vs-paas-vs-saas/",
-      "published_at": "2026-10-29T15:39:58.000Z",
-      "description": "You likely use cloud services every day. When you check Gmail, join a Zoom meeting, or message your team on Slack, you use cloud-hosted software. But you don't manage the servers it runs on or maintai",
-      "tags": [
-        "Cloud Computing",
-        "Cloud Engineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chinwendu Enyinna"
     }
   ],
   "JavaScript": [
@@ -1281,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 7444,
+      "stars": 7583,
       "user": "heydamir"
     },
     {
@@ -1296,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 4073,
+      "stars": 4166,
       "user": "patch-gg"
     },
     {
@@ -1311,23 +1341,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1668,
       "user": "elvarofficial"
-    },
-    {
-      "title": "HRuiCcc/RuiC-PoseAtlas - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-      "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
-      "published_at": "2026-10-28T07:00:53Z",
-      "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
-      "source": "GitHub",
-      "stars": 1127,
-      "user": "HRuiCcc"
     },
     {
       "title": "NiazMorshed2007/reanimate - A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
@@ -1341,8 +1356,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1102,
       "user": "NiazMorshed2007"
+    },
+    {
+      "title": "sleepy-zone/ai-ref-library-cn - AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
+      "published_at": "2026-10-29T15:28:16Z",
+      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/131369648?v=4",
+      "source": "GitHub",
+      "stars": 702,
+      "user": "sleepy-zone"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -1356,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 16573,
+      "stars": 16926,
       "user": "deepseek-ai"
     },
     {
@@ -1371,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1503,
+      "stars": 1557,
       "user": "caru-ini"
     },
     {
@@ -1386,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1177,
+      "stars": 1238,
       "user": "mromidev"
     },
     {
@@ -1401,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 589,
       "user": "rerun-build"
     },
     {
@@ -1416,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12199008?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 554,
       "user": "hongye007"
     },
     {
@@ -1438,7 +1468,7 @@
       "title": "How to have JavaScript send an email after form submit",
       "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
       "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "python",
@@ -1453,7 +1483,7 @@
       "title": "Create a working board for a card game using HTML and Javascript e.t.c",
       "url": "https://stackoverflow.com/questions/80014494/create-a-working-board-for-a-card-game-using-html-and-javascript-e-t-c",
       "published_at": "2026-11-03T20:12:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "html"
@@ -1466,7 +1496,7 @@
       "title": "How do I create a JS object (rather than an array) from HTML table values?",
       "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
       "published_at": "2026-11-03T15:07:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -1577,21 +1607,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "akano1"
-    },
-    {
-      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-      "published_at": "2026-11-03T17:56:52.000Z",
-      "description": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
-      "tags": [
-        "Security",
-        "ai security",
-        "CrowdStrike",
-        "Mergers and Acquisitions"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
     }
   ],
   "Python": [
@@ -1757,7 +1772,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 2986,
+      "stars": 3106,
       "user": "BryceYuuu"
     },
     {
@@ -1772,7 +1787,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272671295?v=4",
       "source": "GitHub",
-      "stars": 1266,
+      "stars": 1315,
       "user": "Pika-Labs"
     },
     {
@@ -1787,23 +1802,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 780,
       "user": "hyz317"
-    },
-    {
-      "title": "speridlabs/idol-sdk - Idol: a single image to 3D Gaussians. Inference SDK and demo.",
-      "url": "https://github.com/speridlabs/idol-sdk",
-      "published_at": "2026-10-28T19:44:27Z",
-      "description": "Idol: a single image to 3D Gaussians. Inference SDK and demo.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207595948?v=4",
-      "source": "GitHub",
-      "stars": 720,
-      "user": "speridlabs"
     },
     {
       "title": "RikiyaT/lm_understand-logs - Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
@@ -1817,14 +1817,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 749,
       "user": "RikiyaT"
+    },
+    {
+      "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "published_at": "2026-11-02T00:40:47Z",
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
+      "source": "GitHub",
+      "stars": 708,
+      "user": "AssassinCreator"
     },
     {
       "title": "How to have JavaScript send an email after form submit",
       "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
       "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "python",
@@ -1836,10 +1851,23 @@
       "user": "Eli Lohman"
     },
     {
+      "title": "Wraping interp1d into __call__ makes the result worse",
+      "url": "https://stackoverflow.com/questions/80014519/wraping-interp1d-into-call-makes-the-result-worse",
+      "published_at": "2026-11-03T23:13:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "scipy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Daniel Scholl"
+    },
+    {
       "title": "Can I use HSV in Tkinter?",
       "url": "https://stackoverflow.com/questions/80014464/can-i-use-hsv-in-tkinter",
       "published_at": "2026-11-03T16:00:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "tkinter",
@@ -1853,7 +1881,7 @@
       "title": "pygame OOP display",
       "url": "https://stackoverflow.com/questions/80014414/pygame-oop-display",
       "published_at": "2026-11-03T11:34:41.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 1 answers · score -11",
       "tags": [
         "python",
         "oop",
@@ -1862,19 +1890,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Austine"
-    },
-    {
-      "title": "Python asyncio function sometimes returns None instead of the expected result",
-      "url": "https://stackoverflow.com/questions/80014439/python-asyncio-function-sometimes-returns-none-instead-of-the-expected-result",
-      "published_at": "2026-11-03T14:44:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33272367"
     },
     {
       "title": "Setattr on frozen slotted dataclass raises FrozenInstanceError in py3.13 but TypeError in py3.12",
@@ -1890,10 +1905,36 @@
       "user": "JadenV15"
     },
     {
+      "title": "Python asyncio function sometimes returns None instead of the expected result",
+      "url": "https://stackoverflow.com/questions/80014439/python-asyncio-function-sometimes-returns-none-instead-of-the-expected-result",
+      "published_at": "2026-11-03T14:44:45.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33272367"
+    },
+    {
+      "title": "Can ast be used to parse a single line?",
+      "url": "https://stackoverflow.com/questions/80014264/can-ast-be-used-to-parse-a-single-line",
+      "published_at": "2026-11-02T16:36:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -6",
+      "tags": [
+        "python",
+        "python-ast"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
       "title": "Compare lists in one column to the first n elements of another column in Python Polars lazyframes, where n is dynamically determined from index",
       "url": "https://stackoverflow.com/questions/80014247/compare-lists-in-one-column-to-the-first-n-elements-of-another-column-in-python",
       "published_at": "2026-11-02T15:38:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "python-polars"
@@ -1901,33 +1942,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "qtamo"
-    },
-    {
-      "title": "Why does scikit-image skeletonization produce off-center loops and unwanted branches in thresholded handwritten strokes?",
-      "url": "https://stackoverflow.com/questions/80014319/why-does-scikit-image-skeletonization-produce-off-center-loops-and-unwanted-bran",
-      "published_at": "2026-11-02T22:48:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "handwriting-recognition"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Roman"
-    },
-    {
-      "title": "Google OAuth token exchange gives 401 invalid_client after successful consent",
-      "url": "https://stackoverflow.com/questions/80014324/google-oauth-token-exchange-gives-401-invalid-client-after-successful-consent",
-      "published_at": "2026-11-02T23:31:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "oauth-2.0",
-        "google-oauth"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "RKG Enterprises"
     },
     {
       "title": "Should module-level constants in constants.py be annotated with typing.Final",
@@ -1944,34 +1958,17 @@
       "user": "JadenV15"
     },
     {
-      "title": "How to write a generic class that accepts Ellipsis like tuple[int, ...]",
-      "url": "https://stackoverflow.com/questions/80014259/how-to-write-a-generic-class-that-accepts-ellipsis-like-tupleint",
-      "published_at": "2026-11-02T16:20:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "title": "Why does scikit-image skeletonization produce off-center loops and unwanted branches in thresholded handwritten strokes?",
+      "url": "https://stackoverflow.com/questions/80014319/why-does-scikit-image-skeletonization-produce-off-center-loops-and-unwanted-bran",
+      "published_at": "2026-11-02T22:48:03.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
-        "generics",
-        "python-typing"
+        "handwriting-recognition"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
-      "url": "https://www.freecodecamp.org/news/python-in-marketing-a-practical-book/",
-      "published_at": "2026-10-29T15:42:25.000Z",
-      "description": "Marketing has always involved wrangling lots of data. Before digital marketing, businesses had to track sales, customer purchases, coupon redemptions, store traffic, and survey responses to understand",
-      "tags": [
-        "Python",
-        "data analytics",
-        "Data Science",
-        "software development",
-        "automation"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Eva J Patel"
+      "user": "Roman"
     }
   ],
   "DevOps": [
@@ -2199,6 +2196,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "How to Automate Docker Image Creation for Postgres Using Shell Commands",
+      "url": "https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/",
+      "published_at": "2026-11-03T18:40:47.000Z",
+      "description": "If you have certain lines of code that repeat over and over again in a project, there's a pretty standard solution for it: using a function. But what about when you have the same project file setup th",
+      "tags": [
+        "shell",
+        "shell scripting",
+        "Bash",
+        "docker images",
+        "Docker compose"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "jabo Landry"
     }
   ],
   "WebDev": [
@@ -2263,7 +2276,7 @@
       "title": "How to have JavaScript send an email after form submit",
       "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
       "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "python",
@@ -2278,7 +2291,7 @@
       "title": "Create a working board for a card game using HTML and Javascript e.t.c",
       "url": "https://stackoverflow.com/questions/80014494/create-a-working-board-for-a-card-game-using-html-and-javascript-e-t-c",
       "published_at": "2026-11-03T20:12:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "html"
@@ -2291,7 +2304,7 @@
       "title": "How do I create a JS object (rather than an array) from HTML table values?",
       "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
       "published_at": "2026-11-03T15:07:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -2330,6 +2343,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kurtgustil"
+    },
+    {
+      "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
+      "url": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
+      "published_at": "2026-11-03T19:00:29.000Z",
+      "description": "Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan",
+      "tags": [
+        "SEO",
+        "Web Development",
+        "Beginner Developers"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Saar Twito"
     },
     {
       "title": "How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide",
@@ -2408,21 +2435,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
-      "url": "https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc",
-      "published_at": "2026-10-27T09:53:26Z",
-      "description": "1. The problem: an agent that can spend money   Most agent demos stop at \"the model called a...",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gn9hgsdfqcf4qx8tayd.png",
-      "source": "Dev.to",
-      "user": "Esra Kadah"
     },
     {
       "title": "How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide",
@@ -2591,21 +2603,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
-      "url": "https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc",
-      "published_at": "2026-10-27T09:53:26Z",
-      "description": "1. The problem: an agent that can spend money   Most agent demos stop at \"the model called a...",
-      "tags": [
-        "dart",
-        "flutter",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6gn9hgsdfqcf4qx8tayd.png",
-      "source": "Dev.to",
-      "user": "Esra Kadah"
-    },
-    {
       "title": "ashayas/icloud-s3 - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
       "url": "https://github.com/ashayas/icloud-s3",
       "published_at": "2026-10-30T23:54:20Z",
@@ -2617,7 +2614,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "ashayas"
     },
     {
@@ -2635,19 +2632,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jeff Baker"
-    },
-    {
-      "title": "Cloud Service Models Explained: IaaS vs PaaS vs SaaS",
-      "url": "https://www.freecodecamp.org/news/cloud-service-models-explained-iaas-vs-paas-vs-saas/",
-      "published_at": "2026-10-29T15:39:58.000Z",
-      "description": "You likely use cloud services every day. When you check Gmail, join a Zoom meeting, or message your team on Slack, you use cloud-hosted software. But you don't manage the servers it runs on or maintai",
-      "tags": [
-        "Cloud Computing",
-        "Cloud Engineering"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Chinwendu Enyinna"
     }
   ],
   "Database": [
@@ -2957,38 +2941,10 @@
       "user": "xx"
     },
     {
-      "title": "This background sound leaks your exact location",
-      "url": "https://youtu.be/UytYrhYLOKI",
-      "published_at": "2026-11-02T13:42:32.458-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "math",
-        "security",
-        "video"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "fanf"
-    },
-    {
-      "title": "Google OAuth token exchange gives 401 invalid_client after successful consent",
-      "url": "https://stackoverflow.com/questions/80014324/google-oauth-token-exchange-gives-401-invalid-client-after-successful-consent",
-      "published_at": "2026-11-02T23:31:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "oauth-2.0",
-        "google-oauth"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "RKG Enterprises"
-    },
-    {
       "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
       "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
       "published_at": "2026-11-03T21:43:08.000Z",
-      "description": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "description": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
       "tags": [
         "AI",
         "Security",
@@ -3015,21 +2971,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-      "published_at": "2026-11-03T17:56:52.000Z",
-      "description": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
-      "tags": [
-        "Security",
-        "ai security",
-        "CrowdStrike",
-        "Mergers and Acquisitions"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
@@ -3197,7 +3138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 7444,
+      "stars": 7583,
       "user": "heydamir"
     },
     {
@@ -3212,7 +3153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 4073,
+      "stars": 4166,
       "user": "patch-gg"
     },
     {
@@ -3227,23 +3168,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1613,
+      "stars": 1668,
       "user": "elvarofficial"
-    },
-    {
-      "title": "HRuiCcc/RuiC-PoseAtlas - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-      "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
-      "published_at": "2026-10-28T07:00:53Z",
-      "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/319719670?v=4",
-      "source": "GitHub",
-      "stars": 1127,
-      "user": "HRuiCcc"
     },
     {
       "title": "NiazMorshed2007/reanimate - A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
@@ -3257,8 +3183,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
       "source": "GitHub",
-      "stars": 1081,
+      "stars": 1102,
       "user": "NiazMorshed2007"
+    },
+    {
+      "title": "sleepy-zone/ai-ref-library-cn - AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
+      "published_at": "2026-10-29T15:28:16Z",
+      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/131369648?v=4",
+      "source": "GitHub",
+      "stars": 702,
+      "user": "sleepy-zone"
     },
     {
       "title": "BryceYuuu/RUN - RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
@@ -3272,7 +3213,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 2986,
+      "stars": 3106,
       "user": "BryceYuuu"
     },
     {
@@ -3287,7 +3228,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272671295?v=4",
       "source": "GitHub",
-      "stars": 1266,
+      "stars": 1315,
       "user": "Pika-Labs"
     },
     {
@@ -3302,23 +3243,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 776,
+      "stars": 780,
       "user": "hyz317"
-    },
-    {
-      "title": "speridlabs/idol-sdk - Idol: a single image to 3D Gaussians. Inference SDK and demo.",
-      "url": "https://github.com/speridlabs/idol-sdk",
-      "published_at": "2026-10-28T19:44:27Z",
-      "description": "Idol: a single image to 3D Gaussians. Inference SDK and demo.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/207595948?v=4",
-      "source": "GitHub",
-      "stars": 720,
-      "user": "speridlabs"
     },
     {
       "title": "RikiyaT/lm_understand-logs - Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
@@ -3332,8 +3258,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
       "source": "GitHub",
-      "stars": 705,
+      "stars": 749,
       "user": "RikiyaT"
+    },
+    {
+      "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "published_at": "2026-11-02T00:40:47Z",
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
+      "source": "GitHub",
+      "stars": 708,
+      "user": "AssassinCreator"
     },
     {
       "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
@@ -3347,7 +3288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 2119,
+      "stars": 2130,
       "user": "paipiange"
     },
     {
@@ -3362,7 +3303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 591,
+      "stars": 593,
       "user": "Balanov"
     },
     {
@@ -3377,7 +3318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 436,
       "user": "Balanov"
     },
     {
@@ -3392,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 260,
+      "stars": 261,
       "user": "Balanov"
     },
     {
@@ -3407,7 +3348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 201,
+      "stars": 205,
       "user": "egoist"
     },
     {
@@ -3422,7 +3363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 16573,
+      "stars": 16926,
       "user": "deepseek-ai"
     },
     {
@@ -3437,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1503,
+      "stars": 1557,
       "user": "caru-ini"
     },
     {
@@ -3452,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1177,
+      "stars": 1238,
       "user": "mromidev"
     },
     {
@@ -3467,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 560,
+      "stars": 589,
       "user": "rerun-build"
     },
     {
@@ -3482,7 +3423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/12199008?v=4",
       "source": "GitHub",
-      "stars": 532,
+      "stars": 554,
       "user": "hongye007"
     },
     {
@@ -3497,7 +3438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 8052,
+      "stars": 8571,
       "user": "storytold"
     },
     {
@@ -3512,7 +3453,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 491,
       "user": "ashayas"
     },
     {
@@ -3557,23 +3498,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350534499?v=4",
       "source": "GitHub",
-      "stars": 299,
+      "stars": 302,
       "user": "Weft-Rust"
-    },
-    {
-      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-      "published_at": "2026-11-03T17:56:52.000Z",
-      "description": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
-      "tags": [
-        "Security",
-        "ai security",
-        "CrowdStrike",
-        "Mergers and Acquisitions"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ram Iyer"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
@@ -3600,22 +3526,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Beau Carnes"
-    },
-    {
-      "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
-      "url": "https://www.freecodecamp.org/news/python-in-marketing-a-practical-book/",
-      "published_at": "2026-10-29T15:42:25.000Z",
-      "description": "Marketing has always involved wrangling lots of data. Before digital marketing, businesses had to track sales, customer purchases, coupon redemptions, store traffic, and survey responses to understand",
-      "tags": [
-        "Python",
-        "data analytics",
-        "Data Science",
-        "software development",
-        "automation"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Eva J Patel"
     }
   ]
 }
