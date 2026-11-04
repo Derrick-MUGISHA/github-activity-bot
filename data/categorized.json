@@ -46,21 +46,6 @@
       "user": "MLH Team"
     },
     {
-      "title": "Singularity News :: CCG",
-      "url": "https://dev.to/pengeszikra/singularity-news-ccg-5ejk",
-      "published_at": "2026-10-31T02:18:22Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "gamedev",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyh84oxpucdnmygo396v.png",
-      "source": "Dev.to",
-      "user": "Peter Vivo"
-    },
-    {
       "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
       "url": "https://dev.to/gde/agent-platform-in-action-7-when-adk-go-graph-workflow-meets-google-research-harness-part-1-28c1",
       "published_at": "2026-11-01T14:37:47Z",
@@ -133,6 +118,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlk0251k4s6ucmxlzfnw.jpg",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Singularity News :: CCG",
+      "url": "https://dev.to/pengeszikra/singularity-news-ccg-5ejk",
+      "published_at": "2026-10-31T02:18:22Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gamedev",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyh84oxpucdnmygo396v.png",
+      "source": "Dev.to",
+      "user": "Peter Vivo"
     },
     {
       "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
@@ -718,7 +718,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 7583,
+      "stars": 7851,
       "user": "heydamir"
     },
     {
@@ -733,23 +733,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131369648?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 710,
       "user": "sleepy-zone"
-    },
-    {
-      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "url": "https://github.com/hyz317/HairDeck",
-      "published_at": "2026-10-29T17:16:13Z",
-      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
-      "source": "GitHub",
-      "stars": 780,
-      "user": "hyz317"
     },
     {
       "title": "RikiyaT/lm_understand-logs - Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
@@ -763,8 +748,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 823,
       "user": "RikiyaT"
+    },
+    {
+      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "url": "https://github.com/hyz317/HairDeck",
+      "published_at": "2026-10-29T17:16:13Z",
+      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
+      "source": "GitHub",
+      "stars": 796,
+      "user": "hyz317"
     },
     {
       "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 2130,
+      "stars": 2159,
       "user": "paipiange"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 599,
       "user": "Balanov"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 448,
       "user": "Balanov"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 263,
       "user": "Balanov"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 16926,
+      "stars": 17896,
       "user": "deepseek-ai"
     },
     {
@@ -853,23 +853,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 617,
       "user": "rerun-build"
-    },
-    {
-      "title": "hongye007/open-pose-costume - A bilingual reference studio for poses, costumes, and AI character creation.",
-      "url": "https://github.com/hongye007/open-pose-costume",
-      "published_at": "2026-10-29T22:05:35Z",
-      "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12199008?v=4",
-      "source": "GitHub",
-      "stars": 554,
-      "user": "hongye007"
     },
     {
       "title": "ShineFinancialStrut/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
@@ -883,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "ShineFinancialStrut"
     },
     {
@@ -902,20 +887,6 @@
       "user": "sqlpxc"
     },
     {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "published_at": "2026-11-02T10:30:58.517-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "linux",
-        "reversing",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "xx"
-    },
-    {
       "title": "Your terminal manipulation/navigation setups",
       "url": "https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation",
       "published_at": "2026-11-03T12:54:55.545-06:00",
@@ -930,23 +901,10 @@
       "user": "nocoffei"
     },
     {
-      "title": "Why did you choose the nix you nix?",
-      "url": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
-      "published_at": "2026-11-02T21:58:06.895-06:00",
-      "description": "I don't which nix is good and at this point I'm afraid I need to ask.\r\n\r\n- (Cpp)[Nix](https://nixos.org/)\r\n- [Determinate Nix](https://determinate.systems/)\r\n- [Lix](https://lix.systems/)\r\n\r\nOr, you know, [Guix](https://guix.gnu.org/)?\r\n\r\n(I _suspect_ that [Snix](https://snix.dev/), [Tvix](https://code.tvl.fyi/tree/tvix), and others aren't intended for general use… but I might be wrong?)",
-      "tags": [
-        "ask",
-        "nix"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "quad"
-    },
-    {
       "title": "How to have JavaScript send an email after form submit",
       "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
       "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "python",
@@ -961,7 +919,7 @@
       "title": "Setattr on frozen slotted dataclass raises FrozenInstanceError in py3.13 but TypeError in py3.12",
       "url": "https://stackoverflow.com/questions/80014347/setattr-on-frozen-slotted-dataclass-raises-frozeninstanceerror-in-py3-13-but-typ",
       "published_at": "2026-11-03T04:27:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "python-dataclasses"
@@ -1311,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 7583,
+      "stars": 7851,
       "user": "heydamir"
     },
     {
@@ -1326,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 4166,
+      "stars": 4381,
       "user": "patch-gg"
     },
     {
@@ -1341,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1668,
+      "stars": 1769,
       "user": "elvarofficial"
     },
     {
@@ -1356,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1127,
       "user": "NiazMorshed2007"
     },
     {
@@ -1371,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131369648?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 710,
       "user": "sleepy-zone"
     },
     {
@@ -1386,8 +1344,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 16926,
+      "stars": 17896,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "KKKKhazix/agent-autoloop - 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "published_at": "2026-11-03T08:02:11Z",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
+      "source": "GitHub",
+      "stars": 1661,
+      "user": "KKKKhazix"
     },
     {
       "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
@@ -1401,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1557,
+      "stars": 1661,
       "user": "caru-ini"
     },
     {
@@ -1416,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1238,
+      "stars": 1336,
       "user": "mromidev"
     },
     {
@@ -1431,23 +1404,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 617,
       "user": "rerun-build"
-    },
-    {
-      "title": "hongye007/open-pose-costume - A bilingual reference studio for poses, costumes, and AI character creation.",
-      "url": "https://github.com/hongye007/open-pose-costume",
-      "published_at": "2026-10-29T22:05:35Z",
-      "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12199008?v=4",
-      "source": "GitHub",
-      "stars": 554,
-      "user": "hongye007"
     },
     {
       "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
@@ -1465,10 +1423,23 @@
       "user": "sqlpxc"
     },
     {
+      "title": "How can I implement a UAE gratuity calculator using JavaScript?",
+      "url": "https://stackoverflow.com/questions/80014601/how-can-i-implement-a-uae-gratuity-calculator-using-javascript",
+      "published_at": "2026-11-04T08:28:04.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "javascript",
+        "calculator"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eng Fatima"
+    },
+    {
       "title": "How to have JavaScript send an email after form submit",
       "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
       "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "python",
@@ -1478,6 +1449,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eli Lohman"
+    },
+    {
+      "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
+      "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
+      "published_at": "2026-11-04T02:30:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "ios"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gadget Seeker"
     },
     {
       "title": "Create a working board for a card game using HTML and Javascript e.t.c",
@@ -1534,22 +1520,6 @@
       "user": "mith sams"
     },
     {
-      "title": "JS image dithering converter and compression",
-      "url": "https://stackoverflow.com/questions/80014156/js-image-dithering-converter-and-compression",
-      "published_at": "2026-11-02T08:39:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "image",
-        "html5-canvas",
-        "webp",
-        "dithering"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kurtgustil"
-    },
-    {
       "title": "Swapping unique values in mongoose without swapping all properties",
       "url": "https://stackoverflow.com/questions/80014074/swapping-unique-values-in-mongoose-without-swapping-all-properties",
       "published_at": "2026-11-01T21:33:34.000Z",
@@ -1566,10 +1536,26 @@
       "user": "user33267884"
     },
     {
+      "title": "JS image dithering converter and compression",
+      "url": "https://stackoverflow.com/questions/80014156/js-image-dithering-converter-and-compression",
+      "published_at": "2026-11-02T08:39:58.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "image",
+        "html5-canvas",
+        "webp",
+        "dithering"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Kurtgustil"
+    },
+    {
       "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
       "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
       "published_at": "2026-10-30T23:01:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "cloud",
@@ -1580,33 +1566,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jeff Baker"
-    },
-    {
-      "title": "Split and capture text ending with brackets and two letters",
-      "url": "https://stackoverflow.com/questions/80011025/split-and-capture-text-ending-with-brackets-and-two-letters",
-      "published_at": "2026-10-19T09:42:40.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "javascript",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Federico"
-    },
-    {
-      "title": "How to find the sum of an array of numbers",
-      "url": "https://stackoverflow.com/questions/1230233/how-to-find-the-sum-of-an-array-of-numbers",
-      "published_at": "2009-08-04T22:29:40.000Z",
-      "description": "Stack Overflow question · 63 answers · score 1658",
-      "tags": [
-        "javascript",
-        "jquery",
-        "arrays"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "akano1"
     }
   ],
   "Python": [
@@ -1772,7 +1731,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 3106,
+      "stars": 3395,
       "user": "BryceYuuu"
     },
     {
@@ -1787,23 +1746,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272671295?v=4",
       "source": "GitHub",
-      "stars": 1315,
+      "stars": 1488,
       "user": "Pika-Labs"
-    },
-    {
-      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "url": "https://github.com/hyz317/HairDeck",
-      "published_at": "2026-10-29T17:16:13Z",
-      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
-      "source": "GitHub",
-      "stars": 780,
-      "user": "hyz317"
     },
     {
       "title": "RikiyaT/lm_understand-logs - Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
@@ -1817,8 +1761,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 823,
       "user": "RikiyaT"
+    },
+    {
+      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "url": "https://github.com/hyz317/HairDeck",
+      "published_at": "2026-10-29T17:16:13Z",
+      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
+      "source": "GitHub",
+      "stars": 796,
+      "user": "hyz317"
     },
     {
       "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
@@ -1832,14 +1791,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 715,
       "user": "AssassinCreator"
     },
     {
       "title": "How to have JavaScript send an email after form submit",
       "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
       "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "python",
@@ -1851,17 +1810,18 @@
       "user": "Eli Lohman"
     },
     {
-      "title": "Wraping interp1d into __call__ makes the result worse",
-      "url": "https://stackoverflow.com/questions/80014519/wraping-interp1d-into-call-makes-the-result-worse",
-      "published_at": "2026-11-03T23:13:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "pygame OOP display",
+      "url": "https://stackoverflow.com/questions/80014414/pygame-oop-display",
+      "published_at": "2026-11-03T11:34:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score -10",
       "tags": [
         "python",
-        "scipy"
+        "oop",
+        "pygame"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Daniel Scholl"
+      "user": "Austine"
     },
     {
       "title": "Can I use HSV in Tkinter?",
@@ -1878,24 +1838,23 @@
       "user": "Rowan Harris"
     },
     {
-      "title": "pygame OOP display",
-      "url": "https://stackoverflow.com/questions/80014414/pygame-oop-display",
-      "published_at": "2026-11-03T11:34:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -11",
+      "title": "Wraping interp1d into __call__ makes the result worse",
+      "url": "https://stackoverflow.com/questions/80014519/wraping-interp1d-into-call-makes-the-result-worse",
+      "published_at": "2026-11-03T23:13:25.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "oop",
-        "pygame"
+        "scipy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Austine"
+      "user": "Daniel Scholl"
     },
     {
       "title": "Setattr on frozen slotted dataclass raises FrozenInstanceError in py3.13 but TypeError in py3.12",
       "url": "https://stackoverflow.com/questions/80014347/setattr-on-frozen-slotted-dataclass-raises-frozeninstanceerror-in-py3-13-but-typ",
       "published_at": "2026-11-03T04:27:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "python-dataclasses"
@@ -1905,10 +1864,38 @@
       "user": "JadenV15"
     },
     {
+      "title": "Why can a parameterized class be instantiated?",
+      "url": "https://stackoverflow.com/questions/80014144/why-can-a-parameterized-class-be-instantiated",
+      "published_at": "2026-11-02T07:42:05.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "python-typing",
+        "instantiation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "How to write a generic class that accepts Ellipsis like tuple[int, ...]",
+      "url": "https://stackoverflow.com/questions/80014259/how-to-write-a-generic-class-that-accepts-ellipsis-like-tupleint",
+      "published_at": "2026-11-02T16:20:01.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "python",
+        "generics",
+        "python-typing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
       "title": "Python asyncio function sometimes returns None instead of the expected result",
       "url": "https://stackoverflow.com/questions/80014439/python-asyncio-function-sometimes-returns-none-instead-of-the-expected-result",
       "published_at": "2026-11-03T14:44:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "python-asyncio"
@@ -1942,33 +1929,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "qtamo"
-    },
-    {
-      "title": "Should module-level constants in constants.py be annotated with typing.Final",
-      "url": "https://stackoverflow.com/questions/80014209/should-module-level-constants-in-constants-py-be-annotated-with-typing-final",
-      "published_at": "2026-11-02T13:00:11.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "constants",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Why does scikit-image skeletonization produce off-center loops and unwanted branches in thresholded handwritten strokes?",
-      "url": "https://stackoverflow.com/questions/80014319/why-does-scikit-image-skeletonization-produce-off-center-loops-and-unwanted-bran",
-      "published_at": "2026-11-02T22:48:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "handwriting-recognition"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Roman"
     }
   ],
   "DevOps": [
@@ -2276,7 +2236,7 @@
       "title": "How to have JavaScript send an email after form submit",
       "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
       "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript",
         "python",
@@ -2286,6 +2246,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eli Lohman"
+    },
+    {
+      "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
+      "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
+      "published_at": "2026-11-04T02:30:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "ios"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gadget Seeker"
     },
     {
       "title": "Create a working board for a card game using HTML and Javascript e.t.c",
@@ -2435,6 +2410,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
+      "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
+      "published_at": "2026-11-04T02:30:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "ios"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gadget Seeker"
     },
     {
       "title": "How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide",
@@ -2621,7 +2611,7 @@
       "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
       "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
       "published_at": "2026-10-30T23:01:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "javascript",
         "cloud",
@@ -2927,18 +2917,17 @@
       "user": "Varcht"
     },
     {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "published_at": "2026-11-02T10:30:58.517-06:00",
+      "title": "Observations from Running stealmybitcoin.com",
+      "url": "https://pavursec.com/blog/stealmybitcoin/",
+      "published_at": "2026-11-03T17:45:21.591-06:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "linux",
-        "reversing",
+        "php",
         "security"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "xx"
+      "user": "wezm"
     },
     {
       "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
@@ -3138,7 +3127,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 7583,
+      "stars": 7851,
       "user": "heydamir"
     },
     {
@@ -3153,7 +3142,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 4166,
+      "stars": 4381,
       "user": "patch-gg"
     },
     {
@@ -3168,7 +3157,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1668,
+      "stars": 1769,
       "user": "elvarofficial"
     },
     {
@@ -3183,7 +3172,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1127,
       "user": "NiazMorshed2007"
     },
     {
@@ -3198,7 +3187,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131369648?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 710,
       "user": "sleepy-zone"
     },
     {
@@ -3213,7 +3202,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 3106,
+      "stars": 3395,
       "user": "BryceYuuu"
     },
     {
@@ -3228,23 +3217,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272671295?v=4",
       "source": "GitHub",
-      "stars": 1315,
+      "stars": 1488,
       "user": "Pika-Labs"
-    },
-    {
-      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "url": "https://github.com/hyz317/HairDeck",
-      "published_at": "2026-10-29T17:16:13Z",
-      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
-      "source": "GitHub",
-      "stars": 780,
-      "user": "hyz317"
     },
     {
       "title": "RikiyaT/lm_understand-logs - Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
@@ -3258,8 +3232,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
       "source": "GitHub",
-      "stars": 749,
+      "stars": 823,
       "user": "RikiyaT"
+    },
+    {
+      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "url": "https://github.com/hyz317/HairDeck",
+      "published_at": "2026-10-29T17:16:13Z",
+      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
+      "source": "GitHub",
+      "stars": 796,
+      "user": "hyz317"
     },
     {
       "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
@@ -3273,7 +3262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 708,
+      "stars": 715,
       "user": "AssassinCreator"
     },
     {
@@ -3288,7 +3277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
       "source": "GitHub",
-      "stars": 2130,
+      "stars": 2159,
       "user": "paipiange"
     },
     {
@@ -3303,7 +3292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 593,
+      "stars": 599,
       "user": "Balanov"
     },
     {
@@ -3318,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 436,
+      "stars": 448,
       "user": "Balanov"
     },
     {
@@ -3333,7 +3322,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 261,
+      "stars": 263,
       "user": "Balanov"
     },
     {
@@ -3348,7 +3337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 205,
+      "stars": 210,
       "user": "egoist"
     },
     {
@@ -3363,8 +3352,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 16926,
+      "stars": 17896,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "KKKKhazix/agent-autoloop - 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "published_at": "2026-11-03T08:02:11Z",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
+      "source": "GitHub",
+      "stars": 1661,
+      "user": "KKKKhazix"
     },
     {
       "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
@@ -3378,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1557,
+      "stars": 1661,
       "user": "caru-ini"
     },
     {
@@ -3393,7 +3397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1238,
+      "stars": 1336,
       "user": "mromidev"
     },
     {
@@ -3408,23 +3412,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 617,
       "user": "rerun-build"
-    },
-    {
-      "title": "hongye007/open-pose-costume - A bilingual reference studio for poses, costumes, and AI character creation.",
-      "url": "https://github.com/hongye007/open-pose-costume",
-      "published_at": "2026-10-29T22:05:35Z",
-      "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/12199008?v=4",
-      "source": "GitHub",
-      "stars": 554,
-      "user": "hongye007"
     },
     {
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
@@ -3438,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 8571,
+      "stars": 9561,
       "user": "storytold"
     },
     {
@@ -3468,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
       "source": "GitHub",
-      "stars": 375,
+      "stars": 377,
       "user": "ShineFinancialStrut"
     },
     {
@@ -3498,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350534499?v=4",
       "source": "GitHub",
-      "stars": 302,
+      "stars": 305,
       "user": "Weft-Rust"
     },
     {
