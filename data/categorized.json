@@ -1,6 +1,36 @@
 {
   "AI": [
     {
+      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
+      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k",
+      "published_at": "2026-11-03T22:28:08Z",
+      "description": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
+      "tags": [
+        "hacktoberfest",
+        "hf26challenge",
+        "opensource",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9j2yyb098hr9vwiu2xyr.webp",
+      "source": "Dev.to",
+      "user": "Noah Brinker"
+    },
+    {
+      "title": "Prompt Pad: What Is Open Source?",
+      "url": "https://blog.mlh.com/prompt-pad-what-is-open-source-23k6",
+      "published_at": "2026-11-04T14:00:00Z",
+      "description": "Chances are you're already using open-source software without realizing it.  In this episode of...",
+      "tags": [
+        "opensource",
+        "beginners",
+        "ai",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8cyh245tpbjsoz92g3u1.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
       "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
       "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1",
       "published_at": "2026-11-02T21:32:30Z",
@@ -16,21 +46,6 @@
       "user": "xbill"
     },
     {
-      "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
-      "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io",
-      "published_at": "2026-11-03T14:00:00Z",
-      "description": "If you've ever tried to parse an LLM response in code, you know the pain: the format changes slightly...",
-      "tags": [
-        "ai",
-        "gemini",
-        "promptengineering",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk4s78yb3dgm2xz85byoo.png",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
       "url": "https://blog.mlh.com/prompt-pad-frame-your-persona-for-better-ai-answers-eg3",
       "published_at": "2026-11-02T20:09:37Z",
@@ -42,6 +57,21 @@
         "beginners"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fralecpmeu7wdeyp4foom.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
+      "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
+      "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io",
+      "published_at": "2026-11-03T14:00:00Z",
+      "description": "If you've ever tried to parse an LLM response in code, you know the pain: the format changes slightly...",
+      "tags": [
+        "ai",
+        "gemini",
+        "promptengineering",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk4s78yb3dgm2xz85byoo.png",
       "source": "Dev.to",
       "user": "MLH Team"
     },
@@ -495,20 +525,6 @@
       "user": "dev.to staff"
     },
     {
-      "title": "Workshop Day Opens AI Engineer NYC",
-      "url": "https://dev.to/dailycontext/workshop-day-opens-ai-engineer-nyc-23i2",
-      "published_at": "2026-10-12T21:00:19Z",
-      "description": "AI Engineer NYC kicked off yesterday with a day devoted to workshops: 18 hands-on sessions built for...",
-      "tags": [
-        "ai",
-        "agents",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ctujqzcft2psrp35d48.png",
-      "source": "Dev.to",
-      "user": "Rachael Berkey"
-    },
-    {
       "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
       "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
       "published_at": "2026-10-16T17:40:16Z",
@@ -522,21 +538,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fle5lxtrblynphqs20c45.jpeg",
       "source": "Dev.to",
       "user": "Hemapriya Kanagala"
-    },
-    {
-      "title": "OpenGameBuilder: Describe a game in one sentence and generate it using a local LLM like Gemma 4.",
-      "url": "https://dev.to/blaiselabs/opengamebuilder-describe-a-game-in-one-sentence-and-generate-it-using-a-local-llm-like-gemma-4-215m",
-      "published_at": "2026-10-19T07:01:01Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle    Every...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "gemma",
-        "sentry"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fblaiselabs.github.io%2FOpenGameBuilder%2Farticle%2Fhero_cherry_town.png",
-      "source": "Dev.to",
-      "user": "Blaise Labs"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -718,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 7851,
+      "stars": 8341,
       "user": "heydamir"
     },
     {
@@ -733,7 +734,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131369648?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 715,
       "user": "sleepy-zone"
     },
     {
@@ -748,7 +749,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 877,
       "user": "RikiyaT"
     },
     {
@@ -763,23 +764,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 804,
       "user": "hyz317"
     },
     {
-      "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "url": "https://github.com/paipiange/nvzhuang",
-      "published_at": "2026-10-29T06:08:00Z",
-      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "published_at": "2026-10-30T15:12:35Z",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 2159,
-      "user": "paipiange"
+      "stars": 745,
+      "user": "N1nEmAn"
     },
     {
       "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
@@ -793,7 +794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 600,
       "user": "Balanov"
     },
     {
@@ -808,7 +809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 451,
       "user": "Balanov"
     },
     {
@@ -838,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 17896,
+      "stars": 18406,
       "user": "deepseek-ai"
     },
     {
@@ -853,7 +854,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 658,
       "user": "rerun-build"
     },
     {
@@ -868,7 +869,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 383,
       "user": "ShineFinancialStrut"
     },
     {
@@ -883,28 +884,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 315,
       "user": "sqlpxc"
     },
     {
-      "title": "Your terminal manipulation/navigation setups",
-      "url": "https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation",
-      "published_at": "2026-11-03T12:54:55.545-06:00",
-      "description": "Dear Lobste.rs, over a year after [my previous post on mouse free setups](https://lobste.rs/s/o0x7rb/your_mouse_free_setups), your advice was instrumental to building the tech stack I use today as a disabled person, composed of the Svalboard, Talon Voice, and a fair few extensions for Talon (including ones I've written myself.)\r\n\r\nOne aspect of my work and personal life that has remained stubbornly able-bodied has been, surprisingly, my terminal use. Reading, manipulating, and editing the terminal has required keyboard and mouse use at every step:\r\n\r\n- When reading the terminal, scrolling is a must, which demands the use of a physical scrolling device, one of my most consistently difficult actions.\r\n- When writing a terminal command, things can range from easy to brutal. Talon has a lot of built in terminal commands available, but composing complex commands still requires a great deal of typing. The most irritating aspect to me is editing a previous command, which consists of either holding (Ctrl+) an arrow key and waiting until I hit the right character, often overshooting, and then having to go back the opposite direction with the arrow keys again, OR moving with my mouse and clicking on the correct position.\r\n- When manipulating the terminal, this usually winds up boiling down to copy and pasting text from the output. This is universally a fine grained mouse movement to highlight and copy the correct text, often to paste it into the same terminal.\r\n- Too often I find myself combining the second and third actions, which means a lot of arrow key or mouse movement to get to the position in my command, mouse movement to copy and paste text, and then rinsing and repeating a handful of times.\r\n\r\nI am fairly convinced there is no true voice first terminal experience-- this is something I am hoping to change. In order to accomplish this and maybe make my life easier, I want to know the landscape of how various people interact with their terminals in 2026. I feel like my approach is deeply inefficient and must be missing something obvious...? We've had terminals since before mice existed, surely there are better ways.",
+      "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
+      "url": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
+      "published_at": "2026-11-04T09:23:09.155-06:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "a11y",
-        "ask",
-        "editors"
+        "performance",
+        "rust",
+        "zig"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "nocoffei"
+      "user": "ohrv"
     },
     {
       "title": "How to have JavaScript send an email after form submit",
       "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
       "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "javascript",
         "python",
@@ -916,17 +917,63 @@
       "user": "Eli Lohman"
     },
     {
-      "title": "Setattr on frozen slotted dataclass raises FrozenInstanceError in py3.13 but TypeError in py3.12",
-      "url": "https://stackoverflow.com/questions/80014347/setattr-on-frozen-slotted-dataclass-raises-frozeninstanceerror-in-py3-13-but-typ",
-      "published_at": "2026-11-03T04:27:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "title": "Do proxy credentials containing @ or : need percent-encoding in requests' proxies dict, and is quote(safe=\"\") correct?",
+      "url": "https://stackoverflow.com/questions/80014683/do-proxy-credentials-containing-or-need-percent-encoding-in-requests-proxie",
+      "published_at": "2026-11-04T13:52:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
-        "python-dataclasses"
+        "python-requests"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "JadenV15"
+      "user": "VPSTTT"
+    },
+    {
+      "title": "I tried Apple&#8217;s Siri Recaps. They&#8217;re surprisingly useful — and a little unsettling",
+      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "published_at": "2026-11-04T16:51:35.000Z",
+      "description": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Hardware",
+        "Apple",
+        "Apple Intelligence"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "published_at": "2026-11-04T16:17:22.000Z",
+      "description": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+      "tags": [
+        "AI",
+        "Google",
+        "Google Search"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+      "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+      "published_at": "2026-11-04T15:00:00.000Z",
+      "description": "Titan OS has raised $110 million in funding to date.",
+      "tags": [
+        "Fundraising",
+        "TC",
+        "titan",
+        "tvs",
+        "Highland Europe"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     },
     {
       "title": "Anthropic is working on a system to prove AI models&#8217; identity",
@@ -955,68 +1002,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aditya Mehta"
-    },
-    {
-      "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "published_at": "2026-11-03T21:43:08.000Z",
-      "description": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "tags": [
-        "AI",
-        "Security",
-        "Venture",
-        "Ballistic Ventures",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Hiding inside Palantir&#8217;s skyrocketing quarter is a foreboding signal",
-      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "published_at": "2026-11-03T21:05:55.000Z",
-      "description": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "TC",
-        "Palantir"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "published_at": "2026-11-03T19:34:43.000Z",
-      "description": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
-      "tags": [
-        "AI",
-        "Startups",
-        "Bessemer Venture Partners",
-        "In Brief",
-        "inference"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-      "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
-      "published_at": "2026-11-03T19:24:37.000Z",
-      "description": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
-      "tags": [
-        "Social",
-        "Adtech",
-        "Reddit",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
@@ -1269,7 +1254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 7851,
+      "stars": 8341,
       "user": "heydamir"
     },
     {
@@ -1284,7 +1269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 4381,
+      "stars": 4599,
       "user": "patch-gg"
     },
     {
@@ -1299,7 +1284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1769,
+      "stars": 1856,
       "user": "elvarofficial"
     },
     {
@@ -1314,7 +1299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
       "source": "GitHub",
-      "stars": 1127,
+      "stars": 1153,
       "user": "NiazMorshed2007"
     },
     {
@@ -1329,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131369648?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 715,
       "user": "sleepy-zone"
     },
     {
@@ -1344,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 17896,
+      "stars": 18406,
       "user": "deepseek-ai"
     },
     {
@@ -1359,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1661,
+      "stars": 2327,
       "user": "KKKKhazix"
     },
     {
@@ -1374,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1661,
+      "stars": 1729,
       "user": "caru-ini"
     },
     {
@@ -1389,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1336,
+      "stars": 1450,
       "user": "mromidev"
     },
     {
@@ -1404,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 658,
       "user": "rerun-build"
     },
     {
@@ -1419,27 +1404,39 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 315,
       "user": "sqlpxc"
     },
     {
-      "title": "How can I implement a UAE gratuity calculator using JavaScript?",
-      "url": "https://stackoverflow.com/questions/80014601/how-can-i-implement-a-uae-gratuity-calculator-using-javascript",
-      "published_at": "2026-11-04T08:28:04.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "What does the output of V8's %DebugPrint mean?",
+      "url": "https://stackoverflow.com/questions/80014677/what-does-the-output-of-v8s-debugprint-mean",
+      "published_at": "2026-11-04T13:09:19.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
-        "calculator"
+        "v8"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Eng Fatima"
+      "user": "Mark Amery"
+    },
+    {
+      "title": "Not sure about positioning of const & video",
+      "url": "https://stackoverflow.com/questions/80014693/not-sure-about-positioning-of-const-video",
+      "published_at": "2026-11-04T14:44:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Choi Soobin"
     },
     {
       "title": "How to have JavaScript send an email after form submit",
       "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
       "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "javascript",
         "python",
@@ -1454,7 +1451,7 @@
       "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
       "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
       "published_at": "2026-11-04T02:30:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "best-practices",
         "javascript",
@@ -1464,19 +1461,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gadget Seeker"
-    },
-    {
-      "title": "Create a working board for a card game using HTML and Javascript e.t.c",
-      "url": "https://stackoverflow.com/questions/80014494/create-a-working-board-for-a-card-game-using-html-and-javascript-e-t-c",
-      "published_at": "2026-11-03T20:12:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "URIEN SF3"
     },
     {
       "title": "How do I create a JS object (rather than an array) from HTML table values?",
@@ -1496,7 +1480,7 @@
       "title": "Unusual syntax for declaring or extending a class - how does this work?",
       "url": "https://stackoverflow.com/questions/80014338/unusual-syntax-for-declaring-or-extending-a-class-how-does-this-work",
       "published_at": "2026-11-03T02:04:03.000Z",
-      "description": "Stack Overflow question · 2 answers · score 5",
+      "description": "Stack Overflow question · 2 answers · score 6",
       "tags": [
         "javascript",
         "class"
@@ -1536,22 +1520,6 @@
       "user": "user33267884"
     },
     {
-      "title": "JS image dithering converter and compression",
-      "url": "https://stackoverflow.com/questions/80014156/js-image-dithering-converter-and-compression",
-      "published_at": "2026-11-02T08:39:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "image",
-        "html5-canvas",
-        "webp",
-        "dithering"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kurtgustil"
-    },
-    {
       "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
       "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
       "published_at": "2026-10-30T23:01:14.000Z",
@@ -1566,6 +1534,35 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jeff Baker"
+    },
+    {
+      "title": "Split and capture text ending with brackets and two letters",
+      "url": "https://stackoverflow.com/questions/80011025/split-and-capture-text-ending-with-brackets-and-two-letters",
+      "published_at": "2026-10-19T09:42:40.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "javascript",
+        "regex"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Federico"
+    },
+    {
+      "title": "I am trying to add authenication to my react, fastapi app. How do i implement JWT authenication?",
+      "url": "https://stackoverflow.com/questions/80014646/i-am-trying-to-add-authenication-to-my-react-fastapi-app-how-do-i-implement-jw",
+      "published_at": "2026-11-04T11:44:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "reactjs",
+        "authentication",
+        "jwt",
+        "fastapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Esh"
     }
   ],
   "Python": [
@@ -1731,7 +1728,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 3395,
+      "stars": 3590,
       "user": "BryceYuuu"
     },
     {
@@ -1746,7 +1743,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272671295?v=4",
       "source": "GitHub",
-      "stars": 1488,
+      "stars": 1570,
       "user": "Pika-Labs"
     },
     {
@@ -1761,7 +1758,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 877,
       "user": "RikiyaT"
     },
     {
@@ -1776,29 +1773,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 804,
       "user": "hyz317"
     },
     {
-      "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-      "published_at": "2026-11-02T00:40:47Z",
-      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "published_at": "2026-10-30T15:12:35Z",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 715,
-      "user": "AssassinCreator"
+      "stars": 745,
+      "user": "N1nEmAn"
     },
     {
       "title": "How to have JavaScript send an email after form submit",
       "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
       "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "javascript",
         "python",
@@ -1810,18 +1807,89 @@
       "user": "Eli Lohman"
     },
     {
-      "title": "pygame OOP display",
-      "url": "https://stackoverflow.com/questions/80014414/pygame-oop-display",
-      "published_at": "2026-11-03T11:34:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -10",
+      "title": "MQTT over multiple threads",
+      "url": "https://stackoverflow.com/questions/80014691/mqtt-over-multiple-threads",
+      "published_at": "2026-11-04T14:42:58.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
-        "oop",
-        "pygame"
+        "multithreading",
+        "mqtt"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Austine"
+      "user": "M_G_Shad_Man"
+    },
+    {
+      "title": "Do proxy credentials containing @ or : need percent-encoding in requests' proxies dict, and is quote(safe=\"\") correct?",
+      "url": "https://stackoverflow.com/questions/80014683/do-proxy-credentials-containing-or-need-percent-encoding-in-requests-proxie",
+      "published_at": "2026-11-04T13:52:28.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "python-requests"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "VPSTTT"
+    },
+    {
+      "title": "Python SQLModel FastAPI get 1 row with 2 connected table datas",
+      "url": "https://stackoverflow.com/questions/80014652/python-sqlmodel-fastapi-get-1-row-with-2-connected-table-datas",
+      "published_at": "2026-11-04T11:57:37.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "sqlalchemy",
+        "fastapi",
+        "sqlmodel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "xAvareS"
+    },
+    {
+      "title": "I am trying to add authenication to my react, fastapi app. How do i implement JWT authenication?",
+      "url": "https://stackoverflow.com/questions/80014646/i-am-trying-to-add-authenication-to-my-react-fastapi-app-how-do-i-implement-jw",
+      "published_at": "2026-11-04T11:44:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "reactjs",
+        "authentication",
+        "jwt",
+        "fastapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Esh"
+    },
+    {
+      "title": "How to make a Venn diagram where items of subsets are visible?",
+      "url": "https://stackoverflow.com/questions/80014639/how-to-make-a-venn-diagram-where-items-of-subsets-are-visible",
+      "published_at": "2026-11-04T11:14:10.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "python",
+        "venn-diagram"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dragoran21"
+    },
+    {
+      "title": "How can Python be used to automate technical drawing documentation?",
+      "url": "https://stackoverflow.com/questions/80014647/how-can-python-be-used-to-automate-technical-drawing-documentation",
+      "published_at": "2026-11-04T11:44:37.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "automation",
+        "autocad"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "FURNIGENCE LLP"
     },
     {
       "title": "Can I use HSV in Tkinter?",
@@ -1838,10 +1906,24 @@
       "user": "Rowan Harris"
     },
     {
+      "title": "pygame OOP display",
+      "url": "https://stackoverflow.com/questions/80014414/pygame-oop-display",
+      "published_at": "2026-11-03T11:34:41.000Z",
+      "description": "Stack Overflow question · 1 answers · score -11",
+      "tags": [
+        "python",
+        "oop",
+        "pygame"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Austine"
+    },
+    {
       "title": "Wraping interp1d into __call__ makes the result worse",
       "url": "https://stackoverflow.com/questions/80014519/wraping-interp1d-into-call-makes-the-result-worse",
       "published_at": "2026-11-03T23:13:25.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
         "scipy"
@@ -1849,86 +1931,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Daniel Scholl"
-    },
-    {
-      "title": "Setattr on frozen slotted dataclass raises FrozenInstanceError in py3.13 but TypeError in py3.12",
-      "url": "https://stackoverflow.com/questions/80014347/setattr-on-frozen-slotted-dataclass-raises-frozeninstanceerror-in-py3-13-but-typ",
-      "published_at": "2026-11-03T04:27:21.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "python-dataclasses"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Why can a parameterized class be instantiated?",
-      "url": "https://stackoverflow.com/questions/80014144/why-can-a-parameterized-class-be-instantiated",
-      "published_at": "2026-11-02T07:42:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "python-typing",
-        "instantiation"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "How to write a generic class that accepts Ellipsis like tuple[int, ...]",
-      "url": "https://stackoverflow.com/questions/80014259/how-to-write-a-generic-class-that-accepts-ellipsis-like-tupleint",
-      "published_at": "2026-11-02T16:20:01.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "generics",
-        "python-typing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Python asyncio function sometimes returns None instead of the expected result",
-      "url": "https://stackoverflow.com/questions/80014439/python-asyncio-function-sometimes-returns-none-instead-of-the-expected-result",
-      "published_at": "2026-11-03T14:44:45.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33272367"
-    },
-    {
-      "title": "Can ast be used to parse a single line?",
-      "url": "https://stackoverflow.com/questions/80014264/can-ast-be-used-to-parse-a-single-line",
-      "published_at": "2026-11-02T16:36:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "python-ast"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "Compare lists in one column to the first n elements of another column in Python Polars lazyframes, where n is dynamically determined from index",
-      "url": "https://stackoverflow.com/questions/80014247/compare-lists-in-one-column-to-the-first-n-elements-of-another-column-in-python",
-      "published_at": "2026-11-02T15:38:57.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "python-polars"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "qtamo"
     }
   ],
   "DevOps": [
@@ -2233,10 +2235,23 @@
       "user": "velmu"
     },
     {
+      "title": "Introducing Adaptive Dark Mode",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "published_at": "2026-11-04T05:04:40.736-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "css",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "Jackevansevo"
+    },
+    {
       "title": "How to have JavaScript send an email after form submit",
       "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
       "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "javascript",
         "python",
@@ -2251,7 +2266,7 @@
       "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
       "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
       "published_at": "2026-11-04T02:30:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "best-practices",
         "javascript",
@@ -2261,19 +2276,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gadget Seeker"
-    },
-    {
-      "title": "Create a working board for a card game using HTML and Javascript e.t.c",
-      "url": "https://stackoverflow.com/questions/80014494/create-a-working-board-for-a-card-game-using-html-and-javascript-e-t-c",
-      "published_at": "2026-11-03T20:12:03.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "javascript",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "URIEN SF3"
     },
     {
       "title": "How do I create a JS object (rather than an array) from HTML table values?",
@@ -2302,22 +2304,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mith sams"
-    },
-    {
-      "title": "JS image dithering converter and compression",
-      "url": "https://stackoverflow.com/questions/80014156/js-image-dithering-converter-and-compression",
-      "published_at": "2026-11-02T08:39:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "image",
-        "html5-canvas",
-        "webp",
-        "dithering"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Kurtgustil"
     },
     {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
@@ -2367,21 +2353,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
-      "url": "https://dev.to/gde/why-blocadd-isnt-what-you-think-synchronous-event-fast-paths-and-0ms-form-bindings-6o",
-      "published_at": "2026-10-25T23:44:27Z",
-      "description": "Why classic BLoC's StreamController forces an asynchronous microtask tax, how BlocSignal executes synchronous event handlers inline on the exact same call stack, and why this is the only way to build 120 FPS Generative UI form bindings.",
-      "tags": [
-        "flutter",
-        "dart",
-        "architecture",
-        "statemanagement"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwuehs85o3yn71ytprfk.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
       "url": "https://dev.to/gde/shipping-flutter-web-to-firebase-when-your-github-actions-budget-hits-zero-2mi5",
       "published_at": "2026-10-27T08:06:59Z",
@@ -2415,7 +2386,7 @@
       "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
       "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
       "published_at": "2026-11-04T02:30:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "best-practices",
         "javascript",
@@ -2679,8 +2650,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 315,
       "user": "sqlpxc"
+    },
+    {
+      "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
+      "url": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
+      "published_at": "2026-11-04T09:23:09.155-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "performance",
+        "rust",
+        "zig"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ohrv"
     },
     {
       "title": "Swapping unique values in mongoose without swapping all properties",
@@ -2697,6 +2682,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "user33267884"
+    },
+    {
+      "title": "Python SQLModel FastAPI get 1 row with 2 connected table datas",
+      "url": "https://stackoverflow.com/questions/80014652/python-sqlmodel-fastapi-get-1-row-with-2-connected-table-datas",
+      "published_at": "2026-11-04T11:57:37.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "sqlalchemy",
+        "fastapi",
+        "sqlmodel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "xAvareS"
     },
     {
       "title": "Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB",
@@ -2930,36 +2930,20 @@
       "user": "wezm"
     },
     {
-      "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "published_at": "2026-11-03T21:43:08.000Z",
-      "description": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "title": "I am trying to add authenication to my react, fastapi app. How do i implement JWT authenication?",
+      "url": "https://stackoverflow.com/questions/80014646/i-am-trying-to-add-authenication-to-my-react-fastapi-app-how-do-i-implement-jw",
+      "published_at": "2026-11-04T11:44:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "AI",
-        "Security",
-        "Venture",
-        "Ballistic Ventures",
-        "Exclusive"
+        "python",
+        "reactjs",
+        "authentication",
+        "jwt",
+        "fastapi"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
-    },
-    {
-      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-      "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
-      "published_at": "2026-11-03T19:45:48.000Z",
-      "description": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
-      "tags": [
-        "Security",
-        "Crypto",
-        "North Korea",
-        "cybersecurity",
-        "data breach"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "source": "StackOverflow",
+      "user": "Esh"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
@@ -3127,7 +3111,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 7851,
+      "stars": 8341,
       "user": "heydamir"
     },
     {
@@ -3142,7 +3126,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 4381,
+      "stars": 4599,
       "user": "patch-gg"
     },
     {
@@ -3157,7 +3141,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1769,
+      "stars": 1856,
       "user": "elvarofficial"
     },
     {
@@ -3172,7 +3156,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
       "source": "GitHub",
-      "stars": 1127,
+      "stars": 1153,
       "user": "NiazMorshed2007"
     },
     {
@@ -3187,7 +3171,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131369648?v=4",
       "source": "GitHub",
-      "stars": 710,
+      "stars": 715,
       "user": "sleepy-zone"
     },
     {
@@ -3202,7 +3186,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 3395,
+      "stars": 3590,
       "user": "BryceYuuu"
     },
     {
@@ -3217,7 +3201,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272671295?v=4",
       "source": "GitHub",
-      "stars": 1488,
+      "stars": 1570,
       "user": "Pika-Labs"
     },
     {
@@ -3232,7 +3216,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
       "source": "GitHub",
-      "stars": 823,
+      "stars": 877,
       "user": "RikiyaT"
     },
     {
@@ -3247,38 +3231,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
       "source": "GitHub",
-      "stars": 796,
+      "stars": 804,
       "user": "hyz317"
     },
     {
-      "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-      "published_at": "2026-11-02T00:40:47Z",
-      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "published_at": "2026-10-30T15:12:35Z",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 715,
-      "user": "AssassinCreator"
-    },
-    {
-      "title": "paipiange/nvzhuang - 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "url": "https://github.com/paipiange/nvzhuang",
-      "published_at": "2026-10-29T06:08:00Z",
-      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/133310917?v=4",
-      "source": "GitHub",
-      "stars": 2159,
-      "user": "paipiange"
+      "stars": 745,
+      "user": "N1nEmAn"
     },
     {
       "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
@@ -3292,7 +3261,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 599,
+      "stars": 600,
       "user": "Balanov"
     },
     {
@@ -3307,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 451,
       "user": "Balanov"
     },
     {
@@ -3326,6 +3295,21 @@
       "user": "Balanov"
     },
     {
+      "title": "protonversestudio/wow-forever-builds-kindred - Answer four questions and see which WoW Forever class fits how you play. Free Windows app.",
+      "url": "https://github.com/protonversestudio/wow-forever-builds-kindred",
+      "published_at": "2026-11-04T05:12:03Z",
+      "description": "Answer four questions and see which WoW Forever class fits how you play. Free Windows app.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317165393?v=4",
+      "source": "GitHub",
+      "stars": 252,
+      "user": "protonversestudio"
+    },
+    {
       "title": "egoist/godraw - infinite canvas in mygo",
       "url": "https://github.com/egoist/godraw",
       "published_at": "2026-11-02T09:47:18Z",
@@ -3337,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 210,
+      "stars": 219,
       "user": "egoist"
     },
     {
@@ -3352,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 17896,
+      "stars": 18406,
       "user": "deepseek-ai"
     },
     {
@@ -3367,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 1661,
+      "stars": 2327,
       "user": "KKKKhazix"
     },
     {
@@ -3382,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1661,
+      "stars": 1729,
       "user": "caru-ini"
     },
     {
@@ -3397,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1336,
+      "stars": 1450,
       "user": "mromidev"
     },
     {
@@ -3412,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 617,
+      "stars": 658,
       "user": "rerun-build"
     },
     {
@@ -3427,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 9561,
+      "stars": 10725,
       "user": "storytold"
     },
     {
@@ -3457,8 +3441,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
       "source": "GitHub",
-      "stars": 377,
+      "stars": 383,
       "user": "ShineFinancialStrut"
+    },
+    {
+      "title": "DeltaProviderGuide/auto-auction-bot-wow-forever - A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
+      "url": "https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever",
+      "published_at": "2026-11-04T05:41:32Z",
+      "description": "A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317165231?v=4",
+      "source": "GitHub",
+      "stars": 354,
+      "user": "DeltaProviderGuide"
     },
     {
       "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
@@ -3472,23 +3471,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 340,
+      "stars": 315,
       "user": "sqlpxc"
-    },
-    {
-      "title": "Weft-Rust/Weft - GitHub Repository",
-      "url": "https://github.com/Weft-Rust/Weft",
-      "published_at": "2026-10-29T22:57:18Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/350534499?v=4",
-      "source": "GitHub",
-      "stars": 305,
-      "user": "Weft-Rust"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",

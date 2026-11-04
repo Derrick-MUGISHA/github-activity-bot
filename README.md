@@ -21,17 +21,46 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-11-04 11:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-11-04 19:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
   <td align="center" width="33%">
+    <a href="https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9j2yyb098hr9vwiu2xyr.webp" width="200" alt="That's a Wrap on Hacktoberfest 2026! 🎃👻" />
+      <br/>
+      <b>That's a Wrap on Hacktoberfest 2026! 🎃👻</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/maame-codes/lets-see-where-you-code-147">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8w7rf58mqbwxnvnh2bqp.jpg" width="200" alt="Let's see where you code!" />
       <br/>
       <b>Let's see where you code!</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://blog.mlh.com/prompt-pad-what-is-open-source-23k6">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8cyh245tpbjsoz92g3u1.png" width="200" alt="Prompt Pad: What Is Open Source?" />
+      <br/>
+      <b>Prompt Pad: What Is Open Source?</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/sloan/welcome-thread-v400-2e8m">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu43w2g6w6ghxotkma1qd.jpeg" width="200" alt="Welcome Thread - v400" />
+      <br/>
+      <b>Welcome Thread - v400</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -46,39 +75,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk4s78yb3dgm2xz85byoo.png" width="200" alt="Prompt Pad: Lock Your AI's Output Schema in Google AI Studio" />
-      <br/>
-      <b>Prompt Pad: Lock Your AI's Output Schema in Google...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
     <a href="https://blog.mlh.com/prompt-pad-frame-your-persona-for-better-ai-answers-eg3">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fralecpmeu7wdeyp4foom.png" width="200" alt="Prompt Pad: Frame Your Persona for Better AI Answers" />
       <br/>
       <b>Prompt Pad: Frame Your Persona for Better AI Answe...</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-cio">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8p5vb3d239yas6uedmqw.png" width="200" alt="Top 7 Featured DEV Posts of the Week" />
-      <br/>
-      <b>Top 7 Featured DEV Posts of the Week</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftorchtpu-dev%2Fmain%2Fdocs%2Ftorchtpu-rust%2Fdevto-cover.415eb5a0.jpg" width="200" alt="Gemma 4 in Rust on TorchTPU: Hands On With Colab" />
-      <br/>
-      <b>Gemma 4 in Rust on TorchTPU: Hands On With Colab</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -92,28 +92,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [Let's see where you code!](https://dev.to/maame-codes/lets-see-where-you-code-147) | Dev.to |
-| 2 | [Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP](https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1) | Dev.to |
-| 3 | [Prompt Pad: Lock Your AI's Output Schema in Google AI Studio](https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io) | Dev.to |
-| 4 | [Prompt Pad: Frame Your Persona for Better AI Answers](https://blog.mlh.com/prompt-pad-frame-your-persona-for-better-ai-answers-eg3) | Dev.to |
-| 5 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-cio) | Dev.to |
-| 6 | [Gemma 4 in Rust on TorchTPU: Hands On With Colab](https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi) | Dev.to |
-| 7 | [[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram](https://dev.to/gde/agent-platform-in-action-7-when-adk-go-graph-workflow-meets-google-research-harness-part-1-28c1) | Dev.to |
-| 8 | [Profile Sprawl: Solving a Problem You Didn't Know You Had](https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5) | Dev.to |
-| 9 | [From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]](https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg) | Dev.to |
-| 10 | [Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]](https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm) | Dev.to |
-| 11 | [Your DEV posts have a beautiful new share card ✨](https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8) | Dev.to |
-| 12 | [All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars](https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af) | Dev.to |
-| 13 | [Singularity News :: CCG](https://dev.to/pengeszikra/singularity-news-ccg-5ejk) | Dev.to |
-| 14 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47ci) | Dev.to |
-| 15 | [RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect](https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k) | Dev.to |
-| 16 | [Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner](https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740) | Dev.to |
-| 17 | [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn) | Dev.to |
-| 18 | [Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)](https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa) | Dev.to |
-| 19 | [Agent Skills Drift: A Feedback Loop for Keeping One True](https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7) | Dev.to |
-| 20 | [Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed](https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi) | Dev.to |
+| 1 | [That's a Wrap on Hacktoberfest 2026! 🎃👻](https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k) | Dev.to |
+| 2 | [Let's see where you code!](https://dev.to/maame-codes/lets-see-where-you-code-147) | Dev.to |
+| 3 | [Prompt Pad: What Is Open Source?](https://blog.mlh.com/prompt-pad-what-is-open-source-23k6) | Dev.to |
+| 4 | [Welcome Thread - v400](https://dev.to/sloan/welcome-thread-v400-2e8m) | Dev.to |
+| 5 | [Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP](https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1) | Dev.to |
+| 6 | [Prompt Pad: Frame Your Persona for Better AI Answers](https://blog.mlh.com/prompt-pad-frame-your-persona-for-better-ai-answers-eg3) | Dev.to |
+| 7 | [Prompt Pad: Lock Your AI's Output Schema in Google AI Studio](https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io) | Dev.to |
+| 8 | [Gemma 4 in Rust on TorchTPU: Hands On With Colab](https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi) | Dev.to |
+| 9 | [[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram](https://dev.to/gde/agent-platform-in-action-7-when-adk-go-graph-workflow-meets-google-research-harness-part-1-28c1) | Dev.to |
+| 10 | [Profile Sprawl: Solving a Problem You Didn't Know You Had](https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5) | Dev.to |
+| 11 | [From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]](https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg) | Dev.to |
+| 12 | [Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]](https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm) | Dev.to |
+| 13 | [Your DEV posts have a beautiful new share card ✨](https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8) | Dev.to |
+| 14 | [All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars](https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af) | Dev.to |
+| 15 | [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-cio) | Dev.to |
+| 16 | [Singularity News :: CCG](https://dev.to/pengeszikra/singularity-news-ccg-5ejk) | Dev.to |
+| 17 | [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47ci) | Dev.to |
+| 18 | [RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect](https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k) | Dev.to |
+| 19 | [Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner](https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740) | Dev.to |
+| 20 | [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn) | Dev.to |
 
-<sub>Last fetched: Wed, 04 Nov 2026 11:05:19 CAT</sub>
+<sub>Last fetched: Wed, 04 Nov 2026 19:12:58 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `DataStructures` — Find the median of two sorted arrays**
+**1. `Database` — Explain database indexing and when to use it**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Binary search, partition, time complexity O(log(min(m,n)))
+> B-tree, trade-offs, query performance
 
 </details>
 
-**2. `React` — What is the Virtual DOM and how does React use it?**
+**2. `Database` — Design a database schema for a social media platform**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Diffing algorithm, reconciliation, efficiency
+> Users, posts, relationships, indexes, partitioning
 
 </details>
 
-**3. `JavaScript` — Explain event delegation and why it's useful**
+**3. `DataStructures` — Implement LRU Cache**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 events, DOM
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Event bubbling, single listener for multiple elements
+> Doubly linked list + hash map, O(1) operations
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 76 | 41.5% | `████████████████████` |
-| **Tools** | 36 | 19.7% | `█████████░░░░░░░░░░░` |
-| **JavaScript** | 34 | 18.6% | `█████████░░░░░░░░░░░` |
+| **AI** | 75 | 41.0% | `████████████████████` |
+| **Tools** | 36 | 19.7% | `██████████░░░░░░░░░░` |
+| **JavaScript** | 35 | 19.1% | `█████████░░░░░░░░░░░` |
 | **Python** | 27 | 14.8% | `███████░░░░░░░░░░░░░` |
-| **Security** | 19 | 10.4% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **WebDev** | 12 | 6.6% | `███░░░░░░░░░░░░░░░░░` |
+| **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
 | **Cloud** | 12 | 6.6% | `███░░░░░░░░░░░░░░░░░` |
-| **Database** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
+| **Database** | 10 | 5.5% | `███░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,23 +194,23 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 27.7%
-JavaScript      ███████████████████████████ 24.8%
-Python          █████████████████████ 19.0%
-Java            ████████████████████ 18.2%
-Rust            ████████ 7.3%
-Swift           ██ 2.2%
+Go              ██████████████████████████████ 25.5%
+JavaScript      ██████████████████████████████ 25.5%
+Python          ██████████████████████ 19.0%
+Java            █████████████████████ 18.2%
+Rust            ██████████ 8.8%
+Swift           ███ 2.2%
 PHP             █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 38
-    "JavaScript" : 34
+    "Go" : 35
+    "JavaScript" : 35
     "Python" : 26
     "Java" : 25
-    "Rust" : 10
+    "Rust" : 12
     "Swift" : 3
     "PHP" : 1
 ```
@@ -218,7 +218,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-41-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-25-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-8-0969da?style=flat-square) ![programming](https://img.shields.io/badge/programming-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-40-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-25-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-10-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-10-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-7-0969da?style=flat-square) ![community](https://img.shields.io/badge/community-7-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 04 Nov 2026 09:05:19 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 04 Nov 2026 17:12:58 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
