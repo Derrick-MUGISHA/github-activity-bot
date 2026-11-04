@@ -16,6 +16,21 @@
       "user": "Noah Brinker"
     },
     {
+      "title": "Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!",
+      "url": "https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370",
+      "published_at": "2026-11-04T22:00:15Z",
+      "description": "We're excited to announce our newest challenge with Presage!  The Presage SmartSpectra SDK Challenge...",
+      "tags": [
+        "devchallenge",
+        "presagechallenge",
+        "presage",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkx3vgfze743kv0yqvhud.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "Prompt Pad: What Is Open Source?",
       "url": "https://blog.mlh.com/prompt-pad-what-is-open-source-23k6",
       "published_at": "2026-11-04T14:00:00Z",
@@ -29,21 +44,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8cyh245tpbjsoz92g3u1.png",
       "source": "Dev.to",
       "user": "MLH Team"
-    },
-    {
-      "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
-      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1",
-      "published_at": "2026-11-02T21:32:30Z",
-      "description": "Gemma 4 E2B with the model in Rust, served from a TPU v5e-1 VM through PyO3 and a C++ shim over ATen, with no tch and no pinned PyTorch, an OpenAI endpoint, an MCP server and a local chat UI.",
-      "tags": [
-        "rust",
-        "pytorch",
-        "tpu",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftorchtpu-dev%2Fmain%2Fdocs%2Ftorchtpu-native-rust%2Fdevto-cover.3ce8c43b.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
@@ -193,6 +193,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
       "source": "Dev.to",
       "user": "Adam - The Developer ✨"
+    },
+    {
+      "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
+      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1",
+      "published_at": "2026-11-02T21:32:30Z",
+      "description": "Gemma 4 E2B with the model in Rust, served from a TPU v5e-1 VM through PyO3 and a C++ shim over ATen, with no tch and no pinned PyTorch, an OpenAI endpoint, an MCP server and a local chat UI.",
+      "tags": [
+        "rust",
+        "pytorch",
+        "tpu",
+        "mcp"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftorchtpu-dev%2Fmain%2Fdocs%2Ftorchtpu-native-rust%2Fdevto-cover.3ce8c43b.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
@@ -525,21 +540,6 @@
       "user": "dev.to staff"
     },
     {
-      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
-      "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
-      "published_at": "2026-10-16T17:40:16Z",
-      "description": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,...",
-      "tags": [
-        "discuss",
-        "community",
-        "opportunities",
-        "resources"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fle5lxtrblynphqs20c45.jpeg",
-      "source": "Dev.to",
-      "user": "Hemapriya Kanagala"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -719,7 +719,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 8341,
+      "stars": 8608,
       "user": "heydamir"
     },
     {
@@ -749,23 +749,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 916,
       "user": "RikiyaT"
     },
     {
-      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "url": "https://github.com/hyz317/HairDeck",
-      "published_at": "2026-10-29T17:16:13Z",
-      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "title": "JuneYaooo/rea-video - 逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
+      "url": "https://github.com/JuneYaooo/rea-video",
+      "published_at": "2026-10-29T16:15:01Z",
+      "description": "逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/60815510?v=4",
       "source": "GitHub",
-      "stars": 804,
-      "user": "hyz317"
+      "stars": 904,
+      "user": "JuneYaooo"
     },
     {
       "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
@@ -779,7 +779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 819,
       "user": "N1nEmAn"
     },
     {
@@ -839,7 +839,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18406,
+      "stars": 18516,
       "user": "deepseek-ai"
     },
     {
@@ -854,38 +854,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 672,
       "user": "rerun-build"
     },
     {
-      "title": "ShineFinancialStrut/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
-      "url": "https://github.com/ShineFinancialStrut/game-server-route-racer",
-      "published_at": "2026-10-31T23:52:41Z",
-      "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+      "title": "StormSkinkGrip/game-ping-multipath-router - Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
+      "url": "https://github.com/StormSkinkGrip/game-ping-multipath-router",
+      "published_at": "2026-11-03T16:37:49Z",
+      "description": "Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/317165609?v=4",
       "source": "GitHub",
-      "stars": 383,
-      "user": "ShineFinancialStrut"
-    },
-    {
-      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "url": "https://github.com/sqlpxc/airhand",
-      "published_at": "2026-10-31T13:33:04Z",
-      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
-      "source": "GitHub",
-      "stars": 315,
-      "user": "sqlpxc"
+      "stars": 328,
+      "user": "StormSkinkGrip"
     },
     {
       "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
@@ -917,10 +902,38 @@
       "user": "Eli Lohman"
     },
     {
+      "title": "How can I sum elements of a tensor based on a condition of one out of two values in its index pair into a new tensor using the pytorch package?",
+      "url": "https://stackoverflow.com/questions/80014777/how-can-i-sum-elements-of-a-tensor-based-on-a-condition-of-one-out-of-two-values",
+      "published_at": "2026-11-04T22:02:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "pytorch",
+        "physics-engine"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33280062"
+    },
+    {
+      "title": "Try/except failing to catch exceptions",
+      "url": "https://stackoverflow.com/questions/80014740/try-except-failing-to-catch-exceptions",
+      "published_at": "2026-11-04T18:43:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "python-3.x",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Philip Kearns"
+    },
+    {
       "title": "Do proxy credentials containing @ or : need percent-encoding in requests' proxies dict, and is quote(safe=\"\") correct?",
       "url": "https://stackoverflow.com/questions/80014683/do-proxy-credentials-containing-or-need-percent-encoding-in-requests-proxie",
       "published_at": "2026-11-04T13:52:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "python-requests"
@@ -930,78 +943,141 @@
       "user": "VPSTTT"
     },
     {
-      "title": "I tried Apple&#8217;s Siri Recaps. They&#8217;re surprisingly useful — and a little unsettling",
-      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "published_at": "2026-11-04T16:51:35.000Z",
-      "description": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+      "title": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "published_at": "2026-11-04T22:13:16.000Z",
+      "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
       "tags": [
         "AI",
-        "Apps",
-        "Hardware",
-        "Apple",
-        "Apple Intelligence"
+        "Startups",
+        "AI hardware",
+        "hardware",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "published_at": "2026-11-04T21:56:01.000Z",
+      "description": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "tags": [
+        "AI",
+        "Transportation",
+        "AI agents",
+        "Uber"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
     },
     {
-      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-      "published_at": "2026-11-04T16:17:22.000Z",
-      "description": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+      "title": "Snapchat surpasses 30M paid subscribers",
+      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+      "published_at": "2026-11-04T21:49:29.000Z",
+      "description": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+      "tags": [
+        "Apps",
+        "Social",
+        "Snap",
+        "Snapchat"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "published_at": "2026-11-04T21:25:44.000Z",
+      "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
       "tags": [
         "AI",
+        "Government & Policy",
+        "AI policy",
+        "Chris Lehane",
+        "election"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Meta acquires AI coding startup Conductor",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "published_at": "2026-11-04T21:10:56.000Z",
+      "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "tags": [
+        "AI",
+        "conductor",
+        "Mergers and Acquisitions",
+        "Meta"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+      "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
+      "published_at": "2026-11-04T20:36:57.000Z",
+      "description": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+      "tags": [
+        "Security",
+        "cybesecurity",
+        "dreamhost",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "published_at": "2026-11-04T19:30:04.000Z",
+      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining",
+      "tags": [
+        "AI",
+        "Startups",
+        "Hugging Face",
+        "Irene Solaiman",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo"
+    },
+    {
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google&#8217;s AI policy",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "published_at": "2026-11-04T19:29:52.000Z",
+      "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "tags": [
+        "AI",
+        "DuckDuckGo",
         "Google",
-        "Google Search"
+        "search engines"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "&#8216;You Can See Everything&#8217; is getting an outer space release and it hasn&#8217;t even come out in Europe yet",
+      "url": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
+      "published_at": "2026-11-04T18:10:11.000Z",
+      "description": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low Earth orbit than in London.",
+      "tags": [
+        "Media & Entertainment",
+        "elizabeth holmes",
+        "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Amanda Silberling"
-    },
-    {
-      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
-      "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
-      "published_at": "2026-11-04T15:00:00.000Z",
-      "description": "Titan OS has raised $110 million in funding to date.",
-      "tags": [
-        "Fundraising",
-        "TC",
-        "titan",
-        "tvs",
-        "Highland Europe"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Anthropic is working on a system to prove AI models&#8217; identity",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "published_at": "2026-11-03T22:41:03.000Z",
-      "description": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "cryptography",
-        "inference"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "published_at": "2026-11-03T22:19:53.000Z",
-      "description": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-      "tags": [
-        "AI",
-        "data centers"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aditya Mehta"
     },
     {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
@@ -1062,19 +1138,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Reetain Raina"
-    },
-    {
-      "title": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
-      "url": "https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/",
-      "published_at": "2026-10-29T20:48:09.000Z",
-      "description": "The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface. We",
-      "tags": [
-        "mcp",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "JavaScript": [
@@ -1254,7 +1317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 8341,
+      "stars": 8608,
       "user": "heydamir"
     },
     {
@@ -1269,7 +1332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 4599,
+      "stars": 4681,
       "user": "patch-gg"
     },
     {
@@ -1284,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1856,
+      "stars": 1896,
       "user": "elvarofficial"
     },
     {
@@ -1299,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
       "source": "GitHub",
-      "stars": 1153,
+      "stars": 1171,
       "user": "NiazMorshed2007"
     },
     {
@@ -1329,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18406,
+      "stars": 18516,
       "user": "deepseek-ai"
     },
     {
@@ -1344,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2327,
+      "stars": 2420,
       "user": "KKKKhazix"
     },
     {
@@ -1359,7 +1422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1729,
+      "stars": 1740,
       "user": "caru-ini"
     },
     {
@@ -1374,7 +1437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1450,
+      "stars": 1501,
       "user": "mromidev"
     },
     {
@@ -1389,23 +1452,47 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 672,
       "user": "rerun-build"
     },
     {
-      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "url": "https://github.com/sqlpxc/airhand",
-      "published_at": "2026-10-31T13:33:04Z",
-      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "title": "A new Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2",
+      "published_at": "2026-11-04T11:52:32.448-06:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
+        "go"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
-      "source": "GitHub",
-      "stars": 315,
-      "user": "sqlpxc"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "binjip978"
+    },
+    {
+      "title": "bug between v10.7 and v10.8 and later",
+      "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
+      "published_at": "2026-11-04T22:00:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "openlayers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "allez l&#39;OM"
+    },
+    {
+      "title": "SESV2Client from AWS SES - no super call in its instantiation",
+      "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
+      "published_at": "2026-11-04T20:58:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "node.js",
+        "amazon-web-services"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jean-Bertho Almonord"
     },
     {
       "title": "What does the output of V8's %DebugPrint mean?",
@@ -1504,22 +1591,6 @@
       "user": "mith sams"
     },
     {
-      "title": "Swapping unique values in mongoose without swapping all properties",
-      "url": "https://stackoverflow.com/questions/80014074/swapping-unique-values-in-mongoose-without-swapping-all-properties",
-      "published_at": "2026-11-01T21:33:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "node.js",
-        "database",
-        "mongodb",
-        "mongoose"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "user33267884"
-    },
-    {
       "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
       "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
       "published_at": "2026-10-30T23:01:14.000Z",
@@ -1534,19 +1605,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jeff Baker"
-    },
-    {
-      "title": "Split and capture text ending with brackets and two letters",
-      "url": "https://stackoverflow.com/questions/80011025/split-and-capture-text-ending-with-brackets-and-two-letters",
-      "published_at": "2026-10-19T09:42:40.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "javascript",
-        "regex"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Federico"
     },
     {
       "title": "I am trying to add authenication to my react, fastapi app. How do i implement JWT authenication?",
@@ -1728,7 +1786,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 3590,
+      "stars": 3619,
       "user": "BryceYuuu"
     },
     {
@@ -1743,7 +1801,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272671295?v=4",
       "source": "GitHub",
-      "stars": 1570,
+      "stars": 1622,
       "user": "Pika-Labs"
     },
     {
@@ -1758,23 +1816,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 916,
       "user": "RikiyaT"
     },
     {
-      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "url": "https://github.com/hyz317/HairDeck",
-      "published_at": "2026-10-29T17:16:13Z",
-      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "title": "JuneYaooo/rea-video - 逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
+      "url": "https://github.com/JuneYaooo/rea-video",
+      "published_at": "2026-10-29T16:15:01Z",
+      "description": "逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/60815510?v=4",
       "source": "GitHub",
-      "stars": 804,
-      "user": "hyz317"
+      "stars": 904,
+      "user": "JuneYaooo"
     },
     {
       "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
@@ -1788,7 +1846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 819,
       "user": "N1nEmAn"
     },
     {
@@ -1807,10 +1865,78 @@
       "user": "Eli Lohman"
     },
     {
+      "title": "How can I sum elements of a tensor based on a condition of one out of two values in its index pair into a new tensor using the pytorch package?",
+      "url": "https://stackoverflow.com/questions/80014777/how-can-i-sum-elements-of-a-tensor-based-on-a-condition-of-one-out-of-two-values",
+      "published_at": "2026-11-04T22:02:58.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "pytorch",
+        "physics-engine"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33280062"
+    },
+    {
+      "title": "How to use Ellipsis as function argument default",
+      "url": "https://stackoverflow.com/questions/80014764/how-to-use-ellipsis-as-function-argument-default",
+      "published_at": "2026-11-04T20:52:53.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "Is there an equivalent to `__import__` but for lazy imports?",
+      "url": "https://stackoverflow.com/questions/80014774/is-there-an-equivalent-to-import-but-for-lazy-imports",
+      "published_at": "2026-11-04T21:48:29.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "python-import"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "Try/except failing to catch exceptions",
+      "url": "https://stackoverflow.com/questions/80014740/try-except-failing-to-catch-exceptions",
+      "published_at": "2026-11-04T18:43:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "python-3.x",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Philip Kearns"
+    },
+    {
+      "title": "Do proxy credentials containing @ or : need percent-encoding in requests' proxies dict, and is quote(safe=\"\") correct?",
+      "url": "https://stackoverflow.com/questions/80014683/do-proxy-credentials-containing-or-need-percent-encoding-in-requests-proxie",
+      "published_at": "2026-11-04T13:52:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "python-requests"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "VPSTTT"
+    },
+    {
       "title": "MQTT over multiple threads",
       "url": "https://stackoverflow.com/questions/80014691/mqtt-over-multiple-threads",
       "published_at": "2026-11-04T14:42:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "multithreading",
@@ -1821,23 +1947,10 @@
       "user": "M_G_Shad_Man"
     },
     {
-      "title": "Do proxy credentials containing @ or : need percent-encoding in requests' proxies dict, and is quote(safe=\"\") correct?",
-      "url": "https://stackoverflow.com/questions/80014683/do-proxy-credentials-containing-or-need-percent-encoding-in-requests-proxie",
-      "published_at": "2026-11-04T13:52:28.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "python-requests"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "VPSTTT"
-    },
-    {
       "title": "Python SQLModel FastAPI get 1 row with 2 connected table datas",
       "url": "https://stackoverflow.com/questions/80014652/python-sqlmodel-fastapi-get-1-row-with-2-connected-table-datas",
       "published_at": "2026-11-04T11:57:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
         "sqlalchemy",
@@ -1881,7 +1994,7 @@
       "title": "How can Python be used to automate technical drawing documentation?",
       "url": "https://stackoverflow.com/questions/80014647/how-can-python-be-used-to-automate-technical-drawing-documentation",
       "published_at": "2026-11-04T11:44:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "automation",
@@ -1890,47 +2003,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "FURNIGENCE LLP"
-    },
-    {
-      "title": "Can I use HSV in Tkinter?",
-      "url": "https://stackoverflow.com/questions/80014464/can-i-use-hsv-in-tkinter",
-      "published_at": "2026-11-03T16:00:16.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "tkinter",
-        "hsv"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rowan Harris"
-    },
-    {
-      "title": "pygame OOP display",
-      "url": "https://stackoverflow.com/questions/80014414/pygame-oop-display",
-      "published_at": "2026-11-03T11:34:41.000Z",
-      "description": "Stack Overflow question · 1 answers · score -11",
-      "tags": [
-        "python",
-        "oop",
-        "pygame"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Austine"
-    },
-    {
-      "title": "Wraping interp1d into __call__ makes the result worse",
-      "url": "https://stackoverflow.com/questions/80014519/wraping-interp1d-into-call-makes-the-result-worse",
-      "published_at": "2026-11-03T23:13:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "scipy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Daniel Scholl"
     }
   ],
   "DevOps": [
@@ -2353,6 +2425,21 @@
       "user": "Mario Ezquerro"
     },
     {
+      "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
+      "url": "https://dev.to/gde/why-blocadd-isnt-what-you-think-synchronous-event-fast-paths-and-0ms-form-bindings-6o",
+      "published_at": "2026-10-25T23:44:27Z",
+      "description": "Why classic BLoC's StreamController forces an asynchronous microtask tax, how BlocSignal executes synchronous event handlers inline on the exact same call stack, and why this is the only way to build 120 FPS Generative UI form bindings.",
+      "tags": [
+        "flutter",
+        "dart",
+        "architecture",
+        "statemanagement"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwuehs85o3yn71ytprfk.png",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
       "url": "https://dev.to/gde/shipping-flutter-web-to-firebase-when-your-github-actions-budget-hits-zero-2mi5",
       "published_at": "2026-10-27T08:06:59Z",
@@ -2575,8 +2662,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 493,
       "user": "ashayas"
+    },
+    {
+      "title": "SESV2Client from AWS SES - no super call in its instantiation",
+      "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
+      "published_at": "2026-11-04T20:58:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "node.js",
+        "amazon-web-services"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jean-Bertho Almonord"
     },
     {
       "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
@@ -2639,21 +2740,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "url": "https://github.com/sqlpxc/airhand",
-      "published_at": "2026-10-31T13:33:04Z",
-      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
-      "source": "GitHub",
-      "stars": 315,
-      "user": "sqlpxc"
-    },
-    {
       "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
       "url": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
       "published_at": "2026-11-04T09:23:09.155-06:00",
@@ -2668,26 +2754,24 @@
       "user": "ohrv"
     },
     {
-      "title": "Swapping unique values in mongoose without swapping all properties",
-      "url": "https://stackoverflow.com/questions/80014074/swapping-unique-values-in-mongoose-without-swapping-all-properties",
-      "published_at": "2026-11-01T21:33:34.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Try/except failing to catch exceptions",
+      "url": "https://stackoverflow.com/questions/80014740/try-except-failing-to-catch-exceptions",
+      "published_at": "2026-11-04T18:43:28.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
-        "javascript",
-        "node.js",
-        "database",
-        "mongodb",
-        "mongoose"
+        "python",
+        "python-3.x",
+        "sqlalchemy"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "user33267884"
+      "user": "Philip Kearns"
     },
     {
       "title": "Python SQLModel FastAPI get 1 row with 2 connected table datas",
       "url": "https://stackoverflow.com/questions/80014652/python-sqlmodel-fastapi-get-1-row-with-2-connected-table-datas",
       "published_at": "2026-11-04T11:57:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
         "sqlalchemy",
@@ -2724,19 +2808,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Kamal Kishore"
-    },
-    {
-      "title": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
-      "url": "https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/",
-      "published_at": "2026-10-29T20:48:09.000Z",
-      "description": "The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface. We",
-      "tags": [
-        "mcp",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "Security": [
@@ -2917,6 +2988,19 @@
       "user": "Varcht"
     },
     {
+      "title": "Man-in-the-middle arbitrary code execution in Debian’s apt",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
+      "published_at": "2026-11-04T07:36:43.067-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "linux",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "gnyeki"
+    },
+    {
       "title": "Observations from Running stealmybitcoin.com",
       "url": "https://pavursec.com/blog/stealmybitcoin/",
       "published_at": "2026-11-03T17:45:21.591-06:00",
@@ -2946,25 +3030,27 @@
       "user": "Esh"
     },
     {
+      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+      "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
+      "published_at": "2026-11-04T20:36:57.000Z",
+      "description": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+      "tags": [
+        "Security",
+        "cybesecurity",
+        "dreamhost",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
       "url": "https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/",
       "published_at": "2026-10-29T21:00:09.000Z",
       "description": "Understanding how malicious actors infiltrate networks is the first step to building resilient infrastructure. To help developers and aspiring security analysts learn the fundamentals of offensive sec",
       "tags": [
         "penetration testing",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
-      "url": "https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/",
-      "published_at": "2026-10-29T20:48:09.000Z",
-      "description": "The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface. We",
-      "tags": [
-        "mcp",
         "youtube"
       ],
       "cover_image": null,
@@ -3111,7 +3197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "source": "GitHub",
-      "stars": 8341,
+      "stars": 8608,
       "user": "heydamir"
     },
     {
@@ -3126,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 4599,
+      "stars": 4681,
       "user": "patch-gg"
     },
     {
@@ -3141,7 +3227,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1856,
+      "stars": 1896,
       "user": "elvarofficial"
     },
     {
@@ -3156,7 +3242,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
       "source": "GitHub",
-      "stars": 1153,
+      "stars": 1171,
       "user": "NiazMorshed2007"
     },
     {
@@ -3186,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "source": "GitHub",
-      "stars": 3590,
+      "stars": 3619,
       "user": "BryceYuuu"
     },
     {
@@ -3201,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/272671295?v=4",
       "source": "GitHub",
-      "stars": 1570,
+      "stars": 1622,
       "user": "Pika-Labs"
     },
     {
@@ -3216,23 +3302,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 916,
       "user": "RikiyaT"
     },
     {
-      "title": "hyz317/HairDeck - HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "url": "https://github.com/hyz317/HairDeck",
-      "published_at": "2026-10-29T17:16:13Z",
-      "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "title": "JuneYaooo/rea-video - 逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
+      "url": "https://github.com/JuneYaooo/rea-video",
+      "published_at": "2026-10-29T16:15:01Z",
+      "description": "逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/22991464?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/60815510?v=4",
       "source": "GitHub",
-      "stars": 804,
-      "user": "hyz317"
+      "stars": 904,
+      "user": "JuneYaooo"
     },
     {
       "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
@@ -3246,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 745,
+      "stars": 819,
       "user": "N1nEmAn"
     },
     {
@@ -3280,6 +3366,21 @@
       "user": "Balanov"
     },
     {
+      "title": "protonversestudio/wow-forever-builds-kindred - Answer four questions and see which WoW Forever class fits how you play. Free Windows app.",
+      "url": "https://github.com/protonversestudio/wow-forever-builds-kindred",
+      "published_at": "2026-11-04T05:12:03Z",
+      "description": "Answer four questions and see which WoW Forever class fits how you play. Free Windows app.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317165393?v=4",
+      "source": "GitHub",
+      "stars": 283,
+      "user": "protonversestudio"
+    },
+    {
       "title": "Balanov/skein - Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
       "url": "https://github.com/Balanov/skein",
       "published_at": "2026-11-02T23:57:05Z",
@@ -3295,21 +3396,6 @@
       "user": "Balanov"
     },
     {
-      "title": "protonversestudio/wow-forever-builds-kindred - Answer four questions and see which WoW Forever class fits how you play. Free Windows app.",
-      "url": "https://github.com/protonversestudio/wow-forever-builds-kindred",
-      "published_at": "2026-11-04T05:12:03Z",
-      "description": "Answer four questions and see which WoW Forever class fits how you play. Free Windows app.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317165393?v=4",
-      "source": "GitHub",
-      "stars": 252,
-      "user": "protonversestudio"
-    },
-    {
       "title": "egoist/godraw - infinite canvas in mygo",
       "url": "https://github.com/egoist/godraw",
       "published_at": "2026-11-02T09:47:18Z",
@@ -3321,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 219,
+      "stars": 223,
       "user": "egoist"
     },
     {
@@ -3336,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18406,
+      "stars": 18516,
       "user": "deepseek-ai"
     },
     {
@@ -3351,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2327,
+      "stars": 2420,
       "user": "KKKKhazix"
     },
     {
@@ -3366,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1729,
+      "stars": 1740,
       "user": "caru-ini"
     },
     {
@@ -3381,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1450,
+      "stars": 1501,
       "user": "mromidev"
     },
     {
@@ -3396,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
       "source": "GitHub",
-      "stars": 658,
+      "stars": 672,
       "user": "rerun-build"
     },
     {
@@ -3411,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 10725,
+      "stars": 11464,
       "user": "storytold"
     },
     {
@@ -3426,23 +3512,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 493,
       "user": "ashayas"
     },
     {
-      "title": "ShineFinancialStrut/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
-      "url": "https://github.com/ShineFinancialStrut/game-server-route-racer",
-      "published_at": "2026-10-31T23:52:41Z",
-      "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+      "title": "s1dashu/quiet-md - Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML. 高性能本地笔记，兼容飞书文档格式。",
+      "url": "https://github.com/s1dashu/quiet-md",
+      "published_at": "2026-11-01T14:22:53Z",
+      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML. 高性能本地笔记，兼容飞书文档格式。",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316288945?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/129982137?v=4",
       "source": "GitHub",
-      "stars": 383,
-      "user": "ShineFinancialStrut"
+      "stars": 442,
+      "user": "s1dashu"
     },
     {
       "title": "DeltaProviderGuide/auto-auction-bot-wow-forever - A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
@@ -3456,23 +3542,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165231?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 400,
       "user": "DeltaProviderGuide"
     },
     {
-      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "url": "https://github.com/sqlpxc/airhand",
-      "published_at": "2026-10-31T13:33:04Z",
-      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "title": "StormSkinkGrip/game-ping-multipath-router - Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
+      "url": "https://github.com/StormSkinkGrip/game-ping-multipath-router",
+      "published_at": "2026-11-03T16:37:49Z",
+      "description": "Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/317165609?v=4",
       "source": "GitHub",
-      "stars": 315,
-      "user": "sqlpxc"
+      "stars": 328,
+      "user": "StormSkinkGrip"
+    },
+    {
+      "title": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "published_at": "2026-11-04T22:13:16.000Z",
+      "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "tags": [
+        "AI",
+        "Startups",
+        "AI hardware",
+        "hardware",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Introducing Socrates and the New freeCodeCamp Forum",
+      "url": "https://www.freecodecamp.org/news/introducing-socrates-and-the-new-freecodecamp-forum/",
+      "published_at": "2026-11-04T19:23:56.000Z",
+      "description": "freeCodeCamp just turned 12 years old. And so did our beloved forum. And today I'm thrilled to say that the forum is now focused on discussions rather than Q&A. This is thanks to Socrates, a new tool",
+      "tags": [
+        "freeCodeCamp.org",
+        "coding",
+        "learning"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Quincy Larson"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
@@ -3481,19 +3597,6 @@
       "description": "Understanding how malicious actors infiltrate networks is the first step to building resilient infrastructure. To help developers and aspiring security analysts learn the fundamentals of offensive sec",
       "tags": [
         "penetration testing",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
-      "url": "https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/",
-      "published_at": "2026-10-29T20:48:09.000Z",
-      "description": "The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface. We",
-      "tags": [
-        "mcp",
         "youtube"
       ],
       "cover_image": null,

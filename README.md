@@ -5,7 +5,7 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-183-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-7-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--11--04-orange?style=flat-square)
@@ -21,21 +21,12 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-11-04 19:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-11-05 0:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
-  <td align="center" width="33%">
-    <a href="https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9j2yyb098hr9vwiu2xyr.webp" width="200" alt="That's a Wrap on Hacktoberfest 2026! 🎃👻" />
-      <br/>
-      <b>That's a Wrap on Hacktoberfest 2026! 🎃👻</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/maame-codes/lets-see-where-you-code-147">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8w7rf58mqbwxnvnh2bqp.jpg" width="200" alt="Let's see where you code!" />
@@ -46,10 +37,19 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://blog.mlh.com/prompt-pad-what-is-open-source-23k6">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8cyh245tpbjsoz92g3u1.png" width="200" alt="Prompt Pad: What Is Open Source?" />
+    <a href="https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9j2yyb098hr9vwiu2xyr.webp" width="200" alt="That's a Wrap on Hacktoberfest 2026! 🎃👻" />
       <br/>
-      <b>Prompt Pad: What Is Open Source?</b>
+      <b>That's a Wrap on Hacktoberfest 2026! 🎃👻</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkx3vgfze743kv0yqvhud.png" width="200" alt="Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!" />
+      <br/>
+      <b>Join the Presage SmartSpectra SDK Challenge: $3,00...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -66,10 +66,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftorchtpu-dev%2Fmain%2Fdocs%2Ftorchtpu-native-rust%2Fdevto-cover.3ce8c43b.jpg" width="200" alt="Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP" />
+    <a href="https://blog.mlh.com/prompt-pad-what-is-open-source-23k6">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8cyh245tpbjsoz92g3u1.png" width="200" alt="Prompt Pad: What Is Open Source?" />
       <br/>
-      <b>Gemma 4 in Rust on TorchTPU: A Native TPU Rig With...</b>
+      <b>Prompt Pad: What Is Open Source?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -92,11 +92,11 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [That's a Wrap on Hacktoberfest 2026! 🎃👻](https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k) | Dev.to |
-| 2 | [Let's see where you code!](https://dev.to/maame-codes/lets-see-where-you-code-147) | Dev.to |
-| 3 | [Prompt Pad: What Is Open Source?](https://blog.mlh.com/prompt-pad-what-is-open-source-23k6) | Dev.to |
+| 1 | [Let's see where you code!](https://dev.to/maame-codes/lets-see-where-you-code-147) | Dev.to |
+| 2 | [That's a Wrap on Hacktoberfest 2026! 🎃👻](https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k) | Dev.to |
+| 3 | [Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!](https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370) | Dev.to |
 | 4 | [Welcome Thread - v400](https://dev.to/sloan/welcome-thread-v400-2e8m) | Dev.to |
-| 5 | [Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP](https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1) | Dev.to |
+| 5 | [Prompt Pad: What Is Open Source?](https://blog.mlh.com/prompt-pad-what-is-open-source-23k6) | Dev.to |
 | 6 | [Prompt Pad: Frame Your Persona for Better AI Answers](https://blog.mlh.com/prompt-pad-frame-your-persona-for-better-ai-answers-eg3) | Dev.to |
 | 7 | [Prompt Pad: Lock Your AI's Output Schema in Google AI Studio](https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io) | Dev.to |
 | 8 | [Gemma 4 in Rust on TorchTPU: Hands On With Colab](https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi) | Dev.to |
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner](https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740) | Dev.to |
 | 20 | [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn) | Dev.to |
 
-<sub>Last fetched: Wed, 04 Nov 2026 19:12:58 CAT</sub>
+<sub>Last fetched: Thu, 05 Nov 2026 00:41:38 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Explain database indexing and when to use it**
+**1. `React` — How would you optimize a React app's performance?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 optimization, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> React.memo, useMemo, useCallback, code splitting, lazy loading
 
 </details>
 
-**2. `Database` — Design a database schema for a social media platform**
+**2. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Users, posts, relationships, indexes, partitioning
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
-**3. `DataStructures` — Implement LRU Cache**
+**3. `Database` — What is the difference between SQL and NoSQL databases?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, hash map, linked list
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 databases, design
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Doubly linked list + hash map, O(1) operations
+> Schema, scalability, ACID vs BASE
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 75 | 41.0% | `████████████████████` |
-| **Tools** | 36 | 19.7% | `██████████░░░░░░░░░░` |
-| **JavaScript** | 35 | 19.1% | `█████████░░░░░░░░░░░` |
-| **Python** | 27 | 14.8% | `███████░░░░░░░░░░░░░` |
+| **AI** | 79 | 42.9% | `████████████████████` |
+| **Tools** | 37 | 20.1% | `█████████░░░░░░░░░░░` |
+| **JavaScript** | 35 | 19.0% | `█████████░░░░░░░░░░░` |
+| **Python** | 28 | 15.2% | `███████░░░░░░░░░░░░░` |
+| **Security** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **Security** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **Cloud** | 12 | 6.6% | `███░░░░░░░░░░░░░░░░░` |
+| **Cloud** | 13 | 7.1% | `███░░░░░░░░░░░░░░░░░` |
 | **WebDev** | 11 | 6.0% | `███░░░░░░░░░░░░░░░░░` |
-| **Database** | 10 | 5.5% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -186,7 +186,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | HackerNews | 49 |
 | GitHub | 25 |
 | Lobste.rs | 10 |
-| StackOverflow | 19 |
+| StackOverflow | 20 |
 | TechCrunch | 10 |
 | freeCodeCamp | 10 |
 
@@ -194,21 +194,21 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.5%
-JavaScript      ██████████████████████████████ 25.5%
-Python          ██████████████████████ 19.0%
-Java            █████████████████████ 18.2%
-Rust            ██████████ 8.8%
-Swift           ███ 2.2%
+Go              ██████████████████████████████ 26.4%
+JavaScript      ████████████████████████████ 25.0%
+Python          ██████████████████████ 19.3%
+Java            ████████████████████ 17.9%
+Rust            ██████████ 8.6%
+Swift           ██ 2.1%
 PHP             █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 35
+    "Go" : 37
     "JavaScript" : 35
-    "Python" : 26
+    "Python" : 27
     "Java" : 25
     "Rust" : 12
     "Swift" : 3
@@ -218,7 +218,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-40-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-25-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-25-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-10-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-10-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-10-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-7-0969da?style=flat-square) ![community](https://img.shields.io/badge/community-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-43-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-25-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-11-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-9-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-9-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-8-0969da?style=flat-square) ![hf26challenge](https://img.shields.io/badge/hf26challenge-6-0969da?style=flat-square) 
 
 
 ---
@@ -270,6 +270,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Wed, 04 Nov 2026 17:12:58 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Wed, 04 Nov 2026 22:41:38 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
