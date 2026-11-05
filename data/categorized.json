@@ -1,6 +1,35 @@
 {
   "AI": [
     {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg",
+      "published_at": "2026-11-04T15:23:31Z",
+      "description": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
+      "tags": [
+        "angular",
+        "firebase",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
+      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
+      "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72",
+      "published_at": "2026-11-04T22:49:08Z",
+      "description": "Gemma 4 E2B served three ways on one Cloud TPU v5e chip: a pure-JAX engine in Python, the same graph written in Rust and compiled by the libtpu that JAX loads, and vLLM, all timed by one client. bf16 beats 4-bit in the JAX engine, the Rust engine matches the JAX engine's tokens, and over HTTP it decodes at vLLM's rate with the fastest first token.",
+      "tags": [
+        "jax",
+        "tpu",
+        "gemma",
+        "rust"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fjax-dev%2Fmain%2Farticle%2Fdevto-cover.3c49df33.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
       "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k",
       "published_at": "2026-11-03T22:28:08Z",
@@ -14,6 +43,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9j2yyb098hr9vwiu2xyr.webp",
       "source": "Dev.to",
       "user": "Noah Brinker"
+    },
+    {
+      "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
+      "url": "https://dev.to/gde/leveling-the-playing-field-building-a-100-offline-kubernetes-docs-rag-exam-assistant-with-web-ai-53bi",
+      "published_at": "2026-11-04T13:56:06Z",
+      "description": "How to enable fair, zero-cost, air-gapped AI assistance in technical classrooms and...",
+      "tags": [
+        "webai",
+        "gemma",
+        "rag",
+        "webgpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2vofw4x97oncddtys1y7.png",
+      "source": "Dev.to",
+      "user": "Cyrus Wong"
     },
     {
       "title": "Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!",
@@ -46,6 +90,36 @@
       "user": "MLH Team"
     },
     {
+      "title": "The A2A CLI and Rust: The Same Code, Three Ways to Serve It",
+      "url": "https://dev.to/gde/the-a2a-cli-and-rust-the-same-code-three-ways-to-serve-it-4el0",
+      "published_at": "2026-11-04T01:04:48Z",
+      "description": "A tour of the A2A CLI against Rust agents on A2A v1.0: the official Rust SDK, a plain stdin/stdout program wrapped by a2a server --exec, and an ADK coordinator on Gemini, each timed from the CLI and from a Rust client.",
+      "tags": [
+        "rust",
+        "a2a",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Frust-dev%2Fmain%2Fa2a-benchmark-rust%2Fdocs%2Fa2a-cli-rust%2Fdevto-cover.dbab2d14.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "What I Learned Managing a Full Project with Antigravity",
+      "url": "https://dev.to/gde/what-i-learned-managing-a-full-project-with-antigravity-1ppc",
+      "published_at": "2026-11-03T21:39:03Z",
+      "description": "How my workflow evolved from solo prompting in AI Studio to managing a multi-model AI team, running...",
+      "tags": [
+        "antigravity",
+        "gemini",
+        "ai",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3we6kl95okn3atgkn9wg.jpg",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
+    },
+    {
       "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
       "url": "https://blog.mlh.com/prompt-pad-frame-your-persona-for-better-ai-answers-eg3",
       "published_at": "2026-11-02T20:09:37Z",
@@ -61,6 +135,21 @@
       "user": "MLH Team"
     },
     {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-2-signal-forms-3ll9",
+      "published_at": "2026-11-04T02:48:43Z",
+      "description": "In this blog post, we build a Sign-In modal component (SignInModalComponent) using the stable Angular...",
+      "tags": [
+        "angular",
+        "firebase",
+        "authentication",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fynhzdcvy5xv9tq0c27kb.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
       "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io",
       "published_at": "2026-11-03T14:00:00Z",
@@ -74,6 +163,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk4s78yb3dgm2xz85byoo.png",
       "source": "Dev.to",
       "user": "MLH Team"
+    },
+    {
+      "title": "The Postcard That Ate Six Grammars: 1980 Smalltalk-80, 1976 Make, TDD, and the Four Attractors of Agentic Coding",
+      "url": "https://dev.to/gde/the-postcard-that-ate-six-grammars-1980-smalltalk-80-1976-make-tdd-and-the-four-attractors-of-45me",
+      "published_at": "2026-11-03T02:41:46Z",
+      "description": "Why maintaining six separate parsers for Make, Gherkin, EBNF, DOT, SysV, and prompt checklists collapsed into a single Smalltalk-80 keyword cascade—and how 40-year-old Xerox PARC technology gave AI coding agents mathematical zero-amnesia.",
+      "tags": [
+        "ai",
+        "architecture",
+        "smalltalk",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5gl4u3vgt6joi8tfi99i.jpg",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
@@ -150,6 +254,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "How to Build Your Own Google Antigravity Plugin: Packaging Skills, MCP Servers, Subagents, Rules, and Hooks",
+      "url": "https://dev.to/gde/how-to-build-your-own-google-antigravity-plugin-packaging-skills-mcp-servers-subagents-rules-23p9",
+      "published_at": "2026-11-03T15:24:30Z",
+      "description": "A practical, step-by-step engineering guide to packaging team workflows, MCP tools, custom agents, and deterministic guardrails into a single versioned Antigravity plugin.",
+      "tags": [
+        "antigravity",
+        "ai",
+        "googlecloud",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzxqoxai889zaalm2asa7.png",
+      "source": "Dev.to",
+      "user": "Carlos Barbero"
+    },
+    {
       "title": "Singularity News :: CCG",
       "url": "https://dev.to/pengeszikra/singularity-news-ccg-5ejk",
       "published_at": "2026-10-31T02:18:22Z",
@@ -208,81 +327,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftorchtpu-dev%2Fmain%2Fdocs%2Ftorchtpu-native-rust%2Fdevto-cover.3ce8c43b.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
-      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
-      "published_at": "2026-10-31T23:02:02Z",
-      "description": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
-      "tags": [
-        "ai",
-        "devtools",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fskill-drift%2Fcover.0c041943.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
-      "url": "https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig",
-      "published_at": "2026-11-01T19:01:20Z",
-      "description": "The incident that never shows up in your deploy log   Here is a scenario that's easy to...",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "agents",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmsiafz9fl8c4y4ife411.jpg",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
-    },
-    {
-      "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
-      "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02",
-      "published_at": "2026-10-16T05:36:01Z",
-      "description": "How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTelemetry/Prometheus observability stack for Oracle Databases and Linux SAN storage.",
-      "tags": [
-        "oracle",
-        "go",
-        "opentelemetry",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj97kx6j7qepsx21z63a4.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
-      "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
-      "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa",
-      "published_at": "2026-10-25T10:05:18Z",
-      "description": "Recap: The Five-Stage Evolution from Local Prototype to Cloud Production-Grade AI...",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv2t6rjorp8m7bmqbf03q.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?",
-      "url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l",
-      "published_at": "2026-10-24T16:27:19Z",
-      "description": "Picture this.  It's a few weeks from now. GPT-6 goes GA on Google Cloud. Five teams in your company...",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "finops",
-        "openai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flk8saxwe44um1cwcr17v.png",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
     },
     {
       "title": "Welcome to the Prompt Pad: AI Tips & Tricks with Rosendo Pili",
@@ -708,64 +752,19 @@
       "user": "caseyf7"
     },
     {
-      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "url": "https://github.com/heydamir/unslop",
-      "published_at": "2026-10-29T15:41:21Z",
-      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "title": "UncensoredLabs/uncensored-ai-api - Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+      "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+      "published_at": "2026-11-01T20:53:34Z",
+      "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 8608,
-      "user": "heydamir"
-    },
-    {
-      "title": "sleepy-zone/ai-ref-library-cn - AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-      "published_at": "2026-10-29T15:28:16Z",
-      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131369648?v=4",
-      "source": "GitHub",
-      "stars": 715,
-      "user": "sleepy-zone"
-    },
-    {
-      "title": "RikiyaT/lm_understand-logs - Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-      "url": "https://github.com/RikiyaT/lm_understand-logs",
-      "published_at": "2026-10-29T04:17:30Z",
-      "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
-      "source": "GitHub",
-      "stars": 916,
-      "user": "RikiyaT"
-    },
-    {
-      "title": "JuneYaooo/rea-video - 逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
-      "url": "https://github.com/JuneYaooo/rea-video",
-      "published_at": "2026-10-29T16:15:01Z",
-      "description": "逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60815510?v=4",
-      "source": "GitHub",
-      "stars": 904,
-      "user": "JuneYaooo"
+      "stars": 702,
+      "user": "UncensoredLabs"
     },
     {
       "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
@@ -779,8 +778,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 887,
       "user": "N1nEmAn"
+    },
+    {
+      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "published_at": "2026-11-04T14:54:56Z",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
+      "source": "GitHub",
+      "stars": 721,
+      "user": "worldonlyu"
+    },
+    {
+      "title": "smarkyie/NSP-Box - NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "url": "https://github.com/smarkyie/NSP-Box",
+      "published_at": "2026-10-31T15:00:55Z",
+      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
+      "source": "GitHub",
+      "stars": 462,
+      "user": "smarkyie"
     },
     {
       "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
@@ -794,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 601,
       "user": "Balanov"
     },
     {
@@ -809,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 452,
       "user": "Balanov"
     },
     {
@@ -824,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 264,
       "user": "Balanov"
     },
     {
@@ -839,23 +868,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18516,
+      "stars": 18690,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "rerun-build/rerun - AI coworkers that run your work. Self-hostable, AGPL-3.0.",
-      "url": "https://github.com/rerun-build/rerun",
-      "published_at": "2026-10-29T16:09:54Z",
-      "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
-      "source": "GitHub",
-      "stars": 672,
-      "user": "rerun-build"
     },
     {
       "title": "StormSkinkGrip/game-ping-multipath-router - Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
@@ -869,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165609?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 337,
       "user": "StormSkinkGrip"
     },
     {
@@ -905,7 +919,7 @@
       "title": "How can I sum elements of a tensor based on a condition of one out of two values in its index pair into a new tensor using the pytorch package?",
       "url": "https://stackoverflow.com/questions/80014777/how-can-i-sum-elements-of-a-tensor-based-on-a-condition-of-one-out-of-two-values",
       "published_at": "2026-11-04T22:02:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "pytorch",
@@ -941,6 +955,49 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "VPSTTT"
+    },
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "published_at": "2026-11-05T01:26:22.000Z",
+      "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "tags": [
+        "AI",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "published_at": "2026-11-05T01:02:14.000Z",
+      "description": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "data centers"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "published_at": "2026-11-04T22:45:09.000Z",
+      "description": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "election",
+        "guardrails alliance",
+        "leading the future"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     },
     {
       "title": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
@@ -1051,35 +1108,6 @@
       "user": "Theresa Loconsolo"
     },
     {
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google&#8217;s AI policy",
-      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "published_at": "2026-11-04T19:29:52.000Z",
-      "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "tags": [
-        "AI",
-        "DuckDuckGo",
-        "Google",
-        "search engines"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "&#8216;You Can See Everything&#8217; is getting an outer space release and it hasn&#8217;t even come out in Europe yet",
-      "url": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
-      "published_at": "2026-11-04T18:10:11.000Z",
-      "description": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low Earth orbit than in London.",
-      "tags": [
-        "Media & Entertainment",
-        "elizabeth holmes",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
       "url": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
       "published_at": "2026-11-03T19:00:29.000Z",
@@ -1141,6 +1169,35 @@
     }
   ],
   "JavaScript": [
+    {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg",
+      "published_at": "2026-11-04T15:23:31Z",
+      "description": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
+      "tags": [
+        "angular",
+        "firebase",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-2-signal-forms-3ll9",
+      "published_at": "2026-11-04T02:48:43Z",
+      "description": "In this blog post, we build a Sign-In modal component (SignInModalComponent) using the stable Angular...",
+      "tags": [
+        "angular",
+        "firebase",
+        "authentication",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fynhzdcvy5xv9tq0c27kb.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
     {
       "title": "From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]",
       "url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg",
@@ -1306,21 +1363,6 @@
       "user": "velmu"
     },
     {
-      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "url": "https://github.com/heydamir/unslop",
-      "published_at": "2026-10-29T15:41:21Z",
-      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
-      "source": "GitHub",
-      "stars": 8608,
-      "user": "heydamir"
-    },
-    {
       "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "url": "https://github.com/patch-gg/pixelfx",
       "published_at": "2026-10-30T06:43:25Z",
@@ -1332,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 4681,
+      "stars": 4782,
       "user": "patch-gg"
     },
     {
@@ -1347,38 +1389,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1896,
+      "stars": 1929,
       "user": "elvarofficial"
     },
     {
-      "title": "NiazMorshed2007/reanimate - A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
-      "url": "https://github.com/NiazMorshed2007/reanimate",
-      "published_at": "2026-10-29T06:20:59Z",
-      "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+      "title": "UncensoredLabs/uncensored-ai-api - Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+      "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+      "published_at": "2026-11-01T20:53:34Z",
+      "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 1171,
-      "user": "NiazMorshed2007"
+      "stars": 702,
+      "user": "UncensoredLabs"
     },
     {
-      "title": "sleepy-zone/ai-ref-library-cn - AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-      "published_at": "2026-10-29T15:28:16Z",
-      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "title": "brightsongwrath/personal-data-deletor-osint - Ask 970 data brokers to delete your data. Free, local, no account, no server.",
+      "url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
+      "published_at": "2026-11-03T16:47:18Z",
+      "description": "Ask 970 data brokers to delete your data. Free, local, no account, no server.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131369648?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/317165612?v=4",
       "source": "GitHub",
-      "stars": 715,
-      "user": "sleepy-zone"
+      "stars": 587,
+      "user": "brightsongwrath"
+    },
+    {
+      "title": "Gezine/CivSwitch - Nintendo Switch userland code execution using Civilization 7 game cartridge",
+      "url": "https://github.com/Gezine/CivSwitch",
+      "published_at": "2026-11-01T13:30:59Z",
+      "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
+      "source": "GitHub",
+      "stars": 584,
+      "user": "Gezine"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -1392,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18516,
+      "stars": 18690,
       "user": "deepseek-ai"
     },
     {
@@ -1407,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2420,
+      "stars": 2659,
       "user": "KKKKhazix"
     },
     {
@@ -1422,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1740,
+      "stars": 1763,
       "user": "caru-ini"
     },
     {
@@ -1437,23 +1494,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1501,
+      "stars": 1538,
       "user": "mromidev"
     },
     {
-      "title": "rerun-build/rerun - AI coworkers that run your work. Self-hostable, AGPL-3.0.",
-      "url": "https://github.com/rerun-build/rerun",
-      "published_at": "2026-10-29T16:09:54Z",
-      "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+      "title": "Minireel/HGhub - YellowFruit third-party client",
+      "url": "https://github.com/Minireel/HGhub",
+      "published_at": "2026-11-03T14:04:27Z",
+      "description": "YellowFruit third-party client",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 672,
-      "user": "rerun-build"
+      "stars": 783,
+      "user": "Minireel"
     },
     {
       "title": "A new Go API for JSON",
@@ -1468,10 +1525,26 @@
       "user": "binjip978"
     },
     {
+      "title": "Confirmit respondent data fetch erroring out in Forsta",
+      "url": "https://stackoverflow.com/questions/80014785/confirmit-respondent-data-fetch-erroring-out-in-forsta",
+      "published_at": "2026-11-04T23:20:16.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "jquery",
+        "asp.net",
+        ".net",
+        "jscript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rick"
+    },
+    {
       "title": "bug between v10.7 and v10.8 and later",
       "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
       "published_at": "2026-11-04T22:00:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "javascript",
         "openlayers"
@@ -1484,7 +1557,7 @@
       "title": "SESV2Client from AWS SES - no super call in its instantiation",
       "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
       "published_at": "2026-11-04T20:58:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "node.js",
@@ -1518,6 +1591,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Choi Soobin"
+    },
+    {
+      "title": "Unusual syntax for declaring or extending a class - how does this work?",
+      "url": "https://stackoverflow.com/questions/80014338/unusual-syntax-for-declaring-or-extending-a-class-how-does-this-work",
+      "published_at": "2026-11-03T02:04:03.000Z",
+      "description": "Stack Overflow question · 2 answers · score 6",
+      "tags": [
+        "javascript",
+        "class"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Manngo"
     },
     {
       "title": "How to have JavaScript send an email after form submit",
@@ -1564,19 +1650,6 @@
       "user": "Eireni &#39;Fikia&#39; Moutoussi"
     },
     {
-      "title": "Unusual syntax for declaring or extending a class - how does this work?",
-      "url": "https://stackoverflow.com/questions/80014338/unusual-syntax-for-declaring-or-extending-a-class-how-does-this-work",
-      "published_at": "2026-11-03T02:04:03.000Z",
-      "description": "Stack Overflow question · 2 answers · score 6",
-      "tags": [
-        "javascript",
-        "class"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Manngo"
-    },
-    {
       "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
       "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
       "published_at": "2026-11-01T04:11:32.000Z",
@@ -1589,22 +1662,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mith sams"
-    },
-    {
-      "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
-      "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
-      "published_at": "2026-10-30T23:01:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "cloud",
-        "speech-recognition",
-        "local",
-        "webspeech-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeff Baker"
     },
     {
       "title": "I am trying to add authenication to my react, fastapi app. How do i implement JWT authenication?",
@@ -1624,6 +1681,21 @@
     }
   ],
   "Python": [
+    {
+      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
+      "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72",
+      "published_at": "2026-11-04T22:49:08Z",
+      "description": "Gemma 4 E2B served three ways on one Cloud TPU v5e chip: a pure-JAX engine in Python, the same graph written in Rust and compiled by the libtpu that JAX loads, and vLLM, all timed by one client. bf16 beats 4-bit in the JAX engine, the Rust engine matches the JAX engine's tokens, and over HTTP it decodes at vLLM's rate with the fastest first token.",
+      "tags": [
+        "jax",
+        "tpu",
+        "gemma",
+        "rust"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fjax-dev%2Fmain%2Farticle%2Fdevto-cover.3c49df33.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
     {
       "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
       "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi",
@@ -1775,64 +1847,19 @@
       "user": "arathore"
     },
     {
-      "title": "BryceYuuu/RUN - RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-      "url": "https://github.com/BryceYuuu/RUN",
-      "published_at": "2026-10-29T11:28:43Z",
-      "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "title": "UncensoredLabs/uncensored-ai-api - Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+      "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+      "published_at": "2026-11-01T20:53:34Z",
+      "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 3619,
-      "user": "BryceYuuu"
-    },
-    {
-      "title": "Pika-Labs/Pika-H3-Flex - Pika H3 Flex: video and audio generation inference",
-      "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
-      "published_at": "2026-10-29T17:08:59Z",
-      "description": "Pika H3 Flex: video and audio generation inference",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272671295?v=4",
-      "source": "GitHub",
-      "stars": 1622,
-      "user": "Pika-Labs"
-    },
-    {
-      "title": "RikiyaT/lm_understand-logs - Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-      "url": "https://github.com/RikiyaT/lm_understand-logs",
-      "published_at": "2026-10-29T04:17:30Z",
-      "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
-      "source": "GitHub",
-      "stars": 916,
-      "user": "RikiyaT"
-    },
-    {
-      "title": "JuneYaooo/rea-video - 逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
-      "url": "https://github.com/JuneYaooo/rea-video",
-      "published_at": "2026-10-29T16:15:01Z",
-      "description": "逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60815510?v=4",
-      "source": "GitHub",
-      "stars": 904,
-      "user": "JuneYaooo"
+      "stars": 702,
+      "user": "UncensoredLabs"
     },
     {
       "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
@@ -1846,8 +1873,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 887,
       "user": "N1nEmAn"
+    },
+    {
+      "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "published_at": "2026-11-02T00:40:47Z",
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
+      "source": "GitHub",
+      "stars": 756,
+      "user": "AssassinCreator"
+    },
+    {
+      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "published_at": "2026-11-04T14:54:56Z",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
+      "source": "GitHub",
+      "stars": 721,
+      "user": "worldonlyu"
+    },
+    {
+      "title": "ramenvr/autopilot - Play any game",
+      "url": "https://github.com/ramenvr/autopilot",
+      "published_at": "2026-10-30T03:47:28Z",
+      "description": "Play any game",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
+      "source": "GitHub",
+      "stars": 716,
+      "user": "ramenvr"
+    },
+    {
+      "title": "smarkyie/NSP-Box - NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "url": "https://github.com/smarkyie/NSP-Box",
+      "published_at": "2026-10-31T15:00:55Z",
+      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
+      "source": "GitHub",
+      "stars": 462,
+      "user": "smarkyie"
     },
     {
       "title": "How to have JavaScript send an email after form submit",
@@ -1868,7 +1955,7 @@
       "title": "How can I sum elements of a tensor based on a condition of one out of two values in its index pair into a new tensor using the pytorch package?",
       "url": "https://stackoverflow.com/questions/80014777/how-can-i-sum-elements-of-a-tensor-based-on-a-condition-of-one-out-of-two-values",
       "published_at": "2026-11-04T22:02:58.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "pytorch",
@@ -1882,7 +1969,7 @@
       "title": "How to use Ellipsis as function argument default",
       "url": "https://stackoverflow.com/questions/80014764/how-to-use-ellipsis-as-function-argument-default",
       "published_at": "2026-11-04T20:52:53.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 2 answers · score -2",
       "tags": [
         "python",
         "python-typing",
@@ -1893,10 +1980,10 @@
       "user": "JadenV15"
     },
     {
-      "title": "Is there an equivalent to `__import__` but for lazy imports?",
+      "title": "Is there an equivalent to __import__ but for lazy imports?",
       "url": "https://stackoverflow.com/questions/80014774/is-there-an-equivalent-to-import-but-for-lazy-imports",
       "published_at": "2026-11-04T21:48:29.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "python-import"
@@ -1994,7 +2081,7 @@
       "title": "How can Python be used to automate technical drawing documentation?",
       "url": "https://stackoverflow.com/questions/80014647/how-can-python-be-used-to-automate-technical-drawing-documentation",
       "published_at": "2026-11-04T11:44:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "python",
         "automation",
@@ -2006,6 +2093,21 @@
     }
   ],
   "DevOps": [
+    {
+      "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
+      "url": "https://dev.to/gde/leveling-the-playing-field-building-a-100-offline-kubernetes-docs-rag-exam-assistant-with-web-ai-53bi",
+      "published_at": "2026-11-04T13:56:06Z",
+      "description": "How to enable fair, zero-cost, air-gapped AI assistance in technical classrooms and...",
+      "tags": [
+        "webai",
+        "gemma",
+        "rag",
+        "webgpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2vofw4x97oncddtys1y7.png",
+      "source": "Dev.to",
+      "user": "Cyrus Wong"
+    },
     {
       "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
       "url": "https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k",
@@ -2020,36 +2122,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Frackdoc%2Fmain%2Fdocs%2Frackdoc_v1_1_screenshot.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
-      "url": "https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig",
-      "published_at": "2026-11-01T19:01:20Z",
-      "description": "The incident that never shows up in your deploy log   Here is a scenario that's easy to...",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "agents",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmsiafz9fl8c4y4ife411.jpg",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
-    },
-    {
-      "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
-      "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa",
-      "published_at": "2026-10-25T10:05:18Z",
-      "description": "Recap: The Five-Stage Evolution from Local Prototype to Cloud Production-Grade AI...",
-      "tags": [
-        "ai",
-        "cloud",
-        "devops",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv2t6rjorp8m7bmqbf03q.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
     },
     {
       "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
@@ -2516,64 +2588,34 @@
       "user": "Maame Afua A. P. Fordjour "
     },
     {
-      "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
-      "url": "https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig",
-      "published_at": "2026-11-01T19:01:20Z",
-      "description": "The incident that never shows up in your deploy log   Here is a scenario that's easy to...",
+      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
+      "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72",
+      "published_at": "2026-11-04T22:49:08Z",
+      "description": "Gemma 4 E2B served three ways on one Cloud TPU v5e chip: a pure-JAX engine in Python, the same graph written in Rust and compiled by the libtpu that JAX loads, and vLLM, all timed by one client. bf16 beats 4-bit in the JAX engine, the Rust engine matches the JAX engine's tokens, and over HTTP it decodes at vLLM's rate with the fastest first token.",
       "tags": [
-        "googlecloud",
-        "ai",
-        "agents",
-        "devops"
+        "jax",
+        "tpu",
+        "gemma",
+        "rust"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmsiafz9fl8c4y4ife411.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fjax-dev%2Fmain%2Farticle%2Fdevto-cover.3c49df33.jpg",
       "source": "Dev.to",
-      "user": "Karthigayan Devan"
+      "user": "xbill"
     },
     {
-      "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
-      "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa",
-      "published_at": "2026-10-25T10:05:18Z",
-      "description": "Recap: The Five-Stage Evolution from Local Prototype to Cloud Production-Grade AI...",
+      "title": "How to Build Your Own Google Antigravity Plugin: Packaging Skills, MCP Servers, Subagents, Rules, and Hooks",
+      "url": "https://dev.to/gde/how-to-build-your-own-google-antigravity-plugin-packaging-skills-mcp-servers-subagents-rules-23p9",
+      "published_at": "2026-11-03T15:24:30Z",
+      "description": "A practical, step-by-step engineering guide to packaging team workflows, MCP tools, custom agents, and deterministic guardrails into a single versioned Antigravity plugin.",
       "tags": [
+        "antigravity",
         "ai",
-        "cloud",
-        "devops",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv2t6rjorp8m7bmqbf03q.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
-      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
-      "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a",
-      "published_at": "2026-10-15T16:38:38Z",
-      "description": "Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measured, and what I learned.",
-      "tags": [
-        "duckdb",
         "googlecloud",
-        "dataengineering",
-        "opensource"
+        "devtools"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Ftosun-si%2Fduckless%2Fmain%2Fassets%2Fbrand%2Fduckless-social.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzxqoxai889zaalm2asa7.png",
       "source": "Dev.to",
-      "user": "Mazlum Tosun"
-    },
-    {
-      "title": "GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?",
-      "url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l",
-      "published_at": "2026-10-24T16:27:19Z",
-      "description": "Picture this.  It's a few weeks from now. GPT-6 goes GA on Google Cloud. Five teams in your company...",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "finops",
-        "openai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flk8saxwe44um1cwcr17v.png",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
+      "user": "Carlos Barbero"
     },
     {
       "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
@@ -2662,14 +2704,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 493,
+      "stars": 494,
       "user": "ashayas"
     },
     {
       "title": "SESV2Client from AWS SES - no super call in its instantiation",
       "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
       "published_at": "2026-11-04T20:58:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "javascript",
         "node.js",
@@ -2678,40 +2720,9 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jean-Bertho Almonord"
-    },
-    {
-      "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
-      "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
-      "published_at": "2026-10-30T23:01:14.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "javascript",
-        "cloud",
-        "speech-recognition",
-        "local",
-        "webspeech-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeff Baker"
     }
   ],
   "Database": [
-    {
-      "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
-      "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02",
-      "published_at": "2026-10-16T05:36:01Z",
-      "description": "How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTelemetry/Prometheus observability stack for Oracle Databases and Linux SAN storage.",
-      "tags": [
-        "oracle",
-        "go",
-        "opentelemetry",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj97kx6j7qepsx21z63a4.jpg",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
     {
       "title": "Cómo construí ora-tui: Un gestor en consola (TUI) en Go sin dependencias para Oracle RAC y Single Instance",
       "url": "https://dev.to/gde/como-construi-ora-tui-un-gestor-en-consola-tui-en-go-sin-dependencias-para-oracle-rac-y-single-1gc5",
@@ -2811,6 +2822,35 @@
     }
   ],
   "Security": [
+    {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg",
+      "published_at": "2026-11-04T15:23:31Z",
+      "description": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
+      "tags": [
+        "angular",
+        "firebase",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-2-signal-forms-3ll9",
+      "published_at": "2026-11-04T02:48:43Z",
+      "description": "In this blog post, we build a Sign-In modal component (SignInModalComponent) using the stable Angular...",
+      "tags": [
+        "angular",
+        "firebase",
+        "authentication",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fynhzdcvy5xv9tq0c27kb.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
     {
       "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
       "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm",
@@ -3001,19 +3041,6 @@
       "user": "gnyeki"
     },
     {
-      "title": "Observations from Running stealmybitcoin.com",
-      "url": "https://pavursec.com/blog/stealmybitcoin/",
-      "published_at": "2026-11-03T17:45:21.591-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "php",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "wezm"
-    },
-    {
       "title": "I am trying to add authenication to my react, fastapi app. How do i implement JWT authenication?",
       "url": "https://stackoverflow.com/questions/80014646/i-am-trying-to-add-authenication-to-my-react-fastapi-app-how-do-i-implement-jw",
       "published_at": "2026-11-04T11:44:10.000Z",
@@ -3043,6 +3070,22 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
+    },
+    {
+      "title": "What a CAPTCHA Farm Attack Actually Looks Like",
+      "url": "https://www.freecodecamp.org/news/captcha-farm-attack/",
+      "published_at": "2026-11-04T21:32:45.000Z",
+      "description": "CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r",
+      "tags": [
+        "cybersecurity",
+        "captcha",
+        "Web Security",
+        "Ethical Hacking",
+        "internet security"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Reetain Raina"
     },
     {
       "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
@@ -3075,19 +3118,19 @@
       "user": "xbill"
     },
     {
-      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
-      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
-      "published_at": "2026-10-31T23:02:02Z",
-      "description": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
+      "title": "How to Build Your Own Google Antigravity Plugin: Packaging Skills, MCP Servers, Subagents, Rules, and Hooks",
+      "url": "https://dev.to/gde/how-to-build-your-own-google-antigravity-plugin-packaging-skills-mcp-servers-subagents-rules-23p9",
+      "published_at": "2026-11-03T15:24:30Z",
+      "description": "A practical, step-by-step engineering guide to packaging team workflows, MCP tools, custom agents, and deterministic guardrails into a single versioned Antigravity plugin.",
       "tags": [
+        "antigravity",
         "ai",
-        "devtools",
-        "productivity",
-        "opensource"
+        "googlecloud",
+        "devtools"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fskill-drift%2Fcover.0c041943.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzxqoxai889zaalm2asa7.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Carlos Barbero"
     },
     {
       "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
@@ -3186,21 +3229,6 @@
       "user": "pabs3"
     },
     {
-      "title": "heydamir/unslop - A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "url": "https://github.com/heydamir/unslop",
-      "published_at": "2026-10-29T15:41:21Z",
-      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/97800728?v=4",
-      "source": "GitHub",
-      "stars": 8608,
-      "user": "heydamir"
-    },
-    {
       "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "url": "https://github.com/patch-gg/pixelfx",
       "published_at": "2026-10-30T06:43:25Z",
@@ -3212,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 4681,
+      "stars": 4782,
       "user": "patch-gg"
     },
     {
@@ -3227,98 +3255,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1896,
+      "stars": 1929,
       "user": "elvarofficial"
     },
     {
-      "title": "NiazMorshed2007/reanimate - A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
-      "url": "https://github.com/NiazMorshed2007/reanimate",
-      "published_at": "2026-10-29T06:20:59Z",
-      "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+      "title": "UncensoredLabs/uncensored-ai-api - Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+      "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+      "published_at": "2026-11-01T20:53:34Z",
+      "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/77217706?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 1171,
-      "user": "NiazMorshed2007"
+      "stars": 702,
+      "user": "UncensoredLabs"
     },
     {
-      "title": "sleepy-zone/ai-ref-library-cn - AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-      "published_at": "2026-10-29T15:28:16Z",
-      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "title": "brightsongwrath/personal-data-deletor-osint - Ask 970 data brokers to delete your data. Free, local, no account, no server.",
+      "url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
+      "published_at": "2026-11-03T16:47:18Z",
+      "description": "Ask 970 data brokers to delete your data. Free, local, no account, no server.",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/131369648?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/317165612?v=4",
       "source": "GitHub",
-      "stars": 715,
-      "user": "sleepy-zone"
+      "stars": 587,
+      "user": "brightsongwrath"
     },
     {
-      "title": "BryceYuuu/RUN - RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-      "url": "https://github.com/BryceYuuu/RUN",
-      "published_at": "2026-10-29T11:28:43Z",
-      "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "title": "Gezine/CivSwitch - Nintendo Switch userland code execution using Civilization 7 game cartridge",
+      "url": "https://github.com/Gezine/CivSwitch",
+      "published_at": "2026-11-01T13:30:59Z",
+      "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
       "tags": [
-        "python",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/153735320?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 3619,
-      "user": "BryceYuuu"
-    },
-    {
-      "title": "Pika-Labs/Pika-H3-Flex - Pika H3 Flex: video and audio generation inference",
-      "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
-      "published_at": "2026-10-29T17:08:59Z",
-      "description": "Pika H3 Flex: video and audio generation inference",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/272671295?v=4",
-      "source": "GitHub",
-      "stars": 1622,
-      "user": "Pika-Labs"
-    },
-    {
-      "title": "RikiyaT/lm_understand-logs - Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-      "url": "https://github.com/RikiyaT/lm_understand-logs",
-      "published_at": "2026-10-29T04:17:30Z",
-      "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/122655264?v=4",
-      "source": "GitHub",
-      "stars": 916,
-      "user": "RikiyaT"
-    },
-    {
-      "title": "JuneYaooo/rea-video - 逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
-      "url": "https://github.com/JuneYaooo/rea-video",
-      "published_at": "2026-10-29T16:15:01Z",
-      "description": "逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/60815510?v=4",
-      "source": "GitHub",
-      "stars": 904,
-      "user": "JuneYaooo"
+      "stars": 584,
+      "user": "Gezine"
     },
     {
       "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
@@ -3332,8 +3315,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 819,
+      "stars": 887,
       "user": "N1nEmAn"
+    },
+    {
+      "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "published_at": "2026-11-02T00:40:47Z",
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
+      "source": "GitHub",
+      "stars": 756,
+      "user": "AssassinCreator"
+    },
+    {
+      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "published_at": "2026-11-04T14:54:56Z",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
+      "source": "GitHub",
+      "stars": 721,
+      "user": "worldonlyu"
+    },
+    {
+      "title": "ramenvr/autopilot - Play any game",
+      "url": "https://github.com/ramenvr/autopilot",
+      "published_at": "2026-10-30T03:47:28Z",
+      "description": "Play any game",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
+      "source": "GitHub",
+      "stars": 716,
+      "user": "ramenvr"
+    },
+    {
+      "title": "smarkyie/NSP-Box - NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "url": "https://github.com/smarkyie/NSP-Box",
+      "published_at": "2026-10-31T15:00:55Z",
+      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
+      "source": "GitHub",
+      "stars": 462,
+      "user": "smarkyie"
     },
     {
       "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
@@ -3347,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 600,
+      "stars": 601,
       "user": "Balanov"
     },
     {
@@ -3362,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 451,
+      "stars": 452,
       "user": "Balanov"
     },
     {
@@ -3377,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165393?v=4",
       "source": "GitHub",
-      "stars": 283,
+      "stars": 285,
       "user": "protonversestudio"
     },
     {
@@ -3392,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 263,
+      "stars": 264,
       "user": "Balanov"
     },
     {
@@ -3407,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 223,
+      "stars": 225,
       "user": "egoist"
     },
     {
@@ -3422,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18516,
+      "stars": 18690,
       "user": "deepseek-ai"
     },
     {
@@ -3437,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2420,
+      "stars": 2659,
       "user": "KKKKhazix"
     },
     {
@@ -3452,7 +3495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1740,
+      "stars": 1763,
       "user": "caru-ini"
     },
     {
@@ -3467,23 +3510,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1501,
+      "stars": 1538,
       "user": "mromidev"
     },
     {
-      "title": "rerun-build/rerun - AI coworkers that run your work. Self-hostable, AGPL-3.0.",
-      "url": "https://github.com/rerun-build/rerun",
-      "published_at": "2026-10-29T16:09:54Z",
-      "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+      "title": "Minireel/HGhub - YellowFruit third-party client",
+      "url": "https://github.com/Minireel/HGhub",
+      "published_at": "2026-11-03T14:04:27Z",
+      "description": "YellowFruit third-party client",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316877210?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 672,
-      "user": "rerun-build"
+      "stars": 783,
+      "user": "Minireel"
     },
     {
       "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
@@ -3497,23 +3540,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 11464,
+      "stars": 12198,
       "user": "storytold"
-    },
-    {
-      "title": "ashayas/icloud-s3 - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
-      "url": "https://github.com/ashayas/icloud-s3",
-      "published_at": "2026-10-30T23:54:20Z",
-      "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
-      "source": "GitHub",
-      "stars": 493,
-      "user": "ashayas"
     },
     {
       "title": "s1dashu/quiet-md - Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML. 高性能本地笔记，兼容飞书文档格式。",
@@ -3527,8 +3555,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129982137?v=4",
       "source": "GitHub",
-      "stars": 442,
+      "stars": 652,
       "user": "s1dashu"
+    },
+    {
+      "title": "ashayas/icloud-s3 - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
+      "url": "https://github.com/ashayas/icloud-s3",
+      "published_at": "2026-10-30T23:54:20Z",
+      "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
+      "source": "GitHub",
+      "stars": 494,
+      "user": "ashayas"
     },
     {
       "title": "DeltaProviderGuide/auto-auction-bot-wow-forever - A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
@@ -3542,7 +3585,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165231?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 409,
       "user": "DeltaProviderGuide"
     },
     {
@@ -3557,7 +3600,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165609?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 337,
       "user": "StormSkinkGrip"
     },
     {
