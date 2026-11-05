@@ -45,21 +45,6 @@
       "user": "Noah Brinker"
     },
     {
-      "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
-      "url": "https://dev.to/gde/leveling-the-playing-field-building-a-100-offline-kubernetes-docs-rag-exam-assistant-with-web-ai-53bi",
-      "published_at": "2026-11-04T13:56:06Z",
-      "description": "How to enable fair, zero-cost, air-gapped AI assistance in technical classrooms and...",
-      "tags": [
-        "webai",
-        "gemma",
-        "rag",
-        "webgpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2vofw4x97oncddtys1y7.png",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
       "title": "Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!",
       "url": "https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370",
       "published_at": "2026-11-04T22:00:15Z",
@@ -73,21 +58,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkx3vgfze743kv0yqvhud.png",
       "source": "Dev.to",
       "user": "Jem"
-    },
-    {
-      "title": "Prompt Pad: What Is Open Source?",
-      "url": "https://blog.mlh.com/prompt-pad-what-is-open-source-23k6",
-      "published_at": "2026-11-04T14:00:00Z",
-      "description": "Chances are you're already using open-source software without realizing it.  In this episode of...",
-      "tags": [
-        "opensource",
-        "beginners",
-        "ai",
-        "codenewbie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8cyh245tpbjsoz92g3u1.png",
-      "source": "Dev.to",
-      "user": "MLH Team"
     },
     {
       "title": "The A2A CLI and Rust: The Same Code, Three Ways to Serve It",
@@ -105,6 +75,21 @@
       "user": "xbill"
     },
     {
+      "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
+      "url": "https://dev.to/gde/leveling-the-playing-field-building-a-100-offline-kubernetes-docs-rag-exam-assistant-with-web-ai-53bi",
+      "published_at": "2026-11-04T13:56:06Z",
+      "description": "How to enable fair, zero-cost, air-gapped AI assistance in technical classrooms and...",
+      "tags": [
+        "webai",
+        "gemma",
+        "rag",
+        "webgpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2vofw4x97oncddtys1y7.png",
+      "source": "Dev.to",
+      "user": "Cyrus Wong"
+    },
+    {
       "title": "What I Learned Managing a Full Project with Antigravity",
       "url": "https://dev.to/gde/what-i-learned-managing-a-full-project-with-antigravity-1ppc",
       "published_at": "2026-11-03T21:39:03Z",
@@ -118,6 +103,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3we6kl95okn3atgkn9wg.jpg",
       "source": "Dev.to",
       "user": "Patricio Navarro"
+    },
+    {
+      "title": "Prompt Pad: What Is Open Source?",
+      "url": "https://blog.mlh.com/prompt-pad-what-is-open-source-23k6",
+      "published_at": "2026-11-04T14:00:00Z",
+      "description": "Chances are you're already using open-source software without realizing it.  In this episode of...",
+      "tags": [
+        "opensource",
+        "beginners",
+        "ai",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8cyh245tpbjsoz92g3u1.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
     },
     {
       "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
@@ -239,21 +239,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
-      "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
-      "published_at": "2026-11-01T00:41:17Z",
-      "description": "Why do an eager intern with a Hacker News blog post, a C-level executive stepping off an airplane with an in-flight magazine, and a trillion-parameter LLM all walk straight into the exact same production bog? And why even Google DeepMind can only bake half of our 600 scars into model weights.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlk0251k4s6ucmxlzfnw.jpg",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "How to Build Your Own Google Antigravity Plugin: Packaging Skills, MCP Servers, Subagents, Rules, and Hooks",
       "url": "https://dev.to/gde/how-to-build-your-own-google-antigravity-plugin-packaging-skills-mcp-servers-subagents-rules-23p9",
       "published_at": "2026-11-03T15:24:30Z",
@@ -329,6 +314,96 @@
       "user": "xbill"
     },
     {
+      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
+      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
+      "published_at": "2026-10-31T23:02:02Z",
+      "description": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
+      "tags": [
+        "ai",
+        "devtools",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fskill-drift%2Fcover.0c041943.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
+      "url": "https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig",
+      "published_at": "2026-11-01T19:01:20Z",
+      "description": "The incident that never shows up in your deploy log   Here is a scenario that's easy to...",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "agents",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmsiafz9fl8c4y4ife411.jpg",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
+    {
+      "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
+      "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02",
+      "published_at": "2026-10-16T05:36:01Z",
+      "description": "How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTelemetry/Prometheus observability stack for Oracle Databases and Linux SAN storage.",
+      "tags": [
+        "oracle",
+        "go",
+        "opentelemetry",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj97kx6j7qepsx21z63a4.jpg",
+      "source": "Dev.to",
+      "user": "Mario Ezquerro"
+    },
+    {
+      "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
+      "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa",
+      "published_at": "2026-10-25T10:05:18Z",
+      "description": "Recap: The Five-Stage Evolution from Local Prototype to Cloud Production-Grade AI...",
+      "tags": [
+        "ai",
+        "cloud",
+        "devops",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv2t6rjorp8m7bmqbf03q.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?",
+      "url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l",
+      "published_at": "2026-10-24T16:27:19Z",
+      "description": "Picture this.  It's a few weeks from now. GPT-6 goes GA on Google Cloud. Five teams in your company...",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "finops",
+        "openai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flk8saxwe44um1cwcr17v.png",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
+    {
+      "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
+      "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
+      "published_at": "2026-11-01T00:41:17Z",
+      "description": "Why do an eager intern with a Hacker News blog post, a C-level executive stepping off an airplane with an in-flight magazine, and a trillion-parameter LLM all walk straight into the exact same production bog? And why even Google DeepMind can only bake half of our 600 scars into model weights.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlk0251k4s6ucmxlzfnw.jpg",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Welcome to the Prompt Pad: AI Tips & Tricks with Rosendo Pili",
       "url": "https://blog.mlh.com/welcome-to-the-prompt-pad-ai-tips-tricks-with-rosendo-pili-2hkl",
       "published_at": "2026-10-29T19:07:55Z",
@@ -342,21 +417,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F89unnpv2l9egvfexk82u.png",
       "source": "Dev.to",
       "user": "MLH Team"
-    },
-    {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
-      "published_at": "2026-10-30T20:35:58Z",
-      "description": "The results are in for Week 3 of our five Hacktoberfest DEV Challenges! For Slow and Steady, we asked...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
-      "source": "Dev.to",
-      "user": "Jem"
     },
     {
       "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
@@ -522,66 +582,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw41tloy7yvhtkzh9237.png",
       "source": "Dev.to",
       "user": "Khushighosh"
-    },
-    {
-      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
-      "published_at": "2026-10-14T19:53:12Z",
-      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Frontier AI models outperform human experts on earnings prediction for the first time",
-      "url": "https://dev.to/dailycontext/frontier-ai-models-outperform-human-experts-on-earnings-prediction-for-the-first-time-3fhb",
-      "published_at": "2026-10-12T21:02:54Z",
-      "description": "Does the progress in frontier AI capabilities lead to superhuman performance in finance?  Finance is...",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "llm",
-        "finance"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn0u99b6nz252vxkbzrhu.png",
-      "source": "Dev.to",
-      "user": "Ashwin Paranjape"
-    },
-    {
-      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-      "url": "https://dev.to/dailycontext/how-anthropics-dynamic-workflows-coordinate-claude-agents-3f23",
-      "published_at": "2026-10-12T21:00:36Z",
-      "description": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can...",
-      "tags": [
-        "ai",
-        "agents",
-        "llm",
-        "news"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2w4jruci4ticsodem7oi.png",
-      "source": "Dev.to",
-      "user": "Richard MacManus"
-    },
-    {
-      "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
-      "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
-      "published_at": "2026-10-12T21:03:17Z",
-      "description": "Written by John Feminella  We now inhabit a world where agents can execute operations in production...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -763,23 +763,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 772,
       "user": "UncensoredLabs"
-    },
-    {
-      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "url": "https://github.com/N1nEmAn/sapper-v2",
-      "published_at": "2026-10-30T15:12:35Z",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
-      "source": "GitHub",
-      "stars": 887,
-      "user": "N1nEmAn"
     },
     {
       "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
@@ -793,8 +778,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 1369,
       "user": "worldonlyu"
+    },
+    {
+      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "published_at": "2026-10-30T15:12:35Z",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
+      "source": "GitHub",
+      "stars": 1109,
+      "user": "N1nEmAn"
     },
     {
       "title": "smarkyie/NSP-Box - NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 473,
       "user": "smarkyie"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 602,
       "user": "Balanov"
     },
     {
@@ -838,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 457,
       "user": "Balanov"
     },
     {
@@ -853,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 265,
       "user": "Balanov"
     },
     {
@@ -868,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18690,
+      "stars": 19106,
       "user": "deepseek-ai"
     },
     {
@@ -883,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165609?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 342,
       "user": "StormSkinkGrip"
     },
     {
@@ -899,21 +899,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ohrv"
-    },
-    {
-      "title": "How to have JavaScript send an email after form submit",
-      "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
-      "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
-      "tags": [
-        "javascript",
-        "python",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Eli Lohman"
     },
     {
       "title": "How can I sum elements of a tensor based on a condition of one out of two values in its index pair into a new tensor using the pytorch package?",
@@ -1374,7 +1359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 4782,
+      "stars": 5014,
       "user": "patch-gg"
     },
     {
@@ -1389,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1929,
+      "stars": 2012,
       "user": "elvarofficial"
     },
     {
@@ -1404,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 772,
       "user": "UncensoredLabs"
     },
     {
@@ -1419,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165612?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 622,
       "user": "brightsongwrath"
     },
     {
@@ -1434,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 589,
       "user": "Gezine"
     },
     {
@@ -1449,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18690,
+      "stars": 19106,
       "user": "deepseek-ai"
     },
     {
@@ -1464,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2659,
+      "stars": 2979,
       "user": "KKKKhazix"
     },
     {
@@ -1479,7 +1464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1763,
+      "stars": 1808,
       "user": "caru-ini"
     },
     {
@@ -1494,7 +1479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1538,
+      "stars": 1609,
       "user": "mromidev"
     },
     {
@@ -1509,7 +1494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 1016,
       "user": "Minireel"
     },
     {
@@ -1525,20 +1510,47 @@
       "user": "binjip978"
     },
     {
+      "title": "Why does OpenResty return a broken JavaScript challenge (cupid.js 404) depending on the User-Agent?",
+      "url": "https://stackoverflow.com/questions/80014874/why-does-openresty-return-a-broken-javascript-challenge-cupid-js-404-depending",
+      "published_at": "2026-11-05T09:47:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "http",
+        "nginx",
+        "user-agent",
+        "openresty"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "K.K.D"
+    },
+    {
       "title": "Confirmit respondent data fetch erroring out in Forsta",
       "url": "https://stackoverflow.com/questions/80014785/confirmit-respondent-data-fetch-erroring-out-in-forsta",
       "published_at": "2026-11-04T23:20:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
-        "jquery",
-        "asp.net",
-        ".net",
         "jscript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rick"
+    },
+    {
+      "title": "SESV2Client from AWS SES - no super call in its instantiation",
+      "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
+      "published_at": "2026-11-04T20:58:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "javascript",
+        "node.js",
+        "amazon-web-services"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jean-Bertho Almonord"
     },
     {
       "title": "bug between v10.7 and v10.8 and later",
@@ -1554,20 +1566,6 @@
       "user": "allez l&#39;OM"
     },
     {
-      "title": "SESV2Client from AWS SES - no super call in its instantiation",
-      "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
-      "published_at": "2026-11-04T20:58:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "javascript",
-        "node.js",
-        "amazon-web-services"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jean-Bertho Almonord"
-    },
-    {
       "title": "What does the output of V8's %DebugPrint mean?",
       "url": "https://stackoverflow.com/questions/80014677/what-does-the-output-of-v8s-debugprint-mean",
       "published_at": "2026-11-04T13:09:19.000Z",
@@ -1579,18 +1577,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mark Amery"
-    },
-    {
-      "title": "Not sure about positioning of const & video",
-      "url": "https://stackoverflow.com/questions/80014693/not-sure-about-positioning-of-const-video",
-      "published_at": "2026-11-04T14:44:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Choi Soobin"
     },
     {
       "title": "Unusual syntax for declaring or extending a class - how does this work?",
@@ -1606,19 +1592,30 @@
       "user": "Manngo"
     },
     {
-      "title": "How to have JavaScript send an email after form submit",
-      "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
-      "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "title": "Not sure about positioning of const & video",
+      "url": "https://stackoverflow.com/questions/80014693/not-sure-about-positioning-of-const-video",
+      "published_at": "2026-11-04T14:44:47.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
-        "javascript",
-        "python",
-        "html",
-        "css"
+        "javascript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Eli Lohman"
+      "user": "Choi Soobin"
+    },
+    {
+      "title": "How do I create a JS object (rather than an array) from HTML table values?",
+      "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
+      "published_at": "2026-11-03T15:07:46.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
+      "tags": [
+        "javascript",
+        "html",
+        "jquery"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eireni &#39;Fikia&#39; Moutoussi"
     },
     {
       "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
@@ -1636,20 +1633,6 @@
       "user": "Gadget Seeker"
     },
     {
-      "title": "How do I create a JS object (rather than an array) from HTML table values?",
-      "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
-      "published_at": "2026-11-03T15:07:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "html",
-        "jquery"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Eireni &#39;Fikia&#39; Moutoussi"
-    },
-    {
       "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
       "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
       "published_at": "2026-11-01T04:11:32.000Z",
@@ -1662,22 +1645,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mith sams"
-    },
-    {
-      "title": "I am trying to add authenication to my react, fastapi app. How do i implement JWT authenication?",
-      "url": "https://stackoverflow.com/questions/80014646/i-am-trying-to-add-authenication-to-my-react-fastapi-app-how-do-i-implement-jw",
-      "published_at": "2026-11-04T11:44:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "reactjs",
-        "authentication",
-        "jwt",
-        "fastapi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Esh"
     }
   ],
   "Python": [
@@ -1858,8 +1825,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 772,
       "user": "UncensoredLabs"
+    },
+    {
+      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "published_at": "2026-11-04T14:54:56Z",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
+      "source": "GitHub",
+      "stars": 1369,
+      "user": "worldonlyu"
     },
     {
       "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
@@ -1873,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 1109,
       "user": "N1nEmAn"
     },
     {
@@ -1888,23 +1870,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 780,
       "user": "AssassinCreator"
-    },
-    {
-      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
-      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-      "published_at": "2026-11-04T14:54:56Z",
-      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
-      "source": "GitHub",
-      "stars": 721,
-      "user": "worldonlyu"
     },
     {
       "title": "ramenvr/autopilot - Play any game",
@@ -1918,7 +1885,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 743,
       "user": "ramenvr"
     },
     {
@@ -1933,23 +1900,51 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 473,
       "user": "smarkyie"
     },
     {
-      "title": "How to have JavaScript send an email after form submit",
-      "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
-      "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "title": "Python SQLModel FastAPI update existing data",
+      "url": "https://stackoverflow.com/questions/80014856/python-sqlmodel-fastapi-update-existing-data",
+      "published_at": "2026-11-05T08:38:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
-        "javascript",
         "python",
-        "html",
-        "css"
+        "sqlalchemy",
+        "fastapi",
+        "sqlmodel"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Eli Lohman"
+      "user": "xAvareS"
+    },
+    {
+      "title": "How to build Pip RPM from bootstrap using tarball/wheel?",
+      "url": "https://stackoverflow.com/questions/80014848/how-to-build-pip-rpm-from-bootstrap-using-tarball-wheel",
+      "published_at": "2026-11-05T07:39:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "macos",
+        "pip",
+        "rpm",
+        "rpmbuild"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Somya Ranjan Jena"
+    },
+    {
+      "title": "How to ignore duplicate IDs until they have been absent for 10 seconds in Python?",
+      "url": "https://stackoverflow.com/questions/80014831/how-to-ignore-duplicate-ids-until-they-have-been-absent-for-10-seconds-in-python",
+      "published_at": "2026-11-05T06:03:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Daniel Sodkiewicz"
     },
     {
       "title": "How can I sum elements of a tensor based on a condition of one out of two values in its index pair into a new tensor using the pytorch package?",
@@ -2020,20 +2015,6 @@
       "user": "VPSTTT"
     },
     {
-      "title": "MQTT over multiple threads",
-      "url": "https://stackoverflow.com/questions/80014691/mqtt-over-multiple-threads",
-      "published_at": "2026-11-04T14:42:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "multithreading",
-        "mqtt"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "M_G_Shad_Man"
-    },
-    {
       "title": "Python SQLModel FastAPI get 1 row with 2 connected table datas",
       "url": "https://stackoverflow.com/questions/80014652/python-sqlmodel-fastapi-get-1-row-with-2-connected-table-datas",
       "published_at": "2026-11-04T11:57:37.000Z",
@@ -2049,47 +2030,18 @@
       "user": "xAvareS"
     },
     {
-      "title": "I am trying to add authenication to my react, fastapi app. How do i implement JWT authenication?",
-      "url": "https://stackoverflow.com/questions/80014646/i-am-trying-to-add-authenication-to-my-react-fastapi-app-how-do-i-implement-jw",
-      "published_at": "2026-11-04T11:44:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "title": "MQTT over multiple threads",
+      "url": "https://stackoverflow.com/questions/80014691/mqtt-over-multiple-threads",
+      "published_at": "2026-11-04T14:42:58.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
-        "reactjs",
-        "authentication",
-        "jwt",
-        "fastapi"
+        "multithreading",
+        "mqtt"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Esh"
-    },
-    {
-      "title": "How to make a Venn diagram where items of subsets are visible?",
-      "url": "https://stackoverflow.com/questions/80014639/how-to-make-a-venn-diagram-where-items-of-subsets-are-visible",
-      "published_at": "2026-11-04T11:14:10.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "venn-diagram"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Dragoran21"
-    },
-    {
-      "title": "How can Python be used to automate technical drawing documentation?",
-      "url": "https://stackoverflow.com/questions/80014647/how-can-python-be-used-to-automate-technical-drawing-documentation",
-      "published_at": "2026-11-04T11:44:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python",
-        "automation",
-        "autocad"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "FURNIGENCE LLP"
+      "user": "M_G_Shad_Man"
     }
   ],
   "DevOps": [
@@ -2122,6 +2074,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Frackdoc%2Fmain%2Fdocs%2Frackdoc_v1_1_screenshot.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
+      "url": "https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig",
+      "published_at": "2026-11-01T19:01:20Z",
+      "description": "The incident that never shows up in your deploy log   Here is a scenario that's easy to...",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "agents",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmsiafz9fl8c4y4ife411.jpg",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
+    {
+      "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
+      "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa",
+      "published_at": "2026-10-25T10:05:18Z",
+      "description": "Recap: The Five-Stage Evolution from Local Prototype to Cloud Production-Grade AI...",
+      "tags": [
+        "ai",
+        "cloud",
+        "devops",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv2t6rjorp8m7bmqbf03q.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
     },
     {
       "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
@@ -2392,19 +2374,18 @@
       "user": "Jackevansevo"
     },
     {
-      "title": "How to have JavaScript send an email after form submit",
-      "url": "https://stackoverflow.com/questions/80014496/how-to-have-javascript-send-an-email-after-form-submit",
-      "published_at": "2026-11-03T20:21:50.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "title": "How do I create a JS object (rather than an array) from HTML table values?",
+      "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
+      "published_at": "2026-11-03T15:07:46.000Z",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
-        "python",
         "html",
-        "css"
+        "jquery"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Eli Lohman"
+      "user": "Eireni &#39;Fikia&#39; Moutoussi"
     },
     {
       "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
@@ -2420,20 +2401,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gadget Seeker"
-    },
-    {
-      "title": "How do I create a JS object (rather than an array) from HTML table values?",
-      "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
-      "published_at": "2026-11-03T15:07:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "javascript",
-        "html",
-        "jquery"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Eireni &#39;Fikia&#39; Moutoussi"
     },
     {
       "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
@@ -2618,6 +2585,66 @@
       "user": "Carlos Barbero"
     },
     {
+      "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
+      "url": "https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig",
+      "published_at": "2026-11-01T19:01:20Z",
+      "description": "The incident that never shows up in your deploy log   Here is a scenario that's easy to...",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "agents",
+        "devops"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmsiafz9fl8c4y4ife411.jpg",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
+    {
+      "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
+      "url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa",
+      "published_at": "2026-10-25T10:05:18Z",
+      "description": "Recap: The Five-Stage Evolution from Local Prototype to Cloud Production-Grade AI...",
+      "tags": [
+        "ai",
+        "cloud",
+        "devops",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv2t6rjorp8m7bmqbf03q.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
+      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
+      "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a",
+      "published_at": "2026-10-15T16:38:38Z",
+      "description": "Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measured, and what I learned.",
+      "tags": [
+        "duckdb",
+        "googlecloud",
+        "dataengineering",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Ftosun-si%2Fduckless%2Fmain%2Fassets%2Fbrand%2Fduckless-social.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
+    {
+      "title": "GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?",
+      "url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l",
+      "published_at": "2026-10-24T16:27:19Z",
+      "description": "Picture this.  It's a few weeks from now. GPT-6 goes GA on Google Cloud. Five teams in your company...",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "finops",
+        "openai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flk8saxwe44um1cwcr17v.png",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
+    },
+    {
       "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
       "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
       "published_at": "2026-10-30T05:35:56Z",
@@ -2678,21 +2705,6 @@
       "user": "Olivier Bourgeois"
     },
     {
-      "title": "Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 'Committed Speech' Machine",
-      "url": "https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c",
-      "published_at": "2026-10-14T19:53:12Z",
-      "description": "Why do 200-line agent prompts, Asimov's Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores's 1986 Committed Speech, Nuel Belnap's 1977 4-Valued Logic, and Tony Hoare's 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F80k088q9sdie6yq9pbha.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "ashayas/icloud-s3 - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
       "url": "https://github.com/ashayas/icloud-s3",
       "published_at": "2026-10-30T23:54:20Z",
@@ -2711,7 +2723,7 @@
       "title": "SESV2Client from AWS SES - no super call in its instantiation",
       "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
       "published_at": "2026-11-04T20:58:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "node.js",
@@ -2724,17 +2736,17 @@
   ],
   "Database": [
     {
-      "title": "Cómo construí ora-tui: Un gestor en consola (TUI) en Go sin dependencias para Oracle RAC y Single Instance",
-      "url": "https://dev.to/gde/como-construi-ora-tui-un-gestor-en-consola-tui-en-go-sin-dependencias-para-oracle-rac-y-single-1gc5",
-      "published_at": "2026-10-15T07:21:10Z",
-      "description": "Descubre cómo diseñar una interfaz TUI en Go con marcos Unicode (┌─┐ / ╔═╗), auto-descubrimiento de clusters Oracle RAC y flujos de mantenimiento guiados por flechas sin depender de Oracle Instant Client.",
+      "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
+      "url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02",
+      "published_at": "2026-10-16T05:36:01Z",
+      "description": "How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTelemetry/Prometheus observability stack for Oracle Databases and Linux SAN storage.",
       "tags": [
-        "go",
         "oracle",
-        "linux",
-        "database"
+        "go",
+        "opentelemetry",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu1dmrbcfwxx6nym8jx2i.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj97kx6j7qepsx21z63a4.jpg",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
     },
@@ -2763,6 +2775,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ohrv"
+    },
+    {
+      "title": "Python SQLModel FastAPI update existing data",
+      "url": "https://stackoverflow.com/questions/80014856/python-sqlmodel-fastapi-update-existing-data",
+      "published_at": "2026-11-05T08:38:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "sqlalchemy",
+        "fastapi",
+        "sqlmodel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "xAvareS"
     },
     {
       "title": "Try/except failing to catch exceptions",
@@ -2879,21 +2906,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsb3mwitsukou1aehtfah.png",
       "source": "Dev.to",
       "user": "Azidin Shairi"
-    },
-    {
-      "title": "Brakes Let You Go Fast: Balancing Acceleration and Safety for AI Agents",
-      "url": "https://dev.to/dailycontext/brakes-let-you-go-fast-balancing-acceleration-and-safety-for-ai-agents-49p9",
-      "published_at": "2026-10-12T21:03:17Z",
-      "description": "Written by John Feminella  We now inhabit a world where agents can execute operations in production...",
-      "tags": [
-        "ai",
-        "agents",
-        "security",
-        "aie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnwo1mnpwhwpobhsq2sjm.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3041,22 +3053,6 @@
       "user": "gnyeki"
     },
     {
-      "title": "I am trying to add authenication to my react, fastapi app. How do i implement JWT authenication?",
-      "url": "https://stackoverflow.com/questions/80014646/i-am-trying-to-add-authenication-to-my-react-fastapi-app-how-do-i-implement-jw",
-      "published_at": "2026-11-04T11:44:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "reactjs",
-        "authentication",
-        "jwt",
-        "fastapi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Esh"
-    },
-    {
       "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
       "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
       "published_at": "2026-11-04T20:36:57.000Z",
@@ -3133,6 +3129,21 @@
       "user": "Carlos Barbero"
     },
     {
+      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
+      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
+      "published_at": "2026-10-31T23:02:02Z",
+      "description": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
+      "tags": [
+        "ai",
+        "devtools",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fskill-drift%2Fcover.0c041943.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
       "url": "https://dev.to/gde/shipping-flutter-web-to-firebase-when-your-github-actions-budget-hits-zero-2mi5",
       "published_at": "2026-10-27T08:06:59Z",
@@ -3146,21 +3157,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F471epezz3m6cdkvp598f.jpg",
       "source": "Dev.to",
       "user": "Esra Kadah"
-    },
-    {
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
-      "published_at": "2026-10-30T20:35:58Z",
-      "description": "The results are in for Week 3 of our five Hacktoberfest DEV Challenges! For Slow and Steady, we asked...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh0bi2ino04fr67ob59ts.png",
-      "source": "Dev.to",
-      "user": "Jem"
     },
     {
       "title": "926 Steps, Two Lobotomies, and Zero Nudges: Flight-Testing the Commitment Machine Across Gemini, Claude, and GPT-OSS",
@@ -3240,7 +3236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 4782,
+      "stars": 5014,
       "user": "patch-gg"
     },
     {
@@ -3255,7 +3251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 1929,
+      "stars": 2012,
       "user": "elvarofficial"
     },
     {
@@ -3270,7 +3266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 702,
+      "stars": 772,
       "user": "UncensoredLabs"
     },
     {
@@ -3285,7 +3281,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165612?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 622,
       "user": "brightsongwrath"
     },
     {
@@ -3300,8 +3296,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 589,
       "user": "Gezine"
+    },
+    {
+      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "published_at": "2026-11-04T14:54:56Z",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
+      "source": "GitHub",
+      "stars": 1369,
+      "user": "worldonlyu"
     },
     {
       "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
@@ -3315,7 +3326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 887,
+      "stars": 1109,
       "user": "N1nEmAn"
     },
     {
@@ -3330,23 +3341,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 756,
+      "stars": 780,
       "user": "AssassinCreator"
-    },
-    {
-      "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
-      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-      "published_at": "2026-11-04T14:54:56Z",
-      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
-      "source": "GitHub",
-      "stars": 721,
-      "user": "worldonlyu"
     },
     {
       "title": "ramenvr/autopilot - Play any game",
@@ -3360,7 +3356,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 716,
+      "stars": 743,
       "user": "ramenvr"
     },
     {
@@ -3375,7 +3371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 473,
       "user": "smarkyie"
     },
     {
@@ -3390,7 +3386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 601,
+      "stars": 602,
       "user": "Balanov"
     },
     {
@@ -3405,7 +3401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 457,
       "user": "Balanov"
     },
     {
@@ -3420,7 +3416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165393?v=4",
       "source": "GitHub",
-      "stars": 285,
+      "stars": 288,
       "user": "protonversestudio"
     },
     {
@@ -3435,7 +3431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 264,
+      "stars": 265,
       "user": "Balanov"
     },
     {
@@ -3450,7 +3446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 225,
+      "stars": 231,
       "user": "egoist"
     },
     {
@@ -3465,7 +3461,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 18690,
+      "stars": 19106,
       "user": "deepseek-ai"
     },
     {
@@ -3480,7 +3476,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2659,
+      "stars": 2979,
       "user": "KKKKhazix"
     },
     {
@@ -3495,7 +3491,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1763,
+      "stars": 1808,
       "user": "caru-ini"
     },
     {
@@ -3510,7 +3506,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1538,
+      "stars": 1609,
       "user": "mromidev"
     },
     {
@@ -3525,7 +3521,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 783,
+      "stars": 1016,
       "user": "Minireel"
     },
     {
@@ -3540,7 +3536,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 12198,
+      "stars": 13521,
       "user": "storytold"
     },
     {
@@ -3555,7 +3551,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129982137?v=4",
       "source": "GitHub",
-      "stars": 652,
+      "stars": 907,
       "user": "s1dashu"
     },
     {
@@ -3585,7 +3581,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165231?v=4",
       "source": "GitHub",
-      "stars": 409,
+      "stars": 417,
       "user": "DeltaProviderGuide"
     },
     {
@@ -3600,7 +3596,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165609?v=4",
       "source": "GitHub",
-      "stars": 337,
+      "stars": 342,
       "user": "StormSkinkGrip"
     },
     {
