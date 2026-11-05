@@ -1,33 +1,19 @@
 {
   "AI": [
     {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg",
-      "published_at": "2026-11-04T15:23:31Z",
-      "description": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
+      "title": "Find the production agent failures that every health check misses",
+      "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8",
+      "published_at": "2026-11-05T15:46:25Z",
+      "description": "AQuA is an open-source quality agent that surfaces the production failures your health checks miss and, when you ask, traces a failure to the line of code behind it. Try its dashboard locally.",
       "tags": [
-        "angular",
-        "firebase",
-        "webdev"
+        "agents",
+        "ai",
+        "debugging",
+        "testing"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fquality-curve.6xHWd_CO_2kumlD.webp",
       "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
-      "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72",
-      "published_at": "2026-11-04T22:49:08Z",
-      "description": "Gemma 4 E2B served three ways on one Cloud TPU v5e chip: a pure-JAX engine in Python, the same graph written in Rust and compiled by the libtpu that JAX loads, and vLLM, all timed by one client. bf16 beats 4-bit in the JAX engine, the Rust engine matches the JAX engine's tokens, and over HTTP it decodes at vLLM's rate with the fastest first token.",
-      "tags": [
-        "jax",
-        "tpu",
-        "gemma",
-        "rust"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fjax-dev%2Fmain%2Farticle%2Fdevto-cover.3c49df33.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
+      "user": "Elia Secchi"
     },
     {
       "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
@@ -45,34 +31,33 @@
       "user": "Noah Brinker"
     },
     {
-      "title": "Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!",
-      "url": "https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370",
-      "published_at": "2026-11-04T22:00:15Z",
-      "description": "We're excited to announce our newest challenge with Presage!  The Presage SmartSpectra SDK Challenge...",
+      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
+      "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72",
+      "published_at": "2026-11-04T22:49:08Z",
+      "description": "Gemma 4 E2B served three ways on one Cloud TPU v5e chip: a pure-JAX engine in Python, the same graph written in Rust and compiled by the libtpu that JAX loads, and vLLM, all timed by one client. bf16 beats 4-bit in the JAX engine, the Rust engine matches the JAX engine's tokens, and over HTTP it decodes at vLLM's rate with the fastest first token.",
       "tags": [
-        "devchallenge",
-        "presagechallenge",
-        "presage",
-        "ai"
+        "jax",
+        "tpu",
+        "gemma",
+        "rust"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkx3vgfze743kv0yqvhud.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
-      "title": "The A2A CLI and Rust: The Same Code, Three Ways to Serve It",
-      "url": "https://dev.to/gde/the-a2a-cli-and-rust-the-same-code-three-ways-to-serve-it-4el0",
-      "published_at": "2026-11-04T01:04:48Z",
-      "description": "A tour of the A2A CLI against Rust agents on A2A v1.0: the official Rust SDK, a plain stdin/stdout program wrapped by a2a server --exec, and an ADK coordinator on Gemini, each timed from the CLI and from a Rust client.",
-      "tags": [
-        "rust",
-        "a2a",
-        "ai",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Frust-dev%2Fmain%2Fa2a-benchmark-rust%2Fdocs%2Fa2a-cli-rust%2Fdevto-cover.dbab2d14.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fjax-dev%2Fmain%2Farticle%2Fdevto-cover.3c49df33.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg",
+      "published_at": "2026-11-04T15:23:31Z",
+      "description": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
+      "tags": [
+        "angular",
+        "firebase",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
@@ -103,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3we6kl95okn3atgkn9wg.jpg",
       "source": "Dev.to",
       "user": "Patricio Navarro"
+    },
+    {
+      "title": "Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!",
+      "url": "https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370",
+      "published_at": "2026-11-04T22:00:15Z",
+      "description": "We're excited to announce our newest challenge with Presage!  The Presage SmartSpectra SDK Challenge...",
+      "tags": [
+        "devchallenge",
+        "presagechallenge",
+        "presage",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkx3vgfze743kv0yqvhud.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "Prompt Pad: What Is Open Source?",
@@ -180,21 +180,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
-      "url": "https://dev.to/gde/agent-platform-in-action-7-when-adk-go-graph-workflow-meets-google-research-harness-part-1-28c1",
-      "published_at": "2026-11-01T14:37:47Z",
-      "description": "Foreword: After the AI Agent Goes Online, What is the Next Bottleneck?   Welcome back to...",
-      "tags": [
-        "agents",
-        "ai",
-        "architecture",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnftcocpuuhj6cq5sh0lh.png",
-      "source": "Dev.to",
-      "user": "Evan Lin"
-    },
-    {
       "title": "Profile Sprawl: Solving a Problem You Didn't Know You Had",
       "url": "https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5",
       "published_at": "2026-11-01T14:35:26Z",
@@ -210,6 +195,21 @@
       "user": "xbill"
     },
     {
+      "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
+      "url": "https://dev.to/gde/agent-platform-in-action-7-when-adk-go-graph-workflow-meets-google-research-harness-part-1-28c1",
+      "published_at": "2026-11-01T14:37:47Z",
+      "description": "Foreword: After the AI Agent Goes Online, What is the Next Bottleneck?   Welcome back to...",
+      "tags": [
+        "agents",
+        "ai",
+        "architecture",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnftcocpuuhj6cq5sh0lh.png",
+      "source": "Dev.to",
+      "user": "Evan Lin"
+    },
+    {
       "title": "From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]",
       "url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg",
       "published_at": "2026-11-01T13:23:27Z",
@@ -223,6 +223,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqujte2p4zz2v05hybojq.png",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "The A2A CLI and Rust: The Same Code, Three Ways to Serve It",
+      "url": "https://dev.to/gde/the-a2a-cli-and-rust-the-same-code-three-ways-to-serve-it-4el0",
+      "published_at": "2026-11-04T01:04:48Z",
+      "description": "A tour of the A2A CLI against Rust agents on A2A v1.0: the official Rust SDK, a plain stdin/stdout program wrapped by a2a server --exec, and an ADK coordinator on Gemini, each timed from the CLI and from a Rust client.",
+      "tags": [
+        "rust",
+        "a2a",
+        "ai",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Frust-dev%2Fmain%2Fa2a-benchmark-rust%2Fdocs%2Fa2a-cli-rust%2Fdevto-cover.dbab2d14.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
@@ -374,21 +389,6 @@
       "user": "Evan Lin"
     },
     {
-      "title": "GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?",
-      "url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l",
-      "published_at": "2026-10-24T16:27:19Z",
-      "description": "Picture this.  It's a few weeks from now. GPT-6 goes GA on Google Cloud. Five teams in your company...",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "finops",
-        "openai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flk8saxwe44um1cwcr17v.png",
-      "source": "Dev.to",
-      "user": "Karthigayan Devan"
-    },
-    {
       "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
       "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
       "published_at": "2026-11-01T00:41:17Z",
@@ -402,6 +402,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlk0251k4s6ucmxlzfnw.jpg",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?",
+      "url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l",
+      "published_at": "2026-10-24T16:27:19Z",
+      "description": "Picture this.  It's a few weeks from now. GPT-6 goes GA on Google Cloud. Five teams in your company...",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "finops",
+        "openai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flk8saxwe44um1cwcr17v.png",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
     },
     {
       "title": "Welcome to the Prompt Pad: AI Tips & Tricks with Rosendo Pili",
@@ -552,36 +567,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqo0fgzh9i43a3v7zvhe0.png",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
-      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
-      "published_at": "2026-10-22T16:05:20Z",
-      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
-      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
-      "url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0",
-      "published_at": "2026-10-25T06:45:27Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "gemma",
-        "tabpfn"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffw41tloy7yvhtkzh9237.png",
-      "source": "Dev.to",
-      "user": "Khushighosh"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -763,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 833,
       "user": "UncensoredLabs"
     },
     {
@@ -778,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 1369,
+      "stars": 2093,
       "user": "worldonlyu"
     },
     {
@@ -793,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 1109,
+      "stars": 1279,
       "user": "N1nEmAn"
     },
     {
@@ -808,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 485,
       "user": "smarkyie"
     },
     {
@@ -823,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 604,
       "user": "Balanov"
     },
     {
@@ -838,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 459,
       "user": "Balanov"
     },
     {
@@ -853,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 264,
       "user": "Balanov"
     },
     {
@@ -868,23 +853,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19106,
+      "stars": 19379,
       "user": "deepseek-ai"
     },
     {
-      "title": "StormSkinkGrip/game-ping-multipath-router - Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
-      "url": "https://github.com/StormSkinkGrip/game-ping-multipath-router",
-      "published_at": "2026-11-03T16:37:49Z",
-      "description": "Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
+      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "url": "https://github.com/sqlpxc/airhand",
+      "published_at": "2026-10-31T13:33:04Z",
+      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317165609?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 342,
-      "user": "StormSkinkGrip"
+      "stars": 386,
+      "user": "sqlpxc"
     },
     {
       "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
@@ -901,10 +886,37 @@
       "user": "ohrv"
     },
     {
+      "title": "Software Line Specialist",
+      "url": "https://lovro-bikic.github.io/software-line-specialist/",
+      "published_at": "2026-11-05T10:32:29.997-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "programming",
+        "satire"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "lovro-bikic"
+    },
+    {
+      "title": "SQLAIchemy 2.0 can't load plugin sqlalchemy.dialects:kingbase.kscopg after dropping in the Kingbase dialect manually",
+      "url": "https://stackoverflow.com/questions/80014923/sqlaichemy-2-0-cant-load-plugin-sqlalchemy-dialectskingbase-kscopg-after-dropp",
+      "published_at": "2026-11-05T13:09:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "good ace"
+    },
+    {
       "title": "How can I sum elements of a tensor based on a condition of one out of two values in its index pair into a new tensor using the pytorch package?",
       "url": "https://stackoverflow.com/questions/80014777/how-can-i-sum-elements-of-a-tensor-based-on-a-condition-of-one-out-of-two-values",
       "published_at": "2026-11-04T22:02:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "python",
         "pytorch",
@@ -915,182 +927,129 @@
       "user": "user33280062"
     },
     {
-      "title": "Try/except failing to catch exceptions",
-      "url": "https://stackoverflow.com/questions/80014740/try-except-failing-to-catch-exceptions",
-      "published_at": "2026-11-04T18:43:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "title": "Harbinger raises $240M after expanding into defense",
+      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+      "published_at": "2026-11-05T17:52:44.000Z",
+      "description": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
       "tags": [
-        "python",
-        "python-3.x",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Philip Kearns"
-    },
-    {
-      "title": "Do proxy credentials containing @ or : need percent-encoding in requests' proxies dict, and is quote(safe=\"\") correct?",
-      "url": "https://stackoverflow.com/questions/80014683/do-proxy-credentials-containing-or-need-percent-encoding-in-requests-proxie",
-      "published_at": "2026-11-04T13:52:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "python-requests"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "VPSTTT"
-    },
-    {
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "published_at": "2026-11-05T01:26:22.000Z",
-      "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "tags": [
-        "AI",
-        "TC"
+        "Fundraising",
+        "Startups",
+        "Transportation",
+        "autonomous vehicles",
+        "electric trucks"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "user": "Sean O'Kane"
     },
     {
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "published_at": "2026-11-05T01:02:14.000Z",
-      "description": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+      "published_at": "2026-11-05T17:11:48.000Z",
+      "description": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
       "tags": [
-        "AI",
-        "Government & Policy",
-        "data centers"
+        "Startups",
+        "food delivery",
+        "initial public offering",
+        "Marc Lore",
+        "wonder"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
+      "user": "Lauren Forristal"
     },
     {
-      "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "published_at": "2026-11-04T22:45:09.000Z",
-      "description": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "election",
-        "guardrails alliance",
-        "leading the future"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
-      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "published_at": "2026-11-04T22:13:16.000Z",
-      "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "published_at": "2026-11-05T16:16:45.000Z",
+      "description": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
       "tags": [
         "AI",
         "Startups",
-        "AI hardware",
-        "hardware",
+        "TC",
+        "agents",
+        "math"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aditya Mehta"
+    },
+    {
+      "title": "Bluesky hit peak usage for the year on election night",
+      "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+      "published_at": "2026-11-05T15:44:58.000Z",
+      "description": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
+      "tags": [
+        "Social",
+        "Bluesky",
         "In Brief"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "user": "Amanda Silberling"
     },
     {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "published_at": "2026-11-04T21:56:01.000Z",
-      "description": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+      "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+      "published_at": "2026-11-05T15:40:34.000Z",
+      "description": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
       "tags": [
-        "AI",
+        "Startups",
         "Transportation",
-        "AI agents",
-        "Uber"
+        "drone",
+        "drone delivery",
+        "e-commerce"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Sarah Perez"
+      "user": "Kirsten Korosec"
     },
     {
-      "title": "Snapchat surpasses 30M paid subscribers",
-      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
-      "published_at": "2026-11-04T21:49:29.000Z",
-      "description": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "published_at": "2026-11-05T15:19:05.000Z",
+      "description": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "cloud storage",
+        "Dropbox",
+        "Mergers and Acquisitions"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+      "published_at": "2026-11-05T15:00:00.000Z",
+      "description": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
       "tags": [
         "Apps",
-        "Social",
-        "Snap",
-        "Snapchat"
+        "ai music",
+        "ElevenLabs",
+        "soundcloud"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Aisha Malik"
+      "user": "Ivan Mehta"
     },
     {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "published_at": "2026-11-04T21:25:44.000Z",
-      "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+      "title": "Aina&#8217;s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "published_at": "2026-11-05T14:42:00.000Z",
+      "description": "Aina's ring can also take calls and help you dictate notes on your Mac.",
       "tags": [
         "AI",
-        "Government & Policy",
-        "AI policy",
-        "Chris Lehane",
-        "election"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Meta acquires AI coding startup Conductor",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "published_at": "2026-11-04T21:10:56.000Z",
-      "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "tags": [
-        "AI",
-        "conductor",
-        "Mergers and Acquisitions",
-        "Meta"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-      "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
-      "published_at": "2026-11-04T20:36:57.000Z",
-      "description": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
-      "tags": [
-        "Security",
-        "cybesecurity",
-        "dreamhost",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "published_at": "2026-11-04T19:30:04.000Z",
-      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining",
-      "tags": [
-        "AI",
+        "Gadgets",
+        "Hardware",
         "Startups",
-        "Hugging Face",
-        "Irene Solaiman",
-        "nvidia"
+        "AI agents"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Theresa Loconsolo"
+      "user": "Ivan Mehta"
     },
     {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
@@ -1359,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 5014,
+      "stars": 5210,
       "user": "patch-gg"
     },
     {
@@ -1374,7 +1333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 2012,
+      "stars": 2135,
       "user": "elvarofficial"
     },
     {
@@ -1389,7 +1348,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 833,
       "user": "UncensoredLabs"
     },
     {
@@ -1404,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165612?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 642,
       "user": "brightsongwrath"
     },
     {
@@ -1419,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 597,
       "user": "Gezine"
     },
     {
@@ -1434,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19106,
+      "stars": 19379,
       "user": "deepseek-ai"
     },
     {
@@ -1449,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2979,
+      "stars": 3177,
       "user": "KKKKhazix"
     },
     {
@@ -1464,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1808,
+      "stars": 1854,
       "user": "caru-ini"
     },
     {
@@ -1479,7 +1438,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1609,
+      "stars": 1686,
       "user": "mromidev"
     },
     {
@@ -1494,42 +1453,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 1016,
+      "stars": 1087,
       "user": "Minireel"
     },
     {
-      "title": "A new Go API for JSON",
-      "url": "https://go.dev/blog/jsonv2",
-      "published_at": "2026-11-04T11:52:32.448-06:00",
-      "description": "Lobste.rs Discussion",
+      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "url": "https://github.com/sqlpxc/airhand",
+      "published_at": "2026-10-31T13:33:04Z",
+      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
       "tags": [
-        "go"
+        "rust",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "binjip978"
-    },
-    {
-      "title": "Why does OpenResty return a broken JavaScript challenge (cupid.js 404) depending on the User-Agent?",
-      "url": "https://stackoverflow.com/questions/80014874/why-does-openresty-return-a-broken-javascript-challenge-cupid-js-404-depending",
-      "published_at": "2026-11-05T09:47:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "http",
-        "nginx",
-        "user-agent",
-        "openresty"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "K.K.D"
+      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
+      "source": "GitHub",
+      "stars": 386,
+      "user": "sqlpxc"
     },
     {
       "title": "Confirmit respondent data fetch erroring out in Forsta",
       "url": "https://stackoverflow.com/questions/80014785/confirmit-respondent-data-fetch-erroring-out-in-forsta",
       "published_at": "2026-11-04T23:20:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "jscript"
@@ -1542,7 +1488,7 @@
       "title": "SESV2Client from AWS SES - no super call in its instantiation",
       "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
       "published_at": "2026-11-04T20:58:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "node.js",
@@ -1556,7 +1502,7 @@
       "title": "bug between v10.7 and v10.8 and later",
       "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
       "published_at": "2026-11-04T22:00:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "openlayers"
@@ -1569,7 +1515,7 @@
       "title": "What does the output of V8's %DebugPrint mean?",
       "url": "https://stackoverflow.com/questions/80014677/what-does-the-output-of-v8s-debugprint-mean",
       "published_at": "2026-11-04T13:09:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
         "v8"
@@ -1582,7 +1528,7 @@
       "title": "Unusual syntax for declaring or extending a class - how does this work?",
       "url": "https://stackoverflow.com/questions/80014338/unusual-syntax-for-declaring-or-extending-a-class-how-does-this-work",
       "published_at": "2026-11-03T02:04:03.000Z",
-      "description": "Stack Overflow question · 2 answers · score 6",
+      "description": "Stack Overflow question · 2 answers · score 7",
       "tags": [
         "javascript",
         "class"
@@ -1592,10 +1538,25 @@
       "user": "Manngo"
     },
     {
+      "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
+      "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
+      "published_at": "2026-11-04T02:30:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "html",
+        "ios",
+        "mobile-safari"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Gadget Seeker"
+    },
+    {
       "title": "Not sure about positioning of const & video",
       "url": "https://stackoverflow.com/questions/80014693/not-sure-about-positioning-of-const-video",
       "published_at": "2026-11-04T14:44:47.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript"
       ],
@@ -1618,21 +1579,6 @@
       "user": "Eireni &#39;Fikia&#39; Moutoussi"
     },
     {
-      "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
-      "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
-      "published_at": "2026-11-04T02:30:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "html",
-        "ios"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gadget Seeker"
-    },
-    {
       "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
       "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
       "published_at": "2026-11-01T04:11:32.000Z",
@@ -1645,6 +1591,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mith sams"
+    },
+    {
+      "title": "How can I locate an element in a nested div without selecting the outer div?",
+      "url": "https://stackoverflow.com/questions/79989960/how-can-i-locate-an-element-in-a-nested-div-without-selecting-the-outer-div",
+      "published_at": "2026-08-02T21:00:54.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "ui-automation",
+        "playwright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Adnan Zaman"
     }
   ],
   "Python": [
@@ -1825,7 +1785,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 833,
       "user": "UncensoredLabs"
     },
     {
@@ -1840,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 1369,
+      "stars": 2093,
       "user": "worldonlyu"
     },
     {
@@ -1855,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 1109,
+      "stars": 1279,
       "user": "N1nEmAn"
     },
     {
@@ -1870,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 799,
       "user": "AssassinCreator"
     },
     {
@@ -1885,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 772,
       "user": "ramenvr"
     },
     {
@@ -1900,14 +1860,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 485,
       "user": "smarkyie"
+    },
+    {
+      "title": "How to narrow down an ast selection",
+      "url": "https://stackoverflow.com/questions/80014888/how-to-narrow-down-an-ast-selection",
+      "published_at": "2026-11-05T10:55:18.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "python-ast"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
+    },
+    {
+      "title": "Why my API returns null into my website rather than returning the task?",
+      "url": "https://stackoverflow.com/questions/80014919/why-my-api-returns-null-into-my-website-rather-than-returning-the-task",
+      "published_at": "2026-11-05T12:35:10.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "fastapi"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shehab Helmi"
+    },
+    {
+      "title": "SQLAIchemy 2.0 can't load plugin sqlalchemy.dialects:kingbase.kscopg after dropping in the Kingbase dialect manually",
+      "url": "https://stackoverflow.com/questions/80014923/sqlaichemy-2-0-cant-load-plugin-sqlalchemy-dialectskingbase-kscopg-after-dropp",
+      "published_at": "2026-11-05T13:09:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "good ace"
     },
     {
       "title": "Python SQLModel FastAPI update existing data",
       "url": "https://stackoverflow.com/questions/80014856/python-sqlmodel-fastapi-update-existing-data",
       "published_at": "2026-11-05T08:38:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "sqlalchemy",
@@ -1922,7 +1921,7 @@
       "title": "How to build Pip RPM from bootstrap using tarball/wheel?",
       "url": "https://stackoverflow.com/questions/80014848/how-to-build-pip-rpm-from-bootstrap-using-tarball-wheel",
       "published_at": "2026-11-05T07:39:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "description": "Stack Overflow question · 0 answers · score 3",
       "tags": [
         "python",
         "macos",
@@ -1947,10 +1946,38 @@
       "user": "Daniel Sodkiewicz"
     },
     {
+      "title": "Is there an equivalent to __import__ but for lazy imports?",
+      "url": "https://stackoverflow.com/questions/80014774/is-there-an-equivalent-to-import-but-for-lazy-imports",
+      "published_at": "2026-11-04T21:48:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "python",
+        "python-import"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
+      "title": "Python SQLModel FastAPI get 1 row with 2 connected table datas",
+      "url": "https://stackoverflow.com/questions/80014652/python-sqlmodel-fastapi-get-1-row-with-2-connected-table-datas",
+      "published_at": "2026-11-04T11:57:37.000Z",
+      "description": "Stack Overflow question · 3 answers · score 3",
+      "tags": [
+        "python",
+        "sqlalchemy",
+        "fastapi",
+        "sqlmodel"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "xAvareS"
+    },
+    {
       "title": "How can I sum elements of a tensor based on a condition of one out of two values in its index pair into a new tensor using the pytorch package?",
       "url": "https://stackoverflow.com/questions/80014777/how-can-i-sum-elements-of-a-tensor-based-on-a-condition-of-one-out-of-two-values",
       "published_at": "2026-11-04T22:02:58.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 4",
       "tags": [
         "python",
         "pytorch",
@@ -1964,7 +1991,7 @@
       "title": "How to use Ellipsis as function argument default",
       "url": "https://stackoverflow.com/questions/80014764/how-to-use-ellipsis-as-function-argument-default",
       "published_at": "2026-11-04T20:52:53.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
         "python",
         "python-typing",
@@ -1973,75 +2000,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
-    },
-    {
-      "title": "Is there an equivalent to __import__ but for lazy imports?",
-      "url": "https://stackoverflow.com/questions/80014774/is-there-an-equivalent-to-import-but-for-lazy-imports",
-      "published_at": "2026-11-04T21:48:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "python-import"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Try/except failing to catch exceptions",
-      "url": "https://stackoverflow.com/questions/80014740/try-except-failing-to-catch-exceptions",
-      "published_at": "2026-11-04T18:43:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "python-3.x",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Philip Kearns"
-    },
-    {
-      "title": "Do proxy credentials containing @ or : need percent-encoding in requests' proxies dict, and is quote(safe=\"\") correct?",
-      "url": "https://stackoverflow.com/questions/80014683/do-proxy-credentials-containing-or-need-percent-encoding-in-requests-proxie",
-      "published_at": "2026-11-04T13:52:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
-      "tags": [
-        "python",
-        "python-requests"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "VPSTTT"
-    },
-    {
-      "title": "Python SQLModel FastAPI get 1 row with 2 connected table datas",
-      "url": "https://stackoverflow.com/questions/80014652/python-sqlmodel-fastapi-get-1-row-with-2-connected-table-datas",
-      "published_at": "2026-11-04T11:57:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "python",
-        "sqlalchemy",
-        "fastapi",
-        "sqlmodel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "xAvareS"
-    },
-    {
-      "title": "MQTT over multiple threads",
-      "url": "https://stackoverflow.com/questions/80014691/mqtt-over-multiple-threads",
-      "published_at": "2026-11-04T14:42:58.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "multithreading",
-        "mqtt"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "M_G_Shad_Man"
     }
   ],
   "DevOps": [
@@ -2149,21 +2107,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsb3mwitsukou1aehtfah.png",
       "source": "Dev.to",
       "user": "Azidin Shairi"
-    },
-    {
-      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
-      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
-      "published_at": "2026-10-22T16:05:20Z",
-      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2334,21 +2277,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
-      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
-      "published_at": "2026-10-22T16:05:20Z",
-      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2361,17 +2289,19 @@
       "user": "velmu"
     },
     {
-      "title": "Introducing Adaptive Dark Mode",
-      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "published_at": "2026-11-04T05:04:40.736-06:00",
-      "description": "Lobste.rs Discussion",
+      "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
+      "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
+      "published_at": "2026-11-04T02:30:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "css",
-        "web"
+        "javascript",
+        "html",
+        "ios",
+        "mobile-safari"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "Jackevansevo"
+      "source": "StackOverflow",
+      "user": "Gadget Seeker"
     },
     {
       "title": "How do I create a JS object (rather than an array) from HTML table values?",
@@ -2386,21 +2316,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eireni &#39;Fikia&#39; Moutoussi"
-    },
-    {
-      "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
-      "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
-      "published_at": "2026-11-04T02:30:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "best-practices",
-        "javascript",
-        "html",
-        "ios"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gadget Seeker"
     },
     {
       "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
@@ -2512,12 +2427,12 @@
       "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
       "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
       "published_at": "2026-11-04T02:30:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "best-practices",
         "javascript",
         "html",
-        "ios"
+        "ios",
+        "mobile-safari"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -2690,21 +2605,6 @@
       "user": "Azidin Shairi"
     },
     {
-      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
-      "url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
-      "published_at": "2026-10-22T16:05:20Z",
-      "description": "Architect GKE for long-running Gemini 4 Argon agent sessions using VPA CPU startup boost, GCPBackendPolicy connection draining, and session checkpointing.",
-      "tags": [
-        "kubernetes",
-        "ai",
-        "gke",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xhrstgm9dxsbn3z63ps.png",
-      "source": "Dev.to",
-      "user": "Olivier Bourgeois"
-    },
-    {
       "title": "ashayas/icloud-s3 - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
       "url": "https://github.com/ashayas/icloud-s3",
       "published_at": "2026-10-30T23:54:20Z",
@@ -2716,14 +2616,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 496,
       "user": "ashayas"
     },
     {
       "title": "SESV2Client from AWS SES - no super call in its instantiation",
       "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
       "published_at": "2026-11-04T20:58:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "node.js",
@@ -2732,6 +2632,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jean-Bertho Almonord"
+    },
+    {
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "published_at": "2026-11-05T15:19:05.000Z",
+      "description": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "cloud storage",
+        "Dropbox",
+        "Mergers and Acquisitions"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+      "published_at": "2026-11-05T15:00:00.000Z",
+      "description": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
+      "tags": [
+        "Apps",
+        "ai music",
+        "ElevenLabs",
+        "soundcloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
     }
   ],
   "Database": [
@@ -2763,6 +2694,21 @@
       "user": "iancarroll"
     },
     {
+      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "url": "https://github.com/sqlpxc/airhand",
+      "published_at": "2026-10-31T13:33:04Z",
+      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
+      "source": "GitHub",
+      "stars": 386,
+      "user": "sqlpxc"
+    },
+    {
       "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
       "url": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
       "published_at": "2026-11-04T09:23:09.155-06:00",
@@ -2777,10 +2723,23 @@
       "user": "ohrv"
     },
     {
+      "title": "SQLAIchemy 2.0 can't load plugin sqlalchemy.dialects:kingbase.kscopg after dropping in the Kingbase dialect manually",
+      "url": "https://stackoverflow.com/questions/80014923/sqlaichemy-2-0-cant-load-plugin-sqlalchemy-dialectskingbase-kscopg-after-dropp",
+      "published_at": "2026-11-05T13:09:52.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "sqlalchemy"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "good ace"
+    },
+    {
       "title": "Python SQLModel FastAPI update existing data",
       "url": "https://stackoverflow.com/questions/80014856/python-sqlmodel-fastapi-update-existing-data",
       "published_at": "2026-11-05T08:38:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "sqlalchemy",
@@ -2792,24 +2751,10 @@
       "user": "xAvareS"
     },
     {
-      "title": "Try/except failing to catch exceptions",
-      "url": "https://stackoverflow.com/questions/80014740/try-except-failing-to-catch-exceptions",
-      "published_at": "2026-11-04T18:43:28.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
-      "tags": [
-        "python",
-        "python-3.x",
-        "sqlalchemy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Philip Kearns"
-    },
-    {
       "title": "Python SQLModel FastAPI get 1 row with 2 connected table datas",
       "url": "https://stackoverflow.com/questions/80014652/python-sqlmodel-fastapi-get-1-row-with-2-connected-table-datas",
       "published_at": "2026-11-04T11:57:37.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 3 answers · score 3",
       "tags": [
         "python",
         "sqlalchemy",
@@ -2849,6 +2794,20 @@
     }
   ],
   "Security": [
+    {
+      "title": "Thank you to everyone who pointed out the phishing posts we got yesterday. We're working on improved mechanisms to automatically reject those types of attacks.",
+      "url": "https://dev.to/ben/thank-you-to-everyone-who-pointed-out-the-phishing-posts-we-got-yesterday-were-working-on-1h9b",
+      "published_at": "2026-11-05T15:25:46Z",
+      "description": "A post by Ben Halpern",
+      "tags": [
+        "cybersecurity",
+        "infosec",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fadovympzvepx45pvuw9m.png",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
     {
       "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
       "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg",
@@ -3040,9 +2999,9 @@
       "user": "Varcht"
     },
     {
-      "title": "Man-in-the-middle arbitrary code execution in Debian’s apt",
-      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
-      "published_at": "2026-11-04T07:36:43.067-06:00",
+      "title": "sshhole",
+      "url": "https://sshhole.com/",
+      "published_at": "2026-11-05T06:24:42.504-06:00",
       "description": "Lobste.rs Discussion",
       "tags": [
         "linux",
@@ -3050,22 +3009,7 @@
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "gnyeki"
-    },
-    {
-      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-      "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
-      "published_at": "2026-11-04T20:36:57.000Z",
-      "description": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
-      "tags": [
-        "Security",
-        "cybesecurity",
-        "dreamhost",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "user": "serce"
     },
     {
       "title": "What a CAPTCHA Farm Attack Actually Looks Like",
@@ -3098,6 +3042,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Find the production agent failures that every health check misses",
+      "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8",
+      "published_at": "2026-11-05T15:46:25Z",
+      "description": "AQuA is an open-source quality agent that surfaces the production failures your health checks miss and, when you ask, traces a failure to the line of code behind it. Try its dashboard locally.",
+      "tags": [
+        "agents",
+        "ai",
+        "debugging",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fquality-curve.6xHWd_CO_2kumlD.webp",
+      "source": "Dev.to",
+      "user": "Elia Secchi"
+    },
     {
       "title": "Profile Sprawl: Solving a Problem You Didn't Know You Had",
       "url": "https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5",
@@ -3236,7 +3195,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "source": "GitHub",
-      "stars": 5014,
+      "stars": 5210,
       "user": "patch-gg"
     },
     {
@@ -3251,7 +3210,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "source": "GitHub",
-      "stars": 2012,
+      "stars": 2135,
       "user": "elvarofficial"
     },
     {
@@ -3266,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 772,
+      "stars": 833,
       "user": "UncensoredLabs"
     },
     {
@@ -3281,7 +3240,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165612?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 642,
       "user": "brightsongwrath"
     },
     {
@@ -3296,7 +3255,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 589,
+      "stars": 597,
       "user": "Gezine"
     },
     {
@@ -3311,7 +3270,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 1369,
+      "stars": 2093,
       "user": "worldonlyu"
     },
     {
@@ -3326,7 +3285,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
       "source": "GitHub",
-      "stars": 1109,
+      "stars": 1279,
       "user": "N1nEmAn"
     },
     {
@@ -3341,7 +3300,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 780,
+      "stars": 799,
       "user": "AssassinCreator"
     },
     {
@@ -3356,7 +3315,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
       "source": "GitHub",
-      "stars": 743,
+      "stars": 772,
       "user": "ramenvr"
     },
     {
@@ -3371,7 +3330,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 485,
       "user": "smarkyie"
     },
     {
@@ -3386,7 +3345,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 602,
+      "stars": 604,
       "user": "Balanov"
     },
     {
@@ -3401,7 +3360,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 457,
+      "stars": 459,
       "user": "Balanov"
     },
     {
@@ -3416,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165393?v=4",
       "source": "GitHub",
-      "stars": 288,
+      "stars": 286,
       "user": "protonversestudio"
     },
     {
@@ -3431,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 264,
       "user": "Balanov"
     },
     {
@@ -3446,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 234,
       "user": "egoist"
     },
     {
@@ -3461,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19106,
+      "stars": 19379,
       "user": "deepseek-ai"
     },
     {
@@ -3476,7 +3435,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 2979,
+      "stars": 3177,
       "user": "KKKKhazix"
     },
     {
@@ -3491,7 +3450,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1808,
+      "stars": 1854,
       "user": "caru-ini"
     },
     {
@@ -3506,7 +3465,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1609,
+      "stars": 1686,
       "user": "mromidev"
     },
     {
@@ -3521,7 +3480,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 1016,
+      "stars": 1087,
       "user": "Minireel"
     },
     {
@@ -3536,14 +3495,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 13521,
+      "stars": 14485,
       "user": "storytold"
     },
     {
-      "title": "s1dashu/quiet-md - Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML. 高性能本地笔记，兼容飞书文档格式。",
+      "title": "s1dashu/quiet-md - Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
       "url": "https://github.com/s1dashu/quiet-md",
       "published_at": "2026-11-01T14:22:53Z",
-      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML. 高性能本地笔记，兼容飞书文档格式。",
+      "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
       "tags": [
         "rust",
         "github",
@@ -3551,7 +3510,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129982137?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 1023,
       "user": "s1dashu"
     },
     {
@@ -3566,7 +3525,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 496,
       "user": "ashayas"
     },
     {
@@ -3581,39 +3540,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165231?v=4",
       "source": "GitHub",
-      "stars": 417,
+      "stars": 421,
       "user": "DeltaProviderGuide"
     },
     {
-      "title": "StormSkinkGrip/game-ping-multipath-router - Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
-      "url": "https://github.com/StormSkinkGrip/game-ping-multipath-router",
-      "published_at": "2026-11-03T16:37:49Z",
-      "description": "Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
+      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "url": "https://github.com/sqlpxc/airhand",
+      "published_at": "2026-10-31T13:33:04Z",
+      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317165609?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 342,
-      "user": "StormSkinkGrip"
-    },
-    {
-      "title": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
-      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "published_at": "2026-11-04T22:13:16.000Z",
-      "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "tags": [
-        "AI",
-        "Startups",
-        "AI hardware",
-        "hardware",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
+      "stars": 386,
+      "user": "sqlpxc"
     },
     {
       "title": "Introducing Socrates and the New freeCodeCamp Forum",
