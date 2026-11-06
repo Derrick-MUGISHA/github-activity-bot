@@ -16,51 +16,6 @@
       "user": "Jem"
     },
     {
-      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
-      "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a",
-      "published_at": "2026-11-05T00:02:44Z",
-      "description": "Why do New Caledonian crows bend wire into hooks with zero training while a trillion-parameter LLM flies straight into the same production bug zapper? How Anthony Zador's Genomic Bottleneck explains what 'instinct' really is in AI coding agents.",
-      "tags": [
-        "ai",
-        "programming",
-        "neuroscience",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp24lnbmzkhrdluxod8g5.jpg",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
-      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k",
-      "published_at": "2026-11-03T22:28:08Z",
-      "description": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
-      "tags": [
-        "hacktoberfest",
-        "hf26challenge",
-        "opensource",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9j2yyb098hr9vwiu2xyr.webp",
-      "source": "Dev.to",
-      "user": "Noah Brinker"
-    },
-    {
-      "title": "Prompt Pad: What Are Open-Weight Models?",
-      "url": "https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh",
-      "published_at": "2026-11-05T21:00:19Z",
-      "description": "When people call an AI model \"open,\" they don't always mean the same thing.  On this week's Prompt...",
-      "tags": [
-        "opensource",
-        "ai",
-        "beginners",
-        "codenewbie"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdhpbb4fkjfpnq7nocn60.png",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
       "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72",
       "published_at": "2026-11-04T22:49:08Z",
@@ -76,19 +31,34 @@
       "user": "xbill"
     },
     {
-      "title": "Find the production agent failures that every health check misses",
-      "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8",
-      "published_at": "2026-11-05T15:46:25Z",
-      "description": "AQuA is an open-source quality agent that surfaces the production failures your health checks miss and, when you ask, traces a failure to the line of code behind it. Try its dashboard locally.",
+      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
+      "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a",
+      "published_at": "2026-11-05T00:02:44Z",
+      "description": "Why do New Caledonian crows bend wire into hooks with zero training while a trillion-parameter LLM flies straight into the same production bug zapper? How Anthony Zador's Genomic Bottleneck explains what 'instinct' really is in AI coding agents.",
       "tags": [
-        "agents",
         "ai",
-        "debugging",
-        "testing"
+        "programming",
+        "neuroscience",
+        "architecture"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fquality-curve.6xHWd_CO_2kumlD.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp24lnbmzkhrdluxod8g5.jpg",
       "source": "Dev.to",
-      "user": "Elia Secchi"
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Prompt Pad: What Are Open-Weight Models?",
+      "url": "https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh",
+      "published_at": "2026-11-05T21:00:19Z",
+      "description": "When people call an AI model \"open,\" they don't always mean the same thing.  On this week's Prompt...",
+      "tags": [
+        "opensource",
+        "ai",
+        "beginners",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdhpbb4fkjfpnq7nocn60.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
     },
     {
       "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
@@ -136,6 +106,21 @@
       "user": "MLH Team"
     },
     {
+      "title": "Find the production agent failures that every health check misses",
+      "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8",
+      "published_at": "2026-11-05T15:46:25Z",
+      "description": "AQuA is an open-source quality agent that surfaces the production failures your health checks miss and, when you ask, traces a failure to the line of code behind it. Try its dashboard locally.",
+      "tags": [
+        "agents",
+        "ai",
+        "debugging",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fquality-curve.6xHWd_CO_2kumlD.webp",
+      "source": "Dev.to",
+      "user": "Elia Secchi"
+    },
+    {
       "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
       "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-2-signal-forms-3ll9",
       "published_at": "2026-11-04T02:48:43Z",
@@ -164,6 +149,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk4s78yb3dgm2xz85byoo.png",
       "source": "Dev.to",
       "user": "MLH Team"
+    },
+    {
+      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
+      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k",
+      "published_at": "2026-11-03T22:28:08Z",
+      "description": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
+      "tags": [
+        "hacktoberfest",
+        "hf26challenge",
+        "opensource",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9j2yyb098hr9vwiu2xyr.webp",
+      "source": "Dev.to",
+      "user": "Noah Brinker"
     },
     {
       "title": "The Postcard That Ate Six Grammars: 1980 Smalltalk-80, 1976 Make, TDD, and the Four Attractors of Agentic Coding",
@@ -312,6 +312,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzxqoxai889zaalm2asa7.png",
       "source": "Dev.to",
       "user": "Carlos Barbero"
+    },
+    {
+      "title": "Singularity News :: CCG",
+      "url": "https://dev.to/pengeszikra/singularity-news-ccg-5ejk",
+      "published_at": "2026-10-31T02:18:22Z",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "gamedev",
+        "showdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyh84oxpucdnmygo396v.png",
+      "source": "Dev.to",
+      "user": "Peter Vivo"
     },
     {
       "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
@@ -748,8 +763,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 933,
       "user": "UncensoredLabs"
+    },
+    {
+      "title": "artemnovitckii/claude-animation-skills - Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+      "url": "https://github.com/artemnovitckii/claude-animation-skills",
+      "published_at": "2026-11-01T02:53:31Z",
+      "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
+      "source": "GitHub",
+      "stars": 419,
+      "user": "artemnovitckii"
     },
     {
       "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
@@ -763,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2489,
+      "stars": 2741,
       "user": "worldonlyu"
     },
     {
@@ -778,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 503,
       "user": "smarkyie"
     },
     {
@@ -793,7 +823,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 610,
       "user": "Balanov"
     },
     {
@@ -808,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 465,
       "user": "Balanov"
     },
     {
@@ -823,7 +853,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "Balanov"
     },
     {
@@ -838,7 +868,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19653,
+      "stars": 19979,
       "user": "deepseek-ai"
     },
     {
@@ -853,7 +883,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 508,
       "user": "sqlpxc"
     },
     {
@@ -868,52 +898,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 373,
+      "stars": 429,
       "user": "libracoder"
     },
     {
-      "title": "Software Line Specialist",
-      "url": "https://lovro-bikic.github.io/software-line-specialist/",
-      "published_at": "2026-11-05T10:32:29.997-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "ai",
-        "programming",
-        "satire"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "lovro-bikic"
-    },
-    {
-      "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
-      "url": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
-      "published_at": "2026-11-04T09:23:09.155-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "performance",
-        "rust",
-        "zig"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ohrv"
-    },
-    {
-      "title": "YouTube IFrame API: what are the security benefits of setting origin=mydomain.com in URL?",
-      "url": "https://stackoverflow.com/questions/80015029/youtube-iframe-api-what-are-the-security-benefits-of-setting-origin-mydomain-co",
-      "published_at": "2026-11-06T01:51:49.000Z",
+      "title": "Why does Milvus query() fail with VECTOR_FLOAT when sorting by an integer ID?",
+      "url": "https://stackoverflow.com/questions/80015095/why-does-milvus-query-fail-with-vector-float-when-sorting-by-an-integer-id",
+      "published_at": "2026-11-06T09:34:31.000Z",
       "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
-        "advice",
-        "javascript",
-        "iframe",
-        "youtube-iframe-api",
-        "websecurity"
+        "python",
+        "database",
+        "milvus"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Always a Newb at Something"
+      "user": "Derya Coşkun"
     },
     {
       "title": "SQLAIchemy 2.0 can't load plugin sqlalchemy.dialects:kingbase.kscopg after dropping in the Kingbase dialect manually",
@@ -927,6 +927,35 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "good ace"
+    },
+    {
+      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+      "published_at": "2026-11-06T07:18:44.000Z",
+      "description": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
+      "tags": [
+        "Government & Policy",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "published_at": "2026-11-06T06:28:32.000Z",
+      "description": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "tags": [
+        "AI",
+        "Security",
+        "Lightspeed Venture Capital",
+        "M&A",
+        "palo alto networks"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
@@ -1030,34 +1059,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "published_at": "2026-11-05T18:02:27.000Z",
-      "description": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "tags": [
-        "AI",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "published_at": "2026-11-05T18:00:00.000Z",
-      "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-      "tags": [
-        "Venture",
-        "brightmind",
-        "cybersecurtiy",
-        "venture firms"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
     },
     {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
@@ -1311,23 +1312,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 933,
       "user": "UncensoredLabs"
-    },
-    {
-      "title": "brightsongwrath/personal-data-deletor-osint - Ask 970 data brokers to delete your data. Free, local, no account, no server.",
-      "url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
-      "published_at": "2026-11-03T16:47:18Z",
-      "description": "Ask 970 data brokers to delete your data. Free, local, no account, no server.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317165612?v=4",
-      "source": "GitHub",
-      "stars": 650,
-      "user": "brightsongwrath"
     },
     {
       "title": "Gezine/CivSwitch - Nintendo Switch userland code execution using Civilization 7 game cartridge",
@@ -1341,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 623,
       "user": "Gezine"
     },
     {
@@ -1356,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 463,
       "user": "yetone"
     },
     {
@@ -1371,8 +1357,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316288798?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 421,
       "user": "MythicHokageRepel"
+    },
+    {
+      "title": "artemnovitckii/claude-animation-skills - Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+      "url": "https://github.com/artemnovitckii/claude-animation-skills",
+      "published_at": "2026-11-01T02:53:31Z",
+      "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
+      "source": "GitHub",
+      "stars": 419,
+      "user": "artemnovitckii"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -1386,7 +1387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19653,
+      "stars": 19979,
       "user": "deepseek-ai"
     },
     {
@@ -1401,23 +1402,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3334,
+      "stars": 3472,
       "user": "KKKKhazix"
-    },
-    {
-      "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "url": "https://github.com/caru-ini/stack-diagram",
-      "published_at": "2026-11-01T05:35:12Z",
-      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
-      "source": "GitHub",
-      "stars": 1877,
-      "user": "caru-ini"
     },
     {
       "title": "mromidev/claude-animated-shorts - Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
@@ -1431,8 +1417,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1796,
+      "stars": 1926,
       "user": "mromidev"
+    },
+    {
+      "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "published_at": "2026-11-01T05:35:12Z",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
+      "source": "GitHub",
+      "stars": 1900,
+      "user": "caru-ini"
     },
     {
       "title": "Minireel/HGhub - YellowFruit third-party client",
@@ -1446,7 +1447,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 1219,
+      "stars": 1356,
       "user": "Minireel"
     },
     {
@@ -1461,30 +1462,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 508,
       "user": "sqlpxc"
-    },
-    {
-      "title": "YouTube IFrame API: what are the security benefits of setting origin=mydomain.com in URL?",
-      "url": "https://stackoverflow.com/questions/80015029/youtube-iframe-api-what-are-the-security-benefits-of-setting-origin-mydomain-co",
-      "published_at": "2026-11-06T01:51:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "advice",
-        "javascript",
-        "iframe",
-        "youtube-iframe-api",
-        "websecurity"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Always a Newb at Something"
     },
     {
       "title": "Web page not displaying correctly when html is loaded directly or through local server",
       "url": "https://stackoverflow.com/questions/80014975/web-page-not-displaying-correctly-when-html-is-loaded-directly-or-through-local",
       "published_at": "2026-11-05T18:35:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -1493,19 +1478,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Larry k"
-    },
-    {
-      "title": "Confirmit respondent data fetch erroring out in Forsta",
-      "url": "https://stackoverflow.com/questions/80014785/confirmit-respondent-data-fetch-erroring-out-in-forsta",
-      "published_at": "2026-11-04T23:20:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "jscript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rick"
     },
     {
       "title": "Unusual syntax for declaring or extending a class - how does this work?",
@@ -1521,18 +1493,31 @@
       "user": "Manngo"
     },
     {
-      "title": "SESV2Client from AWS SES - no super call in its instantiation",
-      "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
-      "published_at": "2026-11-04T20:58:24.000Z",
+      "title": "Confirmit respondent data fetch erroring out in Forsta",
+      "url": "https://stackoverflow.com/questions/80014785/confirmit-respondent-data-fetch-erroring-out-in-forsta",
+      "published_at": "2026-11-04T23:20:16.000Z",
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
-        "node.js",
-        "amazon-web-services"
+        "jscript"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Jean-Bertho Almonord"
+      "user": "Rick"
+    },
+    {
+      "title": "How do I create a JS object (rather than an array) from HTML table values?",
+      "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
+      "published_at": "2026-11-03T15:07:46.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "javascript",
+        "html",
+        "jquery"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eireni &#39;Fikia&#39; Moutoussi"
     },
     {
       "title": "What does the output of V8's %DebugPrint mean?",
@@ -1546,6 +1531,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mark Amery"
+    },
+    {
+      "title": "SESV2Client from AWS SES - no super call in its instantiation",
+      "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
+      "published_at": "2026-11-04T20:58:24.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "node.js",
+        "amazon-web-services"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jean-Bertho Almonord"
     },
     {
       "title": "bug between v10.7 and v10.8 and later",
@@ -1564,7 +1563,7 @@
       "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
       "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
       "published_at": "2026-11-04T02:30:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -1795,7 +1794,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 933,
       "user": "UncensoredLabs"
     },
     {
@@ -1810,7 +1809,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2489,
+      "stars": 2741,
       "user": "worldonlyu"
     },
     {
@@ -1825,23 +1824,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 827,
       "user": "AssassinCreator"
-    },
-    {
-      "title": "smarkyie/NSP-Box - NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
-      "url": "https://github.com/smarkyie/NSP-Box",
-      "published_at": "2026-10-31T15:00:55Z",
-      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
-      "source": "GitHub",
-      "stars": 500,
-      "user": "smarkyie"
     },
     {
       "title": "WoYun520/pixel-gif-sticker-pack - A Codex skill for creating and verifying animated GIF sticker packs from character references.",
@@ -1855,43 +1839,72 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 524,
       "user": "WoYun520"
     },
     {
-      "title": "TagPhaseArcade/tiktok-uploader - Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
-      "url": "https://github.com/TagPhaseArcade/tiktok-uploader",
-      "published_at": "2026-11-05T06:48:59Z",
-      "description": "Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
+      "title": "mmdoctor/google-pro-helper - GitHub Repository",
+      "url": "https://github.com/mmdoctor/google-pro-helper",
+      "published_at": "2026-11-05T04:52:28Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343696529?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 426,
-      "user": "TagPhaseArcade"
+      "stars": 512,
+      "user": "mmdoctor"
     },
     {
-      "title": "Numba not speeding up python code looping over all pixels",
-      "url": "https://stackoverflow.com/questions/80015028/numba-not-speeding-up-python-code-looping-over-all-pixels",
-      "published_at": "2026-11-06T01:45:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "smarkyie/NSP-Box - NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "url": "https://github.com/smarkyie/NSP-Box",
+      "published_at": "2026-10-31T15:00:55Z",
+      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
       "tags": [
         "python",
-        "performance",
-        "numba"
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
+      "source": "GitHub",
+      "stars": 503,
+      "user": "smarkyie"
+    },
+    {
+      "title": "Why does Milvus query() fail with VECTOR_FLOAT when sorting by an integer ID?",
+      "url": "https://stackoverflow.com/questions/80015095/why-does-milvus-query-fail-with-vector-float-when-sorting-by-an-integer-id",
+      "published_at": "2026-11-06T09:34:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "database",
+        "milvus"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Python4Life"
+      "user": "Derya Coşkun"
+    },
+    {
+      "title": "How can I check whether a lazy import has executed in Python 3.15 without triggering it?",
+      "url": "https://stackoverflow.com/questions/80015000/how-can-i-check-whether-a-lazy-import-has-executed-in-python-3-15-without-trigge",
+      "published_at": "2026-11-05T22:25:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 10",
+      "tags": [
+        "python",
+        "python-import",
+        "lazy-loading"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Daniel Sodkiewicz"
     },
     {
       "title": "Handling cache invalidation while a shared in-flight task is still running",
       "url": "https://stackoverflow.com/questions/80014991/handling-cache-invalidation-while-a-shared-in-flight-task-is-still-running",
       "published_at": "2026-11-05T21:37:39.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "python",
         "caching",
@@ -1903,24 +1916,38 @@
       "user": "Faheem"
     },
     {
-      "title": "How can I check whether a lazy import has executed in Python 3.15 without triggering it?",
-      "url": "https://stackoverflow.com/questions/80015000/how-can-i-check-whether-a-lazy-import-has-executed-in-python-3-15-without-trigge",
-      "published_at": "2026-11-05T22:25:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
+      "title": "Cannot auto import Django classes in VS Code despite changing package index depth",
+      "url": "https://stackoverflow.com/questions/80015022/cannot-auto-import-django-classes-in-vs-code-despite-changing-package-index-dept",
+      "published_at": "2026-11-06T00:41:10.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "python-import",
-        "lazy-loading"
+        "django",
+        "vs-code"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Daniel Sodkiewicz"
+      "user": "IgorArnaut"
+    },
+    {
+      "title": "Numba not speeding up python code looping over all pixels",
+      "url": "https://stackoverflow.com/questions/80015028/numba-not-speeding-up-python-code-looping-over-all-pixels",
+      "published_at": "2026-11-06T01:45:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
+      "tags": [
+        "python",
+        "performance",
+        "numba"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Python4Life"
     },
     {
       "title": "How do I prompt for a file without uploading it in HTML",
       "url": "https://stackoverflow.com/questions/80014992/how-do-i-prompt-for-a-file-without-uploading-it-in-html",
       "published_at": "2026-11-05T21:39:45.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "python",
         "html"
@@ -1928,20 +1955,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AlexHomeBrew"
-    },
-    {
-      "title": "Cannot auto import Django classes in VS Code despite changing package index depth",
-      "url": "https://stackoverflow.com/questions/80015022/cannot-auto-import-django-classes-in-vs-code-despite-changing-package-index-dept",
-      "published_at": "2026-11-06T00:41:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "python",
-        "django",
-        "python-import"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "IgorArnaut"
     },
     {
       "title": "How to narrow down an ast selection to only assignments with a name on the RHS",
@@ -1957,19 +1970,6 @@
       "user": "NickC"
     },
     {
-      "title": "Why my API returns null into my website rather than returning the task?",
-      "url": "https://stackoverflow.com/questions/80014919/why-my-api-returns-null-into-my-website-rather-than-returning-the-task",
-      "published_at": "2026-11-05T12:35:10.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "fastapi"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shehab Helmi"
-    },
-    {
       "title": "SQLAIchemy 2.0 can't load plugin sqlalchemy.dialects:kingbase.kscopg after dropping in the Kingbase dialect manually",
       "url": "https://stackoverflow.com/questions/80014923/sqlaichemy-2-0-cant-load-plugin-sqlalchemy-dialectskingbase-kscopg-after-dropp",
       "published_at": "2026-11-05T13:09:52.000Z",
@@ -1983,32 +1983,33 @@
       "user": "good ace"
     },
     {
-      "title": "Python SQLModel FastAPI update existing data",
-      "url": "https://stackoverflow.com/questions/80014856/python-sqlmodel-fastapi-update-existing-data",
-      "published_at": "2026-11-05T08:38:48.000Z",
+      "title": "How to build Pip RPM from bootstrap using tarball/wheel?",
+      "url": "https://stackoverflow.com/questions/80014848/how-to-build-pip-rpm-from-bootstrap-using-tarball-wheel",
+      "published_at": "2026-11-05T07:39:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score 3",
+      "tags": [
+        "python",
+        "macos",
+        "pip",
+        "rpm",
+        "rpmbuild"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Somya Ranjan Jena"
+    },
+    {
+      "title": "Why my API returns null into my website rather than returning the task?",
+      "url": "https://stackoverflow.com/questions/80014919/why-my-api-returns-null-into-my-website-rather-than-returning-the-task",
+      "published_at": "2026-11-05T12:35:10.000Z",
       "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "sqlalchemy",
-        "fastapi",
-        "sqlmodel"
+        "fastapi"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "xAvareS"
-    },
-    {
-      "title": "Is there an equivalent to __import__ but for lazy imports?",
-      "url": "https://stackoverflow.com/questions/80014774/is-there-an-equivalent-to-import-but-for-lazy-imports",
-      "published_at": "2026-11-04T21:48:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "python",
-        "python-import"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
+      "user": "Shehab Helmi"
     }
   ],
   "DevOps": [
@@ -2249,7 +2250,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 463,
       "user": "yetone"
     },
     {
@@ -2316,7 +2317,7 @@
       "title": "Web page not displaying correctly when html is loaded directly or through local server",
       "url": "https://stackoverflow.com/questions/80014975/web-page-not-displaying-correctly-when-html-is-loaded-directly-or-through-local",
       "published_at": "2026-11-05T18:35:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -3",
       "tags": [
         "javascript",
         "html",
@@ -2327,10 +2328,24 @@
       "user": "Larry k"
     },
     {
+      "title": "How do I create a JS object (rather than an array) from HTML table values?",
+      "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
+      "published_at": "2026-11-03T15:07:46.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "javascript",
+        "html",
+        "jquery"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Eireni &#39;Fikia&#39; Moutoussi"
+    },
+    {
       "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
       "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
       "published_at": "2026-11-04T02:30:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -2359,7 +2374,7 @@
       "title": "How do I prompt for a file without uploading it in HTML",
       "url": "https://stackoverflow.com/questions/80014992/how-do-i-prompt-for-a-file-without-uploading-it-in-html",
       "published_at": "2026-11-05T21:39:45.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "python",
         "html"
@@ -2464,7 +2479,7 @@
       "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
       "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
       "published_at": "2026-11-04T02:30:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -2668,7 +2683,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 463,
       "user": "yetone"
     },
     {
@@ -2740,22 +2755,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 508,
       "user": "sqlpxc"
     },
     {
-      "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
-      "url": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
-      "published_at": "2026-11-04T09:23:09.155-06:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Why does Milvus query() fail with VECTOR_FLOAT when sorting by an integer ID?",
+      "url": "https://stackoverflow.com/questions/80015095/why-does-milvus-query-fail-with-vector-float-when-sorting-by-an-integer-id",
+      "published_at": "2026-11-06T09:34:31.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
-        "performance",
-        "rust",
-        "zig"
+        "python",
+        "database",
+        "milvus"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ohrv"
+      "source": "StackOverflow",
+      "user": "Derya Coşkun"
     },
     {
       "title": "SQLAIchemy 2.0 can't load plugin sqlalchemy.dialects:kingbase.kscopg after dropping in the Kingbase dialect manually",
@@ -2769,21 +2784,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "good ace"
-    },
-    {
-      "title": "Python SQLModel FastAPI update existing data",
-      "url": "https://stackoverflow.com/questions/80014856/python-sqlmodel-fastapi-update-existing-data",
-      "published_at": "2026-11-05T08:38:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "sqlalchemy",
-        "fastapi",
-        "sqlmodel"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "xAvareS"
     },
     {
       "title": "Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB",
@@ -3044,20 +3044,20 @@
       "user": "mhm"
     },
     {
-      "title": "YouTube IFrame API: what are the security benefits of setting origin=mydomain.com in URL?",
-      "url": "https://stackoverflow.com/questions/80015029/youtube-iframe-api-what-are-the-security-benefits-of-setting-origin-mydomain-co",
-      "published_at": "2026-11-06T01:51:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "published_at": "2026-11-06T06:28:32.000Z",
+      "description": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
       "tags": [
-        "advice",
-        "javascript",
-        "iframe",
-        "youtube-iframe-api",
-        "websecurity"
+        "AI",
+        "Security",
+        "Lightspeed Venture Capital",
+        "M&A",
+        "palo alto networks"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Always a Newb at Something"
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "OpenAI released a new cybersecurity model. Is that enough?",
@@ -3087,21 +3087,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
-    },
-    {
-      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "published_at": "2026-11-05T18:00:00.000Z",
-      "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-      "tags": [
-        "Venture",
-        "brightmind",
-        "cybersecurtiy",
-        "venture firms"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
     },
     {
       "title": "What a CAPTCHA Farm Attack Actually Looks Like",
@@ -3299,23 +3284,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 933,
       "user": "UncensoredLabs"
-    },
-    {
-      "title": "brightsongwrath/personal-data-deletor-osint - Ask 970 data brokers to delete your data. Free, local, no account, no server.",
-      "url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
-      "published_at": "2026-11-03T16:47:18Z",
-      "description": "Ask 970 data brokers to delete your data. Free, local, no account, no server.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317165612?v=4",
-      "source": "GitHub",
-      "stars": 650,
-      "user": "brightsongwrath"
     },
     {
       "title": "Gezine/CivSwitch - Nintendo Switch userland code execution using Civilization 7 game cartridge",
@@ -3329,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 616,
+      "stars": 623,
       "user": "Gezine"
     },
     {
@@ -3344,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 461,
+      "stars": 463,
       "user": "yetone"
     },
     {
@@ -3359,8 +3329,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316288798?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 421,
       "user": "MythicHokageRepel"
+    },
+    {
+      "title": "artemnovitckii/claude-animation-skills - Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+      "url": "https://github.com/artemnovitckii/claude-animation-skills",
+      "published_at": "2026-11-01T02:53:31Z",
+      "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
+      "source": "GitHub",
+      "stars": 419,
+      "user": "artemnovitckii"
     },
     {
       "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
@@ -3374,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2489,
+      "stars": 2741,
       "user": "worldonlyu"
     },
     {
@@ -3389,23 +3374,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 816,
+      "stars": 827,
       "user": "AssassinCreator"
-    },
-    {
-      "title": "smarkyie/NSP-Box - NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
-      "url": "https://github.com/smarkyie/NSP-Box",
-      "published_at": "2026-10-31T15:00:55Z",
-      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
-      "source": "GitHub",
-      "stars": 500,
-      "user": "smarkyie"
     },
     {
       "title": "WoYun520/pixel-gif-sticker-pack - A Codex skill for creating and verifying animated GIF sticker packs from character references.",
@@ -3419,23 +3389,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 455,
+      "stars": 524,
       "user": "WoYun520"
     },
     {
-      "title": "TagPhaseArcade/tiktok-uploader - Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
-      "url": "https://github.com/TagPhaseArcade/tiktok-uploader",
-      "published_at": "2026-11-05T06:48:59Z",
-      "description": "Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
+      "title": "mmdoctor/google-pro-helper - GitHub Repository",
+      "url": "https://github.com/mmdoctor/google-pro-helper",
+      "published_at": "2026-11-05T04:52:28Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343696529?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 426,
-      "user": "TagPhaseArcade"
+      "stars": 512,
+      "user": "mmdoctor"
+    },
+    {
+      "title": "smarkyie/NSP-Box - NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "url": "https://github.com/smarkyie/NSP-Box",
+      "published_at": "2026-10-31T15:00:55Z",
+      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
+      "source": "GitHub",
+      "stars": 503,
+      "user": "smarkyie"
     },
     {
       "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
@@ -3449,7 +3434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 608,
+      "stars": 610,
       "user": "Balanov"
     },
     {
@@ -3464,8 +3449,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 463,
+      "stars": 465,
       "user": "Balanov"
+    },
+    {
+      "title": "Lee-xeo/Claude-Cage - Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
+      "url": "https://github.com/Lee-xeo/Claude-Cage",
+      "published_at": "2026-10-31T15:07:08Z",
+      "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/120454108?v=4",
+      "source": "GitHub",
+      "stars": 385,
+      "user": "Lee-xeo"
     },
     {
       "title": "protonversestudio/wow-forever-builds-kindred - Answer four questions and see which WoW Forever class fits how you play. Free Windows app.",
@@ -3494,23 +3494,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 265,
+      "stars": 266,
       "user": "Balanov"
-    },
-    {
-      "title": "egoist/godraw - infinite canvas in mygo",
-      "url": "https://github.com/egoist/godraw",
-      "published_at": "2026-11-02T09:47:18Z",
-      "description": "infinite canvas in mygo",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
-      "source": "GitHub",
-      "stars": 237,
-      "user": "egoist"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -3524,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19653,
+      "stars": 19979,
       "user": "deepseek-ai"
     },
     {
@@ -3539,23 +3524,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3334,
+      "stars": 3472,
       "user": "KKKKhazix"
-    },
-    {
-      "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "url": "https://github.com/caru-ini/stack-diagram",
-      "published_at": "2026-11-01T05:35:12Z",
-      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
-      "source": "GitHub",
-      "stars": 1877,
-      "user": "caru-ini"
     },
     {
       "title": "mromidev/claude-animated-shorts - Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
@@ -3569,8 +3539,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1796,
+      "stars": 1926,
       "user": "mromidev"
+    },
+    {
+      "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "published_at": "2026-11-01T05:35:12Z",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
+      "source": "GitHub",
+      "stars": 1900,
+      "user": "caru-ini"
     },
     {
       "title": "Minireel/HGhub - YellowFruit third-party client",
@@ -3584,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 1219,
+      "stars": 1356,
       "user": "Minireel"
     },
     {
@@ -3599,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 15489,
+      "stars": 16527,
       "user": "storytold"
     },
     {
@@ -3614,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129982137?v=4",
       "source": "GitHub",
-      "stars": 1095,
+      "stars": 1140,
       "user": "s1dashu"
     },
     {
@@ -3629,8 +3614,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 508,
       "user": "sqlpxc"
+    },
+    {
+      "title": "libracoder/kiri - A small, fast container runtime for macOS, Windows and Linux",
+      "url": "https://github.com/libracoder/kiri",
+      "published_at": "2026-11-02T16:11:30Z",
+      "description": "A small, fast container runtime for macOS, Windows and Linux",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
+      "source": "GitHub",
+      "stars": 429,
+      "user": "libracoder"
     },
     {
       "title": "DeltaProviderGuide/auto-auction-bot-wow-forever - A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
@@ -3646,21 +3646,6 @@
       "source": "GitHub",
       "stars": 423,
       "user": "DeltaProviderGuide"
-    },
-    {
-      "title": "libracoder/kiri - A small, fast container runtime for macOS, Windows and Linux",
-      "url": "https://github.com/libracoder/kiri",
-      "published_at": "2026-11-02T16:11:30Z",
-      "description": "A small, fast container runtime for macOS, Windows and Linux",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
-      "source": "GitHub",
-      "stars": 373,
-      "user": "libracoder"
     },
     {
       "title": "Serve Robotics launches new business to become the AWS for robots",
