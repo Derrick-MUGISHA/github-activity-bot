@@ -16,6 +16,21 @@
       "user": "Jem"
     },
     {
+      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
+      "url": "https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp",
+      "published_at": "2026-11-06T22:28:31Z",
+      "description": "Hey all, we have a quick update for everyone who participated in the Hacktoberfest Open-Source AI...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frhtnbaz5elh8xcpmie86.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
       "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b",
       "published_at": "2026-11-06T16:34:18Z",
@@ -538,21 +553,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Why Smaller AI Models Can Win in the Enterprise",
-      "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57",
-      "published_at": "2026-10-11T19:41:19Z",
-      "description": "Three engineering lessons from building a 1-billion-parameter foundation model for enterprise fraud detection.",
-      "tags": [
-        "aie",
-        "machinelearning",
-        "gpu",
-        "deeplearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm639wbwsz2jige4sw3v1.png",
-      "source": "Dev.to",
-      "user": "Freddy Lécué"
-    },
-    {
       "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
       "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
       "published_at": "2026-10-11T19:45:03Z",
@@ -566,36 +566,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1o8lrk6u11w24rig84py.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
-    },
-    {
-      "title": "A World Worth Understanding",
-      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
-      "published_at": "2026-10-11T19:43:19Z",
-      "description": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
-      "tags": [
-        "aie",
-        "career",
-        "ai",
-        "community"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
-      "source": "Dev.to",
-      "user": "dev.to staff"
-    },
-    {
-      "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
-      "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
-      "published_at": "2026-10-30T05:35:56Z",
-      "description": "When a production Kubernetes cluster starts throwing 5xx errors , the hardest part of incident...",
-      "tags": [
-        "sre",
-        "kubernetes",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7epj18utz7xdyl1fo4rb.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -777,8 +747,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 444,
       "user": "artemnovitckii"
+    },
+    {
+      "title": "SAOS-3624/dsh-see-now - 让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "url": "https://github.com/SAOS-3624/dsh-see-now",
+      "published_at": "2026-11-01T13:32:34Z",
+      "description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
+      "source": "GitHub",
+      "stars": 418,
+      "user": "SAOS-3624"
     },
     {
       "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
@@ -792,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2839,
+      "stars": 2877,
       "user": "worldonlyu"
     },
     {
@@ -807,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 510,
       "user": "smarkyie"
     },
     {
@@ -822,37 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 611,
-      "user": "Balanov"
-    },
-    {
-      "title": "Balanov/shim - Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
-      "url": "https://github.com/Balanov/shim",
-      "published_at": "2026-11-02T17:54:29Z",
-      "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
-      "source": "GitHub",
-      "stars": 467,
-      "user": "Balanov"
-    },
-    {
-      "title": "Balanov/skein - Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
-      "url": "https://github.com/Balanov/skein",
-      "published_at": "2026-11-02T23:57:05Z",
-      "description": "Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
-      "source": "GitHub",
-      "stars": 266,
+      "stars": 251,
       "user": "Balanov"
     },
     {
@@ -867,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 20177,
+      "stars": 20226,
       "user": "deepseek-ai"
     },
     {
@@ -882,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 626,
       "user": "sqlpxc"
     },
     {
@@ -897,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 547,
       "user": "libracoder"
     },
     {
@@ -912,16 +867,15 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "Renly1994"
     },
     {
-      "title": "YouTube IFrame API: what are the security benefits of setting origin=mydomain.com in URL?",
-      "url": "https://stackoverflow.com/questions/80015029/youtube-iframe-api-what-are-the-security-benefits-of-setting-origin-mydomain-co",
+      "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
+      "url": "https://stackoverflow.com/questions/80015029/what-are-the-security-benefits-of-setting-origin-mydomain-com-in-the-url",
       "published_at": "2026-11-06T01:51:49.000Z",
       "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
-        "advice",
         "javascript",
         "iframe",
         "youtube-iframe-api",
@@ -944,6 +898,70 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Derya Coşkun"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "published_at": "2026-11-06T22:53:46.000Z",
+      "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "fundraising",
+        "In Brief",
+        "OpenAI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "The Duo apps are coming, says Apple",
+      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+      "published_at": "2026-11-06T21:38:05.000Z",
+      "description": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+      "tags": [
+        "Apps",
+        "Apple",
+        "developers",
+        "foldable",
+        "iPhone"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "published_at": "2026-11-06T18:44:38.000Z",
+      "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "tags": [
+        "AI",
+        "Security",
+        "cybersecurity",
+        "cyberattack",
+        "artex"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "published_at": "2026-11-06T18:44:20.000Z",
+      "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "tags": [
+        "AI",
+        "agents",
+        "Mark Zuckerberg",
+        "Meta",
+        "muse"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "After the midterms, is the AI industry in for a rough two years?",
@@ -1024,68 +1042,6 @@
       "user": "Ivan Mehta"
     },
     {
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "published_at": "2026-11-06T13:00:00.000Z",
-      "description": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "tags": [
-        "AI",
-        "Fundraising",
-        "Robotics",
-        "iNovia Capital",
-        "physical ai"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Tesla will stop making the Cybertruck in 2027",
-      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-      "published_at": "2026-11-06T11:50:10.000Z",
-      "description": "Elon Musk said the company will use the factory space to make more Cybercabs.",
-      "tags": [
-        "Transportation",
-        "Cybertruck",
-        "Elon Musk",
-        "Tesla"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
-    },
-    {
-      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-      "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
-      "published_at": "2026-11-06T07:18:44.000Z",
-      "description": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
-      "tags": [
-        "Government & Policy",
-        "AI",
-        "Flock",
-        "surveillance technologies"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "published_at": "2026-11-06T06:28:32.000Z",
-      "description": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "tags": [
-        "AI",
-        "Security",
-        "Lightspeed Venture Capital",
-        "Mergers and Acquisitions",
-        "palo alto networks"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
       "url": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
       "published_at": "2026-11-03T19:00:29.000Z",
@@ -1128,22 +1084,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Kamal Kishore"
-    },
-    {
-      "title": "How AI-Powered Search Works: A Guide for Devs on AI Visibility",
-      "url": "https://www.freecodecamp.org/news/ai-search-visibility/",
-      "published_at": "2026-10-29T21:53:51.000Z",
-      "description": "Searched worked in a familiar way for decades: you'd type in your query, get back a list of pages, and choose one to click on. Behind the scenes, Google would find the pages it thought you might want,",
-      "tags": [
-        "Artificial Intelligence",
-        "ai search",
-        "SEO",
-        "generative ai",
-        "#content strategy"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Reetain Raina"
     }
   ],
   "JavaScript": [
@@ -1352,8 +1292,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 630,
       "user": "Gezine"
+    },
+    {
+      "title": "JenkinWoo/sheeridVerify - GitHub Repository",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "published_at": "2026-11-06T09:28:09Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
+      "source": "GitHub",
+      "stars": 588,
+      "user": "JenkinWoo"
     },
     {
       "title": "yetone/alma-relay - Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
@@ -1382,38 +1337,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 444,
       "user": "artemnovitckii"
     },
     {
-      "title": "MythicHokageRepel/steam-inventory-value-desktop - Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
-      "url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop",
-      "published_at": "2026-11-05T05:32:56Z",
-      "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+      "title": "SAOS-3624/dsh-see-now - 让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "url": "https://github.com/SAOS-3624/dsh-see-now",
+      "published_at": "2026-11-01T13:32:34Z",
+      "description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316288798?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
       "source": "GitHub",
-      "stars": 422,
-      "user": "MythicHokageRepel"
-    },
-    {
-      "title": "Wallbycontact/java-mod-rust-port-tool - Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
-      "url": "https://github.com/Wallbycontact/java-mod-rust-port-tool",
-      "published_at": "2026-11-05T06:15:39Z",
-      "description": "Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317170740?v=4",
-      "source": "GitHub",
-      "stars": 420,
-      "user": "Wallbycontact"
+      "stars": 418,
+      "user": "SAOS-3624"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -1427,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 20177,
+      "stars": 20226,
       "user": "deepseek-ai"
     },
     {
@@ -1442,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3628,
+      "stars": 3667,
       "user": "KKKKhazix"
     },
     {
@@ -1457,7 +1397,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1994,
+      "stars": 2025,
       "user": "mromidev"
     },
     {
@@ -1472,7 +1412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 1949,
       "user": "caru-ini"
     },
     {
@@ -1487,7 +1427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 1562,
+      "stars": 1609,
       "user": "Minireel"
     },
     {
@@ -1502,16 +1442,44 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 626,
       "user": "sqlpxc"
     },
     {
-      "title": "YouTube IFrame API: what are the security benefits of setting origin=mydomain.com in URL?",
-      "url": "https://stackoverflow.com/questions/80015029/youtube-iframe-api-what-are-the-security-benefits-of-setting-origin-mydomain-co",
+      "title": "GA4 generate_lead event fires twice per Contact Form 7 submission via Google Tag Manager",
+      "url": "https://stackoverflow.com/questions/80015239/ga4-generate-lead-event-fires-twice-per-contact-form-7-submission-via-google-tag",
+      "published_at": "2026-11-06T21:57:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "google-tag-manager",
+        "vercel",
+        "contact-form-7",
+        "google-analytics-4"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "SOFTLOGIX Technologies"
+    },
+    {
+      "title": "amCharts4: legend clipping issue",
+      "url": "https://stackoverflow.com/questions/80015217/amcharts4-legend-clipping-issue",
+      "published_at": "2026-11-06T20:32:40.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "javascript",
+        "amcharts4"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "P S"
+    },
+    {
+      "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
+      "url": "https://stackoverflow.com/questions/80015029/what-are-the-security-benefits-of-setting-origin-mydomain-com-in-the-url",
       "published_at": "2026-11-06T01:51:49.000Z",
       "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
-        "advice",
         "javascript",
         "iframe",
         "youtube-iframe-api",
@@ -1576,6 +1544,19 @@
       "user": "Rick"
     },
     {
+      "title": "bug between v10.7 and v10.8 and later",
+      "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
+      "published_at": "2026-11-04T22:00:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "openlayers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "allez l&#39;OM"
+    },
+    {
       "title": "SESV2Client from AWS SES - no super call in its instantiation",
       "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
       "published_at": "2026-11-04T20:58:24.000Z",
@@ -1588,19 +1569,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jean-Bertho Almonord"
-    },
-    {
-      "title": "bug between v10.7 and v10.8 and later",
-      "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
-      "published_at": "2026-11-04T22:00:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "openlayers"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "allez l&#39;OM"
     },
     {
       "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
@@ -1618,32 +1586,18 @@
       "user": "Gadget Seeker"
     },
     {
-      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
-      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
-      "published_at": "2026-11-01T04:11:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "title": "How to Build a PDF Storyboard Generator Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/",
+      "published_at": "2026-11-06T19:41:34.000Z",
+      "description": "PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so",
       "tags": [
-        "javascript",
-        "html",
-        "dom-events"
+        "JavaScript",
+        "pdf",
+        "Web Development"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mith sams"
-    },
-    {
-      "title": "How can I locate an element in a nested div without selecting the outer div?",
-      "url": "https://stackoverflow.com/questions/79989960/how-can-i-locate-an-element-in-a-nested-div-without-selecting-the-outer-div",
-      "published_at": "2026-08-02T21:00:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "ui-automation",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Adnan Zaman"
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
     },
     {
       "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
@@ -1839,23 +1793,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2839,
+      "stars": 2877,
       "user": "worldonlyu"
-    },
-    {
-      "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-      "published_at": "2026-11-02T00:40:47Z",
-      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
-      "source": "GitHub",
-      "stars": 830,
-      "user": "AssassinCreator"
     },
     {
       "title": "mmdoctor/google-pro-helper - GitHub Repository",
@@ -1869,8 +1808,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 868,
       "user": "mmdoctor"
+    },
+    {
+      "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "published_at": "2026-11-02T00:40:47Z",
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
+      "source": "GitHub",
+      "stars": 786,
+      "user": "AssassinCreator"
     },
     {
       "title": "WoYun520/pixel-gif-sticker-pack - A Codex skill for creating and verifying animated GIF sticker packs from character references.",
@@ -1884,7 +1838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 552,
       "user": "WoYun520"
     },
     {
@@ -1899,14 +1853,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 510,
       "user": "smarkyie"
+    },
+    {
+      "title": "How can I check whether a lazy import has executed in Python 3.15 without triggering it?",
+      "url": "https://stackoverflow.com/questions/80015000/how-can-i-check-whether-a-lazy-import-has-executed-in-python-3-15-without-trigge",
+      "published_at": "2026-11-05T22:25:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 14",
+      "tags": [
+        "python",
+        "python-import",
+        "lazy-loading"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Daniel Sodkiewicz"
     },
     {
       "title": "Benchmarking Python Decorator Overhead",
       "url": "https://stackoverflow.com/questions/80015170/benchmarking-python-decorator-overhead",
       "published_at": "2026-11-06T14:51:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
         "benchmarking"
@@ -1944,6 +1912,20 @@
       "user": "xAvareS"
     },
     {
+      "title": "Numba not speeding up python code looping over all pixels",
+      "url": "https://stackoverflow.com/questions/80015028/numba-not-speeding-up-python-code-looping-over-all-pixels",
+      "published_at": "2026-11-06T01:45:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "python",
+        "performance",
+        "numba"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Python4Life"
+    },
+    {
       "title": "Unable to make a direction checker loop",
       "url": "https://stackoverflow.com/questions/80015150/unable-to-make-a-direction-checker-loop",
       "published_at": "2026-11-06T13:48:37.000Z",
@@ -1974,32 +1956,17 @@
       "user": "Derya Coşkun"
     },
     {
-      "title": "Numba not speeding up python code looping over all pixels",
-      "url": "https://stackoverflow.com/questions/80015028/numba-not-speeding-up-python-code-looping-over-all-pixels",
-      "published_at": "2026-11-06T01:45:27.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
+      "title": "How to narrow down an ast selection to only assignments with a name on the RHS",
+      "url": "https://stackoverflow.com/questions/80014888/how-to-narrow-down-an-ast-selection-to-only-assignments-with-a-name-on-the-rhs",
+      "published_at": "2026-11-05T10:55:18.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
       "tags": [
         "python",
-        "performance",
-        "numba"
+        "python-ast"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Python4Life"
-    },
-    {
-      "title": "How can I check whether a lazy import has executed in Python 3.15 without triggering it?",
-      "url": "https://stackoverflow.com/questions/80015000/how-can-i-check-whether-a-lazy-import-has-executed-in-python-3-15-without-trigge",
-      "published_at": "2026-11-05T22:25:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 13",
-      "tags": [
-        "python",
-        "python-import",
-        "lazy-loading"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Daniel Sodkiewicz"
+      "user": "NickC"
     },
     {
       "title": "Handling cache invalidation while a shared in-flight task is still running",
@@ -2020,7 +1987,7 @@
       "title": "How do I prompt for a file without uploading it in HTML",
       "url": "https://stackoverflow.com/questions/80014992/how-do-i-prompt-for-a-file-without-uploading-it-in-html",
       "published_at": "2026-11-05T21:39:45.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "python",
         "html"
@@ -2028,20 +1995,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AlexHomeBrew"
-    },
-    {
-      "title": "Cannot auto import Django classes in VS Code despite changing package index depth",
-      "url": "https://stackoverflow.com/questions/80015022/cannot-auto-import-django-classes-in-vs-code-despite-changing-package-index-dept",
-      "published_at": "2026-11-06T00:41:10.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "django",
-        "vs-code"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "IgorArnaut"
     }
   ],
   "DevOps": [
@@ -2133,21 +2086,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F471epezz3m6cdkvp598f.jpg",
       "source": "Dev.to",
       "user": "Esra Kadah"
-    },
-    {
-      "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
-      "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
-      "published_at": "2026-10-30T05:35:56Z",
-      "description": "When a production Kubernetes cluster starts throwing 5xx errors , the hardest part of incident...",
-      "tags": [
-        "sre",
-        "kubernetes",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7epj18utz7xdyl1fo4rb.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2388,24 +2326,10 @@
       "user": "Gadget Seeker"
     },
     {
-      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
-      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
-      "published_at": "2026-11-01T04:11:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "html",
-        "dom-events"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mith sams"
-    },
-    {
       "title": "How do I prompt for a file without uploading it in HTML",
       "url": "https://stackoverflow.com/questions/80014992/how-do-i-prompt-for-a-file-without-uploading-it-in-html",
       "published_at": "2026-11-05T21:39:45.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "python",
         "html"
@@ -2413,6 +2337,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "AlexHomeBrew"
+    },
+    {
+      "title": "How to Build a PDF Storyboard Generator Using JavaScript",
+      "url": "https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/",
+      "published_at": "2026-11-06T19:41:34.000Z",
+      "description": "PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so",
+      "tags": [
+        "JavaScript",
+        "pdf",
+        "Web Development"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Bhavin Sheth"
     },
     {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
@@ -2685,21 +2623,6 @@
       "user": "Karthigayan Devan"
     },
     {
-      "title": "Build a production-style Autonomous SRE Command Center using Gemini 4 Argon",
-      "url": "https://dev.to/gde/build-a-production-style-autonomous-sre-command-center-using-gemini-4-argon-759",
-      "published_at": "2026-10-30T05:35:56Z",
-      "description": "When a production Kubernetes cluster starts throwing 5xx errors , the hardest part of incident...",
-      "tags": [
-        "sre",
-        "kubernetes",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7epj18utz7xdyl1fo4rb.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "yetone/alma-relay - Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
       "url": "https://github.com/yetone/alma-relay",
       "published_at": "2026-10-31T13:30:34Z",
@@ -2769,7 +2692,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 626,
       "user": "sqlpxc"
     },
     {
@@ -3046,12 +2969,11 @@
       "user": "freddyb"
     },
     {
-      "title": "YouTube IFrame API: what are the security benefits of setting origin=mydomain.com in URL?",
-      "url": "https://stackoverflow.com/questions/80015029/youtube-iframe-api-what-are-the-security-benefits-of-setting-origin-mydomain-co",
+      "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
+      "url": "https://stackoverflow.com/questions/80015029/what-are-the-security-benefits-of-setting-origin-mydomain-com-in-the-url",
       "published_at": "2026-11-06T01:51:49.000Z",
       "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
-        "advice",
         "javascript",
         "iframe",
         "youtube-iframe-api",
@@ -3062,20 +2984,20 @@
       "user": "Always a Newb at Something"
     },
     {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "published_at": "2026-11-06T06:28:32.000Z",
-      "description": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "published_at": "2026-11-06T18:44:38.000Z",
+      "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
       "tags": [
         "AI",
         "Security",
-        "Lightspeed Venture Capital",
-        "Mergers and Acquisitions",
-        "palo alto networks"
+        "cybersecurity",
+        "cyberattack",
+        "artex"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Marina Temkin"
+      "user": "Zack Whittaker"
     },
     {
       "title": "What a CAPTCHA Farm Attack Actually Looks Like",
@@ -3092,19 +3014,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Reetain Raina"
-    },
-    {
-      "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
-      "url": "https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/",
-      "published_at": "2026-10-29T21:00:09.000Z",
-      "description": "Understanding how malicious actors infiltrate networks is the first step to building resilient infrastructure. To help developers and aspiring security analysts learn the fundamentals of offensive sec",
-      "tags": [
-        "penetration testing",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ],
   "Tools": [
@@ -3258,8 +3167,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 625,
+      "stars": 630,
       "user": "Gezine"
+    },
+    {
+      "title": "JenkinWoo/sheeridVerify - GitHub Repository",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "published_at": "2026-11-06T09:28:09Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
+      "source": "GitHub",
+      "stars": 588,
+      "user": "JenkinWoo"
     },
     {
       "title": "yetone/alma-relay - Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
@@ -3288,38 +3212,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
       "source": "GitHub",
-      "stars": 435,
+      "stars": 444,
       "user": "artemnovitckii"
     },
     {
-      "title": "MythicHokageRepel/steam-inventory-value-desktop - Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
-      "url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop",
-      "published_at": "2026-11-05T05:32:56Z",
-      "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+      "title": "SAOS-3624/dsh-see-now - 让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "url": "https://github.com/SAOS-3624/dsh-see-now",
+      "published_at": "2026-11-01T13:32:34Z",
+      "description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316288798?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
       "source": "GitHub",
-      "stars": 422,
-      "user": "MythicHokageRepel"
-    },
-    {
-      "title": "Wallbycontact/java-mod-rust-port-tool - Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
-      "url": "https://github.com/Wallbycontact/java-mod-rust-port-tool",
-      "published_at": "2026-11-05T06:15:39Z",
-      "description": "Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317170740?v=4",
-      "source": "GitHub",
-      "stars": 420,
-      "user": "Wallbycontact"
+      "stars": 418,
+      "user": "SAOS-3624"
     },
     {
       "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
@@ -3333,23 +3242,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2839,
+      "stars": 2877,
       "user": "worldonlyu"
-    },
-    {
-      "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-      "published_at": "2026-11-02T00:40:47Z",
-      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
-      "source": "GitHub",
-      "stars": 830,
-      "user": "AssassinCreator"
     },
     {
       "title": "mmdoctor/google-pro-helper - GitHub Repository",
@@ -3363,8 +3257,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 782,
+      "stars": 868,
       "user": "mmdoctor"
+    },
+    {
+      "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "published_at": "2026-11-02T00:40:47Z",
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
+      "source": "GitHub",
+      "stars": 786,
+      "user": "AssassinCreator"
     },
     {
       "title": "WoYun520/pixel-gif-sticker-pack - A Codex skill for creating and verifying animated GIF sticker packs from character references.",
@@ -3378,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 550,
+      "stars": 552,
       "user": "WoYun520"
     },
     {
@@ -3393,38 +3302,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
       "source": "GitHub",
-      "stars": 507,
+      "stars": 510,
       "user": "smarkyie"
-    },
-    {
-      "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-      "url": "https://github.com/Balanov/uncut",
-      "published_at": "2026-11-01T17:19:30Z",
-      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
-      "source": "GitHub",
-      "stars": 611,
-      "user": "Balanov"
-    },
-    {
-      "title": "Balanov/shim - Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
-      "url": "https://github.com/Balanov/shim",
-      "published_at": "2026-11-02T17:54:29Z",
-      "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
-      "source": "GitHub",
-      "stars": 467,
-      "user": "Balanov"
     },
     {
       "title": "Lee-xeo/Claude-Cage - Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
@@ -3438,7 +3317,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/120454108?v=4",
       "source": "GitHub",
-      "stars": 454,
+      "stars": 468,
       "user": "Lee-xeo"
     },
     {
@@ -3453,14 +3332,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165393?v=4",
       "source": "GitHub",
-      "stars": 286,
+      "stars": 274,
       "user": "protonversestudio"
     },
     {
-      "title": "Balanov/skein - Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
-      "url": "https://github.com/Balanov/skein",
-      "published_at": "2026-11-02T23:57:05Z",
-      "description": "Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
+      "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "url": "https://github.com/Balanov/uncut",
+      "published_at": "2026-11-01T17:19:30Z",
+      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
       "tags": [
         "go",
         "github",
@@ -3468,8 +3347,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 266,
+      "stars": 251,
       "user": "Balanov"
+    },
+    {
+      "title": "egoist/godraw - infinite canvas in mygo",
+      "url": "https://github.com/egoist/godraw",
+      "published_at": "2026-11-02T09:47:18Z",
+      "description": "infinite canvas in mygo",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
+      "source": "GitHub",
+      "stars": 241,
+      "user": "egoist"
+    },
+    {
+      "title": "egoist/mygo-music - A native music player you extend with plugins",
+      "url": "https://github.com/egoist/mygo-music",
+      "published_at": "2026-11-04T13:27:14Z",
+      "description": "A native music player you extend with plugins",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
+      "source": "GitHub",
+      "stars": 225,
+      "user": "egoist"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -3483,7 +3392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 20177,
+      "stars": 20226,
       "user": "deepseek-ai"
     },
     {
@@ -3498,7 +3407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3628,
+      "stars": 3667,
       "user": "KKKKhazix"
     },
     {
@@ -3513,7 +3422,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1994,
+      "stars": 2025,
       "user": "mromidev"
     },
     {
@@ -3528,7 +3437,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1930,
+      "stars": 1949,
       "user": "caru-ini"
     },
     {
@@ -3543,7 +3452,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 1562,
+      "stars": 1609,
       "user": "Minireel"
     },
     {
@@ -3558,7 +3467,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 17551,
+      "stars": 17952,
       "user": "storytold"
     },
     {
@@ -3573,7 +3482,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129982137?v=4",
       "source": "GitHub",
-      "stars": 1169,
+      "stars": 1176,
       "user": "s1dashu"
     },
     {
@@ -3588,7 +3497,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 529,
+      "stars": 626,
       "user": "sqlpxc"
     },
     {
@@ -3603,7 +3512,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 508,
+      "stars": 547,
       "user": "libracoder"
     },
     {
@@ -3618,7 +3527,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 427,
       "user": "Renly1994"
     },
     {
@@ -3635,6 +3544,19 @@
       "user": "mtlynch"
     },
     {
+      "title": "Inside GitHub's new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "published_at": "2026-11-06T11:50:09.323-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "distributed",
+        "vcs"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ndr"
+    },
+    {
       "title": "Where to add the --enable-native-access=ALL-UNNAMED?",
       "url": "https://stackoverflow.com/questions/80015187/where-to-add-the-enable-native-access-all-unnamed",
       "published_at": "2026-11-06T15:58:59.000Z",
@@ -3648,20 +3570,33 @@
       "user": "Trigan"
     },
     {
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "published_at": "2026-11-06T13:00:00.000Z",
-      "description": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "published_at": "2026-11-06T18:44:38.000Z",
+      "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
       "tags": [
         "AI",
-        "Fundraising",
-        "Robotics",
-        "iNovia Capital",
-        "physical ai"
+        "Security",
+        "cybersecurity",
+        "cyberattack",
+        "artex"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Tim Fernholz"
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
+      "url": "https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/",
+      "published_at": "2026-11-06T16:06:33.000Z",
+      "description": "A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho",
+      "tags": [
+        "Godot",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
     },
     {
       "title": "Introducing Socrates and the New freeCodeCamp Forum",
@@ -3676,19 +3611,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "Quincy Larson"
-    },
-    {
-      "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
-      "url": "https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/",
-      "published_at": "2026-10-29T21:00:09.000Z",
-      "description": "Understanding how malicious actors infiltrate networks is the first step to building resilient infrastructure. To help developers and aspiring security analysts learn the fundamentals of offensive sec",
-      "tags": [
-        "penetration testing",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
     }
   ]
 }
