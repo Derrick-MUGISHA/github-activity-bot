@@ -61,21 +61,6 @@
       "user": "MLH Team"
     },
     {
-      "title": "Find the production agent failures that every health check misses",
-      "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8",
-      "published_at": "2026-11-05T15:46:25Z",
-      "description": "AQuA is an open-source quality agent that surfaces the production failures your health checks miss and, when you ask, traces a failure to the line of code behind it. Try its dashboard locally.",
-      "tags": [
-        "agents",
-        "ai",
-        "debugging",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fquality-curve.6xHWd_CO_2kumlD.webp",
-      "source": "Dev.to",
-      "user": "Elia Secchi"
-    },
-    {
       "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
       "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72",
       "published_at": "2026-11-04T22:49:08Z",
@@ -89,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fjax-dev%2Fmain%2Farticle%2Fdevto-cover.3c49df33.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Find the production agent failures that every health check misses",
+      "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8",
+      "published_at": "2026-11-05T15:46:25Z",
+      "description": "AQuA is an open-source quality agent that surfaces the production failures your health checks miss and, when you ask, traces a failure to the line of code behind it. Try its dashboard locally.",
+      "tags": [
+        "agents",
+        "ai",
+        "debugging",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fquality-curve.6xHWd_CO_2kumlD.webp",
+      "source": "Dev.to",
+      "user": "Elia Secchi"
     },
     {
       "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
@@ -119,21 +119,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3we6kl95okn3atgkn9wg.jpg",
       "source": "Dev.to",
       "user": "Patricio Navarro"
-    },
-    {
-      "title": "Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!",
-      "url": "https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370",
-      "published_at": "2026-11-04T22:00:15Z",
-      "description": "We're excited to announce our newest challenge with Presage!  The Presage SmartSpectra SDK Challenge...",
-      "tags": [
-        "devchallenge",
-        "presagechallenge",
-        "presage",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkx3vgfze743kv0yqvhud.png",
-      "source": "Dev.to",
-      "user": "Jem"
     },
     {
       "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
@@ -282,6 +267,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F94tpwuwjg44m2i882twm.png",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!",
+      "url": "https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370",
+      "published_at": "2026-11-04T22:00:15Z",
+      "description": "We're excited to announce our newest challenge with Presage!  The Presage SmartSpectra SDK Challenge...",
+      "tags": [
+        "devchallenge",
+        "presagechallenge",
+        "presage",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkx3vgfze743kv0yqvhud.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "Prompt Pad: What Is Open Source?",
@@ -748,7 +748,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 877,
       "user": "UncensoredLabs"
     },
     {
@@ -763,23 +763,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2290,
+      "stars": 2489,
       "user": "worldonlyu"
-    },
-    {
-      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "url": "https://github.com/N1nEmAn/sapper-v2",
-      "published_at": "2026-10-30T15:12:35Z",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
-      "source": "GitHub",
-      "stars": 1332,
-      "user": "N1nEmAn"
     },
     {
       "title": "smarkyie/NSP-Box - NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
@@ -793,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 500,
       "user": "smarkyie"
     },
     {
@@ -823,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 463,
       "user": "Balanov"
     },
     {
@@ -853,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19461,
+      "stars": 19653,
       "user": "deepseek-ai"
     },
     {
@@ -868,8 +853,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 504,
       "user": "sqlpxc"
+    },
+    {
+      "title": "libracoder/kiri - A small, fast container runtime for macOS, Windows and Linux",
+      "url": "https://github.com/libracoder/kiri",
+      "published_at": "2026-11-02T16:11:30Z",
+      "description": "A small, fast container runtime for macOS, Windows and Linux",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
+      "source": "GitHub",
+      "stars": 373,
+      "user": "libracoder"
     },
     {
       "title": "Software Line Specialist",
@@ -900,10 +900,26 @@
       "user": "ohrv"
     },
     {
+      "title": "YouTube IFrame API: what are the security benefits of setting origin=mydomain.com in URL?",
+      "url": "https://stackoverflow.com/questions/80015029/youtube-iframe-api-what-are-the-security-benefits-of-setting-origin-mydomain-co",
+      "published_at": "2026-11-06T01:51:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "advice",
+        "javascript",
+        "iframe",
+        "youtube-iframe-api",
+        "websecurity"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Always a Newb at Something"
+    },
+    {
       "title": "SQLAIchemy 2.0 can't load plugin sqlalchemy.dialects:kingbase.kscopg after dropping in the Kingbase dialect manually",
       "url": "https://stackoverflow.com/questions/80014923/sqlaichemy-2-0-cant-load-plugin-sqlalchemy-dialectskingbase-kscopg-after-dropp",
       "published_at": "2026-11-05T13:09:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "sqlalchemy"
@@ -913,6 +929,22 @@
       "user": "good ace"
     },
     {
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "published_at": "2026-11-06T00:07:18.000Z",
+      "description": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "tags": [
+        "Media & Entertainment",
+        "In Brief",
+        "Letterboxd",
+        "Mergers and Acquisitions",
+        "The New York Times"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
       "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
       "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
       "published_at": "2026-11-05T22:40:55.000Z",
@@ -920,6 +952,7 @@
       "tags": [
         "AI",
         "Commerce",
+        "AI agents",
         "Airbnb",
         "travel"
       ],
@@ -1025,37 +1058,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "published_at": "2026-11-05T18:00:00.000Z",
-      "description": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Anthropic",
-        "Claude"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Harbinger raises $240M after expanding into defense",
-      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-      "published_at": "2026-11-05T17:52:44.000Z",
-      "description": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
-      "tags": [
-        "Fundraising",
-        "Startups",
-        "Transportation",
-        "autonomous vehicles",
-        "electric trucks"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sean O'Kane"
     },
     {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
@@ -1298,36 +1300,6 @@
       "user": "velmu"
     },
     {
-      "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "url": "https://github.com/patch-gg/pixelfx",
-      "published_at": "2026-10-30T06:43:25Z",
-      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
-      "source": "GitHub",
-      "stars": 5249,
-      "user": "patch-gg"
-    },
-    {
-      "title": "elvarofficial/teardown - A Claude Code skill that turns any machine into a 3D simulator you can take apart",
-      "url": "https://github.com/elvarofficial/teardown",
-      "published_at": "2026-10-30T09:29:01Z",
-      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
-      "source": "GitHub",
-      "stars": 2173,
-      "user": "elvarofficial"
-    },
-    {
       "title": "UncensoredLabs/uncensored-ai-api - Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
       "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
       "published_at": "2026-11-01T20:53:34Z",
@@ -1339,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 877,
       "user": "UncensoredLabs"
     },
     {
@@ -1354,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165612?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 650,
       "user": "brightsongwrath"
     },
     {
@@ -1369,8 +1341,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 616,
       "user": "Gezine"
+    },
+    {
+      "title": "yetone/alma-relay - Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
+      "url": "https://github.com/yetone/alma-relay",
+      "published_at": "2026-10-31T13:30:34Z",
+      "description": "Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "source": "GitHub",
+      "stars": 461,
+      "user": "yetone"
+    },
+    {
+      "title": "MythicHokageRepel/steam-inventory-value-desktop - Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+      "url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop",
+      "published_at": "2026-11-05T05:32:56Z",
+      "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316288798?v=4",
+      "source": "GitHub",
+      "stars": 416,
+      "user": "MythicHokageRepel"
     },
     {
       "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
@@ -1384,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19461,
+      "stars": 19653,
       "user": "deepseek-ai"
     },
     {
@@ -1399,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3220,
+      "stars": 3334,
       "user": "KKKKhazix"
     },
     {
@@ -1414,7 +1416,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1864,
+      "stars": 1877,
       "user": "caru-ini"
     },
     {
@@ -1429,7 +1431,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1729,
+      "stars": 1796,
       "user": "mromidev"
     },
     {
@@ -1444,7 +1446,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 1097,
+      "stars": 1219,
       "user": "Minireel"
     },
     {
@@ -1459,8 +1461,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 504,
       "user": "sqlpxc"
+    },
+    {
+      "title": "YouTube IFrame API: what are the security benefits of setting origin=mydomain.com in URL?",
+      "url": "https://stackoverflow.com/questions/80015029/youtube-iframe-api-what-are-the-security-benefits-of-setting-origin-mydomain-co",
+      "published_at": "2026-11-06T01:51:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "advice",
+        "javascript",
+        "iframe",
+        "youtube-iframe-api",
+        "websecurity"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Always a Newb at Something"
     },
     {
       "title": "Web page not displaying correctly when html is loaded directly or through local server",
@@ -1480,7 +1498,7 @@
       "title": "Confirmit respondent data fetch erroring out in Forsta",
       "url": "https://stackoverflow.com/questions/80014785/confirmit-respondent-data-fetch-erroring-out-in-forsta",
       "published_at": "2026-11-04T23:20:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "javascript",
         "jscript"
@@ -1488,6 +1506,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rick"
+    },
+    {
+      "title": "Unusual syntax for declaring or extending a class - how does this work?",
+      "url": "https://stackoverflow.com/questions/80014338/unusual-syntax-for-declaring-or-extending-a-class-how-does-this-work",
+      "published_at": "2026-11-03T02:04:03.000Z",
+      "description": "Stack Overflow question · 2 answers · score 10",
+      "tags": [
+        "javascript",
+        "class"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Manngo"
     },
     {
       "title": "SESV2Client from AWS SES - no super call in its instantiation",
@@ -1504,17 +1535,17 @@
       "user": "Jean-Bertho Almonord"
     },
     {
-      "title": "Unusual syntax for declaring or extending a class - how does this work?",
-      "url": "https://stackoverflow.com/questions/80014338/unusual-syntax-for-declaring-or-extending-a-class-how-does-this-work",
-      "published_at": "2026-11-03T02:04:03.000Z",
-      "description": "Stack Overflow question · 2 answers · score 10",
+      "title": "What does the output of V8's %DebugPrint mean?",
+      "url": "https://stackoverflow.com/questions/80014677/what-does-the-output-of-v8s-debugprint-mean",
+      "published_at": "2026-11-04T13:09:19.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "javascript",
-        "class"
+        "v8"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Manngo"
+      "user": "Mark Amery"
     },
     {
       "title": "bug between v10.7 and v10.8 and later",
@@ -1528,19 +1559,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "allez l&#39;OM"
-    },
-    {
-      "title": "What does the output of V8's %DebugPrint mean?",
-      "url": "https://stackoverflow.com/questions/80014677/what-does-the-output-of-v8s-debugprint-mean",
-      "published_at": "2026-11-04T13:09:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "v8"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Mark Amery"
     },
     {
       "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
@@ -1582,20 +1600,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mith sams"
-    },
-    {
-      "title": "How can I locate an element in a nested div without selecting the outer div?",
-      "url": "https://stackoverflow.com/questions/79989960/how-can-i-locate-an-element-in-a-nested-div-without-selecting-the-outer-div",
-      "published_at": "2026-08-02T21:00:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "ui-automation",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Adnan Zaman"
     },
     {
       "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
@@ -1791,7 +1795,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 877,
       "user": "UncensoredLabs"
     },
     {
@@ -1806,23 +1810,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2290,
+      "stars": 2489,
       "user": "worldonlyu"
-    },
-    {
-      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "url": "https://github.com/N1nEmAn/sapper-v2",
-      "published_at": "2026-10-30T15:12:35Z",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
-      "source": "GitHub",
-      "stars": 1332,
-      "user": "N1nEmAn"
     },
     {
       "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
@@ -1836,23 +1825,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 816,
       "user": "AssassinCreator"
-    },
-    {
-      "title": "ramenvr/autopilot - Play any game",
-      "url": "https://github.com/ramenvr/autopilot",
-      "published_at": "2026-10-30T03:47:28Z",
-      "description": "Play any game",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
-      "source": "GitHub",
-      "stars": 781,
-      "user": "ramenvr"
     },
     {
       "title": "smarkyie/NSP-Box - NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
@@ -1866,8 +1840,81 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 500,
       "user": "smarkyie"
+    },
+    {
+      "title": "WoYun520/pixel-gif-sticker-pack - A Codex skill for creating and verifying animated GIF sticker packs from character references.",
+      "url": "https://github.com/WoYun520/pixel-gif-sticker-pack",
+      "published_at": "2026-11-05T04:08:24Z",
+      "description": "A Codex skill for creating and verifying animated GIF sticker packs from character references.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
+      "source": "GitHub",
+      "stars": 455,
+      "user": "WoYun520"
+    },
+    {
+      "title": "TagPhaseArcade/tiktok-uploader - Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
+      "url": "https://github.com/TagPhaseArcade/tiktok-uploader",
+      "published_at": "2026-11-05T06:48:59Z",
+      "description": "Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343696529?v=4",
+      "source": "GitHub",
+      "stars": 426,
+      "user": "TagPhaseArcade"
+    },
+    {
+      "title": "Numba not speeding up python code looping over all pixels",
+      "url": "https://stackoverflow.com/questions/80015028/numba-not-speeding-up-python-code-looping-over-all-pixels",
+      "published_at": "2026-11-06T01:45:27.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "performance",
+        "numba"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Python4Life"
+    },
+    {
+      "title": "Handling cache invalidation while a shared in-flight task is still running",
+      "url": "https://stackoverflow.com/questions/80014991/handling-cache-invalidation-while-a-shared-in-flight-task-is-still-running",
+      "published_at": "2026-11-05T21:37:39.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "caching",
+        "concurrency",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Faheem"
+    },
+    {
+      "title": "How can I check whether a lazy import has executed in Python 3.15 without triggering it?",
+      "url": "https://stackoverflow.com/questions/80015000/how-can-i-check-whether-a-lazy-import-has-executed-in-python-3-15-without-trigge",
+      "published_at": "2026-11-05T22:25:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
+      "tags": [
+        "python",
+        "python-import",
+        "lazy-loading"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Daniel Sodkiewicz"
     },
     {
       "title": "How do I prompt for a file without uploading it in HTML",
@@ -1883,37 +1930,24 @@
       "user": "AlexHomeBrew"
     },
     {
-      "title": "How can I check whether a lazy import has executed in Python 3.15 without triggering it?",
-      "url": "https://stackoverflow.com/questions/80015000/how-can-i-check-whether-a-lazy-import-has-executed-in-python-3-15-without-trigge",
-      "published_at": "2026-11-05T22:25:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Daniel Sodkiewicz"
-    },
-    {
-      "title": "Handling cache invalidation while a shared in-flight task is still running",
-      "url": "https://stackoverflow.com/questions/80014991/handling-cache-invalidation-while-a-shared-in-flight-task-is-still-running",
-      "published_at": "2026-11-05T21:37:39.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Cannot auto import Django classes in VS Code despite changing package index depth",
+      "url": "https://stackoverflow.com/questions/80015022/cannot-auto-import-django-classes-in-vs-code-despite-changing-package-index-dept",
+      "published_at": "2026-11-06T00:41:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "python",
-        "caching",
-        "concurrency",
-        "python-asyncio"
+        "django",
+        "python-import"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Faheem"
+      "user": "IgorArnaut"
     },
     {
-      "title": "How to narrow down an ast selection",
-      "url": "https://stackoverflow.com/questions/80014888/how-to-narrow-down-an-ast-selection",
+      "title": "How to narrow down an ast selection to only assignments with a name on the RHS",
+      "url": "https://stackoverflow.com/questions/80014888/how-to-narrow-down-an-ast-selection-to-only-assignments-with-a-name-on-the-rhs",
       "published_at": "2026-11-05T10:55:18.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
+      "description": "Stack Overflow question · 1 answers · score -2",
       "tags": [
         "python",
         "python-ast"
@@ -1926,7 +1960,7 @@
       "title": "Why my API returns null into my website rather than returning the task?",
       "url": "https://stackoverflow.com/questions/80014919/why-my-api-returns-null-into-my-website-rather-than-returning-the-task",
       "published_at": "2026-11-05T12:35:10.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
         "python",
         "fastapi"
@@ -1939,7 +1973,7 @@
       "title": "SQLAIchemy 2.0 can't load plugin sqlalchemy.dialects:kingbase.kscopg after dropping in the Kingbase dialect manually",
       "url": "https://stackoverflow.com/questions/80014923/sqlaichemy-2-0-cant-load-plugin-sqlalchemy-dialectskingbase-kscopg-after-dropp",
       "published_at": "2026-11-05T13:09:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "sqlalchemy"
@@ -1975,34 +2009,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
-    },
-    {
-      "title": "How to build Pip RPM from bootstrap using tarball/wheel?",
-      "url": "https://stackoverflow.com/questions/80014848/how-to-build-pip-rpm-from-bootstrap-using-tarball-wheel",
-      "published_at": "2026-11-05T07:39:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score 3",
-      "tags": [
-        "python",
-        "macos",
-        "pip",
-        "rpm",
-        "rpmbuild"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Somya Ranjan Jena"
-    },
-    {
-      "title": "How to ignore duplicate IDs until they have been absent for 10 seconds in Python?",
-      "url": "https://stackoverflow.com/questions/80014831/how-to-ignore-duplicate-ids-until-they-have-been-absent-for-10-seconds-in-python",
-      "published_at": "2026-11-05T06:03:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Daniel Sodkiewicz"
     }
   ],
   "DevOps": [
@@ -2230,6 +2236,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "jknupp"
+    },
+    {
+      "title": "yetone/alma-relay - Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
+      "url": "https://github.com/yetone/alma-relay",
+      "published_at": "2026-10-31T13:30:34Z",
+      "description": "Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "source": "GitHub",
+      "stars": 461,
+      "user": "yetone"
     },
     {
       "title": "How to Automate Docker Image Creation for Postgres Using Shell Commands",
@@ -2636,19 +2657,19 @@
       "user": "Azidin Shairi"
     },
     {
-      "title": "ashayas/icloud-s3 - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
-      "url": "https://github.com/ashayas/icloud-s3",
-      "published_at": "2026-10-30T23:54:20Z",
-      "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
+      "title": "yetone/alma-relay - Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
+      "url": "https://github.com/yetone/alma-relay",
+      "published_at": "2026-10-31T13:30:34Z",
+      "description": "Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
       "tags": [
-        "rust",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 497,
-      "user": "ashayas"
+      "stars": 461,
+      "user": "yetone"
     },
     {
       "title": "SESV2Client from AWS SES - no super call in its instantiation",
@@ -2719,7 +2740,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 504,
       "user": "sqlpxc"
     },
     {
@@ -2740,7 +2761,7 @@
       "title": "SQLAIchemy 2.0 can't load plugin sqlalchemy.dialects:kingbase.kscopg after dropping in the Kingbase dialect manually",
       "url": "https://stackoverflow.com/questions/80014923/sqlaichemy-2-0-cant-load-plugin-sqlalchemy-dialectskingbase-kscopg-after-dropp",
       "published_at": "2026-11-05T13:09:52.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
         "python",
         "sqlalchemy"
@@ -3023,6 +3044,22 @@
       "user": "mhm"
     },
     {
+      "title": "YouTube IFrame API: what are the security benefits of setting origin=mydomain.com in URL?",
+      "url": "https://stackoverflow.com/questions/80015029/youtube-iframe-api-what-are-the-security-benefits-of-setting-origin-mydomain-co",
+      "published_at": "2026-11-06T01:51:49.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "advice",
+        "javascript",
+        "iframe",
+        "youtube-iframe-api",
+        "websecurity"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Always a Newb at Something"
+    },
+    {
       "title": "OpenAI released a new cybersecurity model. Is that enough?",
       "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "published_at": "2026-11-05T19:06:12.000Z",
@@ -3251,36 +3288,6 @@
       "user": "pabs3"
     },
     {
-      "title": "patch-gg/pixelfx - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "url": "https://github.com/patch-gg/pixelfx",
-      "published_at": "2026-10-30T06:43:25Z",
-      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/337959018?v=4",
-      "source": "GitHub",
-      "stars": 5249,
-      "user": "patch-gg"
-    },
-    {
-      "title": "elvarofficial/teardown - A Claude Code skill that turns any machine into a 3D simulator you can take apart",
-      "url": "https://github.com/elvarofficial/teardown",
-      "published_at": "2026-10-30T09:29:01Z",
-      "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/350203459?v=4",
-      "source": "GitHub",
-      "stars": 2173,
-      "user": "elvarofficial"
-    },
-    {
       "title": "UncensoredLabs/uncensored-ai-api - Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
       "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
       "published_at": "2026-11-01T20:53:34Z",
@@ -3292,7 +3299,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/351208728?v=4",
       "source": "GitHub",
-      "stars": 845,
+      "stars": 877,
       "user": "UncensoredLabs"
     },
     {
@@ -3307,7 +3314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165612?v=4",
       "source": "GitHub",
-      "stars": 649,
+      "stars": 650,
       "user": "brightsongwrath"
     },
     {
@@ -3322,8 +3329,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 616,
       "user": "Gezine"
+    },
+    {
+      "title": "yetone/alma-relay - Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
+      "url": "https://github.com/yetone/alma-relay",
+      "published_at": "2026-10-31T13:30:34Z",
+      "description": "Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "source": "GitHub",
+      "stars": 461,
+      "user": "yetone"
+    },
+    {
+      "title": "MythicHokageRepel/steam-inventory-value-desktop - Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+      "url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop",
+      "published_at": "2026-11-05T05:32:56Z",
+      "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/316288798?v=4",
+      "source": "GitHub",
+      "stars": 416,
+      "user": "MythicHokageRepel"
     },
     {
       "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
@@ -3337,23 +3374,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2290,
+      "stars": 2489,
       "user": "worldonlyu"
-    },
-    {
-      "title": "N1nEmAn/sapper-v2 - Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "url": "https://github.com/N1nEmAn/sapper-v2",
-      "published_at": "2026-10-30T15:12:35Z",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/118088443?v=4",
-      "source": "GitHub",
-      "stars": 1332,
-      "user": "N1nEmAn"
     },
     {
       "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
@@ -3367,23 +3389,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 805,
+      "stars": 816,
       "user": "AssassinCreator"
-    },
-    {
-      "title": "ramenvr/autopilot - Play any game",
-      "url": "https://github.com/ramenvr/autopilot",
-      "published_at": "2026-10-30T03:47:28Z",
-      "description": "Play any game",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/48219470?v=4",
-      "source": "GitHub",
-      "stars": 781,
-      "user": "ramenvr"
     },
     {
       "title": "smarkyie/NSP-Box - NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
@@ -3397,8 +3404,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
       "source": "GitHub",
-      "stars": 491,
+      "stars": 500,
       "user": "smarkyie"
+    },
+    {
+      "title": "WoYun520/pixel-gif-sticker-pack - A Codex skill for creating and verifying animated GIF sticker packs from character references.",
+      "url": "https://github.com/WoYun520/pixel-gif-sticker-pack",
+      "published_at": "2026-11-05T04:08:24Z",
+      "description": "A Codex skill for creating and verifying animated GIF sticker packs from character references.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
+      "source": "GitHub",
+      "stars": 455,
+      "user": "WoYun520"
+    },
+    {
+      "title": "TagPhaseArcade/tiktok-uploader - Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
+      "url": "https://github.com/TagPhaseArcade/tiktok-uploader",
+      "published_at": "2026-11-05T06:48:59Z",
+      "description": "Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343696529?v=4",
+      "source": "GitHub",
+      "stars": 426,
+      "user": "TagPhaseArcade"
     },
     {
       "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
@@ -3427,7 +3464,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 463,
       "user": "Balanov"
     },
     {
@@ -3472,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 236,
+      "stars": 237,
       "user": "egoist"
     },
     {
@@ -3487,7 +3524,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 19461,
+      "stars": 19653,
       "user": "deepseek-ai"
     },
     {
@@ -3502,7 +3539,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3220,
+      "stars": 3334,
       "user": "KKKKhazix"
     },
     {
@@ -3517,7 +3554,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1864,
+      "stars": 1877,
       "user": "caru-ini"
     },
     {
@@ -3532,7 +3569,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 1729,
+      "stars": 1796,
       "user": "mromidev"
     },
     {
@@ -3547,7 +3584,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 1097,
+      "stars": 1219,
       "user": "Minireel"
     },
     {
@@ -3562,7 +3599,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "source": "GitHub",
-      "stars": 14898,
+      "stars": 15489,
       "user": "storytold"
     },
     {
@@ -3577,38 +3614,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129982137?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1095,
       "user": "s1dashu"
-    },
-    {
-      "title": "ashayas/icloud-s3 - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
-      "url": "https://github.com/ashayas/icloud-s3",
-      "published_at": "2026-10-30T23:54:20Z",
-      "description": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/11003755?v=4",
-      "source": "GitHub",
-      "stars": 497,
-      "user": "ashayas"
-    },
-    {
-      "title": "DeltaProviderGuide/auto-auction-bot-wow-forever - A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
-      "url": "https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever",
-      "published_at": "2026-11-04T05:41:32Z",
-      "description": "A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317165231?v=4",
-      "source": "GitHub",
-      "stars": 422,
-      "user": "DeltaProviderGuide"
     },
     {
       "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
@@ -3622,8 +3629,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
       "source": "GitHub",
-      "stars": 387,
+      "stars": 504,
       "user": "sqlpxc"
+    },
+    {
+      "title": "DeltaProviderGuide/auto-auction-bot-wow-forever - A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
+      "url": "https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever",
+      "published_at": "2026-11-04T05:41:32Z",
+      "description": "A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317165231?v=4",
+      "source": "GitHub",
+      "stars": 423,
+      "user": "DeltaProviderGuide"
+    },
+    {
+      "title": "libracoder/kiri - A small, fast container runtime for macOS, Windows and Linux",
+      "url": "https://github.com/libracoder/kiri",
+      "published_at": "2026-11-02T16:11:30Z",
+      "description": "A small, fast container runtime for macOS, Windows and Linux",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
+      "source": "GitHub",
+      "stars": 373,
+      "user": "libracoder"
     },
     {
       "title": "Serve Robotics launches new business to become the AWS for robots",
@@ -3652,21 +3689,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Tim Fernholz"
-    },
-    {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "published_at": "2026-11-05T18:00:00.000Z",
-      "description": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Anthropic",
-        "Claude"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "Introducing Socrates and the New freeCodeCamp Forum",
