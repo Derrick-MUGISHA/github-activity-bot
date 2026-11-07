@@ -46,20 +46,6 @@
       "user": "MLH Team"
     },
     {
-      "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
-      "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b",
-      "published_at": "2026-11-06T16:34:18Z",
-      "description": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqk83614v6vodxh1desyb.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
       "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a",
       "published_at": "2026-11-05T00:02:44Z",
@@ -118,6 +104,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3we6kl95okn3atgkn9wg.jpg",
       "source": "Dev.to",
       "user": "Patricio Navarro"
+    },
+    {
+      "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
+      "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b",
+      "published_at": "2026-11-06T16:34:18Z",
+      "description": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqk83614v6vodxh1desyb.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Find the production agent failures that every health check misses",
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 452,
       "user": "artemnovitckii"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 450,
       "user": "JosssphZhou"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 441,
       "user": "SAOS-3624"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2908,
+      "stars": 2965,
       "user": "worldonlyu"
     },
     {
@@ -807,23 +807,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 510,
       "user": "sarpstar"
-    },
-    {
-      "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-      "url": "https://github.com/Balanov/uncut",
-      "published_at": "2026-11-01T17:19:30Z",
-      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
-      "source": "GitHub",
-      "stars": 252,
-      "user": "Balanov"
     },
     {
       "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
@@ -837,8 +822,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 186,
+      "stars": 269,
       "user": "devvmhq"
+    },
+    {
+      "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "url": "https://github.com/Balanov/uncut",
+      "published_at": "2026-11-01T17:19:30Z",
+      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
+      "source": "GitHub",
+      "stars": 253,
+      "user": "Balanov"
     },
     {
       "title": "libracoder/kiri - A small, fast container runtime for macOS, Windows and Linux",
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 610,
       "user": "libracoder"
     },
     {
@@ -867,14 +867,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 448,
       "user": "Renly1994"
     },
     {
       "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
       "url": "https://stackoverflow.com/questions/80015029/what-are-the-security-benefits-of-setting-origin-mydomain-com-in-the-url",
       "published_at": "2026-11-06T01:51:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "iframe",
@@ -900,16 +900,30 @@
       "user": "Derya Coşkun"
     },
     {
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "published_at": "2026-11-07T04:16:43.000Z",
+      "description": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "tags": [
+        "TC",
+        "Government & Policy",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis"
+    },
+    {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
       "published_at": "2026-11-07T01:40:28.000Z",
       "description": "The deal highlights the challenges of developing massive AI data centers.",
       "tags": [
         "AI",
-        "Google",
-        "datacenter",
         "ai infrastructure",
-        "crusoe"
+        "crusoe",
+        "datacenter",
+        "Google"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1010,38 +1024,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lauren Forristal"
-    },
-    {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "published_at": "2026-11-06T15:54:47.000Z",
-      "description": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Anthropic",
-        "Enterprise AI spend",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "published_at": "2026-11-06T14:10:00.000Z",
-      "description": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "tags": [
-        "AI",
-        "Commerce",
-        "AI agents",
-        "Amazon",
-        "eCommerce"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
     },
     {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
@@ -1294,7 +1276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 1285,
       "user": "JenkinWoo"
     },
     {
@@ -1309,7 +1291,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 636,
       "user": "Gezine"
     },
     {
@@ -1324,7 +1306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 452,
       "user": "artemnovitckii"
     },
     {
@@ -1339,7 +1321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 450,
       "user": "JosssphZhou"
     },
     {
@@ -1354,7 +1336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 441,
       "user": "SAOS-3624"
     },
     {
@@ -1369,7 +1351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3714,
+      "stars": 3827,
       "user": "KKKKhazix"
     },
     {
@@ -1384,7 +1366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 2040,
+      "stars": 2099,
       "user": "mromidev"
     },
     {
@@ -1399,7 +1381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1976,
+      "stars": 2007,
       "user": "caru-ini"
     },
     {
@@ -1414,7 +1396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 1735,
+      "stars": 1903,
       "user": "Minireel"
     },
     {
@@ -1429,14 +1411,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 1039,
       "user": "livliv-dev"
     },
     {
       "title": "How to retrieve API get data when the data is not located in the root level?",
       "url": "https://stackoverflow.com/questions/80015235/how-to-retrieve-api-get-data-when-the-data-is-not-located-in-the-root-level",
       "published_at": "2026-11-06T21:41:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript",
         "json",
@@ -1450,7 +1432,7 @@
       "title": "GA4 generate_lead event fires twice per Contact Form 7 submission via Google Tag Manager",
       "url": "https://stackoverflow.com/questions/80015239/ga4-generate-lead-event-fires-twice-per-contact-form-7-submission-via-google-tag",
       "published_at": "2026-11-06T21:57:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "javascript",
         "google-tag-manager",
@@ -1479,7 +1461,7 @@
       "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
       "url": "https://stackoverflow.com/questions/80015029/what-are-the-security-benefits-of-setting-origin-mydomain-com-in-the-url",
       "published_at": "2026-11-06T01:51:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "iframe",
@@ -1519,33 +1501,6 @@
       "user": "Eireni &#39;Fikia&#39; Moutoussi"
     },
     {
-      "title": "Confirmit respondent data fetch erroring out in Forsta",
-      "url": "https://stackoverflow.com/questions/80014785/confirmit-respondent-data-fetch-erroring-out-in-forsta",
-      "published_at": "2026-11-04T23:20:16.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "jscript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Rick"
-    },
-    {
-      "title": "SESV2Client from AWS SES - no super call in its instantiation",
-      "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
-      "published_at": "2026-11-04T20:58:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "node.js",
-        "amazon-web-services"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jean-Bertho Almonord"
-    },
-    {
       "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
       "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
       "published_at": "2026-11-04T02:30:24.000Z",
@@ -1561,24 +1516,54 @@
       "user": "Gadget Seeker"
     },
     {
-      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
-      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
-      "published_at": "2026-11-01T04:11:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
+      "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
+      "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
+      "published_at": "2026-10-30T23:01:14.000Z",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
         "javascript",
-        "html",
-        "dom-events"
+        "cloud",
+        "speech-recognition",
+        "local",
+        "webspeech-api"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "mith sams"
+      "user": "Jeff Baker"
+    },
+    {
+      "title": "How to configure refresh token with express and react",
+      "url": "https://stackoverflow.com/questions/80003429/how-to-configure-refresh-token-with-express-and-react",
+      "published_at": "2026-09-16T08:33:16.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alberto Benedetto"
+    },
+    {
+      "title": "How can I locate an element in a nested div without selecting the outer div?",
+      "url": "https://stackoverflow.com/questions/79989960/how-can-i-locate-an-element-in-a-nested-div-without-selecting-the-outer-div",
+      "published_at": "2026-08-02T21:00:54.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
+      "tags": [
+        "javascript",
+        "ui-automation",
+        "playwright"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Adnan Zaman"
     },
     {
       "title": "How can I serialize a Python 3.15 sentinel value to JSON and restore its identity?",
       "url": "https://stackoverflow.com/questions/80015253/how-can-i-serialize-a-python-3-15-sentinel-value-to-json-and-restore-its-identit",
       "published_at": "2026-11-07T00:04:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "json",
@@ -1796,7 +1781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2908,
+      "stars": 2965,
       "user": "worldonlyu"
     },
     {
@@ -1811,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 1003,
       "user": "mmdoctor"
     },
     {
@@ -1826,14 +1811,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 787,
       "user": "AssassinCreator"
     },
     {
-      "title": "WoYun520/pixel-gif-sticker-pack - A Codex skill for creating and verifying animated GIF sticker packs from character references.",
-      "url": "https://github.com/WoYun520/pixel-gif-sticker-pack",
+      "title": "WoYun520/gif-factory - GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "url": "https://github.com/WoYun520/gif-factory",
       "published_at": "2026-11-05T04:08:24Z",
-      "description": "A Codex skill for creating and verifying animated GIF sticker packs from character references.",
+      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
       "tags": [
         "python",
         "github",
@@ -1841,7 +1826,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 582,
       "user": "WoYun520"
     },
     {
@@ -1856,14 +1841,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 510,
       "user": "sarpstar"
     },
     {
       "title": "How do I write a string to a file or socket in Python?",
       "url": "https://stackoverflow.com/questions/80015255/how-do-i-write-a-string-to-a-file-or-socket-in-python",
       "published_at": "2026-11-07T00:20:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python"
       ],
@@ -1875,7 +1860,7 @@
       "title": "How can I serialize a Python 3.15 sentinel value to JSON and restore its identity?",
       "url": "https://stackoverflow.com/questions/80015253/how-can-i-serialize-a-python-3-15-sentinel-value-to-json-and-restore-its-identit",
       "published_at": "2026-11-07T00:04:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "json",
@@ -1916,7 +1901,7 @@
       "title": "Where to add the --enable-native-access=ALL-UNNAMED?",
       "url": "https://stackoverflow.com/questions/80015187/where-to-add-the-enable-native-access-all-unnamed",
       "published_at": "2026-11-06T15:58:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "android-sdk-tools"
@@ -1970,22 +1955,6 @@
       "user": "Faheem"
     },
     {
-      "title": "Unable to make a direction checker loop",
-      "url": "https://stackoverflow.com/questions/80015150/unable-to-make-a-direction-checker-loop",
-      "published_at": "2026-11-06T13:48:37.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "for-loop",
-        "if-statement",
-        "tkinter",
-        "while-loop"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aval Karif"
-    },
-    {
       "title": "Why does Milvus query() fail with VECTOR_FLOAT when sorting by an integer ID?",
       "url": "https://stackoverflow.com/questions/80015095/why-does-milvus-query-fail-with-vector-float-when-sorting-by-an-integer-id",
       "published_at": "2026-11-06T09:34:31.000Z",
@@ -1998,23 +1967,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Derya Coşkun"
+    },
+    {
+      "title": "How to narrow down an ast selection to only assignments with a name on the RHS",
+      "url": "https://stackoverflow.com/questions/80014888/how-to-narrow-down-an-ast-selection-to-only-assignments-with-a-name-on-the-rhs",
+      "published_at": "2026-11-05T10:55:18.000Z",
+      "description": "Stack Overflow question · 2 answers · score -4",
+      "tags": [
+        "python",
+        "python-ast"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NickC"
     }
   ],
   "DevOps": [
-    {
-      "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
-      "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b",
-      "published_at": "2026-11-06T16:34:18Z",
-      "description": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqk83614v6vodxh1desyb.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
     {
       "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
       "url": "https://dev.to/gde/leveling-the-playing-field-building-a-100-offline-kubernetes-docs-rag-exam-assistant-with-web-ai-53bi",
@@ -2029,6 +1997,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2vofw4x97oncddtys1y7.png",
       "source": "Dev.to",
       "user": "Cyrus Wong"
+    },
+    {
+      "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
+      "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b",
+      "published_at": "2026-11-06T16:34:18Z",
+      "description": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqk83614v6vodxh1desyb.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
@@ -2314,20 +2296,6 @@
       "user": "Gadget Seeker"
     },
     {
-      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
-      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
-      "published_at": "2026-11-01T04:11:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 3",
-      "tags": [
-        "javascript",
-        "html",
-        "dom-events"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mith sams"
-    },
-    {
       "title": "How to Build a PDF Storyboard Generator Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/",
       "published_at": "2026-11-06T19:41:34.000Z",
@@ -2452,7 +2420,7 @@
       "title": "Where to add the --enable-native-access=ALL-UNNAMED?",
       "url": "https://stackoverflow.com/questions/80015187/where-to-add-the-enable-native-access-all-unnamed",
       "published_at": "2026-11-06T15:58:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "android-sdk-tools"
@@ -2612,18 +2580,33 @@
       "user": "Karthigayan Devan"
     },
     {
-      "title": "SESV2Client from AWS SES - no super call in its instantiation",
-      "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
-      "published_at": "2026-11-04T20:58:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "Scriptable GeoDNS: leaving AWS for Bunny",
+      "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
+      "published_at": "2026-11-07T01:46:35.449-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "performance",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "vbernat"
+    },
+    {
+      "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
+      "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
+      "published_at": "2026-10-30T23:01:14.000Z",
+      "description": "Stack Overflow question · 2 answers · score -3",
       "tags": [
         "javascript",
-        "node.js",
-        "amazon-web-services"
+        "cloud",
+        "speech-recognition",
+        "local",
+        "webspeech-api"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Jean-Bertho Almonord"
+      "user": "Jeff Baker"
     }
   ],
   "Database": [
@@ -2914,23 +2897,10 @@
       "user": "ni5arga"
     },
     {
-      "title": "sshhole",
-      "url": "https://sshhole.com/",
-      "published_at": "2026-11-05T06:24:42.504-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "linux",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "serce"
-    },
-    {
       "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
       "url": "https://stackoverflow.com/questions/80015029/what-are-the-security-benefits-of-setting-origin-mydomain-com-in-the-url",
       "published_at": "2026-11-06T01:51:49.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 1",
       "tags": [
         "javascript",
         "iframe",
@@ -3125,7 +3095,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 912,
+      "stars": 1285,
       "user": "JenkinWoo"
     },
     {
@@ -3140,7 +3110,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 634,
+      "stars": 636,
       "user": "Gezine"
     },
     {
@@ -3155,7 +3125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 452,
       "user": "artemnovitckii"
     },
     {
@@ -3170,7 +3140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 426,
+      "stars": 450,
       "user": "JosssphZhou"
     },
     {
@@ -3185,7 +3155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 441,
       "user": "SAOS-3624"
     },
     {
@@ -3200,7 +3170,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2908,
+      "stars": 2965,
       "user": "worldonlyu"
     },
     {
@@ -3215,7 +3185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 922,
+      "stars": 1003,
       "user": "mmdoctor"
     },
     {
@@ -3230,14 +3200,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 786,
+      "stars": 787,
       "user": "AssassinCreator"
     },
     {
-      "title": "WoYun520/pixel-gif-sticker-pack - A Codex skill for creating and verifying animated GIF sticker packs from character references.",
-      "url": "https://github.com/WoYun520/pixel-gif-sticker-pack",
+      "title": "WoYun520/gif-factory - GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "url": "https://github.com/WoYun520/gif-factory",
       "published_at": "2026-11-05T04:08:24Z",
-      "description": "A Codex skill for creating and verifying animated GIF sticker packs from character references.",
+      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
       "tags": [
         "python",
         "github",
@@ -3245,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 564,
+      "stars": 582,
       "user": "WoYun520"
     },
     {
@@ -3260,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 492,
+      "stars": 510,
       "user": "sarpstar"
     },
     {
@@ -3275,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 278,
+      "stars": 500,
       "user": "egoist"
     },
     {
@@ -3294,6 +3264,21 @@
       "user": "protonversestudio"
     },
     {
+      "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "url": "https://github.com/devvmhq/devvm",
+      "published_at": "2026-11-06T07:02:30Z",
+      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
+      "source": "GitHub",
+      "stars": 269,
+      "user": "devvmhq"
+    },
+    {
       "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
       "url": "https://github.com/Balanov/uncut",
       "published_at": "2026-11-01T17:19:30Z",
@@ -3305,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 252,
+      "stars": 253,
       "user": "Balanov"
     },
     {
@@ -3320,23 +3305,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 241,
+      "stars": 242,
       "user": "egoist"
-    },
-    {
-      "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "url": "https://github.com/devvmhq/devvm",
-      "published_at": "2026-11-06T07:02:30Z",
-      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
-      "source": "GitHub",
-      "stars": 186,
-      "user": "devvmhq"
     },
     {
       "title": "KKKKhazix/agent-autoloop - 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
@@ -3350,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3714,
+      "stars": 3827,
       "user": "KKKKhazix"
     },
     {
@@ -3365,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 2040,
+      "stars": 2099,
       "user": "mromidev"
     },
     {
@@ -3380,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1976,
+      "stars": 2007,
       "user": "caru-ini"
     },
     {
@@ -3395,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 1735,
+      "stars": 1903,
       "user": "Minireel"
     },
     {
@@ -3410,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 976,
+      "stars": 1039,
       "user": "livliv-dev"
     },
     {
@@ -3425,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129982137?v=4",
       "source": "GitHub",
-      "stars": 1186,
+      "stars": 1227,
       "user": "s1dashu"
     },
     {
@@ -3440,8 +3410,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 569,
+      "stars": 610,
       "user": "libracoder"
+    },
+    {
+      "title": "voyager-so/vork - Headless 3D and VFX engine for agents. Research preview.",
+      "url": "https://github.com/voyager-so/vork",
+      "published_at": "2026-11-05T22:37:07Z",
+      "description": "Headless 3D and VFX engine for agents. Research preview.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
+      "source": "GitHub",
+      "stars": 567,
+      "user": "voyager-so"
     },
     {
       "title": "Renly1994/xiaotang-daozai - 岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
@@ -3455,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 430,
+      "stars": 448,
       "user": "Renly1994"
     },
     {
@@ -3472,21 +3457,6 @@
       "source": "GitHub",
       "stars": 405,
       "user": "DeltaProviderGuide"
-    },
-    {
-      "title": "voyager-so/vork - Headless 3D and VFX engine for agents. Research preview.",
-      "url": "https://github.com/voyager-so/vork",
-      "published_at": "2026-11-05T22:37:07Z",
-      "description": "Headless 3D and VFX engine for agents. Research preview.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
-      "source": "GitHub",
-      "stars": 379,
-      "user": "voyager-so"
     },
     {
       "title": "The MustCreate Pattern for Go Tests",
@@ -3518,7 +3488,7 @@
       "title": "Where to add the --enable-native-access=ALL-UNNAMED?",
       "url": "https://stackoverflow.com/questions/80015187/where-to-add-the-enable-native-access-all-unnamed",
       "published_at": "2026-11-06T15:58:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "android-sdk-tools"
