@@ -31,20 +31,6 @@
       "user": "Jem"
     },
     {
-      "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
-      "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b",
-      "published_at": "2026-11-06T16:34:18Z",
-      "description": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqk83614v6vodxh1desyb.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
       "title": "Prompt Pad: Show Your AI How to Respond with Few-Shot Examples",
       "url": "https://blog.mlh.com/prompt-pad-show-your-ai-how-to-respond-with-few-shot-examples-2869",
       "published_at": "2026-11-06T16:00:00Z",
@@ -58,6 +44,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftn3p67u8ofy4cefxftvd.png",
       "source": "Dev.to",
       "user": "MLH Team"
+    },
+    {
+      "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
+      "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b",
+      "published_at": "2026-11-06T16:34:18Z",
+      "description": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqk83614v6vodxh1desyb.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
     },
     {
       "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
@@ -298,21 +298,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!",
-      "url": "https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370",
-      "published_at": "2026-11-04T22:00:15Z",
-      "description": "We're excited to announce our newest challenge with Presage!  The Presage SmartSpectra SDK Challenge...",
-      "tags": [
-        "devchallenge",
-        "presagechallenge",
-        "presage",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkx3vgfze743kv0yqvhud.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Prompt Pad: What Is Open Source?",
       "url": "https://blog.mlh.com/prompt-pad-what-is-open-source-23k6",
       "published_at": "2026-11-04T14:00:00Z",
@@ -416,6 +401,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftorchtpu-dev%2Fmain%2Fdocs%2Ftorchtpu-native-rust%2Fdevto-cover.3ce8c43b.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!",
+      "url": "https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370",
+      "published_at": "2026-11-04T22:00:15Z",
+      "description": "We're excited to announce our newest challenge with Presage!  The Presage SmartSpectra SDK Challenge...",
+      "tags": [
+        "devchallenge",
+        "presagechallenge",
+        "presage",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkx3vgfze743kv0yqvhud.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
@@ -747,8 +747,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 445,
       "user": "artemnovitckii"
+    },
+    {
+      "title": "JosssphZhou/poki - Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "url": "https://github.com/JosssphZhou/poki",
+      "published_at": "2026-11-05T15:04:31Z",
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
+      "source": "GitHub",
+      "stars": 426,
+      "user": "JosssphZhou"
     },
     {
       "title": "SAOS-3624/dsh-see-now - 让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
@@ -762,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 423,
       "user": "SAOS-3624"
     },
     {
@@ -777,23 +792,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2877,
+      "stars": 2908,
       "user": "worldonlyu"
     },
     {
-      "title": "smarkyie/NSP-Box - NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
-      "url": "https://github.com/smarkyie/NSP-Box",
-      "published_at": "2026-10-31T15:00:55Z",
-      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "title": "sarpstar/cinecode - Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "url": "https://github.com/sarpstar/cinecode",
+      "published_at": "2026-11-03T10:08:16Z",
+      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 510,
-      "user": "smarkyie"
+      "stars": 492,
+      "user": "sarpstar"
     },
     {
       "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
@@ -807,38 +822,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "Balanov"
     },
     {
-      "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "published_at": "2026-10-31T09:32:46Z",
-      "description": "Towards a More Autonomous Agent System",
+      "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "url": "https://github.com/devvmhq/devvm",
+      "published_at": "2026-11-06T07:02:30Z",
+      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 20226,
-      "user": "deepseek-ai"
-    },
-    {
-      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "url": "https://github.com/sqlpxc/airhand",
-      "published_at": "2026-10-31T13:33:04Z",
-      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
-      "source": "GitHub",
-      "stars": 626,
-      "user": "sqlpxc"
+      "stars": 186,
+      "user": "devvmhq"
     },
     {
       "title": "libracoder/kiri - A small, fast container runtime for macOS, Windows and Linux",
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 569,
       "user": "libracoder"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 430,
       "user": "Renly1994"
     },
     {
@@ -900,6 +900,22 @@
       "user": "Derya Coşkun"
     },
     {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "published_at": "2026-11-07T01:40:28.000Z",
+      "description": "The deal highlights the challenges of developing massive AI data centers.",
+      "tags": [
+        "AI",
+        "Google",
+        "datacenter",
+        "ai infrastructure",
+        "crusoe"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "published_at": "2026-11-06T22:53:46.000Z",
@@ -919,7 +935,7 @@
       "title": "The Duo apps are coming, says Apple",
       "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
       "published_at": "2026-11-06T21:38:05.000Z",
-      "description": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+      "description": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
       "tags": [
         "Apps",
         "Apple",
@@ -1022,20 +1038,6 @@
         "AI agents",
         "Amazon",
         "eCommerce"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "published_at": "2026-11-06T13:02:16.000Z",
-      "description": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "tags": [
-        "AI",
-        "local AI",
-        "underdog"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1281,21 +1283,6 @@
       "user": "velmu"
     },
     {
-      "title": "Gezine/CivSwitch - Nintendo Switch userland code execution using Civilization 7 game cartridge",
-      "url": "https://github.com/Gezine/CivSwitch",
-      "published_at": "2026-11-01T13:30:59Z",
-      "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
-      "source": "GitHub",
-      "stars": 630,
-      "user": "Gezine"
-    },
-    {
       "title": "JenkinWoo/sheeridVerify - GitHub Repository",
       "url": "https://github.com/JenkinWoo/sheeridVerify",
       "published_at": "2026-11-06T09:28:09Z",
@@ -1307,23 +1294,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 912,
       "user": "JenkinWoo"
     },
     {
-      "title": "yetone/alma-relay - Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
-      "url": "https://github.com/yetone/alma-relay",
-      "published_at": "2026-10-31T13:30:34Z",
-      "description": "Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
+      "title": "Gezine/CivSwitch - Nintendo Switch userland code execution using Civilization 7 game cartridge",
+      "url": "https://github.com/Gezine/CivSwitch",
+      "published_at": "2026-11-01T13:30:59Z",
+      "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 465,
-      "user": "yetone"
+      "stars": 634,
+      "user": "Gezine"
     },
     {
       "title": "artemnovitckii/claude-animation-skills - Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
@@ -1337,8 +1324,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 445,
       "user": "artemnovitckii"
+    },
+    {
+      "title": "JosssphZhou/poki - Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "url": "https://github.com/JosssphZhou/poki",
+      "published_at": "2026-11-05T15:04:31Z",
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
+      "source": "GitHub",
+      "stars": 426,
+      "user": "JosssphZhou"
     },
     {
       "title": "SAOS-3624/dsh-see-now - 让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
@@ -1352,23 +1354,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 423,
       "user": "SAOS-3624"
-    },
-    {
-      "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "published_at": "2026-10-31T09:32:46Z",
-      "description": "Towards a More Autonomous Agent System",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 20226,
-      "user": "deepseek-ai"
     },
     {
       "title": "KKKKhazix/agent-autoloop - 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
@@ -1382,7 +1369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3667,
+      "stars": 3714,
       "user": "KKKKhazix"
     },
     {
@@ -1397,7 +1384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 2025,
+      "stars": 2040,
       "user": "mromidev"
     },
     {
@@ -1412,7 +1399,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1949,
+      "stars": 1976,
       "user": "caru-ini"
     },
     {
@@ -1427,23 +1414,37 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 1609,
+      "stars": 1735,
       "user": "Minireel"
     },
     {
-      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "url": "https://github.com/sqlpxc/airhand",
-      "published_at": "2026-10-31T13:33:04Z",
-      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "title": "livliv-dev/player - A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "url": "https://github.com/livliv-dev/player",
+      "published_at": "2026-11-04T03:28:33Z",
+      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 626,
-      "user": "sqlpxc"
+      "stars": 976,
+      "user": "livliv-dev"
+    },
+    {
+      "title": "How to retrieve API get data when the data is not located in the root level?",
+      "url": "https://stackoverflow.com/questions/80015235/how-to-retrieve-api-get-data-when-the-data-is-not-located-in-the-root-level",
+      "published_at": "2026-11-06T21:41:10.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript",
+        "json",
+        "typescript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "What ups"
     },
     {
       "title": "GA4 generate_lead event fires twice per Contact Form 7 submission via Google Tag Manager",
@@ -1504,19 +1505,6 @@
       "user": "Larry k"
     },
     {
-      "title": "Unusual syntax for declaring or extending a class - how does this work?",
-      "url": "https://stackoverflow.com/questions/80014338/unusual-syntax-for-declaring-or-extending-a-class-how-does-this-work",
-      "published_at": "2026-11-03T02:04:03.000Z",
-      "description": "Stack Overflow question · 2 answers · score 10",
-      "tags": [
-        "javascript",
-        "class"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Manngo"
-    },
-    {
       "title": "How do I create a JS object (rather than an array) from HTML table values?",
       "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
       "published_at": "2026-11-03T15:07:46.000Z",
@@ -1542,19 +1530,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rick"
-    },
-    {
-      "title": "bug between v10.7 and v10.8 and later",
-      "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
-      "published_at": "2026-11-04T22:00:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "openlayers"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "allez l&#39;OM"
     },
     {
       "title": "SESV2Client from AWS SES - no super call in its instantiation",
@@ -1584,6 +1559,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Gadget Seeker"
+    },
+    {
+      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
+      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
+      "published_at": "2026-11-01T04:11:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
+      "tags": [
+        "javascript",
+        "html",
+        "dom-events"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mith sams"
+    },
+    {
+      "title": "How can I serialize a Python 3.15 sentinel value to JSON and restore its identity?",
+      "url": "https://stackoverflow.com/questions/80015253/how-can-i-serialize-a-python-3-15-sentinel-value-to-json-and-restore-its-identit",
+      "published_at": "2026-11-07T00:04:55.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "json",
+        "serialization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Daniel Sodkiewicz"
     },
     {
       "title": "How to Build a PDF Storyboard Generator Using JavaScript",
@@ -1793,7 +1796,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2877,
+      "stars": 2908,
       "user": "worldonlyu"
     },
     {
@@ -1808,7 +1811,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 922,
       "user": "mmdoctor"
     },
     {
@@ -1838,23 +1841,49 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 564,
       "user": "WoYun520"
     },
     {
-      "title": "smarkyie/NSP-Box - NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
-      "url": "https://github.com/smarkyie/NSP-Box",
-      "published_at": "2026-10-31T15:00:55Z",
-      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "title": "sarpstar/cinecode - Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "url": "https://github.com/sarpstar/cinecode",
+      "published_at": "2026-11-03T10:08:16Z",
+      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 510,
-      "user": "smarkyie"
+      "stars": 492,
+      "user": "sarpstar"
+    },
+    {
+      "title": "How do I write a string to a file or socket in Python?",
+      "url": "https://stackoverflow.com/questions/80015255/how-do-i-write-a-string-to-a-file-or-socket-in-python",
+      "published_at": "2026-11-07T00:20:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "deb2014"
+    },
+    {
+      "title": "How can I serialize a Python 3.15 sentinel value to JSON and restore its identity?",
+      "url": "https://stackoverflow.com/questions/80015253/how-can-i-serialize-a-python-3-15-sentinel-value-to-json-and-restore-its-identit",
+      "published_at": "2026-11-07T00:04:55.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "json",
+        "serialization"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Daniel Sodkiewicz"
     },
     {
       "title": "How can I check whether a lazy import has executed in Python 3.15 without triggering it?",
@@ -1874,7 +1903,7 @@
       "title": "Benchmarking Python Decorator Overhead",
       "url": "https://stackoverflow.com/questions/80015170/benchmarking-python-decorator-overhead",
       "published_at": "2026-11-06T14:51:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 2",
       "tags": [
         "python",
         "benchmarking"
@@ -1897,6 +1926,20 @@
       "user": "Trigan"
     },
     {
+      "title": "Numba not speeding up python code looping over all pixels",
+      "url": "https://stackoverflow.com/questions/80015028/numba-not-speeding-up-python-code-looping-over-all-pixels",
+      "published_at": "2026-11-06T01:45:27.000Z",
+      "description": "Stack Overflow question · 2 answers · score 4",
+      "tags": [
+        "python",
+        "performance",
+        "numba"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Python4Life"
+    },
+    {
       "title": "Python SQLModel FastAPI get unique values from database",
       "url": "https://stackoverflow.com/questions/80015139/python-sqlmodel-fastapi-get-unique-values-from-database",
       "published_at": "2026-11-06T12:50:43.000Z",
@@ -1912,18 +1955,19 @@
       "user": "xAvareS"
     },
     {
-      "title": "Numba not speeding up python code looping over all pixels",
-      "url": "https://stackoverflow.com/questions/80015028/numba-not-speeding-up-python-code-looping-over-all-pixels",
-      "published_at": "2026-11-06T01:45:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
+      "title": "Handling cache invalidation while a shared in-flight task is still running",
+      "url": "https://stackoverflow.com/questions/80014991/handling-cache-invalidation-while-a-shared-in-flight-task-is-still-running",
+      "published_at": "2026-11-05T21:37:39.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "python",
-        "performance",
-        "numba"
+        "caching",
+        "concurrency",
+        "python-asyncio"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Python4Life"
+      "user": "Faheem"
     },
     {
       "title": "Unable to make a direction checker loop",
@@ -1954,47 +1998,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Derya Coşkun"
-    },
-    {
-      "title": "How to narrow down an ast selection to only assignments with a name on the RHS",
-      "url": "https://stackoverflow.com/questions/80014888/how-to-narrow-down-an-ast-selection-to-only-assignments-with-a-name-on-the-rhs",
-      "published_at": "2026-11-05T10:55:18.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "python",
-        "python-ast"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
-    },
-    {
-      "title": "Handling cache invalidation while a shared in-flight task is still running",
-      "url": "https://stackoverflow.com/questions/80014991/handling-cache-invalidation-while-a-shared-in-flight-task-is-still-running",
-      "published_at": "2026-11-05T21:37:39.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python",
-        "caching",
-        "concurrency",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Faheem"
-    },
-    {
-      "title": "How do I prompt for a file without uploading it in HTML",
-      "url": "https://stackoverflow.com/questions/80014992/how-do-i-prompt-for-a-file-without-uploading-it-in-html",
-      "published_at": "2026-11-05T21:39:45.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "python",
-        "html"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "AlexHomeBrew"
     }
   ],
   "DevOps": [
@@ -2208,21 +2211,6 @@
       "user": "jknupp"
     },
     {
-      "title": "yetone/alma-relay - Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
-      "url": "https://github.com/yetone/alma-relay",
-      "published_at": "2026-10-31T13:30:34Z",
-      "description": "Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
-      "source": "GitHub",
-      "stars": 465,
-      "user": "yetone"
-    },
-    {
       "title": "How to Automate Docker Image Creation for Postgres Using Shell Commands",
       "url": "https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/",
       "published_at": "2026-11-03T18:40:47.000Z",
@@ -2326,17 +2314,18 @@
       "user": "Gadget Seeker"
     },
     {
-      "title": "How do I prompt for a file without uploading it in HTML",
-      "url": "https://stackoverflow.com/questions/80014992/how-do-i-prompt-for-a-file-without-uploading-it-in-html",
-      "published_at": "2026-11-05T21:39:45.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
+      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
+      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
+      "published_at": "2026-11-01T04:11:32.000Z",
+      "description": "Stack Overflow question · 1 answers · score 3",
       "tags": [
-        "python",
-        "html"
+        "javascript",
+        "html",
+        "dom-events"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "AlexHomeBrew"
+      "user": "mith sams"
     },
     {
       "title": "How to Build a PDF Storyboard Generator Using JavaScript",
@@ -2623,21 +2612,6 @@
       "user": "Karthigayan Devan"
     },
     {
-      "title": "yetone/alma-relay - Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
-      "url": "https://github.com/yetone/alma-relay",
-      "published_at": "2026-10-31T13:30:34Z",
-      "description": "Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
-      "source": "GitHub",
-      "stars": 465,
-      "user": "yetone"
-    },
-    {
       "title": "SESV2Client from AWS SES - no super call in its instantiation",
       "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
       "published_at": "2026-11-04T20:58:24.000Z",
@@ -2679,21 +2653,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "url": "https://github.com/sqlpxc/airhand",
-      "published_at": "2026-10-31T13:33:04Z",
-      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
-      "source": "GitHub",
-      "stars": 626,
-      "user": "sqlpxc"
     },
     {
       "title": "Python SQLModel FastAPI get unique values from database",
@@ -2943,6 +2902,18 @@
       "user": "Varcht"
     },
     {
+      "title": "Hacking the meta ray-ban smartglasses",
+      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+      "published_at": "2026-11-06T14:50:24.488-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "ni5arga"
+    },
+    {
       "title": "sshhole",
       "url": "https://sshhole.com/",
       "published_at": "2026-11-05T06:24:42.504-06:00",
@@ -2954,19 +2925,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "serce"
-    },
-    {
-      "title": "Pushing the Limits with getaddrinfo",
-      "url": "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/",
-      "published_at": "2026-11-06T08:47:48.625-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "networking",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "freddyb"
     },
     {
       "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
@@ -3156,21 +3114,6 @@
       "user": "pabs3"
     },
     {
-      "title": "Gezine/CivSwitch - Nintendo Switch userland code execution using Civilization 7 game cartridge",
-      "url": "https://github.com/Gezine/CivSwitch",
-      "published_at": "2026-11-01T13:30:59Z",
-      "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
-      "source": "GitHub",
-      "stars": 630,
-      "user": "Gezine"
-    },
-    {
       "title": "JenkinWoo/sheeridVerify - GitHub Repository",
       "url": "https://github.com/JenkinWoo/sheeridVerify",
       "published_at": "2026-11-06T09:28:09Z",
@@ -3182,23 +3125,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 588,
+      "stars": 912,
       "user": "JenkinWoo"
     },
     {
-      "title": "yetone/alma-relay - Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
-      "url": "https://github.com/yetone/alma-relay",
-      "published_at": "2026-10-31T13:30:34Z",
-      "description": "Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
+      "title": "Gezine/CivSwitch - Nintendo Switch userland code execution using Civilization 7 game cartridge",
+      "url": "https://github.com/Gezine/CivSwitch",
+      "published_at": "2026-11-01T13:30:59Z",
+      "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 465,
-      "user": "yetone"
+      "stars": 634,
+      "user": "Gezine"
     },
     {
       "title": "artemnovitckii/claude-animation-skills - Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
@@ -3212,8 +3155,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
       "source": "GitHub",
-      "stars": 444,
+      "stars": 445,
       "user": "artemnovitckii"
+    },
+    {
+      "title": "JosssphZhou/poki - Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "url": "https://github.com/JosssphZhou/poki",
+      "published_at": "2026-11-05T15:04:31Z",
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
+      "source": "GitHub",
+      "stars": 426,
+      "user": "JosssphZhou"
     },
     {
       "title": "SAOS-3624/dsh-see-now - 让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
@@ -3227,7 +3185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
       "source": "GitHub",
-      "stars": 418,
+      "stars": 423,
       "user": "SAOS-3624"
     },
     {
@@ -3242,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2877,
+      "stars": 2908,
       "user": "worldonlyu"
     },
     {
@@ -3257,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 868,
+      "stars": 922,
       "user": "mmdoctor"
     },
     {
@@ -3287,38 +3245,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 552,
+      "stars": 564,
       "user": "WoYun520"
     },
     {
-      "title": "smarkyie/NSP-Box - NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
-      "url": "https://github.com/smarkyie/NSP-Box",
-      "published_at": "2026-10-31T15:00:55Z",
-      "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+      "title": "sarpstar/cinecode - Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "url": "https://github.com/sarpstar/cinecode",
+      "published_at": "2026-11-03T10:08:16Z",
+      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/68492368?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 510,
-      "user": "smarkyie"
+      "stars": 492,
+      "user": "sarpstar"
     },
     {
-      "title": "Lee-xeo/Claude-Cage - Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
-      "url": "https://github.com/Lee-xeo/Claude-Cage",
-      "published_at": "2026-10-31T15:07:08Z",
-      "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
+      "title": "egoist/mygo-music - A native music player you extend with plugins",
+      "url": "https://github.com/egoist/mygo-music",
+      "published_at": "2026-11-04T13:27:14Z",
+      "description": "A native music player you extend with plugins",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/120454108?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 468,
-      "user": "Lee-xeo"
+      "stars": 278,
+      "user": "egoist"
     },
     {
       "title": "protonversestudio/wow-forever-builds-kindred - Answer four questions and see which WoW Forever class fits how you play. Free Windows app.",
@@ -3347,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 251,
+      "stars": 252,
       "user": "Balanov"
     },
     {
@@ -3366,34 +3324,19 @@
       "user": "egoist"
     },
     {
-      "title": "egoist/mygo-music - A native music player you extend with plugins",
-      "url": "https://github.com/egoist/mygo-music",
-      "published_at": "2026-11-04T13:27:14Z",
-      "description": "A native music player you extend with plugins",
+      "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "url": "https://github.com/devvmhq/devvm",
+      "published_at": "2026-11-06T07:02:30Z",
+      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 225,
-      "user": "egoist"
-    },
-    {
-      "title": "deepseek-ai/dsh-superagent-prototype - Towards a More Autonomous Agent System",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "published_at": "2026-10-31T09:32:46Z",
-      "description": "Towards a More Autonomous Agent System",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 20226,
-      "user": "deepseek-ai"
+      "stars": 186,
+      "user": "devvmhq"
     },
     {
       "title": "KKKKhazix/agent-autoloop - 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
@@ -3407,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3667,
+      "stars": 3714,
       "user": "KKKKhazix"
     },
     {
@@ -3422,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 2025,
+      "stars": 2040,
       "user": "mromidev"
     },
     {
@@ -3437,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 1949,
+      "stars": 1976,
       "user": "caru-ini"
     },
     {
@@ -3452,23 +3395,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 1609,
+      "stars": 1735,
       "user": "Minireel"
     },
     {
-      "title": "storytold/craft-anything - Craft Anything: understand how any software works, and craft your own.",
-      "url": "https://github.com/storytold/craft-anything",
-      "published_at": "2026-10-31T14:50:00Z",
-      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "title": "livliv-dev/player - A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "url": "https://github.com/livliv-dev/player",
+      "published_at": "2026-11-04T03:28:33Z",
+      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
       "tags": [
-        "rust",
+        "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 17952,
-      "user": "storytold"
+      "stars": 976,
+      "user": "livliv-dev"
     },
     {
       "title": "s1dashu/quiet-md - Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
@@ -3482,23 +3425,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129982137?v=4",
       "source": "GitHub",
-      "stars": 1176,
+      "stars": 1186,
       "user": "s1dashu"
-    },
-    {
-      "title": "sqlpxc/airhand - High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "url": "https://github.com/sqlpxc/airhand",
-      "published_at": "2026-10-31T13:33:04Z",
-      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/38583139?v=4",
-      "source": "GitHub",
-      "stars": 626,
-      "user": "sqlpxc"
     },
     {
       "title": "libracoder/kiri - A small, fast container runtime for macOS, Windows and Linux",
@@ -3512,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 569,
       "user": "libracoder"
     },
     {
@@ -3527,8 +3455,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 427,
+      "stars": 430,
       "user": "Renly1994"
+    },
+    {
+      "title": "DeltaProviderGuide/auto-auction-bot-wow-forever - A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
+      "url": "https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever",
+      "published_at": "2026-11-04T05:41:32Z",
+      "description": "A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317165231?v=4",
+      "source": "GitHub",
+      "stars": 405,
+      "user": "DeltaProviderGuide"
+    },
+    {
+      "title": "voyager-so/vork - Headless 3D and VFX engine for agents. Research preview.",
+      "url": "https://github.com/voyager-so/vork",
+      "published_at": "2026-11-05T22:37:07Z",
+      "description": "Headless 3D and VFX engine for agents. Research preview.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
+      "source": "GitHub",
+      "stars": 379,
+      "user": "voyager-so"
     },
     {
       "title": "The MustCreate Pattern for Go Tests",
