@@ -16,21 +16,6 @@
       "user": "Jem"
     },
     {
-      "title": "Prompt Pad: Show Your AI How to Respond with Few-Shot Examples",
-      "url": "https://blog.mlh.com/prompt-pad-show-your-ai-how-to-respond-with-few-shot-examples-2869",
-      "published_at": "2026-11-06T16:00:00Z",
-      "description": "Want AI to answer in a specific way? Don't just tell it. Show it.  In this episode of Prompt Pad,...",
-      "tags": [
-        "ai",
-        "beginners",
-        "codenewbie",
-        "vibecoding"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftn3p67u8ofy4cefxftvd.png",
-      "source": "Dev.to",
-      "user": "MLH Team"
-    },
-    {
       "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
       "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a",
       "published_at": "2026-11-05T00:02:44Z",
@@ -120,6 +105,21 @@
       "user": "Saurabh Mishra"
     },
     {
+      "title": "Prompt Pad: Show Your AI How to Respond with Few-Shot Examples",
+      "url": "https://blog.mlh.com/prompt-pad-show-your-ai-how-to-respond-with-few-shot-examples-2869",
+      "published_at": "2026-11-06T16:00:00Z",
+      "description": "Want AI to answer in a specific way? Don't just tell it. Show it.  In this episode of Prompt Pad,...",
+      "tags": [
+        "ai",
+        "beginners",
+        "codenewbie",
+        "vibecoding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftn3p67u8ofy4cefxftvd.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
       "title": "Find the production agent failures that every health check misses",
       "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8",
       "published_at": "2026-11-05T15:46:25Z",
@@ -133,21 +133,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fquality-curve.6xHWd_CO_2kumlD.webp",
       "source": "Dev.to",
       "user": "Elia Secchi"
-    },
-    {
-      "title": "The Fibonacci Spiral Is Secretly a Straight Line",
-      "url": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p",
-      "published_at": "2026-11-05T10:00:00Z",
-      "description": "I folded it, unfolded it, and watched it flip to the other side. A three.js experiment, the math...",
-      "tags": [
-        "threejs",
-        "javascript",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h6e2zjw2h4amsmub53k.gif",
-      "source": "Dev.to",
-      "user": "Thea"
     },
     {
       "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
@@ -298,6 +283,21 @@
       "user": "MLH Team"
     },
     {
+      "title": "The Fibonacci Spiral Is Secretly a Straight Line",
+      "url": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p",
+      "published_at": "2026-11-05T10:00:00Z",
+      "description": "I folded it, unfolded it, and watched it flip to the other side. A three.js experiment, the math...",
+      "tags": [
+        "threejs",
+        "javascript",
+        "webdev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h6e2zjw2h4amsmub53k.gif",
+      "source": "Dev.to",
+      "user": "Thea"
+    },
+    {
       "title": "How to Build Your Own Google Antigravity Plugin: Packaging Skills, MCP Servers, Subagents, Rules, and Hooks",
       "url": "https://dev.to/gde/how-to-build-your-own-google-antigravity-plugin-packaging-skills-mcp-servers-subagents-rules-23p9",
       "published_at": "2026-11-03T15:24:30Z",
@@ -403,21 +403,6 @@
       "user": "Jem"
     },
     {
-      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
-      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
-      "published_at": "2026-10-31T23:02:02Z",
-      "description": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
-      "tags": [
-        "ai",
-        "devtools",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fskill-drift%2Fcover.0c041943.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
       "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
       "published_at": "2026-11-01T00:41:17Z",
@@ -431,6 +416,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlk0251k4s6ucmxlzfnw.jpg",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
+      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
+      "published_at": "2026-10-31T23:02:02Z",
+      "description": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
+      "tags": [
+        "ai",
+        "devtools",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fskill-drift%2Fcover.0c041943.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
@@ -736,21 +736,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "artemnovitckii/claude-animation-skills - Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
-      "url": "https://github.com/artemnovitckii/claude-animation-skills",
-      "published_at": "2026-11-01T02:53:31Z",
-      "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
-      "source": "GitHub",
-      "stars": 472,
-      "user": "artemnovitckii"
-    },
-    {
       "title": "JosssphZhou/poki - Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
       "url": "https://github.com/JosssphZhou/poki",
       "published_at": "2026-11-05T15:04:31Z",
@@ -762,8 +747,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 489,
       "user": "JosssphZhou"
+    },
+    {
+      "title": "artemnovitckii/claude-animation-skills - Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+      "url": "https://github.com/artemnovitckii/claude-animation-skills",
+      "published_at": "2026-11-01T02:53:31Z",
+      "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
+      "source": "GitHub",
+      "stars": 477,
+      "user": "artemnovitckii"
     },
     {
       "title": "SAOS-3624/dsh-see-now - 让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 461,
       "user": "SAOS-3624"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3018,
+      "stars": 3039,
       "user": "worldonlyu"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 664,
       "user": "sarpstar"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 344,
       "user": "devvmhq"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 255,
       "user": "Balanov"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 781,
       "user": "libracoder"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 468,
       "user": "Renly1994"
     },
     {
@@ -993,38 +993,6 @@
       "user": "Lucas Ropek"
     },
     {
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "published_at": "2026-11-06T17:23:52.000Z",
-      "description": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "CrowdStrike",
-        "data center",
-        "midterms"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo, Anthony Ha"
-    },
-    {
-      "title": "Fox completes its $22B acquisition of Roku",
-      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
-      "published_at": "2026-11-06T16:05:36.000Z",
-      "description": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
-      "tags": [
-        "Media & Entertainment",
-        "Fox",
-        "In Brief",
-        "Mergers and Acquisitions",
-        "roku"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
       "url": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
       "published_at": "2026-11-03T19:00:29.000Z",
@@ -1070,21 +1038,6 @@
     }
   ],
   "JavaScript": [
-    {
-      "title": "The Fibonacci Spiral Is Secretly a Straight Line",
-      "url": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p",
-      "published_at": "2026-11-05T10:00:00Z",
-      "description": "I folded it, unfolded it, and watched it flip to the other side. A three.js experiment, the math...",
-      "tags": [
-        "threejs",
-        "javascript",
-        "webdev",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h6e2zjw2h4amsmub53k.gif",
-      "source": "Dev.to",
-      "user": "Thea"
-    },
     {
       "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
       "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-2-signal-forms-3ll9",
@@ -1142,6 +1095,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F94tpwuwjg44m2i882twm.png",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "The Fibonacci Spiral Is Secretly a Straight Line",
+      "url": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p",
+      "published_at": "2026-11-05T10:00:00Z",
+      "description": "I folded it, unfolded it, and watched it flip to the other side. A three.js experiment, the math...",
+      "tags": [
+        "threejs",
+        "javascript",
+        "webdev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h6e2zjw2h4amsmub53k.gif",
+      "source": "Dev.to",
+      "user": "Thea"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1275,7 +1243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1618,
       "user": "JenkinWoo"
     },
     {
@@ -1290,23 +1258,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 643,
       "user": "Gezine"
-    },
-    {
-      "title": "artemnovitckii/claude-animation-skills - Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
-      "url": "https://github.com/artemnovitckii/claude-animation-skills",
-      "published_at": "2026-11-01T02:53:31Z",
-      "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
-      "source": "GitHub",
-      "stars": 472,
-      "user": "artemnovitckii"
     },
     {
       "title": "JosssphZhou/poki - Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
@@ -1320,8 +1273,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 489,
       "user": "JosssphZhou"
+    },
+    {
+      "title": "artemnovitckii/claude-animation-skills - Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+      "url": "https://github.com/artemnovitckii/claude-animation-skills",
+      "published_at": "2026-11-01T02:53:31Z",
+      "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
+      "source": "GitHub",
+      "stars": 477,
+      "user": "artemnovitckii"
     },
     {
       "title": "SAOS-3624/dsh-see-now - 让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
@@ -1335,7 +1303,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 461,
       "user": "SAOS-3624"
     },
     {
@@ -1350,23 +1318,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3916,
+      "stars": 3941,
       "user": "KKKKhazix"
-    },
-    {
-      "title": "mromidev/claude-animated-shorts - Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "url": "https://github.com/mromidev/claude-animated-shorts",
-      "published_at": "2026-11-01T05:50:38Z",
-      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
-      "source": "GitHub",
-      "stars": 2161,
-      "user": "mromidev"
     },
     {
       "title": "Minireel/HGhub - YellowFruit third-party client",
@@ -1380,8 +1333,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 2120,
+      "stars": 2219,
       "user": "Minireel"
+    },
+    {
+      "title": "mromidev/claude-animated-shorts - Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "published_at": "2026-11-01T05:50:38Z",
+      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
+      "source": "GitHub",
+      "stars": 2199,
+      "user": "mromidev"
     },
     {
       "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
@@ -1395,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 2042,
+      "stars": 2054,
       "user": "caru-ini"
     },
     {
@@ -1410,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1179,
       "user": "livliv-dev"
     },
     {
@@ -1443,7 +1411,7 @@
       "title": "How to retrieve API get data when the data is not located in the root level?",
       "url": "https://stackoverflow.com/questions/80015235/how-to-retrieve-api-get-data-when-the-data-is-not-located-in-the-root-level",
       "published_at": "2026-11-06T21:41:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript",
         "json",
@@ -1498,20 +1466,6 @@
       "user": "allez l&#39;OM"
     },
     {
-      "title": "Web page not displaying correctly when html is loaded directly or through local server",
-      "url": "https://stackoverflow.com/questions/80014975/web-page-not-displaying-correctly-when-html-is-loaded-directly-or-through-local",
-      "published_at": "2026-11-05T18:35:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Larry k"
-    },
-    {
       "title": "How do I create a JS object (rather than an array) from HTML table values?",
       "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
       "published_at": "2026-11-03T15:07:46.000Z",
@@ -1554,6 +1508,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Alberto Benedetto"
+    },
+    {
+      "title": "Using map() on an iterator",
+      "url": "https://stackoverflow.com/questions/43885365/using-map-on-an-iterator",
+      "published_at": "2017-05-10T06:50:14.000Z",
+      "description": "Stack Overflow question · 12 answers · score 189",
+      "tags": [
+        "javascript",
+        "dictionary",
+        "syntax",
+        "ecmascript-6",
+        "iterator"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "shinzou"
     },
     {
       "title": "How can I serialize a Python 3.15 sentinel value to JSON and restore its identity?",
@@ -1777,7 +1747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3018,
+      "stars": 3039,
       "user": "worldonlyu"
     },
     {
@@ -1792,7 +1762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1125,
       "user": "mmdoctor"
     },
     {
@@ -1807,23 +1777,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 791,
       "user": "AssassinCreator"
-    },
-    {
-      "title": "WoYun520/gif-factory - GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-      "url": "https://github.com/WoYun520/gif-factory",
-      "published_at": "2026-11-05T04:08:24Z",
-      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
-      "source": "GitHub",
-      "stars": 615,
-      "user": "WoYun520"
     },
     {
       "title": "sarpstar/cinecode - Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
@@ -1837,14 +1792,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 664,
       "user": "sarpstar"
+    },
+    {
+      "title": "WoYun520/gif-factory - GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "url": "https://github.com/WoYun520/gif-factory",
+      "published_at": "2026-11-05T04:08:24Z",
+      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
+      "source": "GitHub",
+      "stars": 619,
+      "user": "WoYun520"
     },
     {
       "title": "Adding an extra line changes the lazy import object entirely",
       "url": "https://stackoverflow.com/questions/80015329/adding-an-extra-line-changes-the-lazy-import-object-entirely",
       "published_at": "2026-11-07T12:09:52.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 5",
       "tags": [
         "python",
         "python-import"
@@ -1868,6 +1838,19 @@
       "user": "Daniel Sodkiewicz"
     },
     {
+      "title": "Benchmarking Python Decorator Overhead",
+      "url": "https://stackoverflow.com/questions/80015170/benchmarking-python-decorator-overhead",
+      "published_at": "2026-11-06T14:51:19.000Z",
+      "description": "Stack Overflow question · 1 answers · score 4",
+      "tags": [
+        "python",
+        "benchmarking"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "conmak"
+    },
+    {
       "title": "How can I check whether a lazy import has executed in Python 3.15 without triggering it?",
       "url": "https://stackoverflow.com/questions/80015000/how-can-i-check-whether-a-lazy-import-has-executed-in-python-3-15-without-trigge",
       "published_at": "2026-11-05T22:25:29.000Z",
@@ -1880,6 +1863,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Daniel Sodkiewicz"
+    },
+    {
+      "title": "Numba not speeding up python code looping over all pixels",
+      "url": "https://stackoverflow.com/questions/80015028/numba-not-speeding-up-python-code-looping-over-all-pixels",
+      "published_at": "2026-11-06T01:45:27.000Z",
+      "description": "Stack Overflow question · 3 answers · score 4",
+      "tags": [
+        "python",
+        "performance",
+        "numba"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Python4Life"
     },
     {
       "title": "How do I write a string to a file or socket in Python?",
@@ -1906,33 +1903,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "IgorArnaut"
-    },
-    {
-      "title": "Numba not speeding up python code looping over all pixels",
-      "url": "https://stackoverflow.com/questions/80015028/numba-not-speeding-up-python-code-looping-over-all-pixels",
-      "published_at": "2026-11-06T01:45:27.000Z",
-      "description": "Stack Overflow question · 2 answers · score 4",
-      "tags": [
-        "python",
-        "performance",
-        "numba"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Python4Life"
-    },
-    {
-      "title": "Benchmarking Python Decorator Overhead",
-      "url": "https://stackoverflow.com/questions/80015170/benchmarking-python-decorator-overhead",
-      "published_at": "2026-11-06T14:51:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
-      "tags": [
-        "python",
-        "benchmarking"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "conmak"
     },
     {
       "title": "Python SQLModel FastAPI get unique values from database",
@@ -2249,20 +2219,6 @@
       "user": "velmu"
     },
     {
-      "title": "Web page not displaying correctly when html is loaded directly or through local server",
-      "url": "https://stackoverflow.com/questions/80014975/web-page-not-displaying-correctly-when-html-is-loaded-directly-or-through-local",
-      "published_at": "2026-11-05T18:35:22.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Larry k"
-    },
-    {
       "title": "How do I create a JS object (rather than an array) from HTML table values?",
       "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
       "published_at": "2026-11-03T15:07:46.000Z",
@@ -2396,6 +2352,19 @@
       "user": "tmcb"
     },
     {
+      "title": "GhostMap: The Android flaw that crashes your phone before you open the app",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/ghostmap-android",
+      "published_at": "2026-11-07T12:12:57.505-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "android",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "strugee"
+    },
+    {
       "title": "Where to add the --enable-native-access=ALL-UNNAMED?",
       "url": "https://stackoverflow.com/questions/80015187/where-to-add-the-enable-native-access-all-unnamed",
       "published_at": "2026-11-06T15:58:59.000Z",
@@ -2407,6 +2376,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Trigan"
+    },
+    {
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "published_at": "2026-11-07T19:00:00.000Z",
+      "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+      "tags": [
+        "Hardware",
+        "Gadgets",
+        "evergreens"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
     },
     {
       "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
@@ -2850,6 +2833,32 @@
       "user": "Varcht"
     },
     {
+      "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
+      "published_at": "2026-11-07T12:41:33.184-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "openbsd",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "mairo"
+    },
+    {
+      "title": "GhostMap: The Android flaw that crashes your phone before you open the app",
+      "url": "https://www.bitdefender.com/en-us/blog/labs/ghostmap-android",
+      "published_at": "2026-11-07T12:12:57.505-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "android",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "strugee"
+    },
+    {
       "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
       "url": "https://stackoverflow.com/questions/80015029/what-are-the-security-benefits-of-setting-origin-mydomain-com-in-the-url",
       "published_at": "2026-11-06T01:51:49.000Z",
@@ -3048,7 +3057,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1546,
+      "stars": 1618,
       "user": "JenkinWoo"
     },
     {
@@ -3063,23 +3072,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 639,
+      "stars": 643,
       "user": "Gezine"
-    },
-    {
-      "title": "artemnovitckii/claude-animation-skills - Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
-      "url": "https://github.com/artemnovitckii/claude-animation-skills",
-      "published_at": "2026-11-01T02:53:31Z",
-      "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
-      "source": "GitHub",
-      "stars": 472,
-      "user": "artemnovitckii"
     },
     {
       "title": "JosssphZhou/poki - Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
@@ -3093,8 +3087,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 465,
+      "stars": 489,
       "user": "JosssphZhou"
+    },
+    {
+      "title": "artemnovitckii/claude-animation-skills - Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+      "url": "https://github.com/artemnovitckii/claude-animation-skills",
+      "published_at": "2026-11-01T02:53:31Z",
+      "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
+      "source": "GitHub",
+      "stars": 477,
+      "user": "artemnovitckii"
     },
     {
       "title": "SAOS-3624/dsh-see-now - 让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
@@ -3108,7 +3117,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 461,
       "user": "SAOS-3624"
     },
     {
@@ -3123,7 +3132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3018,
+      "stars": 3039,
       "user": "worldonlyu"
     },
     {
@@ -3138,7 +3147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1110,
+      "stars": 1125,
       "user": "mmdoctor"
     },
     {
@@ -3153,23 +3162,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 789,
+      "stars": 791,
       "user": "AssassinCreator"
-    },
-    {
-      "title": "WoYun520/gif-factory - GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-      "url": "https://github.com/WoYun520/gif-factory",
-      "published_at": "2026-11-05T04:08:24Z",
-      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
-      "source": "GitHub",
-      "stars": 615,
-      "user": "WoYun520"
     },
     {
       "title": "sarpstar/cinecode - Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
@@ -3183,8 +3177,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 664,
       "user": "sarpstar"
+    },
+    {
+      "title": "WoYun520/gif-factory - GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "url": "https://github.com/WoYun520/gif-factory",
+      "published_at": "2026-11-05T04:08:24Z",
+      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
+      "source": "GitHub",
+      "stars": 619,
+      "user": "WoYun520"
     },
     {
       "title": "egoist/mygo-music - A native music player you extend with plugins",
@@ -3198,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 668,
+      "stars": 727,
       "user": "egoist"
     },
     {
@@ -3213,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 344,
       "user": "devvmhq"
     },
     {
@@ -3243,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 254,
+      "stars": 255,
       "user": "Balanov"
     },
     {
@@ -3258,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 244,
       "user": "egoist"
     },
     {
@@ -3273,23 +3282,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3916,
+      "stars": 3941,
       "user": "KKKKhazix"
-    },
-    {
-      "title": "mromidev/claude-animated-shorts - Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "url": "https://github.com/mromidev/claude-animated-shorts",
-      "published_at": "2026-11-01T05:50:38Z",
-      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
-      "source": "GitHub",
-      "stars": 2161,
-      "user": "mromidev"
     },
     {
       "title": "Minireel/HGhub - YellowFruit third-party client",
@@ -3303,8 +3297,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 2120,
+      "stars": 2219,
       "user": "Minireel"
+    },
+    {
+      "title": "mromidev/claude-animated-shorts - Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "published_at": "2026-11-01T05:50:38Z",
+      "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
+      "source": "GitHub",
+      "stars": 2199,
+      "user": "mromidev"
     },
     {
       "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
@@ -3318,7 +3327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "source": "GitHub",
-      "stars": 2042,
+      "stars": 2054,
       "user": "caru-ini"
     },
     {
@@ -3333,7 +3342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1140,
+      "stars": 1179,
       "user": "livliv-dev"
     },
     {
@@ -3348,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129982137?v=4",
       "source": "GitHub",
-      "stars": 1258,
+      "stars": 1264,
       "user": "s1dashu"
     },
     {
@@ -3363,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
       "source": "GitHub",
-      "stars": 730,
+      "stars": 819,
       "user": "voyager-so"
     },
     {
@@ -3378,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 703,
+      "stars": 781,
       "user": "libracoder"
     },
     {
@@ -3393,7 +3402,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 468,
       "user": "Renly1994"
     },
     {
@@ -3423,32 +3432,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "tmcb"
-    },
-    {
-      "title": "The MustCreate Pattern for Go Tests",
-      "url": "https://mtlynch.io/notes/go-must-create-pattern/",
-      "published_at": "2026-11-06T09:37:00.157-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "go",
-        "testing"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mtlynch"
-    },
-    {
-      "title": "Inside GitHub's new Git storage architecture",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "published_at": "2026-11-06T11:50:09.323-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "distributed",
-        "vcs"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ndr"
     },
     {
       "title": "Where to add the --enable-native-access=ALL-UNNAMED?",
