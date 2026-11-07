@@ -16,21 +16,6 @@
       "user": "Jem"
     },
     {
-      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
-      "url": "https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp",
-      "published_at": "2026-11-06T22:28:31Z",
-      "description": "Hey all, we have a quick update for everyone who participated in the Hacktoberfest Open-Source AI...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frhtnbaz5elh8xcpmie86.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Prompt Pad: Show Your AI How to Respond with Few-Shot Examples",
       "url": "https://blog.mlh.com/prompt-pad-show-your-ai-how-to-respond-with-few-shot-examples-2869",
       "published_at": "2026-11-06T16:00:00Z",
@@ -104,6 +89,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3we6kl95okn3atgkn9wg.jpg",
       "source": "Dev.to",
       "user": "Patricio Navarro"
+    },
+    {
+      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
+      "url": "https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp",
+      "published_at": "2026-11-06T22:28:31Z",
+      "description": "Hey all, we have a quick update for everyone who participated in the Hacktoberfest Open-Source AI...",
+      "tags": [
+        "devchallenge",
+        "hf26challenge",
+        "hacktoberfest",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frhtnbaz5elh8xcpmie86.png",
+      "source": "Dev.to",
+      "user": "Jem"
     },
     {
       "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
@@ -193,21 +193,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9j2yyb098hr9vwiu2xyr.webp",
       "source": "Dev.to",
       "user": "Noah Brinker"
-    },
-    {
-      "title": "The Postcard That Ate Six Grammars: 1980 Smalltalk-80, 1976 Make, TDD, and the Four Attractors of Agentic Coding",
-      "url": "https://dev.to/gde/the-postcard-that-ate-six-grammars-1980-smalltalk-80-1976-make-tdd-and-the-four-attractors-of-45me",
-      "published_at": "2026-11-03T02:41:46Z",
-      "description": "Why maintaining six separate parsers for Make, Gherkin, EBNF, DOT, SysV, and prompt checklists collapsed into a single Smalltalk-80 keyword cascade—and how 40-year-old Xerox PARC technology gave AI coding agents mathematical zero-amnesia.",
-      "tags": [
-        "ai",
-        "architecture",
-        "smalltalk",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5gl4u3vgt6joi8tfi99i.jpg",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
     },
     {
       "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
@@ -553,6 +538,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "The Postcard That Ate Six Grammars: 1980 Smalltalk-80, 1976 Make, TDD, and the Four Attractors of Agentic Coding",
+      "url": "https://dev.to/gde/the-postcard-that-ate-six-grammars-1980-smalltalk-80-1976-make-tdd-and-the-four-attractors-of-45me",
+      "published_at": "2026-11-03T02:41:46Z",
+      "description": "Why maintaining six separate parsers for Make, Gherkin, EBNF, DOT, SysV, and prompt checklists collapsed into a single Smalltalk-80 keyword cascade—and how 40-year-old Xerox PARC technology gave AI coding agents mathematical zero-amnesia.",
+      "tags": [
+        "ai",
+        "architecture",
+        "smalltalk",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5gl4u3vgt6joi8tfi99i.jpg",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
       "url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
       "published_at": "2026-10-11T19:45:03Z",
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 472,
       "user": "artemnovitckii"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 465,
       "user": "JosssphZhou"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 452,
       "user": "SAOS-3624"
     },
     {
@@ -792,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2965,
+      "stars": 3018,
       "user": "worldonlyu"
     },
     {
@@ -807,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 539,
       "user": "sarpstar"
     },
     {
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 269,
+      "stars": 317,
       "user": "devvmhq"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 254,
       "user": "Balanov"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 610,
+      "stars": 703,
       "user": "libracoder"
     },
     {
@@ -867,8 +867,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 459,
       "user": "Renly1994"
+    },
+    {
+      "title": "How are you dealing with all the negative side effects of AI on the web?",
+      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+      "published_at": "2026-11-07T03:47:24.713-06:00",
+      "description": "It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it.\r\n\r\nSearch engines now rank links full of slop at the top, which ironically make LLM summaries acceptable, not because they are better than what we had before (they are not), but because they at least mention the good links which are now buried at the bottom of the page. Also, they've been rate limiting ordinary users like crazy: more often than I'd like to, Google and DuckDuckGo now either show me either an error message or tell me to wait a bit. Sometimes I waste at least a minute refreshing the page and waiting for a result.\r\n\r\nI also can't browse GitHub freely without being logged in. Anubis is now everywhere, occasionally blocking me. I feel like my productivity has actually gone down thanks to all of that.\r\n\r\n_Edit: I see that most of the replies here are suggesting relying less on the web and going after more fundamental resources, which are great suggestions, don’t get me wrong! But a book from 5 years ago will not help you understand why your custom firmware doesn’t boot in your 1-year old mobile chipset. A existing bug report on the web probably will. Not quite my predicament at the moment, but something very similar for which the web seemed to work just fine before the AI craze._",
+      "tags": [
+        "ask",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "tmcb"
     },
     {
       "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
@@ -884,20 +897,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Always a Newb at Something"
-    },
-    {
-      "title": "Why does Milvus query() fail with VECTOR_FLOAT when sorting by an integer ID?",
-      "url": "https://stackoverflow.com/questions/80015095/why-does-milvus-query-fail-with-vector-float-when-sorting-by-an-integer-id",
-      "published_at": "2026-11-06T09:34:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "database",
-        "milvus"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Derya Coşkun"
     },
     {
       "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
@@ -1276,7 +1275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1546,
       "user": "JenkinWoo"
     },
     {
@@ -1291,7 +1290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 639,
       "user": "Gezine"
     },
     {
@@ -1306,7 +1305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 472,
       "user": "artemnovitckii"
     },
     {
@@ -1321,7 +1320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 465,
       "user": "JosssphZhou"
     },
     {
@@ -1336,7 +1335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 452,
       "user": "SAOS-3624"
     },
     {
@@ -1351,7 +1350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3827,
+      "stars": 3916,
       "user": "KKKKhazix"
     },
     {
@@ -1366,23 +1365,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 2099,
+      "stars": 2161,
       "user": "mromidev"
-    },
-    {
-      "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "url": "https://github.com/caru-ini/stack-diagram",
-      "published_at": "2026-11-01T05:35:12Z",
-      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
-      "source": "GitHub",
-      "stars": 2007,
-      "user": "caru-ini"
     },
     {
       "title": "Minireel/HGhub - YellowFruit third-party client",
@@ -1396,8 +1380,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 1903,
+      "stars": 2120,
       "user": "Minireel"
+    },
+    {
+      "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "published_at": "2026-11-01T05:35:12Z",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
+      "source": "GitHub",
+      "stars": 2042,
+      "user": "caru-ini"
     },
     {
       "title": "livliv-dev/player - A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
@@ -1411,8 +1410,34 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1039,
+      "stars": 1140,
       "user": "livliv-dev"
+    },
+    {
+      "title": "I want to convert Adjacency list to Matrix",
+      "url": "https://stackoverflow.com/questions/80015343/i-want-to-convert-adjacency-list-to-matrix",
+      "published_at": "2026-11-07T13:24:09.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "algorithm"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "HlmCode"
+    },
+    {
+      "title": "amCharts4: legend clipping issue",
+      "url": "https://stackoverflow.com/questions/80015217/amcharts4-legend-clipping-issue",
+      "published_at": "2026-11-06T20:32:40.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "amcharts4"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "P S"
     },
     {
       "title": "How to retrieve API get data when the data is not located in the root level?",
@@ -1445,19 +1470,6 @@
       "user": "SOFTLOGIX Technologies"
     },
     {
-      "title": "amCharts4: legend clipping issue",
-      "url": "https://stackoverflow.com/questions/80015217/amcharts4-legend-clipping-issue",
-      "published_at": "2026-11-06T20:32:40.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "javascript",
-        "amcharts4"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "P S"
-    },
-    {
       "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
       "url": "https://stackoverflow.com/questions/80015029/what-are-the-security-benefits-of-setting-origin-mydomain-com-in-the-url",
       "published_at": "2026-11-06T01:51:49.000Z",
@@ -1471,6 +1483,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Always a Newb at Something"
+    },
+    {
+      "title": "bug between v10.7 and v10.8 and later",
+      "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
+      "published_at": "2026-11-04T22:00:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "javascript",
+        "openlayers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "allez l&#39;OM"
     },
     {
       "title": "Web page not displaying correctly when html is loaded directly or through local server",
@@ -1499,21 +1524,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Eireni &#39;Fikia&#39; Moutoussi"
-    },
-    {
-      "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
-      "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
-      "published_at": "2026-11-04T02:30:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "ios",
-        "mobile-safari"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gadget Seeker"
     },
     {
       "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
@@ -1546,24 +1556,10 @@
       "user": "Alberto Benedetto"
     },
     {
-      "title": "How can I locate an element in a nested div without selecting the outer div?",
-      "url": "https://stackoverflow.com/questions/79989960/how-can-i-locate-an-element-in-a-nested-div-without-selecting-the-outer-div",
-      "published_at": "2026-08-02T21:00:54.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
-      "tags": [
-        "javascript",
-        "ui-automation",
-        "playwright"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Adnan Zaman"
-    },
-    {
       "title": "How can I serialize a Python 3.15 sentinel value to JSON and restore its identity?",
       "url": "https://stackoverflow.com/questions/80015253/how-can-i-serialize-a-python-3-15-sentinel-value-to-json-and-restore-its-identit",
       "published_at": "2026-11-07T00:04:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
         "json",
@@ -1781,7 +1777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2965,
+      "stars": 3018,
       "user": "worldonlyu"
     },
     {
@@ -1796,7 +1792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1110,
       "user": "mmdoctor"
     },
     {
@@ -1811,7 +1807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 789,
       "user": "AssassinCreator"
     },
     {
@@ -1826,7 +1822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 615,
       "user": "WoYun520"
     },
     {
@@ -1841,26 +1837,27 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 539,
       "user": "sarpstar"
     },
     {
-      "title": "How do I write a string to a file or socket in Python?",
-      "url": "https://stackoverflow.com/questions/80015255/how-do-i-write-a-string-to-a-file-or-socket-in-python",
-      "published_at": "2026-11-07T00:20:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "title": "Adding an extra line changes the lazy import object entirely",
+      "url": "https://stackoverflow.com/questions/80015329/adding-an-extra-line-changes-the-lazy-import-object-entirely",
+      "published_at": "2026-11-07T12:09:52.000Z",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
-        "python"
+        "python",
+        "python-import"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "deb2014"
+      "user": "JadenV15"
     },
     {
       "title": "How can I serialize a Python 3.15 sentinel value to JSON and restore its identity?",
       "url": "https://stackoverflow.com/questions/80015253/how-can-i-serialize-a-python-3-15-sentinel-value-to-json-and-restore-its-identit",
       "published_at": "2026-11-07T00:04:55.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "python",
         "json",
@@ -1885,30 +1882,30 @@
       "user": "Daniel Sodkiewicz"
     },
     {
-      "title": "Benchmarking Python Decorator Overhead",
-      "url": "https://stackoverflow.com/questions/80015170/benchmarking-python-decorator-overhead",
-      "published_at": "2026-11-06T14:51:19.000Z",
-      "description": "Stack Overflow question · 0 answers · score 2",
+      "title": "How do I write a string to a file or socket in Python?",
+      "url": "https://stackoverflow.com/questions/80015255/how-do-i-write-a-string-to-a-file-or-socket-in-python",
+      "published_at": "2026-11-07T00:20:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
-        "python",
-        "benchmarking"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "conmak"
+      "user": "deb2014"
     },
     {
-      "title": "Where to add the --enable-native-access=ALL-UNNAMED?",
-      "url": "https://stackoverflow.com/questions/80015187/where-to-add-the-enable-native-access-all-unnamed",
-      "published_at": "2026-11-06T15:58:59.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Cannot auto import Django classes in VS Code despite changing package index depth",
+      "url": "https://stackoverflow.com/questions/80015022/cannot-auto-import-django-classes-in-vs-code-despite-changing-package-index-dept",
+      "published_at": "2026-11-06T00:41:10.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
-        "android-sdk-tools"
+        "django",
+        "vs-code"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Trigan"
+      "user": "IgorArnaut"
     },
     {
       "title": "Numba not speeding up python code looping over all pixels",
@@ -1923,6 +1920,19 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Python4Life"
+    },
+    {
+      "title": "Benchmarking Python Decorator Overhead",
+      "url": "https://stackoverflow.com/questions/80015170/benchmarking-python-decorator-overhead",
+      "published_at": "2026-11-06T14:51:19.000Z",
+      "description": "Stack Overflow question · 0 answers · score 2",
+      "tags": [
+        "python",
+        "benchmarking"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "conmak"
     },
     {
       "title": "Python SQLModel FastAPI get unique values from database",
@@ -1940,6 +1950,19 @@
       "user": "xAvareS"
     },
     {
+      "title": "Where to add the --enable-native-access=ALL-UNNAMED?",
+      "url": "https://stackoverflow.com/questions/80015187/where-to-add-the-enable-native-access-all-unnamed",
+      "published_at": "2026-11-06T15:58:59.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "python",
+        "android-sdk-tools"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Trigan"
+    },
+    {
       "title": "Handling cache invalidation while a shared in-flight task is still running",
       "url": "https://stackoverflow.com/questions/80014991/handling-cache-invalidation-while-a-shared-in-flight-task-is-still-running",
       "published_at": "2026-11-05T21:37:39.000Z",
@@ -1953,33 +1976,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Faheem"
-    },
-    {
-      "title": "Why does Milvus query() fail with VECTOR_FLOAT when sorting by an integer ID?",
-      "url": "https://stackoverflow.com/questions/80015095/why-does-milvus-query-fail-with-vector-float-when-sorting-by-an-integer-id",
-      "published_at": "2026-11-06T09:34:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "database",
-        "milvus"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Derya Coşkun"
-    },
-    {
-      "title": "How to narrow down an ast selection to only assignments with a name on the RHS",
-      "url": "https://stackoverflow.com/questions/80014888/how-to-narrow-down-an-ast-selection-to-only-assignments-with-a-name-on-the-rhs",
-      "published_at": "2026-11-05T10:55:18.000Z",
-      "description": "Stack Overflow question · 2 answers · score -4",
-      "tags": [
-        "python",
-        "python-ast"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "NickC"
     }
   ],
   "DevOps": [
@@ -2281,21 +2277,6 @@
       "user": "Eireni &#39;Fikia&#39; Moutoussi"
     },
     {
-      "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
-      "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
-      "published_at": "2026-11-04T02:30:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "ios",
-        "mobile-safari"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gadget Seeker"
-    },
-    {
       "title": "How to Build a PDF Storyboard Generator Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/",
       "published_at": "2026-11-06T19:41:34.000Z",
@@ -2402,19 +2383,17 @@
       "user": "Esra Kadah"
     },
     {
-      "title": "In Safari on Apple devices, how can I open a link in a new tab with popups blocked?",
-      "url": "https://stackoverflow.com/questions/80014546/in-safari-on-apple-devices-how-can-i-open-a-link-in-a-new-tab-with-popups-block",
-      "published_at": "2026-11-04T02:30:24.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "title": "How are you dealing with all the negative side effects of AI on the web?",
+      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+      "published_at": "2026-11-07T03:47:24.713-06:00",
+      "description": "It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it.\r\n\r\nSearch engines now rank links full of slop at the top, which ironically make LLM summaries acceptable, not because they are better than what we had before (they are not), but because they at least mention the good links which are now buried at the bottom of the page. Also, they've been rate limiting ordinary users like crazy: more often than I'd like to, Google and DuckDuckGo now either show me either an error message or tell me to wait a bit. Sometimes I waste at least a minute refreshing the page and waiting for a result.\r\n\r\nI also can't browse GitHub freely without being logged in. Anubis is now everywhere, occasionally blocking me. I feel like my productivity has actually gone down thanks to all of that.\r\n\r\n_Edit: I see that most of the replies here are suggesting relying less on the web and going after more fundamental resources, which are great suggestions, don’t get me wrong! But a book from 5 years ago will not help you understand why your custom firmware doesn’t boot in your 1-year old mobile chipset. A existing bug report on the web probably will. Not quite my predicament at the moment, but something very similar for which the web seemed to work just fine before the AI craze._",
       "tags": [
-        "javascript",
-        "html",
-        "ios",
-        "mobile-safari"
+        "ask",
+        "web"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Gadget Seeker"
+      "source": "Lobste.rs",
+      "user": "tmcb"
     },
     {
       "title": "Where to add the --enable-native-access=ALL-UNNAMED?",
@@ -2653,20 +2632,6 @@
       "user": "xAvareS"
     },
     {
-      "title": "Why does Milvus query() fail with VECTOR_FLOAT when sorting by an integer ID?",
-      "url": "https://stackoverflow.com/questions/80015095/why-does-milvus-query-fail-with-vector-float-when-sorting-by-an-integer-id",
-      "published_at": "2026-11-06T09:34:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "database",
-        "milvus"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Derya Coşkun"
-    },
-    {
       "title": "Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB",
       "url": "https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/",
       "published_at": "2026-11-03T16:07:38.000Z",
@@ -2885,18 +2850,6 @@
       "user": "Varcht"
     },
     {
-      "title": "Hacking the meta ray-ban smartglasses",
-      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-      "published_at": "2026-11-06T14:50:24.488-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ni5arga"
-    },
-    {
       "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
       "url": "https://stackoverflow.com/questions/80015029/what-are-the-security-benefits-of-setting-origin-mydomain-com-in-the-url",
       "published_at": "2026-11-06T01:51:49.000Z",
@@ -3095,7 +3048,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1285,
+      "stars": 1546,
       "user": "JenkinWoo"
     },
     {
@@ -3110,7 +3063,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/30000519?v=4",
       "source": "GitHub",
-      "stars": 636,
+      "stars": 639,
       "user": "Gezine"
     },
     {
@@ -3125,7 +3078,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/52527600?v=4",
       "source": "GitHub",
-      "stars": 452,
+      "stars": 472,
       "user": "artemnovitckii"
     },
     {
@@ -3140,7 +3093,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 450,
+      "stars": 465,
       "user": "JosssphZhou"
     },
     {
@@ -3155,7 +3108,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348517238?v=4",
       "source": "GitHub",
-      "stars": 441,
+      "stars": 452,
       "user": "SAOS-3624"
     },
     {
@@ -3170,7 +3123,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 2965,
+      "stars": 3018,
       "user": "worldonlyu"
     },
     {
@@ -3185,7 +3138,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1003,
+      "stars": 1110,
       "user": "mmdoctor"
     },
     {
@@ -3200,7 +3153,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 787,
+      "stars": 789,
       "user": "AssassinCreator"
     },
     {
@@ -3215,7 +3168,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 582,
+      "stars": 615,
       "user": "WoYun520"
     },
     {
@@ -3230,7 +3183,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 510,
+      "stars": 539,
       "user": "sarpstar"
     },
     {
@@ -3245,8 +3198,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 500,
+      "stars": 668,
       "user": "egoist"
+    },
+    {
+      "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "url": "https://github.com/devvmhq/devvm",
+      "published_at": "2026-11-06T07:02:30Z",
+      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
+      "source": "GitHub",
+      "stars": 317,
+      "user": "devvmhq"
     },
     {
       "title": "protonversestudio/wow-forever-builds-kindred - Answer four questions and see which WoW Forever class fits how you play. Free Windows app.",
@@ -3264,21 +3232,6 @@
       "user": "protonversestudio"
     },
     {
-      "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "url": "https://github.com/devvmhq/devvm",
-      "published_at": "2026-11-06T07:02:30Z",
-      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
-      "source": "GitHub",
-      "stars": 269,
-      "user": "devvmhq"
-    },
-    {
       "title": "Balanov/uncut - The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
       "url": "https://github.com/Balanov/uncut",
       "published_at": "2026-11-01T17:19:30Z",
@@ -3290,7 +3243,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
       "source": "GitHub",
-      "stars": 253,
+      "stars": 254,
       "user": "Balanov"
     },
     {
@@ -3305,7 +3258,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 243,
       "user": "egoist"
     },
     {
@@ -3320,7 +3273,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3827,
+      "stars": 3916,
       "user": "KKKKhazix"
     },
     {
@@ -3335,23 +3288,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "source": "GitHub",
-      "stars": 2099,
+      "stars": 2161,
       "user": "mromidev"
-    },
-    {
-      "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "url": "https://github.com/caru-ini/stack-diagram",
-      "published_at": "2026-11-01T05:35:12Z",
-      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
-      "source": "GitHub",
-      "stars": 2007,
-      "user": "caru-ini"
     },
     {
       "title": "Minireel/HGhub - YellowFruit third-party client",
@@ -3365,8 +3303,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 1903,
+      "stars": 2120,
       "user": "Minireel"
+    },
+    {
+      "title": "caru-ini/stack-diagram - Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "published_at": "2026-11-01T05:35:12Z",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/166897461?v=4",
+      "source": "GitHub",
+      "stars": 2042,
+      "user": "caru-ini"
     },
     {
       "title": "livliv-dev/player - A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
@@ -3380,7 +3333,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1039,
+      "stars": 1140,
       "user": "livliv-dev"
     },
     {
@@ -3395,23 +3348,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/129982137?v=4",
       "source": "GitHub",
-      "stars": 1227,
+      "stars": 1258,
       "user": "s1dashu"
-    },
-    {
-      "title": "libracoder/kiri - A small, fast container runtime for macOS, Windows and Linux",
-      "url": "https://github.com/libracoder/kiri",
-      "published_at": "2026-11-02T16:11:30Z",
-      "description": "A small, fast container runtime for macOS, Windows and Linux",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
-      "source": "GitHub",
-      "stars": 610,
-      "user": "libracoder"
     },
     {
       "title": "voyager-so/vork - Headless 3D and VFX engine for agents. Research preview.",
@@ -3425,8 +3363,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 730,
       "user": "voyager-so"
+    },
+    {
+      "title": "libracoder/kiri - A small, fast container runtime for macOS, Windows and Linux",
+      "url": "https://github.com/libracoder/kiri",
+      "published_at": "2026-11-02T16:11:30Z",
+      "description": "A small, fast container runtime for macOS, Windows and Linux",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
+      "source": "GitHub",
+      "stars": 703,
+      "user": "libracoder"
     },
     {
       "title": "Renly1994/xiaotang-daozai - 岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
@@ -3440,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 448,
+      "stars": 459,
       "user": "Renly1994"
     },
     {
@@ -3457,6 +3410,19 @@
       "source": "GitHub",
       "stars": 405,
       "user": "DeltaProviderGuide"
+    },
+    {
+      "title": "How are you dealing with all the negative side effects of AI on the web?",
+      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+      "published_at": "2026-11-07T03:47:24.713-06:00",
+      "description": "It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it.\r\n\r\nSearch engines now rank links full of slop at the top, which ironically make LLM summaries acceptable, not because they are better than what we had before (they are not), but because they at least mention the good links which are now buried at the bottom of the page. Also, they've been rate limiting ordinary users like crazy: more often than I'd like to, Google and DuckDuckGo now either show me either an error message or tell me to wait a bit. Sometimes I waste at least a minute refreshing the page and waiting for a result.\r\n\r\nI also can't browse GitHub freely without being logged in. Anubis is now everywhere, occasionally blocking me. I feel like my productivity has actually gone down thanks to all of that.\r\n\r\n_Edit: I see that most of the replies here are suggesting relying less on the web and going after more fundamental resources, which are great suggestions, don’t get me wrong! But a book from 5 years ago will not help you understand why your custom firmware doesn’t boot in your 1-year old mobile chipset. A existing bug report on the web probably will. Not quite my predicament at the moment, but something very similar for which the web seemed to work just fine before the AI craze._",
+      "tags": [
+        "ask",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "tmcb"
     },
     {
       "title": "The MustCreate Pattern for Go Tests",
