@@ -403,21 +403,6 @@
       "user": "Jem"
     },
     {
-      "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
-      "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
-      "published_at": "2026-11-01T00:41:17Z",
-      "description": "Why do an eager intern with a Hacker News blog post, a C-level executive stepping off an airplane with an in-flight magazine, and a trillion-parameter LLM all walk straight into the exact same production bog? And why even Google DeepMind can only bake half of our 600 scars into model weights.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlk0251k4s6ucmxlzfnw.jpg",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
       "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
       "published_at": "2026-10-31T23:02:02Z",
@@ -431,6 +416,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fskill-drift%2Fcover.0c041943.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
+      "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
+      "published_at": "2026-11-01T00:41:17Z",
+      "description": "Why do an eager intern with a Hacker News blog post, a C-level executive stepping off an airplane with an in-flight magazine, and a trillion-parameter LLM all walk straight into the exact same production bog? And why even Google DeepMind can only bake half of our 600 scars into model weights.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlk0251k4s6ucmxlzfnw.jpg",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 546,
       "user": "JosssphZhou"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3065,
+      "stars": 3156,
       "user": "worldonlyu"
     },
     {
@@ -777,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 1159,
       "user": "sarpstar"
     },
     {
@@ -792,23 +792,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 376,
       "user": "devvmhq"
     },
     {
-      "title": "Balanov/shim - Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
-      "url": "https://github.com/Balanov/shim",
-      "published_at": "2026-11-02T17:54:29Z",
-      "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+      "title": "DIYgod/pinky - Let AI agents use your phone, with you in the loop.",
+      "url": "https://github.com/DIYgod/pinky",
+      "published_at": "2026-11-06T16:53:14Z",
+      "description": "Let AI agents use your phone, with you in the loop.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 189,
-      "user": "Balanov"
+      "stars": 317,
+      "user": "DIYgod"
     },
     {
       "title": "AtomIllusionistDwell/watson-username-footprint-finder - Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
@@ -822,8 +822,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 414,
       "user": "AtomIllusionistDwell"
+    },
+    {
+      "title": "ZSeven-W/dsh-game-studio - Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, export one HTML file.",
+      "url": "https://github.com/ZSeven-W/dsh-game-studio",
+      "published_at": "2026-11-05T08:18:29Z",
+      "description": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, export one HTML file.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
+      "source": "GitHub",
+      "stars": 384,
+      "user": "ZSeven-W"
     },
     {
       "title": "libracoder/kiri - A small, fast container runtime for macOS, Windows and Linux",
@@ -837,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 998,
       "user": "libracoder"
     },
     {
@@ -852,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 483,
       "user": "Renly1994"
     },
     {
@@ -871,6 +886,21 @@
       "user": "StormSkinkGrip"
     },
     {
+      "title": "DolphinBridge36/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+      "url": "https://github.com/DolphinBridge36/game-server-route-racer",
+      "published_at": "2026-11-03T17:03:47Z",
+      "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317164983?v=4",
+      "source": "GitHub",
+      "stars": 267,
+      "user": "DolphinBridge36"
+    },
+    {
       "title": "How are you dealing with all the negative side effects of AI on the web?",
       "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
       "published_at": "2026-11-07T03:47:24.713-06:00",
@@ -882,6 +912,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "tmcb"
+    },
+    {
+      "title": "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
+      "url": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/",
+      "published_at": "2026-11-08T02:41:38.183-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "release"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "diktomat"
     },
     {
       "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
@@ -1254,7 +1296,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1684,
+      "stars": 1791,
       "user": "JenkinWoo"
     },
     {
@@ -1269,7 +1311,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 546,
       "user": "JosssphZhou"
     },
     {
@@ -1284,7 +1326,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153842595?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 458,
       "user": "woniuniuniu"
     },
     {
@@ -1329,7 +1371,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3970,
+      "stars": 4028,
       "user": "KKKKhazix"
     },
     {
@@ -1344,7 +1386,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 2371,
+      "stars": 2633,
       "user": "Minireel"
     },
     {
@@ -1359,7 +1401,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1215,
+      "stars": 1281,
       "user": "livliv-dev"
     },
     {
@@ -1374,29 +1416,29 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 414,
       "user": "AtomIllusionistDwell"
     },
     {
-      "title": "MagoStudio/MagoStudio - MagoStudio application",
-      "url": "https://github.com/MagoStudio/MagoStudio",
-      "published_at": "2026-11-02T16:03:10Z",
-      "description": "MagoStudio application",
+      "title": "ZSeven-W/dsh-game-studio - Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, export one HTML file.",
+      "url": "https://github.com/ZSeven-W/dsh-game-studio",
+      "published_at": "2026-11-05T08:18:29Z",
+      "description": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, export one HTML file.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176957004?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 365,
-      "user": "MagoStudio"
+      "stars": 384,
+      "user": "ZSeven-W"
     },
     {
       "title": "What is the best code minification website",
       "url": "https://stackoverflow.com/questions/80015396/what-is-the-best-code-minification-website",
       "published_at": "2026-11-07T20:37:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "javascript",
         "performance",
@@ -1412,7 +1454,7 @@
       "title": "I want to convert Adjacency list to Matrix",
       "url": "https://stackoverflow.com/questions/80015343/i-want-to-convert-adjacency-list-to-matrix",
       "published_at": "2026-11-07T13:24:09.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
         "algorithm"
@@ -1493,20 +1535,6 @@
       "user": "allez l&#39;OM"
     },
     {
-      "title": "How do I create a JS object (rather than an array) from HTML table values?",
-      "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
-      "published_at": "2026-11-03T15:07:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "javascript",
-        "html",
-        "jquery"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Eireni &#39;Fikia&#39; Moutoussi"
-    },
-    {
       "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
       "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
       "published_at": "2026-10-30T23:01:14.000Z",
@@ -1537,10 +1565,24 @@
       "user": "Alberto Benedetto"
     },
     {
+      "title": "How to reset an HTML element to its first/initial value in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79820285/how-to-reset-an-html-element-to-its-first-initial-value-in-javascript",
+      "published_at": "2025-11-14T17:11:16.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Milichip"
+    },
+    {
       "title": "How can I serialize a Python 3.15 sentinel value to JSON and restore its identity?",
       "url": "https://stackoverflow.com/questions/80015253/how-can-i-serialize-a-python-3-15-sentinel-value-to-json-and-restore-its-identit",
       "published_at": "2026-11-07T00:04:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
         "json",
@@ -1758,7 +1800,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3065,
+      "stars": 3156,
       "user": "worldonlyu"
     },
     {
@@ -1773,7 +1815,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1150,
+      "stars": 1179,
       "user": "mmdoctor"
     },
     {
@@ -1788,7 +1830,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 1159,
       "user": "sarpstar"
     },
     {
@@ -1803,7 +1845,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 790,
       "user": "AssassinCreator"
     },
     {
@@ -1818,8 +1860,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 707,
       "user": "WoYun520"
+    },
+    {
+      "title": "PyVista plotting running slowly, resetting box size and causing collisions",
+      "url": "https://stackoverflow.com/questions/80015428/pyvista-plotting-running-slowly-resetting-box-size-and-causing-collisions",
+      "published_at": "2026-11-08T04:00:08.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "numpy",
+        "pytorch",
+        "physics",
+        "pyvista"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "user33280062"
     },
     {
       "title": "`except` doesn’t catch my custom exception raised inside `InterpreterPoolExecutor` (Python 3.14)",
@@ -1837,34 +1895,6 @@
       "user": "Muhammad Raham Saleem"
     },
     {
-      "title": "t-string HTML renderer ignores `:.2f` and escapes nested templates as raw text",
-      "url": "https://stackoverflow.com/questions/80015408/t-string-html-renderer-ignores-2f-and-escapes-nested-templates-as-raw-text",
-      "published_at": "2026-11-07T22:13:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "python-3.14",
-        "python-template-strings"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Raham Saleem"
-    },
-    {
-      "title": "Unable to install Tkinter on CachyOS",
-      "url": "https://stackoverflow.com/questions/80015401/unable-to-install-tkinter-on-cachyos",
-      "published_at": "2026-11-07T21:10:44.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
-      "tags": [
-        "python",
-        "tkinter",
-        "cachyos"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "LostgamerFJ"
-    },
-    {
       "title": "Adding an extra line changes the lazy import object entirely",
       "url": "https://stackoverflow.com/questions/80015329/adding-an-extra-line-changes-the-lazy-import-object-entirely",
       "published_at": "2026-11-07T12:09:52.000Z",
@@ -1878,16 +1908,57 @@
       "user": "JadenV15"
     },
     {
+      "title": "t-string HTML renderer ignores `:.2f` and escapes nested templates as raw text",
+      "url": "https://stackoverflow.com/questions/80015408/t-string-html-renderer-ignores-2f-and-escapes-nested-templates-as-raw-text",
+      "published_at": "2026-11-07T22:13:06.000Z",
+      "description": "Stack Overflow question · 1 answers · score -1",
+      "tags": [
+        "python",
+        "python-3.14",
+        "python-template-strings"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad Raham Saleem"
+    },
+    {
+      "title": "Unable to install Tkinter on CachyOS",
+      "url": "https://stackoverflow.com/questions/80015401/unable-to-install-tkinter-on-cachyos",
+      "published_at": "2026-11-07T21:10:44.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "tkinter",
+        "cachyos"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "LostgamerFJ"
+    },
+    {
       "title": "How do I write a string to a file or socket in Python?",
       "url": "https://stackoverflow.com/questions/80015255/how-do-i-write-a-string-to-a-file-or-socket-in-python",
       "published_at": "2026-11-07T00:20:02.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "deb2014"
+    },
+    {
+      "title": "Benchmarking Python Decorator Overhead",
+      "url": "https://stackoverflow.com/questions/80015170/benchmarking-python-decorator-overhead",
+      "published_at": "2026-11-06T14:51:19.000Z",
+      "description": "Stack Overflow question · 2 answers · score 5",
+      "tags": [
+        "python",
+        "benchmarking"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "conmak"
     },
     {
       "title": "How can I check whether a lazy import has executed in Python 3.15 without triggering it?",
@@ -1907,7 +1978,7 @@
       "title": "How can I serialize a Python 3.15 sentinel value to JSON and restore its identity?",
       "url": "https://stackoverflow.com/questions/80015253/how-can-i-serialize-a-python-3-15-sentinel-value-to-json-and-restore-its-identit",
       "published_at": "2026-11-07T00:04:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
         "json",
@@ -1916,19 +1987,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Daniel Sodkiewicz"
-    },
-    {
-      "title": "Benchmarking Python Decorator Overhead",
-      "url": "https://stackoverflow.com/questions/80015170/benchmarking-python-decorator-overhead",
-      "published_at": "2026-11-06T14:51:19.000Z",
-      "description": "Stack Overflow question · 1 answers · score 5",
-      "tags": [
-        "python",
-        "benchmarking"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "conmak"
     },
     {
       "title": "Numba not speeding up python code looping over all pixels",
@@ -1943,20 +2001,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Python4Life"
-    },
-    {
-      "title": "Cannot auto import Django classes in VS Code despite changing package index depth",
-      "url": "https://stackoverflow.com/questions/80015022/cannot-auto-import-django-classes-in-vs-code-despite-changing-package-index-dept",
-      "published_at": "2026-11-06T00:41:10.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "django",
-        "vs-code"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "IgorArnaut"
     }
   ],
   "DevOps": [
@@ -2170,6 +2214,18 @@
       "user": "jknupp"
     },
     {
+      "title": "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
+      "url": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/",
+      "published_at": "2026-11-08T02:41:38.183-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "release"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "diktomat"
+    },
+    {
       "title": "How to Automate Docker Image Creation for Postgres Using Shell Commands",
       "url": "https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/",
       "published_at": "2026-11-03T18:40:47.000Z",
@@ -2230,24 +2286,39 @@
       "user": "velmu"
     },
     {
-      "title": "How do I create a JS object (rather than an array) from HTML table values?",
-      "url": "https://stackoverflow.com/questions/80014448/how-do-i-create-a-js-object-rather-than-an-array-from-html-table-values",
-      "published_at": "2026-11-03T15:07:46.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
+      "title": "ZSeven-W/dsh-game-studio - Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, export one HTML file.",
+      "url": "https://github.com/ZSeven-W/dsh-game-studio",
+      "published_at": "2026-11-05T08:18:29Z",
+      "description": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, export one HTML file.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
+      "source": "GitHub",
+      "stars": 384,
+      "user": "ZSeven-W"
+    },
+    {
+      "title": "How to reset an HTML element to its first/initial value in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79820285/how-to-reset-an-html-element-to-its-first-initial-value-in-javascript",
+      "published_at": "2025-11-14T17:11:16.000Z",
+      "description": "Stack Overflow question · 3 answers · score 0",
       "tags": [
         "javascript",
         "html",
-        "jquery"
+        "css"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Eireni &#39;Fikia&#39; Moutoussi"
+      "user": "Milichip"
     },
     {
       "title": "t-string HTML renderer ignores `:.2f` and escapes nested templates as raw text",
       "url": "https://stackoverflow.com/questions/80015408/t-string-html-renderer-ignores-2f-and-escapes-nested-templates-as-raw-text",
       "published_at": "2026-11-07T22:13:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score -1",
       "tags": [
         "python",
         "python-3.14",
@@ -2841,6 +2912,18 @@
       "user": "ThinkChaos"
     },
     {
+      "title": "Dear Open Source Developers: It's OK not to embargo",
+      "url": "https://opensourcesecurity.io/2026/10-embargo/",
+      "published_at": "2026-11-07T17:31:05.716-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "liberty"
+    },
+    {
       "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
       "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
       "published_at": "2026-11-07T12:41:33.184-06:00",
@@ -3049,7 +3132,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1684,
+      "stars": 1791,
       "user": "JenkinWoo"
     },
     {
@@ -3064,7 +3147,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 519,
+      "stars": 546,
       "user": "JosssphZhou"
     },
     {
@@ -3079,7 +3162,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153842595?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 458,
       "user": "woniuniuniu"
     },
     {
@@ -3124,7 +3207,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3065,
+      "stars": 3156,
       "user": "worldonlyu"
     },
     {
@@ -3139,7 +3222,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1150,
+      "stars": 1179,
       "user": "mmdoctor"
     },
     {
@@ -3154,7 +3237,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 873,
+      "stars": 1159,
       "user": "sarpstar"
     },
     {
@@ -3169,7 +3252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
       "source": "GitHub",
-      "stars": 791,
+      "stars": 790,
       "user": "AssassinCreator"
     },
     {
@@ -3184,7 +3267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 626,
+      "stars": 707,
       "user": "WoYun520"
     },
     {
@@ -3199,7 +3282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 795,
+      "stars": 877,
       "user": "egoist"
     },
     {
@@ -3214,23 +3297,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 365,
+      "stars": 376,
       "user": "devvmhq"
     },
     {
-      "title": "protonversestudio/wow-forever-builds-kindred - Answer four questions and see which WoW Forever class fits how you play. Free Windows app.",
-      "url": "https://github.com/protonversestudio/wow-forever-builds-kindred",
-      "published_at": "2026-11-04T05:12:03Z",
-      "description": "Answer four questions and see which WoW Forever class fits how you play. Free Windows app.",
+      "title": "DIYgod/pinky - Let AI agents use your phone, with you in the loop.",
+      "url": "https://github.com/DIYgod/pinky",
+      "published_at": "2026-11-06T16:53:14Z",
+      "description": "Let AI agents use your phone, with you in the loop.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317165393?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 274,
-      "user": "protonversestudio"
+      "stars": 317,
+      "user": "DIYgod"
     },
     {
       "title": "egoist/godraw - infinite canvas in mygo",
@@ -3248,19 +3331,19 @@
       "user": "egoist"
     },
     {
-      "title": "Balanov/shim - Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
-      "url": "https://github.com/Balanov/shim",
-      "published_at": "2026-11-02T17:54:29Z",
-      "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+      "title": "manjushree-iyer/soundpad-audio-suite - Soundpad: Advanced Audio Processing for Professional DAW Workflows",
+      "url": "https://github.com/manjushree-iyer/soundpad-audio-suite",
+      "published_at": "2026-11-06T21:24:56Z",
+      "description": "Soundpad: Advanced Audio Processing for Professional DAW Workflows",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/29678847?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/195894983?v=4",
       "source": "GitHub",
-      "stars": 189,
-      "user": "Balanov"
+      "stars": 244,
+      "user": "manjushree-iyer"
     },
     {
       "title": "KKKKhazix/agent-autoloop - 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
@@ -3274,7 +3357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 3970,
+      "stars": 4028,
       "user": "KKKKhazix"
     },
     {
@@ -3289,7 +3372,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 2371,
+      "stars": 2633,
       "user": "Minireel"
     },
     {
@@ -3304,7 +3387,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1215,
+      "stars": 1281,
       "user": "livliv-dev"
     },
     {
@@ -3319,38 +3402,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 414,
       "user": "AtomIllusionistDwell"
     },
     {
-      "title": "MagoStudio/MagoStudio - MagoStudio application",
-      "url": "https://github.com/MagoStudio/MagoStudio",
-      "published_at": "2026-11-02T16:03:10Z",
-      "description": "MagoStudio application",
+      "title": "ZSeven-W/dsh-game-studio - Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, export one HTML file.",
+      "url": "https://github.com/ZSeven-W/dsh-game-studio",
+      "published_at": "2026-11-05T08:18:29Z",
+      "description": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, export one HTML file.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/176957004?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 365,
-      "user": "MagoStudio"
-    },
-    {
-      "title": "voyager-so/vork - Headless 3D and VFX engine for agents. Research preview.",
-      "url": "https://github.com/voyager-so/vork",
-      "published_at": "2026-11-05T22:37:07Z",
-      "description": "Headless 3D and VFX engine for agents. Research preview.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
-      "source": "GitHub",
-      "stars": 900,
-      "user": "voyager-so"
+      "stars": 384,
+      "user": "ZSeven-W"
     },
     {
       "title": "libracoder/kiri - A small, fast container runtime for macOS, Windows and Linux",
@@ -3364,8 +3432,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 889,
+      "stars": 998,
       "user": "libracoder"
+    },
+    {
+      "title": "voyager-so/vork - Headless 3D and VFX engine for agents. Research preview.",
+      "url": "https://github.com/voyager-so/vork",
+      "published_at": "2026-11-05T22:37:07Z",
+      "description": "Headless 3D and VFX engine for agents. Research preview.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
+      "source": "GitHub",
+      "stars": 987,
+      "user": "voyager-so"
     },
     {
       "title": "Renly1994/xiaotang-daozai - 岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
@@ -3379,23 +3462,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 475,
+      "stars": 483,
       "user": "Renly1994"
-    },
-    {
-      "title": "DeltaProviderGuide/auto-auction-bot-wow-forever - A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
-      "url": "https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever",
-      "published_at": "2026-11-04T05:41:32Z",
-      "description": "A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317165231?v=4",
-      "source": "GitHub",
-      "stars": 405,
-      "user": "DeltaProviderGuide"
     },
     {
       "title": "StormSkinkGrip/game-ping-multipath-router - Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
@@ -3411,6 +3479,21 @@
       "source": "GitHub",
       "stars": 325,
       "user": "StormSkinkGrip"
+    },
+    {
+      "title": "DolphinBridge36/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+      "url": "https://github.com/DolphinBridge36/game-server-route-racer",
+      "published_at": "2026-11-03T17:03:47Z",
+      "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317164983?v=4",
+      "source": "GitHub",
+      "stars": 267,
+      "user": "DolphinBridge36"
     },
     {
       "title": "How are you dealing with all the negative side effects of AI on the web?",
