@@ -16,21 +16,6 @@
       "user": "Jem"
     },
     {
-      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
-      "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a",
-      "published_at": "2026-11-05T00:02:44Z",
-      "description": "Why do New Caledonian crows bend wire into hooks with zero training while a trillion-parameter LLM flies straight into the same production bug zapper? How Anthony Zador's Genomic Bottleneck explains what 'instinct' really is in AI coding agents.",
-      "tags": [
-        "ai",
-        "programming",
-        "neuroscience",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp24lnbmzkhrdluxod8g5.jpg",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Prompt Pad: What Are Open-Weight Models?",
       "url": "https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh",
       "published_at": "2026-11-05T21:00:19Z",
@@ -118,21 +103,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fquality-curve.6xHWd_CO_2kumlD.webp",
       "source": "Dev.to",
       "user": "Elia Secchi"
-    },
-    {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-2-signal-forms-3ll9",
-      "published_at": "2026-11-04T02:48:43Z",
-      "description": "In this blog post, we build a Sign-In modal component (SignInModalComponent) using the stable Angular...",
-      "tags": [
-        "angular",
-        "firebase",
-        "authentication",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fynhzdcvy5xv9tq0c27kb.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
@@ -225,18 +195,19 @@
       "user": "xbill"
     },
     {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg",
-      "published_at": "2026-11-04T15:23:31Z",
-      "description": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
+      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
+      "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a",
+      "published_at": "2026-11-05T00:02:44Z",
+      "description": "Why do New Caledonian crows bend wire into hooks with zero training while a trillion-parameter LLM flies straight into the same production bug zapper? How Anthony Zador's Genomic Bottleneck explains what 'instinct' really is in AI coding agents.",
       "tags": [
-        "angular",
-        "firebase",
-        "webdev"
+        "ai",
+        "programming",
+        "neuroscience",
+        "architecture"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp24lnbmzkhrdluxod8g5.jpg",
       "source": "Dev.to",
-      "user": "Connie Leung"
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
@@ -371,6 +342,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Frust-dev%2Fmain%2Fa2a-benchmark-rust%2Fdocs%2Fa2a-cli-rust%2Fdevto-cover.dbab2d14.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg",
+      "published_at": "2026-11-04T15:23:31Z",
+      "description": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
+      "tags": [
+        "angular",
+        "firebase",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
@@ -568,6 +553,21 @@
       "user": "Kara Silverman"
     },
     {
+      "title": "Why Smaller AI Models Can Win in the Enterprise",
+      "url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57",
+      "published_at": "2026-10-11T19:41:19Z",
+      "description": "Three engineering lessons from building a 1-billion-parameter foundation model for enterprise fraud detection.",
+      "tags": [
+        "aie",
+        "machinelearning",
+        "gpu",
+        "deeplearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm639wbwsz2jige4sw3v1.png",
+      "source": "Dev.to",
+      "user": "Freddy Lécué"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 583,
       "user": "JosssphZhou"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3156,
+      "stars": 3210,
       "user": "worldonlyu"
     },
     {
@@ -777,23 +777,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 1159,
+      "stars": 1437,
       "user": "sarpstar"
-    },
-    {
-      "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "url": "https://github.com/devvmhq/devvm",
-      "published_at": "2026-11-06T07:02:30Z",
-      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
-      "source": "GitHub",
-      "stars": 376,
-      "user": "devvmhq"
     },
     {
       "title": "DIYgod/pinky - Let AI agents use your phone, with you in the loop.",
@@ -807,8 +792,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 635,
       "user": "DIYgod"
+    },
+    {
+      "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "url": "https://github.com/devvmhq/devvm",
+      "published_at": "2026-11-06T07:02:30Z",
+      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
+      "source": "GitHub",
+      "stars": 396,
+      "user": "devvmhq"
     },
     {
       "title": "AtomIllusionistDwell/watson-username-footprint-finder - Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
@@ -822,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 473,
       "user": "AtomIllusionistDwell"
     },
     {
@@ -837,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 401,
       "user": "ZSeven-W"
     },
     {
@@ -852,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1123,
       "user": "libracoder"
     },
     {
@@ -867,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 494,
       "user": "Renly1994"
     },
     {
@@ -882,23 +882,32 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165609?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "StormSkinkGrip"
     },
     {
-      "title": "DolphinBridge36/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
-      "url": "https://github.com/DolphinBridge36/game-server-route-racer",
-      "published_at": "2026-11-03T17:03:47Z",
-      "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
+      "title": "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
+      "url": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/",
+      "published_at": "2026-11-08T02:41:38.183-06:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
+        "release"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317164983?v=4",
-      "source": "GitHub",
-      "stars": 267,
-      "user": "DolphinBridge36"
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "diktomat"
+    },
+    {
+      "title": "A bit about email",
+      "url": "https://maurycyz.com/misc/email/",
+      "published_at": "2026-11-08T06:53:34.868-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "email"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "robalex"
     },
     {
       "title": "How are you dealing with all the negative side effects of AI on the web?",
@@ -912,18 +921,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "tmcb"
-    },
-    {
-      "title": "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
-      "url": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/",
-      "published_at": "2026-11-08T02:41:38.183-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "release"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "diktomat"
     },
     {
       "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
@@ -1030,22 +1027,6 @@
       "user": "Lucas Ropek"
     },
     {
-      "title": "The Duo apps are coming, says Apple",
-      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-      "published_at": "2026-11-06T21:38:05.000Z",
-      "description": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
-      "tags": [
-        "Apps",
-        "Apple",
-        "developers",
-        "foldable",
-        "iPhone"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
       "url": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
       "published_at": "2026-11-03T19:00:29.000Z",
@@ -1092,21 +1073,6 @@
   ],
   "JavaScript": [
     {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-2-signal-forms-3ll9",
-      "published_at": "2026-11-04T02:48:43Z",
-      "description": "In this blog post, we build a Sign-In modal component (SignInModalComponent) using the stable Angular...",
-      "tags": [
-        "angular",
-        "firebase",
-        "authentication",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fynhzdcvy5xv9tq0c27kb.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]",
       "url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg",
       "published_at": "2026-11-01T13:23:27Z",
@@ -1118,20 +1084,6 @@
         "performance"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqujte2p4zz2v05hybojq.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg",
-      "published_at": "2026-11-04T15:23:31Z",
-      "description": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
-      "tags": [
-        "angular",
-        "firebase",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png",
       "source": "Dev.to",
       "user": "Connie Leung"
     },
@@ -1163,6 +1115,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h6e2zjw2h4amsmub53k.gif",
       "source": "Dev.to",
       "user": "Thea"
+    },
+    {
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg",
+      "published_at": "2026-11-04T15:23:31Z",
+      "description": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
+      "tags": [
+        "angular",
+        "firebase",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "Yarn – A new package manager for JavaScript",
@@ -1296,7 +1262,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1791,
+      "stars": 1842,
       "user": "JenkinWoo"
     },
     {
@@ -1311,7 +1277,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 583,
       "user": "JosssphZhou"
     },
     {
@@ -1326,7 +1292,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153842595?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 479,
       "user": "woniuniuniu"
     },
     {
@@ -1371,7 +1337,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4028,
+      "stars": 4079,
       "user": "KKKKhazix"
     },
     {
@@ -1386,7 +1352,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 2633,
+      "stars": 2962,
       "user": "Minireel"
     },
     {
@@ -1401,7 +1367,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1281,
+      "stars": 1313,
       "user": "livliv-dev"
     },
     {
@@ -1416,7 +1382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 473,
       "user": "AtomIllusionistDwell"
     },
     {
@@ -1431,24 +1397,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 401,
       "user": "ZSeven-W"
-    },
-    {
-      "title": "What is the best code minification website",
-      "url": "https://stackoverflow.com/questions/80015396/what-is-the-best-code-minification-website",
-      "published_at": "2026-11-07T20:37:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -11",
-      "tags": [
-        "javascript",
-        "performance",
-        "compression",
-        "minify",
-        "bundling-and-minification"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rsdmrbpub"
     },
     {
       "title": "I want to convert Adjacency list to Matrix",
@@ -1462,6 +1412,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "HlmCode"
+    },
+    {
+      "title": "What is the best code minification website",
+      "url": "https://stackoverflow.com/questions/80015396/what-is-the-best-code-minification-website",
+      "published_at": "2026-11-07T20:37:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score -13",
+      "tags": [
+        "javascript",
+        "performance",
+        "compression",
+        "minify",
+        "bundling-and-minification"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "rsdmrbpub"
     },
     {
       "title": "amCharts4: legend clipping issue",
@@ -1480,7 +1446,7 @@
       "title": "How to retrieve API get data when the data is not located in the root level?",
       "url": "https://stackoverflow.com/questions/80015235/how-to-retrieve-api-get-data-when-the-data-is-not-located-in-the-root-level",
       "published_at": "2026-11-06T21:41:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -11",
       "tags": [
         "javascript",
         "json",
@@ -1525,7 +1491,7 @@
       "title": "bug between v10.7 and v10.8 and later",
       "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
       "published_at": "2026-11-04T22:00:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
         "openlayers"
@@ -1800,23 +1766,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3156,
+      "stars": 3210,
       "user": "worldonlyu"
-    },
-    {
-      "title": "mmdoctor/google-pro-helper - GitHub Repository",
-      "url": "https://github.com/mmdoctor/google-pro-helper",
-      "published_at": "2026-11-05T04:52:28Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
-      "source": "GitHub",
-      "stars": 1179,
-      "user": "mmdoctor"
     },
     {
       "title": "sarpstar/cinecode - Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
@@ -1830,23 +1781,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 1159,
+      "stars": 1437,
       "user": "sarpstar"
     },
     {
-      "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-      "published_at": "2026-11-02T00:40:47Z",
-      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "title": "mmdoctor/google-pro-helper - GitHub Repository",
+      "url": "https://github.com/mmdoctor/google-pro-helper",
+      "published_at": "2026-11-05T04:52:28Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 790,
-      "user": "AssassinCreator"
+      "stars": 1211,
+      "user": "mmdoctor"
+    },
+    {
+      "title": "Th0rgal/satmux - Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "url": "https://github.com/Th0rgal/satmux",
+      "published_at": "2026-11-07T16:09:41Z",
+      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
+      "source": "GitHub",
+      "stars": 852,
+      "user": "Th0rgal"
     },
     {
       "title": "WoYun520/gif-factory - GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
@@ -1860,8 +1826,21 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 794,
       "user": "WoYun520"
+    },
+    {
+      "title": "Adding an extra line changes the lazy import object entirely",
+      "url": "https://stackoverflow.com/questions/80015329/adding-an-extra-line-changes-the-lazy-import-object-entirely",
+      "published_at": "2026-11-07T12:09:52.000Z",
+      "description": "Stack Overflow question · 2 answers · score 5",
+      "tags": [
+        "python",
+        "python-import"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
     },
     {
       "title": "PyVista plotting running slowly, resetting box size and causing collisions",
@@ -1895,19 +1874,6 @@
       "user": "Muhammad Raham Saleem"
     },
     {
-      "title": "Adding an extra line changes the lazy import object entirely",
-      "url": "https://stackoverflow.com/questions/80015329/adding-an-extra-line-changes-the-lazy-import-object-entirely",
-      "published_at": "2026-11-07T12:09:52.000Z",
-      "description": "Stack Overflow question · 2 answers · score 5",
-      "tags": [
-        "python",
-        "python-import"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
       "title": "t-string HTML renderer ignores `:.2f` and escapes nested templates as raw text",
       "url": "https://stackoverflow.com/questions/80015408/t-string-html-renderer-ignores-2f-and-escapes-nested-templates-as-raw-text",
       "published_at": "2026-11-07T22:13:06.000Z",
@@ -1922,6 +1888,18 @@
       "user": "Muhammad Raham Saleem"
     },
     {
+      "title": "How do I write a string to a file or socket in Python?",
+      "url": "https://stackoverflow.com/questions/80015255/how-do-i-write-a-string-to-a-file-or-socket-in-python",
+      "published_at": "2026-11-07T00:20:02.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "deb2014"
+    },
+    {
       "title": "Unable to install Tkinter on CachyOS",
       "url": "https://stackoverflow.com/questions/80015401/unable-to-install-tkinter-on-cachyos",
       "published_at": "2026-11-07T21:10:44.000Z",
@@ -1934,18 +1912,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "LostgamerFJ"
-    },
-    {
-      "title": "How do I write a string to a file or socket in Python?",
-      "url": "https://stackoverflow.com/questions/80015255/how-do-i-write-a-string-to-a-file-or-socket-in-python",
-      "published_at": "2026-11-07T00:20:02.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "deb2014"
     },
     {
       "title": "Benchmarking Python Decorator Overhead",
@@ -1975,6 +1941,21 @@
       "user": "Daniel Sodkiewicz"
     },
     {
+      "title": "Handling cache invalidation while a shared in-flight task is still running",
+      "url": "https://stackoverflow.com/questions/80014991/handling-cache-invalidation-while-a-shared-in-flight-task-is-still-running",
+      "published_at": "2026-11-05T21:37:39.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python",
+        "caching",
+        "concurrency",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Faheem"
+    },
+    {
       "title": "How can I serialize a Python 3.15 sentinel value to JSON and restore its identity?",
       "url": "https://stackoverflow.com/questions/80015253/how-can-i-serialize-a-python-3-15-sentinel-value-to-json-and-restore-its-identit",
       "published_at": "2026-11-07T00:04:55.000Z",
@@ -1987,20 +1968,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Daniel Sodkiewicz"
-    },
-    {
-      "title": "Numba not speeding up python code looping over all pixels",
-      "url": "https://stackoverflow.com/questions/80015028/numba-not-speeding-up-python-code-looping-over-all-pixels",
-      "published_at": "2026-11-06T01:45:27.000Z",
-      "description": "Stack Overflow question · 3 answers · score 4",
-      "tags": [
-        "python",
-        "performance",
-        "numba"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Python4Life"
     }
   ],
   "DevOps": [
@@ -2297,7 +2264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 401,
       "user": "ZSeven-W"
     },
     {
@@ -2375,21 +2342,6 @@
   ],
   "Mobile": [
     {
-      "title": "Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a",
-      "url": "https://dev.to/gde/android-17-on-a-49-kernel-lineageos-240-on-the-pixel-3a-1mok",
-      "published_at": "2026-11-05T16:37:16Z",
-      "description": "The Pixel 3a runs LineageOS 24.0, Android 17, on its original 4.9 kernel with SELinux enforcing and Google apps. One kernel fix, five platform forks and a set of device-tree changes, each traced to a line of a boot log.",
-      "tags": [
-        "android",
-        "linux",
-        "kernel",
-        "lineageos"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fandroid_kernel_google_msm-4.9%2Fmain%2Fbackport-tools%2Flineage-24.0%2Farticle%2Fdevto-cover.e89cf62e.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
       "url": "https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k",
       "published_at": "2026-11-01T19:57:46Z",
@@ -2403,6 +2355,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Frackdoc%2Fmain%2Fdocs%2Frackdoc_v1_1_screenshot.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a",
+      "url": "https://dev.to/gde/android-17-on-a-49-kernel-lineageos-240-on-the-pixel-3a-1mok",
+      "published_at": "2026-11-05T16:37:16Z",
+      "description": "The Pixel 3a runs LineageOS 24.0, Android 17, on its original 4.9 kernel with SELinux enforcing and Google apps. One kernel fix, five platform forks and a set of device-tree changes, each traced to a line of a boot log.",
+      "tags": [
+        "android",
+        "linux",
+        "kernel",
+        "lineageos"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fandroid_kernel_google_msm-4.9%2Fmain%2Fbackport-tools%2Flineage-24.0%2Farticle%2Fdevto-cover.e89cf62e.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
@@ -2612,19 +2579,6 @@
       "user": "Karthigayan Devan"
     },
     {
-      "title": "Scriptable GeoDNS: leaving AWS for Bunny",
-      "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
-      "published_at": "2026-11-07T01:46:35.449-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "performance",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "vbernat"
-    },
-    {
       "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
       "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
       "published_at": "2026-10-30T23:01:14.000Z",
@@ -2713,17 +2667,16 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-2-signal-forms-3ll9",
-      "published_at": "2026-11-04T02:48:43Z",
-      "description": "In this blog post, we build a Sign-In modal component (SignInModalComponent) using the stable Angular...",
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
+      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm",
+      "published_at": "2026-11-02T09:45:08Z",
+      "description": "Anyone with the public URL can use my tokens to perform image analysis and text-to-speech, which can...",
       "tags": [
         "angular",
         "firebase",
-        "authentication",
         "webdev"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fynhzdcvy5xv9tq0c27kb.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F94tpwuwjg44m2i882twm.png",
       "source": "Dev.to",
       "user": "Connie Leung"
     },
@@ -2738,20 +2691,6 @@
         "webdev"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm",
-      "published_at": "2026-11-02T09:45:08Z",
-      "description": "Anyone with the public URL can use my tokens to perform image analysis and text-to-speech, which can...",
-      "tags": [
-        "angular",
-        "firebase",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F94tpwuwjg44m2i882twm.png",
       "source": "Dev.to",
       "user": "Connie Leung"
     },
@@ -2888,18 +2827,6 @@
       "user": "Varcht"
     },
     {
-      "title": "*sshole, or when are we finally going to get rid of C?",
-      "url": "https://sunshowers.io/posts/sshole/",
-      "published_at": "2026-11-07T15:05:35.812-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "novedevo"
-    },
-    {
       "title": "I’m not a fan of Deno’s security model (2024)",
       "url": "https://goldstein.lol/posts/deno-security/",
       "published_at": "2026-11-07T17:19:53.437-06:00",
@@ -2922,19 +2849,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "liberty"
-    },
-    {
-      "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
-      "published_at": "2026-11-07T12:41:33.184-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "openbsd",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "mairo"
     },
     {
       "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
@@ -3132,7 +3046,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1791,
+      "stars": 1842,
       "user": "JenkinWoo"
     },
     {
@@ -3147,7 +3061,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 546,
+      "stars": 583,
       "user": "JosssphZhou"
     },
     {
@@ -3162,7 +3076,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153842595?v=4",
       "source": "GitHub",
-      "stars": 458,
+      "stars": 479,
       "user": "woniuniuniu"
     },
     {
@@ -3207,23 +3121,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3156,
+      "stars": 3210,
       "user": "worldonlyu"
-    },
-    {
-      "title": "mmdoctor/google-pro-helper - GitHub Repository",
-      "url": "https://github.com/mmdoctor/google-pro-helper",
-      "published_at": "2026-11-05T04:52:28Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
-      "source": "GitHub",
-      "stars": 1179,
-      "user": "mmdoctor"
     },
     {
       "title": "sarpstar/cinecode - Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
@@ -3237,23 +3136,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 1159,
+      "stars": 1437,
       "user": "sarpstar"
     },
     {
-      "title": "AssassinCreator/steam-stash-value-report-card - Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-      "published_at": "2026-11-02T00:40:47Z",
-      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "title": "mmdoctor/google-pro-helper - GitHub Repository",
+      "url": "https://github.com/mmdoctor/google-pro-helper",
+      "published_at": "2026-11-05T04:52:28Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316880408?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 790,
-      "user": "AssassinCreator"
+      "stars": 1211,
+      "user": "mmdoctor"
+    },
+    {
+      "title": "Th0rgal/satmux - Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "url": "https://github.com/Th0rgal/satmux",
+      "published_at": "2026-11-07T16:09:41Z",
+      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
+      "source": "GitHub",
+      "stars": 852,
+      "user": "Th0rgal"
     },
     {
       "title": "WoYun520/gif-factory - GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
@@ -3267,7 +3181,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 707,
+      "stars": 794,
       "user": "WoYun520"
     },
     {
@@ -3282,23 +3196,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 877,
+      "stars": 949,
       "user": "egoist"
-    },
-    {
-      "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "url": "https://github.com/devvmhq/devvm",
-      "published_at": "2026-11-06T07:02:30Z",
-      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
-      "source": "GitHub",
-      "stars": 376,
-      "user": "devvmhq"
     },
     {
       "title": "DIYgod/pinky - Let AI agents use your phone, with you in the loop.",
@@ -3312,8 +3211,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 635,
       "user": "DIYgod"
+    },
+    {
+      "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "url": "https://github.com/devvmhq/devvm",
+      "published_at": "2026-11-06T07:02:30Z",
+      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
+      "source": "GitHub",
+      "stars": 396,
+      "user": "devvmhq"
     },
     {
       "title": "egoist/godraw - infinite canvas in mygo",
@@ -3327,7 +3241,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 244,
+      "stars": 246,
       "user": "egoist"
     },
     {
@@ -3357,7 +3271,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4028,
+      "stars": 4079,
       "user": "KKKKhazix"
     },
     {
@@ -3372,7 +3286,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 2633,
+      "stars": 2962,
       "user": "Minireel"
     },
     {
@@ -3387,7 +3301,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1281,
+      "stars": 1313,
       "user": "livliv-dev"
     },
     {
@@ -3402,7 +3316,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 414,
+      "stars": 473,
       "user": "AtomIllusionistDwell"
     },
     {
@@ -3417,7 +3331,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 384,
+      "stars": 401,
       "user": "ZSeven-W"
     },
     {
@@ -3432,7 +3346,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 998,
+      "stars": 1123,
       "user": "libracoder"
     },
     {
@@ -3447,7 +3361,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
       "source": "GitHub",
-      "stars": 987,
+      "stars": 1064,
       "user": "voyager-so"
     },
     {
@@ -3462,8 +3376,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 483,
+      "stars": 494,
       "user": "Renly1994"
+    },
+    {
+      "title": "jamesondh/chimera-vocal-synth - the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth",
+      "published_at": "2026-11-05T19:10:42Z",
+      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/4026659?v=4",
+      "source": "GitHub",
+      "stars": 433,
+      "user": "jamesondh"
     },
     {
       "title": "StormSkinkGrip/game-ping-multipath-router - Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
@@ -3477,23 +3406,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317165609?v=4",
       "source": "GitHub",
-      "stars": 325,
+      "stars": 326,
       "user": "StormSkinkGrip"
-    },
-    {
-      "title": "DolphinBridge36/game-server-route-racer - Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
-      "url": "https://github.com/DolphinBridge36/game-server-route-racer",
-      "published_at": "2026-11-03T17:03:47Z",
-      "description": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own or the community's.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317164983?v=4",
-      "source": "GitHub",
-      "stars": 267,
-      "user": "DolphinBridge36"
     },
     {
       "title": "How are you dealing with all the negative side effects of AI on the web?",
