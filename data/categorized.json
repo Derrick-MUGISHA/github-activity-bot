@@ -388,21 +388,6 @@
       "user": "Jem"
     },
     {
-      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
-      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
-      "published_at": "2026-10-31T23:02:02Z",
-      "description": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
-      "tags": [
-        "ai",
-        "devtools",
-        "productivity",
-        "opensource"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fskill-drift%2Fcover.0c041943.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
       "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
       "published_at": "2026-11-01T00:41:17Z",
@@ -416,6 +401,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlk0251k4s6ucmxlzfnw.jpg",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
+      "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
+      "published_at": "2026-10-31T23:02:02Z",
+      "description": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
+      "tags": [
+        "ai",
+        "devtools",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fskill-drift%2Fcover.0c041943.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
@@ -747,7 +747,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 595,
       "user": "JosssphZhou"
     },
     {
@@ -762,7 +762,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3210,
+      "stars": 3233,
       "user": "worldonlyu"
     },
     {
@@ -777,8 +777,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 1437,
+      "stars": 1527,
       "user": "sarpstar"
+    },
+    {
+      "title": "shanselman/gputaskman - A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+      "url": "https://github.com/shanselman/gputaskman",
+      "published_at": "2026-11-03T00:49:34Z",
+      "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
+      "source": "GitHub",
+      "stars": 888,
+      "user": "shanselman"
     },
     {
       "title": "DIYgod/pinky - Let AI agents use your phone, with you in the loop.",
@@ -792,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 728,
       "user": "DIYgod"
     },
     {
@@ -807,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 403,
       "user": "devvmhq"
     },
     {
@@ -822,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 535,
       "user": "AtomIllusionistDwell"
     },
     {
@@ -837,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 411,
       "user": "ZSeven-W"
     },
     {
@@ -852,7 +867,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 1123,
+      "stars": 1168,
       "user": "libracoder"
     },
     {
@@ -867,7 +882,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 497,
       "user": "Renly1994"
     },
     {
@@ -886,16 +901,17 @@
       "user": "StormSkinkGrip"
     },
     {
-      "title": "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
-      "url": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/",
-      "published_at": "2026-11-08T02:41:38.183-06:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+      "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+      "published_at": "2026-11-08T10:36:17.777-06:00",
+      "description": "Like many of us who value the human side of the web, I am looking for ways to keep slop at bay. It seems like LLM detection technology works reasonably well nowadays, with Pangram as the main provider. It is expensive, though!\r\n\r\nAssuming pangram scans are trustworthy, and it seems they are, we could create a centralized index of pangram scans of articles. I have already set up a [prototype](https://llm-scanner.ochagavia.nl/dashboard) where I publish results of my own pangram scans. I could create more users, each tied to its own API key, so others can contribute with scans as well. This is way more resource efficient than everyone running their own scans.\r\n\r\nWhat do you think?",
       "tags": [
-        "release"
+        "ask",
+        "web"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "diktomat"
+      "user": "wofo"
     },
     {
       "title": "A bit about email",
@@ -908,6 +924,32 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "robalex"
+    },
+    {
+      "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+      "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+      "published_at": "2026-11-08T11:07:51.827-06:00",
+      "description": "I just got a Mac mini with an M5 Pro (base CPU config) and 48GB of unified memory. I want to run as much AI locally as makes sense, but it's hard to separate what actually works day to day from benchmark hype.\r\n\r\nWhat I'd like to do:\r\n\r\n- Coding: autocomplete and agentic workflows with local models\r\n- Image generation\r\n- Anything else genuinely useful: transcription, RAG over my notes, etc.\r\n\r\nQuestions:\r\n\r\n1. Which models and quantizations fit comfortably in 48GB and are actually usable, not just \"it runs\"?\r\n2. Which runtime and tools: MLX, llama.cpp, Ollama, LM Studio, ComfyUI, something else?\r\n3. What's your setup, and what did you give up on and go back to cloud APIs for?\r\n\r\nReal tokens/sec numbers and \"this was a waste of time\" stories are especially welcome.",
+      "tags": [
+        "ai",
+        "ask",
+        "mac"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "napolux"
+    },
+    {
+      "title": "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
+      "url": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/",
+      "published_at": "2026-11-08T02:41:38.183-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "release"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "diktomat"
     },
     {
       "title": "How are you dealing with all the negative side effects of AI on the web?",
@@ -938,6 +980,19 @@
       "user": "Always a Newb at Something"
     },
     {
+      "title": "How to force langchain model to use my language instead of English",
+      "url": "https://stackoverflow.com/questions/80015522/how-to-force-langchain-model-to-use-my-language-instead-of-english",
+      "published_at": "2026-11-08T19:37:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "langchain"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mascai"
+    },
+    {
       "title": "`except` doesn’t catch my custom exception raised inside `InterpreterPoolExecutor` (Python 3.14)",
       "url": "https://stackoverflow.com/questions/80015414/except-doesn-t-catch-my-custom-exception-raised-inside-interpreterpoolexecuto",
       "published_at": "2026-11-07T23:58:06.000Z",
@@ -951,6 +1006,49 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad Raham Saleem"
+    },
+    {
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "published_at": "2026-11-08T19:51:30.000Z",
+      "description": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "tags": [
+        "Venture",
+        "roelof botha",
+        "Sequoia Capital"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "published_at": "2026-11-08T18:00:04.000Z",
+      "description": "SNL seems to have its knives out for tech executives.",
+      "tags": [
+        "Media & Entertainment",
+        "Elon Musk",
+        "Saturday night live"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
+    },
+    {
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "published_at": "2026-11-08T17:02:00.000Z",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "tags": [
+        "Transportation",
+        "Tesla",
+        "techcrunch mobility",
+        "Cybertruck"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Kirsten Korosec"
     },
     {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -979,52 +1077,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Anthony Ha"
-    },
-    {
-      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "published_at": "2026-11-07T04:16:43.000Z",
-      "description": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-      "tags": [
-        "TC",
-        "Government & Policy",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis"
-    },
-    {
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "published_at": "2026-11-07T01:40:28.000Z",
-      "description": "The deal highlights the challenges of developing massive AI data centers.",
-      "tags": [
-        "AI",
-        "ai infrastructure",
-        "crusoe",
-        "datacenter",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "published_at": "2026-11-06T22:53:46.000Z",
-      "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "fundraising",
-        "In Brief",
-        "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
@@ -1262,7 +1314,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1842,
+      "stars": 1857,
       "user": "JenkinWoo"
     },
     {
@@ -1277,7 +1329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 595,
       "user": "JosssphZhou"
     },
     {
@@ -1292,7 +1344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153842595?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 494,
       "user": "woniuniuniu"
     },
     {
@@ -1322,7 +1374,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316288798?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 393,
       "user": "MythicHokageRepel"
     },
     {
@@ -1337,7 +1389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4079,
+      "stars": 4090,
       "user": "KKKKhazix"
     },
     {
@@ -1352,7 +1404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 2962,
+      "stars": 3170,
       "user": "Minireel"
     },
     {
@@ -1367,7 +1419,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1313,
+      "stars": 1323,
       "user": "livliv-dev"
     },
     {
@@ -1382,7 +1434,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 535,
       "user": "AtomIllusionistDwell"
     },
     {
@@ -1397,7 +1449,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 411,
       "user": "ZSeven-W"
     },
     {
@@ -1412,22 +1464,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "HlmCode"
-    },
-    {
-      "title": "What is the best code minification website",
-      "url": "https://stackoverflow.com/questions/80015396/what-is-the-best-code-minification-website",
-      "published_at": "2026-11-07T20:37:15.000Z",
-      "description": "Stack Overflow question · 0 answers · score -13",
-      "tags": [
-        "javascript",
-        "performance",
-        "compression",
-        "minify",
-        "bundling-and-minification"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "rsdmrbpub"
     },
     {
       "title": "amCharts4: legend clipping issue",
@@ -1473,6 +1509,19 @@
       "user": "SOFTLOGIX Technologies"
     },
     {
+      "title": "bug between v10.7 and v10.8 and later",
+      "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
+      "published_at": "2026-11-04T22:00:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "openlayers"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "allez l&#39;OM"
+    },
+    {
       "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
       "url": "https://stackoverflow.com/questions/80015029/what-are-the-security-benefits-of-setting-origin-mydomain-com-in-the-url",
       "published_at": "2026-11-06T01:51:49.000Z",
@@ -1488,17 +1537,18 @@
       "user": "Always a Newb at Something"
     },
     {
-      "title": "bug between v10.7 and v10.8 and later",
-      "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
-      "published_at": "2026-11-04T22:00:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
+      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
+      "published_at": "2026-11-01T04:11:32.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "javascript",
-        "openlayers"
+        "html",
+        "dom-events"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "allez l&#39;OM"
+      "user": "mith sams"
     },
     {
       "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
@@ -1543,20 +1593,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Milichip"
-    },
-    {
-      "title": "How can I serialize a Python 3.15 sentinel value to JSON and restore its identity?",
-      "url": "https://stackoverflow.com/questions/80015253/how-can-i-serialize-a-python-3-15-sentinel-value-to-json-and-restore-its-identit",
-      "published_at": "2026-11-07T00:04:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "json",
-        "serialization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Daniel Sodkiewicz"
     },
     {
       "title": "How to Build a PDF Storyboard Generator Using JavaScript",
@@ -1766,7 +1802,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3210,
+      "stars": 3233,
       "user": "worldonlyu"
     },
     {
@@ -1781,7 +1817,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 1437,
+      "stars": 1527,
       "user": "sarpstar"
     },
     {
@@ -1796,7 +1832,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1211,
+      "stars": 1234,
       "user": "mmdoctor"
     },
     {
@@ -1811,23 +1847,50 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 852,
+      "stars": 907,
       "user": "Th0rgal"
     },
     {
-      "title": "WoYun520/gif-factory - GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-      "url": "https://github.com/WoYun520/gif-factory",
-      "published_at": "2026-11-05T04:08:24Z",
-      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "title": "shanselman/gputaskman - A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+      "url": "https://github.com/shanselman/gputaskman",
+      "published_at": "2026-11-03T00:49:34Z",
+      "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 794,
-      "user": "WoYun520"
+      "stars": 888,
+      "user": "shanselman"
+    },
+    {
+      "title": "How to force langchain model to use my language instead of English",
+      "url": "https://stackoverflow.com/questions/80015522/how-to-force-langchain-model-to-use-my-language-instead-of-english",
+      "published_at": "2026-11-08T19:37:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -2",
+      "tags": [
+        "python",
+        "langchain"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mascai"
+    },
+    {
+      "title": "t-string HTML renderer ignores `:.2f` and escapes nested templates as raw text",
+      "url": "https://stackoverflow.com/questions/80015408/t-string-html-renderer-ignores-2f-and-escapes-nested-templates-as-raw-text",
+      "published_at": "2026-11-07T22:13:06.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-3.14",
+        "python-template-strings"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad Raham Saleem"
     },
     {
       "title": "Adding an extra line changes the lazy import object entirely",
@@ -1868,20 +1931,6 @@
         "exception",
         "concurrent.futures",
         "python-3.14"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Raham Saleem"
-    },
-    {
-      "title": "t-string HTML renderer ignores `:.2f` and escapes nested templates as raw text",
-      "url": "https://stackoverflow.com/questions/80015408/t-string-html-renderer-ignores-2f-and-escapes-nested-templates-as-raw-text",
-      "published_at": "2026-11-07T22:13:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "python-3.14",
-        "python-template-strings"
       ],
       "cover_image": null,
       "source": "StackOverflow",
@@ -1954,20 +2003,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Faheem"
-    },
-    {
-      "title": "How can I serialize a Python 3.15 sentinel value to JSON and restore its identity?",
-      "url": "https://stackoverflow.com/questions/80015253/how-can-i-serialize-a-python-3-15-sentinel-value-to-json-and-restore-its-identit",
-      "published_at": "2026-11-07T00:04:55.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "json",
-        "serialization"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Daniel Sodkiewicz"
     }
   ],
   "DevOps": [
@@ -2264,8 +2299,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 411,
       "user": "ZSeven-W"
+    },
+    {
+      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
+      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
+      "published_at": "2026-11-01T04:11:32.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "javascript",
+        "html",
+        "dom-events"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "mith sams"
     },
     {
       "title": "How to reset an HTML element to its first/initial value in JavaScript?",
@@ -2285,7 +2334,7 @@
       "title": "t-string HTML renderer ignores `:.2f` and escapes nested templates as raw text",
       "url": "https://stackoverflow.com/questions/80015408/t-string-html-renderer-ignores-2f-and-escapes-nested-templates-as-raw-text",
       "published_at": "2026-11-07T22:13:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
         "python-3.14",
@@ -2579,6 +2628,20 @@
       "user": "Karthigayan Devan"
     },
     {
+      "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+      "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+      "published_at": "2026-11-08T11:07:51.827-06:00",
+      "description": "I just got a Mac mini with an M5 Pro (base CPU config) and 48GB of unified memory. I want to run as much AI locally as makes sense, but it's hard to separate what actually works day to day from benchmark hype.\r\n\r\nWhat I'd like to do:\r\n\r\n- Coding: autocomplete and agentic workflows with local models\r\n- Image generation\r\n- Anything else genuinely useful: transcription, RAG over my notes, etc.\r\n\r\nQuestions:\r\n\r\n1. Which models and quantizations fit comfortably in 48GB and are actually usable, not just \"it runs\"?\r\n2. Which runtime and tools: MLX, llama.cpp, Ollama, LM Studio, ComfyUI, something else?\r\n3. What's your setup, and what did you give up on and go back to cloud APIs for?\r\n\r\nReal tokens/sec numbers and \"this was a waste of time\" stories are especially welcome.",
+      "tags": [
+        "ai",
+        "ask",
+        "mac"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "napolux"
+    },
+    {
       "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
       "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
       "published_at": "2026-10-30T23:01:14.000Z",
@@ -2827,6 +2890,19 @@
       "user": "Varcht"
     },
     {
+      "title": "Unattended reboots with encrypted disks",
+      "url": "https://jmmv.dev/2026/11/zkeys-intro.html",
+      "published_at": "2026-11-08T10:58:03.605-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "freebsd",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "jmmv"
+    },
+    {
       "title": "I’m not a fan of Deno’s security model (2024)",
       "url": "https://goldstein.lol/posts/deno-security/",
       "published_at": "2026-11-07T17:19:53.437-06:00",
@@ -2837,18 +2913,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "ThinkChaos"
-    },
-    {
-      "title": "Dear Open Source Developers: It's OK not to embargo",
-      "url": "https://opensourcesecurity.io/2026/10-embargo/",
-      "published_at": "2026-11-07T17:31:05.716-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "liberty"
     },
     {
       "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
@@ -2864,6 +2928,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Always a Newb at Something"
+    },
+    {
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "published_at": "2026-11-08T17:30:00.000Z",
+      "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "tags": [
+        "Venture",
+        "venture firms",
+        "brightmind",
+        "cybersecurtiy"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -3046,7 +3125,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1842,
+      "stars": 1857,
       "user": "JenkinWoo"
     },
     {
@@ -3061,7 +3140,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 583,
+      "stars": 595,
       "user": "JosssphZhou"
     },
     {
@@ -3076,7 +3155,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/153842595?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 494,
       "user": "woniuniuniu"
     },
     {
@@ -3106,7 +3185,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316288798?v=4",
       "source": "GitHub",
-      "stars": 394,
+      "stars": 393,
       "user": "MythicHokageRepel"
     },
     {
@@ -3121,7 +3200,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3210,
+      "stars": 3233,
       "user": "worldonlyu"
     },
     {
@@ -3136,7 +3215,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 1437,
+      "stars": 1527,
       "user": "sarpstar"
     },
     {
@@ -3151,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1211,
+      "stars": 1234,
       "user": "mmdoctor"
     },
     {
@@ -3166,23 +3245,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 852,
+      "stars": 907,
       "user": "Th0rgal"
     },
     {
-      "title": "WoYun520/gif-factory - GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-      "url": "https://github.com/WoYun520/gif-factory",
-      "published_at": "2026-11-05T04:08:24Z",
-      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "title": "shanselman/gputaskman - A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+      "url": "https://github.com/shanselman/gputaskman",
+      "published_at": "2026-11-03T00:49:34Z",
+      "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 794,
-      "user": "WoYun520"
+      "stars": 888,
+      "user": "shanselman"
     },
     {
       "title": "egoist/mygo-music - A native music player you extend with plugins",
@@ -3196,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 949,
+      "stars": 964,
       "user": "egoist"
     },
     {
@@ -3211,7 +3290,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 635,
+      "stars": 728,
       "user": "DIYgod"
     },
     {
@@ -3226,8 +3305,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 403,
       "user": "devvmhq"
+    },
+    {
+      "title": "manjushree-iyer/soundpad-audio-suite - Soundpad: Advanced Audio Processing for Professional DAW Workflows",
+      "url": "https://github.com/manjushree-iyer/soundpad-audio-suite",
+      "published_at": "2026-11-06T21:24:56Z",
+      "description": "Soundpad: Advanced Audio Processing for Professional DAW Workflows",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/195894983?v=4",
+      "source": "GitHub",
+      "stars": 275,
+      "user": "manjushree-iyer"
     },
     {
       "title": "egoist/godraw - infinite canvas in mygo",
@@ -3245,21 +3339,6 @@
       "user": "egoist"
     },
     {
-      "title": "manjushree-iyer/soundpad-audio-suite - Soundpad: Advanced Audio Processing for Professional DAW Workflows",
-      "url": "https://github.com/manjushree-iyer/soundpad-audio-suite",
-      "published_at": "2026-11-06T21:24:56Z",
-      "description": "Soundpad: Advanced Audio Processing for Professional DAW Workflows",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/195894983?v=4",
-      "source": "GitHub",
-      "stars": 244,
-      "user": "manjushree-iyer"
-    },
-    {
       "title": "KKKKhazix/agent-autoloop - 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
       "published_at": "2026-11-03T08:02:11Z",
@@ -3271,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4079,
+      "stars": 4090,
       "user": "KKKKhazix"
     },
     {
@@ -3286,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 2962,
+      "stars": 3170,
       "user": "Minireel"
     },
     {
@@ -3301,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1313,
+      "stars": 1323,
       "user": "livliv-dev"
     },
     {
@@ -3316,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 473,
+      "stars": 535,
       "user": "AtomIllusionistDwell"
     },
     {
@@ -3331,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 411,
       "user": "ZSeven-W"
     },
     {
@@ -3346,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
       "source": "GitHub",
-      "stars": 1123,
+      "stars": 1168,
       "user": "libracoder"
     },
     {
@@ -3361,23 +3440,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
       "source": "GitHub",
-      "stars": 1064,
+      "stars": 1094,
       "user": "voyager-so"
-    },
-    {
-      "title": "Renly1994/xiaotang-daozai - 岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
-      "url": "https://github.com/Renly1994/xiaotang-daozai",
-      "published_at": "2026-11-03T04:25:22Z",
-      "description": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
-      "source": "GitHub",
-      "stars": 494,
-      "user": "Renly1994"
     },
     {
       "title": "jamesondh/chimera-vocal-synth - the ultimate vocal synthesizer - sing, speak, beatbox, and more",
@@ -3391,8 +3455,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4026659?v=4",
       "source": "GitHub",
-      "stars": 433,
+      "stars": 539,
       "user": "jamesondh"
+    },
+    {
+      "title": "Renly1994/xiaotang-daozai - 岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
+      "url": "https://github.com/Renly1994/xiaotang-daozai",
+      "published_at": "2026-11-03T04:25:22Z",
+      "description": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/284593714?v=4",
+      "source": "GitHub",
+      "stars": 497,
+      "user": "Renly1994"
     },
     {
       "title": "StormSkinkGrip/game-ping-multipath-router - Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
@@ -3408,6 +3487,20 @@
       "source": "GitHub",
       "stars": 326,
       "user": "StormSkinkGrip"
+    },
+    {
+      "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+      "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+      "published_at": "2026-11-08T11:07:51.827-06:00",
+      "description": "I just got a Mac mini with an M5 Pro (base CPU config) and 48GB of unified memory. I want to run as much AI locally as makes sense, but it's hard to separate what actually works day to day from benchmark hype.\r\n\r\nWhat I'd like to do:\r\n\r\n- Coding: autocomplete and agentic workflows with local models\r\n- Image generation\r\n- Anything else genuinely useful: transcription, RAG over my notes, etc.\r\n\r\nQuestions:\r\n\r\n1. Which models and quantizations fit comfortably in 48GB and are actually usable, not just \"it runs\"?\r\n2. Which runtime and tools: MLX, llama.cpp, Ollama, LM Studio, ComfyUI, something else?\r\n3. What's your setup, and what did you give up on and go back to cloud APIs for?\r\n\r\nReal tokens/sec numbers and \"this was a waste of time\" stories are especially welcome.",
+      "tags": [
+        "ai",
+        "ask",
+        "mac"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "napolux"
     },
     {
       "title": "How are you dealing with all the negative side effects of AI on the web?",
