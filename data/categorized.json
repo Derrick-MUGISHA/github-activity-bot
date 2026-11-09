@@ -224,21 +224,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
-      "url": "https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp",
-      "published_at": "2026-11-06T22:28:31Z",
-      "description": "Hey all, we have a quick update for everyone who participated in the Hacktoberfest Open-Source AI...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frhtnbaz5elh8xcpmie86.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Prompt Pad: What Is Open Source?",
       "url": "https://blog.mlh.com/prompt-pad-what-is-open-source-23k6",
       "published_at": "2026-11-04T14:00:00Z",
@@ -373,17 +358,17 @@
       "user": "xbill"
     },
     {
-      "title": "Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!",
-      "url": "https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370",
-      "published_at": "2026-11-04T22:00:15Z",
-      "description": "We're excited to announce our newest challenge with Presage!  The Presage SmartSpectra SDK Challenge...",
+      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
+      "url": "https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp",
+      "published_at": "2026-11-06T22:28:31Z",
+      "description": "Hey all, we have a quick update for everyone who participated in the Hacktoberfest Open-Source AI...",
       "tags": [
         "devchallenge",
-        "presagechallenge",
-        "presage",
+        "hf26challenge",
+        "hacktoberfest",
         "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkx3vgfze743kv0yqvhud.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frhtnbaz5elh8xcpmie86.png",
       "source": "Dev.to",
       "user": "Jem"
     },
@@ -568,6 +553,21 @@
       "user": "Freddy Lécué"
     },
     {
+      "title": "A World Worth Understanding",
+      "url": "https://dev.to/dailycontext/a-world-worth-understanding-f08",
+      "published_at": "2026-10-11T19:43:19Z",
+      "description": "We think the people who make software are endlessly interesting.  We want to meet them, hear their...",
+      "tags": [
+        "aie",
+        "career",
+        "ai",
+        "community"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2nvry6duj0217ti5kkae.png",
+      "source": "Dev.to",
+      "user": "dev.to staff"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -747,8 +747,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 605,
       "user": "JosssphZhou"
+    },
+    {
+      "title": "PatchBuilderAmplify/stolen-crypto-tracer - Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
+      "url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer",
+      "published_at": "2026-11-03T17:08:02Z",
+      "description": "Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317164659?v=4",
+      "source": "GitHub",
+      "stars": 389,
+      "user": "PatchBuilderAmplify"
     },
     {
       "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
@@ -762,7 +777,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3233,
+      "stars": 3256,
       "user": "worldonlyu"
     },
     {
@@ -777,7 +792,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 1527,
+      "stars": 1589,
       "user": "sarpstar"
     },
     {
@@ -792,7 +807,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 999,
       "user": "shanselman"
     },
     {
@@ -807,7 +822,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 786,
       "user": "DIYgod"
     },
     {
@@ -822,7 +837,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 410,
       "user": "devvmhq"
     },
     {
@@ -837,7 +852,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 549,
       "user": "AtomIllusionistDwell"
     },
     {
@@ -852,23 +867,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "ZSeven-W"
-    },
-    {
-      "title": "libracoder/kiri - A small, fast container runtime for macOS, Windows and Linux",
-      "url": "https://github.com/libracoder/kiri",
-      "published_at": "2026-11-02T16:11:30Z",
-      "description": "A small, fast container runtime for macOS, Windows and Linux",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
-      "source": "GitHub",
-      "stars": 1168,
-      "user": "libracoder"
     },
     {
       "title": "Renly1994/xiaotang-daozai - 岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
@@ -904,7 +904,7 @@
       "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
       "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
       "published_at": "2026-11-08T10:36:17.777-06:00",
-      "description": "Like many of us who value the human side of the web, I am looking for ways to keep slop at bay. It seems like LLM detection technology works reasonably well nowadays, with Pangram as the main provider. It is expensive, though!\r\n\r\nAssuming pangram scans are trustworthy, and it seems they are, we could create a centralized index of pangram scans of articles. I have already set up a [prototype](https://llm-scanner.ochagavia.nl/dashboard) where I publish results of my own pangram scans. I could create more users, each tied to its own API key, so others can contribute with scans as well. This is way more resource efficient than everyone running their own scans.\r\n\r\nWhat do you think?",
+      "description": "Like many of us who value the human side of the web, I am looking for ways to keep slop at bay. It seems like LLM detection technology works reasonably well nowadays, with Pangram as the main provider. It is expensive, though!\r\n\r\nAssuming pangram scans are trustworthy, and it seems they are, we could create a centralized index of pangram scans of articles. I have already set up a [prototype](https://llm-scanner.ochagavia.nl/dashboard) where I publish results of my own pangram scans. I could create more users, each tied to its own API key, so others can contribute with scans as well. This is way more resource efficient than everyone running their own scans.\r\n\r\nWhat do you think?\r\n\r\nUpdate: since this is receiving quite some attention, let me clarify one thing. I'm not proposing to change Lobste.rs itself. I'm wondering if there are enough people who'd like to join forces to maintain an independent index of pangram scans, for our own use, not intending to impose it on anyone (e.g., maybe we could have a browser extension that automatically shows the scan results for articles when browsing Lobste.rs or the orange site).",
       "tags": [
         "ask",
         "web"
@@ -952,38 +952,10 @@
       "user": "diktomat"
     },
     {
-      "title": "How are you dealing with all the negative side effects of AI on the web?",
-      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-      "published_at": "2026-11-07T03:47:24.713-06:00",
-      "description": "It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it.\r\n\r\nSearch engines now rank links full of slop at the top, which ironically make LLM summaries acceptable, not because they are better than what we had before (they are not), but because they at least mention the good links which are now buried at the bottom of the page. Also, they've been rate limiting ordinary users like crazy: more often than I'd like to, Google and DuckDuckGo now either show me either an error message or tell me to wait a bit. Sometimes I waste at least a minute refreshing the page and waiting for a result.\r\n\r\nI also can't browse GitHub freely without being logged in. Anubis is now everywhere, occasionally blocking me. I feel like my productivity has actually gone down thanks to all of that.\r\n\r\n_Edit: I see that most of the replies here are suggesting relying less on the web and going after more fundamental resources, which are great suggestions, don’t get me wrong! But a book from 5 years ago will not help you understand why your custom firmware doesn’t boot in your 1-year old mobile chipset. A existing bug report on the web probably will. Not quite my predicament at the moment, but something very similar for which the web seemed to work just fine before the AI craze._",
-      "tags": [
-        "ask",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "tmcb"
-    },
-    {
-      "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
-      "url": "https://stackoverflow.com/questions/80015029/what-are-the-security-benefits-of-setting-origin-mydomain-com-in-the-url",
-      "published_at": "2026-11-06T01:51:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "iframe",
-        "youtube-iframe-api",
-        "websecurity"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Always a Newb at Something"
-    },
-    {
       "title": "How to force langchain model to use my language instead of English",
       "url": "https://stackoverflow.com/questions/80015522/how-to-force-langchain-model-to-use-my-language-instead-of-english",
       "published_at": "2026-11-08T19:37:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "langchain"
@@ -1006,6 +978,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad Raham Saleem"
+    },
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "published_at": "2026-11-08T21:00:11.000Z",
+      "description": "In a memo to the company, Huang admitted that he had an affair.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "nvidia",
+        "Jensen Huang"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anthony Ha"
     },
     {
       "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
@@ -1060,19 +1047,6 @@
         "Government & Policy",
         "Elon Musk",
         "OpenAI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
-    },
-    {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "published_at": "2026-11-07T21:17:08.000Z",
-      "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "tags": [
-        "AI",
-        "Government & Policy"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1314,7 +1288,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1857,
+      "stars": 1860,
       "user": "JenkinWoo"
     },
     {
@@ -1329,23 +1303,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 605,
       "user": "JosssphZhou"
-    },
-    {
-      "title": "woniuniuniu/dsh-media-desk - DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
-      "url": "https://github.com/woniuniuniu/dsh-media-desk",
-      "published_at": "2026-11-02T04:49:29Z",
-      "description": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/153842595?v=4",
-      "source": "GitHub",
-      "stars": 494,
-      "user": "woniuniuniu"
     },
     {
       "title": "Wallbycontact/java-mod-rust-port-tool - Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
@@ -1359,7 +1318,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317170740?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 396,
       "user": "Wallbycontact"
     },
     {
@@ -1378,6 +1337,21 @@
       "user": "MythicHokageRepel"
     },
     {
+      "title": "PatchBuilderAmplify/stolen-crypto-tracer - Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
+      "url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer",
+      "published_at": "2026-11-03T17:08:02Z",
+      "description": "Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317164659?v=4",
+      "source": "GitHub",
+      "stars": 389,
+      "user": "PatchBuilderAmplify"
+    },
+    {
       "title": "KKKKhazix/agent-autoloop - 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
       "published_at": "2026-11-03T08:02:11Z",
@@ -1389,7 +1363,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4090,
+      "stars": 4098,
       "user": "KKKKhazix"
     },
     {
@@ -1404,7 +1378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 3170,
+      "stars": 3263,
       "user": "Minireel"
     },
     {
@@ -1419,7 +1393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1323,
+      "stars": 1330,
       "user": "livliv-dev"
     },
     {
@@ -1434,7 +1408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 549,
       "user": "AtomIllusionistDwell"
     },
     {
@@ -1449,7 +1423,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "ZSeven-W"
     },
     {
@@ -1493,22 +1467,6 @@
       "user": "What ups"
     },
     {
-      "title": "GA4 generate_lead event fires twice per Contact Form 7 submission via Google Tag Manager",
-      "url": "https://stackoverflow.com/questions/80015239/ga4-generate-lead-event-fires-twice-per-contact-form-7-submission-via-google-tag",
-      "published_at": "2026-11-06T21:57:01.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
-      "tags": [
-        "javascript",
-        "google-tag-manager",
-        "vercel",
-        "contact-form-7",
-        "google-analytics-4"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "SOFTLOGIX Technologies"
-    },
-    {
       "title": "bug between v10.7 and v10.8 and later",
       "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
       "published_at": "2026-11-04T22:00:29.000Z",
@@ -1520,21 +1478,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "allez l&#39;OM"
-    },
-    {
-      "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
-      "url": "https://stackoverflow.com/questions/80015029/what-are-the-security-benefits-of-setting-origin-mydomain-com-in-the-url",
-      "published_at": "2026-11-06T01:51:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "iframe",
-        "youtube-iframe-api",
-        "websecurity"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Always a Newb at Something"
     },
     {
       "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
@@ -1549,22 +1492,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mith sams"
-    },
-    {
-      "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
-      "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
-      "published_at": "2026-10-30T23:01:14.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "javascript",
-        "cloud",
-        "speech-recognition",
-        "local",
-        "webspeech-api"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeff Baker"
     },
     {
       "title": "How to configure refresh token with express and react",
@@ -1593,6 +1520,46 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Milichip"
+    },
+    {
+      "title": "Creating classes/class objects in JS - perhaps jQuery, not sure",
+      "url": "https://stackoverflow.com/questions/79820631/creating-classes-class-objects-in-js-perhaps-jquery-not-sure",
+      "published_at": "2025-11-15T07:06:53.000Z",
+      "description": "Stack Overflow question · 3 answers · score -1",
+      "tags": [
+        "javascript",
+        "class"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Stig"
+    },
+    {
+      "title": "Can animation data of <AnimateMotion> (e.g. translation, rotation) be accessed via JavaScript in real-time?",
+      "url": "https://stackoverflow.com/questions/79819039/can-animation-data-of-animatemotion-e-g-translation-rotation-be-accessed-v",
+      "published_at": "2025-11-13T15:03:52.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "animation",
+        "svg",
+        "svg-animationelements"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "dsacre"
+    },
+    {
+      "title": "Mimicking sets in JavaScript?",
+      "url": "https://stackoverflow.com/questions/7958292/mimicking-sets-in-javascript",
+      "published_at": "2011-10-31T18:56:08.000Z",
+      "description": "Stack Overflow question · 7 answers · score 220",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Richard"
     },
     {
       "title": "How to Build a PDF Storyboard Generator Using JavaScript",
@@ -1802,7 +1769,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3233,
+      "stars": 3256,
       "user": "worldonlyu"
     },
     {
@@ -1817,7 +1784,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 1527,
+      "stars": 1589,
       "user": "sarpstar"
     },
     {
@@ -1832,23 +1799,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1234,
+      "stars": 1245,
       "user": "mmdoctor"
-    },
-    {
-      "title": "Th0rgal/satmux - Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-      "url": "https://github.com/Th0rgal/satmux",
-      "published_at": "2026-11-07T16:09:41Z",
-      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
-      "source": "GitHub",
-      "stars": 907,
-      "user": "Th0rgal"
     },
     {
       "title": "shanselman/gputaskman - A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
@@ -1862,14 +1814,43 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 999,
       "user": "shanselman"
+    },
+    {
+      "title": "Th0rgal/satmux - Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "url": "https://github.com/Th0rgal/satmux",
+      "published_at": "2026-11-07T16:09:41Z",
+      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
+      "source": "GitHub",
+      "stars": 931,
+      "user": "Th0rgal"
+    },
+    {
+      "title": "uniswap-python cannot be installed",
+      "url": "https://stackoverflow.com/questions/80015532/uniswap-python-cannot-be-installed",
+      "published_at": "2026-11-08T21:42:25.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "python",
+        "package",
+        "uniswap"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Apache00"
     },
     {
       "title": "How to force langchain model to use my language instead of English",
       "url": "https://stackoverflow.com/questions/80015522/how-to-force-langchain-model-to-use-my-language-instead-of-english",
       "published_at": "2026-11-08T19:37:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "langchain"
@@ -1963,19 +1944,6 @@
       "user": "LostgamerFJ"
     },
     {
-      "title": "Benchmarking Python Decorator Overhead",
-      "url": "https://stackoverflow.com/questions/80015170/benchmarking-python-decorator-overhead",
-      "published_at": "2026-11-06T14:51:19.000Z",
-      "description": "Stack Overflow question · 2 answers · score 5",
-      "tags": [
-        "python",
-        "benchmarking"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "conmak"
-    },
-    {
       "title": "How can I check whether a lazy import has executed in Python 3.15 without triggering it?",
       "url": "https://stackoverflow.com/questions/80015000/how-can-i-check-whether-a-lazy-import-has-executed-in-python-3-15-without-trigge",
       "published_at": "2026-11-05T22:25:29.000Z",
@@ -1990,19 +1958,17 @@
       "user": "Daniel Sodkiewicz"
     },
     {
-      "title": "Handling cache invalidation while a shared in-flight task is still running",
-      "url": "https://stackoverflow.com/questions/80014991/handling-cache-invalidation-while-a-shared-in-flight-task-is-still-running",
-      "published_at": "2026-11-05T21:37:39.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
+      "title": "Benchmarking Python Decorator Overhead",
+      "url": "https://stackoverflow.com/questions/80015170/benchmarking-python-decorator-overhead",
+      "published_at": "2026-11-06T14:51:19.000Z",
+      "description": "Stack Overflow question · 2 answers · score 5",
       "tags": [
         "python",
-        "caching",
-        "concurrency",
-        "python-asyncio"
+        "benchmarking"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Faheem"
+      "user": "conmak"
     }
   ],
   "DevOps": [
@@ -2299,7 +2265,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "ZSeven-W"
     },
     {
@@ -2449,33 +2415,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F471epezz3m6cdkvp598f.jpg",
       "source": "Dev.to",
       "user": "Esra Kadah"
-    },
-    {
-      "title": "How are you dealing with all the negative side effects of AI on the web?",
-      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-      "published_at": "2026-11-07T03:47:24.713-06:00",
-      "description": "It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it.\r\n\r\nSearch engines now rank links full of slop at the top, which ironically make LLM summaries acceptable, not because they are better than what we had before (they are not), but because they at least mention the good links which are now buried at the bottom of the page. Also, they've been rate limiting ordinary users like crazy: more often than I'd like to, Google and DuckDuckGo now either show me either an error message or tell me to wait a bit. Sometimes I waste at least a minute refreshing the page and waiting for a result.\r\n\r\nI also can't browse GitHub freely without being logged in. Anubis is now everywhere, occasionally blocking me. I feel like my productivity has actually gone down thanks to all of that.\r\n\r\n_Edit: I see that most of the replies here are suggesting relying less on the web and going after more fundamental resources, which are great suggestions, don’t get me wrong! But a book from 5 years ago will not help you understand why your custom firmware doesn’t boot in your 1-year old mobile chipset. A existing bug report on the web probably will. Not quite my predicament at the moment, but something very similar for which the web seemed to work just fine before the AI craze._",
-      "tags": [
-        "ask",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "tmcb"
-    },
-    {
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "published_at": "2026-11-07T19:00:00.000Z",
-      "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-      "tags": [
-        "Hardware",
-        "Gadgets",
-        "evergreens"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
     },
     {
       "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
@@ -2642,20 +2581,16 @@
       "user": "napolux"
     },
     {
-      "title": "How can a user uninstall a Chrome JavaScript SpeechRecognition.install language pack?",
-      "url": "https://stackoverflow.com/questions/80013743/how-can-a-user-uninstall-a-chrome-javascript-speechrecognition-install-language",
-      "published_at": "2026-10-30T23:01:14.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
+      "title": "Virtualized Redox: from Virtio-FS to Cloud Hypervisor, and beyond",
+      "url": "https://www.redox-os.org/news/virtualized-redox/",
+      "published_at": "2026-11-08T15:06:06.921-06:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "javascript",
-        "cloud",
-        "speech-recognition",
-        "local",
-        "webspeech-api"
+        "osdev"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jeff Baker"
+      "source": "Lobste.rs",
+      "user": "hugoarnal"
     }
   ],
   "Database": [
@@ -2915,21 +2850,6 @@
       "user": "ThinkChaos"
     },
     {
-      "title": "What are the security benefits of setting origin=mydomain.com in the URL?",
-      "url": "https://stackoverflow.com/questions/80015029/what-are-the-security-benefits-of-setting-origin-mydomain-com-in-the-url",
-      "published_at": "2026-11-06T01:51:49.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
-      "tags": [
-        "javascript",
-        "iframe",
-        "youtube-iframe-api",
-        "websecurity"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Always a Newb at Something"
-    },
-    {
       "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
       "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
       "published_at": "2026-11-08T17:30:00.000Z",
@@ -2943,19 +2863,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Connie Loizos"
-    },
-    {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "published_at": "2026-11-07T21:17:08.000Z",
-      "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "tags": [
-        "AI",
-        "Government & Policy"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anthony Ha"
     },
     {
       "title": "What a CAPTCHA Farm Attack Actually Looks Like",
@@ -3125,7 +3032,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1857,
+      "stars": 1860,
       "user": "JenkinWoo"
     },
     {
@@ -3140,23 +3047,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/260232027?v=4",
       "source": "GitHub",
-      "stars": 595,
+      "stars": 605,
       "user": "JosssphZhou"
-    },
-    {
-      "title": "woniuniuniu/dsh-media-desk - DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
-      "url": "https://github.com/woniuniuniu/dsh-media-desk",
-      "published_at": "2026-11-02T04:49:29Z",
-      "description": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/153842595?v=4",
-      "source": "GitHub",
-      "stars": 494,
-      "user": "woniuniuniu"
     },
     {
       "title": "Wallbycontact/java-mod-rust-port-tool - Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
@@ -3170,7 +3062,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317170740?v=4",
       "source": "GitHub",
-      "stars": 395,
+      "stars": 396,
       "user": "Wallbycontact"
     },
     {
@@ -3189,6 +3081,21 @@
       "user": "MythicHokageRepel"
     },
     {
+      "title": "PatchBuilderAmplify/stolen-crypto-tracer - Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
+      "url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer",
+      "published_at": "2026-11-03T17:08:02Z",
+      "description": "Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317164659?v=4",
+      "source": "GitHub",
+      "stars": 389,
+      "user": "PatchBuilderAmplify"
+    },
+    {
       "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto - Google_AI_Pro_2Year_ZeroCost_Auto",
       "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "published_at": "2026-11-04T14:54:56Z",
@@ -3200,7 +3107,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/85034342?v=4",
       "source": "GitHub",
-      "stars": 3233,
+      "stars": 3256,
       "user": "worldonlyu"
     },
     {
@@ -3215,7 +3122,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/56429320?v=4",
       "source": "GitHub",
-      "stars": 1527,
+      "stars": 1589,
       "user": "sarpstar"
     },
     {
@@ -3230,23 +3137,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1234,
+      "stars": 1245,
       "user": "mmdoctor"
-    },
-    {
-      "title": "Th0rgal/satmux - Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-      "url": "https://github.com/Th0rgal/satmux",
-      "published_at": "2026-11-07T16:09:41Z",
-      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
-      "source": "GitHub",
-      "stars": 907,
-      "user": "Th0rgal"
     },
     {
       "title": "shanselman/gputaskman - A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
@@ -3260,8 +3152,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 888,
+      "stars": 999,
       "user": "shanselman"
+    },
+    {
+      "title": "Th0rgal/satmux - Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "url": "https://github.com/Th0rgal/satmux",
+      "published_at": "2026-11-07T16:09:41Z",
+      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
+      "source": "GitHub",
+      "stars": 931,
+      "user": "Th0rgal"
     },
     {
       "title": "egoist/mygo-music - A native music player you extend with plugins",
@@ -3275,7 +3182,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 964,
+      "stars": 971,
       "user": "egoist"
     },
     {
@@ -3290,7 +3197,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 728,
+      "stars": 786,
       "user": "DIYgod"
     },
     {
@@ -3305,7 +3212,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 403,
+      "stars": 410,
       "user": "devvmhq"
     },
     {
@@ -3320,23 +3227,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195894983?v=4",
       "source": "GitHub",
-      "stars": 275,
+      "stars": 332,
       "user": "manjushree-iyer"
     },
     {
-      "title": "egoist/godraw - infinite canvas in mygo",
-      "url": "https://github.com/egoist/godraw",
-      "published_at": "2026-11-02T09:47:18Z",
-      "description": "infinite canvas in mygo",
+      "title": "oceanpacificpeace/lichii-shader-sync - GitHub Repository",
+      "url": "https://github.com/oceanpacificpeace/lichii-shader-sync",
+      "published_at": "2026-11-08T00:06:23Z",
+      "description": "Trending GitHub Repository",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/102858373?v=4",
       "source": "GitHub",
-      "stars": 246,
-      "user": "egoist"
+      "stars": 253,
+      "user": "oceanpacificpeace"
     },
     {
       "title": "KKKKhazix/agent-autoloop - 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
@@ -3350,7 +3257,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "source": "GitHub",
-      "stars": 4090,
+      "stars": 4098,
       "user": "KKKKhazix"
     },
     {
@@ -3365,7 +3272,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/328980256?v=4",
       "source": "GitHub",
-      "stars": 3170,
+      "stars": 3263,
       "user": "Minireel"
     },
     {
@@ -3380,7 +3287,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1323,
+      "stars": 1330,
       "user": "livliv-dev"
     },
     {
@@ -3395,7 +3302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 549,
       "user": "AtomIllusionistDwell"
     },
     {
@@ -3410,23 +3317,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/218180147?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "ZSeven-W"
-    },
-    {
-      "title": "libracoder/kiri - A small, fast container runtime for macOS, Windows and Linux",
-      "url": "https://github.com/libracoder/kiri",
-      "published_at": "2026-11-02T16:11:30Z",
-      "description": "A small, fast container runtime for macOS, Windows and Linux",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/32944039?v=4",
-      "source": "GitHub",
-      "stars": 1168,
-      "user": "libracoder"
     },
     {
       "title": "voyager-so/vork - Headless 3D and VFX engine for agents. Research preview.",
@@ -3440,7 +3332,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
       "source": "GitHub",
-      "stars": 1094,
+      "stars": 1117,
       "user": "voyager-so"
     },
     {
@@ -3455,7 +3347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4026659?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 609,
       "user": "jamesondh"
     },
     {
@@ -3472,6 +3364,21 @@
       "source": "GitHub",
       "stars": 497,
       "user": "Renly1994"
+    },
+    {
+      "title": "thiagoaureliomartins-programador/chief-architect-premier - Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
+      "url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier",
+      "published_at": "2026-11-06T20:45:00Z",
+      "description": "Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/292235154?v=4",
+      "source": "GitHub",
+      "stars": 332,
+      "user": "thiagoaureliomartins-programador"
     },
     {
       "title": "StormSkinkGrip/game-ping-multipath-router - Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
@@ -3501,19 +3408,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "napolux"
-    },
-    {
-      "title": "How are you dealing with all the negative side effects of AI on the web?",
-      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-      "published_at": "2026-11-07T03:47:24.713-06:00",
-      "description": "It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it.\r\n\r\nSearch engines now rank links full of slop at the top, which ironically make LLM summaries acceptable, not because they are better than what we had before (they are not), but because they at least mention the good links which are now buried at the bottom of the page. Also, they've been rate limiting ordinary users like crazy: more often than I'd like to, Google and DuckDuckGo now either show me either an error message or tell me to wait a bit. Sometimes I waste at least a minute refreshing the page and waiting for a result.\r\n\r\nI also can't browse GitHub freely without being logged in. Anubis is now everywhere, occasionally blocking me. I feel like my productivity has actually gone down thanks to all of that.\r\n\r\n_Edit: I see that most of the replies here are suggesting relying less on the web and going after more fundamental resources, which are great suggestions, don’t get me wrong! But a book from 5 years ago will not help you understand why your custom firmware doesn’t boot in your 1-year old mobile chipset. A existing bug report on the web probably will. Not quite my predicament at the moment, but something very similar for which the web seemed to work just fine before the AI craze._",
-      "tags": [
-        "ask",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "tmcb"
     },
     {
       "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
