@@ -16,21 +16,6 @@
       "user": "Elia Secchi"
     },
     {
-      "title": "Take Claude Code Above Average: Let Antigravity Review It",
-      "url": "https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g",
-      "published_at": "2026-11-09T08:18:56Z",
-      "description": "In November 2026, I spent a day building a small tool with Claude Code: a bridge that lets a second...",
-      "tags": [
-        "agents",
-        "ai",
-        "softwaredevelopment",
-        "tools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxi7u2r8ll1or4mpcr2xe.png",
-      "source": "Dev.to",
-      "user": "Daniel Gwerzman"
-    },
-    {
       "title": "Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B",
       "url": "https://dev.to/gde/six-serving-engines-on-one-cloud-tpu-v5e-chip-gemma-4-e2b-22hn",
       "published_at": "2026-11-09T16:00:42Z",
@@ -91,21 +76,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Open-weights models: A case (and first step) for Gemma over Gemini for budget & privacy",
-      "url": "https://dev.to/gde/open-weights-models-a-case-and-first-step-for-gemma-over-gemini-for-budget-privacy-2gjo",
-      "published_at": "2026-11-09T07:56:20Z",
-      "description": "TL;DR:   Gemini is the premier frontier model (family) from Google DeepMind. In the current...",
-      "tags": [
-        "ai",
-        "opensource",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fawx4oqfg763vut6sacfi.png",
-      "source": "Dev.to",
-      "user": "Wesley Chun (@wescpy)"
-    },
-    {
       "title": "Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase",
       "url": "https://dev.to/gde/google-ai-classroom-part-1-solving-the-25-per-exam-problem-architecting-a-sub-002student-fjc",
       "published_at": "2026-11-09T07:21:59Z",
@@ -134,21 +104,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdhpbb4fkjfpnq7nocn60.png",
       "source": "Dev.to",
       "user": "MLH Team"
-    },
-    {
-      "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
-      "url": "https://dev.to/gde/leveling-the-playing-field-building-a-100-offline-kubernetes-docs-rag-exam-assistant-with-web-ai-53bi",
-      "published_at": "2026-11-04T13:56:06Z",
-      "description": "How to enable fair, zero-cost, air-gapped AI assistance in technical classrooms and...",
-      "tags": [
-        "webai",
-        "gemma",
-        "rag",
-        "webgpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2vofw4x97oncddtys1y7.png",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
     },
     {
       "title": "What I Learned Managing a Full Project with Antigravity",
@@ -240,6 +195,21 @@
       "user": "Jem"
     },
     {
+      "title": "Take Claude Code Above Average: Let Antigravity Review It",
+      "url": "https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g",
+      "published_at": "2026-11-09T08:18:56Z",
+      "description": "In November 2026, I spent a day building a small tool with Claude Code: a bridge that lets a second...",
+      "tags": [
+        "agents",
+        "ai",
+        "softwaredevelopment",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxi7u2r8ll1or4mpcr2xe.png",
+      "source": "Dev.to",
+      "user": "Daniel Gwerzman"
+    },
+    {
       "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
       "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io",
       "published_at": "2026-11-03T14:00:00Z",
@@ -283,6 +253,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9j2yyb098hr9vwiu2xyr.webp",
       "source": "Dev.to",
       "user": "Noah Brinker"
+    },
+    {
+      "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
+      "url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g",
+      "published_at": "2026-11-07T07:35:33Z",
+      "description": "Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "opensource",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Frailpulse-gemma-cloudrun%2Fmain%2Fassets%2Frailpulse_banner_v2.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
     },
     {
       "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
@@ -330,21 +315,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
-      "url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g",
-      "published_at": "2026-11-07T07:35:33Z",
-      "description": "Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "opensource",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Frailpulse-gemma-cloudrun%2Fmain%2Fassets%2Frailpulse_banner_v2.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
       "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72",
       "published_at": "2026-11-04T22:49:08Z",
@@ -358,6 +328,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fjax-dev%2Fmain%2Farticle%2Fdevto-cover.3c49df33.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Open-weights models: A case (and first step) for Gemma over Gemini for budget & privacy",
+      "url": "https://dev.to/gde/open-weights-models-a-case-and-first-step-for-gemma-over-gemini-for-budget-privacy-2gjo",
+      "published_at": "2026-11-09T07:56:20Z",
+      "description": "TL;DR:   Gemini is the premier frontier model (family) from Google DeepMind. In the current...",
+      "tags": [
+        "ai",
+        "opensource",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fawx4oqfg763vut6sacfi.png",
+      "source": "Dev.to",
+      "user": "Wesley Chun (@wescpy)"
     },
     {
       "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
@@ -767,6 +752,21 @@
       "user": "caseyf7"
     },
     {
+      "title": "lxe/phoneuse - See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+      "url": "https://github.com/lxe/phoneuse",
+      "published_at": "2026-11-07T01:28:30Z",
+      "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
+      "source": "GitHub",
+      "stars": 555,
+      "user": "lxe"
+    },
+    {
       "title": "DIYgod/pinky - Let AI agents use your phone, with you in the loop.",
       "url": "https://github.com/DIYgod/pinky",
       "published_at": "2026-11-06T16:53:14Z",
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 1542,
+      "stars": 1638,
       "user": "DIYgod"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 526,
       "user": "devvmhq"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26252739?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 435,
       "user": "TooonyChen"
     },
     {
@@ -823,23 +823,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 740,
       "user": "AtomIllusionistDwell"
-    },
-    {
-      "title": "DEEIX-AI/Winc - Winc is built with Rust and its own rendering engine: it starts in 0.1 seconds and uses just 52 MB of memory with 100,000 lines open. Multiple cursors, find and replace, and side-by-side diffs are all there, and every keystroke and scroll responds instantly.",
-      "url": "https://github.com/DEEIX-AI/Winc",
-      "published_at": "2026-11-04T06:14:04Z",
-      "description": "Winc is built with Rust and its own rendering engine: it starts in 0.1 seconds and uses just 52 MB of memory with 100,000 lines open. Multiple cursors, find and replace, and side-by-side diffs are all there, and every keystroke and scroll responds instantly.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
-      "source": "GitHub",
-      "stars": 350,
-      "user": "DEEIX-AI"
     },
     {
       "title": "Microsoft are rejecting your mail",
@@ -860,9 +845,7 @@
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "java",
-        "database",
-        "vector",
+        "vector-database",
         "milvus"
       ],
       "cover_image": null,
@@ -886,7 +869,7 @@
       "title": "`except` doesn’t catch my custom exception raised inside `InterpreterPoolExecutor` (Python 3.14)",
       "url": "https://stackoverflow.com/questions/80015414/except-doesn-t-catch-my-custom-exception-raised-inside-interpreterpoolexecuto",
       "published_at": "2026-11-07T23:58:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score -2",
       "tags": [
         "python",
         "exception",
@@ -899,136 +882,124 @@
       "user": "Muhammad Raham Saleem"
     },
     {
-      "title": "How to force langchain model to use my language instead of English",
-      "url": "https://stackoverflow.com/questions/80015522/how-to-force-langchain-model-to-use-my-language-instead-of-english",
-      "published_at": "2026-11-08T19:37:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python",
-        "langchain"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mascai"
-    },
-    {
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-      "published_at": "2026-11-10T07:00:00.000Z",
-      "description": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "title": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "published_at": "2026-11-10T15:29:30.000Z",
+      "description": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
       "tags": [
         "AI",
-        "otter ai"
+        "Apps",
+        "Meta",
+        "muse"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Lauren Forristal"
+      "user": "Aisha Malik"
     },
     {
-      "title": "California&#8217;s proposed &#8216;billionaire tax&#8217; fails to pass",
-      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
-      "published_at": "2026-11-10T05:18:43.000Z",
-      "description": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents ",
+      "title": "Reddit is turning user conversations into AI-powered product reviews",
+      "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+      "published_at": "2026-11-10T15:00:00.000Z",
+      "description": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
       "tags": [
-        "Government & Policy",
-        "billionaires",
-        "election"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Jensen Huang&#8217;s alleged honeypot scandal has inspired some top-notch memes",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
-      "published_at": "2026-11-10T04:34:15.000Z",
-      "description": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
-      "tags": [
-        "Media & Entertainment",
-        "nvidia",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Dominic-Madori Davis, Lucas Ropek"
-    },
-    {
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "published_at": "2026-11-10T01:27:12.000Z",
-      "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "tags": [
-        "AI",
-        "IPO",
-        "valuation",
-        "Anthropic",
-        "In Brief"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-      "published_at": "2026-11-09T23:28:37.000Z",
-      "description": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "China",
-        "In Brief",
-        "Jensen Huang"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
-    },
-    {
-      "title": "A short seller flagged Nvidia CEO&#8217;s ties to a suspected Chinese spy six months before the scandal",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "published_at": "2026-11-09T22:46:09.000Z",
-      "description": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "tags": [
-        "AI",
-        "nvidia",
-        "Jensen Huang"
+        "Commerce",
+        "Social",
+        "Reddit",
+        "shopping"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
     },
     {
-      "title": "The race is on to sue Nvidia",
-      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-      "published_at": "2026-11-09T22:23:42.000Z",
-      "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+      "published_at": "2026-11-10T15:00:00.000Z",
+      "description": "Kunal Shah said that AI on WhatsApp will remind people of their appointment than booking",
       "tags": [
-        "AI",
-        "TC",
-        "Jensen Huang",
-        "Litigation",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "published_at": "2026-11-09T20:09:06.000Z",
-      "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "tags": [
-        "AI",
-        "ElevenLabs",
-        "In Brief",
-        "Jensen Huang",
-        "nvidia"
+        "Apps"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
+    },
+    {
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "published_at": "2026-11-10T14:05:10.000Z",
+      "description": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "tags": [
+        "AI",
+        "Adobe",
+        "Adobe Firefly",
+        "photoshop"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "published_at": "2026-11-10T14:01:39.000Z",
+      "description": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "anthropic ipo"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan, Ram Iyer"
+    },
+    {
+      "title": "After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "published_at": "2026-11-10T14:00:00.000Z",
+      "description": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "tags": [
+        "Startups",
+        "AI",
+        "microsoft windows",
+        "square enix",
+        "Cyanogen"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
+    },
+    {
+      "title": "Spotify&#8217;s AI DJ gets new voices, personalities, and an option for less chatter",
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "published_at": "2026-11-10T14:00:00.000Z",
+      "description": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "tags": [
+        "Media & Entertainment",
+        "AI",
+        "Apps",
+        "Spotify",
+        "streaming music"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "published_at": "2026-11-10T13:30:00.000Z",
+      "description": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "tags": [
+        "Robotics",
+        "Amazon",
+        "drones",
+        "robots",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
@@ -1252,7 +1223,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1974,
+      "stars": 2003,
       "user": "JenkinWoo"
     },
     {
@@ -1286,34 +1257,34 @@
       "user": "Gacktadactle"
     },
     {
-      "title": "Wallbycontact/java-mod-rust-port-tool - Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
-      "url": "https://github.com/Wallbycontact/java-mod-rust-port-tool",
-      "published_at": "2026-11-05T06:15:39Z",
-      "description": "Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
+      "title": "FJNB5/fujiang-pojia - 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面",
+      "url": "https://github.com/FJNB5/fujiang-pojia",
+      "published_at": "2026-11-09T05:55:55Z",
+      "description": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317170740?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/337416215?v=4",
       "source": "GitHub",
-      "stars": 402,
-      "user": "Wallbycontact"
+      "stars": 466,
+      "user": "FJNB5"
     },
     {
-      "title": "MythicHokageRepel/steam-inventory-value-desktop - Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
-      "url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop",
-      "published_at": "2026-11-05T05:32:56Z",
-      "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+      "title": "shanselman/sandbox-mcp - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
+      "url": "https://github.com/shanselman/sandbox-mcp",
+      "published_at": "2026-11-06T19:02:14Z",
+      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316288798?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 393,
-      "user": "MythicHokageRepel"
+      "stars": 398,
+      "user": "shanselman"
     },
     {
       "title": "livliv-dev/player - A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
@@ -1327,7 +1298,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1425,
+      "stars": 1445,
       "user": "livliv-dev"
     },
     {
@@ -1342,23 +1313,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 740,
       "user": "AtomIllusionistDwell"
-    },
-    {
-      "title": "jmanalabe/hwid-spoofer - Full working HWID spoofer installer with all features enabled, ready to run",
-      "url": "https://github.com/jmanalabe/hwid-spoofer",
-      "published_at": "2026-11-06T21:04:00Z",
-      "description": "Full working HWID spoofer installer with all features enabled, ready to run",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6276232?v=4",
-      "source": "GitHub",
-      "stars": 481,
-      "user": "jmanalabe"
     },
     {
       "title": "RolandoV3/metatrader-5-bot - Community-driven MetaTrader 5 bot with full features ready for desktop use",
@@ -1391,23 +1347,39 @@
       "user": "ethangangasingh-crypto"
     },
     {
-      "title": "What's new in Node.js 27",
-      "url": "https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/",
-      "published_at": "2026-11-09T05:48:55.327-06:00",
-      "description": "Lobste.rs Discussion",
+      "title": "ma7401153-sketch/daemon-pro-installer - DAEMON-Pro: Full-Feature Security Installer for Desktop Deployment",
+      "url": "https://github.com/ma7401153-sketch/daemon-pro-installer",
+      "published_at": "2026-11-06T20:51:00Z",
+      "description": "DAEMON-Pro: Full-Feature Security Installer for Desktop Deployment",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282581766?v=4",
+      "source": "GitHub",
+      "stars": 480,
+      "user": "ma7401153-sketch"
+    },
+    {
+      "title": "Passing form data from a popup window in Flask",
+      "url": "https://stackoverflow.com/questions/80015811/passing-form-data-from-a-popup-window-in-flask",
+      "published_at": "2026-11-10T12:39:07.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "javascript",
-        "nodejs"
+        "python",
+        "flask"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "loige"
+      "source": "StackOverflow",
+      "user": "katastrophe"
     },
     {
       "title": "How does JavaScript interpret this code with the word \"index\"?",
       "url": "https://stackoverflow.com/questions/80015768/how-does-javascript-interpret-this-code-with-the-word-index",
       "published_at": "2026-11-10T07:05:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
         "javascript"
       ],
@@ -1419,7 +1391,7 @@
       "title": "How can you make it to where when someone enters 2 numbers that when they click the button, a letter goes into the grid in javascript",
       "url": "https://stackoverflow.com/questions/80015713/how-can-you-make-it-to-where-when-someone-enters-2-numbers-that-when-they-click",
       "published_at": "2026-11-09T19:13:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -12",
+      "description": "Stack Overflow question · 0 answers · score -14",
       "tags": [
         "javascript"
       ],
@@ -1501,7 +1473,7 @@
       "title": "React Native Skia on RN 0.81+ with New Architecture causes massive build time, huge build size, and poor performance",
       "url": "https://stackoverflow.com/questions/79876017/react-native-skia-on-rn-0-81-with-new-architecture-causes-massive-build-time-h",
       "published_at": "2026-01-26T00:59:35.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "android",
@@ -1517,7 +1489,7 @@
       "title": "How to reset an HTML element to its first/initial value in JavaScript?",
       "url": "https://stackoverflow.com/questions/79820285/how-to-reset-an-html-element-to-its-first-initial-value-in-javascript",
       "published_at": "2025-11-14T17:11:16.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
+      "description": "Stack Overflow question · 5 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -1526,21 +1498,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Milichip"
-    },
-    {
-      "title": "Looking for advice to achieve my website goals",
-      "url": "https://stackoverflow.com/questions/79817326/looking-for-advice-to-achieve-my-website-goals",
-      "published_at": "2025-11-12T03:57:33.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "advice"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Isaac"
     },
     {
       "title": "How to Build a PDF Storyboard Generator Using JavaScript",
@@ -1604,21 +1561,6 @@
       "user": "xbill"
     },
     {
-      "title": "Open-weights models: A case (and first step) for Gemma over Gemini for budget & privacy",
-      "url": "https://dev.to/gde/open-weights-models-a-case-and-first-step-for-gemma-over-gemini-for-budget-privacy-2gjo",
-      "published_at": "2026-11-09T07:56:20Z",
-      "description": "TL;DR:   Gemini is the premier frontier model (family) from Google DeepMind. In the current...",
-      "tags": [
-        "ai",
-        "opensource",
-        "gemini",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fawx4oqfg763vut6sacfi.png",
-      "source": "Dev.to",
-      "user": "Wesley Chun (@wescpy)"
-    },
-    {
       "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
       "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi",
       "published_at": "2026-11-02T14:52:55Z",
@@ -1662,6 +1604,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fjax-dev%2Fmain%2Farticle%2Fdevto-cover.3c49df33.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Open-weights models: A case (and first step) for Gemma over Gemini for budget & privacy",
+      "url": "https://dev.to/gde/open-weights-models-a-case-and-first-step-for-gemma-over-gemini-for-budget-privacy-2gjo",
+      "published_at": "2026-11-09T07:56:20Z",
+      "description": "TL;DR:   Gemini is the premier frontier model (family) from Google DeepMind. In the current...",
+      "tags": [
+        "ai",
+        "opensource",
+        "gemini",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fawx4oqfg763vut6sacfi.png",
+      "source": "Dev.to",
+      "user": "Wesley Chun (@wescpy)"
     },
     {
       "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
@@ -1810,7 +1767,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1508,
+      "stars": 1601,
       "user": "mmdoctor"
     },
     {
@@ -1825,7 +1782,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1075,
       "user": "WoYun520"
     },
     {
@@ -1840,7 +1797,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1025,
       "user": "Th0rgal"
     },
     {
@@ -1855,23 +1812,82 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308845393?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 637,
       "user": "majorminorlabs"
     },
     {
-      "title": "riyadhHDA/wichforks - Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
-      "url": "https://github.com/riyadhHDA/wichforks",
-      "published_at": "2026-11-05T14:47:29Z",
-      "description": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
+      "title": "lxe/phoneuse - See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+      "url": "https://github.com/lxe/phoneuse",
+      "published_at": "2026-11-07T01:28:30Z",
+      "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25872060?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
       "source": "GitHub",
-      "stars": 546,
-      "user": "riyadhHDA"
+      "stars": 555,
+      "user": "lxe"
+    },
+    {
+      "title": "Passing form data from a popup window in Flask",
+      "url": "https://stackoverflow.com/questions/80015811/passing-form-data-from-a-popup-window-in-flask",
+      "published_at": "2026-11-10T12:39:07.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
+      "tags": [
+        "javascript",
+        "python",
+        "flask"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "katastrophe"
+    },
+    {
+      "title": "How to add image on gui using tkinter on macOS?",
+      "url": "https://stackoverflow.com/questions/80015798/how-to-add-image-on-gui-using-tkinter-on-macos",
+      "published_at": "2026-11-10T10:44:48.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "macos",
+        "tkinter",
+        "python-imaging-library"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "黃yu"
+    },
+    {
+      "title": "How to handle echo vs. genuine speech for barge-in in an Asterisk-based IVR?",
+      "url": "https://stackoverflow.com/questions/80015789/how-to-handle-echo-vs-genuine-speech-for-barge-in-in-an-asterisk-based-ivr",
+      "published_at": "2026-11-10T09:30:12.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "asterisk",
+        "ivr",
+        "asteriskami",
+        "asterisk-ari"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shaan Srivastava"
+    },
+    {
+      "title": "What does __lazy_import__() return?",
+      "url": "https://stackoverflow.com/questions/80015735/what-does-lazy-import-return",
+      "published_at": "2026-11-09T22:50:32.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "python",
+        "python-import",
+        "python-3.15"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
     },
     {
       "title": "Why does MilvusClient.query() fail with VECTOR_FLOAT when sorting by a scalar ID?",
@@ -1880,9 +1896,7 @@
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "java",
-        "database",
-        "vector",
+        "vector-database",
         "milvus"
       ],
       "cover_image": null,
@@ -1893,20 +1907,7 @@
       "title": "Difference between __import__() and importlib.__import__()",
       "url": "https://stackoverflow.com/questions/80015734/difference-between-import-and-importlib-import",
       "published_at": "2026-11-09T22:39:40.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "python-import"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "What does __lazy_import__() return?",
-      "url": "https://stackoverflow.com/questions/80015735/what-does-lazy-import-return",
-      "published_at": "2026-11-09T22:50:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 2 answers · score 1",
       "tags": [
         "python",
         "python-import"
@@ -1958,7 +1959,7 @@
       "title": "`except` doesn’t catch my custom exception raised inside `InterpreterPoolExecutor` (Python 3.14)",
       "url": "https://stackoverflow.com/questions/80015414/except-doesn-t-catch-my-custom-exception-raised-inside-interpreterpoolexecuto",
       "published_at": "2026-11-07T23:58:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score -2",
       "tags": [
         "python",
         "exception",
@@ -1969,64 +1970,9 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Muhammad Raham Saleem"
-    },
-    {
-      "title": "uniswap-python cannot be installed",
-      "url": "https://stackoverflow.com/questions/80015532/uniswap-python-cannot-be-installed",
-      "published_at": "2026-11-08T21:42:25.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "package",
-        "uniswap"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Apache00"
-    },
-    {
-      "title": "How to force langchain model to use my language instead of English",
-      "url": "https://stackoverflow.com/questions/80015522/how-to-force-langchain-model-to-use-my-language-instead-of-english",
-      "published_at": "2026-11-08T19:37:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -5",
-      "tags": [
-        "python",
-        "langchain"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mascai"
-    },
-    {
-      "title": "Adding an extra line changes the lazy import object entirely",
-      "url": "https://stackoverflow.com/questions/80015329/adding-an-extra-line-changes-the-lazy-import-object-entirely",
-      "published_at": "2026-11-07T12:09:52.000Z",
-      "description": "Stack Overflow question · 2 answers · score 6",
-      "tags": [
-        "python",
-        "python-import"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
     }
   ],
   "DevOps": [
-    {
-      "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
-      "url": "https://dev.to/gde/leveling-the-playing-field-building-a-100-offline-kubernetes-docs-rag-exam-assistant-with-web-ai-53bi",
-      "published_at": "2026-11-04T13:56:06Z",
-      "description": "How to enable fair, zero-cost, air-gapped AI assistance in technical classrooms and...",
-      "tags": [
-        "webai",
-        "gemma",
-        "rag",
-        "webgpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2vofw4x97oncddtys1y7.png",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
     {
       "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
       "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b",
@@ -2042,21 +1988,6 @@
       "user": "Saurabh Mishra"
     },
     {
-      "title": "Trust No Pipeline: Why Attackers Stopped Hacking Your Cluster and Started Riding Your CI/CD (And How to Stop Them on Google Cloud)",
-      "url": "https://dev.to/gde/trust-no-pipeline-why-attackers-stopped-hacking-your-cluster-and-started-riding-your-cicd-and-2m74",
-      "published_at": "2026-11-07T10:00:52Z",
-      "description": "Sourced from: my talk \"Trust No Pipeline: Securing Software Delivery &amp; Workload Identity in the...",
-      "tags": [
-        "kubernetes",
-        "security",
-        "devops",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvae5gm8oi8t04nlytfap.jpg",
-      "source": "Dev.to",
-      "user": "Çalgan Aygün"
-    },
-    {
       "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
       "url": "https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k",
       "published_at": "2026-11-01T19:57:46Z",
@@ -2070,6 +2001,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Frackdoc%2Fmain%2Fdocs%2Frackdoc_v1_1_screenshot.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
+    },
+    {
+      "title": "Trust No Pipeline: Why Attackers Stopped Hacking Your Cluster and Started Riding Your CI/CD (And How to Stop Them on Google Cloud)",
+      "url": "https://dev.to/gde/trust-no-pipeline-why-attackers-stopped-hacking-your-cluster-and-started-riding-your-cicd-and-2m74",
+      "published_at": "2026-11-07T10:00:52Z",
+      "description": "Sourced from: my talk \"Trust No Pipeline: Securing Software Delivery &amp; Workload Identity in the...",
+      "tags": [
+        "kubernetes",
+        "security",
+        "devops",
+        "cicd"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvae5gm8oi8t04nlytfap.jpg",
+      "source": "Dev.to",
+      "user": "Çalgan Aygün"
     },
     {
       "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
@@ -2282,20 +2228,6 @@
       "user": "velmu"
     },
     {
-      "title": "I was wrong about dark mode",
-      "url": "https://dbushell.com/2026/11/09/dark-mode/",
-      "published_at": "2026-11-09T10:54:03.235-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "css",
-        "design",
-        "web"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "loige"
-    },
-    {
       "title": "How to set button in the middle of the screen in JS",
       "url": "https://stackoverflow.com/questions/80015618/how-to-set-button-in-the-middle-of-the-screen-in-js",
       "published_at": "2026-11-09T10:04:20.000Z",
@@ -2327,7 +2259,7 @@
       "title": "How to reset an HTML element to its first/initial value in JavaScript?",
       "url": "https://stackoverflow.com/questions/79820285/how-to-reset-an-html-element-to-its-first-initial-value-in-javascript",
       "published_at": "2025-11-14T17:11:16.000Z",
-      "description": "Stack Overflow question · 4 answers · score 0",
+      "description": "Stack Overflow question · 5 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2336,21 +2268,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Milichip"
-    },
-    {
-      "title": "Looking for advice to achieve my website goals",
-      "url": "https://stackoverflow.com/questions/79817326/looking-for-advice-to-achieve-my-website-goals",
-      "published_at": "2025-11-12T03:57:33.000Z",
-      "description": "Stack Overflow question · 2 answers · score -3",
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "advice"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Isaac"
     },
     {
       "title": "How to Build a PDF Storyboard Generator Using JavaScript",
@@ -2459,25 +2376,10 @@
       "user": "xbill"
     },
     {
-      "title": "riyadhHDA/wichforks - Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
-      "url": "https://github.com/riyadhHDA/wichforks",
-      "published_at": "2026-11-05T14:47:29Z",
-      "description": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25872060?v=4",
-      "source": "GitHub",
-      "stars": 546,
-      "user": "riyadhHDA"
-    },
-    {
       "title": "React Native Skia on RN 0.81+ with New Architecture causes massive build time, huge build size, and poor performance",
       "url": "https://stackoverflow.com/questions/79876017/react-native-skia-on-rn-0-81-with-new-architecture-causes-massive-build-time-h",
       "published_at": "2026-01-26T00:59:35.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "android",
@@ -2488,6 +2390,37 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ali Khattak"
+    },
+    {
+      "title": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "published_at": "2026-11-10T15:29:30.000Z",
+      "description": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Meta",
+        "muse"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "published_at": "2026-11-10T14:00:00.000Z",
+      "description": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "tags": [
+        "Startups",
+        "AI",
+        "microsoft windows",
+        "square enix",
+        "Cyanogen"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Jagmeet Singh"
     },
     {
       "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
@@ -2670,21 +2603,6 @@
       "user": "Darren \"Dazbo\" Lester"
     },
     {
-      "title": "Trust No Pipeline: Why Attackers Stopped Hacking Your Cluster and Started Riding Your CI/CD (And How to Stop Them on Google Cloud)",
-      "url": "https://dev.to/gde/trust-no-pipeline-why-attackers-stopped-hacking-your-cluster-and-started-riding-your-cicd-and-2m74",
-      "published_at": "2026-11-07T10:00:52Z",
-      "description": "Sourced from: my talk \"Trust No Pipeline: Securing Software Delivery &amp; Workload Identity in the...",
-      "tags": [
-        "kubernetes",
-        "security",
-        "devops",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvae5gm8oi8t04nlytfap.jpg",
-      "source": "Dev.to",
-      "user": "Çalgan Aygün"
-    },
-    {
       "title": "How to Build Your Own Google Antigravity Plugin: Packaging Skills, MCP Servers, Subagents, Rules, and Hooks",
       "url": "https://dev.to/gde/how-to-build-your-own-google-antigravity-plugin-packaging-skills-mcp-servers-subagents-rules-23p9",
       "published_at": "2026-11-03T15:24:30Z",
@@ -2698,6 +2616,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzxqoxai889zaalm2asa7.png",
       "source": "Dev.to",
       "user": "Carlos Barbero"
+    },
+    {
+      "title": "Trust No Pipeline: Why Attackers Stopped Hacking Your Cluster and Started Riding Your CI/CD (And How to Stop Them on Google Cloud)",
+      "url": "https://dev.to/gde/trust-no-pipeline-why-attackers-stopped-hacking-your-cluster-and-started-riding-your-cicd-and-2m74",
+      "published_at": "2026-11-07T10:00:52Z",
+      "description": "Sourced from: my talk \"Trust No Pipeline: Securing Software Delivery &amp; Workload Identity in the...",
+      "tags": [
+        "kubernetes",
+        "security",
+        "devops",
+        "cicd"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvae5gm8oi8t04nlytfap.jpg",
+      "source": "Dev.to",
+      "user": "Çalgan Aygün"
     },
     {
       "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
@@ -2759,15 +2692,26 @@
       "user": "iancarroll"
     },
     {
+      "title": "Next-Level Benchmarking Overfitting",
+      "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+      "published_at": "2026-11-10T06:20:55.477-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "databases",
+        "performance"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "eatonphil"
+    },
+    {
       "title": "Why does MilvusClient.query() fail with VECTOR_FLOAT when sorting by a scalar ID?",
       "url": "https://stackoverflow.com/questions/80015769/why-does-milvusclient-query-fail-with-vector-float-when-sorting-by-a-scalar-id",
       "published_at": "2026-11-10T07:08:09.000Z",
       "description": "Stack Overflow question · 0 answers · score 0",
       "tags": [
         "python",
-        "java",
-        "database",
-        "vector",
+        "vector-database",
         "milvus"
       ],
       "cover_image": null,
@@ -2804,21 +2748,6 @@
   ],
   "Security": [
     {
-      "title": "Trust No Pipeline: Why Attackers Stopped Hacking Your Cluster and Started Riding Your CI/CD (And How to Stop Them on Google Cloud)",
-      "url": "https://dev.to/gde/trust-no-pipeline-why-attackers-stopped-hacking-your-cluster-and-started-riding-your-cicd-and-2m74",
-      "published_at": "2026-11-07T10:00:52Z",
-      "description": "Sourced from: my talk \"Trust No Pipeline: Securing Software Delivery &amp; Workload Identity in the...",
-      "tags": [
-        "kubernetes",
-        "security",
-        "devops",
-        "cicd"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvae5gm8oi8t04nlytfap.jpg",
-      "source": "Dev.to",
-      "user": "Çalgan Aygün"
-    },
-    {
       "title": "Thank you to everyone who pointed out the phishing posts we got yesterday. We're working on improved mechanisms to automatically reject those types of attacks.",
       "url": "https://dev.to/ben/thank-you-to-everyone-who-pointed-out-the-phishing-posts-we-got-yesterday-were-working-on-1h9b",
       "published_at": "2026-11-05T15:25:46Z",
@@ -2845,6 +2774,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png",
       "source": "Dev.to",
       "user": "Connie Leung"
+    },
+    {
+      "title": "Trust No Pipeline: Why Attackers Stopped Hacking Your Cluster and Started Riding Your CI/CD (And How to Stop Them on Google Cloud)",
+      "url": "https://dev.to/gde/trust-no-pipeline-why-attackers-stopped-hacking-your-cluster-and-started-riding-your-cicd-and-2m74",
+      "published_at": "2026-11-07T10:00:52Z",
+      "description": "Sourced from: my talk \"Trust No Pipeline: Securing Software Delivery &amp; Workload Identity in the...",
+      "tags": [
+        "kubernetes",
+        "security",
+        "devops",
+        "cicd"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvae5gm8oi8t04nlytfap.jpg",
+      "source": "Dev.to",
+      "user": "Çalgan Aygün"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -2979,6 +2923,21 @@
       "user": "Varcht"
     },
     {
+      "title": "ma7401153-sketch/daemon-pro-installer - DAEMON-Pro: Full-Feature Security Installer for Desktop Deployment",
+      "url": "https://github.com/ma7401153-sketch/daemon-pro-installer",
+      "published_at": "2026-11-06T20:51:00Z",
+      "description": "DAEMON-Pro: Full-Feature Security Installer for Desktop Deployment",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282581766?v=4",
+      "source": "GitHub",
+      "stars": 480,
+      "user": "ma7401153-sketch"
+    },
+    {
       "title": "Let’s Talk About Why all This OT Stuff is Connected",
       "url": "https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/",
       "published_at": "2026-11-09T06:22:39.664-06:00",
@@ -2991,46 +2950,36 @@
       "user": "polywolf"
     },
     {
-      "title": "Terminal2Shell: Critical flaw grants instant shell access on every major OS",
-      "url": "https://terminal2shell.com/",
-      "published_at": "2026-11-09T09:41:50.359-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "satire",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "whjms"
-    },
-    {
-      "title": "unlocking any car from X brand in most of the world",
-      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-      "published_at": "2026-11-08T22:43:15.100-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "reversing",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "markerz"
-    },
-    {
-      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
-      "published_at": "2026-11-09T23:03:46.000Z",
-      "description": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+      "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+      "published_at": "2026-11-10T15:45:27.000Z",
+      "description": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
       "tags": [
         "Security",
+        "cyberattack",
         "cybersecurity",
-        "data breach",
-        "Exclusive",
-        "Salesforce"
+        "n-able",
+        "remote access"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Zack Whittaker"
+    },
+    {
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "published_at": "2026-11-10T13:30:00.000Z",
+      "description": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "tags": [
+        "Robotics",
+        "Amazon",
+        "drones",
+        "robots",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
     },
     {
       "title": "What a CAPTCHA Farm Attack Actually Looks Like",
@@ -3050,21 +2999,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "Take Claude Code Above Average: Let Antigravity Review It",
-      "url": "https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g",
-      "published_at": "2026-11-09T08:18:56Z",
-      "description": "In November 2026, I spent a day building a small tool with Claude Code: a bridge that lets a second...",
-      "tags": [
-        "agents",
-        "ai",
-        "softwaredevelopment",
-        "tools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxi7u2r8ll1or4mpcr2xe.png",
-      "source": "Dev.to",
-      "user": "Daniel Gwerzman"
-    },
     {
       "title": "Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)",
       "url": "https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf",
@@ -3123,19 +3057,19 @@
       "user": "Elia Secchi"
     },
     {
-      "title": "Profile Sprawl: Solving a Problem You Didn't Know You Had",
-      "url": "https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5",
-      "published_at": "2026-11-01T14:35:26Z",
-      "description": "Every public profile you own says something slightly different about you. A step by step guide to treating your bio as source code, with one file, one tracker and an agent skill that checks the live sites.",
+      "title": "Take Claude Code Above Average: Let Antigravity Review It",
+      "url": "https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g",
+      "published_at": "2026-11-09T08:18:56Z",
+      "description": "In November 2026, I spent a day building a small tool with Claude Code: a bridge that lets a second...",
       "tags": [
+        "agents",
         "ai",
-        "devtools",
-        "productivity",
-        "opensource"
+        "softwaredevelopment",
+        "tools"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fprofile-sync%2Fmain%2Farticles%2Fprofile-sprawl%2Fcover.b434d7ab.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxi7u2r8ll1or4mpcr2xe.png",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Daniel Gwerzman"
     },
     {
       "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
@@ -3151,6 +3085,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Frailpulse-gemma-cloudrun%2Fmain%2Fassets%2Frailpulse_banner_v2.jpg",
       "source": "Dev.to",
       "user": "Robina Mirbahar"
+    },
+    {
+      "title": "Profile Sprawl: Solving a Problem You Didn't Know You Had",
+      "url": "https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5",
+      "published_at": "2026-11-01T14:35:26Z",
+      "description": "Every public profile you own says something slightly different about you. A step by step guide to treating your bio as source code, with one file, one tracker and an agent skill that checks the live sites.",
+      "tags": [
+        "ai",
+        "devtools",
+        "productivity",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fprofile-sync%2Fmain%2Farticles%2Fprofile-sprawl%2Fcover.b434d7ab.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "How to Build Your Own Google Antigravity Plugin: Packaging Skills, MCP Servers, Subagents, Rules, and Hooks",
@@ -3230,7 +3179,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1974,
+      "stars": 2003,
       "user": "JenkinWoo"
     },
     {
@@ -3264,34 +3213,34 @@
       "user": "Gacktadactle"
     },
     {
-      "title": "Wallbycontact/java-mod-rust-port-tool - Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
-      "url": "https://github.com/Wallbycontact/java-mod-rust-port-tool",
-      "published_at": "2026-11-05T06:15:39Z",
-      "description": "Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
+      "title": "FJNB5/fujiang-pojia - 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面",
+      "url": "https://github.com/FJNB5/fujiang-pojia",
+      "published_at": "2026-11-09T05:55:55Z",
+      "description": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317170740?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/337416215?v=4",
       "source": "GitHub",
-      "stars": 402,
-      "user": "Wallbycontact"
+      "stars": 466,
+      "user": "FJNB5"
     },
     {
-      "title": "MythicHokageRepel/steam-inventory-value-desktop - Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
-      "url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop",
-      "published_at": "2026-11-05T05:32:56Z",
-      "description": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+      "title": "shanselman/sandbox-mcp - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
+      "url": "https://github.com/shanselman/sandbox-mcp",
+      "published_at": "2026-11-06T19:02:14Z",
+      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316288798?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 393,
-      "user": "MythicHokageRepel"
+      "stars": 398,
+      "user": "shanselman"
     },
     {
       "title": "mmdoctor/google-pro-helper - GitHub Repository",
@@ -3305,7 +3254,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1508,
+      "stars": 1601,
       "user": "mmdoctor"
     },
     {
@@ -3320,7 +3269,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 1047,
+      "stars": 1075,
       "user": "WoYun520"
     },
     {
@@ -3335,7 +3284,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1018,
+      "stars": 1025,
       "user": "Th0rgal"
     },
     {
@@ -3350,23 +3299,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308845393?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 637,
       "user": "majorminorlabs"
     },
     {
-      "title": "riyadhHDA/wichforks - Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
-      "url": "https://github.com/riyadhHDA/wichforks",
-      "published_at": "2026-11-05T14:47:29Z",
-      "description": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
+      "title": "lxe/phoneuse - See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+      "url": "https://github.com/lxe/phoneuse",
+      "published_at": "2026-11-07T01:28:30Z",
+      "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25872060?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
       "source": "GitHub",
-      "stars": 546,
-      "user": "riyadhHDA"
+      "stars": 555,
+      "user": "lxe"
     },
     {
       "title": "DIYgod/pinky - Let AI agents use your phone, with you in the loop.",
@@ -3380,7 +3329,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 1542,
+      "stars": 1638,
       "user": "DIYgod"
     },
     {
@@ -3395,7 +3344,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 1148,
+      "stars": 1179,
       "user": "egoist"
     },
     {
@@ -3410,7 +3359,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 504,
+      "stars": 526,
       "user": "devvmhq"
     },
     {
@@ -3440,7 +3389,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26252739?v=4",
       "source": "GitHub",
-      "stars": 429,
+      "stars": 435,
       "user": "TooonyChen"
     },
     {
@@ -3455,7 +3404,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1425,
+      "stars": 1445,
       "user": "livliv-dev"
     },
     {
@@ -3470,23 +3419,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 704,
+      "stars": 740,
       "user": "AtomIllusionistDwell"
-    },
-    {
-      "title": "jmanalabe/hwid-spoofer - Full working HWID spoofer installer with all features enabled, ready to run",
-      "url": "https://github.com/jmanalabe/hwid-spoofer",
-      "published_at": "2026-11-06T21:04:00Z",
-      "description": "Full working HWID spoofer installer with all features enabled, ready to run",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/6276232?v=4",
-      "source": "GitHub",
-      "stars": 481,
-      "user": "jmanalabe"
     },
     {
       "title": "RolandoV3/metatrader-5-bot - Community-driven MetaTrader 5 bot with full features ready for desktop use",
@@ -3519,6 +3453,21 @@
       "user": "ethangangasingh-crypto"
     },
     {
+      "title": "ma7401153-sketch/daemon-pro-installer - DAEMON-Pro: Full-Feature Security Installer for Desktop Deployment",
+      "url": "https://github.com/ma7401153-sketch/daemon-pro-installer",
+      "published_at": "2026-11-06T20:51:00Z",
+      "description": "DAEMON-Pro: Full-Feature Security Installer for Desktop Deployment",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/282581766?v=4",
+      "source": "GitHub",
+      "stars": 480,
+      "user": "ma7401153-sketch"
+    },
+    {
       "title": "jamesondh/chimera-vocal-synth - the ultimate vocal synthesizer - sing, speak, beatbox, and more",
       "url": "https://github.com/jamesondh/chimera-vocal-synth",
       "published_at": "2026-11-05T19:10:42Z",
@@ -3530,7 +3479,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4026659?v=4",
       "source": "GitHub",
-      "stars": 1339,
+      "stars": 1526,
       "user": "jamesondh"
     },
     {
@@ -3545,7 +3494,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
       "source": "GitHub",
-      "stars": 1316,
+      "stars": 1348,
       "user": "voyager-so"
     },
     {
@@ -3560,7 +3509,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292235154?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 482,
       "user": "thiagoaureliomartins-programador"
     },
     {
@@ -3575,23 +3524,66 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317179077?v=4",
       "source": "GitHub",
-      "stars": 439,
+      "stars": 445,
       "user": "PlateParrotTerminal"
     },
     {
-      "title": "DEEIX-AI/Winc - Winc is built with Rust and its own rendering engine: it starts in 0.1 seconds and uses just 52 MB of memory with 100,000 lines open. Multiple cursors, find and replace, and side-by-side diffs are all there, and every keystroke and scroll responds instantly.",
-      "url": "https://github.com/DEEIX-AI/Winc",
-      "published_at": "2026-11-04T06:14:04Z",
-      "description": "Winc is built with Rust and its own rendering engine: it starts in 0.1 seconds and uses just 52 MB of memory with 100,000 lines open. Multiple cursors, find and replace, and side-by-side diffs are all there, and every keystroke and scroll responds instantly.",
+      "title": "Gloridust/WowType - 像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入，越用越懂你。",
+      "url": "https://github.com/Gloridust/WowType",
+      "published_at": "2026-11-06T14:48:19Z",
+      "description": "像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入，越用越懂你。",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/88082356?v=4",
       "source": "GitHub",
-      "stars": 350,
-      "user": "DEEIX-AI"
+      "stars": 381,
+      "user": "Gloridust"
+    },
+    {
+      "title": "Building a networking switch ASIC chip",
+      "url": "https://essenceia.github.io/projects/expresso/",
+      "published_at": "2026-11-10T01:39:39.567-06:00",
+      "description": "This is part 2, for part 1 see https://essenceia.github.io/projects/ethernet_switch_asic/",
+      "tags": [
+        "hardware"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "florianhartung"
+    },
+    {
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "published_at": "2026-11-10T14:05:10.000Z",
+      "description": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "tags": [
+        "AI",
+        "Adobe",
+        "Adobe Firefly",
+        "photoshop"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Ivan Mehta"
+    },
+    {
+      "title": "Aura&#8217;s newest e-ink photo frame is even better and more affordable than its last",
+      "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
+      "published_at": "2026-11-10T14:00:00.000Z",
+      "description": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
+      "tags": [
+        "Hardware",
+        "Gadgets",
+        "aura",
+        "E Ink",
+        "Eric Jensen"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
     },
     {
       "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
