@@ -61771,3 +61771,1077 @@ HackerNews Discussion
 
 ---
 
+
+
+## 📰 DevTech News — 2026-11-10 9:00 CAT
+
+_Comprehensive update with 10 categories_
+
+---
+
+### 🏷️ AI (75 articles)
+
+#### 1. [Take a Claude Agent SDK agent from install to deploy with Agents CLI](https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680)
+📅 Mon, 09 Nov 2026 13:21:04 GMT
+👤 By: Elia Secchi | 📌 Source: Dev.to
+
+![Take a Claude Agent SDK agent from install to deploy with Agents CLI](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Finstall-to-deploy.C15g2bQ1_2c2tyH.webp)
+
+How the Claude extension in Agents CLI takes a Claude Agent SDK agent from install to a validated Cloud Run deploy, with sessions, tracing and eval set up for you.
+
+🏷️ Tags: `agents`, `ai`, `cli`, `python`
+
+---
+
+#### 2. [Take Claude Code Above Average: Let Antigravity Review It](https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g)
+📅 Mon, 09 Nov 2026 08:18:56 GMT
+👤 By: Daniel Gwerzman | 📌 Source: Dev.to
+
+![Take Claude Code Above Average: Let Antigravity Review It](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxi7u2r8ll1or4mpcr2xe.png)
+
+In November 2026, I spent a day building a small tool with Claude Code: a bridge that lets a second...
+
+🏷️ Tags: `agents`, `ai`, `softwaredevelopment`, `tools`
+
+---
+
+#### 3. [Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B](https://dev.to/gde/six-serving-engines-on-one-cloud-tpu-v5e-chip-gemma-4-e2b-22hn)
+📅 Mon, 09 Nov 2026 16:00:42 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-v5e1%2Fdevto-cover.7c2d5345.jpg)
+
+vLLM, SGLang-JAX, a pure-JAX engine, a Rust model over PJRT, and TorchTPU in Python and Rust serve Gemma 4 E2B on one flex-start v5e-1, with the same prompts, the same 1-to-64-request sweep and the same GSM8K questions. vLLM is the engine that serves out of the box; SGLang-JAX with an E2B patch is the fastest at every load from 8 requests up.
+
+🏷️ Tags: `googlecloud`, `tpu`, `vllm`, `jax`
+
+---
+
+#### 4. [Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)](https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf)
+📅 Mon, 09 Nov 2026 15:10:32 GMT
+👤 By: JimmyLiao | 📌 Source: Dev.to
+
+![Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fjimmyliao%2Fax-playbook%2Fmain%2Fassets%2Fax-playbook-cover-wide.en.png)
+
+What happens when the hardest-working user on your 16GB Mac and multi-cloud Ubuntu Dev-Box is a fleet of 20+ AI coding agents? Real benchmarks and fixes for 8s Chrome 136+ CDP hangs, 12GB APFS ghost clones, WindowServer freezes, and tmux reboot amnesia.
+
+🏷️ Tags: `gemini`, `googlecloud`, `ai`, `devtools`
+
+---
+
+#### 5. [Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e](https://dev.to/gde/porting-gemma-4-e2b-to-sglang-jax-on-one-cloud-tpu-v5e-5e9l)
+📅 Mon, 09 Nov 2026 17:16:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsglangjax-e2b-v5e1%2Fdevto-cover.1cd3c453.jpg)
+
+SGLang-JAX serves the Gemma 4 31B and 26B A4B on TPU and fails to load E2B. A two-file patch adds per-layer embeddings, shared K/V and the double-wide MLP; on one flex-start v5e-1 it then serves 159.9 tokens per second for one request and 4,249.4 at 64, 2.52x vLLM, with GSM8K level with the bf16 JAX engine.
+
+🏷️ Tags: `googlecloud`, `tpu`, `jax`, `gemma`
+
+---
+
+#### 6. [Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals](https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh)
+📅 Sat, 07 Nov 2026 21:34:26 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8y3gkk7ib2778kh57mp.jpg)
+
+Why Andrew 'Red' Brogdon's insight on client-side functions is critical for Generative UI—and how bloc_signals_genui turns catalog functions into 0ms synchronous reactive signals.
+
+🏷️ Tags: `flutter`, `dart`, `ai`, `architecture`
+
+---
+
+#### 7. [Open-weights models: A case (and first step) for Gemma over Gemini for budget & privacy](https://dev.to/gde/open-weights-models-a-case-and-first-step-for-gemma-over-gemini-for-budget-privacy-2gjo)
+📅 Mon, 09 Nov 2026 07:56:20 GMT
+👤 By: Wesley Chun (@wescpy) | 📌 Source: Dev.to
+
+![Open-weights models: A case (and first step) for Gemma over Gemini for budget & privacy](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fawx4oqfg763vut6sacfi.png)
+
+TL;DR:   Gemini is the premier frontier model (family) from Google DeepMind. In the current...
+
+🏷️ Tags: `ai`, `opensource`, `gemini`, `python`
+
+---
+
+#### 8. [Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase](https://dev.to/gde/google-ai-classroom-part-1-solving-the-25-per-exam-problem-architecting-a-sub-002student-fjc)
+📅 Mon, 09 Nov 2026 07:21:59 GMT
+👤 By: Cyrus Wong | 📌 Source: Dev.to
+
+![Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Few0no0kions6muc41fdx.png)
+
+Author: Cyrus Wong (黃俊彥) — Google Developer Expert - Cloud (AI), Senior Lecturer at HKIIT           ...
+
+🏷️ Tags: `ai`, `architecture`, `cloud`, `serverless`
+
+---
+
+#### 9. [Prompt Pad: What Are Open-Weight Models?](https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh)
+📅 Thu, 05 Nov 2026 21:00:19 GMT
+👤 By: MLH Team | 📌 Source: Dev.to
+
+![Prompt Pad: What Are Open-Weight Models?](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdhpbb4fkjfpnq7nocn60.png)
+
+When people call an AI model "open," they don't always mean the same thing.  On this week's Prompt...
+
+🏷️ Tags: `opensource`, `ai`, `beginners`, `codenewbie`
+
+---
+
+#### 10. [Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU](https://dev.to/gde/leveling-the-playing-field-building-a-100-offline-kubernetes-docs-rag-exam-assistant-with-web-ai-53bi)
+📅 Wed, 04 Nov 2026 13:56:06 GMT
+👤 By: Cyrus Wong | 📌 Source: Dev.to
+
+![Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2vofw4x97oncddtys1y7.png)
+
+How to enable fair, zero-cost, air-gapped AI assistance in technical classrooms and...
+
+🏷️ Tags: `webai`, `gemma`, `rag`, `webgpu`
+
+---
+
+### 🏷️ JavaScript (36 articles)
+
+#### 1. [Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals](https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh)
+📅 Sat, 07 Nov 2026 21:34:26 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8y3gkk7ib2778kh57mp.jpg)
+
+Why Andrew 'Red' Brogdon's insight on client-side functions is critical for Generative UI—and how bloc_signals_genui turns catalog functions into 0ms synchronous reactive signals.
+
+🏷️ Tags: `flutter`, `dart`, `ai`, `architecture`
+
+---
+
+#### 2. [From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]](https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg)
+📅 Sun, 01 Nov 2026 13:23:27 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqujte2p4zz2v05hybojq.png)
+
+Day 33: From main.js Leaks to Hidden Tailwind CSS v4 Bloat — How I Built...
+
+🏷️ Tags: `angular`, `antigravity`, `gemini`, `performance`
+
+---
+
+#### 3. [Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)](https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg)
+📅 Wed, 04 Nov 2026 15:23:31 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png)
+
+We now have AuthService for authentication and SignInModalComponent for users to enter their email...
+
+🏷️ Tags: `angular`, `firebase`, `webdev`
+
+---
+
+#### 4. [Yarn – A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+📅 Tue, 11 Oct 2016 15:00:38 GMT
+👤 By: cpojer | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 5. [A spreadsheet in fewer than 30 lines of JavaScript, no library used](http://jsfiddle.net/ondras/hYfN3/)
+📅 Wed, 13 Nov 2013 14:38:18 GMT
+👤 By: ondras | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 6. [Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig](https://bun.sh/?launch)
+📅 Tue, 05 Jul 2022 20:41:53 GMT
+👤 By: firloop | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 7. [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
+📅 Thu, 30 Jan 2025 11:28:31 GMT
+👤 By: SigmundurM | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 8. [Show HN: Meteor, a realtime JavaScript framework](http://www.meteor.com)
+📅 Tue, 10 Apr 2012 22:55:40 GMT
+👤 By: geoffschmidt | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 9. [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+📅 Thu, 07 Mar 2024 13:52:16 GMT
+👤 By: vajdagabor | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 10. [Modern Javascript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
+📅 Sat, 15 May 2021 15:15:57 GMT
+👤 By: EntICOnc | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+### 🏷️ Python (32 articles)
+
+#### 1. [Take a Claude Agent SDK agent from install to deploy with Agents CLI](https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680)
+📅 Mon, 09 Nov 2026 13:21:04 GMT
+👤 By: Elia Secchi | 📌 Source: Dev.to
+
+![Take a Claude Agent SDK agent from install to deploy with Agents CLI](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Finstall-to-deploy.C15g2bQ1_2c2tyH.webp)
+
+How the Claude extension in Agents CLI takes a Claude Agent SDK agent from install to a validated Cloud Run deploy, with sessions, tracing and eval set up for you.
+
+🏷️ Tags: `agents`, `ai`, `cli`, `python`
+
+---
+
+#### 2. [Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B](https://dev.to/gde/six-serving-engines-on-one-cloud-tpu-v5e-chip-gemma-4-e2b-22hn)
+📅 Mon, 09 Nov 2026 16:00:42 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-v5e1%2Fdevto-cover.7c2d5345.jpg)
+
+vLLM, SGLang-JAX, a pure-JAX engine, a Rust model over PJRT, and TorchTPU in Python and Rust serve Gemma 4 E2B on one flex-start v5e-1, with the same prompts, the same 1-to-64-request sweep and the same GSM8K questions. vLLM is the engine that serves out of the box; SGLang-JAX with an E2B patch is the fastest at every load from 8 requests up.
+
+🏷️ Tags: `googlecloud`, `tpu`, `vllm`, `jax`
+
+---
+
+#### 3. [Open-weights models: A case (and first step) for Gemma over Gemini for budget & privacy](https://dev.to/gde/open-weights-models-a-case-and-first-step-for-gemma-over-gemini-for-budget-privacy-2gjo)
+📅 Mon, 09 Nov 2026 07:56:20 GMT
+👤 By: Wesley Chun (@wescpy) | 📌 Source: Dev.to
+
+![Open-weights models: A case (and first step) for Gemma over Gemini for budget & privacy](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fawx4oqfg763vut6sacfi.png)
+
+TL;DR:   Gemini is the premier frontier model (family) from Google DeepMind. In the current...
+
+🏷️ Tags: `ai`, `opensource`, `gemini`, `python`
+
+---
+
+#### 4. [Gemma 4 in Rust on TorchTPU: Hands On With Colab](https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi)
+📅 Mon, 02 Nov 2026 14:52:55 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 in Rust on TorchTPU: Hands On With Colab](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftorchtpu-dev%2Fmain%2Fdocs%2Ftorchtpu-rust%2Fdevto-cover.415eb5a0.jpg)
+
+A Rust crate reads the checkpoint, runs all 35 layers of Gemma 4 E2B and drives the decode loop on one TPU v5e chip in Colab, with every operation a TorchTPU kernel and the same tokens as compiled Python.
+
+🏷️ Tags: `rust`, `pytorch`, `tpu`, `gemma`
+
+---
+
+#### 5. [Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run](https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g)
+📅 Sat, 07 Nov 2026 07:35:33 GMT
+👤 By: Robina Mirbahar | 📌 Source: Dev.to
+
+![Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Frailpulse-gemma-cloudrun%2Fmain%2Fassets%2Frailpulse_banner_v2.jpg)
+
+Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...
+
+🏷️ Tags: `ai`, `googlecloud`, `opensource`, `python`
+
+---
+
+#### 6. [Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM](https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72)
+📅 Wed, 04 Nov 2026 22:49:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fjax-dev%2Fmain%2Farticle%2Fdevto-cover.3c49df33.jpg)
+
+Gemma 4 E2B served three ways on one Cloud TPU v5e chip: a pure-JAX engine in Python, the same graph written in Rust and compiled by the libtpu that JAX loads, and vLLM, all timed by one client. bf16 beats 4-bit in the JAX engine, the Rust engine matches the JAX engine's tokens, and over HTTP it decodes at vLLM's rate with the fastest first token.
+
+🏷️ Tags: `jax`, `tpu`, `gemma`, `rust`
+
+---
+
+#### 7. [RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect](https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k)
+📅 Sun, 01 Nov 2026 19:57:46 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Frackdoc%2Fmain%2Fdocs%2Frackdoc_v1_1_screenshot.png)
+
+A deep dive into everything new in RackDoc DCIM v1.1: a 4-state background Heartbeat engine (Grey/Green/Orange/Red), independent Frontend SSH/HTTP/HTTPS launcher, 48-port switch CAD geometry, NOC Kiosk Mode, Rack Trays, and Active Directory RBAC.
+
+🏷️ Tags: `dcim`, `flutter`, `fastapi`, `docker`
+
+---
+
+#### 8. [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
+📅 Wed, 29 Oct 2025 18:57:29 GMT
+👤 By: todsacerdoti | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 9. [Sunsetting Python 2](https://www.python.org/doc/sunset-python-2/)
+📅 Mon, 09 Sep 2019 06:43:24 GMT
+👤 By: azizsaya | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+#### 10. [Grumpy: Go running Python](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
+📅 Wed, 04 Jan 2017 17:00:39 GMT
+👤 By: trotterdylan | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Python`
+
+---
+
+### 🏷️ DevOps (17 articles)
+
+#### 1. [Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU](https://dev.to/gde/leveling-the-playing-field-building-a-100-offline-kubernetes-docs-rag-exam-assistant-with-web-ai-53bi)
+📅 Wed, 04 Nov 2026 13:56:06 GMT
+👤 By: Cyrus Wong | 📌 Source: Dev.to
+
+![Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2vofw4x97oncddtys1y7.png)
+
+How to enable fair, zero-cost, air-gapped AI assistance in technical classrooms and...
+
+🏷️ Tags: `webai`, `gemma`, `rag`, `webgpu`
+
+---
+
+#### 2. [Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox](https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b)
+📅 Fri, 06 Nov 2026 16:34:18 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqk83614v6vodxh1desyb.png)
+
+Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...
+
+🏷️ Tags: `ai`, `googlecloud`, `kubernetes`
+
+---
+
+#### 3. [Trust No Pipeline: Why Attackers Stopped Hacking Your Cluster and Started Riding Your CI/CD (And How to Stop Them on Google Cloud)](https://dev.to/gde/trust-no-pipeline-why-attackers-stopped-hacking-your-cluster-and-started-riding-your-cicd-and-2m74)
+📅 Sat, 07 Nov 2026 10:00:52 GMT
+👤 By: Çalgan Aygün | 📌 Source: Dev.to
+
+![Trust No Pipeline: Why Attackers Stopped Hacking Your Cluster and Started Riding Your CI/CD (And How to Stop Them on Google Cloud)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvae5gm8oi8t04nlytfap.jpg)
+
+Sourced from: my talk "Trust No Pipeline: Securing Software Delivery &amp; Workload Identity in the...
+
+🏷️ Tags: `kubernetes`, `security`, `devops`, `cicd`
+
+---
+
+#### 4. [RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect](https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k)
+📅 Sun, 01 Nov 2026 19:57:46 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Frackdoc%2Fmain%2Fdocs%2Frackdoc_v1_1_screenshot.png)
+
+A deep dive into everything new in RackDoc DCIM v1.1: a 4-state background Heartbeat engine (Grey/Green/Orange/Red), independent Frontend SSH/HTTP/HTTPS launcher, 48-port switch CAD geometry, NOC Kiosk Mode, Rack Trays, and Active Directory RBAC.
+
+🏷️ Tags: `dcim`, `flutter`, `fastapi`, `docker`
+
+---
+
+#### 5. [Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry](https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig)
+📅 Sun, 01 Nov 2026 19:01:20 GMT
+👤 By: Karthigayan Devan | 📌 Source: Dev.to
+
+![Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmsiafz9fl8c4y4ife411.jpg)
+
+The incident that never shows up in your deploy log   Here is a scenario that's easy to...
+
+🏷️ Tags: `googlecloud`, `ai`, `agents`, `devops`
+
+---
+
+#### 6. [[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli](https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa)
+📅 Sun, 25 Oct 2026 10:05:18 GMT
+👤 By: Evan Lin | 📌 Source: Dev.to
+
+![[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv2t6rjorp8m7bmqbf03q.png)
+
+Recap: The Five-Stage Evolution from Local Prototype to Cloud Production-Grade AI...
+
+🏷️ Tags: `ai`, `cloud`, `devops`, `go`
+
+---
+
+#### 7. [The Big DevOps Misunderstanding](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd)
+📅 Sun, 19 Dec 2021 20:07:33 GMT
+👤 By: WolfOliver | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 8. [Knightmare: A DevOps Cautionary Tale (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+📅 Sun, 10 Sep 2023 20:07:12 GMT
+👤 By: sathishmanohar | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 9. [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+📅 Fri, 16 Jun 2023 10:00:42 GMT
+👤 By: dijit | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 10. [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?](https://news.ycombinator.com/item?id=31580763)
+📅 Wed, 01 Jun 2022 12:19:43 GMT
+👤 By: picozeta | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+### 🏷️ WebDev (11 articles)
+
+#### 1. [From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]](https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg)
+📅 Sun, 01 Nov 2026 13:23:27 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqujte2p4zz2v05hybojq.png)
+
+Day 33: From main.js Leaks to Hidden Tailwind CSS v4 Bloat — How I Built...
+
+🏷️ Tags: `angular`, `antigravity`, `gemini`, `performance`
+
+---
+
+#### 2. [RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect](https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k)
+📅 Sun, 01 Nov 2026 19:57:46 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Frackdoc%2Fmain%2Fdocs%2Frackdoc_v1_1_screenshot.png)
+
+A deep dive into everything new in RackDoc DCIM v1.1: a 4-state background Heartbeat engine (Grey/Green/Orange/Red), independent Frontend SSH/HTTP/HTTPS launcher, 48-port switch CAD geometry, NOC Kiosk Mode, Rack Trays, and Active Directory RBAC.
+
+🏷️ Tags: `dcim`, `flutter`, `fastapi`, `docker`
+
+---
+
+#### 3. [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+📅 Thu, 02 Apr 2020 12:29:04 GMT
+👤 By: velmu | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `JavaScript`
+
+---
+
+#### 4. [I was wrong about dark mode](https://dbushell.com/2026/11/09/dark-mode/)
+📅 Mon, 09 Nov 2026 16:54:03 GMT
+👤 By: loige | 📌 Source: Lobste.rs
+
+Lobste.rs Discussion
+
+🏷️ Tags: `css`, `design`, `web`
+
+---
+
+#### 5. [How to set button in the middle of the screen in JS](https://stackoverflow.com/questions/80015618/how-to-set-button-in-the-middle-of-the-screen-in-js)
+📅 Mon, 09 Nov 2026 10:04:20 GMT
+👤 By: бобик | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score -9
+
+🏷️ Tags: `javascript`, `html`, `css`
+
+---
+
+#### 6. [Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?](https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele)
+📅 Sun, 01 Nov 2026 04:11:32 GMT
+👤 By: mith sams | 📌 Source: StackOverflow
+
+Stack Overflow question · 2 answers · score 3
+
+🏷️ Tags: `javascript`, `html`, `dom-events`
+
+---
+
+#### 7. [How to reset an HTML element to its first/initial value in JavaScript?](https://stackoverflow.com/questions/79820285/how-to-reset-an-html-element-to-its-first-initial-value-in-javascript)
+📅 Fri, 14 Nov 2025 17:11:16 GMT
+👤 By: Milichip | 📌 Source: StackOverflow
+
+Stack Overflow question · 4 answers · score 0
+
+🏷️ Tags: `javascript`, `html`, `css`
+
+---
+
+#### 8. [Looking for advice to achieve my website goals](https://stackoverflow.com/questions/79817326/looking-for-advice-to-achieve-my-website-goals)
+📅 Wed, 12 Nov 2025 03:57:33 GMT
+👤 By: Isaac | 📌 Source: StackOverflow
+
+Stack Overflow question · 2 answers · score -3
+
+🏷️ Tags: `javascript`, `html`, `css`, `advice`
+
+---
+
+#### 9. [How to Build a PDF Storyboard Generator Using JavaScript](https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/)
+📅 Fri, 06 Nov 2026 19:41:34 GMT
+👤 By: Bhavin Sheth | 📌 Source: freeCodeCamp
+
+PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so
+
+🏷️ Tags: `JavaScript`, `pdf`, `Web Development`
+
+---
+
+#### 10. [How to Find and Fix Common Technical SEO Issues on Your Website](https://www.freecodecamp.org/news/fix-common-technical-seo-issues/)
+📅 Tue, 03 Nov 2026 19:00:29 GMT
+👤 By: Saar Twito | 📌 Source: freeCodeCamp
+
+Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan
+
+🏷️ Tags: `SEO`, `Web Development`, `Beginner Developers`
+
+---
+
+### 🏷️ Mobile (8 articles)
+
+#### 1. [Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals](https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh)
+📅 Sat, 07 Nov 2026 21:34:26 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8y3gkk7ib2778kh57mp.jpg)
+
+Why Andrew 'Red' Brogdon's insight on client-side functions is critical for Generative UI—and how bloc_signals_genui turns catalog functions into 0ms synchronous reactive signals.
+
+🏷️ Tags: `flutter`, `dart`, `ai`, `architecture`
+
+---
+
+#### 2. [Mobile Data on Android 17 and a 4.9 Kernel: Google Fi on the Pixel 3a](https://dev.to/gde/mobile-data-on-android-17-and-a-49-kernel-google-fi-on-the-pixel-3a-4cdc)
+📅 Sun, 08 Nov 2026 19:52:14 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Mobile Data on Android 17 and a 4.9 Kernel: Google Fi on the Pixel 3a](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fandroid_kernel_google_msm-4.9%2Fmain%2Fbackport-tools%2Flineage-24.0%2Farticle-mobile-data%2Fdevto-cover.eca0f5c3.jpg)
+
+LineageOS 24.0 on the Pixel 3a gets mobile data from a Google Fi data-only SIM after four fixes: mobile data on by default, a Fi APN, VoLTE in the carrier settings and a close_range() backport for IPv4. Each one traced from the radio log.
+
+🏷️ Tags: `android`, `linux`, `lineageos`, `networking`
+
+---
+
+#### 3. [RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect](https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k)
+📅 Sun, 01 Nov 2026 19:57:46 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Frackdoc%2Fmain%2Fdocs%2Frackdoc_v1_1_screenshot.png)
+
+A deep dive into everything new in RackDoc DCIM v1.1: a 4-state background Heartbeat engine (Grey/Green/Orange/Red), independent Frontend SSH/HTTP/HTTPS launcher, 48-port switch CAD geometry, NOC Kiosk Mode, Rack Trays, and Active Directory RBAC.
+
+🏷️ Tags: `dcim`, `flutter`, `fastapi`, `docker`
+
+---
+
+#### 4. [Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a](https://dev.to/gde/android-17-on-a-49-kernel-lineageos-240-on-the-pixel-3a-1mok)
+📅 Thu, 05 Nov 2026 16:37:16 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fandroid_kernel_google_msm-4.9%2Fmain%2Fbackport-tools%2Flineage-24.0%2Farticle%2Fdevto-cover.e89cf62e.jpg)
+
+The Pixel 3a runs LineageOS 24.0, Android 17, on its original 4.9 kernel with SELinux enforcing and Google apps. One kernel fix, five platform forks and a set of device-tree changes, each traced to a line of a boot log.
+
+🏷️ Tags: `android`, `linux`, `kernel`, `lineageos`
+
+---
+
+#### 5. [riyadhHDA/wichforks - Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.](https://github.com/riyadhHDA/wichforks)
+📅 Thu, 05 Nov 2026 14:47:29 GMT
+👤 By: riyadhHDA | 📌 Source: GitHub
+
+![riyadhHDA/wichforks - Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.](https://avatars.githubusercontent.com/u/25872060?v=4)
+
+Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.
+
+🏷️ Tags: `python`, `github`, `open-source`
+
+⭐ Stars: 546
+
+---
+
+#### 6. [React Native Skia on RN 0.81+ with New Architecture causes massive build time, huge build size, and poor performance](https://stackoverflow.com/questions/79876017/react-native-skia-on-rn-0-81-with-new-architecture-causes-massive-build-time-h)
+📅 Mon, 26 Jan 2026 00:59:35 GMT
+👤 By: Ali Khattak | 📌 Source: StackOverflow
+
+Stack Overflow question · 2 answers · score 1
+
+🏷️ Tags: `javascript`, `android`, `react-native`, `react-native-skia`, `new-architecture`
+
+---
+
+#### 7. [How to Use shadcn/ui in React Native Applications [Full Handbook]](https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/)
+📅 Thu, 05 Nov 2026 17:16:30 GMT
+👤 By: Ajay Patel | 📌 Source: freeCodeCamp
+
+If you've built a couple of React Native apps, the following probably feels familiar. You start with a colors.ts file and a simple Button component. Everything looks fine at first. Then the design cha
+
+🏷️ Tags: `shadcn`, `shadcn ui`, `React Native`, `handbook`
+
+---
+
+#### 8. [How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide](https://www.freecodecamp.org/news/freelance-developer-design-studios/)
+📅 Tue, 03 Nov 2026 16:49:36 GMT
+👤 By: Reetain Raina | 📌 Source: freeCodeCamp
+
+Let's say a design studio gets a new client project. The branding is ready, the wireframes are approved, the Figma file is polished, and every screen looks pretty much perfect. Then the developer join
+
+🏷️ Tags: `Freelance Development`, `Web Development`, `Ui/Ux Design`, `Software Engineering`, `Collaboration`
+
+---
+
+### 🏷️ Cloud (14 articles)
+
+#### 1. [Take a Claude Agent SDK agent from install to deploy with Agents CLI](https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680)
+📅 Mon, 09 Nov 2026 13:21:04 GMT
+👤 By: Elia Secchi | 📌 Source: Dev.to
+
+![Take a Claude Agent SDK agent from install to deploy with Agents CLI](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Finstall-to-deploy.C15g2bQ1_2c2tyH.webp)
+
+How the Claude extension in Agents CLI takes a Claude Agent SDK agent from install to a validated Cloud Run deploy, with sessions, tracing and eval set up for you.
+
+🏷️ Tags: `agents`, `ai`, `cli`, `python`
+
+---
+
+#### 2. [Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B](https://dev.to/gde/six-serving-engines-on-one-cloud-tpu-v5e-chip-gemma-4-e2b-22hn)
+📅 Mon, 09 Nov 2026 16:00:42 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-v5e1%2Fdevto-cover.7c2d5345.jpg)
+
+vLLM, SGLang-JAX, a pure-JAX engine, a Rust model over PJRT, and TorchTPU in Python and Rust serve Gemma 4 E2B on one flex-start v5e-1, with the same prompts, the same 1-to-64-request sweep and the same GSM8K questions. vLLM is the engine that serves out of the box; SGLang-JAX with an E2B patch is the fastest at every load from 8 requests up.
+
+🏷️ Tags: `googlecloud`, `tpu`, `vllm`, `jax`
+
+---
+
+#### 3. [Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)](https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf)
+📅 Mon, 09 Nov 2026 15:10:32 GMT
+👤 By: JimmyLiao | 📌 Source: Dev.to
+
+![Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fjimmyliao%2Fax-playbook%2Fmain%2Fassets%2Fax-playbook-cover-wide.en.png)
+
+What happens when the hardest-working user on your 16GB Mac and multi-cloud Ubuntu Dev-Box is a fleet of 20+ AI coding agents? Real benchmarks and fixes for 8s Chrome 136+ CDP hangs, 12GB APFS ghost clones, WindowServer freezes, and tmux reboot amnesia.
+
+🏷️ Tags: `gemini`, `googlecloud`, `ai`, `devtools`
+
+---
+
+#### 4. [Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e](https://dev.to/gde/porting-gemma-4-e2b-to-sglang-jax-on-one-cloud-tpu-v5e-5e9l)
+📅 Mon, 09 Nov 2026 17:16:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsglangjax-e2b-v5e1%2Fdevto-cover.1cd3c453.jpg)
+
+SGLang-JAX serves the Gemma 4 31B and 26B A4B on TPU and fails to load E2B. A two-file patch adds per-layer embeddings, shared K/V and the double-wide MLP; on one flex-start v5e-1 it then serves 159.9 tokens per second for one request and 4,249.4 at 64, 2.52x vLLM, with GSM8K level with the bf16 JAX engine.
+
+🏷️ Tags: `googlecloud`, `tpu`, `jax`, `gemma`
+
+---
+
+#### 5. [Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase](https://dev.to/gde/google-ai-classroom-part-1-solving-the-25-per-exam-problem-architecting-a-sub-002student-fjc)
+📅 Mon, 09 Nov 2026 07:21:59 GMT
+👤 By: Cyrus Wong | 📌 Source: Dev.to
+
+![Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Few0no0kions6muc41fdx.png)
+
+Author: Cyrus Wong (黃俊彥) — Google Developer Expert - Cloud (AI), Senior Lecturer at HKIIT           ...
+
+🏷️ Tags: `ai`, `architecture`, `cloud`, `serverless`
+
+---
+
+#### 6. [Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox](https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b)
+📅 Fri, 06 Nov 2026 16:34:18 GMT
+👤 By: Saurabh Mishra | 📌 Source: Dev.to
+
+![Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqk83614v6vodxh1desyb.png)
+
+Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...
+
+🏷️ Tags: `ai`, `googlecloud`, `kubernetes`
+
+---
+
+#### 7. [Let's see where you code!](https://dev.to/maame-codes/lets-see-where-you-code-147)
+📅 Tue, 03 Nov 2026 20:18:40 GMT
+👤 By: Maame Afua A. P. Fordjour  | 📌 Source: Dev.to
+
+![Let's see where you code!](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8w7rf58mqbwxnvnh2bqp.jpg)
+
+I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...
+
+🏷️ Tags: `watercooler`, `discuss`
+
+---
+
+#### 8. [Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run](https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g)
+📅 Sat, 07 Nov 2026 07:35:33 GMT
+👤 By: Robina Mirbahar | 📌 Source: Dev.to
+
+![Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Frailpulse-gemma-cloudrun%2Fmain%2Fassets%2Frailpulse_banner_v2.jpg)
+
+Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...
+
+🏷️ Tags: `ai`, `googlecloud`, `opensource`, `python`
+
+---
+
+#### 9. [Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM](https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72)
+📅 Wed, 04 Nov 2026 22:49:08 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fjax-dev%2Fmain%2Farticle%2Fdevto-cover.3c49df33.jpg)
+
+Gemma 4 E2B served three ways on one Cloud TPU v5e chip: a pure-JAX engine in Python, the same graph written in Rust and compiled by the libtpu that JAX loads, and vLLM, all timed by one client. bf16 beats 4-bit in the JAX engine, the Rust engine matches the JAX engine's tokens, and over HTTP it decodes at vLLM's rate with the fastest first token.
+
+🏷️ Tags: `jax`, `tpu`, `gemma`, `rust`
+
+---
+
+#### 10. [How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness](https://dev.to/gde/how-i-made-a-voice-clone-in-minutes-using-google-antigravity-gemini-38-flash-tts-and-my-harness-10j3)
+📅 Sun, 08 Nov 2026 11:56:59 GMT
+👤 By: Darren "Dazbo" Lester | 📌 Source: Dev.to
+
+![How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foo84zc93up8vufknil0z.png)
+
+How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness
+
+🏷️ Tags: `googlecloud`, `agenticai`, `voicecloning`, `gemini`
+
+---
+
+### 🏷️ Database (5 articles)
+
+#### 1. [Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath](https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02)
+📅 Fri, 16 Oct 2026 05:36:01 GMT
+👤 By: Mario Ezquerro | 📌 Source: Dev.to
+
+![Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj97kx6j7qepsx21z63a4.jpg)
+
+How I pair-programmed with Google Antigravity powered by Gemini 4 Argon to build a zero-dependency Go TUI and OpenTelemetry/Prometheus observability stack for Oracle Databases and Linux SAN storage.
+
+🏷️ Tags: `oracle`, `go`, `opentelemetry`, `ai`
+
+---
+
+#### 2. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 3. [Why does MilvusClient.query() fail with VECTOR_FLOAT when sorting by a scalar ID?](https://stackoverflow.com/questions/80015769/why-does-milvusclient-query-fail-with-vector-float-when-sorting-by-a-scalar-id)
+📅 Tue, 10 Nov 2026 07:08:09 GMT
+👤 By: Cubkm Ewaybk | 📌 Source: StackOverflow
+
+Stack Overflow question · 0 answers · score 0
+
+🏷️ Tags: `python`, `java`, `database`, `vector`, `milvus`
+
+---
+
+#### 4. [Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB](https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/)
+📅 Tue, 03 Nov 2026 16:07:38 GMT
+👤 By: Beau Carnes | 📌 Source: freeCodeCamp
+
+A vector database stores data as lists of numbers called embeddings, which lets it search by meaning instead of matching exact keywords. It's the piece behind a lot of recommendation systems, RAG apps
+
+🏷️ Tags: `vector database`, `youtube`
+
+---
+
+#### 5. [How to Detect Financial Fraud Patterns
+with Knowledge Graphs: A Production
+Guide](https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/)
+📅 Fri, 30 Oct 2026 13:57:52 GMT
+👤 By: Kamal Kishore | 📌 Source: freeCodeCamp
+
+Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet
+
+🏷️ Tags: `knowledge graph`, `finance`, `graph database`
+
+---
+
+### 🏷️ Security (19 articles)
+
+#### 1. [Trust No Pipeline: Why Attackers Stopped Hacking Your Cluster and Started Riding Your CI/CD (And How to Stop Them on Google Cloud)](https://dev.to/gde/trust-no-pipeline-why-attackers-stopped-hacking-your-cluster-and-started-riding-your-cicd-and-2m74)
+📅 Sat, 07 Nov 2026 10:00:52 GMT
+👤 By: Çalgan Aygün | 📌 Source: Dev.to
+
+![Trust No Pipeline: Why Attackers Stopped Hacking Your Cluster and Started Riding Your CI/CD (And How to Stop Them on Google Cloud)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvae5gm8oi8t04nlytfap.jpg)
+
+Sourced from: my talk "Trust No Pipeline: Securing Software Delivery &amp; Workload Identity in the...
+
+🏷️ Tags: `kubernetes`, `security`, `devops`, `cicd`
+
+---
+
+#### 2. [Thank you to everyone who pointed out the phishing posts we got yesterday. We're working on improved mechanisms to automatically reject those types of attacks.](https://dev.to/ben/thank-you-to-everyone-who-pointed-out-the-phishing-posts-we-got-yesterday-were-working-on-1h9b)
+📅 Thu, 05 Nov 2026 15:25:46 GMT
+👤 By: Ben Halpern | 📌 Source: Dev.to
+
+![Thank you to everyone who pointed out the phishing posts we got yesterday. We're working on improved mechanisms to automatically reject those types of attacks.](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fadovympzvepx45pvuw9m.png)
+
+A post by Ben Halpern
+
+🏷️ Tags: `cybersecurity`, `infosec`, `security`
+
+---
+
+#### 3. [Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)](https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg)
+📅 Wed, 04 Nov 2026 15:23:31 GMT
+👤 By: Connie Leung | 📌 Source: Dev.to
+
+![Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png)
+
+We now have AuthService for authentication and SignInModalComponent for users to enter their email...
+
+🏷️ Tags: `angular`, `firebase`, `webdev`
+
+---
+
+#### 4. [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+📅 Thu, 29 Aug 2024 15:53:08 GMT
+👤 By: iancarroll | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 5. [LastPass says DevOps engineer’s hacked computer led to security breach in 2022](https://9to5mac.com/2023/02/27/lastpass-devops-engineers-hacked/)
+📅 Tue, 28 Feb 2023 03:21:53 GMT
+👤 By: mikece | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+
+#### 6. [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+📅 Tue, 05 Sep 2023 15:07:21 GMT
+👤 By: SimingtonFCC | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 7. [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+📅 Mon, 24 Mar 2025 16:23:55 GMT
+👤 By: _tk_ | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 8. [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+📅 Fri, 21 Feb 2025 15:05:24 GMT
+👤 By: helsinkiandrew | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 9. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+📅 Tue, 21 Jul 2026 20:09:52 GMT
+👤 By: mfiguiere | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+#### 10. [Security advisory: Critical remote code execution vulnerabilities, update now](https://www.php.net/archive/2026.php#2026-10-21-5)
+📅 Tue, 20 Oct 2026 20:15:50 GMT
+👤 By: xd | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `Security`
+
+---
+
+### 🏷️ Tools (39 articles)
+
+#### 1. [Take Claude Code Above Average: Let Antigravity Review It](https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g)
+📅 Mon, 09 Nov 2026 08:18:56 GMT
+👤 By: Daniel Gwerzman | 📌 Source: Dev.to
+
+![Take Claude Code Above Average: Let Antigravity Review It](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxi7u2r8ll1or4mpcr2xe.png)
+
+In November 2026, I spent a day building a small tool with Claude Code: a bridge that lets a second...
+
+🏷️ Tags: `agents`, `ai`, `softwaredevelopment`, `tools`
+
+---
+
+#### 2. [Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)](https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf)
+📅 Mon, 09 Nov 2026 15:10:32 GMT
+👤 By: JimmyLiao | 📌 Source: Dev.to
+
+![Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fjimmyliao%2Fax-playbook%2Fmain%2Fassets%2Fax-playbook-cover-wide.en.png)
+
+What happens when the hardest-working user on your 16GB Mac and multi-cloud Ubuntu Dev-Box is a fleet of 20+ AI coding agents? Real benchmarks and fixes for 8s Chrome 136+ CDP hangs, 12GB APFS ghost clones, WindowServer freezes, and tmux reboot amnesia.
+
+🏷️ Tags: `gemini`, `googlecloud`, `ai`, `devtools`
+
+---
+
+#### 3. [Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code](https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl)
+📅 Fri, 06 Nov 2026 23:51:03 GMT
+👤 By: Randal L. Schwartz | 📌 Source: Dev.to
+
+![Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmc7bd0mpw7k0aq4vsqj4.jpg)
+
+Why does standard AI code generation try to jump straight to 'Have' without the proper 'Be'? How ladder rungs, the 'Null-State' couch flash, and stand-up comedy explain what separates senior engineers from junior token streamers.
+
+🏷️ Tags: `ai`, `programming`, `architecture`, `productivity`
+
+---
+
+#### 4. [Who is building solutions with documents?](https://dev.to/missamarakay/who-is-building-solutions-for-documents-4d58)
+📅 Thu, 05 Nov 2026 21:23:07 GMT
+👤 By: Amara Graham | 📌 Source: Dev.to
+
+![Who is building solutions with documents?](https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr12kj04591zg8ft1tfka.png)
+
+Digital transformation, anyone? 
+
+🏷️ Tags: `discuss`
+
+---
+
+#### 5. [Find the production agent failures that every health check misses](https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8)
+📅 Thu, 05 Nov 2026 15:46:25 GMT
+👤 By: Elia Secchi | 📌 Source: Dev.to
+
+![Find the production agent failures that every health check misses](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fquality-curve.6xHWd_CO_2kumlD.webp)
+
+AQuA is an open-source quality agent that surfaces the production failures your health checks miss and, when you ask, traces a failure to the line of code behind it. Try its dashboard locally.
+
+🏷️ Tags: `agents`, `ai`, `debugging`, `testing`
+
+---
+
+#### 6. [Profile Sprawl: Solving a Problem You Didn't Know You Had](https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5)
+📅 Sun, 01 Nov 2026 14:35:26 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Profile Sprawl: Solving a Problem You Didn't Know You Had](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fprofile-sync%2Fmain%2Farticles%2Fprofile-sprawl%2Fcover.b434d7ab.jpg)
+
+Every public profile you own says something slightly different about you. A step by step guide to treating your bio as source code, with one file, one tracker and an agent skill that checks the live sites.
+
+🏷️ Tags: `ai`, `devtools`, `productivity`, `opensource`
+
+---
+
+#### 7. [Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run](https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g)
+📅 Sat, 07 Nov 2026 07:35:33 GMT
+👤 By: Robina Mirbahar | 📌 Source: Dev.to
+
+![Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Frailpulse-gemma-cloudrun%2Fmain%2Fassets%2Frailpulse_banner_v2.jpg)
+
+Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...
+
+🏷️ Tags: `ai`, `googlecloud`, `opensource`, `python`
+
+---
+
+#### 8. [How to Build Your Own Google Antigravity Plugin: Packaging Skills, MCP Servers, Subagents, Rules, and Hooks](https://dev.to/gde/how-to-build-your-own-google-antigravity-plugin-packaging-skills-mcp-servers-subagents-rules-23p9)
+📅 Tue, 03 Nov 2026 15:24:30 GMT
+👤 By: Carlos Barbero | 📌 Source: Dev.to
+
+![How to Build Your Own Google Antigravity Plugin: Packaging Skills, MCP Servers, Subagents, Rules, and Hooks](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzxqoxai889zaalm2asa7.png)
+
+A practical, step-by-step engineering guide to packaging team workflows, MCP tools, custom agents, and deterministic guardrails into a single versioned Antigravity plugin.
+
+🏷️ Tags: `antigravity`, `ai`, `googlecloud`, `devtools`
+
+---
+
+#### 9. [Agent Skills Drift: A Feedback Loop for Keeping One True](https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7)
+📅 Sat, 31 Oct 2026 23:02:02 GMT
+👤 By: xbill | 📌 Source: Dev.to
+
+![Agent Skills Drift: A Feedback Loop for Keeping One True](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fpublishing-kit%2Fmain%2Farticles%2Fskill-drift%2Fcover.0c041943.jpg)
+
+An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.
+
+🏷️ Tags: `ai`, `devtools`, `productivity`, `opensource`
+
+---
+
+#### 10. [Nix is the ultimate DevOps toolkit](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html)
+📅 Fri, 09 Apr 2021 10:20:33 GMT
+👤 By: rkrzr | 📌 Source: HackerNews
+
+HackerNews Discussion
+
+🏷️ Tags: `DevOps`
+
+---
+

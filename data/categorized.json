@@ -1,21 +1,6 @@
 {
   "AI": [
     {
-      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
-      "published_at": "2026-11-05T21:12:11Z",
-      "description": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
-      "tags": [
-        "devchallenge",
-        "kagglechallenge",
-        "ai",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fig8gi4bw1h7vk0z76krk.png",
-      "source": "Dev.to",
-      "user": "Jem"
-    },
-    {
       "title": "Take a Claude Agent SDK agent from install to deploy with Agents CLI",
       "url": "https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680",
       "published_at": "2026-11-09T13:21:04Z",
@@ -61,21 +46,6 @@
       "user": "xbill"
     },
     {
-      "title": "Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e",
-      "url": "https://dev.to/gde/porting-gemma-4-e2b-to-sglang-jax-on-one-cloud-tpu-v5e-5e9l",
-      "published_at": "2026-11-09T17:16:08Z",
-      "description": "SGLang-JAX serves the Gemma 4 31B and 26B A4B on TPU and fails to load E2B. A two-file patch adds per-layer embeddings, shared K/V and the double-wide MLP; on one flex-start v5e-1 it then serves 159.9 tokens per second for one request and 4,249.4 at 64, 2.52x vLLM, with GSM8K level with the bf16 JAX engine.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "jax",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsglangjax-e2b-v5e1%2Fdevto-cover.1cd3c453.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)",
       "url": "https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf",
       "published_at": "2026-11-09T15:10:32Z",
@@ -91,19 +61,34 @@
       "user": "JimmyLiao"
     },
     {
-      "title": "Six Serving Engines, One 8 GB GPU: Gemma 4 E2B on an RTX 3050",
-      "url": "https://dev.to/gde/six-serving-engines-one-8-gb-gpu-gemma-4-e2b-on-an-rtx-3050-ad7",
-      "published_at": "2026-11-08T19:08:37Z",
-      "description": "llama.cpp, vLLM, SGLang, mistral.rs, a plain PyTorch engine and LiteRT-LM serve the same 4-bit Gemma 4 E2B on one 8 GB RTX 3050, measured with the same prompts, the same load sweep and the same GSM8K and BFCL questions. GSM8K is level on every engine; vLLM is the fastest up to 16 requests and within 3% of SGLang beyond.",
+      "title": "Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e",
+      "url": "https://dev.to/gde/porting-gemma-4-e2b-to-sglang-jax-on-one-cloud-tpu-v5e-5e9l",
+      "published_at": "2026-11-09T17:16:08Z",
+      "description": "SGLang-JAX serves the Gemma 4 31B and 26B A4B on TPU and fails to load E2B. A two-file patch adds per-layer embeddings, shared K/V and the double-wide MLP; on one flex-start v5e-1 it then serves 159.9 tokens per second for one request and 4,249.4 at 64, 2.52x vLLM, with GSM8K level with the bf16 JAX engine.",
       "tags": [
-        "gemma",
-        "vllm",
-        "llamacpp",
-        "nvidia"
+        "googlecloud",
+        "tpu",
+        "jax",
+        "gemma"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-3050%2Fdevto-cover.91723b8d.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsglangjax-e2b-v5e1%2Fdevto-cover.1cd3c453.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
+      "url": "https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh",
+      "published_at": "2026-11-07T21:34:26Z",
+      "description": "Why Andrew 'Red' Brogdon's insight on client-side functions is critical for Generative UI—and how bloc_signals_genui turns catalog functions into 0ms synchronous reactive signals.",
+      "tags": [
+        "flutter",
+        "dart",
+        "ai",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8y3gkk7ib2778kh57mp.jpg",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "Open-weights models: A case (and first step) for Gemma over Gemini for budget & privacy",
@@ -240,19 +225,19 @@
       "user": "Elia Secchi"
     },
     {
-      "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
-      "url": "https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh",
-      "published_at": "2026-11-07T21:34:26Z",
-      "description": "Why Andrew 'Red' Brogdon's insight on client-side functions is critical for Generative UI—and how bloc_signals_genui turns catalog functions into 0ms synchronous reactive signals.",
+      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
+      "published_at": "2026-11-05T21:12:11Z",
+      "description": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
       "tags": [
-        "flutter",
-        "dart",
+        "devchallenge",
+        "kagglechallenge",
         "ai",
-        "architecture"
+        "machinelearning"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8y3gkk7ib2778kh57mp.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fig8gi4bw1h7vk0z76krk.png",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": "Jem"
     },
     {
       "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
@@ -268,6 +253,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk4s78yb3dgm2xz85byoo.png",
       "source": "Dev.to",
       "user": "MLH Team"
+    },
+    {
+      "title": "Six Serving Engines, One 8 GB GPU: Gemma 4 E2B on an RTX 3050",
+      "url": "https://dev.to/gde/six-serving-engines-one-8-gb-gpu-gemma-4-e2b-on-an-rtx-3050-ad7",
+      "published_at": "2026-11-08T19:08:37Z",
+      "description": "llama.cpp, vLLM, SGLang, mistral.rs, a plain PyTorch engine and LiteRT-LM serve the same 4-bit Gemma 4 E2B on one 8 GB RTX 3050, measured with the same prompts, the same load sweep and the same GSM8K and BFCL questions. GSM8K is level on every engine; vLLM is the fastest up to 16 requests and within 3% of SGLang beyond.",
+      "tags": [
+        "gemma",
+        "vllm",
+        "llamacpp",
+        "nvidia"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-3050%2Fdevto-cover.91723b8d.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
@@ -778,7 +778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 1427,
+      "stars": 1542,
       "user": "DIYgod"
     },
     {
@@ -793,7 +793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 504,
       "user": "devvmhq"
     },
     {
@@ -808,7 +808,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26252739?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 429,
       "user": "TooonyChen"
     },
     {
@@ -823,23 +823,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 704,
       "user": "AtomIllusionistDwell"
-    },
-    {
-      "title": "Mymedspharmacy/phantom-blade-zero-trainer - Phantom Blade Zero Trainer 2026: God Mode, One-Hit Kill, start All Weapons",
-      "url": "https://github.com/Mymedspharmacy/phantom-blade-zero-trainer",
-      "published_at": "2026-11-06T21:18:15Z",
-      "description": "Phantom Blade Zero Trainer 2026: God Mode, One-Hit Kill, start All Weapons",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222505887?v=4",
-      "source": "GitHub",
-      "stars": 479,
-      "user": "Mymedspharmacy"
     },
     {
       "title": "DEEIX-AI/Winc - Winc is built with Rust and its own rendering engine: it starts in 0.1 seconds and uses just 52 MB of memory with 100,000 lines open. Multiple cursors, find and replace, and side-by-side diffs are all there, and every keystroke and scroll responds instantly.",
@@ -853,7 +838,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 350,
       "user": "DEEIX-AI"
     },
     {
@@ -867,6 +852,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "robalex"
+    },
+    {
+      "title": "Why does MilvusClient.query() fail with VECTOR_FLOAT when sorting by a scalar ID?",
+      "url": "https://stackoverflow.com/questions/80015769/why-does-milvusclient-query-fail-with-vector-float-when-sorting-by-a-scalar-id",
+      "published_at": "2026-11-10T07:08:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "java",
+        "database",
+        "vector",
+        "milvus"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cubkm Ewaybk"
     },
     {
       "title": "How to remove a body/shape/constraint from pymunk space without exceptions",
@@ -885,7 +886,7 @@
       "title": "`except` doesn’t catch my custom exception raised inside `InterpreterPoolExecutor` (Python 3.14)",
       "url": "https://stackoverflow.com/questions/80015414/except-doesn-t-catch-my-custom-exception-raised-inside-interpreterpoolexecuto",
       "published_at": "2026-11-07T23:58:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 2 answers · score -1",
       "tags": [
         "python",
         "exception",
@@ -909,6 +910,63 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "mascai"
+    },
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "published_at": "2026-11-10T07:00:00.000Z",
+      "description": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "tags": [
+        "AI",
+        "otter ai"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lauren Forristal"
+    },
+    {
+      "title": "California&#8217;s proposed &#8216;billionaire tax&#8217; fails to pass",
+      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "published_at": "2026-11-10T05:18:43.000Z",
+      "description": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents ",
+      "tags": [
+        "Government & Policy",
+        "billionaires",
+        "election"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "Jensen Huang&#8217;s alleged honeypot scandal has inspired some top-notch memes",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "published_at": "2026-11-10T04:34:15.000Z",
+      "description": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+      "tags": [
+        "Media & Entertainment",
+        "nvidia",
+        "AI"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Dominic-Madori Davis, Lucas Ropek"
+    },
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "published_at": "2026-11-10T01:27:12.000Z",
+      "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "tags": [
+        "AI",
+        "IPO",
+        "valuation",
+        "Anthropic",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
     },
     {
       "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
@@ -971,50 +1029,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Ivan Mehta"
-    },
-    {
-      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
-      "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
-      "published_at": "2026-11-09T19:39:41.000Z",
-      "description": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
-      "tags": [
-        "Media & Entertainment",
-        "billboard",
-        "music streaming",
-        "YouTube"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lauren Forristal"
-    },
-    {
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "published_at": "2026-11-09T19:24:51.000Z",
-      "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Claude"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Russell Brandom"
-    },
-    {
-      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-      "published_at": "2026-11-09T19:21:46.000Z",
-      "description": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-      "tags": [
-        "Startups",
-        "Fundraising",
-        "In Brief",
-        "Nominal"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
     },
     {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
@@ -1238,7 +1252,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1927,
+      "stars": 1974,
       "user": "JenkinWoo"
     },
     {
@@ -1253,7 +1267,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/169668232?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 480,
       "user": "ilsa99"
     },
     {
@@ -1268,7 +1282,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76502711?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 480,
       "user": "Gacktadactle"
     },
     {
@@ -1283,7 +1297,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317170740?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 402,
       "user": "Wallbycontact"
     },
     {
@@ -1313,7 +1327,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1400,
+      "stars": 1425,
       "user": "livliv-dev"
     },
     {
@@ -1328,7 +1342,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 704,
       "user": "AtomIllusionistDwell"
     },
     {
@@ -1343,7 +1357,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6276232?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 481,
       "user": "jmanalabe"
     },
     {
@@ -1358,23 +1372,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92120047?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 481,
       "user": "RolandoV3"
     },
     {
-      "title": "Mymedspharmacy/phantom-blade-zero-trainer - Phantom Blade Zero Trainer 2026: God Mode, One-Hit Kill, start All Weapons",
-      "url": "https://github.com/Mymedspharmacy/phantom-blade-zero-trainer",
-      "published_at": "2026-11-06T21:18:15Z",
-      "description": "Phantom Blade Zero Trainer 2026: God Mode, One-Hit Kill, start All Weapons",
+      "title": "ethangangasingh-crypto/musicmakerunlimited - Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
+      "url": "https://github.com/ethangangasingh-crypto/musicmakerunlimited",
+      "published_at": "2026-11-06T21:14:04Z",
+      "description": "Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222505887?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/322881863?v=4",
       "source": "GitHub",
-      "stars": 479,
-      "user": "Mymedspharmacy"
+      "stars": 480,
+      "user": "ethangangasingh-crypto"
     },
     {
       "title": "What's new in Node.js 27",
@@ -1390,10 +1404,22 @@
       "user": "loige"
     },
     {
+      "title": "How does JavaScript interpret this code with the word \"index\"?",
+      "url": "https://stackoverflow.com/questions/80015768/how-does-javascript-interpret-this-code-with-the-word-index",
+      "published_at": "2026-11-10T07:05:14.000Z",
+      "description": "Stack Overflow question · 0 answers · score -3",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Oluwakoretimi Odesanya"
+    },
+    {
       "title": "How can you make it to where when someone enters 2 numbers that when they click the button, a letter goes into the grid in javascript",
       "url": "https://stackoverflow.com/questions/80015713/how-can-you-make-it-to-where-when-someone-enters-2-numbers-that-when-they-click",
       "published_at": "2026-11-09T19:13:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -12",
       "tags": [
         "javascript"
       ],
@@ -1405,7 +1431,7 @@
       "title": "How can I stream real-time candlestick updates to TradingView Lightweight Charts using Go?",
       "url": "https://stackoverflow.com/questions/80015690/how-can-i-stream-real-time-candlestick-updates-to-tradingview-lightweight-charts",
       "published_at": "2026-11-09T16:12:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "best-practices",
         "javascript",
@@ -1419,7 +1445,7 @@
       "title": "How to set button in the middle of the screen in JS",
       "url": "https://stackoverflow.com/questions/80015618/how-to-set-button-in-the-middle-of-the-screen-in-js",
       "published_at": "2026-11-09T10:04:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript",
         "html",
@@ -1456,6 +1482,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Chris Happy"
+    },
+    {
+      "title": "What is the difference between typeof and instanceof and when should one be used vs. the other?",
+      "url": "https://stackoverflow.com/questions/899574/what-is-the-difference-between-typeof-and-instanceof-and-when-should-one-be-used",
+      "published_at": "2009-05-22T19:24:19.000Z",
+      "description": "Stack Overflow question · 27 answers · score 550",
+      "tags": [
+        "javascript",
+        "instanceof",
+        "typeof"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "farinspace"
     },
     {
       "title": "React Native Skia on RN 0.81+ with New Architecture causes massive build time, huge build size, and poor performance",
@@ -1501,34 +1541,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Isaac"
-    },
-    {
-      "title": "Back to the bit test question in JavaScript",
-      "url": "https://stackoverflow.com/questions/79810390/back-to-the-bit-test-question-in-javascript",
-      "published_at": "2025-11-05T17:06:31.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "javascript",
-        "bit"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mwfarrell"
-    },
-    {
-      "title": "how to create a new vite react project without boilerplate code?",
-      "url": "https://stackoverflow.com/questions/79348625/how-to-create-a-new-vite-react-project-without-boilerplate-code",
-      "published_at": "2025-01-11T18:10:19.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "javascript",
-        "reactjs",
-        "typescript",
-        "vite"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ismael J. Varela"
     },
     {
       "title": "How to Build a PDF Storyboard Generator Using JavaScript",
@@ -1798,7 +1810,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1403,
+      "stars": 1508,
       "user": "mmdoctor"
     },
     {
@@ -1813,7 +1825,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 1027,
+      "stars": 1047,
       "user": "WoYun520"
     },
     {
@@ -1828,7 +1840,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1018,
       "user": "Th0rgal"
     },
     {
@@ -1843,7 +1855,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308845393?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 631,
       "user": "majorminorlabs"
     },
     {
@@ -1858,14 +1870,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25872060?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 546,
       "user": "riyadhHDA"
     },
     {
-      "title": "What does __lazy_import__() return?",
-      "url": "https://stackoverflow.com/questions/80015735/what-does-lazy-import-return",
-      "published_at": "2026-11-09T22:50:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "title": "Why does MilvusClient.query() fail with VECTOR_FLOAT when sorting by a scalar ID?",
+      "url": "https://stackoverflow.com/questions/80015769/why-does-milvusclient-query-fail-with-vector-float-when-sorting-by-a-scalar-id",
+      "published_at": "2026-11-10T07:08:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "java",
+        "database",
+        "vector",
+        "milvus"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cubkm Ewaybk"
+    },
+    {
+      "title": "Difference between __import__() and importlib.__import__()",
+      "url": "https://stackoverflow.com/questions/80015734/difference-between-import-and-importlib-import",
+      "published_at": "2026-11-09T22:39:40.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "python",
         "python-import"
@@ -1875,9 +1903,9 @@
       "user": "JadenV15"
     },
     {
-      "title": "Difference between __import__() and importlib.__import__()",
-      "url": "https://stackoverflow.com/questions/80015734/difference-between-import-and-importlib-import",
-      "published_at": "2026-11-09T22:39:40.000Z",
+      "title": "What does __lazy_import__() return?",
+      "url": "https://stackoverflow.com/questions/80015735/what-does-lazy-import-return",
+      "published_at": "2026-11-09T22:50:32.000Z",
       "description": "Stack Overflow question · 1 answers · score 0",
       "tags": [
         "python",
@@ -1899,20 +1927,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Luna"
-    },
-    {
-      "title": "What to set -enable-native-access to",
-      "url": "https://stackoverflow.com/questions/80015694/what-to-set-enable-native-access-to",
-      "published_at": "2026-11-09T16:27:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "java",
-        "android-sdk-tools"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Trigan"
     },
     {
       "title": "How to remove a body/shape/constraint from pymunk space without exceptions",
@@ -1941,6 +1955,22 @@
       "user": "JadenV15"
     },
     {
+      "title": "`except` doesn’t catch my custom exception raised inside `InterpreterPoolExecutor` (Python 3.14)",
+      "url": "https://stackoverflow.com/questions/80015414/except-doesn-t-catch-my-custom-exception-raised-inside-interpreterpoolexecuto",
+      "published_at": "2026-11-07T23:58:06.000Z",
+      "description": "Stack Overflow question · 2 answers · score -1",
+      "tags": [
+        "python",
+        "exception",
+        "concurrent.futures",
+        "python-3.14",
+        "python-subinterpreters"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Muhammad Raham Saleem"
+    },
+    {
       "title": "uniswap-python cannot be installed",
       "url": "https://stackoverflow.com/questions/80015532/uniswap-python-cannot-be-installed",
       "published_at": "2026-11-08T21:42:25.000Z",
@@ -1953,22 +1983,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Apache00"
-    },
-    {
-      "title": "`except` doesn’t catch my custom exception raised inside `InterpreterPoolExecutor` (Python 3.14)",
-      "url": "https://stackoverflow.com/questions/80015414/except-doesn-t-catch-my-custom-exception-raised-inside-interpreterpoolexecuto",
-      "published_at": "2026-11-07T23:58:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "exception",
-        "concurrent.futures",
-        "python-3.14",
-        "python-subinterpreters"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Raham Saleem"
     },
     {
       "title": "How to force langchain model to use my language instead of English",
@@ -1984,18 +1998,17 @@
       "user": "mascai"
     },
     {
-      "title": "t-string HTML renderer ignores `:.2f` and escapes nested templates as raw text",
-      "url": "https://stackoverflow.com/questions/80015408/t-string-html-renderer-ignores-2f-and-escapes-nested-templates-as-raw-text",
-      "published_at": "2026-11-07T22:13:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
+      "title": "Adding an extra line changes the lazy import object entirely",
+      "url": "https://stackoverflow.com/questions/80015329/adding-an-extra-line-changes-the-lazy-import-object-entirely",
+      "published_at": "2026-11-07T12:09:52.000Z",
+      "description": "Stack Overflow question · 2 answers · score 6",
       "tags": [
         "python",
-        "python-3.14",
-        "python-template-strings"
+        "python-import"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Muhammad Raham Saleem"
+      "user": "JadenV15"
     }
   ],
   "DevOps": [
@@ -2269,10 +2282,24 @@
       "user": "velmu"
     },
     {
+      "title": "I was wrong about dark mode",
+      "url": "https://dbushell.com/2026/11/09/dark-mode/",
+      "published_at": "2026-11-09T10:54:03.235-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "css",
+        "design",
+        "web"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "loige"
+    },
+    {
       "title": "How to set button in the middle of the screen in JS",
       "url": "https://stackoverflow.com/questions/80015618/how-to-set-button-in-the-middle-of-the-screen-in-js",
       "published_at": "2026-11-09T10:04:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript",
         "html",
@@ -2326,20 +2353,6 @@
       "user": "Isaac"
     },
     {
-      "title": "t-string HTML renderer ignores `:.2f` and escapes nested templates as raw text",
-      "url": "https://stackoverflow.com/questions/80015408/t-string-html-renderer-ignores-2f-and-escapes-nested-templates-as-raw-text",
-      "published_at": "2026-11-07T22:13:06.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "python-3.14",
-        "python-template-strings"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Raham Saleem"
-    },
-    {
       "title": "How to Build a PDF Storyboard Generator Using JavaScript",
       "url": "https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/",
       "published_at": "2026-11-06T19:41:34.000Z",
@@ -2386,21 +2399,6 @@
   ],
   "Mobile": [
     {
-      "title": "Mobile Data on Android 17 and a 4.9 Kernel: Google Fi on the Pixel 3a",
-      "url": "https://dev.to/gde/mobile-data-on-android-17-and-a-49-kernel-google-fi-on-the-pixel-3a-4cdc",
-      "published_at": "2026-11-08T19:52:14Z",
-      "description": "LineageOS 24.0 on the Pixel 3a gets mobile data from a Google Fi data-only SIM after four fixes: mobile data on by default, a Fi APN, VoLTE in the carrier settings and a close_range() backport for IPv4. Each one traced from the radio log.",
-      "tags": [
-        "android",
-        "linux",
-        "lineageos",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fandroid_kernel_google_msm-4.9%2Fmain%2Fbackport-tools%2Flineage-24.0%2Farticle-mobile-data%2Fdevto-cover.eca0f5c3.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
       "url": "https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh",
       "published_at": "2026-11-07T21:34:26Z",
@@ -2414,6 +2412,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8y3gkk7ib2778kh57mp.jpg",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Mobile Data on Android 17 and a 4.9 Kernel: Google Fi on the Pixel 3a",
+      "url": "https://dev.to/gde/mobile-data-on-android-17-and-a-49-kernel-google-fi-on-the-pixel-3a-4cdc",
+      "published_at": "2026-11-08T19:52:14Z",
+      "description": "LineageOS 24.0 on the Pixel 3a gets mobile data from a Google Fi data-only SIM after four fixes: mobile data on by default, a Fi APN, VoLTE in the carrier settings and a close_range() backport for IPv4. Each one traced from the radio log.",
+      "tags": [
+        "android",
+        "linux",
+        "lineageos",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fandroid_kernel_google_msm-4.9%2Fmain%2Fbackport-tools%2Flineage-24.0%2Farticle-mobile-data%2Fdevto-cover.eca0f5c3.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
@@ -2457,7 +2470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25872060?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 546,
       "user": "riyadhHDA"
     },
     {
@@ -2475,20 +2488,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ali Khattak"
-    },
-    {
-      "title": "What to set -enable-native-access to",
-      "url": "https://stackoverflow.com/questions/80015694/what-to-set-enable-native-access-to",
-      "published_at": "2026-11-09T16:27:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "java",
-        "android-sdk-tools"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Trigan"
     },
     {
       "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
@@ -2554,21 +2553,6 @@
       "user": "xbill"
     },
     {
-      "title": "Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e",
-      "url": "https://dev.to/gde/porting-gemma-4-e2b-to-sglang-jax-on-one-cloud-tpu-v5e-5e9l",
-      "published_at": "2026-11-09T17:16:08Z",
-      "description": "SGLang-JAX serves the Gemma 4 31B and 26B A4B on TPU and fails to load E2B. A two-file patch adds per-layer embeddings, shared K/V and the double-wide MLP; on one flex-start v5e-1 it then serves 159.9 tokens per second for one request and 4,249.4 at 64, 2.52x vLLM, with GSM8K level with the bf16 JAX engine.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "jax",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsglangjax-e2b-v5e1%2Fdevto-cover.1cd3c453.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)",
       "url": "https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf",
       "published_at": "2026-11-09T15:10:32Z",
@@ -2582,6 +2566,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fjimmyliao%2Fax-playbook%2Fmain%2Fassets%2Fax-playbook-cover-wide.en.png",
       "source": "Dev.to",
       "user": "JimmyLiao"
+    },
+    {
+      "title": "Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e",
+      "url": "https://dev.to/gde/porting-gemma-4-e2b-to-sglang-jax-on-one-cloud-tpu-v5e-5e9l",
+      "published_at": "2026-11-09T17:16:08Z",
+      "description": "SGLang-JAX serves the Gemma 4 31B and 26B A4B on TPU and fails to load E2B. A two-file patch adds per-layer embeddings, shared K/V and the double-wide MLP; on one flex-start v5e-1 it then serves 159.9 tokens per second for one request and 4,249.4 at 64, 2.52x vLLM, with GSM8K level with the bf16 JAX engine.",
+      "tags": [
+        "googlecloud",
+        "tpu",
+        "jax",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsglangjax-e2b-v5e1%2Fdevto-cover.1cd3c453.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase",
@@ -2758,6 +2757,22 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
+    },
+    {
+      "title": "Why does MilvusClient.query() fail with VECTOR_FLOAT when sorting by a scalar ID?",
+      "url": "https://stackoverflow.com/questions/80015769/why-does-milvusclient-query-fail-with-vector-float-when-sorting-by-a-scalar-id",
+      "published_at": "2026-11-10T07:08:09.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "java",
+        "database",
+        "vector",
+        "milvus"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Cubkm Ewaybk"
     },
     {
       "title": "Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB",
@@ -2964,6 +2979,18 @@
       "user": "Varcht"
     },
     {
+      "title": "Let’s Talk About Why all This OT Stuff is Connected",
+      "url": "https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/",
+      "published_at": "2026-11-09T06:22:39.664-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "polywolf"
+    },
+    {
       "title": "Terminal2Shell: Critical flaw grants instant shell access on every major OS",
       "url": "https://terminal2shell.com/",
       "published_at": "2026-11-09T09:41:50.359-06:00",
@@ -2975,18 +3002,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "whjms"
-    },
-    {
-      "title": "Let’s Talk About Why all This OT Stuff is Connected",
-      "url": "https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/",
-      "published_at": "2026-11-09T06:22:39.664-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "polywolf"
     },
     {
       "title": "unlocking any car from X brand in most of the world",
@@ -3012,22 +3027,6 @@
         "data breach",
         "Exclusive",
         "Salesforce"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-      "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
-      "published_at": "2026-11-09T19:19:24.000Z",
-      "description": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "Europe",
-        "France"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3231,7 +3230,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 1927,
+      "stars": 1974,
       "user": "JenkinWoo"
     },
     {
@@ -3246,7 +3245,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/169668232?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 480,
       "user": "ilsa99"
     },
     {
@@ -3261,7 +3260,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76502711?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 480,
       "user": "Gacktadactle"
     },
     {
@@ -3276,7 +3275,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317170740?v=4",
       "source": "GitHub",
-      "stars": 396,
+      "stars": 402,
       "user": "Wallbycontact"
     },
     {
@@ -3306,7 +3305,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1403,
+      "stars": 1508,
       "user": "mmdoctor"
     },
     {
@@ -3321,7 +3320,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 1027,
+      "stars": 1047,
       "user": "WoYun520"
     },
     {
@@ -3336,7 +3335,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1009,
+      "stars": 1018,
       "user": "Th0rgal"
     },
     {
@@ -3351,7 +3350,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308845393?v=4",
       "source": "GitHub",
-      "stars": 622,
+      "stars": 631,
       "user": "majorminorlabs"
     },
     {
@@ -3366,7 +3365,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/25872060?v=4",
       "source": "GitHub",
-      "stars": 543,
+      "stars": 546,
       "user": "riyadhHDA"
     },
     {
@@ -3381,7 +3380,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 1427,
+      "stars": 1542,
       "user": "DIYgod"
     },
     {
@@ -3396,7 +3395,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 1102,
+      "stars": 1148,
       "user": "egoist"
     },
     {
@@ -3411,7 +3410,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 485,
+      "stars": 504,
       "user": "devvmhq"
     },
     {
@@ -3426,7 +3425,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195894983?v=4",
       "source": "GitHub",
-      "stars": 479,
+      "stars": 480,
       "user": "manjushree-iyer"
     },
     {
@@ -3441,7 +3440,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26252739?v=4",
       "source": "GitHub",
-      "stars": 420,
+      "stars": 429,
       "user": "TooonyChen"
     },
     {
@@ -3456,7 +3455,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1400,
+      "stars": 1425,
       "user": "livliv-dev"
     },
     {
@@ -3471,7 +3470,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
       "source": "GitHub",
-      "stars": 691,
+      "stars": 704,
       "user": "AtomIllusionistDwell"
     },
     {
@@ -3486,7 +3485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/6276232?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 481,
       "user": "jmanalabe"
     },
     {
@@ -3501,38 +3500,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92120047?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 481,
       "user": "RolandoV3"
     },
     {
-      "title": "Mymedspharmacy/phantom-blade-zero-trainer - Phantom Blade Zero Trainer 2026: God Mode, One-Hit Kill, start All Weapons",
-      "url": "https://github.com/Mymedspharmacy/phantom-blade-zero-trainer",
-      "published_at": "2026-11-06T21:18:15Z",
-      "description": "Phantom Blade Zero Trainer 2026: God Mode, One-Hit Kill, start All Weapons",
+      "title": "ethangangasingh-crypto/musicmakerunlimited - Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
+      "url": "https://github.com/ethangangasingh-crypto/musicmakerunlimited",
+      "published_at": "2026-11-06T21:14:04Z",
+      "description": "Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/222505887?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/322881863?v=4",
       "source": "GitHub",
-      "stars": 479,
-      "user": "Mymedspharmacy"
-    },
-    {
-      "title": "voyager-so/vork - Headless 3D and VFX engine for agents. Research preview.",
-      "url": "https://github.com/voyager-so/vork",
-      "published_at": "2026-11-05T22:37:07Z",
-      "description": "Headless 3D and VFX engine for agents. Research preview.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
-      "source": "GitHub",
-      "stars": 1287,
-      "user": "voyager-so"
+      "stars": 480,
+      "user": "ethangangasingh-crypto"
     },
     {
       "title": "jamesondh/chimera-vocal-synth - the ultimate vocal synthesizer - sing, speak, beatbox, and more",
@@ -3546,8 +3530,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4026659?v=4",
       "source": "GitHub",
-      "stars": 1207,
+      "stars": 1339,
       "user": "jamesondh"
+    },
+    {
+      "title": "voyager-so/vork - Headless 3D and VFX engine for agents. Research preview.",
+      "url": "https://github.com/voyager-so/vork",
+      "published_at": "2026-11-05T22:37:07Z",
+      "description": "Headless 3D and VFX engine for agents. Research preview.",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
+      "source": "GitHub",
+      "stars": 1316,
+      "user": "voyager-so"
     },
     {
       "title": "thiagoaureliomartins-programador/chief-architect-premier - Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
@@ -3561,7 +3560,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292235154?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 481,
       "user": "thiagoaureliomartins-programador"
     },
     {
@@ -3591,22 +3590,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/282221413?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 350,
       "user": "DEEIX-AI"
-    },
-    {
-      "title": "What to set -enable-native-access to",
-      "url": "https://stackoverflow.com/questions/80015694/what-to-set-enable-native-access-to",
-      "published_at": "2026-11-09T16:27:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score -3",
-      "tags": [
-        "python",
-        "java",
-        "android-sdk-tools"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Trigan"
     },
     {
       "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
