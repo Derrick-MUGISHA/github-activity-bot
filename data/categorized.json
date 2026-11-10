@@ -752,21 +752,6 @@
       "user": "caseyf7"
     },
     {
-      "title": "lxe/phoneuse - See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "url": "https://github.com/lxe/phoneuse",
-      "published_at": "2026-11-07T01:28:30Z",
-      "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
-      "source": "GitHub",
-      "stars": 555,
-      "user": "lxe"
-    },
-    {
       "title": "DIYgod/pinky - Let AI agents use your phone, with you in the loop.",
       "url": "https://github.com/DIYgod/pinky",
       "published_at": "2026-11-06T16:53:14Z",
@@ -778,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 1638,
+      "stars": 1654,
       "user": "DIYgod"
     },
     {
@@ -793,38 +778,35 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 526,
+      "stars": 535,
       "user": "devvmhq"
     },
     {
-      "title": "TooonyChen/finallyshell - 类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
-      "url": "https://github.com/TooonyChen/finallyshell",
-      "published_at": "2026-11-07T00:34:42Z",
-      "description": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26252739?v=4",
-      "source": "GitHub",
-      "stars": 435,
-      "user": "TooonyChen"
-    },
-    {
-      "title": "AtomIllusionistDwell/watson-username-footprint-finder - Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
-      "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
-      "published_at": "2026-11-05T05:20:24Z",
-      "description": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+      "title": "SK-Dev666/rust-external-trainer-tool - Rust External 2026: Full Standalone Trainer Setup, Tools and Dependencies Ready to Run",
+      "url": "https://github.com/SK-Dev666/rust-external-trainer-tool",
+      "published_at": "2026-11-06T21:21:20Z",
+      "description": "Rust External 2026: Full Standalone Trainer Setup, Tools and Dependencies Ready to Run",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/210262216?v=4",
       "source": "GitHub",
-      "stars": 740,
-      "user": "AtomIllusionistDwell"
+      "stars": 773,
+      "user": "SK-Dev666"
+    },
+    {
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "published_at": "2026-11-10T10:57:25.851-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "law"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "calvin"
     },
     {
       "title": "Microsoft are rejecting your mail",
@@ -853,153 +835,168 @@
       "user": "Cubkm Ewaybk"
     },
     {
-      "title": "How to remove a body/shape/constraint from pymunk space without exceptions",
-      "url": "https://stackoverflow.com/questions/80015579/how-to-remove-a-body-shape-constraint-from-pymunk-space-without-exceptions",
-      "published_at": "2026-11-09T06:14:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "pymunk"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "`except` doesn’t catch my custom exception raised inside `InterpreterPoolExecutor` (Python 3.14)",
-      "url": "https://stackoverflow.com/questions/80015414/except-doesn-t-catch-my-custom-exception-raised-inside-interpreterpoolexecuto",
-      "published_at": "2026-11-07T23:58:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "python",
-        "exception",
-        "concurrent.futures",
-        "python-3.14",
-        "python-subinterpreters"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Raham Saleem"
-    },
-    {
-      "title": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "published_at": "2026-11-10T15:29:30.000Z",
-      "description": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "published_at": "2026-11-10T21:08:52.000Z",
+      "description": "OpenAI has not yet said what its plans are for the future of travel. But \nSonder founder Francis Davidson is a well-known figure in the travel industry.",
       "tags": [
         "AI",
-        "Apps",
-        "Meta",
-        "muse"
+        "Startups",
+        "TC",
+        "travel"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "published_at": "2026-11-10T20:52:13.000Z",
+      "description": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "ai safety",
+        "kathy hochul",
+        "raise act"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "published_at": "2026-11-10T20:47:05.000Z",
+      "description": "Former SignalFire investor Sahir Raoof raises $27.5M for new fund targeting AI in pharma",
+      "tags": [
+        "Biotech & Health",
+        "Venture",
+        "drug discovery",
+        "signalfire",
+        "Solo VC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin"
+    },
+    {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "published_at": "2026-11-10T19:57:52.000Z",
+      "description": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "Anthropic"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "published_at": "2026-11-10T19:23:34.000Z",
+      "description": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "tags": [
+        "AI",
+        "Hardware",
+        "Mergers and Acquisitions",
+        "oura"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Aisha Malik"
     },
     {
-      "title": "Reddit is turning user conversations into AI-powered product reviews",
-      "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
-      "published_at": "2026-11-10T15:00:00.000Z",
-      "description": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
-      "tags": [
-        "Commerce",
-        "Social",
-        "Reddit",
-        "shopping"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
-      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
-      "published_at": "2026-11-10T15:00:00.000Z",
-      "description": "Kunal Shah said that AI on WhatsApp will remind people of their appointment than booking",
-      "tags": [
-        "Apps"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-      "published_at": "2026-11-10T14:05:10.000Z",
-      "description": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "published_at": "2026-11-10T19:03:52.000Z",
+      "description": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
       "tags": [
         "AI",
-        "Adobe",
-        "Adobe Firefly",
-        "photoshop"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-      "published_at": "2026-11-10T14:01:39.000Z",
-      "description": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "anthropic ipo"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan, Ram Iyer"
-    },
-    {
-      "title": "After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "published_at": "2026-11-10T14:00:00.000Z",
-      "description": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-      "tags": [
         "Startups",
-        "AI",
-        "microsoft windows",
-        "square enix",
-        "Cyanogen"
+        "science"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "user": "Tim Fernholz"
     },
     {
-      "title": "Spotify&#8217;s AI DJ gets new voices, personalities, and an option for less chatter",
-      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-      "published_at": "2026-11-10T14:00:00.000Z",
-      "description": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "published_at": "2026-11-10T18:49:52.000Z",
+      "description": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
       "tags": [
-        "Media & Entertainment",
         "AI",
-        "Apps",
-        "Spotify",
-        "streaming music"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-      "published_at": "2026-11-10T13:30:00.000Z",
-      "description": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-      "tags": [
-        "Robotics",
-        "Amazon",
-        "drones",
-        "robots",
-        "AI"
+        "ChatGPT",
+        "e-commerce",
+        "OpenAI"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Lucas Ropek"
+    },
+    {
+      "title": "Pixel Tag, Google&#8217;s $30 Android-ready answer to Apple&#8217;s AirTag, is now available",
+      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+      "published_at": "2026-11-10T18:49:19.000Z",
+      "description": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
+      "tags": [
+        "Gadgets",
+        "Hardware",
+        "TC",
+        "Android",
+        "Google"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "published_at": "2026-11-10T17:30:00.000Z",
+      "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Anthropic",
+        "Anthropic Claude"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Learn Agentic Coding with Codex & AI Coding Agents",
+      "url": "https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/",
+      "published_at": "2026-11-10T16:01:58.000Z",
+      "description": "AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi",
+      "tags": [
+        "codex",
+        "youtube"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Beau Carnes"
+    },
+    {
+      "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
+      "url": "https://www.freecodecamp.org/news/how-file-transfer-services-work/",
+      "published_at": "2026-11-10T13:20:32.000Z",
+      "description": "Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr",
+      "tags": [
+        "webdev",
+        "Programming Blogs",
+        "backend",
+        "Node.js"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Reetain Raina"
     },
     {
       "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
@@ -1030,20 +1027,6 @@
       "cover_image": null,
       "source": "freeCodeCamp",
       "user": "jabo Landry"
-    },
-    {
-      "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
-      "url": "https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/",
-      "published_at": "2026-10-30T13:57:52.000Z",
-      "description": "Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet",
-      "tags": [
-        "knowledge graph",
-        "finance",
-        "graph database"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Kamal Kishore"
     }
   ],
   "JavaScript": [
@@ -1223,7 +1206,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 2003,
+      "stars": 2005,
       "user": "JenkinWoo"
     },
     {
@@ -1238,7 +1221,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/169668232?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 772,
       "user": "ilsa99"
     },
     {
@@ -1253,7 +1236,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76502711?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 772,
       "user": "Gacktadactle"
     },
     {
@@ -1268,7 +1251,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337416215?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 501,
       "user": "FJNB5"
     },
     {
@@ -1283,7 +1266,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 400,
       "user": "shanselman"
     },
     {
@@ -1298,23 +1281,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1445,
+      "stars": 1455,
       "user": "livliv-dev"
     },
     {
-      "title": "AtomIllusionistDwell/watson-username-footprint-finder - Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
-      "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
-      "published_at": "2026-11-05T05:20:24Z",
-      "description": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+      "title": "rdeepak-wq121/quicken-deluxe-installer - Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
+      "url": "https://github.com/rdeepak-wq121/quicken-deluxe-installer",
+      "published_at": "2026-11-06T21:20:42Z",
+      "description": "Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/263535579?v=4",
       "source": "GitHub",
-      "stars": 740,
-      "user": "AtomIllusionistDwell"
+      "stars": 773,
+      "user": "rdeepak-wq121"
+    },
+    {
+      "title": "SK-Dev666/rust-external-trainer-tool - Rust External 2026: Full Standalone Trainer Setup, Tools and Dependencies Ready to Run",
+      "url": "https://github.com/SK-Dev666/rust-external-trainer-tool",
+      "published_at": "2026-11-06T21:21:20Z",
+      "description": "Rust External 2026: Full Standalone Trainer Setup, Tools and Dependencies Ready to Run",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/210262216?v=4",
+      "source": "GitHub",
+      "stars": 773,
+      "user": "SK-Dev666"
     },
     {
       "title": "RolandoV3/metatrader-5-bot - Community-driven MetaTrader 5 bot with full features ready for desktop use",
@@ -1328,38 +1326,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92120047?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 773,
       "user": "RolandoV3"
     },
     {
-      "title": "ethangangasingh-crypto/musicmakerunlimited - Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
-      "url": "https://github.com/ethangangasingh-crypto/musicmakerunlimited",
-      "published_at": "2026-11-06T21:14:04Z",
-      "description": "Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
+      "title": "Marcian15350/robux-generator-enhancement - Robux-Generator: Full Installer, All Features Activated, Desktop-Ready",
+      "url": "https://github.com/Marcian15350/robux-generator-enhancement",
+      "published_at": "2026-11-06T21:20:48Z",
+      "description": "Robux-Generator: Full Installer, All Features Activated, Desktop-Ready",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/322881863?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/108626894?v=4",
       "source": "GitHub",
-      "stars": 480,
-      "user": "ethangangasingh-crypto"
-    },
-    {
-      "title": "ma7401153-sketch/daemon-pro-installer - DAEMON-Pro: Full-Feature Security Installer for Desktop Deployment",
-      "url": "https://github.com/ma7401153-sketch/daemon-pro-installer",
-      "published_at": "2026-11-06T20:51:00Z",
-      "description": "DAEMON-Pro: Full-Feature Security Installer for Desktop Deployment",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282581766?v=4",
-      "source": "GitHub",
-      "stars": 480,
-      "user": "ma7401153-sketch"
+      "stars": 773,
+      "user": "Marcian15350"
     },
     {
       "title": "Passing form data from a popup window in Flask",
@@ -1379,7 +1362,7 @@
       "title": "How does JavaScript interpret this code with the word \"index\"?",
       "url": "https://stackoverflow.com/questions/80015768/how-does-javascript-interpret-this-code-with-the-word-index",
       "published_at": "2026-11-10T07:05:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "javascript"
       ],
@@ -1428,18 +1411,17 @@
       "user": "бобик"
     },
     {
-      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
-      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
-      "published_at": "2026-11-01T04:11:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "title": "bug between v10.7 and v10.8 and later",
+      "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
+      "published_at": "2026-11-04T22:00:29.000Z",
+      "description": "Stack Overflow question · 3 answers · score 2",
       "tags": [
         "javascript",
-        "html",
-        "dom-events"
+        "openlayers"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "mith sams"
+      "user": "allez l&#39;OM"
     },
     {
       "title": "Facebook Page Plugin Stopped Working w/o Deploying",
@@ -1456,10 +1438,24 @@
       "user": "Chris Happy"
     },
     {
+      "title": "How do I add a link to a draggable element that doesn't open when you drag it, only when you click it?",
+      "url": "https://stackoverflow.com/questions/79971709/how-do-i-add-a-link-to-a-draggable-element-that-doesnt-open-when-you-drag-it-o",
+      "published_at": "2026-06-30T12:04:31.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "javascript",
+        "drag-and-drop",
+        "draggable"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kiki"
+    },
+    {
       "title": "What is the difference between typeof and instanceof and when should one be used vs. the other?",
       "url": "https://stackoverflow.com/questions/899574/what-is-the-difference-between-typeof-and-instanceof-and-when-should-one-be-used",
       "published_at": "2009-05-22T19:24:19.000Z",
-      "description": "Stack Overflow question · 27 answers · score 550",
+      "description": "Stack Overflow question · 27 answers · score 551",
       "tags": [
         "javascript",
         "instanceof",
@@ -1486,18 +1482,33 @@
       "user": "Ali Khattak"
     },
     {
-      "title": "How to reset an HTML element to its first/initial value in JavaScript?",
-      "url": "https://stackoverflow.com/questions/79820285/how-to-reset-an-html-element-to-its-first-initial-value-in-javascript",
-      "published_at": "2025-11-14T17:11:16.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
+      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "published_at": "2026-11-10T20:43:55.000Z",
+      "description": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
       "tags": [
-        "javascript",
-        "html",
-        "css"
+        "Climate",
+        "nuclear power",
+        "X-Energy"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Milichip"
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
+      "url": "https://www.freecodecamp.org/news/how-file-transfer-services-work/",
+      "published_at": "2026-11-10T13:20:32.000Z",
+      "description": "Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr",
+      "tags": [
+        "webdev",
+        "Programming Blogs",
+        "backend",
+        "Node.js"
+      ],
+      "cover_image": null,
+      "source": "freeCodeCamp",
+      "user": "Reetain Raina"
     },
     {
       "title": "How to Build a PDF Storyboard Generator Using JavaScript",
@@ -1767,7 +1778,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1601,
+      "stars": 1631,
       "user": "mmdoctor"
     },
     {
@@ -1782,7 +1793,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 1075,
+      "stars": 1086,
       "user": "WoYun520"
     },
     {
@@ -1797,8 +1808,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1025,
+      "stars": 1030,
       "user": "Th0rgal"
+    },
+    {
+      "title": "farhatullah0006-art/rx-11-audio-editor-config - rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing",
+      "url": "https://github.com/farhatullah0006-art/rx-11-audio-editor-config",
+      "published_at": "2026-11-06T21:21:42Z",
+      "description": "rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/337244869?v=4",
+      "source": "GitHub",
+      "stars": 771,
+      "user": "farhatullah0006-art"
     },
     {
       "title": "majorminorlabs/hermes-voice - Talk to a Hermes Agent profile through Home Assistant Assist",
@@ -1812,23 +1838,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308845393?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 644,
       "user": "majorminorlabs"
-    },
-    {
-      "title": "lxe/phoneuse - See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "url": "https://github.com/lxe/phoneuse",
-      "published_at": "2026-11-07T01:28:30Z",
-      "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
-      "source": "GitHub",
-      "stars": 555,
-      "user": "lxe"
     },
     {
       "title": "Passing form data from a popup window in Flask",
@@ -1845,6 +1856,73 @@
       "user": "katastrophe"
     },
     {
+      "title": "How do I pull truly unique dictionaries from a list of dictionaries in Python?",
+      "url": "https://stackoverflow.com/questions/80015882/how-do-i-pull-truly-unique-dictionaries-from-a-list-of-dictionaries-in-python",
+      "published_at": "2026-11-10T20:43:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Joshua White"
+    },
+    {
+      "title": "Accessing a model's individual layer",
+      "url": "https://stackoverflow.com/questions/80015880/accessing-a-models-individual-layer",
+      "published_at": "2026-11-10T19:35:08.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "python",
+        "pytorch",
+        "huggingface-transformers",
+        "large-language-model"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jordon"
+    },
+    {
+      "title": "Trigonometric computation using math library",
+      "url": "https://stackoverflow.com/questions/80015841/trigonometric-computation-using-math-library",
+      "published_at": "2026-11-10T16:06:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "math"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "zpargo87"
+    },
+    {
+      "title": "Visual Studio Code started adding extra \"\\\" to file paths; can no longer run files",
+      "url": "https://stackoverflow.com/questions/80015853/visual-studio-code-started-adding-extra-to-file-paths-can-no-longer-run-fil",
+      "published_at": "2026-11-10T16:38:38.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "vs-code"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "CleverName"
+    },
+    {
+      "title": "Asyncio Unhandled Exception in atexit",
+      "url": "https://stackoverflow.com/questions/80015847/asyncio-unhandled-exception-in-atexit",
+      "published_at": "2026-11-10T16:22:45.000Z",
+      "description": "Stack Overflow question · 1 answers · score 0",
+      "tags": [
+        "python",
+        "python-asyncio"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shankboy"
+    },
+    {
       "title": "How to add image on gui using tkinter on macOS?",
       "url": "https://stackoverflow.com/questions/80015798/how-to-add-image-on-gui-using-tkinter-on-macos",
       "published_at": "2026-11-10T10:44:48.000Z",
@@ -1858,6 +1936,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "黃yu"
+    },
+    {
+      "title": "What does __lazy_import__() return?",
+      "url": "https://stackoverflow.com/questions/80015735/what-does-lazy-import-return",
+      "published_at": "2026-11-09T22:50:32.000Z",
+      "description": "Stack Overflow question · 2 answers · score 3",
+      "tags": [
+        "python",
+        "python-import",
+        "python-3.15"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
     },
     {
       "title": "How to handle echo vs. genuine speech for barge-in in an Asterisk-based IVR?",
@@ -1876,20 +1968,6 @@
       "user": "Shaan Srivastava"
     },
     {
-      "title": "What does __lazy_import__() return?",
-      "url": "https://stackoverflow.com/questions/80015735/what-does-lazy-import-return",
-      "published_at": "2026-11-09T22:50:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
-      "tags": [
-        "python",
-        "python-import",
-        "python-3.15"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
       "title": "Why does MilvusClient.query() fail with VECTOR_FLOAT when sorting by a scalar ID?",
       "url": "https://stackoverflow.com/questions/80015769/why-does-milvusclient-query-fail-with-vector-float-when-sorting-by-a-scalar-id",
       "published_at": "2026-11-10T07:08:09.000Z",
@@ -1902,74 +1980,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Cubkm Ewaybk"
-    },
-    {
-      "title": "Difference between __import__() and importlib.__import__()",
-      "url": "https://stackoverflow.com/questions/80015734/difference-between-import-and-importlib-import",
-      "published_at": "2026-11-09T22:39:40.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
-      "tags": [
-        "python",
-        "python-import"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Cannot run manually opened files on VS Code",
-      "url": "https://stackoverflow.com/questions/80015715/cannot-run-manually-opened-files-on-vs-code",
-      "published_at": "2026-11-09T19:35:17.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "vs-code"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Luna"
-    },
-    {
-      "title": "How to remove a body/shape/constraint from pymunk space without exceptions",
-      "url": "https://stackoverflow.com/questions/80015579/how-to-remove-a-body-shape-constraint-from-pymunk-space-without-exceptions",
-      "published_at": "2026-11-09T06:14:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score -2",
-      "tags": [
-        "python",
-        "pymunk"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "Should I use space.static_body or create my own static body?",
-      "url": "https://stackoverflow.com/questions/80015577/should-i-use-space-static-body-or-create-my-own-static-body",
-      "published_at": "2026-11-09T05:47:24.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "python",
-        "pymunk"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
-    },
-    {
-      "title": "`except` doesn’t catch my custom exception raised inside `InterpreterPoolExecutor` (Python 3.14)",
-      "url": "https://stackoverflow.com/questions/80015414/except-doesn-t-catch-my-custom-exception-raised-inside-interpreterpoolexecuto",
-      "published_at": "2026-11-07T23:58:06.000Z",
-      "description": "Stack Overflow question · 2 answers · score -2",
-      "tags": [
-        "python",
-        "exception",
-        "concurrent.futures",
-        "python-3.14",
-        "python-subinterpreters"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Muhammad Raham Saleem"
     }
   ],
   "DevOps": [
@@ -2242,32 +2252,19 @@
       "user": "бобик"
     },
     {
-      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
-      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
-      "published_at": "2026-11-01T04:11:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
+      "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
+      "url": "https://www.freecodecamp.org/news/how-file-transfer-services-work/",
+      "published_at": "2026-11-10T13:20:32.000Z",
+      "description": "Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr",
       "tags": [
-        "javascript",
-        "html",
-        "dom-events"
+        "webdev",
+        "Programming Blogs",
+        "backend",
+        "Node.js"
       ],
       "cover_image": null,
-      "source": "StackOverflow",
-      "user": "mith sams"
-    },
-    {
-      "title": "How to reset an HTML element to its first/initial value in JavaScript?",
-      "url": "https://stackoverflow.com/questions/79820285/how-to-reset-an-html-element-to-its-first-initial-value-in-javascript",
-      "published_at": "2025-11-14T17:11:16.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Milichip"
+      "source": "freeCodeCamp",
+      "user": "Reetain Raina"
     },
     {
       "title": "How to Build a PDF Storyboard Generator Using JavaScript",
@@ -2392,35 +2389,20 @@
       "user": "Ali Khattak"
     },
     {
-      "title": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "published_at": "2026-11-10T15:29:30.000Z",
-      "description": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "title": "Pixel Tag, Google&#8217;s $30 Android-ready answer to Apple&#8217;s AirTag, is now available",
+      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+      "published_at": "2026-11-10T18:49:19.000Z",
+      "description": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
       "tags": [
-        "AI",
-        "Apps",
-        "Meta",
-        "muse"
+        "Gadgets",
+        "Hardware",
+        "TC",
+        "Android",
+        "Google"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "published_at": "2026-11-10T14:00:00.000Z",
-      "description": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-      "tags": [
-        "Startups",
-        "AI",
-        "microsoft windows",
-        "square enix",
-        "Cyanogen"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Jagmeet Singh"
+      "user": "Sarah Perez"
     },
     {
       "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
@@ -2717,33 +2699,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Cubkm Ewaybk"
-    },
-    {
-      "title": "Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB",
-      "url": "https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/",
-      "published_at": "2026-11-03T16:07:38.000Z",
-      "description": "A vector database stores data as lists of numbers called embeddings, which lets it search by meaning instead of matching exact keywords. It's the piece behind a lot of recommendation systems, RAG apps",
-      "tags": [
-        "vector database",
-        "youtube"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Beau Carnes"
-    },
-    {
-      "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
-      "url": "https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/",
-      "published_at": "2026-10-30T13:57:52.000Z",
-      "description": "Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet",
-      "tags": [
-        "knowledge graph",
-        "finance",
-        "graph database"
-      ],
-      "cover_image": null,
-      "source": "freeCodeCamp",
-      "user": "Kamal Kishore"
     }
   ],
   "Security": [
@@ -2921,65 +2876,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "Varcht"
-    },
-    {
-      "title": "ma7401153-sketch/daemon-pro-installer - DAEMON-Pro: Full-Feature Security Installer for Desktop Deployment",
-      "url": "https://github.com/ma7401153-sketch/daemon-pro-installer",
-      "published_at": "2026-11-06T20:51:00Z",
-      "description": "DAEMON-Pro: Full-Feature Security Installer for Desktop Deployment",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282581766?v=4",
-      "source": "GitHub",
-      "stars": 480,
-      "user": "ma7401153-sketch"
-    },
-    {
-      "title": "Let’s Talk About Why all This OT Stuff is Connected",
-      "url": "https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/",
-      "published_at": "2026-11-09T06:22:39.664-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "polywolf"
-    },
-    {
-      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
-      "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
-      "published_at": "2026-11-10T15:45:27.000Z",
-      "description": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "n-able",
-        "remote access"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-      "published_at": "2026-11-10T13:30:00.000Z",
-      "description": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-      "tags": [
-        "Robotics",
-        "Amazon",
-        "drones",
-        "robots",
-        "AI"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
     },
     {
       "title": "What a CAPTCHA Farm Attack Actually Looks Like",
@@ -3179,7 +3075,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 2003,
+      "stars": 2005,
       "user": "JenkinWoo"
     },
     {
@@ -3194,7 +3090,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/169668232?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 772,
       "user": "ilsa99"
     },
     {
@@ -3209,7 +3105,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/76502711?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 772,
       "user": "Gacktadactle"
     },
     {
@@ -3224,7 +3120,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337416215?v=4",
       "source": "GitHub",
-      "stars": 466,
+      "stars": 501,
       "user": "FJNB5"
     },
     {
@@ -3239,7 +3135,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 398,
+      "stars": 400,
       "user": "shanselman"
     },
     {
@@ -3254,7 +3150,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1601,
+      "stars": 1631,
       "user": "mmdoctor"
     },
     {
@@ -3269,7 +3165,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 1075,
+      "stars": 1086,
       "user": "WoYun520"
     },
     {
@@ -3284,8 +3180,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1025,
+      "stars": 1030,
       "user": "Th0rgal"
+    },
+    {
+      "title": "farhatullah0006-art/rx-11-audio-editor-config - rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing",
+      "url": "https://github.com/farhatullah0006-art/rx-11-audio-editor-config",
+      "published_at": "2026-11-06T21:21:42Z",
+      "description": "rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/337244869?v=4",
+      "source": "GitHub",
+      "stars": 771,
+      "user": "farhatullah0006-art"
     },
     {
       "title": "majorminorlabs/hermes-voice - Talk to a Hermes Agent profile through Home Assistant Assist",
@@ -3299,23 +3210,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308845393?v=4",
       "source": "GitHub",
-      "stars": 637,
+      "stars": 644,
       "user": "majorminorlabs"
-    },
-    {
-      "title": "lxe/phoneuse - See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "url": "https://github.com/lxe/phoneuse",
-      "published_at": "2026-11-07T01:28:30Z",
-      "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
-      "source": "GitHub",
-      "stars": 555,
-      "user": "lxe"
     },
     {
       "title": "DIYgod/pinky - Let AI agents use your phone, with you in the loop.",
@@ -3329,7 +3225,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 1638,
+      "stars": 1654,
       "user": "DIYgod"
     },
     {
@@ -3344,23 +3240,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
       "source": "GitHub",
-      "stars": 1179,
+      "stars": 1187,
       "user": "egoist"
-    },
-    {
-      "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "url": "https://github.com/devvmhq/devvm",
-      "published_at": "2026-11-06T07:02:30Z",
-      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
-      "source": "GitHub",
-      "stars": 526,
-      "user": "devvmhq"
     },
     {
       "title": "manjushree-iyer/soundpad-audio-suite - Soundpad: Advanced Audio Processing for Professional DAW Workflows",
@@ -3374,23 +3255,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/195894983?v=4",
       "source": "GitHub",
-      "stars": 480,
+      "stars": 773,
       "user": "manjushree-iyer"
     },
     {
-      "title": "TooonyChen/finallyshell - 类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
-      "url": "https://github.com/TooonyChen/finallyshell",
-      "published_at": "2026-11-07T00:34:42Z",
-      "description": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
+      "title": "HolyArrs/HolyArrs - One self-hosted app for your shows, movies and music.",
+      "url": "https://github.com/HolyArrs/HolyArrs",
+      "published_at": "2026-11-09T23:53:25Z",
+      "description": "One self-hosted app for your shows, movies and music.",
       "tags": [
         "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26252739?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/348458842?v=4",
       "source": "GitHub",
-      "stars": 435,
-      "user": "TooonyChen"
+      "stars": 547,
+      "user": "HolyArrs"
+    },
+    {
+      "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "url": "https://github.com/devvmhq/devvm",
+      "published_at": "2026-11-06T07:02:30Z",
+      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
+      "source": "GitHub",
+      "stars": 535,
+      "user": "devvmhq"
     },
     {
       "title": "livliv-dev/player - A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
@@ -3404,23 +3300,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
       "source": "GitHub",
-      "stars": 1445,
+      "stars": 1455,
       "user": "livliv-dev"
     },
     {
-      "title": "AtomIllusionistDwell/watson-username-footprint-finder - Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
-      "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
-      "published_at": "2026-11-05T05:20:24Z",
-      "description": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+      "title": "rdeepak-wq121/quicken-deluxe-installer - Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
+      "url": "https://github.com/rdeepak-wq121/quicken-deluxe-installer",
+      "published_at": "2026-11-06T21:20:42Z",
+      "description": "Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/316283134?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/263535579?v=4",
       "source": "GitHub",
-      "stars": 740,
-      "user": "AtomIllusionistDwell"
+      "stars": 773,
+      "user": "rdeepak-wq121"
+    },
+    {
+      "title": "SK-Dev666/rust-external-trainer-tool - Rust External 2026: Full Standalone Trainer Setup, Tools and Dependencies Ready to Run",
+      "url": "https://github.com/SK-Dev666/rust-external-trainer-tool",
+      "published_at": "2026-11-06T21:21:20Z",
+      "description": "Rust External 2026: Full Standalone Trainer Setup, Tools and Dependencies Ready to Run",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/210262216?v=4",
+      "source": "GitHub",
+      "stars": 773,
+      "user": "SK-Dev666"
     },
     {
       "title": "RolandoV3/metatrader-5-bot - Community-driven MetaTrader 5 bot with full features ready for desktop use",
@@ -3434,38 +3345,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92120047?v=4",
       "source": "GitHub",
-      "stars": 481,
+      "stars": 773,
       "user": "RolandoV3"
     },
     {
-      "title": "ethangangasingh-crypto/musicmakerunlimited - Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
-      "url": "https://github.com/ethangangasingh-crypto/musicmakerunlimited",
-      "published_at": "2026-11-06T21:14:04Z",
-      "description": "Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
+      "title": "Marcian15350/robux-generator-enhancement - Robux-Generator: Full Installer, All Features Activated, Desktop-Ready",
+      "url": "https://github.com/Marcian15350/robux-generator-enhancement",
+      "published_at": "2026-11-06T21:20:48Z",
+      "description": "Robux-Generator: Full Installer, All Features Activated, Desktop-Ready",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/322881863?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/108626894?v=4",
       "source": "GitHub",
-      "stars": 480,
-      "user": "ethangangasingh-crypto"
-    },
-    {
-      "title": "ma7401153-sketch/daemon-pro-installer - DAEMON-Pro: Full-Feature Security Installer for Desktop Deployment",
-      "url": "https://github.com/ma7401153-sketch/daemon-pro-installer",
-      "published_at": "2026-11-06T20:51:00Z",
-      "description": "DAEMON-Pro: Full-Feature Security Installer for Desktop Deployment",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/282581766?v=4",
-      "source": "GitHub",
-      "stars": 480,
-      "user": "ma7401153-sketch"
+      "stars": 773,
+      "user": "Marcian15350"
     },
     {
       "title": "jamesondh/chimera-vocal-synth - the ultimate vocal synthesizer - sing, speak, beatbox, and more",
@@ -3479,7 +3375,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4026659?v=4",
       "source": "GitHub",
-      "stars": 1526,
+      "stars": 1634,
       "user": "jamesondh"
     },
     {
@@ -3494,7 +3390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
       "source": "GitHub",
-      "stars": 1348,
+      "stars": 1355,
       "user": "voyager-so"
     },
     {
@@ -3509,7 +3405,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/292235154?v=4",
       "source": "GitHub",
-      "stars": 482,
+      "stars": 775,
       "user": "thiagoaureliomartins-programador"
     },
     {
@@ -3524,7 +3420,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317179077?v=4",
       "source": "GitHub",
-      "stars": 445,
+      "stars": 447,
       "user": "PlateParrotTerminal"
     },
     {
@@ -3539,51 +3435,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88082356?v=4",
       "source": "GitHub",
-      "stars": 381,
+      "stars": 407,
       "user": "Gloridust"
-    },
-    {
-      "title": "Building a networking switch ASIC chip",
-      "url": "https://essenceia.github.io/projects/expresso/",
-      "published_at": "2026-11-10T01:39:39.567-06:00",
-      "description": "This is part 2, for part 1 see https://essenceia.github.io/projects/ethernet_switch_asic/",
-      "tags": [
-        "hardware"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "florianhartung"
-    },
-    {
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-      "published_at": "2026-11-10T14:05:10.000Z",
-      "description": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
-      "tags": [
-        "AI",
-        "Adobe",
-        "Adobe Firefly",
-        "photoshop"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Aura&#8217;s newest e-ink photo frame is even better and more affordable than its last",
-      "url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
-      "published_at": "2026-11-10T14:00:00.000Z",
-      "description": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
-      "tags": [
-        "Hardware",
-        "Gadgets",
-        "aura",
-        "E Ink",
-        "Eric Jensen"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
     },
     {
       "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",

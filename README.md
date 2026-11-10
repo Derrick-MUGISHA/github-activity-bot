@@ -7,7 +7,7 @@
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
 ![Total Articles](https://img.shields.io/badge/Articles-183-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-8-blueviolet?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-9-blueviolet?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Updated-2026--11--10-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-11-10 17:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-11-10 23:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -113,7 +113,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 19 | [Take Claude Code Above Average: Let Antigravity Review It](https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g) | Dev.to |
 | 20 | [Mobile Data on Android 17 and a 4.9 Kernel: Google Fi on the Pixel 3a](https://dev.to/gde/mobile-data-on-android-17-and-a-49-kernel-google-fi-on-the-pixel-3a-4cdc) | Dev.to |
 
-<sub>Last fetched: Tue, 10 Nov 2026 17:50:07 CAT</sub>
+<sub>Last fetched: Tue, 10 Nov 2026 23:30:27 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `React` — What is the Virtual DOM and how does React use it?**
+**1. `NodeJS` — What is the difference between process.nextTick() and setImmediate()?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 rendering, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 event loop, async
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Diffing algorithm, reconciliation, efficiency
+> Execution timing, event loop phases
 
 </details>
 
-**2. `Python` — Implement a context manager using __enter__ and __exit__**
+**2. `Java` — Explain the Java memory model**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 memory, JVM
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> with statement, setup/teardown, exception handling
+> Heap, stack, garbage collection
 
 </details>
 
-**3. `Python` — Implement a context manager using __enter__ and __exit__**
+**3. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> with statement, setup/teardown, exception handling
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 73 | 39.9% | `████████████████████` |
-| **Tools** | 42 | 23.0% | `████████████░░░░░░░░` |
-| **JavaScript** | 35 | 19.1% | `██████████░░░░░░░░░░` |
+| **AI** | 72 | 39.3% | `████████████████████` |
+| **Tools** | 39 | 21.3% | `███████████░░░░░░░░░` |
+| **JavaScript** | 37 | 20.2% | `██████████░░░░░░░░░░` |
 | **Python** | 32 | 17.5% | `█████████░░░░░░░░░░░` |
-| **Security** | 19 | 10.4% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 15 | 8.2% | `████░░░░░░░░░░░░░░░░` |
 | **Cloud** | 14 | 7.7% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 6 | 3.3% | `██░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,25 +194,26 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 25.8%
-JavaScript      ███████████████████████████ 23.2%
-Python          ████████████████████████ 20.5%
-Java            ████████████████████ 17.2%
-Rust            █████████ 7.9%
-Kotlin          ████ 3.3%
-Swift           ██ 1.3%
-Ruby            █ 0.7%
+Go              ██████████████████████████████ 26.8%
+JavaScript      ██████████████████████████ 23.6%
+Python          ██████████████████████ 19.7%
+Java            ███████████████████ 16.6%
+Rust            █████████ 8.3%
+Kotlin          ███ 2.5%
+Swift           █ 1.3%
+Ruby            █ 0.6%
+CSharp          █ 0.6%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 39
-    "JavaScript" : 35
+    "Go" : 42
+    "JavaScript" : 37
     "Python" : 31
     "Java" : 26
-    "Rust" : 12
-    "Kotlin" : 5
+    "Rust" : 13
+    "Kotlin" : 4
     "Swift" : 2
     "Ruby" : 1
 ```
@@ -220,7 +221,7 @@ pie title Programming Languages Distribution
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-45-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-28-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-8-0969da?style=flat-square) ![opensource](https://img.shields.io/badge/opensource-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-46-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-28-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![go](https://img.shields.io/badge/go-10-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-8-0969da?style=flat-square) ![opensource](https://img.shields.io/badge/opensource-8-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-8-0969da?style=flat-square) 
 
 
 ---
@@ -272,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Tue, 10 Nov 2026 15:50:07 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Tue, 10 Nov 2026 21:30:27 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
