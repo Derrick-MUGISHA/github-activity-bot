@@ -31,21 +31,6 @@
       "user": "MLH Team"
     },
     {
-      "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
-      "url": "https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl",
-      "published_at": "2026-11-06T23:51:03Z",
-      "description": "Why does standard AI code generation try to jump straight to 'Have' without the proper 'Be'? How ladder rungs, the 'Null-State' couch flash, and stand-up comedy explain what separates senior engineers from junior token streamers.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmc7bd0mpw7k0aq4vsqj4.jpg",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "What I Learned Managing a Full Project with Antigravity",
       "url": "https://dev.to/gde/what-i-learned-managing-a-full-project-with-antigravity-1ppc",
       "published_at": "2026-11-03T21:39:03Z",
@@ -315,17 +300,17 @@
       "user": "Wesley Chun (@wescpy)"
     },
     {
-      "title": "Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase",
+      "title": "Google AI Classroom Part 1: Architecting a Scale-to-Zero Serverless AI Classroom with Gemini 4, Gemma 4 E2B & Firebase",
       "url": "https://dev.to/gde/google-ai-classroom-part-1-solving-the-25-per-exam-problem-architecting-a-sub-002student-fjc",
       "published_at": "2026-11-09T07:21:59Z",
-      "description": "Author: Cyrus Wong (黃俊彥) — Google Developer Expert - Cloud (AI), Senior Lecturer at HKIIT           ...",
+      "description": "Architecting a scale-to-zero serverless AI platform for teaching, learning, student performance, and proctored assessments on Google Cloud.",
       "tags": [
+        "googlecloud",
         "ai",
-        "architecture",
-        "cloud",
+        "webdev",
         "serverless"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Few0no0kions6muc41fdx.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog01_cover_serverless_ai_classroom.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "Cyrus Wong"
     },
@@ -358,6 +343,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8cyh245tpbjsoz92g3u1.png",
       "source": "Dev.to",
       "user": "MLH Team"
+    },
+    {
+      "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
+      "url": "https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl",
+      "published_at": "2026-11-06T23:51:03Z",
+      "description": "Why does standard AI code generation try to jump straight to 'Have' without the proper 'Be'? How ladder rungs, the 'Null-State' couch flash, and stand-up comedy explain what separates senior engineers from junior token streamers.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmc7bd0mpw7k0aq4vsqj4.jpg",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
     },
     {
       "title": "How to Build Your Own Google Antigravity Plugin: Packaging Skills, MCP Servers, Subagents, Rules, and Hooks",
@@ -704,18 +704,6 @@
       "user": "iancarroll"
     },
     {
-      "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
-      "url": "https://www.armaansahni.com/game/",
-      "published_at": "2024-12-03T22:08:16Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "veesahni"
-    },
-    {
       "title": "If AI writes your code, why use Python?",
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
       "published_at": "2026-05-11T20:45:55Z",
@@ -763,7 +751,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 1688,
+      "stars": 1773,
       "user": "DIYgod"
     },
     {
@@ -778,7 +766,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 548,
       "user": "devvmhq"
     },
     {
@@ -793,7 +781,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26252739?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 447,
       "user": "TooonyChen"
     },
     {
@@ -840,13 +828,26 @@
       "title": "How to get the lowest value from a tuple, contained within a list with other tuples as elements?",
       "url": "https://stackoverflow.com/questions/80015895/how-to-get-the-lowest-value-from-a-tuple-contained-within-a-list-with-other-tup",
       "published_at": "2026-11-10T21:58:21.000Z",
-      "description": "Stack Overflow question · 3 answers · score -4",
+      "description": "Stack Overflow question · 3 answers · score -5",
       "tags": [
         "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Manos Fountis"
+    },
+    {
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "published_at": "2026-11-11T07:30:51.000Z",
+      "description": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "tags": [
+        "AI",
+        "TC"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Connie Loizos"
     },
     {
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -953,22 +954,6 @@
       "user": "Lucas Ropek"
     },
     {
-      "title": "Pixel Tag, Google&#8217;s $30 Android-ready answer to Apple&#8217;s AirTag, is now available",
-      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-      "published_at": "2026-11-10T18:49:19.000Z",
-      "description": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "TC",
-        "Android",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
       "title": "Learn Agentic Coding with Codex & AI Coding Agents",
       "url": "https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/",
       "published_at": "2026-11-10T16:01:58.000Z",
@@ -1073,54 +1058,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Yarn – A new package manager for JavaScript",
-      "url": "https://code.facebook.com/posts/1840075619545360",
-      "published_at": "2016-10-11T15:00:38Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "cpojer"
-    },
-    {
-      "title": "A spreadsheet in fewer than 30 lines of JavaScript, no library used",
-      "url": "http://jsfiddle.net/ondras/hYfN3/",
-      "published_at": "2013-11-13T14:38:18Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "ondras"
-    },
-    {
-      "title": "Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig",
-      "url": "https://bun.sh/?launch",
-      "published_at": "2022-07-05T20:41:53Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "firloop"
-    },
-    {
-      "title": "JavaScript Temporal is coming",
-      "url": "https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/",
-      "published_at": "2025-01-30T11:28:31Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "SigmundurM"
-    },
-    {
       "title": "Show HN: Meteor, a realtime JavaScript framework",
       "url": "http://www.meteor.com",
       "published_at": "2012-04-10T22:55:40Z",
@@ -1157,30 +1094,6 @@
       "user": "EntICOnc"
     },
     {
-      "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
-      "url": "https://www.armaansahni.com/game/",
-      "published_at": "2024-12-03T22:08:16Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "veesahni"
-    },
-    {
-      "title": "Draw SVG rope using JavaScript",
-      "url": "https://muffinman.io/blog/draw-svg-rope-using-javascript/",
-      "published_at": "2022-12-31T15:43:54Z",
-      "description": "HackerNews Discussion",
-      "tags": [
-        "JavaScript"
-      ],
-      "cover_image": null,
-      "source": "HackerNews",
-      "user": "stanko"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -1191,6 +1104,78 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "Show HN: RoughJS – Create hand-drawn graphics using JavaScript",
+      "url": "http://roughjs.com/",
+      "published_at": "2018-03-12T21:28:17Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "shihn"
+    },
+    {
+      "title": "Tearable Cloth Simulation in JavaScript",
+      "url": "http://codepen.io/stuffit/pen/KrAwx",
+      "published_at": "2013-04-23T00:58:21Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "NathanKP"
+    },
+    {
+      "title": "GoDaddy injecting JavaScript into websites and how to stop it",
+      "url": "https://www.igorkromin.net/index.php/2019/01/13/godaddy-is-sneakily-injecting-javascript-into-your-website-and-how-to-stop-it/",
+      "published_at": "2019-01-13T03:10:57Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "ikromin"
+    },
+    {
+      "title": "QuickJS JavaScript Engine",
+      "url": "https://bellard.org/quickjs/",
+      "published_at": "2019-07-11T13:02:30Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "apaprocki"
+    },
+    {
+      "title": "Calls between JavaScript and WebAssembly are finally fast",
+      "url": "https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%f0%9f%8e%89/",
+      "published_at": "2018-10-08T15:37:42Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "lainon"
+    },
+    {
+      "title": "JavaScript Trademark Update",
+      "url": "https://deno.com/blog/deno-v-oracle4",
+      "published_at": "2025-06-28T18:52:00Z",
+      "description": "HackerNews Discussion",
+      "tags": [
+        "JavaScript"
+      ],
+      "cover_image": null,
+      "source": "HackerNews",
+      "user": "thebeardisred"
     },
     {
       "title": "JenkinWoo/sheeridVerify - GitHub Repository",
@@ -1204,7 +1189,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 2008,
+      "stars": 2016,
       "user": "JenkinWoo"
     },
     {
@@ -1238,10 +1223,10 @@
       "user": "Gacktadactle"
     },
     {
-      "title": "FJNB5/fujiang-pojia - 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面",
+      "title": "FJNB5/fujiang-pojia - 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面",
       "url": "https://github.com/FJNB5/fujiang-pojia",
       "published_at": "2026-11-09T05:55:55Z",
-      "description": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面",
+      "description": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面",
       "tags": [
         "javascript",
         "github",
@@ -1249,7 +1234,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337416215?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 564,
       "user": "FJNB5"
     },
     {
@@ -1264,8 +1249,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 405,
       "user": "shanselman"
+    },
+    {
+      "title": "RolandoV3/metatrader-5-bot - Community-driven MetaTrader 5 bot with full features ready for desktop use",
+      "url": "https://github.com/RolandoV3/metatrader-5-bot",
+      "published_at": "2026-11-06T21:09:36Z",
+      "description": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/92120047?v=4",
+      "source": "GitHub",
+      "stars": 774,
+      "user": "RolandoV3"
     },
     {
       "title": "rdeepak-wq121/quicken-deluxe-installer - Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
@@ -1298,21 +1298,6 @@
       "user": "SK-Dev666"
     },
     {
-      "title": "RolandoV3/metatrader-5-bot - Community-driven MetaTrader 5 bot with full features ready for desktop use",
-      "url": "https://github.com/RolandoV3/metatrader-5-bot",
-      "published_at": "2026-11-06T21:09:36Z",
-      "description": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92120047?v=4",
-      "source": "GitHub",
-      "stars": 773,
-      "user": "RolandoV3"
-    },
-    {
       "title": "Marcian15350/robux-generator-enhancement - Robux-Generator: Full Installer, All Features Activated, Desktop-Ready",
       "url": "https://github.com/Marcian15350/robux-generator-enhancement",
       "published_at": "2026-11-06T21:20:48Z",
@@ -1343,6 +1328,21 @@
       "user": "tss878"
     },
     {
+      "title": "Does Cache distort images on a website or is it something else",
+      "url": "https://stackoverflow.com/questions/80015979/does-cache-distort-images-on-a-website-or-is-it-something-else",
+      "published_at": "2026-11-11T07:51:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "css",
+        "caching",
+        "image-scaling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "rickymwethera"
+    },
+    {
       "title": "Passing form data from a popup window in Flask",
       "url": "https://stackoverflow.com/questions/80015811/passing-form-data-from-a-popup-window-in-flask",
       "published_at": "2026-11-10T12:39:07.000Z",
@@ -1355,18 +1355,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "katastrophe"
-    },
-    {
-      "title": "How does JavaScript interpret this code with the word \"index\"?",
-      "url": "https://stackoverflow.com/questions/80015768/how-does-javascript-interpret-this-code-with-the-word-index",
-      "published_at": "2026-11-10T07:05:14.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Oluwakoretimi Odesanya"
     },
     {
       "title": "How can you make it to where when someone enters 2 numbers that when they click the button, a letter goes into the grid in javascript",
@@ -1393,20 +1381,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Kingsley Chibueze"
-    },
-    {
-      "title": "How to set button in the middle of the screen in JS",
-      "url": "https://stackoverflow.com/questions/80015618/how-to-set-button-in-the-middle-of-the-screen-in-js",
-      "published_at": "2026-11-09T10:04:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "бобик"
     },
     {
       "title": "bug between v10.7 and v10.8 and later",
@@ -1478,6 +1452,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ali Khattak"
+    },
+    {
+      "title": "How to reset an HTML element to its first/initial value in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79820285/how-to-reset-an-html-element-to-its-first-initial-value-in-javascript",
+      "published_at": "2025-11-14T17:11:16.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Milichip"
     },
     {
       "title": "X-energy gets green light to build its first small modular nuclear reactors",
@@ -1776,7 +1764,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1650,
+      "stars": 1682,
       "user": "mmdoctor"
     },
     {
@@ -1791,7 +1779,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 1088,
+      "stars": 1113,
       "user": "WoYun520"
     },
     {
@@ -1806,8 +1794,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1036,
       "user": "Th0rgal"
+    },
+    {
+      "title": "HybridRobotics/supermimic - Humanoid whole-body motion tracking with one differentiable world model.",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "published_at": "2026-11-10T10:46:56Z",
+      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10053058?v=4",
+      "source": "GitHub",
+      "stars": 813,
+      "user": "HybridRobotics"
     },
     {
       "title": "farhatullah0006-art/rx-11-audio-editor-config - rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing",
@@ -1823,21 +1826,6 @@
       "source": "GitHub",
       "stars": 771,
       "user": "farhatullah0006-art"
-    },
-    {
-      "title": "majorminorlabs/hermes-voice - Talk to a Hermes Agent profile through Home Assistant Assist",
-      "url": "https://github.com/majorminorlabs/hermes-voice",
-      "published_at": "2026-11-05T05:28:37Z",
-      "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308845393?v=4",
-      "source": "GitHub",
-      "stars": 651,
-      "user": "majorminorlabs"
     },
     {
       "title": "Passing form data from a popup window in Flask",
@@ -1857,7 +1845,7 @@
       "title": "How to get the lowest value from a tuple, contained within a list with other tuples as elements?",
       "url": "https://stackoverflow.com/questions/80015895/how-to-get-the-lowest-value-from-a-tuple-contained-within-a-list-with-other-tup",
       "published_at": "2026-11-10T21:58:21.000Z",
-      "description": "Stack Overflow question · 3 answers · score -4",
+      "description": "Stack Overflow question · 3 answers · score -5",
       "tags": [
         "python"
       ],
@@ -1891,6 +1879,19 @@
       "user": "Joshua White"
     },
     {
+      "title": "Trigonometric computation using math library",
+      "url": "https://stackoverflow.com/questions/80015841/trigonometric-computation-using-math-library",
+      "published_at": "2026-11-10T16:06:48.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "python",
+        "math"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "zpargo87"
+    },
+    {
       "title": "Accessing a model's individual layer",
       "url": "https://stackoverflow.com/questions/80015880/accessing-a-models-individual-layer",
       "published_at": "2026-11-10T19:35:08.000Z",
@@ -1904,19 +1905,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Jordon"
-    },
-    {
-      "title": "Trigonometric computation using math library",
-      "url": "https://stackoverflow.com/questions/80015841/trigonometric-computation-using-math-library",
-      "published_at": "2026-11-10T16:06:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
-      "tags": [
-        "python",
-        "math"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "zpargo87"
     },
     {
       "title": "Visual Studio Code started adding extra \"\\\" to file paths; can no longer run files",
@@ -1935,7 +1923,7 @@
       "title": "Asyncio Unhandled Exception in atexit",
       "url": "https://stackoverflow.com/questions/80015847/asyncio-unhandled-exception-in-atexit",
       "published_at": "2026-11-10T16:22:45.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "python-asyncio"
@@ -1945,10 +1933,23 @@
       "user": "Shankboy"
     },
     {
+      "title": "Difference between __import__() and importlib.__import__()",
+      "url": "https://stackoverflow.com/questions/80015734/difference-between-import-and-importlib-import",
+      "published_at": "2026-11-09T22:39:40.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "python",
+        "python-import"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "JadenV15"
+    },
+    {
       "title": "How to add image on gui using tkinter on macOS?",
       "url": "https://stackoverflow.com/questions/80015798/how-to-add-image-on-gui-using-tkinter-on-macos",
       "published_at": "2026-11-10T10:44:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score -8",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "python",
         "macos",
@@ -1958,20 +1959,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "黃yu"
-    },
-    {
-      "title": "What does __lazy_import__() return?",
-      "url": "https://stackoverflow.com/questions/80015735/what-does-lazy-import-return",
-      "published_at": "2026-11-09T22:50:32.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "python-import",
-        "python-3.15"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
     }
   ],
   "DevOps": [
@@ -2230,10 +2217,25 @@
       "user": "velmu"
     },
     {
-      "title": "How to set button in the middle of the screen in JS",
-      "url": "https://stackoverflow.com/questions/80015618/how-to-set-button-in-the-middle-of-the-screen-in-js",
-      "published_at": "2026-11-09T10:04:20.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "title": "Does Cache distort images on a website or is it something else",
+      "url": "https://stackoverflow.com/questions/80015979/does-cache-distort-images-on-a-website-or-is-it-something-else",
+      "published_at": "2026-11-11T07:51:18.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "javascript",
+        "css",
+        "caching",
+        "image-scaling"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "rickymwethera"
+    },
+    {
+      "title": "How to reset an HTML element to its first/initial value in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79820285/how-to-reset-an-html-element-to-its-first-initial-value-in-javascript",
+      "published_at": "2025-11-14T17:11:16.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
       "tags": [
         "javascript",
         "html",
@@ -2241,7 +2243,7 @@
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "бобик"
+      "user": "Milichip"
     },
     {
       "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
@@ -2379,22 +2381,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Ali Khattak"
-    },
-    {
-      "title": "Pixel Tag, Google&#8217;s $30 Android-ready answer to Apple&#8217;s AirTag, is now available",
-      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-      "published_at": "2026-11-10T18:49:19.000Z",
-      "description": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "TC",
-        "Android",
-        "Google"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
     },
     {
       "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
@@ -2547,17 +2533,17 @@
       "user": "xbill"
     },
     {
-      "title": "Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase",
+      "title": "Google AI Classroom Part 1: Architecting a Scale-to-Zero Serverless AI Classroom with Gemini 4, Gemma 4 E2B & Firebase",
       "url": "https://dev.to/gde/google-ai-classroom-part-1-solving-the-25-per-exam-problem-architecting-a-sub-002student-fjc",
       "published_at": "2026-11-09T07:21:59Z",
-      "description": "Author: Cyrus Wong (黃俊彥) — Google Developer Expert - Cloud (AI), Senior Lecturer at HKIIT           ...",
+      "description": "Architecting a scale-to-zero serverless AI platform for teaching, learning, student performance, and proctored assessments on Google Cloud.",
       "tags": [
+        "googlecloud",
         "ai",
-        "architecture",
-        "cloud",
+        "webdev",
         "serverless"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Few0no0kions6muc41fdx.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog01_cover_serverless_ai_classroom.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "Cyrus Wong"
     },
@@ -2904,21 +2890,6 @@
   ],
   "Tools": [
     {
-      "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
-      "url": "https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl",
-      "published_at": "2026-11-06T23:51:03Z",
-      "description": "Why does standard AI code generation try to jump straight to 'Have' without the proper 'Be'? How ladder rungs, the 'Null-State' couch flash, and stand-up comedy explain what separates senior engineers from junior token streamers.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmc7bd0mpw7k0aq4vsqj4.jpg",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
       "title": "Who is building solutions with documents?",
       "url": "https://dev.to/missamarakay/who-is-building-solutions-for-documents-4d58",
       "published_at": "2026-11-05T21:23:07Z",
@@ -3006,6 +2977,21 @@
       "user": "JimmyLiao"
     },
     {
+      "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
+      "url": "https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl",
+      "published_at": "2026-11-06T23:51:03Z",
+      "description": "Why does standard AI code generation try to jump straight to 'Have' without the proper 'Be'? How ladder rungs, the 'Null-State' couch flash, and stand-up comedy explain what separates senior engineers from junior token streamers.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmc7bd0mpw7k0aq4vsqj4.jpg",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "How to Build Your Own Google Antigravity Plugin: Packaging Skills, MCP Servers, Subagents, Rules, and Hooks",
       "url": "https://dev.to/gde/how-to-build-your-own-google-antigravity-plugin-packaging-skills-mcp-servers-subagents-rules-23p9",
       "published_at": "2026-11-03T15:24:30Z",
@@ -3083,7 +3069,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 2008,
+      "stars": 2016,
       "user": "JenkinWoo"
     },
     {
@@ -3117,10 +3103,10 @@
       "user": "Gacktadactle"
     },
     {
-      "title": "FJNB5/fujiang-pojia - 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面",
+      "title": "FJNB5/fujiang-pojia - 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面",
       "url": "https://github.com/FJNB5/fujiang-pojia",
       "published_at": "2026-11-09T05:55:55Z",
-      "description": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面",
+      "description": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面",
       "tags": [
         "javascript",
         "github",
@@ -3128,7 +3114,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337416215?v=4",
       "source": "GitHub",
-      "stars": 521,
+      "stars": 564,
       "user": "FJNB5"
     },
     {
@@ -3143,7 +3129,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 401,
+      "stars": 405,
       "user": "shanselman"
     },
     {
@@ -3158,7 +3144,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1650,
+      "stars": 1682,
       "user": "mmdoctor"
     },
     {
@@ -3173,7 +3159,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 1088,
+      "stars": 1113,
       "user": "WoYun520"
     },
     {
@@ -3188,8 +3174,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1034,
+      "stars": 1036,
       "user": "Th0rgal"
+    },
+    {
+      "title": "HybridRobotics/supermimic - Humanoid whole-body motion tracking with one differentiable world model.",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "published_at": "2026-11-10T10:46:56Z",
+      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/10053058?v=4",
+      "source": "GitHub",
+      "stars": 813,
+      "user": "HybridRobotics"
     },
     {
       "title": "farhatullah0006-art/rx-11-audio-editor-config - rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing",
@@ -3207,21 +3208,6 @@
       "user": "farhatullah0006-art"
     },
     {
-      "title": "majorminorlabs/hermes-voice - Talk to a Hermes Agent profile through Home Assistant Assist",
-      "url": "https://github.com/majorminorlabs/hermes-voice",
-      "published_at": "2026-11-05T05:28:37Z",
-      "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/308845393?v=4",
-      "source": "GitHub",
-      "stars": 651,
-      "user": "majorminorlabs"
-    },
-    {
       "title": "DIYgod/pinky - Let AI agents use your phone, with you in the loop.",
       "url": "https://github.com/DIYgod/pinky",
       "published_at": "2026-11-06T16:53:14Z",
@@ -3233,7 +3219,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 1688,
+      "stars": 1773,
       "user": "DIYgod"
     },
     {
@@ -3263,7 +3249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348458842?v=4",
       "source": "GitHub",
-      "stars": 587,
+      "stars": 654,
       "user": "HolyArrs"
     },
     {
@@ -3278,7 +3264,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 539,
+      "stars": 548,
       "user": "devvmhq"
     },
     {
@@ -3293,8 +3279,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26252739?v=4",
       "source": "GitHub",
-      "stars": 440,
+      "stars": 447,
       "user": "TooonyChen"
+    },
+    {
+      "title": "RolandoV3/metatrader-5-bot - Community-driven MetaTrader 5 bot with full features ready for desktop use",
+      "url": "https://github.com/RolandoV3/metatrader-5-bot",
+      "published_at": "2026-11-06T21:09:36Z",
+      "description": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/92120047?v=4",
+      "source": "GitHub",
+      "stars": 774,
+      "user": "RolandoV3"
     },
     {
       "title": "rdeepak-wq121/quicken-deluxe-installer - Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
@@ -3325,21 +3326,6 @@
       "source": "GitHub",
       "stars": 773,
       "user": "SK-Dev666"
-    },
-    {
-      "title": "RolandoV3/metatrader-5-bot - Community-driven MetaTrader 5 bot with full features ready for desktop use",
-      "url": "https://github.com/RolandoV3/metatrader-5-bot",
-      "published_at": "2026-11-06T21:09:36Z",
-      "description": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92120047?v=4",
-      "source": "GitHub",
-      "stars": 773,
-      "user": "RolandoV3"
     },
     {
       "title": "Marcian15350/robux-generator-enhancement - Robux-Generator: Full Installer, All Features Activated, Desktop-Ready",
@@ -3383,7 +3369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4026659?v=4",
       "source": "GitHub",
-      "stars": 1705,
+      "stars": 1792,
       "user": "jamesondh"
     },
     {
@@ -3398,7 +3384,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
       "source": "GitHub",
-      "stars": 1357,
+      "stars": 1367,
       "user": "voyager-so"
     },
     {
@@ -3417,21 +3403,6 @@
       "user": "thiagoaureliomartins-programador"
     },
     {
-      "title": "PlateParrotTerminal/lag-doctor - Game ping, jitter & packet loss monitor: finds who causes your lag",
-      "url": "https://github.com/PlateParrotTerminal/lag-doctor",
-      "published_at": "2026-11-08T04:19:51Z",
-      "description": "Game ping, jitter & packet loss monitor: finds who causes your lag",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317179077?v=4",
-      "source": "GitHub",
-      "stars": 450,
-      "user": "PlateParrotTerminal"
-    },
-    {
       "title": "Gloridust/WowType - 像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入，越用越懂你。",
       "url": "https://github.com/Gloridust/WowType",
       "published_at": "2026-11-06T14:48:19Z",
@@ -3443,8 +3414,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88082356?v=4",
       "source": "GitHub",
-      "stars": 423,
+      "stars": 513,
       "user": "Gloridust"
+    },
+    {
+      "title": "PlateParrotTerminal/lag-doctor - Game ping, jitter & packet loss monitor: finds who causes your lag",
+      "url": "https://github.com/PlateParrotTerminal/lag-doctor",
+      "published_at": "2026-11-08T04:19:51Z",
+      "description": "Game ping, jitter & packet loss monitor: finds who causes your lag",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317179077?v=4",
+      "source": "GitHub",
+      "stars": 453,
+      "user": "PlateParrotTerminal"
     },
     {
       "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
