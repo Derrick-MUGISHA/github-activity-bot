@@ -1,66 +1,6 @@
 {
   "AI": [
     {
-      "title": "Take a Claude Agent SDK agent from install to deploy with Agents CLI",
-      "url": "https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680",
-      "published_at": "2026-11-09T13:21:04Z",
-      "description": "How the Claude extension in Agents CLI takes a Claude Agent SDK agent from install to a validated Cloud Run deploy, with sessions, tracing and eval set up for you.",
-      "tags": [
-        "agents",
-        "ai",
-        "cli",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Finstall-to-deploy.C15g2bQ1_2c2tyH.webp",
-      "source": "Dev.to",
-      "user": "Elia Secchi"
-    },
-    {
-      "title": "Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B",
-      "url": "https://dev.to/gde/six-serving-engines-on-one-cloud-tpu-v5e-chip-gemma-4-e2b-22hn",
-      "published_at": "2026-11-09T16:00:42Z",
-      "description": "vLLM, SGLang-JAX, a pure-JAX engine, a Rust model over PJRT, and TorchTPU in Python and Rust serve Gemma 4 E2B on one flex-start v5e-1, with the same prompts, the same 1-to-64-request sweep and the same GSM8K questions. vLLM is the engine that serves out of the box; SGLang-JAX with an E2B patch is the fastest at every load from 8 requests up.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "vllm",
-        "jax"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-v5e1%2Fdevto-cover.7c2d5345.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)",
-      "url": "https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf",
-      "published_at": "2026-11-09T15:10:32Z",
-      "description": "What happens when the hardest-working user on your 16GB Mac and multi-cloud Ubuntu Dev-Box is a fleet of 20+ AI coding agents? Real benchmarks and fixes for 8s Chrome 136+ CDP hangs, 12GB APFS ghost clones, WindowServer freezes, and tmux reboot amnesia.",
-      "tags": [
-        "gemini",
-        "googlecloud",
-        "ai",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fjimmyliao%2Fax-playbook%2Fmain%2Fassets%2Fax-playbook-cover-wide.en.png",
-      "source": "Dev.to",
-      "user": "JimmyLiao"
-    },
-    {
-      "title": "Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e",
-      "url": "https://dev.to/gde/porting-gemma-4-e2b-to-sglang-jax-on-one-cloud-tpu-v5e-5e9l",
-      "published_at": "2026-11-09T17:16:08Z",
-      "description": "SGLang-JAX serves the Gemma 4 31B and 26B A4B on TPU and fails to load E2B. A two-file patch adds per-layer embeddings, shared K/V and the double-wide MLP; on one flex-start v5e-1 it then serves 159.9 tokens per second for one request and 4,249.4 at 64, 2.52x vLLM, with GSM8K level with the bf16 JAX engine.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "jax",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsglangjax-e2b-v5e1%2Fdevto-cover.1cd3c453.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
       "url": "https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh",
       "published_at": "2026-11-07T21:34:26Z",
@@ -74,21 +14,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8y3gkk7ib2778kh57mp.jpg",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase",
-      "url": "https://dev.to/gde/google-ai-classroom-part-1-solving-the-25-per-exam-problem-architecting-a-sub-002student-fjc",
-      "published_at": "2026-11-09T07:21:59Z",
-      "description": "Author: Cyrus Wong (黃俊彥) — Google Developer Expert - Cloud (AI), Senior Lecturer at HKIIT           ...",
-      "tags": [
-        "ai",
-        "architecture",
-        "cloud",
-        "serverless"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Few0no0kions6muc41fdx.png",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
     },
     {
       "title": "Prompt Pad: What Are Open-Weight Models?",
@@ -106,21 +31,6 @@
       "user": "MLH Team"
     },
     {
-      "title": "What I Learned Managing a Full Project with Antigravity",
-      "url": "https://dev.to/gde/what-i-learned-managing-a-full-project-with-antigravity-1ppc",
-      "published_at": "2026-11-03T21:39:03Z",
-      "description": "How my workflow evolved from solo prompting in AI Studio to managing a multi-model AI team, running...",
-      "tags": [
-        "antigravity",
-        "gemini",
-        "ai",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3we6kl95okn3atgkn9wg.jpg",
-      "source": "Dev.to",
-      "user": "Patricio Navarro"
-    },
-    {
       "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
       "url": "https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl",
       "published_at": "2026-11-06T23:51:03Z",
@@ -134,6 +44,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmc7bd0mpw7k0aq4vsqj4.jpg",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "What I Learned Managing a Full Project with Antigravity",
+      "url": "https://dev.to/gde/what-i-learned-managing-a-full-project-with-antigravity-1ppc",
+      "published_at": "2026-11-03T21:39:03Z",
+      "description": "How my workflow evolved from solo prompting in AI Studio to managing a multi-model AI team, running...",
+      "tags": [
+        "antigravity",
+        "gemini",
+        "ai",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3we6kl95okn3atgkn9wg.jpg",
+      "source": "Dev.to",
+      "user": "Patricio Navarro"
     },
     {
       "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
@@ -163,6 +88,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftn3p67u8ofy4cefxftvd.png",
       "source": "Dev.to",
       "user": "MLH Team"
+    },
+    {
+      "title": "Take Claude Code Above Average: Let Antigravity Review It",
+      "url": "https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g",
+      "published_at": "2026-11-09T08:18:56Z",
+      "description": "In November 2026, I spent a day building a small tool with Claude Code: a bridge that lets a second...",
+      "tags": [
+        "agents",
+        "ai",
+        "softwaredevelopment",
+        "tools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxi7u2r8ll1or4mpcr2xe.png",
+      "source": "Dev.to",
+      "user": "Daniel Gwerzman"
     },
     {
       "title": "Find the production agent failures that every health check misses",
@@ -195,21 +135,6 @@
       "user": "Jem"
     },
     {
-      "title": "Take Claude Code Above Average: Let Antigravity Review It",
-      "url": "https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g",
-      "published_at": "2026-11-09T08:18:56Z",
-      "description": "In November 2026, I spent a day building a small tool with Claude Code: a bridge that lets a second...",
-      "tags": [
-        "agents",
-        "ai",
-        "softwaredevelopment",
-        "tools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxi7u2r8ll1or4mpcr2xe.png",
-      "source": "Dev.to",
-      "user": "Daniel Gwerzman"
-    },
-    {
       "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
       "url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io",
       "published_at": "2026-11-03T14:00:00Z",
@@ -225,19 +150,19 @@
       "user": "MLH Team"
     },
     {
-      "title": "Six Serving Engines, One 8 GB GPU: Gemma 4 E2B on an RTX 3050",
-      "url": "https://dev.to/gde/six-serving-engines-one-8-gb-gpu-gemma-4-e2b-on-an-rtx-3050-ad7",
-      "published_at": "2026-11-08T19:08:37Z",
-      "description": "llama.cpp, vLLM, SGLang, mistral.rs, a plain PyTorch engine and LiteRT-LM serve the same 4-bit Gemma 4 E2B on one 8 GB RTX 3050, measured with the same prompts, the same load sweep and the same GSM8K and BFCL questions. GSM8K is level on every engine; vLLM is the fastest up to 16 requests and within 3% of SGLang beyond.",
+      "title": "Take a Claude Agent SDK agent from install to deploy with Agents CLI",
+      "url": "https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680",
+      "published_at": "2026-11-09T13:21:04Z",
+      "description": "How the Claude extension in Agents CLI takes a Claude Agent SDK agent from install to a validated Cloud Run deploy, with sessions, tracing and eval set up for you.",
       "tags": [
-        "gemma",
-        "vllm",
-        "llamacpp",
-        "nvidia"
+        "agents",
+        "ai",
+        "cli",
+        "python"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-3050%2Fdevto-cover.91723b8d.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Finstall-to-deploy.C15g2bQ1_2c2tyH.webp",
       "source": "Dev.to",
-      "user": "xbill"
+      "user": "Elia Secchi"
     },
     {
       "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
@@ -315,6 +240,51 @@
       "user": "Connie Leung"
     },
     {
+      "title": "Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B",
+      "url": "https://dev.to/gde/six-serving-engines-on-one-cloud-tpu-v5e-chip-gemma-4-e2b-22hn",
+      "published_at": "2026-11-09T16:00:42Z",
+      "description": "vLLM, SGLang-JAX, a pure-JAX engine, a Rust model over PJRT, and TorchTPU in Python and Rust serve Gemma 4 E2B on one flex-start v5e-1, with the same prompts, the same 1-to-64-request sweep and the same GSM8K questions. vLLM is the engine that serves out of the box; SGLang-JAX with an E2B patch is the fastest at every load from 8 requests up.",
+      "tags": [
+        "googlecloud",
+        "tpu",
+        "vllm",
+        "jax"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-v5e1%2Fdevto-cover.7c2d5345.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)",
+      "url": "https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf",
+      "published_at": "2026-11-09T15:10:32Z",
+      "description": "What happens when the hardest-working user on your 16GB Mac and multi-cloud Ubuntu Dev-Box is a fleet of 20+ AI coding agents? Real benchmarks and fixes for 8s Chrome 136+ CDP hangs, 12GB APFS ghost clones, WindowServer freezes, and tmux reboot amnesia.",
+      "tags": [
+        "gemini",
+        "googlecloud",
+        "ai",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fjimmyliao%2Fax-playbook%2Fmain%2Fassets%2Fax-playbook-cover-wide.en.png",
+      "source": "Dev.to",
+      "user": "JimmyLiao"
+    },
+    {
+      "title": "Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e",
+      "url": "https://dev.to/gde/porting-gemma-4-e2b-to-sglang-jax-on-one-cloud-tpu-v5e-5e9l",
+      "published_at": "2026-11-09T17:16:08Z",
+      "description": "SGLang-JAX serves the Gemma 4 31B and 26B A4B on TPU and fails to load E2B. A two-file patch adds per-layer embeddings, shared K/V and the double-wide MLP; on one flex-start v5e-1 it then serves 159.9 tokens per second for one request and 4,249.4 at 64, 2.52x vLLM, with GSM8K level with the bf16 JAX engine.",
+      "tags": [
+        "googlecloud",
+        "tpu",
+        "jax",
+        "gemma"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsglangjax-e2b-v5e1%2Fdevto-cover.1cd3c453.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
       "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
       "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72",
       "published_at": "2026-11-04T22:49:08Z",
@@ -345,6 +315,21 @@
       "user": "Wesley Chun (@wescpy)"
     },
     {
+      "title": "Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase",
+      "url": "https://dev.to/gde/google-ai-classroom-part-1-solving-the-25-per-exam-problem-architecting-a-sub-002student-fjc",
+      "published_at": "2026-11-09T07:21:59Z",
+      "description": "Author: Cyrus Wong (黃俊彥) — Google Developer Expert - Cloud (AI), Senior Lecturer at HKIIT           ...",
+      "tags": [
+        "ai",
+        "architecture",
+        "cloud",
+        "serverless"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Few0no0kions6muc41fdx.png",
+      "source": "Dev.to",
+      "user": "Cyrus Wong"
+    },
+    {
       "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
       "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a",
       "published_at": "2026-11-05T00:02:44Z",
@@ -358,36 +343,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp24lnbmzkhrdluxod8g5.jpg",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
-      "url": "https://dev.to/gde/how-i-made-a-voice-clone-in-minutes-using-google-antigravity-gemini-38-flash-tts-and-my-harness-10j3",
-      "published_at": "2026-11-08T11:56:59Z",
-      "description": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
-      "tags": [
-        "googlecloud",
-        "agenticai",
-        "voicecloning",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foo84zc93up8vufknil0z.png",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
-      "title": "Stop Passive AI Rewrites: Agentic Coaching in Google Docs with gdocumentor",
-      "url": "https://dev.to/gde/stop-passive-ai-rewrites-agentic-coaching-in-google-docs-with-gdocumentor-2448",
-      "published_at": "2026-11-08T02:40:06Z",
-      "description": "A Go CLI and MCP server that turns Gemini and any AI agent into a Socratic writing and code...",
-      "tags": [
-        "ai",
-        "gemini",
-        "googleworkspace",
-        "go"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9h42vs1zak8w0eaxsb2m.png",
-      "source": "Dev.to",
-      "user": "Tanaike"
     },
     {
       "title": "Prompt Pad: What Is Open Source?",
@@ -418,6 +373,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzxqoxai889zaalm2asa7.png",
       "source": "Dev.to",
       "user": "Carlos Barbero"
+    },
+    {
+      "title": "Six Serving Engines, One 8 GB GPU: Gemma 4 E2B on an RTX 3050",
+      "url": "https://dev.to/gde/six-serving-engines-one-8-gb-gpu-gemma-4-e2b-on-an-rtx-3050-ad7",
+      "published_at": "2026-11-08T19:08:37Z",
+      "description": "llama.cpp, vLLM, SGLang, mistral.rs, a plain PyTorch engine and LiteRT-LM serve the same 4-bit Gemma 4 E2B on one 8 GB RTX 3050, measured with the same prompts, the same load sweep and the same GSM8K and BFCL questions. GSM8K is level on every engine; vLLM is the fastest up to 16 requests and within 3% of SGLang beyond.",
+      "tags": [
+        "gemma",
+        "vllm",
+        "llamacpp",
+        "nvidia"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-3050%2Fdevto-cover.91723b8d.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Singularity News :: CCG",
@@ -479,6 +449,21 @@
       "user": "Connie Leung"
     },
     {
+      "title": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
+      "url": "https://dev.to/gde/how-i-made-a-voice-clone-in-minutes-using-google-antigravity-gemini-38-flash-tts-and-my-harness-10j3",
+      "published_at": "2026-11-08T11:56:59Z",
+      "description": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
+      "tags": [
+        "googlecloud",
+        "agenticai",
+        "voicecloning",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fderailed-dash%2Fblog-media%40main%2Farticles%2Fvoice-replication-with-antigravity%2Fmedia%2Fhero-banner.png",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
+    },
+    {
       "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
       "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1",
       "published_at": "2026-11-02T21:32:30Z",
@@ -494,6 +479,21 @@
       "user": "xbill"
     },
     {
+      "title": "Stop Passive AI Rewrites: Agentic Coaching in Google Docs with gdocumentor",
+      "url": "https://dev.to/gde/stop-passive-ai-rewrites-agentic-coaching-in-google-docs-with-gdocumentor-2448",
+      "published_at": "2026-11-08T02:40:06Z",
+      "description": "A Go CLI and MCP server that turns Gemini and any AI agent into a Socratic writing and code...",
+      "tags": [
+        "ai",
+        "gemini",
+        "googleworkspace",
+        "go"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9h42vs1zak8w0eaxsb2m.png",
+      "source": "Dev.to",
+      "user": "Tanaike"
+    },
+    {
       "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
       "url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
       "published_at": "2026-11-01T00:41:17Z",
@@ -507,21 +507,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqlk0251k4s6ucmxlzfnw.jpg",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
-      "url": "https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp",
-      "published_at": "2026-11-06T22:28:31Z",
-      "description": "Hey all, we have a quick update for everyone who participated in the Hacktoberfest Open-Source AI...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "hacktoberfest",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frhtnbaz5elh8xcpmie86.png",
-      "source": "Dev.to",
-      "user": "Jem"
     },
     {
       "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
@@ -582,6 +567,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv2t6rjorp8m7bmqbf03q.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?",
+      "url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l",
+      "published_at": "2026-10-24T16:27:19Z",
+      "description": "Picture this.  It's a few weeks from now. GPT-6 goes GA on Google Cloud. Five teams in your company...",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "finops",
+        "openai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flk8saxwe44um1cwcr17v.png",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -763,7 +763,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 1654,
+      "stars": 1688,
       "user": "DIYgod"
     },
     {
@@ -778,8 +778,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 539,
       "user": "devvmhq"
+    },
+    {
+      "title": "TooonyChen/finallyshell - 类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
+      "url": "https://github.com/TooonyChen/finallyshell",
+      "published_at": "2026-11-07T00:34:42Z",
+      "description": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/26252739?v=4",
+      "source": "GitHub",
+      "stars": 440,
+      "user": "TooonyChen"
     },
     {
       "title": "SK-Dev666/rust-external-trainer-tool - Rust External 2026: Full Standalone Trainer Setup, Tools and Dependencies Ready to Run",
@@ -809,40 +824,38 @@
       "user": "calvin"
     },
     {
-      "title": "Microsoft are rejecting your mail",
-      "url": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
-      "published_at": "2026-11-09T12:36:47.508-06:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Searching for pedagogical materials on memory models",
+      "url": "https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on",
+      "published_at": "2026-11-10T13:51:19.139-06:00",
+      "description": "Hi folks,\r\n\r\nI'm working on some supplementary materials for a course I'm TAing, my university's version of operating systems, that involves students developing an OS targeting a Raspberry Pi 3B+. One of the topics I'm trying to get at is strong and weak memory models (and why ARM has so many weird data/instruction buffer synchronization things students have to do when writing an MMU), so if you have any excellent example articles/passages/blogs on memory models that have helped you, please comment them so I can take a look!\r\n\r\nThanks!",
       "tags": [
-        "email"
+        "ask",
+        "osdev"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "robalex"
+      "user": "spoonmilk"
     },
     {
-      "title": "Why does MilvusClient.query() fail with VECTOR_FLOAT when sorting by a scalar ID?",
-      "url": "https://stackoverflow.com/questions/80015769/why-does-milvusclient-query-fail-with-vector-float-when-sorting-by-a-scalar-id",
-      "published_at": "2026-11-10T07:08:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
+      "title": "How to get the lowest value from a tuple, contained within a list with other tuples as elements?",
+      "url": "https://stackoverflow.com/questions/80015895/how-to-get-the-lowest-value-from-a-tuple-contained-within-a-list-with-other-tup",
+      "published_at": "2026-11-10T21:58:21.000Z",
+      "description": "Stack Overflow question · 3 answers · score -4",
       "tags": [
-        "python",
-        "vector-database",
-        "milvus"
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Cubkm Ewaybk"
+      "user": "Manos Fountis"
     },
     {
-      "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
       "published_at": "2026-11-10T21:08:52.000Z",
-      "description": "OpenAI has not yet said what its plans are for the future of travel. But \nSonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
       "tags": [
         "AI",
         "Startups",
-        "TC",
         "travel"
       ],
       "cover_image": null,
@@ -858,8 +871,8 @@
         "AI",
         "Government & Policy",
         "ai safety",
-        "kathy hochul",
-        "raise act"
+        "Anthropic",
+        "kathy hochul"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -869,7 +882,7 @@
       "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
       "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
       "published_at": "2026-11-10T20:47:05.000Z",
-      "description": "Former SignalFire investor Sahir Raoof raises $27.5M for new fund targeting AI in pharma",
+      "description": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
       "tags": [
         "Biotech & Health",
         "Venture",
@@ -954,21 +967,6 @@
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Sarah Perez"
-    },
-    {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "published_at": "2026-11-10T17:30:00.000Z",
-      "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Anthropic",
-        "Anthropic Claude"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
     },
     {
       "title": "Learn Agentic Coding with Codex & AI Coding Agents",
@@ -1206,7 +1204,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 2005,
+      "stars": 2008,
       "user": "JenkinWoo"
     },
     {
@@ -1251,7 +1249,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337416215?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 521,
       "user": "FJNB5"
     },
     {
@@ -1266,23 +1264,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 401,
       "user": "shanselman"
-    },
-    {
-      "title": "livliv-dev/player - A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-      "url": "https://github.com/livliv-dev/player",
-      "published_at": "2026-11-04T03:28:33Z",
-      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
-      "source": "GitHub",
-      "stars": 1455,
-      "user": "livliv-dev"
     },
     {
       "title": "rdeepak-wq121/quicken-deluxe-installer - Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
@@ -1345,6 +1328,21 @@
       "user": "Marcian15350"
     },
     {
+      "title": "tss878/delta-executor-toolkit - Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
+      "url": "https://github.com/tss878/delta-executor-toolkit",
+      "published_at": "2026-11-06T20:51:54Z",
+      "description": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329385096?v=4",
+      "source": "GitHub",
+      "stars": 772,
+      "user": "tss878"
+    },
+    {
       "title": "Passing form data from a popup window in Flask",
       "url": "https://stackoverflow.com/questions/80015811/passing-form-data-from-a-popup-window-in-flask",
       "published_at": "2026-11-10T12:39:07.000Z",
@@ -1374,7 +1372,7 @@
       "title": "How can you make it to where when someone enters 2 numbers that when they click the button, a letter goes into the grid in javascript",
       "url": "https://stackoverflow.com/questions/80015713/how-can-you-make-it-to-where-when-someone-enters-2-numbers-that-when-they-click",
       "published_at": "2026-11-09T19:13:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -14",
+      "description": "Stack Overflow question · 0 answers · score -15",
       "tags": [
         "javascript"
       ],
@@ -1386,7 +1384,7 @@
       "title": "How can I stream real-time candlestick updates to TradingView Lightweight Charts using Go?",
       "url": "https://stackoverflow.com/questions/80015690/how-can-i-stream-real-time-candlestick-updates-to-tradingview-lightweight-charts",
       "published_at": "2026-11-09T16:12:53.000Z",
-      "description": "Stack Overflow question · 0 answers · score -9",
+      "description": "Stack Overflow question · 0 answers · score -10",
       "tags": [
         "best-practices",
         "javascript",
@@ -1557,21 +1555,6 @@
       "user": "Elia Secchi"
     },
     {
-      "title": "Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B",
-      "url": "https://dev.to/gde/six-serving-engines-on-one-cloud-tpu-v5e-chip-gemma-4-e2b-22hn",
-      "published_at": "2026-11-09T16:00:42Z",
-      "description": "vLLM, SGLang-JAX, a pure-JAX engine, a Rust model over PJRT, and TorchTPU in Python and Rust serve Gemma 4 E2B on one flex-start v5e-1, with the same prompts, the same 1-to-64-request sweep and the same GSM8K questions. vLLM is the engine that serves out of the box; SGLang-JAX with an E2B patch is the fastest at every load from 8 requests up.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "vllm",
-        "jax"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-v5e1%2Fdevto-cover.7c2d5345.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
       "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi",
       "published_at": "2026-11-02T14:52:55Z",
@@ -1600,6 +1583,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Frailpulse-gemma-cloudrun%2Fmain%2Fassets%2Frailpulse_banner_v2.jpg",
       "source": "Dev.to",
       "user": "Robina Mirbahar"
+    },
+    {
+      "title": "Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B",
+      "url": "https://dev.to/gde/six-serving-engines-on-one-cloud-tpu-v5e-chip-gemma-4-e2b-22hn",
+      "published_at": "2026-11-09T16:00:42Z",
+      "description": "vLLM, SGLang-JAX, a pure-JAX engine, a Rust model over PJRT, and TorchTPU in Python and Rust serve Gemma 4 E2B on one flex-start v5e-1, with the same prompts, the same 1-to-64-request sweep and the same GSM8K questions. vLLM is the engine that serves out of the box; SGLang-JAX with an E2B patch is the fastest at every load from 8 requests up.",
+      "tags": [
+        "googlecloud",
+        "tpu",
+        "vllm",
+        "jax"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-v5e1%2Fdevto-cover.7c2d5345.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
     },
     {
       "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
@@ -1778,7 +1776,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1631,
+      "stars": 1650,
       "user": "mmdoctor"
     },
     {
@@ -1793,7 +1791,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 1086,
+      "stars": 1088,
       "user": "WoYun520"
     },
     {
@@ -1808,7 +1806,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1030,
+      "stars": 1034,
       "user": "Th0rgal"
     },
     {
@@ -1838,7 +1836,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308845393?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 651,
       "user": "majorminorlabs"
     },
     {
@@ -1856,10 +1854,34 @@
       "user": "katastrophe"
     },
     {
+      "title": "How to get the lowest value from a tuple, contained within a list with other tuples as elements?",
+      "url": "https://stackoverflow.com/questions/80015895/how-to-get-the-lowest-value-from-a-tuple-contained-within-a-list-with-other-tup",
+      "published_at": "2026-11-10T21:58:21.000Z",
+      "description": "Stack Overflow question · 3 answers · score -4",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Manos Fountis"
+    },
+    {
+      "title": "Defining functions and then printing values",
+      "url": "https://stackoverflow.com/questions/80015898/defining-functions-and-then-printing-values",
+      "published_at": "2026-11-10T22:19:09.000Z",
+      "description": "Stack Overflow question · 1 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "zpargo87"
+    },
+    {
       "title": "How do I pull truly unique dictionaries from a list of dictionaries in Python?",
       "url": "https://stackoverflow.com/questions/80015882/how-do-i-pull-truly-unique-dictionaries-from-a-list-of-dictionaries-in-python",
       "published_at": "2026-11-10T20:43:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "dictionary"
@@ -1872,7 +1894,7 @@
       "title": "Accessing a model's individual layer",
       "url": "https://stackoverflow.com/questions/80015880/accessing-a-models-individual-layer",
       "published_at": "2026-11-10T19:35:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python",
         "pytorch",
@@ -1887,7 +1909,7 @@
       "title": "Trigonometric computation using math library",
       "url": "https://stackoverflow.com/questions/80015841/trigonometric-computation-using-math-library",
       "published_at": "2026-11-10T16:06:48.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "python",
         "math"
@@ -1900,7 +1922,7 @@
       "title": "Visual Studio Code started adding extra \"\\\" to file paths; can no longer run files",
       "url": "https://stackoverflow.com/questions/80015853/visual-studio-code-started-adding-extra-to-file-paths-can-no-longer-run-fil",
       "published_at": "2026-11-10T16:38:38.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score -1",
       "tags": [
         "python",
         "vs-code"
@@ -1926,7 +1948,7 @@
       "title": "How to add image on gui using tkinter on macOS?",
       "url": "https://stackoverflow.com/questions/80015798/how-to-add-image-on-gui-using-tkinter-on-macos",
       "published_at": "2026-11-10T10:44:48.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -8",
       "tags": [
         "python",
         "macos",
@@ -1950,36 +1972,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
-    },
-    {
-      "title": "How to handle echo vs. genuine speech for barge-in in an Asterisk-based IVR?",
-      "url": "https://stackoverflow.com/questions/80015789/how-to-handle-echo-vs-genuine-speech-for-barge-in-in-an-asterisk-based-ivr",
-      "published_at": "2026-11-10T09:30:12.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "asterisk",
-        "ivr",
-        "asteriskami",
-        "asterisk-ari"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shaan Srivastava"
-    },
-    {
-      "title": "Why does MilvusClient.query() fail with VECTOR_FLOAT when sorting by a scalar ID?",
-      "url": "https://stackoverflow.com/questions/80015769/why-does-milvusclient-query-fail-with-vector-float-when-sorting-by-a-scalar-id",
-      "published_at": "2026-11-10T07:08:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "vector-database",
-        "milvus"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Cubkm Ewaybk"
     }
   ],
   "DevOps": [
@@ -2438,6 +2430,20 @@
   ],
   "Cloud": [
     {
+      "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
+      "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b",
+      "published_at": "2026-11-06T16:34:18Z",
+      "description": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "kubernetes"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqk83614v6vodxh1desyb.png",
+      "source": "Dev.to",
+      "user": "Saurabh Mishra"
+    },
+    {
       "title": "Take a Claude Agent SDK agent from install to deploy with Agents CLI",
       "url": "https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680",
       "published_at": "2026-11-09T13:21:04Z",
@@ -2451,6 +2457,34 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Finstall-to-deploy.C15g2bQ1_2c2tyH.webp",
       "source": "Dev.to",
       "user": "Elia Secchi"
+    },
+    {
+      "title": "Let's see where you code!",
+      "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
+      "published_at": "2026-11-03T20:18:40Z",
+      "description": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
+      "tags": [
+        "watercooler",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8w7rf58mqbwxnvnh2bqp.jpg",
+      "source": "Dev.to",
+      "user": "Maame Afua A. P. Fordjour "
+    },
+    {
+      "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
+      "url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g",
+      "published_at": "2026-11-07T07:35:33Z",
+      "description": "Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...",
+      "tags": [
+        "ai",
+        "googlecloud",
+        "opensource",
+        "python"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Frailpulse-gemma-cloudrun%2Fmain%2Fassets%2Frailpulse_banner_v2.jpg",
+      "source": "Dev.to",
+      "user": "Robina Mirbahar"
     },
     {
       "title": "Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B",
@@ -2498,63 +2532,6 @@
       "user": "xbill"
     },
     {
-      "title": "Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase",
-      "url": "https://dev.to/gde/google-ai-classroom-part-1-solving-the-25-per-exam-problem-architecting-a-sub-002student-fjc",
-      "published_at": "2026-11-09T07:21:59Z",
-      "description": "Author: Cyrus Wong (黃俊彥) — Google Developer Expert - Cloud (AI), Senior Lecturer at HKIIT           ...",
-      "tags": [
-        "ai",
-        "architecture",
-        "cloud",
-        "serverless"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Few0no0kions6muc41fdx.png",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
-      "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
-      "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b",
-      "published_at": "2026-11-06T16:34:18Z",
-      "description": "Why standard Kubernetes pods fail when AI agents start writing code and how to build a sub-second,...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "kubernetes"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqk83614v6vodxh1desyb.png",
-      "source": "Dev.to",
-      "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Let's see where you code!",
-      "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
-      "published_at": "2026-11-03T20:18:40Z",
-      "description": "I’ve been writing a lot about AWS lately, so let’s take a breather. This is my little corner of the...",
-      "tags": [
-        "watercooler",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8w7rf58mqbwxnvnh2bqp.jpg",
-      "source": "Dev.to",
-      "user": "Maame Afua A. P. Fordjour "
-    },
-    {
-      "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
-      "url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g",
-      "published_at": "2026-11-07T07:35:33Z",
-      "description": "Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "opensource",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Frailpulse-gemma-cloudrun%2Fmain%2Fassets%2Frailpulse_banner_v2.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
       "url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72",
       "published_at": "2026-11-04T22:49:08Z",
@@ -2570,19 +2547,19 @@
       "user": "xbill"
     },
     {
-      "title": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
-      "url": "https://dev.to/gde/how-i-made-a-voice-clone-in-minutes-using-google-antigravity-gemini-38-flash-tts-and-my-harness-10j3",
-      "published_at": "2026-11-08T11:56:59Z",
-      "description": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
+      "title": "Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase",
+      "url": "https://dev.to/gde/google-ai-classroom-part-1-solving-the-25-per-exam-problem-architecting-a-sub-002student-fjc",
+      "published_at": "2026-11-09T07:21:59Z",
+      "description": "Author: Cyrus Wong (黃俊彥) — Google Developer Expert - Cloud (AI), Senior Lecturer at HKIIT           ...",
       "tags": [
-        "googlecloud",
-        "agenticai",
-        "voicecloning",
-        "gemini"
+        "ai",
+        "architecture",
+        "cloud",
+        "serverless"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foo84zc93up8vufknil0z.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Few0no0kions6muc41fdx.png",
       "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
+      "user": "Cyrus Wong"
     },
     {
       "title": "How to Build Your Own Google Antigravity Plugin: Packaging Skills, MCP Servers, Subagents, Rules, and Hooks",
@@ -2598,6 +2575,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzxqoxai889zaalm2asa7.png",
       "source": "Dev.to",
       "user": "Carlos Barbero"
+    },
+    {
+      "title": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
+      "url": "https://dev.to/gde/how-i-made-a-voice-clone-in-minutes-using-google-antigravity-gemini-38-flash-tts-and-my-harness-10j3",
+      "published_at": "2026-11-08T11:56:59Z",
+      "description": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
+      "tags": [
+        "googlecloud",
+        "agenticai",
+        "voicecloning",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fderailed-dash%2Fblog-media%40main%2Farticles%2Fvoice-replication-with-antigravity%2Fmedia%2Fhero-banner.png",
+      "source": "Dev.to",
+      "user": "Darren \"Dazbo\" Lester"
     },
     {
       "title": "Trust No Pipeline: Why Attackers Stopped Hacking Your Cluster and Started Riding Your CI/CD (And How to Stop Them on Google Cloud)",
@@ -2643,6 +2635,36 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv2t6rjorp8m7bmqbf03q.png",
       "source": "Dev.to",
       "user": "Evan Lin"
+    },
+    {
+      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
+      "url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a",
+      "published_at": "2026-10-15T16:38:38Z",
+      "description": "Serverless DuckDB on Google Cloud, in your own project. Files on GCS, tables in BigQuery (read and write), what I measured, and what I learned.",
+      "tags": [
+        "duckdb",
+        "googlecloud",
+        "dataengineering",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Ftosun-si%2Fduckless%2Fmain%2Fassets%2Fbrand%2Fduckless-social.png",
+      "source": "Dev.to",
+      "user": "Mazlum Tosun"
+    },
+    {
+      "title": "GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?",
+      "url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l",
+      "published_at": "2026-10-24T16:27:19Z",
+      "description": "Picture this.  It's a few weeks from now. GPT-6 goes GA on Google Cloud. Five teams in your company...",
+      "tags": [
+        "googlecloud",
+        "ai",
+        "finops",
+        "openai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flk8saxwe44um1cwcr17v.png",
+      "source": "Dev.to",
+      "user": "Karthigayan Devan"
     }
   ],
   "Database": [
@@ -2672,33 +2694,6 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "iancarroll"
-    },
-    {
-      "title": "Next-Level Benchmarking Overfitting",
-      "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
-      "published_at": "2026-11-10T06:20:55.477-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "databases",
-        "performance"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "eatonphil"
-    },
-    {
-      "title": "Why does MilvusClient.query() fail with VECTOR_FLOAT when sorting by a scalar ID?",
-      "url": "https://stackoverflow.com/questions/80015769/why-does-milvusclient-query-fail-with-vector-float-when-sorting-by-a-scalar-id",
-      "published_at": "2026-11-10T07:08:09.000Z",
-      "description": "Stack Overflow question · 0 answers · score 0",
-      "tags": [
-        "python",
-        "vector-database",
-        "milvus"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Cubkm Ewaybk"
     }
   ],
   "Security": [
@@ -2878,6 +2873,19 @@
       "user": "Varcht"
     },
     {
+      "title": "I deleted all my SSH keys",
+      "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+      "published_at": "2026-11-10T14:49:23.641-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "hardware",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "pushcx"
+    },
+    {
       "title": "What a CAPTCHA Farm Attack Actually Looks Like",
       "url": "https://www.freecodecamp.org/news/captcha-farm-attack/",
       "published_at": "2026-11-04T21:32:45.000Z",
@@ -2895,21 +2903,6 @@
     }
   ],
   "Tools": [
-    {
-      "title": "Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)",
-      "url": "https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf",
-      "published_at": "2026-11-09T15:10:32Z",
-      "description": "What happens when the hardest-working user on your 16GB Mac and multi-cloud Ubuntu Dev-Box is a fleet of 20+ AI coding agents? Real benchmarks and fixes for 8s Chrome 136+ CDP hangs, 12GB APFS ghost clones, WindowServer freezes, and tmux reboot amnesia.",
-      "tags": [
-        "gemini",
-        "googlecloud",
-        "ai",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fjimmyliao%2Fax-playbook%2Fmain%2Fassets%2Fax-playbook-cover-wide.en.png",
-      "source": "Dev.to",
-      "user": "JimmyLiao"
-    },
     {
       "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
       "url": "https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl",
@@ -2938,21 +2931,6 @@
       "user": "Amara Graham"
     },
     {
-      "title": "Find the production agent failures that every health check misses",
-      "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8",
-      "published_at": "2026-11-05T15:46:25Z",
-      "description": "AQuA is an open-source quality agent that surfaces the production failures your health checks miss and, when you ask, traces a failure to the line of code behind it. Try its dashboard locally.",
-      "tags": [
-        "agents",
-        "ai",
-        "debugging",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fquality-curve.6xHWd_CO_2kumlD.webp",
-      "source": "Dev.to",
-      "user": "Elia Secchi"
-    },
-    {
       "title": "Take Claude Code Above Average: Let Antigravity Review It",
       "url": "https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g",
       "published_at": "2026-11-09T08:18:56Z",
@@ -2966,6 +2944,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxi7u2r8ll1or4mpcr2xe.png",
       "source": "Dev.to",
       "user": "Daniel Gwerzman"
+    },
+    {
+      "title": "Find the production agent failures that every health check misses",
+      "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8",
+      "published_at": "2026-11-05T15:46:25Z",
+      "description": "AQuA is an open-source quality agent that surfaces the production failures your health checks miss and, when you ask, traces a failure to the line of code behind it. Try its dashboard locally.",
+      "tags": [
+        "agents",
+        "ai",
+        "debugging",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fquality-curve.6xHWd_CO_2kumlD.webp",
+      "source": "Dev.to",
+      "user": "Elia Secchi"
     },
     {
       "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
@@ -2996,6 +2989,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fprofile-sync%2Fmain%2Farticles%2Fprofile-sprawl%2Fcover.b434d7ab.jpg",
       "source": "Dev.to",
       "user": "xbill"
+    },
+    {
+      "title": "Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)",
+      "url": "https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf",
+      "published_at": "2026-11-09T15:10:32Z",
+      "description": "What happens when the hardest-working user on your 16GB Mac and multi-cloud Ubuntu Dev-Box is a fleet of 20+ AI coding agents? Real benchmarks and fixes for 8s Chrome 136+ CDP hangs, 12GB APFS ghost clones, WindowServer freezes, and tmux reboot amnesia.",
+      "tags": [
+        "gemini",
+        "googlecloud",
+        "ai",
+        "devtools"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fjimmyliao%2Fax-playbook%2Fmain%2Fassets%2Fax-playbook-cover-wide.en.png",
+      "source": "Dev.to",
+      "user": "JimmyLiao"
     },
     {
       "title": "How to Build Your Own Google Antigravity Plugin: Packaging Skills, MCP Servers, Subagents, Rules, and Hooks",
@@ -3075,7 +3083,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 2005,
+      "stars": 2008,
       "user": "JenkinWoo"
     },
     {
@@ -3120,7 +3128,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337416215?v=4",
       "source": "GitHub",
-      "stars": 501,
+      "stars": 521,
       "user": "FJNB5"
     },
     {
@@ -3135,7 +3143,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 400,
+      "stars": 401,
       "user": "shanselman"
     },
     {
@@ -3150,7 +3158,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1631,
+      "stars": 1650,
       "user": "mmdoctor"
     },
     {
@@ -3165,7 +3173,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 1086,
+      "stars": 1088,
       "user": "WoYun520"
     },
     {
@@ -3180,7 +3188,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1030,
+      "stars": 1034,
       "user": "Th0rgal"
     },
     {
@@ -3210,7 +3218,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/308845393?v=4",
       "source": "GitHub",
-      "stars": 644,
+      "stars": 651,
       "user": "majorminorlabs"
     },
     {
@@ -3225,23 +3233,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 1654,
+      "stars": 1688,
       "user": "DIYgod"
-    },
-    {
-      "title": "egoist/mygo-music - A native music player you extend with plugins",
-      "url": "https://github.com/egoist/mygo-music",
-      "published_at": "2026-11-04T13:27:14Z",
-      "description": "A native music player you extend with plugins",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8784712?v=4",
-      "source": "GitHub",
-      "stars": 1187,
-      "user": "egoist"
     },
     {
       "title": "manjushree-iyer/soundpad-audio-suite - Soundpad: Advanced Audio Processing for Professional DAW Workflows",
@@ -3270,7 +3263,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348458842?v=4",
       "source": "GitHub",
-      "stars": 547,
+      "stars": 587,
       "user": "HolyArrs"
     },
     {
@@ -3285,23 +3278,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 535,
+      "stars": 539,
       "user": "devvmhq"
     },
     {
-      "title": "livliv-dev/player - A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-      "url": "https://github.com/livliv-dev/player",
-      "published_at": "2026-11-04T03:28:33Z",
-      "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "title": "TooonyChen/finallyshell - 类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
+      "url": "https://github.com/TooonyChen/finallyshell",
+      "published_at": "2026-11-07T00:34:42Z",
+      "description": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
       "tags": [
-        "typescript",
+        "go",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/352250088?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/26252739?v=4",
       "source": "GitHub",
-      "stars": 1455,
-      "user": "livliv-dev"
+      "stars": 440,
+      "user": "TooonyChen"
     },
     {
       "title": "rdeepak-wq121/quicken-deluxe-installer - Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
@@ -3364,6 +3357,21 @@
       "user": "Marcian15350"
     },
     {
+      "title": "tss878/delta-executor-toolkit - Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
+      "url": "https://github.com/tss878/delta-executor-toolkit",
+      "published_at": "2026-11-06T20:51:54Z",
+      "description": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/329385096?v=4",
+      "source": "GitHub",
+      "stars": 772,
+      "user": "tss878"
+    },
+    {
       "title": "jamesondh/chimera-vocal-synth - the ultimate vocal synthesizer - sing, speak, beatbox, and more",
       "url": "https://github.com/jamesondh/chimera-vocal-synth",
       "published_at": "2026-11-05T19:10:42Z",
@@ -3375,7 +3383,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4026659?v=4",
       "source": "GitHub",
-      "stars": 1634,
+      "stars": 1705,
       "user": "jamesondh"
     },
     {
@@ -3390,7 +3398,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
       "source": "GitHub",
-      "stars": 1355,
+      "stars": 1357,
       "user": "voyager-so"
     },
     {
@@ -3420,7 +3428,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/317179077?v=4",
       "source": "GitHub",
-      "stars": 447,
+      "stars": 450,
       "user": "PlateParrotTerminal"
     },
     {
@@ -3435,7 +3443,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88082356?v=4",
       "source": "GitHub",
-      "stars": 407,
+      "stars": 423,
       "user": "Gloridust"
     },
     {
