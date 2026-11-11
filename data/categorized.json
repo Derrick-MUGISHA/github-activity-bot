@@ -16,20 +16,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Stop Calling getGenerativeModel() Everywhere! The Hidden Traps of Scaling Firebase AI to Multi-Model Angular Apps",
-      "url": "https://dev.to/gde/stop-calling-getgenerativemodel-everywhere-the-hidden-traps-of-scaling-firebase-ai-to-lg1",
-      "published_at": "2026-11-11T10:53:39Z",
-      "description": "Calling getGenerativeModel() directly inside VisionService and TextToSpeechService duplicates...",
-      "tags": [
-        "angular",
-        "firebase",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk2pbgl8rh4cxx1h8cjcy.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
       "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
       "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg",
       "published_at": "2026-11-11T07:49:09Z",
@@ -43,6 +29,50 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog09_cover_gamified_bingo_exam_mode.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "Cyrus Wong"
+    },
+    {
+      "title": "Use your eval as a CI gate with Agents CLI",
+      "url": "https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1",
+      "published_at": "2026-11-11T18:15:10Z",
+      "description": "How to make a quality drop fail your build with agents-cli eval run and one threshold, for anyone who ships an agent from a pipeline.",
+      "tags": [
+        "ai",
+        "cicd",
+        "cli",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fpipeline.J1Pi-k71_1aTFBO.webp",
+      "source": "Dev.to",
+      "user": "Elia Secchi"
+    },
+    {
+      "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
+      "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5",
+      "published_at": "2026-11-11T01:36:37Z",
+      "description": "At the start of this year, Kent C. Dodds gave a coding agent a link to a GitHub issue he had been...",
+      "tags": [
+        "ai",
+        "agents",
+        "career",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8axeyndijdbjn0mg7dnr.jpg",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
+      "title": "The Fastest LLM Call Is The One You Never Make",
+      "url": "https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo",
+      "published_at": "2026-11-11T01:37:24Z",
+      "description": "At Glean, we tested a model that does not write text. It only makes decisions.  In our tests, it...",
+      "tags": [
+        "ai",
+        "llm",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fszcnl5akpzp6fx2g0qar.png",
+      "source": "Dev.to",
+      "user": "Chinmay Goyal"
     },
     {
       "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
@@ -60,6 +90,20 @@
       "user": "Cyrus Wong"
     },
     {
+      "title": "Stop Calling getGenerativeModel() Everywhere! The Hidden Traps of Scaling Firebase AI to Multi-Model Angular Apps",
+      "url": "https://dev.to/gde/stop-calling-getgenerativemodel-everywhere-the-hidden-traps-of-scaling-firebase-ai-to-lg1",
+      "published_at": "2026-11-11T10:53:39Z",
+      "description": "Calling getGenerativeModel() directly inside VisionService and TextToSpeechService duplicates...",
+      "tags": [
+        "angular",
+        "firebase",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk2pbgl8rh4cxx1h8cjcy.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
+    },
+    {
       "title": "Google AI Classroom Part 8: AI Project Supervision — Streamlined Mobile 720p Demo, 2-Stage Diarization & Fake-Log Auditing with Gemini 4",
       "url": "https://dev.to/gde/google-ai-classroom-part-8-ai-project-supervision-streamlined-mobile-720p-demo-2-stage-3h98",
       "published_at": "2026-11-11T07:41:52Z",
@@ -72,6 +116,51 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog08_cover_multimodal_capstone_supervision.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "Cyrus Wong"
+    },
+    {
+      "title": "How We Review 4x More AI Code Without Reading Every Line",
+      "url": "https://dev.to/dailycontext/how-we-review-4x-more-ai-code-without-reading-every-line-d5j",
+      "published_at": "2026-11-11T01:27:30Z",
+      "description": "Do you need to read every line of AI-generated code to trust it? Not necessarily. You need to check...",
+      "tags": [
+        "ai",
+        "codereview",
+        "agents",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnpfu8or4c7sd1dwd7fn2.png",
+      "source": "Dev.to",
+      "user": "Ankit Jain"
+    },
+    {
+      "title": "Software Engineering Is Becoming Factory Engineering",
+      "url": "https://dev.to/dailycontext/software-engineering-is-becoming-factory-engineering-22ll",
+      "published_at": "2026-11-11T01:28:03Z",
+      "description": "Most developers working with coding agents still interact with them directly. They open a terminal,...",
+      "tags": [
+        "ai",
+        "agents",
+        "softwareengineering",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp3lvqdz2n6csb1y6epqc.png",
+      "source": "Dev.to",
+      "user": "Zach Lloyd"
+    },
+    {
+      "title": "The AI Evals feedback loop runs both ways",
+      "url": "https://dev.to/quinnvention/the-ai-evals-feedback-loop-runs-both-ways-1pl3",
+      "published_at": "2026-11-10T21:36:49Z",
+      "description": "We’re increasingly asking AI to help decide whether other AI systems are good enough to ship. LLM...",
+      "tags": [
+        "ai",
+        "llm",
+        "softwaredevelopment",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjkozaw54zo7742ty5yw2.jpg",
+      "source": "Dev.to",
+      "user": "Quinn Dines"
     },
     {
       "title": "Google AI Classroom Part 6: Low-Bandwidth Classroom Screen Broadcasting & Single-Pass Whole-Lecture Subtitles with Gemini 4 Argon",
@@ -178,6 +267,21 @@
       "user": "MLH Team"
     },
     {
+      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
+      "published_at": "2026-11-05T21:12:11Z",
+      "description": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
+      "tags": [
+        "devchallenge",
+        "kagglechallenge",
+        "ai",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fig8gi4bw1h7vk0z76krk.png",
+      "source": "Dev.to",
+      "user": "Jem"
+    },
+    {
       "title": "Take Claude Code Above Average: Let Antigravity Review It",
       "url": "https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g",
       "published_at": "2026-11-09T08:18:56Z",
@@ -206,21 +310,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fquality-curve.6xHWd_CO_2kumlD.webp",
       "source": "Dev.to",
       "user": "Elia Secchi"
-    },
-    {
-      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
-      "published_at": "2026-11-05T21:12:11Z",
-      "description": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
-      "tags": [
-        "devchallenge",
-        "kagglechallenge",
-        "ai",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fig8gi4bw1h7vk0z76krk.png",
-      "source": "Dev.to",
-      "user": "Jem"
     },
     {
       "title": "Google AI Classroom Part 4: Defeating Proxy Attendance & Lab Keyloggers with WebAuthn Passkeys, Rotating HMAC QRs & GCIP Blocking Functions",
@@ -552,80 +641,6 @@
       "user": "Randal L. Schwartz"
     },
     {
-      "title": "Google AI Classroom Part 1: Architecting a Scale-to-Zero Serverless AI Classroom with Gemini 4, Gemma 4 E2B & Firebase",
-      "url": "https://dev.to/gde/google-ai-classroom-part-1-solving-the-25-per-exam-problem-architecting-a-sub-002student-fjc",
-      "published_at": "2026-11-09T07:21:59Z",
-      "description": "Architecting a scale-to-zero serverless AI platform for teaching, learning, student performance, and proctored assessments on Google Cloud.",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "webdev",
-        "serverless"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog01_cover_serverless_ai_classroom.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg",
-      "published_at": "2026-11-04T15:23:31Z",
-      "description": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
-      "tags": [
-        "angular",
-        "firebase",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
-      "url": "https://dev.to/gde/how-i-made-a-voice-clone-in-minutes-using-google-antigravity-gemini-38-flash-tts-and-my-harness-10j3",
-      "published_at": "2026-11-08T11:56:59Z",
-      "description": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
-      "tags": [
-        "googlecloud",
-        "agenticai",
-        "voicecloning",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fderailed-dash%2Fblog-media%40main%2Farticles%2Fvoice-replication-with-antigravity%2Fmedia%2Fhero-banner.png",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
-      "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
-      "url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g",
-      "published_at": "2026-11-07T07:35:33Z",
-      "description": "Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "opensource",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Frailpulse-gemma-cloudrun%2Fmain%2Fassets%2Frailpulse_banner_v2.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
-      "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
-      "url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1",
-      "published_at": "2026-11-02T21:32:30Z",
-      "description": "Gemma 4 E2B with the model in Rust, served from a TPU v5e-1 VM through PyO3 and a C++ shim over ATen, with no tch and no pinned PyTorch, an OpenAI endpoint, an MCP server and a local chat UI.",
-      "tags": [
-        "rust",
-        "pytorch",
-        "tpu",
-        "mcp"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Ftorchtpu-dev%2Fmain%2Fdocs%2Ftorchtpu-native-rust%2Fdevto-cover.3ce8c43b.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -805,7 +820,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 1846,
+      "stars": 1859,
       "user": "DIYgod"
     },
     {
@@ -820,7 +835,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 559,
       "user": "devvmhq"
     },
     {
@@ -857,7 +872,6 @@
       "published_at": "2026-11-11T07:13:51.549-06:00",
       "description": "Hey everyone I'm wondering if there's any useful/helpful list of apps, companies, or resources in general that avoid AI (they don't have to be vocally or openly \"anti\", but at least explicitly avoid it) that you know of?\r\n\r\nI'm not looking to start a discussion on what's good/bad or (un)worthy about AI, or who's for/against, just links and/or communities promoting this sentiment/position.\r\n\r\nFor example, https://www.rebeltechalliance.org would be one of those resources.\r\n\r\nThank you!",
       "tags": [
-        "ai",
         "ask"
       ],
       "cover_image": null,
@@ -865,24 +879,23 @@
       "user": "brn"
     },
     {
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "published_at": "2026-11-10T10:57:25.851-06:00",
+      "title": "For the first time, a C++ standard failed to pass the national bodies",
+      "url": "https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/",
+      "published_at": "2026-11-11T12:49:35.129-06:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "law"
+        "c++"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "calvin"
+      "user": "mond"
     },
     {
       "title": "Is the dependency cost of Lua worth it over plain Python modules?",
       "url": "https://stackoverflow.com/questions/80016005/is-the-dependency-cost-of-lua-worth-it-over-plain-python-modules",
       "published_at": "2026-11-11T10:39:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
-        "advice",
         "python",
         "lua",
         "dependencies",
@@ -905,6 +918,82 @@
       "user": "Manos Fountis"
     },
     {
+      "title": "Why the data center you dread might never even be built",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "published_at": "2026-11-11T20:15:15.000Z",
+      "description": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get b",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "AI data center",
+        "data center"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Theresa Loconsolo, Rebecca Bellan, Tim De Chant"
+    },
+    {
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "published_at": "2026-11-11T20:12:01.000Z",
+      "description": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "tags": [
+        "AI",
+        "compute",
+        "infrastructure",
+        "Meta",
+        "social media"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Lucas Ropek"
+    },
+    {
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "published_at": "2026-11-11T19:54:00.000Z",
+      "description": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "tags": [
+        "AI",
+        "ai infrastructure",
+        "Cloud Computing",
+        "CoreWeave"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "With $720M round, Britain&#8217;s Fractile gets a leg up in the race for AI chips",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "published_at": "2026-11-11T19:34:55.000Z",
+      "description": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "tags": [
+        "Startups",
+        "AI",
+        "Fundraising",
+        "semiconductor chips"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Anna Heim"
+    },
+    {
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "published_at": "2026-11-11T19:22:22.000Z",
+      "description": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "nvidia",
+        "Jensen Huang"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
       "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
       "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
       "published_at": "2026-11-11T16:16:07.000Z",
@@ -912,8 +1001,8 @@
       "tags": [
         "AI",
         "China",
-        "Jensen Huang",
-        "nvidia"
+        "nvidia",
+        "Jensen Huang"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -923,7 +1012,7 @@
       "title": "OpenAI&#8217;s quarterly revenue reportedly crosses $10B for the first time",
       "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
       "published_at": "2026-11-11T16:14:44.000Z",
-      "description": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "description": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
       "tags": [
         "AI",
         "Anthropic",
@@ -937,10 +1026,9 @@
       "title": "Siri co-founder backs Helix for its voice ID tech",
       "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
       "published_at": "2026-11-11T15:02:47.000Z",
-      "description": "Helix said that its voice ID tech can run on an iPhone 13",
+      "description": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
       "tags": [
         "Fundraising",
-        "TC",
         "siri",
         "voice AI"
       ],
@@ -952,91 +1040,16 @@
       "title": "Databricks&#8217; new AI agent tells CEO Ali Ghodsi the unvarnished truth",
       "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
       "published_at": "2026-11-11T15:00:00.000Z",
-      "description": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "description": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
       "tags": [
-        "Enterprise",
-        "TC",
         "AI",
+        "Enterprise",
+        "ali ghodsi",
         "Databricks"
       ],
       "cover_image": null,
       "source": "TechCrunch",
       "user": "Julie Bort"
-    },
-    {
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "published_at": "2026-11-11T14:00:00.000Z",
-      "description": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-      "tags": [
-        "AI",
-        "Exclusive"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim Fernholz"
-    },
-    {
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "published_at": "2026-11-11T07:30:51.000Z",
-      "description": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
-      "tags": [
-        "AI",
-        "TC",
-        "China",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "published_at": "2026-11-10T21:08:52.000Z",
-      "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-      "tags": [
-        "AI",
-        "Startups",
-        "travel"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "published_at": "2026-11-10T20:52:13.000Z",
-      "description": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "ai safety",
-        "Anthropic",
-        "kathy hochul"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-      "published_at": "2026-11-10T20:47:05.000Z",
-      "description": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
-      "tags": [
-        "Biotech & Health",
-        "Venture",
-        "drug discovery",
-        "signalfire",
-        "Solo VC"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Marina Temkin"
     },
     {
       "title": "Learn Agentic Coding with Codex & AI Coding Agents",
@@ -1154,20 +1167,6 @@
         "performance"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqujte2p4zz2v05hybojq.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
-    },
-    {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg",
-      "published_at": "2026-11-04T15:23:31Z",
-      "description": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
-      "tags": [
-        "angular",
-        "firebase",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png",
       "source": "Dev.to",
       "user": "Connie Leung"
     },
@@ -1303,7 +1302,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 2027,
+      "stars": 2033,
       "user": "JenkinWoo"
     },
     {
@@ -1348,7 +1347,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337416215?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 631,
       "user": "FJNB5"
     },
     {
@@ -1363,7 +1362,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "shanselman"
     },
     {
@@ -1393,7 +1392,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329385096?v=4",
       "source": "GitHub",
-      "stars": 1294,
+      "stars": 1295,
       "user": "tss878"
     },
     {
@@ -1408,7 +1407,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92120047?v=4",
       "source": "GitHub",
-      "stars": 1203,
+      "stars": 1204,
       "user": "RolandoV3"
     },
     {
@@ -1442,10 +1441,26 @@
       "user": "rdeepak-wq121"
     },
     {
+      "title": "Service worker keeps serving the previous deploy's JavaScript after a new Vercel deploy",
+      "url": "https://stackoverflow.com/questions/80016080/service-worker-keeps-serving-the-previous-deploys-javascript-after-a-new-vercel",
+      "published_at": "2026-11-11T17:48:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -8",
+      "tags": [
+        "javascript",
+        "progressive-web-apps",
+        "service-worker",
+        "vercel",
+        "browser-cache"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Oleksandr G"
+    },
+    {
       "title": "Does Cache distort images on a website or is it something else",
       "url": "https://stackoverflow.com/questions/80015979/does-cache-distort-images-on-a-website-or-is-it-something-else",
       "published_at": "2026-11-11T07:51:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "css",
@@ -1496,18 +1511,19 @@
       "user": "allez l&#39;OM"
     },
     {
-      "title": "Facebook Page Plugin Stopped Working w/o Deploying",
-      "url": "https://stackoverflow.com/questions/80010400/facebook-page-plugin-stopped-working-w-o-deploying",
-      "published_at": "2026-10-15T22:25:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -12",
+      "title": "How to remove scrollbar from Shopify modal pop up",
+      "url": "https://stackoverflow.com/questions/79977920/how-to-remove-scrollbar-from-shopify-modal-pop-up",
+      "published_at": "2026-07-08T14:08:43.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
         "javascript",
-        "facebook",
-        "facebook-javascript-sdk"
+        "html",
+        "css",
+        "shopify"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "Chris Happy"
+      "user": "gjjr"
     },
     {
       "title": "How do I add a link to a draggable element that doesn't open when you drag it, only when you click it?",
@@ -1566,19 +1582,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Milichip"
-    },
-    {
-      "title": "How to prevent the AbortError: signal is aborted without reason",
-      "url": "https://stackoverflow.com/questions/79416955/how-to-prevent-the-aborterror-signal-is-aborted-without-reason",
-      "published_at": "2025-02-06T06:32:17.000Z",
-      "description": "Stack Overflow question · 0 answers · score 9",
-      "tags": [
-        "javascript",
-        "abortcontroller"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "1.21 gigawatts"
     },
     {
       "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
@@ -1717,21 +1720,6 @@
       "user": "Mario Ezquerro"
     },
     {
-      "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
-      "url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g",
-      "published_at": "2026-11-07T07:35:33Z",
-      "description": "Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "opensource",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Frailpulse-gemma-cloudrun%2Fmain%2Fassets%2Frailpulse_banner_v2.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
       "url": "https://emily.space/posts/251023-uv",
       "published_at": "2025-10-29T18:57:29Z",
@@ -1863,7 +1851,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1710,
+      "stars": 1724,
       "user": "mmdoctor"
     },
     {
@@ -1878,7 +1866,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 1260,
+      "stars": 1315,
       "user": "WoYun520"
     },
     {
@@ -1908,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1039,
+      "stars": 1046,
       "user": "Th0rgal"
     },
     {
@@ -1923,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10053058?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 1017,
       "user": "HybridRobotics"
     },
     {
@@ -1954,10 +1942,54 @@
       "user": "katastrophe"
     },
     {
+      "title": "How can I programmatically create an MDList with KivyMD in PyCharm?",
+      "url": "https://stackoverflow.com/questions/80016122/how-can-i-programmatically-create-an-mdlist-with-kivymd-in-pycharm",
+      "published_at": "2026-11-11T20:55:44.000Z",
+      "description": "Stack Overflow question · 1 answers · score 1",
+      "tags": [
+        "python",
+        "pycharm",
+        "kivymd"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jesse Galdamez"
+    },
+    {
+      "title": "Why is my code not adding the last character when converting Roman numerals?",
+      "url": "https://stackoverflow.com/questions/80016100/why-is-my-code-not-adding-the-last-character-when-converting-roman-numerals",
+      "published_at": "2026-11-11T19:13:55.000Z",
+      "description": "Stack Overflow question · 2 answers · score -2",
+      "tags": [
+        "python",
+        "python-3.x",
+        "string",
+        "dictionary"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Capit&#227;o Mendig&#227;o"
+    },
+    {
+      "title": "Maximo logs access",
+      "url": "https://stackoverflow.com/questions/80016073/maximo-logs-access",
+      "published_at": "2026-11-11T16:53:15.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "java",
+        "jython",
+        "maximo"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Houssem Slaimi"
+    },
+    {
       "title": "Rounding a float number",
       "url": "https://stackoverflow.com/questions/80016045/rounding-a-float-number",
       "published_at": "2026-11-11T14:40:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "python"
       ],
@@ -1969,9 +2001,8 @@
       "title": "Is the dependency cost of Lua worth it over plain Python modules?",
       "url": "https://stackoverflow.com/questions/80016005/is-the-dependency-cost-of-lua-worth-it-over-plain-python-modules",
       "published_at": "2026-11-11T10:39:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -7",
       "tags": [
-        "advice",
         "python",
         "lua",
         "dependencies",
@@ -1985,7 +2016,7 @@
       "title": "Set custom width for tick labels",
       "url": "https://stackoverflow.com/questions/80015989/set-custom-width-for-tick-labels",
       "published_at": "2026-11-11T08:49:33.000Z",
-      "description": "Stack Overflow question · 0 answers · score 3",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
         "python",
         "matplotlib"
@@ -2010,7 +2041,7 @@
       "title": "Asyncio Unhandled Exception in atexit",
       "url": "https://stackoverflow.com/questions/80015847/asyncio-unhandled-exception-in-atexit",
       "published_at": "2026-11-10T16:22:45.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 3 answers · score 1",
       "tags": [
         "python",
         "python-asyncio"
@@ -2043,34 +2074,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "zpargo87"
-    },
-    {
-      "title": "How do I pull truly unique dictionaries from a list of dictionaries in Python?",
-      "url": "https://stackoverflow.com/questions/80015882/how-do-i-pull-truly-unique-dictionaries-from-a-list-of-dictionaries-in-python",
-      "published_at": "2026-11-10T20:43:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
-      "tags": [
-        "python",
-        "dictionary"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Joshua White"
-    },
-    {
-      "title": "Accessing a model's individual layer",
-      "url": "https://stackoverflow.com/questions/80015880/accessing-a-models-individual-layer",
-      "published_at": "2026-11-10T19:35:08.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "python",
-        "pytorch",
-        "huggingface-transformers",
-        "large-language-model"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jordon"
     }
   ],
   "DevOps": [
@@ -2267,6 +2270,31 @@
       "user": "pralkarz"
     },
     {
+      "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "published_at": "2026-11-11T10:27:51.943-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops",
+        "ml"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "scanner_brightly"
+    },
+    {
+      "title": "Lock your GitHub Actions",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "published_at": "2026-11-11T12:16:01.014-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "hugoarnal"
+    },
+    {
       "title": "How to Automate Docker Image Creation for Postgres Using Shell Commands",
       "url": "https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/",
       "published_at": "2026-11-03T18:40:47.000Z",
@@ -2330,7 +2358,7 @@
       "title": "Does Cache distort images on a website or is it something else",
       "url": "https://stackoverflow.com/questions/80015979/does-cache-distort-images-on-a-website-or-is-it-something-else",
       "published_at": "2026-11-11T07:51:18.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "javascript",
         "css",
@@ -2340,6 +2368,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "rickymwethera"
+    },
+    {
+      "title": "How to remove scrollbar from Shopify modal pop up",
+      "url": "https://stackoverflow.com/questions/79977920/how-to-remove-scrollbar-from-shopify-modal-pop-up",
+      "published_at": "2026-07-08T14:08:43.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "shopify"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "gjjr"
     },
     {
       "title": "How to reset an HTML element to its first/initial value in JavaScript?",
@@ -2540,19 +2583,6 @@
   ],
   "Cloud": [
     {
-      "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
-      "url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5",
-      "published_at": "2026-11-11T14:00:00Z",
-      "description": "When you attach a WebAssembly (Wasm) plugin to an Application Load Balancer with Service Extensions,...",
-      "tags": [
-        "googlecloud",
-        "networking"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl4a9im42pgylrtb1sxfq.png",
-      "source": "Dev.to",
-      "user": "Zach S."
-    },
-    {
       "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
       "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg",
       "published_at": "2026-11-11T07:49:09Z",
@@ -2566,6 +2596,19 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog09_cover_gamified_bingo_exam_mode.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "Cyrus Wong"
+    },
+    {
+      "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
+      "url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5",
+      "published_at": "2026-11-11T14:00:00Z",
+      "description": "When you attach a WebAssembly (Wasm) plugin to an Application Load Balancer with Service Extensions,...",
+      "tags": [
+        "googlecloud",
+        "networking"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl4a9im42pgylrtb1sxfq.png",
+      "source": "Dev.to",
+      "user": "Zach S."
     },
     {
       "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
@@ -2774,51 +2817,6 @@
       "user": "Carlos Barbero"
     },
     {
-      "title": "Google AI Classroom Part 1: Architecting a Scale-to-Zero Serverless AI Classroom with Gemini 4, Gemma 4 E2B & Firebase",
-      "url": "https://dev.to/gde/google-ai-classroom-part-1-solving-the-25-per-exam-problem-architecting-a-sub-002student-fjc",
-      "published_at": "2026-11-09T07:21:59Z",
-      "description": "Architecting a scale-to-zero serverless AI platform for teaching, learning, student performance, and proctored assessments on Google Cloud.",
-      "tags": [
-        "googlecloud",
-        "ai",
-        "webdev",
-        "serverless"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog01_cover_serverless_ai_classroom.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
-      "title": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
-      "url": "https://dev.to/gde/how-i-made-a-voice-clone-in-minutes-using-google-antigravity-gemini-38-flash-tts-and-my-harness-10j3",
-      "published_at": "2026-11-08T11:56:59Z",
-      "description": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
-      "tags": [
-        "googlecloud",
-        "agenticai",
-        "voicecloning",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fderailed-dash%2Fblog-media%40main%2Farticles%2Fvoice-replication-with-antigravity%2Fmedia%2Fhero-banner.png",
-      "source": "Dev.to",
-      "user": "Darren \"Dazbo\" Lester"
-    },
-    {
-      "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
-      "url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g",
-      "published_at": "2026-11-07T07:35:33Z",
-      "description": "Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "opensource",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Frailpulse-gemma-cloudrun%2Fmain%2Fassets%2Frailpulse_banner_v2.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "How do you actually self-host securely?",
       "url": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
       "published_at": "2026-11-11T06:01:19.024-06:00",
@@ -2830,6 +2828,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "pralkarz"
+    },
+    {
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "published_at": "2026-11-11T19:54:00.000Z",
+      "description": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "tags": [
+        "AI",
+        "ai infrastructure",
+        "Cloud Computing",
+        "CoreWeave"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     }
   ],
   "Database": [
@@ -2876,34 +2889,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft6wg5ri17n4kyi0vh2g3.jpg",
       "source": "Dev.to",
       "user": "Azidin Shairi"
-    },
-    {
-      "title": "Thank you to everyone who pointed out the phishing posts we got yesterday. We're working on improved mechanisms to automatically reject those types of attacks.",
-      "url": "https://dev.to/ben/thank-you-to-everyone-who-pointed-out-the-phishing-posts-we-got-yesterday-were-working-on-1h9b",
-      "published_at": "2026-11-05T15:25:46Z",
-      "description": "A post by Ben Halpern",
-      "tags": [
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fadovympzvepx45pvuw9m.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
-    },
-    {
-      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
-      "url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg",
-      "published_at": "2026-11-04T15:23:31Z",
-      "description": "We now have AuthService for authentication and SignInModalComponent for users to enter their email...",
-      "tags": [
-        "angular",
-        "firebase",
-        "webdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1f1ngry8c6vnassadar.png",
-      "source": "Dev.to",
-      "user": "Connie Leung"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3082,6 +3067,66 @@
   ],
   "Tools": [
     {
+      "title": "Use your eval as a CI gate with Agents CLI",
+      "url": "https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1",
+      "published_at": "2026-11-11T18:15:10Z",
+      "description": "How to make a quality drop fail your build with agents-cli eval run and one threshold, for anyone who ships an agent from a pipeline.",
+      "tags": [
+        "ai",
+        "cicd",
+        "cli",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fpipeline.J1Pi-k71_1aTFBO.webp",
+      "source": "Dev.to",
+      "user": "Elia Secchi"
+    },
+    {
+      "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
+      "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5",
+      "published_at": "2026-11-11T01:36:37Z",
+      "description": "At the start of this year, Kent C. Dodds gave a coding agent a link to a GitHub issue he had been...",
+      "tags": [
+        "ai",
+        "agents",
+        "career",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8axeyndijdbjn0mg7dnr.jpg",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
+      "title": "Software Engineering Is Becoming Factory Engineering",
+      "url": "https://dev.to/dailycontext/software-engineering-is-becoming-factory-engineering-22ll",
+      "published_at": "2026-11-11T01:28:03Z",
+      "description": "Most developers working with coding agents still interact with them directly. They open a terminal,...",
+      "tags": [
+        "ai",
+        "agents",
+        "softwareengineering",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp3lvqdz2n6csb1y6epqc.png",
+      "source": "Dev.to",
+      "user": "Zach Lloyd"
+    },
+    {
+      "title": "The AI Evals feedback loop runs both ways",
+      "url": "https://dev.to/quinnvention/the-ai-evals-feedback-loop-runs-both-ways-1pl3",
+      "published_at": "2026-11-10T21:36:49Z",
+      "description": "We’re increasingly asking AI to help decide whether other AI systems are good enough to ship. LLM...",
+      "tags": [
+        "ai",
+        "llm",
+        "softwaredevelopment",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjkozaw54zo7742ty5yw2.jpg",
+      "source": "Dev.to",
+      "user": "Quinn Dines"
+    },
+    {
       "title": "Who is building solutions with documents?",
       "url": "https://dev.to/missamarakay/who-is-building-solutions-for-documents-4d58",
       "published_at": "2026-11-05T21:23:07Z",
@@ -3184,21 +3229,6 @@
       "user": "Carlos Barbero"
     },
     {
-      "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
-      "url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g",
-      "published_at": "2026-11-07T07:35:33Z",
-      "description": "Author: Robina Mirbahar AI/ML Google Developer Expert (GDE) | Google Cloud Champion Innovator GitHub...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "opensource",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Frailpulse-gemma-cloudrun%2Fmain%2Fassets%2Frailpulse_banner_v2.jpg",
-      "source": "Dev.to",
-      "user": "Robina Mirbahar"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3246,7 +3276,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 2027,
+      "stars": 2033,
       "user": "JenkinWoo"
     },
     {
@@ -3291,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/337416215?v=4",
       "source": "GitHub",
-      "stars": 611,
+      "stars": 631,
       "user": "FJNB5"
     },
     {
@@ -3306,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "shanselman"
     },
     {
@@ -3321,7 +3351,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/155910760?v=4",
       "source": "GitHub",
-      "stars": 1710,
+      "stars": 1724,
       "user": "mmdoctor"
     },
     {
@@ -3336,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329836734?v=4",
       "source": "GitHub",
-      "stars": 1260,
+      "stars": 1315,
       "user": "WoYun520"
     },
     {
@@ -3366,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1039,
+      "stars": 1046,
       "user": "Th0rgal"
     },
     {
@@ -3381,7 +3411,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10053058?v=4",
       "source": "GitHub",
-      "stars": 986,
+      "stars": 1017,
       "user": "HybridRobotics"
     },
     {
@@ -3396,7 +3426,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 1846,
+      "stars": 1859,
       "user": "DIYgod"
     },
     {
@@ -3426,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348458842?v=4",
       "source": "GitHub",
-      "stars": 736,
+      "stars": 814,
       "user": "HolyArrs"
     },
     {
@@ -3441,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 555,
+      "stars": 559,
       "user": "devvmhq"
     },
     {
@@ -3486,7 +3516,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329385096?v=4",
       "source": "GitHub",
-      "stars": 1294,
+      "stars": 1295,
       "user": "tss878"
     },
     {
@@ -3501,7 +3531,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92120047?v=4",
       "source": "GitHub",
-      "stars": 1203,
+      "stars": 1204,
       "user": "RolandoV3"
     },
     {
@@ -3546,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/4026659?v=4",
       "source": "GitHub",
-      "stars": 1893,
+      "stars": 1961,
       "user": "jamesondh"
     },
     {
@@ -3561,7 +3591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/329758707?v=4",
       "source": "GitHub",
-      "stars": 1400,
+      "stars": 1434,
       "user": "voyager-so"
     },
     {
@@ -3591,7 +3621,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88082356?v=4",
       "source": "GitHub",
-      "stars": 567,
+      "stars": 582,
       "user": "Gloridust"
     },
     {
@@ -3621,6 +3651,18 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "pralkarz"
+    },
+    {
+      "title": "Lock your GitHub Actions",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "published_at": "2026-11-11T12:16:01.014-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "devops"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "hugoarnal"
     },
     {
       "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
