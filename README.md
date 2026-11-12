@@ -21,12 +21,21 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-11-12 13:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-11-12 21:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
 <table>
 <tr>
+  <td align="center" width="33%">
+    <a href="https://dev.to/ben/long-live-rails-3p21">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqb9kfsla99mu47xwg4z0.jpg" width="200" alt="Long Live Rails" />
+      <br/>
+      <b>Long Live Rails</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
   <td align="center" width="33%">
     <a href="https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F08zci525gx05ca9bdff6.png" width="200" alt="How did you end up in tech, and are you staying?" />
@@ -37,19 +46,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/swyx/the-case-for-smart-software-329f">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlzmkzz51drmiptal7sd.png" width="200" alt="The Case for Smart Software" />
+    <a href="https://dev.to/jamilxt/nvidia-says-its-roadmap-will-continue-ai-teams-should-verify-the-dependencies-3c8d">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbkpz7l8cx79zxn7ezeqd.png" width="200" alt="Nvidia Says Its Roadmap Will Continue. AI Teams Should Verify the Dependencies" />
       <br/>
-      <b>The Case for Smart Software</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog09_cover_gamified_bingo_exam_mode.png%3Fv%3D2" width="200" alt="Google AI Classroom Part 9: Gamified "Bingo" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud" />
-      <br/>
-      <b>Google AI Classroom Part 9: Gamified "Bingo" Activ...</b>
+      <b>Nvidia Says Its Roadmap Will Continue. AI Teams Sh...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -57,28 +57,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/ask-more-of-your-ui-2nf7">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsbhz5b16c123bk8q1zp6.jpg" width="200" alt="Ask More of Your UI" />
+    <a href="https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fcurrency-claude-agui-a2ui1%2Fmain%2Fdocs%2Fa2ui-1-0%2Fdevto-cover.b6f0e686.jpg" width="200" alt="What Changes With the A2UI 1.0 Release" />
       <br/>
-      <b>Ask More of Your UI</b>
+      <b>What Changes With the A2UI 1.0 Release</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl4a9im42pgylrtb1sxfq.png" width="200" alt="Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions" />
+    <a href="https://dev.to/dannwaneri/ai-code-is-unmaintainable-so-is-ours-3mek">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjh8nx84adsifberdyfi.jpg" width="200" alt="AI Code Is Unmaintainable? So Is Ours." />
       <br/>
-      <b>Detecting WasmPlugin version drift in Cloud Load B...</b>
+      <b>AI Code Is Unmaintainable? So Is Ours.</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fpipeline.J1Pi-k71_1aTFBO.webp" width="200" alt="Use your eval as a CI gate with Agents CLI" />
+    <a href="https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlonet5nfjfkf6d7m312.png" width="200" alt="Your Agent Needs a Schema, Not a Better Prompt" />
       <br/>
-      <b>Use your eval as a CI gate with Agents CLI</b>
+      <b>Your Agent Needs a Schema, Not a Better Prompt</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -92,28 +92,28 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | # | Headline | Source |
 |---|----------|--------|
-| 1 | [How did you end up in tech, and are you staying?](https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b) | Dev.to |
-| 2 | [The Case for Smart Software](https://dev.to/swyx/the-case-for-smart-software-329f) | Dev.to |
-| 3 | [Google AI Classroom Part 9: Gamified "Bingo" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud](https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg) | Dev.to |
-| 4 | [Ask More of Your UI](https://dev.to/dailycontext/ask-more-of-your-ui-2nf7) | Dev.to |
-| 5 | [Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions](https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5) | Dev.to |
-| 6 | [Use your eval as a CI gate with Agents CLI](https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1) | Dev.to |
-| 7 | [Software Engineering Is Becoming Factory Engineering](https://dev.to/dailycontext/software-engineering-is-becoming-factory-engineering-22ll) | Dev.to |
-| 8 | [Stop Calling getGenerativeModel() Everywhere! The Hidden Traps of Scaling Firebase AI to Multi-Model Angular Apps](https://dev.to/gde/stop-calling-getgenerativemodel-everywhere-the-hidden-traps-of-scaling-firebase-ai-to-lg1) | Dev.to |
-| 9 | [Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment](https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn) | Dev.to |
-| 10 | [Google AI Classroom Part 8: AI Project Supervision — Streamlined Mobile 720p Demo, 2-Stage Diarization & Fake-Log Auditing with Gemini 4](https://dev.to/gde/google-ai-classroom-part-8-ai-project-supervision-streamlined-mobile-720p-demo-2-stage-3h98) | Dev.to |
-| 11 | [Prompt Pad: What Are Open-Weight Models?](https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh) | Dev.to |
-| 12 | [The Fastest LLM Call Is The One You Never Make](https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo) | Dev.to |
-| 13 | [Kent C. Dodds Hasn't Looked at His Code All Year](https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5) | Dev.to |
-| 14 | [What I Learned Managing a Full Project with Antigravity](https://dev.to/gde/what-i-learned-managing-a-full-project-with-antigravity-1ppc) | Dev.to |
-| 15 | [Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox](https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b) | Dev.to |
-| 16 | [Vue.js Is My Workhorse. Now It's an Agent Skill.](https://dev.to/playfulprogramming/vuejs-is-my-workhorse-now-its-an-agent-skill-1pfk) | Dev.to |
-| 17 | [Prompt Pad: Show Your AI How to Respond with Few-Shot Examples](https://blog.mlh.com/prompt-pad-show-your-ai-how-to-respond-with-few-shot-examples-2869) | Dev.to |
-| 18 | [Who is building solutions with documents?](https://dev.to/missamarakay/who-is-building-solutions-for-documents-4d58) | Dev.to |
-| 19 | [Congrats to the Kaggle Benchmarking Challenge Winners!](https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh) | Dev.to |
-| 20 | [Google AI Classroom Part 4: Defeating Proxy Attendance & Lab Keyloggers with WebAuthn Passkeys, Rotating HMAC QRs & GCIP Blocking Functions](https://dev.to/gde/google-ai-classroom-part-4-defeating-proxy-attendance-lab-keyloggers-with-webauthn-passkeys-2gc0) | Dev.to |
+| 1 | [Long Live Rails](https://dev.to/ben/long-live-rails-3p21) | Dev.to |
+| 2 | [How did you end up in tech, and are you staying?](https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b) | Dev.to |
+| 3 | [Nvidia Says Its Roadmap Will Continue. AI Teams Should Verify the Dependencies](https://dev.to/jamilxt/nvidia-says-its-roadmap-will-continue-ai-teams-should-verify-the-dependencies-3c8d) | Dev.to |
+| 4 | [What Changes With the A2UI 1.0 Release](https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo) | Dev.to |
+| 5 | [AI Code Is Unmaintainable? So Is Ours.](https://dev.to/dannwaneri/ai-code-is-unmaintainable-so-is-ours-3mek) | Dev.to |
+| 6 | [Your Agent Needs a Schema, Not a Better Prompt](https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm) | Dev.to |
+| 7 | [Ask More of Your UI](https://dev.to/dailycontext/ask-more-of-your-ui-2nf7) | Dev.to |
+| 8 | [The Case for Smart Software](https://dev.to/swyx/the-case-for-smart-software-329f) | Dev.to |
+| 9 | [Use your eval as a CI gate with Agents CLI](https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1) | Dev.to |
+| 10 | [Software Engineering Is Becoming Factory Engineering](https://dev.to/dailycontext/software-engineering-is-becoming-factory-engineering-22ll) | Dev.to |
+| 11 | [Six Serving Engines on One Tesla T4: Gemma 4 E2B on a Turing GPU](https://dev.to/gde/six-serving-engines-on-one-tesla-t4-gemma-4-e2b-on-a-turing-gpu-3a6i) | Dev.to |
+| 12 | [What It Actually Takes to Roll Out AI Across Netflix](https://dev.to/dailycontext/what-it-actually-takes-to-roll-out-ai-across-netflix-18h8) | Dev.to |
+| 13 | [Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions](https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5) | Dev.to |
+| 14 | [The Fastest LLM Call Is The One You Never Make](https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo) | Dev.to |
+| 15 | [Prompt Pad: What Are Open-Weight Models?](https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh) | Dev.to |
+| 16 | [Kent C. Dodds Hasn't Looked at His Code All Year](https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5) | Dev.to |
+| 17 | [What I Learned Managing a Full Project with Antigravity](https://dev.to/gde/what-i-learned-managing-a-full-project-with-antigravity-1ppc) | Dev.to |
+| 18 | [Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox](https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b) | Dev.to |
+| 19 | [Vue.js Is My Workhorse. Now It's an Agent Skill.](https://dev.to/playfulprogramming/vuejs-is-my-workhorse-now-its-an-agent-skill-1pfk) | Dev.to |
+| 20 | [Prompt Pad: Show Your AI How to Respond with Few-Shot Examples](https://blog.mlh.com/prompt-pad-show-your-ai-how-to-respond-with-few-shot-examples-2869) | Dev.to |
 
-<sub>Last fetched: Thu, 12 Nov 2026 13:52:55 CAT</sub>
+<sub>Last fetched: Thu, 12 Nov 2026 21:18:47 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `SystemDesign` — Design a URL shortening service like bit.ly**
+**1. `Database` — Design a database schema for a social media platform**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 system design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Hash function, database design, caching, analytics
+> Users, posts, relationships, indexes, partitioning
 
 </details>
 
-**2. `Java` — What are Java Streams and how do they work?**
+**2. `Python` — Explain GIL and its implications for multithreading**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> Global Interpreter Lock, multiprocessing alternatives
 
 </details>
 
-**3. `Java` — What are Java Streams and how do they work?**
+**3. `Python` — Implement a context manager using __enter__ and __exit__**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 context managers, resource management
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Lazy evaluation, pipeline, terminal operations
+> with statement, setup/teardown, exception handling
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 79 | 42.9% | `████████████████████` |
-| **Tools** | 43 | 23.4% | `███████████░░░░░░░░░` |
-| **JavaScript** | 37 | 20.1% | `█████████░░░░░░░░░░░` |
-| **Python** | 32 | 17.4% | `████████░░░░░░░░░░░░` |
-| **Security** | 19 | 10.3% | `█████░░░░░░░░░░░░░░░` |
-| **DevOps** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **Cloud** | 18 | 9.8% | `█████░░░░░░░░░░░░░░░` |
-| **WebDev** | 10 | 5.4% | `███░░░░░░░░░░░░░░░░░` |
+| **AI** | 82 | 44.6% | `████████████████████` |
+| **Tools** | 43 | 23.4% | `██████████░░░░░░░░░░` |
+| **JavaScript** | 38 | 20.7% | `█████████░░░░░░░░░░░` |
+| **Python** | 30 | 16.3% | `███████░░░░░░░░░░░░░` |
+| **DevOps** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
+| **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 14 | 7.6% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
 | **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 2 | 1.1% | `█░░░░░░░░░░░░░░░░░░░` |
+| **Database** | 2 | 1.1% | `░░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -194,34 +194,34 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-Go              ██████████████████████████████ 26.6%
-JavaScript      ███████████████████████████ 24.0%
-Python          ███████████████████████ 20.1%
-Java            ███████████████████ 16.9%
-Rust            █████████ 8.4%
-Kotlin          █ 1.3%
-Swift           █ 1.3%
-Ruby            █ 0.6%
-CSharp          █ 0.6%
+JavaScript      ██████████████████████████████ 26.2%
+Go              █████████████████████████ 22.1%
+Python          ███████████████████████ 20.0%
+Java            ████████████████████ 17.9%
+Rust            ██████████ 9.0%
+Ruby            ██ 1.4%
+Kotlin          ██ 1.4%
+Swift           ██ 1.4%
+CSharp          █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "Go" : 41
-    "JavaScript" : 37
-    "Python" : 31
+    "JavaScript" : 38
+    "Go" : 32
+    "Python" : 29
     "Java" : 26
     "Rust" : 13
+    "Ruby" : 2
     "Kotlin" : 2
     "Swift" : 2
-    "Ruby" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-50-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-28-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-15-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-12-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-9-0969da?style=flat-square) ![discuss](https://img.shields.io/badge/discuss-8-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-7-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-55-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-27-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-15-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-9-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-8-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 12 Nov 2026 11:52:55 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Thu, 12 Nov 2026 19:18:47 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

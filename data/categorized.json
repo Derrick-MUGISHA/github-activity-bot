@@ -1,34 +1,64 @@
 {
   "AI": [
     {
-      "title": "The Case for Smart Software",
-      "url": "https://dev.to/swyx/the-case-for-smart-software-329f",
-      "published_at": "2026-11-12T01:00:57Z",
-      "description": "At a typical AI conference, there's usually much discussion of \"the future of software\", but it...",
+      "title": "Long Live Rails",
+      "url": "https://dev.to/ben/long-live-rails-3p21",
+      "published_at": "2026-11-12T15:30:50Z",
+      "description": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
       "tags": [
-        "jev",
-        "ai",
-        "software",
-        "aie"
+        "rails",
+        "ruby",
+        "rust",
+        "ai"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlzmkzz51drmiptal7sd.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqb9kfsla99mu47xwg4z0.jpg",
       "source": "Dev.to",
-      "user": "swyx"
+      "user": "Ben Halpern"
     },
     {
-      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
-      "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg",
-      "published_at": "2026-11-11T07:49:09Z",
-      "description": "Interactive Classroom Bingo comprehension checks and zero-trust proctored exam lockdown with forensic .docx dossiers on Google Cloud.",
+      "title": "Nvidia Says Its Roadmap Will Continue. AI Teams Should Verify the Dependencies",
+      "url": "https://dev.to/jamilxt/nvidia-says-its-roadmap-will-continue-ai-teams-should-verify-the-dependencies-3c8d",
+      "published_at": "2026-11-12T16:23:45Z",
+      "description": "A company can announce that its operations and product roadmap will continue without interruption....",
       "tags": [
-        "firebase",
-        "gamification",
-        "googlecloud",
-        "gemini"
+        "ai",
+        "business",
+        "infrastructure",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog09_cover_gamified_bingo_exam_mode.png%3Fv%3D2",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbkpz7l8cx79zxn7ezeqd.png",
       "source": "Dev.to",
-      "user": "Cyrus Wong"
+      "user": "jamilxt"
+    },
+    {
+      "title": "AI Code Is Unmaintainable? So Is Ours.",
+      "url": "https://dev.to/dannwaneri/ai-code-is-unmaintainable-so-is-ours-3mek",
+      "published_at": "2026-11-11T15:59:00Z",
+      "description": "If you’ve been in the software industry for any length of time, you’ve probably heard people talking...",
+      "tags": [
+        "ai",
+        "programming",
+        "softwareengineering",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjh8nx84adsifberdyfi.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
+    },
+    {
+      "title": "Your Agent Needs a Schema, Not a Better Prompt",
+      "url": "https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm",
+      "published_at": "2026-11-11T20:51:14Z",
+      "description": "The failure nobody demos   The agent demo always works. The customer asks for a refund, the...",
+      "tags": [
+        "ai",
+        "agents",
+        "llm",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlonet5nfjfkf6d7m312.png",
+      "source": "Dev.to",
+      "user": "frank coyle"
     },
     {
       "title": "Ask More of Your UI",
@@ -44,6 +74,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsbhz5b16c123bk8q1zp6.jpg",
       "source": "Dev.to",
       "user": "Ben Halpern"
+    },
+    {
+      "title": "The Case for Smart Software",
+      "url": "https://dev.to/swyx/the-case-for-smart-software-329f",
+      "published_at": "2026-11-12T01:00:57Z",
+      "description": "At a typical AI conference, there's usually much discussion of \"the future of software\", but it...",
+      "tags": [
+        "jev",
+        "ai",
+        "software",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlzmkzz51drmiptal7sd.png",
+      "source": "Dev.to",
+      "user": "swyx"
     },
     {
       "title": "Use your eval as a CI gate with Agents CLI",
@@ -76,47 +121,48 @@
       "user": "Zach Lloyd"
     },
     {
-      "title": "Stop Calling getGenerativeModel() Everywhere! The Hidden Traps of Scaling Firebase AI to Multi-Model Angular Apps",
-      "url": "https://dev.to/gde/stop-calling-getgenerativemodel-everywhere-the-hidden-traps-of-scaling-firebase-ai-to-lg1",
-      "published_at": "2026-11-11T10:53:39Z",
-      "description": "Calling getGenerativeModel() directly inside VisionService and TextToSpeechService duplicates...",
+      "title": "Six Serving Engines on One Tesla T4: Gemma 4 E2B on a Turing GPU",
+      "url": "https://dev.to/gde/six-serving-engines-on-one-tesla-t4-gemma-4-e2b-on-a-turing-gpu-3a6i",
+      "published_at": "2026-11-11T23:27:42Z",
+      "description": "llama.cpp, vLLM, SGLang, mistral.rs, a plain PyTorch engine and LiteRT-LM serve the same 4-bit Gemma 4 E2B on one 16 GB Tesla T4 on Compute Engine, with the same prompts, load sweep and GSM8K and BFCL questions. GSM8K and BFCL are level on every CUDA engine; vLLM with its drafter leads at every load.",
       "tags": [
-        "angular",
-        "firebase",
-        "architecture"
+        "gemma",
+        "vllm",
+        "googlecloud",
+        "nvidia"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk2pbgl8rh4cxx1h8cjcy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-t4%2Fdevto-cover.7b22d2e5.jpg",
       "source": "Dev.to",
-      "user": "Connie Leung"
+      "user": "xbill"
     },
     {
-      "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
-      "url": "https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn",
-      "published_at": "2026-11-11T08:21:46Z",
-      "description": "Green AI FinOps, automated storage lifecycle policies, and 1-command Terraform IaC for multi-school teaching, grading, and proctored exam deployments.",
-      "tags": [
-        "finops",
-        "terraform",
-        "devops",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog10_cover_green_ai_finops_terraform.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
-      "title": "Google AI Classroom Part 8: AI Project Supervision — Streamlined Mobile 720p Demo, 2-Stage Diarization & Fake-Log Auditing with Gemini 4",
-      "url": "https://dev.to/gde/google-ai-classroom-part-8-ai-project-supervision-streamlined-mobile-720p-demo-2-stage-3h98",
-      "published_at": "2026-11-11T07:41:52Z",
-      "description": "Measuring authentic student performance in capstone projects with a mobile 720p demo studio, 2-stage diarization, and fake-log auditing using Gemini 4.",
+      "title": "What It Actually Takes to Roll Out AI Across Netflix",
+      "url": "https://dev.to/dailycontext/what-it-actually-takes-to-roll-out-ai-across-netflix-18h8",
+      "published_at": "2026-11-12T01:22:47Z",
+      "description": "Most companies will never train a frontier model. Their AI work happens somewhere less visible: the...",
       "tags": [
         "ai",
-        "firebase",
-        "gemini"
+        "agenticai",
+        "netflix",
+        "agents"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog08_cover_multimodal_capstone_supervision.png%3Fv%3D2",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo0fnu9gh0wnolafss85u.png",
       "source": "Dev.to",
-      "user": "Cyrus Wong"
+      "user": "Kara Silverman"
+    },
+    {
+      "title": "The Fastest LLM Call Is The One You Never Make",
+      "url": "https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo",
+      "published_at": "2026-11-11T01:37:24Z",
+      "description": "At Glean, we tested a model that does not write text. It only makes decisions.  In our tests, it...",
+      "tags": [
+        "ai",
+        "llm",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fszcnl5akpzp6fx2g0qar.png",
+      "source": "Dev.to",
+      "user": "Chinmay Goyal"
     },
     {
       "title": "Prompt Pad: What Are Open-Weight Models?",
@@ -132,20 +178,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdhpbb4fkjfpnq7nocn60.png",
       "source": "Dev.to",
       "user": "MLH Team"
-    },
-    {
-      "title": "The Fastest LLM Call Is The One You Never Make",
-      "url": "https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo",
-      "published_at": "2026-11-11T01:37:24Z",
-      "description": "At Glean, we tested a model that does not write text. It only makes decisions.  In our tests, it...",
-      "tags": [
-        "ai",
-        "llm",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fszcnl5akpzp6fx2g0qar.png",
-      "source": "Dev.to",
-      "user": "Chinmay Goyal"
     },
     {
       "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
@@ -222,6 +254,21 @@
       "user": "MLH Team"
     },
     {
+      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
+      "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg",
+      "published_at": "2026-11-11T07:49:09Z",
+      "description": "Interactive Classroom Bingo comprehension checks and zero-trust proctored exam lockdown with forensic .docx dossiers on Google Cloud.",
+      "tags": [
+        "firebase",
+        "gamification",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog09_cover_gamified_bingo_exam_mode.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "Cyrus Wong"
+    },
+    {
       "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
       "published_at": "2026-11-05T21:12:11Z",
@@ -235,6 +282,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fig8gi4bw1h7vk0z76krk.png",
       "source": "Dev.to",
       "user": "Jem"
+    },
+    {
+      "title": "When the Coding Agent Says It Is Done",
+      "url": "https://dev.to/dailycontext/when-the-coding-agent-says-it-is-done-4mjj",
+      "published_at": "2026-11-11T01:51:03Z",
+      "description": "The work should be easy to verify and continue after the conversation ends.  An agent changes the...",
+      "tags": [
+        "ai",
+        "agents",
+        "testing",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzozsdvfcmvinbzmngya0.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
     },
     {
       "title": "Google AI Classroom Part 4: Defeating Proxy Attendance & Lab Keyloggers with WebAuthn Passkeys, Rotating HMAC QRs & GCIP Blocking Functions",
@@ -282,19 +344,34 @@
       "user": "Ankit Jain"
     },
     {
-      "title": "The AI Evals feedback loop runs both ways",
-      "url": "https://dev.to/quinnvention/the-ai-evals-feedback-loop-runs-both-ways-1pl3",
-      "published_at": "2026-11-10T21:36:49Z",
-      "description": "We’re increasingly asking AI to help decide whether other AI systems are good enough to ship. LLM...",
+      "title": "Give Your Agent a Fast Path",
+      "url": "https://dev.to/dailycontext/give-your-agent-a-fast-path-496",
+      "published_at": "2026-11-11T02:15:45Z",
+      "description": "Small decision models offer a way to handle routine judgments quickly, provided we are clear about...",
       "tags": [
         "ai",
         "llm",
-        "softwaredevelopment",
+        "agents",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsbcyucga1h655xzawmgl.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
+    },
+    {
+      "title": "When Is an AI Rewrite Finished?",
+      "url": "https://dev.to/dailycontext/when-is-an-ai-rewrite-finished-4ged",
+      "published_at": "2026-11-11T02:16:58Z",
+      "description": "AI makes it easier to attempt a replacement. The harder question is what the new software still owes...",
+      "tags": [
+        "ai",
+        "rust",
+        "softwareengineering",
         "testing"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjkozaw54zo7742ty5yw2.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv15857bvz8twhhzysw0p.png",
       "source": "Dev.to",
-      "user": "Quinn Dines"
+      "user": "Ramakrishnan Lokanathan"
     },
     {
       "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
@@ -312,19 +389,61 @@
       "user": "MLH Team"
     },
     {
-      "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
-      "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k",
-      "published_at": "2026-11-03T22:28:08Z",
-      "description": "Hacktoberfest 2026 wrapped up on October 31st! Thank you to everyone who built, hosted, mentored,...",
+      "title": "Stop Calling getGenerativeModel() Everywhere! The Hidden Traps of Scaling Firebase AI to Multi-Model Angular Apps",
+      "url": "https://dev.to/gde/stop-calling-getgenerativemodel-everywhere-the-hidden-traps-of-scaling-firebase-ai-to-lg1",
+      "published_at": "2026-11-11T10:53:39Z",
+      "description": "Calling getGenerativeModel() directly inside VisionService and TextToSpeechService duplicates...",
       "tags": [
-        "hacktoberfest",
-        "hf26challenge",
-        "opensource",
-        "ai"
+        "angular",
+        "firebase",
+        "architecture"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9j2yyb098hr9vwiu2xyr.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk2pbgl8rh4cxx1h8cjcy.png",
       "source": "Dev.to",
-      "user": "Noah Brinker"
+      "user": "Connie Leung"
+    },
+    {
+      "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
+      "url": "https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn",
+      "published_at": "2026-11-11T08:21:46Z",
+      "description": "Green AI FinOps, automated storage lifecycle policies, and 1-command Terraform IaC for multi-school teaching, grading, and proctored exam deployments.",
+      "tags": [
+        "finops",
+        "terraform",
+        "devops",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog10_cover_green_ai_finops_terraform.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "Cyrus Wong"
+    },
+    {
+      "title": "Google AI Classroom Part 8: AI Project Supervision — Streamlined Mobile 720p Demo, 2-Stage Diarization & Fake-Log Auditing with Gemini 4",
+      "url": "https://dev.to/gde/google-ai-classroom-part-8-ai-project-supervision-streamlined-mobile-720p-demo-2-stage-3h98",
+      "published_at": "2026-11-11T07:41:52Z",
+      "description": "Measuring authentic student performance in capstone projects with a mobile 720p demo studio, 2-stage diarization, and fake-log auditing using Gemini 4.",
+      "tags": [
+        "ai",
+        "firebase",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog08_cover_multimodal_capstone_supervision.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "Cyrus Wong"
+    },
+    {
+      "title": "Should You Rewrite It With AI? Aaron Beals on What Breaks",
+      "url": "https://dev.to/dailycontext/should-you-rewrite-it-with-ai-aaron-beals-on-what-breaks-2bng",
+      "published_at": "2026-11-11T01:52:59Z",
+      "description": "The decision to rewrite   For years, rewriting an existing codebase from scratch was...",
+      "tags": [
+        "ai",
+        "agents",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5efhikpl2hrgjzjcw4j.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
     },
     {
       "title": "Google AI Classroom Part 6: Low-Bandwidth Classroom Screen Broadcasting & Single-Pass Whole-Lecture Subtitles with Gemini 4 Argon",
@@ -567,80 +686,6 @@
       "user": "Adam - The Developer ✨"
     },
     {
-      "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
-      "url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740",
-      "published_at": "2026-10-29T20:32:53Z",
-      "description": "Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson fails in open-world software, and how we compile mid-flight collisions into 4-Vector Synthetic Scars and a Six-Pillar Critic.",
-      "tags": [
-        "ai",
-        "programming",
-        "architecture",
-        "unix"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiky1u2td754x8dzoee8p.png",
-      "source": "Dev.to",
-      "user": "Randal L. Schwartz"
-    },
-    {
-      "title": "Google AI Classroom Part 2: Zero-Egress Browser Edge AI Investigator — Running Gemma 4 E2B, MediaPipe 3D Face Mesh & LiteRT Whisper in Web Workers",
-      "url": "https://dev.to/gde/google-ai-classroom-part-2-zero-egress-browser-edge-ai-investigator-running-gemma-4-e2b-2k6a",
-      "published_at": "2026-11-10T02:57:14Z",
-      "description": "Author: Cyrus Wong (黃俊彥) — Google Developer Expert - Cloud (AI), Senior Lecturer at HKIIT            ...",
-      "tags": [
-        "ai",
-        "browser",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqfkmpe3vcqsl3fjica91.jpg",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
-      "title": "Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B",
-      "url": "https://dev.to/gde/six-serving-engines-on-one-cloud-tpu-v5e-chip-gemma-4-e2b-22hn",
-      "published_at": "2026-11-09T16:00:42Z",
-      "description": "vLLM, SGLang-JAX, a pure-JAX engine, a Rust model over PJRT, and TorchTPU in Python and Rust serve Gemma 4 E2B on one flex-start v5e-1, with the same prompts, the same 1-to-64-request sweep and the same GSM8K questions. vLLM is the engine that serves out of the box; SGLang-JAX with an E2B patch is the fastest at every load from 8 requests up.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "vllm",
-        "jax"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-v5e1%2Fdevto-cover.7c2d5345.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)",
-      "url": "https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf",
-      "published_at": "2026-11-09T15:10:32Z",
-      "description": "What happens when the hardest-working user on your 16GB Mac and multi-cloud Ubuntu Dev-Box is a fleet of 20+ AI coding agents? Real benchmarks and fixes for 8s Chrome 136+ CDP hangs, 12GB APFS ghost clones, WindowServer freezes, and tmux reboot amnesia.",
-      "tags": [
-        "gemini",
-        "googlecloud",
-        "ai",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fjimmyliao%2Fax-playbook%2Fmain%2Fassets%2Fax-playbook-cover-wide.en.png",
-      "source": "Dev.to",
-      "user": "JimmyLiao"
-    },
-    {
-      "title": "Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e",
-      "url": "https://dev.to/gde/porting-gemma-4-e2b-to-sglang-jax-on-one-cloud-tpu-v5e-5e9l",
-      "published_at": "2026-11-09T17:16:08Z",
-      "description": "SGLang-JAX serves the Gemma 4 31B and 26B A4B on TPU and fails to load E2B. A two-file patch adds per-layer embeddings, shared K/V and the double-wide MLP; on one flex-start v5e-1 it then serves 159.9 tokens per second for one request and 4,249.4 at 64, 2.52x vLLM, with GSM8K level with the bf16 JAX engine.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "jax",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsglangjax-e2b-v5e1%2Fdevto-cover.1cd3c453.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -820,7 +865,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 631,
       "user": "lxe"
     },
     {
@@ -835,7 +880,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 1954,
+      "stars": 1993,
       "user": "DIYgod"
     },
     {
@@ -850,7 +895,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 590,
       "user": "devvmhq"
     },
     {
@@ -865,7 +910,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26252739?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "TooonyChen"
     },
     {
@@ -881,47 +926,36 @@
       "user": "hugoarnal"
     },
     {
-      "title": "How do you actually self-host securely?",
-      "url": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
-      "published_at": "2026-11-11T06:01:19.024-06:00",
-      "description": "I recognize that the title is rather vague, but I'm completely green when it comes to self-hosting, so I figured here would be a good place to ask for some pointers given the discussions I sometimes see happening in the comments. I tried researching first through DDG and Google, but (and I recognize this might be a skill issue) most things I found are either SEO slop or trying to sell/market some service.\r\n\r\nFor some more context and to give a concrete example as to what I'm interested in, I got my hands on a Raspberry Pi which I'd like to use to start tinkering with self-hosting. My main goal would be to host my (static) website on it, potentially adding more things in the future.\r\n\r\nSome people I asked this question recommended solutions like Cloudflare Tunnels to make it secure, but using such a provider almost feels like it defeats the point of self-hosting, so I'm curious whether it's viable to do it using open source tooling, any gotchas one might encounter, and generally any thoughts you might have on the topic.\r\n\r\n(Also, feel free to suggest a tag other than `devops`, I figured `security` doesn't quite apply since it's a question and not a write-up/resource regarding security.)",
-      "tags": [
-        "ask",
-        "devops"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pralkarz"
-    },
-    {
-      "title": "What are some \"No AI\" apps/companies/resources you know of?",
-      "url": "https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies",
-      "published_at": "2026-11-11T07:13:51.549-06:00",
-      "description": "Hey everyone I'm wondering if there's any useful/helpful list of apps, companies, or resources in general that avoid AI (they don't have to be vocally or openly \"anti\", but at least explicitly avoid it) that you know of?\r\n\r\nI'm not looking to start a discussion on what's good/bad or (un)worthy about AI, or who's for/against, just links and/or communities promoting this sentiment/position.\r\n\r\nFor example, https://www.rebeltechalliance.org would be one of those resources.\r\n\r\nThank you!",
-      "tags": [
-        "ask"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "brn"
-    },
-    {
-      "title": "For the first time, a C++ standard failed to pass the national bodies",
-      "url": "https://herecomesthemoon.net/2026/11/cpp26-failed-the-national-bodies/",
-      "published_at": "2026-11-11T12:49:35.129-06:00",
+      "title": "The entirety of \"Let Over Lambda\" is now freely available online",
+      "url": "https://letoverlambda.com/",
+      "published_at": "2026-11-12T06:44:34.403-06:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "c++"
+        "book",
+        "lisp"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "mond"
+      "user": "nemin"
+    },
+    {
+      "title": "libreagi - save OS models",
+      "url": "https://libreagi.com/",
+      "published_at": "2026-11-12T09:35:46.353-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "ai",
+        "privacy"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "satuke"
     },
     {
       "title": "How Can I Prevent Data Leakage When Preprocessing Data for Machine Learning in Python?",
       "url": "https://stackoverflow.com/questions/80016255/how-can-i-prevent-data-leakage-when-preprocessing-data-for-machine-learning-in-p",
       "published_at": "2026-11-12T11:32:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "machine-learning",
@@ -933,129 +967,121 @@
       "user": "Aptech Learning Gurgaon"
     },
     {
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "published_at": "2026-11-12T03:13:10.000Z",
-      "description": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "published_at": "2026-11-12T19:11:00.000Z",
+      "description": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
       "tags": [
-        "AI",
-        "TC"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Connie Loizos"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "published_at": "2026-11-11T23:50:00.000Z",
-      "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "tags": [
-        "AI",
-        "China",
-        "nvidia",
-        "Donald Trump",
-        "Jensen Huang"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "published_at": "2026-11-11T23:28:45.000Z",
-      "description": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "tags": [
-        "AI",
-        "In Brief",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Amanda Silberling"
-    },
-    {
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "published_at": "2026-11-11T23:17:05.000Z",
-      "description": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-      "tags": [
-        "AI",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "Why the data center you dread might never even be built",
-      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "published_at": "2026-11-11T20:15:15.000Z",
-      "description": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get b",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "AI data center",
-        "data center"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Theresa Loconsolo, Rebecca Bellan, Tim De Chant"
-    },
-    {
-      "title": "Meta is losing its longtime head of  infrastructure",
-      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-      "published_at": "2026-11-11T20:12:01.000Z",
-      "description": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-      "tags": [
-        "AI",
-        "compute",
-        "infrastructure",
-        "Meta",
-        "social media"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Lucas Ropek"
-    },
-    {
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "published_at": "2026-11-11T19:54:00.000Z",
-      "description": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-      "tags": [
-        "AI",
-        "ai infrastructure",
-        "Cloud Computing",
-        "CoreWeave"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
-    },
-    {
-      "title": "With $720M round, Britain&#8217;s Fractile gets a leg up in the race for AI chips",
-      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "published_at": "2026-11-11T19:34:55.000Z",
-      "description": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-      "tags": [
-        "AI",
-        "Fundraising",
         "Startups",
-        "semiconductor chips"
+        "AI",
+        "Marketing",
+        "AI agents",
+        "nectar social"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Anna Heim"
+      "user": "Lauren Forristal"
     },
     {
-      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "published_at": "2026-11-11T19:22:22.000Z",
-      "description": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "title": "Microsoft&#8217;s Outlook email hit by new outage",
+      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+      "published_at": "2026-11-12T19:03:39.000Z",
+      "description": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+      "tags": [
+        "Apps",
+        "email",
+        "Microsoft",
+        "Outlook"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "published_at": "2026-11-12T18:39:23.000Z",
+      "description": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "tags": [
+        "AI",
+        "Jensen Huang",
+        "nvidia",
+        "Open AI",
+        "open source"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "published_at": "2026-11-12T17:36:40.000Z",
+      "description": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "tags": [
+        "AI",
+        "nvidia",
+        "Hugging Face",
+        "Jensen Huang",
+        "Clem Delangue"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "published_at": "2026-11-12T17:17:58.000Z",
+      "description": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "tags": [
+        "AI",
+        "Security",
+        "Transportation",
+        "AI assistants",
+        "Airlines"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI&#8217;s natural gas ambitions",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "published_at": "2026-11-12T17:00:52.000Z",
+      "description": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "tags": [
+        "AI",
+        "Climate",
+        "Analysis",
+        "natural gas",
+        "Softbank"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Tim De Chant"
+    },
+    {
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "published_at": "2026-11-12T17:00:00.000Z",
+      "description": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Startups",
+        "ai apps",
+        "Photography"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Jensen Huang agrees to testify before Congress",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "published_at": "2026-11-12T16:36:37.000Z",
+      "description": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
       "tags": [
         "AI",
         "Government & Policy",
@@ -1065,7 +1091,38 @@
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Rebecca Bellan"
+      "user": "Aisha Malik"
+    },
+    {
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "published_at": "2026-11-12T16:32:33.000Z",
+      "description": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "tags": [
+        "AI",
+        "ai industry",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang&#8217;s successor",
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "published_at": "2026-11-12T16:12:44.000Z",
+      "description": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+      "tags": [
+        "AI",
+        "Apple",
+        "In Brief",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
     },
     {
       "title": "Learn Agentic Coding with Codex & AI Coding Agents",
@@ -1128,18 +1185,19 @@
   ],
   "JavaScript": [
     {
-      "title": "Stop Calling getGenerativeModel() Everywhere! The Hidden Traps of Scaling Firebase AI to Multi-Model Angular Apps",
-      "url": "https://dev.to/gde/stop-calling-getgenerativemodel-everywhere-the-hidden-traps-of-scaling-firebase-ai-to-lg1",
-      "published_at": "2026-11-11T10:53:39Z",
-      "description": "Calling getGenerativeModel() directly inside VisionService and TextToSpeechService duplicates...",
+      "title": "What Changes With the A2UI 1.0 Release",
+      "url": "https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo",
+      "published_at": "2026-11-12T16:05:47Z",
+      "description": "The same currency agent built on A2UI 0.9 and on A2UI 1.0: what changed in the protocol, how an answer reaches the screen now, and why the model writes 21 tokens for a rate card that took 223 on 0.9.",
       "tags": [
-        "angular",
-        "firebase",
-        "architecture"
+        "a2ui",
+        "agents",
+        "gemini",
+        "react"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk2pbgl8rh4cxx1h8cjcy.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fcurrency-claude-agui-a2ui1%2Fmain%2Fdocs%2Fa2ui-1-0%2Fdevto-cover.b6f0e686.jpg",
       "source": "Dev.to",
-      "user": "Connie Leung"
+      "user": "xbill"
     },
     {
       "title": "Vue.js Is My Workhorse. Now It's an Agent Skill.",
@@ -1155,6 +1213,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fignc006a3g3jwyi4xopm.jpg",
       "source": "Dev.to",
       "user": "Domenico Tenace"
+    },
+    {
+      "title": "Stop Calling getGenerativeModel() Everywhere! The Hidden Traps of Scaling Firebase AI to Multi-Model Angular Apps",
+      "url": "https://dev.to/gde/stop-calling-getgenerativemodel-everywhere-the-hidden-traps-of-scaling-firebase-ai-to-lg1",
+      "published_at": "2026-11-11T10:53:39Z",
+      "description": "Calling getGenerativeModel() directly inside VisionService and TextToSpeechService duplicates...",
+      "tags": [
+        "angular",
+        "firebase",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk2pbgl8rh4cxx1h8cjcy.png",
+      "source": "Dev.to",
+      "user": "Connie Leung"
     },
     {
       "title": "From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]",
@@ -1318,7 +1390,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 2060,
+      "stars": 2078,
       "user": "JenkinWoo"
     },
     {
@@ -1352,21 +1424,6 @@
       "user": "Gacktadactle"
     },
     {
-      "title": "FJNB5/fujiang-pojia - 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面",
-      "url": "https://github.com/FJNB5/fujiang-pojia",
-      "published_at": "2026-11-09T05:55:55Z",
-      "description": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/337416215?v=4",
-      "source": "GitHub",
-      "stars": 683,
-      "user": "FJNB5"
-    },
-    {
       "title": "shanselman/sandbox-mcp - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
       "url": "https://github.com/shanselman/sandbox-mcp",
       "published_at": "2026-11-06T19:02:14Z",
@@ -1378,8 +1435,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 421,
       "user": "shanselman"
+    },
+    {
+      "title": "yetone/rewind-for-x - Chrome extension: look back at posts that scrolled past on your X home timeline",
+      "url": "https://github.com/yetone/rewind-for-x",
+      "published_at": "2026-11-09T09:28:22Z",
+      "description": "Chrome extension: look back at posts that scrolled past on your X home timeline",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "source": "GitHub",
+      "stars": 407,
+      "user": "yetone"
     },
     {
       "title": "ebtsamalhakmy-sketch/desktop-backup-suite - Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite",
@@ -1423,7 +1495,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92120047?v=4",
       "source": "GitHub",
-      "stars": 1107,
+      "stars": 1108,
       "user": "RolandoV3"
     },
     {
@@ -1460,7 +1532,7 @@
       "title": "Service worker keeps serving the previous deploy's JavaScript after a new Vercel deploy",
       "url": "https://stackoverflow.com/questions/80016080/service-worker-keeps-serving-the-previous-deploys-javascript-after-a-new-vercel",
       "published_at": "2026-11-11T17:48:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -10",
+      "description": "Stack Overflow question · 0 answers · score -9",
       "tags": [
         "javascript",
         "progressive-web-apps",
@@ -1488,32 +1560,6 @@
       "user": "rickymwethera"
     },
     {
-      "title": "Passing form data from a popup window in Flask",
-      "url": "https://stackoverflow.com/questions/80015811/passing-form-data-from-a-popup-window-in-flask",
-      "published_at": "2026-11-10T12:39:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
-      "tags": [
-        "javascript",
-        "python",
-        "flask"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "katastrophe"
-    },
-    {
-      "title": "How can you make it to where when someone enters 2 numbers that when they click the button, a letter goes into the grid in javascript",
-      "url": "https://stackoverflow.com/questions/80015713/how-can-you-make-it-to-where-when-someone-enters-2-numbers-that-when-they-click",
-      "published_at": "2026-11-09T19:13:57.000Z",
-      "description": "Stack Overflow question · 0 answers · score -15",
-      "tags": [
-        "javascript"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Ilian-101010"
-    },
-    {
       "title": "bug between v10.7 and v10.8 and later",
       "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
       "published_at": "2026-11-04T22:00:29.000Z",
@@ -1525,6 +1571,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "allez l&#39;OM"
+    },
+    {
+      "title": "Uncaught Error: prompt() is not supported",
+      "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
+      "published_at": "2026-09-25T08:18:05.000Z",
+      "description": "Stack Overflow question · 2 answers · score -5",
+      "tags": [
+        "javascript",
+        "vs-code",
+        "vscode-integrated-browser"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Alex"
     },
     {
       "title": "How to remove scrollbar from Shopify modal pop up",
@@ -1540,20 +1600,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gjjr"
-    },
-    {
-      "title": "How do I add a link to a draggable element that doesn't open when you drag it, only when you click it?",
-      "url": "https://stackoverflow.com/questions/79971709/how-do-i-add-a-link-to-a-draggable-element-that-doesnt-open-when-you-drag-it-o",
-      "published_at": "2026-06-30T12:04:31.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
-      "tags": [
-        "javascript",
-        "drag-and-drop",
-        "draggable"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kiki"
     },
     {
       "title": "What is the difference between typeof and instanceof and when should one be used vs. the other?",
@@ -1584,10 +1630,25 @@
       "user": "I like computers "
     },
     {
+      "title": "Disable scrolling on `<input type=number>`",
+      "url": "https://stackoverflow.com/questions/9712295/disable-scrolling-on-input-type-number",
+      "published_at": "2012-03-15T00:17:28.000Z",
+      "description": "Stack Overflow question · 28 answers · score 249",
+      "tags": [
+        "javascript",
+        "css",
+        "html",
+        "forms"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kjs3"
+    },
+    {
       "title": "How to load a website (HTML) and click a button?",
       "url": "https://stackoverflow.com/questions/79802131/how-to-load-a-website-html-and-click-a-button",
       "published_at": "2025-10-27T18:18:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "c#",
@@ -1597,6 +1658,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Thorsten Schmitz"
+    },
+    {
+      "title": "How to reset an HTML element to its first/initial value in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79820285/how-to-reset-an-html-element-to-its-first-initial-value-in-javascript",
+      "published_at": "2025-11-14T17:11:16.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Milichip"
     },
     {
       "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
@@ -1703,21 +1778,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Frackdoc%2Fmain%2Fdocs%2Frackdoc_v1_1_screenshot.png",
       "source": "Dev.to",
       "user": "Mario Ezquerro"
-    },
-    {
-      "title": "Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B",
-      "url": "https://dev.to/gde/six-serving-engines-on-one-cloud-tpu-v5e-chip-gemma-4-e2b-22hn",
-      "published_at": "2026-11-09T16:00:42Z",
-      "description": "vLLM, SGLang-JAX, a pure-JAX engine, a Rust model over PJRT, and TorchTPU in Python and Rust serve Gemma 4 E2B on one flex-start v5e-1, with the same prompts, the same 1-to-64-request sweep and the same GSM8K questions. vLLM is the engine that serves out of the box; SGLang-JAX with an E2B patch is the fastest at every load from 8 requests up.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "vllm",
-        "jax"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-v5e1%2Fdevto-cover.7c2d5345.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1851,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10053058?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1294,
       "user": "HybridRobotics"
     },
     {
@@ -1881,7 +1941,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1056,
       "user": "Th0rgal"
     },
     {
@@ -1896,7 +1956,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113011860?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 926,
       "user": "Goblinmine"
     },
     {
@@ -1911,41 +1971,68 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 631,
       "user": "lxe"
     },
     {
-      "title": "In Memoriam: Tim Peters 1952–2026",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "published_at": "2026-11-11T08:20:17.454-06:00",
+      "title": "Adapting CPython for yk",
+      "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+      "published_at": "2026-11-12T06:29:56.716-06:00",
       "description": "Lobste.rs Discussion",
       "tags": [
-        "person",
+        "compilers",
         "python"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "dbremner"
+      "user": "ltratt"
     },
     {
-      "title": "Passing form data from a popup window in Flask",
-      "url": "https://stackoverflow.com/questions/80015811/passing-form-data-from-a-popup-window-in-flask",
-      "published_at": "2026-11-10T12:39:07.000Z",
-      "description": "Stack Overflow question · 1 answers · score 4",
+      "title": "How to correctly iterate and count vowels in a Python string?",
+      "url": "https://stackoverflow.com/questions/80016348/how-to-correctly-iterate-and-count-vowels-in-a-python-string",
+      "published_at": "2026-11-12T18:53:45.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
-        "javascript",
-        "python",
-        "flask"
+        "advice",
+        "python"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "katastrophe"
+      "user": "giga xucishvili"
+    },
+    {
+      "title": "Why there is an error with list broadcasting?",
+      "url": "https://stackoverflow.com/questions/80016150/why-there-is-an-error-with-list-broadcasting",
+      "published_at": "2026-11-12T02:57:44.000Z",
+      "description": "Stack Overflow question · 2 answers · score 10",
+      "tags": [
+        "python",
+        "numpy",
+        "cpython"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "朱爱兵"
+    },
+    {
+      "title": "Hierarchical Clustermap with 0 sum columns and ValueError",
+      "url": "https://stackoverflow.com/questions/80016294/hierarchical-clustermap-with-0-sum-columns-and-valueerror",
+      "published_at": "2026-11-12T13:59:43.000Z",
+      "description": "Stack Overflow question · 0 answers · score -1",
+      "tags": [
+        "python",
+        "seaborn",
+        "clustermap"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Dragoran21"
     },
     {
       "title": "How Can I Prevent Data Leakage When Preprocessing Data for Machine Learning in Python?",
       "url": "https://stackoverflow.com/questions/80016255/how-can-i-prevent-data-leakage-when-preprocessing-data-for-machine-learning-in-p",
       "published_at": "2026-11-12T11:32:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -1",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "python",
         "machine-learning",
@@ -1955,51 +2042,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Aptech Learning Gurgaon"
-    },
-    {
-      "title": "Best Practice for blog app with both News and Articles",
-      "url": "https://stackoverflow.com/questions/80016214/best-practice-for-blog-app-with-both-news-and-articles",
-      "published_at": "2026-11-12T08:52:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -8",
-      "tags": [
-        "best-practices",
-        "python",
-        "django",
-        "database",
-        "postgresql"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "erfan safarali"
-    },
-    {
-      "title": "Why there is an error with list broadcasting?",
-      "url": "https://stackoverflow.com/questions/80016150/why-there-is-an-error-with-list-broadcasting",
-      "published_at": "2026-11-12T02:57:44.000Z",
-      "description": "Stack Overflow question · 3 answers · score 8",
-      "tags": [
-        "python",
-        "numpy"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "朱爱兵"
-    },
-    {
-      "title": "Why does MilvusClient.query() return only 4 rows with limit=10 after inserting duplicate primary keys?",
-      "url": "https://stackoverflow.com/questions/80016189/why-does-milvusclient-query-return-only-4-rows-with-limit-10-after-inserting-d",
-      "published_at": "2026-11-12T06:49:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "python",
-        "pagination",
-        "duplicates",
-        "primary-key",
-        "milvus"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Civic Fiction"
     },
     {
       "title": "Does sys.set_lazy_imports() accept 'none'?",
@@ -2031,10 +2073,42 @@
       "user": "Capit&#227;o Mendig&#227;o"
     },
     {
+      "title": "Best Practice for blog app with both News and Articles",
+      "url": "https://stackoverflow.com/questions/80016214/best-practice-for-blog-app-with-both-news-and-articles",
+      "published_at": "2026-11-12T08:52:38.000Z",
+      "description": "Stack Overflow question · 1 answers · score -7",
+      "tags": [
+        "best-practices",
+        "python",
+        "django",
+        "database",
+        "postgresql"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "erfan safarali"
+    },
+    {
+      "title": "Why does MilvusClient.query() return only 4 rows with limit=10 after inserting duplicate primary keys?",
+      "url": "https://stackoverflow.com/questions/80016189/why-does-milvusclient-query-return-only-4-rows-with-limit-10-after-inserting-d",
+      "published_at": "2026-11-12T06:49:01.000Z",
+      "description": "Stack Overflow question · 0 answers · score 0",
+      "tags": [
+        "python",
+        "pagination",
+        "duplicates",
+        "primary-key",
+        "milvus"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Civic Fiction"
+    },
+    {
       "title": "How can I programmatically create an MDList with KivyMD?",
       "url": "https://stackoverflow.com/questions/80016122/how-can-i-programmatically-create-an-mdlist-with-kivymd",
       "published_at": "2026-11-11T20:55:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score 2",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "kivymd"
@@ -2055,48 +2129,23 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Toffomat"
-    },
-    {
-      "title": "Asyncio Unhandled Exception in atexit",
-      "url": "https://stackoverflow.com/questions/80015847/asyncio-unhandled-exception-in-atexit",
-      "published_at": "2026-11-10T16:22:45.000Z",
-      "description": "Stack Overflow question · 3 answers · score 1",
-      "tags": [
-        "python",
-        "python-asyncio"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shankboy"
-    },
-    {
-      "title": "Rounding a float number",
-      "url": "https://stackoverflow.com/questions/80016045/rounding-a-float-number",
-      "published_at": "2026-11-11T14:40:10.000Z",
-      "description": "Stack Overflow question · 0 answers · score -7",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jal"
     }
   ],
   "DevOps": [
     {
-      "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
-      "url": "https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn",
-      "published_at": "2026-11-11T08:21:46Z",
-      "description": "Green AI FinOps, automated storage lifecycle policies, and 1-command Terraform IaC for multi-school teaching, grading, and proctored exam deployments.",
+      "title": "Nvidia Says Its Roadmap Will Continue. AI Teams Should Verify the Dependencies",
+      "url": "https://dev.to/jamilxt/nvidia-says-its-roadmap-will-continue-ai-teams-should-verify-the-dependencies-3c8d",
+      "published_at": "2026-11-12T16:23:45Z",
+      "description": "A company can announce that its operations and product roadmap will continue without interruption....",
       "tags": [
-        "finops",
-        "terraform",
-        "devops",
-        "googlecloud"
+        "ai",
+        "business",
+        "infrastructure",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog10_cover_green_ai_finops_terraform.png%3Fv%3D2",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbkpz7l8cx79zxn7ezeqd.png",
       "source": "Dev.to",
-      "user": "Cyrus Wong"
+      "user": "jamilxt"
     },
     {
       "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
@@ -2111,6 +2160,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqk83614v6vodxh1desyb.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
+    },
+    {
+      "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
+      "url": "https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn",
+      "published_at": "2026-11-11T08:21:46Z",
+      "description": "Green AI FinOps, automated storage lifecycle policies, and 1-command Terraform IaC for multi-school teaching, grading, and proctored exam deployments.",
+      "tags": [
+        "finops",
+        "terraform",
+        "devops",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog10_cover_green_ai_finops_terraform.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "Cyrus Wong"
     },
     {
       "title": "Zero Trust GKE Control Plane Access with DNS Endpoints",
@@ -2263,19 +2327,6 @@
       "user": "jknupp"
     },
     {
-      "title": "How do you actually self-host securely?",
-      "url": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
-      "published_at": "2026-11-11T06:01:19.024-06:00",
-      "description": "I recognize that the title is rather vague, but I'm completely green when it comes to self-hosting, so I figured here would be a good place to ask for some pointers given the discussions I sometimes see happening in the comments. I tried researching first through DDG and Google, but (and I recognize this might be a skill issue) most things I found are either SEO slop or trying to sell/market some service.\r\n\r\nFor some more context and to give a concrete example as to what I'm interested in, I got my hands on a Raspberry Pi which I'd like to use to start tinkering with self-hosting. My main goal would be to host my (static) website on it, potentially adding more things in the future.\r\n\r\nSome people I asked this question recommended solutions like Cloudflare Tunnels to make it secure, but using such a provider almost feels like it defeats the point of self-hosting, so I'm curious whether it's viable to do it using open source tooling, any gotchas one might encounter, and generally any thoughts you might have on the topic.\r\n\r\n(Also, feel free to suggest a tag other than `devops`, I figured `security` doesn't quite apply since it's a question and not a write-up/resource regarding security.)",
-      "tags": [
-        "ask",
-        "devops"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pralkarz"
-    },
-    {
       "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
       "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
       "published_at": "2026-11-11T10:27:51.943-06:00",
@@ -2287,18 +2338,6 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "scanner_brightly"
-    },
-    {
-      "title": "Lock your GitHub Actions",
-      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "published_at": "2026-11-11T12:16:01.014-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "devops"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hugoarnal"
     },
     {
       "title": "How to Automate Docker Image Creation for Postgres Using Shell Commands",
@@ -2391,10 +2430,25 @@
       "user": "gjjr"
     },
     {
+      "title": "Disable scrolling on `<input type=number>`",
+      "url": "https://stackoverflow.com/questions/9712295/disable-scrolling-on-input-type-number",
+      "published_at": "2012-03-15T00:17:28.000Z",
+      "description": "Stack Overflow question · 28 answers · score 249",
+      "tags": [
+        "javascript",
+        "css",
+        "html",
+        "forms"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "kjs3"
+    },
+    {
       "title": "How to load a website (HTML) and click a button?",
       "url": "https://stackoverflow.com/questions/79802131/how-to-load-a-website-html-and-click-a-button",
       "published_at": "2025-10-27T18:18:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score 0",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "javascript",
         "c#",
@@ -2404,6 +2458,20 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Thorsten Schmitz"
+    },
+    {
+      "title": "How to reset an HTML element to its first/initial value in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79820285/how-to-reset-an-html-element-to-its-first-initial-value-in-javascript",
+      "published_at": "2025-11-14T17:11:16.000Z",
+      "description": "Stack Overflow question · 5 answers · score 0",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Milichip"
     },
     {
       "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
@@ -2574,19 +2642,19 @@
   ],
   "Cloud": [
     {
-      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
-      "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg",
-      "published_at": "2026-11-11T07:49:09Z",
-      "description": "Interactive Classroom Bingo comprehension checks and zero-trust proctored exam lockdown with forensic .docx dossiers on Google Cloud.",
+      "title": "Six Serving Engines on One Tesla T4: Gemma 4 E2B on a Turing GPU",
+      "url": "https://dev.to/gde/six-serving-engines-on-one-tesla-t4-gemma-4-e2b-on-a-turing-gpu-3a6i",
+      "published_at": "2026-11-11T23:27:42Z",
+      "description": "llama.cpp, vLLM, SGLang, mistral.rs, a plain PyTorch engine and LiteRT-LM serve the same 4-bit Gemma 4 E2B on one 16 GB Tesla T4 on Compute Engine, with the same prompts, load sweep and GSM8K and BFCL questions. GSM8K and BFCL are level on every CUDA engine; vLLM with its drafter leads at every load.",
       "tags": [
-        "firebase",
-        "gamification",
+        "gemma",
+        "vllm",
         "googlecloud",
-        "gemini"
+        "nvidia"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog09_cover_gamified_bingo_exam_mode.png%3Fv%3D2",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-t4%2Fdevto-cover.7b22d2e5.jpg",
       "source": "Dev.to",
-      "user": "Cyrus Wong"
+      "user": "xbill"
     },
     {
       "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
@@ -2600,21 +2668,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl4a9im42pgylrtb1sxfq.png",
       "source": "Dev.to",
       "user": "Zach S."
-    },
-    {
-      "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
-      "url": "https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn",
-      "published_at": "2026-11-11T08:21:46Z",
-      "description": "Green AI FinOps, automated storage lifecycle policies, and 1-command Terraform IaC for multi-school teaching, grading, and proctored exam deployments.",
-      "tags": [
-        "finops",
-        "terraform",
-        "devops",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog10_cover_green_ai_finops_terraform.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
     },
     {
       "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
@@ -2631,6 +2684,21 @@
       "user": "Saurabh Mishra"
     },
     {
+      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
+      "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg",
+      "published_at": "2026-11-11T07:49:09Z",
+      "description": "Interactive Classroom Bingo comprehension checks and zero-trust proctored exam lockdown with forensic .docx dossiers on Google Cloud.",
+      "tags": [
+        "firebase",
+        "gamification",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog09_cover_gamified_bingo_exam_mode.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "Cyrus Wong"
+    },
+    {
       "title": "Google AI Classroom Part 4: Defeating Proxy Attendance & Lab Keyloggers with WebAuthn Passkeys, Rotating HMAC QRs & GCIP Blocking Functions",
       "url": "https://dev.to/gde/google-ai-classroom-part-4-defeating-proxy-attendance-lab-keyloggers-with-webauthn-passkeys-2gc0",
       "published_at": "2026-11-10T07:25:07Z",
@@ -2642,6 +2710,21 @@
         "googlecloud"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog04_cover_webauthn_passkeys_rotating_qr.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "Cyrus Wong"
+    },
+    {
+      "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
+      "url": "https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn",
+      "published_at": "2026-11-11T08:21:46Z",
+      "description": "Green AI FinOps, automated storage lifecycle policies, and 1-command Terraform IaC for multi-school teaching, grading, and proctored exam deployments.",
+      "tags": [
+        "finops",
+        "terraform",
+        "devops",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog10_cover_green_ai_finops_terraform.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "Cyrus Wong"
     },
@@ -2749,91 +2832,17 @@
       "user": "Elia Secchi"
     },
     {
-      "title": "Google AI Classroom Part 2: Zero-Egress Browser Edge AI Investigator — Running Gemma 4 E2B, MediaPipe 3D Face Mesh & LiteRT Whisper in Web Workers",
-      "url": "https://dev.to/gde/google-ai-classroom-part-2-zero-egress-browser-edge-ai-investigator-running-gemma-4-e2b-2k6a",
-      "published_at": "2026-11-10T02:57:14Z",
-      "description": "Author: Cyrus Wong (黃俊彥) — Google Developer Expert - Cloud (AI), Senior Lecturer at HKIIT            ...",
+      "title": "The entirety of \"Let Over Lambda\" is now freely available online",
+      "url": "https://letoverlambda.com/",
+      "published_at": "2026-11-12T06:44:34.403-06:00",
+      "description": "Lobste.rs Discussion",
       "tags": [
-        "ai",
-        "browser",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqfkmpe3vcqsl3fjica91.jpg",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
-      "title": "Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B",
-      "url": "https://dev.to/gde/six-serving-engines-on-one-cloud-tpu-v5e-chip-gemma-4-e2b-22hn",
-      "published_at": "2026-11-09T16:00:42Z",
-      "description": "vLLM, SGLang-JAX, a pure-JAX engine, a Rust model over PJRT, and TorchTPU in Python and Rust serve Gemma 4 E2B on one flex-start v5e-1, with the same prompts, the same 1-to-64-request sweep and the same GSM8K questions. vLLM is the engine that serves out of the box; SGLang-JAX with an E2B patch is the fastest at every load from 8 requests up.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "vllm",
-        "jax"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-v5e1%2Fdevto-cover.7c2d5345.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)",
-      "url": "https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf",
-      "published_at": "2026-11-09T15:10:32Z",
-      "description": "What happens when the hardest-working user on your 16GB Mac and multi-cloud Ubuntu Dev-Box is a fleet of 20+ AI coding agents? Real benchmarks and fixes for 8s Chrome 136+ CDP hangs, 12GB APFS ghost clones, WindowServer freezes, and tmux reboot amnesia.",
-      "tags": [
-        "gemini",
-        "googlecloud",
-        "ai",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fjimmyliao%2Fax-playbook%2Fmain%2Fassets%2Fax-playbook-cover-wide.en.png",
-      "source": "Dev.to",
-      "user": "JimmyLiao"
-    },
-    {
-      "title": "Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e",
-      "url": "https://dev.to/gde/porting-gemma-4-e2b-to-sglang-jax-on-one-cloud-tpu-v5e-5e9l",
-      "published_at": "2026-11-09T17:16:08Z",
-      "description": "SGLang-JAX serves the Gemma 4 31B and 26B A4B on TPU and fails to load E2B. A two-file patch adds per-layer embeddings, shared K/V and the double-wide MLP; on one flex-start v5e-1 it then serves 159.9 tokens per second for one request and 4,249.4 at 64, 2.52x vLLM, with GSM8K level with the bf16 JAX engine.",
-      "tags": [
-        "googlecloud",
-        "tpu",
-        "jax",
-        "gemma"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fsglangjax-e2b-v5e1%2Fdevto-cover.1cd3c453.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "How do you actually self-host securely?",
-      "url": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
-      "published_at": "2026-11-11T06:01:19.024-06:00",
-      "description": "I recognize that the title is rather vague, but I'm completely green when it comes to self-hosting, so I figured here would be a good place to ask for some pointers given the discussions I sometimes see happening in the comments. I tried researching first through DDG and Google, but (and I recognize this might be a skill issue) most things I found are either SEO slop or trying to sell/market some service.\r\n\r\nFor some more context and to give a concrete example as to what I'm interested in, I got my hands on a Raspberry Pi which I'd like to use to start tinkering with self-hosting. My main goal would be to host my (static) website on it, potentially adding more things in the future.\r\n\r\nSome people I asked this question recommended solutions like Cloudflare Tunnels to make it secure, but using such a provider almost feels like it defeats the point of self-hosting, so I'm curious whether it's viable to do it using open source tooling, any gotchas one might encounter, and generally any thoughts you might have on the topic.\r\n\r\n(Also, feel free to suggest a tag other than `devops`, I figured `security` doesn't quite apply since it's a question and not a write-up/resource regarding security.)",
-      "tags": [
-        "ask",
-        "devops"
+        "book",
+        "lisp"
       ],
       "cover_image": null,
       "source": "Lobste.rs",
-      "user": "pralkarz"
-    },
-    {
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "published_at": "2026-11-11T19:54:00.000Z",
-      "description": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-      "tags": [
-        "AI",
-        "ai infrastructure",
-        "Cloud Computing",
-        "CoreWeave"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Rebecca Bellan"
+      "user": "nemin"
     }
   ],
   "Database": [
@@ -2853,7 +2862,7 @@
       "title": "Best Practice for blog app with both News and Articles",
       "url": "https://stackoverflow.com/questions/80016214/best-practice-for-blog-app-with-both-news-and-articles",
       "published_at": "2026-11-12T08:52:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -8",
+      "description": "Stack Overflow question · 1 answers · score -7",
       "tags": [
         "best-practices",
         "python",
@@ -2896,20 +2905,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft6wg5ri17n4kyi0vh2g3.jpg",
       "source": "Dev.to",
       "user": "Azidin Shairi"
-    },
-    {
-      "title": "Thank you to everyone who pointed out the phishing posts we got yesterday. We're working on improved mechanisms to automatically reject those types of attacks.",
-      "url": "https://dev.to/ben/thank-you-to-everyone-who-pointed-out-the-phishing-posts-we-got-yesterday-were-working-on-1h9b",
-      "published_at": "2026-11-05T15:25:46Z",
-      "description": "A post by Ben Halpern",
-      "tags": [
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fadovympzvepx45pvuw9m.png",
-      "source": "Dev.to",
-      "user": "Ben Halpern"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3044,6 +3039,19 @@
       "user": "Varcht"
     },
     {
+      "title": "Humble Bundle just completely killed most of their security through vibecoding",
+      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+      "published_at": "2026-11-12T09:13:35.291-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "practices",
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "stephenr"
+    },
+    {
       "title": "How I accidentally became a millionaire",
       "url": "https://lyra.horse/blog/2026/11/disinformation-machine/",
       "published_at": "2026-11-11T15:53:24.946-06:00",
@@ -3056,45 +3064,20 @@
       "user": "hugoarnal"
     },
     {
-      "title": "How do you actually self-host securely?",
-      "url": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
-      "published_at": "2026-11-11T06:01:19.024-06:00",
-      "description": "I recognize that the title is rather vague, but I'm completely green when it comes to self-hosting, so I figured here would be a good place to ask for some pointers given the discussions I sometimes see happening in the comments. I tried researching first through DDG and Google, but (and I recognize this might be a skill issue) most things I found are either SEO slop or trying to sell/market some service.\r\n\r\nFor some more context and to give a concrete example as to what I'm interested in, I got my hands on a Raspberry Pi which I'd like to use to start tinkering with self-hosting. My main goal would be to host my (static) website on it, potentially adding more things in the future.\r\n\r\nSome people I asked this question recommended solutions like Cloudflare Tunnels to make it secure, but using such a provider almost feels like it defeats the point of self-hosting, so I'm curious whether it's viable to do it using open source tooling, any gotchas one might encounter, and generally any thoughts you might have on the topic.\r\n\r\n(Also, feel free to suggest a tag other than `devops`, I figured `security` doesn't quite apply since it's a question and not a write-up/resource regarding security.)",
-      "tags": [
-        "ask",
-        "devops"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pralkarz"
-    },
-    {
-      "title": "About the downtime and security incident",
-      "url": "https://danbooru.donmai.us/forum_topics/38685.html",
-      "published_at": "2026-11-11T10:58:45.890-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "ettolrach"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "published_at": "2026-11-11T23:50:00.000Z",
-      "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "published_at": "2026-11-12T17:17:58.000Z",
+      "description": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
       "tags": [
         "AI",
-        "China",
-        "nvidia",
-        "Donald Trump",
-        "Jensen Huang"
+        "Security",
+        "Transportation",
+        "AI assistants",
+        "Airlines"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Amanda Silberling"
+      "user": "Zack Whittaker"
     },
     {
       "title": "What a CAPTCHA Farm Attack Actually Looks Like",
@@ -3172,6 +3155,21 @@
       "user": "Amara Graham"
     },
     {
+      "title": "When the Coding Agent Says It Is Done",
+      "url": "https://dev.to/dailycontext/when-the-coding-agent-says-it-is-done-4mjj",
+      "published_at": "2026-11-11T01:51:03Z",
+      "description": "The work should be easy to verify and continue after the conversation ends.  An agent changes the...",
+      "tags": [
+        "ai",
+        "agents",
+        "testing",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzozsdvfcmvinbzmngya0.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
+    },
+    {
       "title": "Find the production agent failures that every health check misses",
       "url": "https://dev.to/googlecloud/find-the-production-agent-failures-that-every-health-check-misses-39j8",
       "published_at": "2026-11-05T15:46:25Z",
@@ -3187,19 +3185,19 @@
       "user": "Elia Secchi"
     },
     {
-      "title": "The AI Evals feedback loop runs both ways",
-      "url": "https://dev.to/quinnvention/the-ai-evals-feedback-loop-runs-both-ways-1pl3",
-      "published_at": "2026-11-10T21:36:49Z",
-      "description": "We’re increasingly asking AI to help decide whether other AI systems are good enough to ship. LLM...",
+      "title": "When Is an AI Rewrite Finished?",
+      "url": "https://dev.to/dailycontext/when-is-an-ai-rewrite-finished-4ged",
+      "published_at": "2026-11-11T02:16:58Z",
+      "description": "AI makes it easier to attempt a replacement. The harder question is what the new software still owes...",
       "tags": [
         "ai",
-        "llm",
-        "softwaredevelopment",
+        "rust",
+        "softwareengineering",
         "testing"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjkozaw54zo7742ty5yw2.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv15857bvz8twhhzysw0p.png",
       "source": "Dev.to",
-      "user": "Quinn Dines"
+      "user": "Ramakrishnan Lokanathan"
     },
     {
       "title": "Profile Sprawl: Solving a Problem You Didn't Know You Had",
@@ -3262,21 +3260,6 @@
       "user": "Carlos Barbero"
     },
     {
-      "title": "Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)",
-      "url": "https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf",
-      "published_at": "2026-11-09T15:10:32Z",
-      "description": "What happens when the hardest-working user on your 16GB Mac and multi-cloud Ubuntu Dev-Box is a fleet of 20+ AI coding agents? Real benchmarks and fixes for 8s Chrome 136+ CDP hangs, 12GB APFS ghost clones, WindowServer freezes, and tmux reboot amnesia.",
-      "tags": [
-        "gemini",
-        "googlecloud",
-        "ai",
-        "devtools"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fjimmyliao%2Fax-playbook%2Fmain%2Fassets%2Fax-playbook-cover-wide.en.png",
-      "source": "Dev.to",
-      "user": "JimmyLiao"
-    },
-    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3324,7 +3307,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
       "source": "GitHub",
-      "stars": 2060,
+      "stars": 2078,
       "user": "JenkinWoo"
     },
     {
@@ -3358,21 +3341,6 @@
       "user": "Gacktadactle"
     },
     {
-      "title": "FJNB5/fujiang-pojia - 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面",
-      "url": "https://github.com/FJNB5/fujiang-pojia",
-      "published_at": "2026-11-09T05:55:55Z",
-      "description": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.13，附免责声明。插件图片看最下面",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/337416215?v=4",
-      "source": "GitHub",
-      "stars": 683,
-      "user": "FJNB5"
-    },
-    {
       "title": "shanselman/sandbox-mcp - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
       "url": "https://github.com/shanselman/sandbox-mcp",
       "published_at": "2026-11-06T19:02:14Z",
@@ -3384,8 +3352,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
       "source": "GitHub",
-      "stars": 416,
+      "stars": 421,
       "user": "shanselman"
+    },
+    {
+      "title": "yetone/rewind-for-x - Chrome extension: look back at posts that scrolled past on your X home timeline",
+      "url": "https://github.com/yetone/rewind-for-x",
+      "published_at": "2026-11-09T09:28:22Z",
+      "description": "Chrome extension: look back at posts that scrolled past on your X home timeline",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "source": "GitHub",
+      "stars": 407,
+      "user": "yetone"
     },
     {
       "title": "HybridRobotics/supermimic - Humanoid whole-body motion tracking with one differentiable world model.",
@@ -3399,7 +3382,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10053058?v=4",
       "source": "GitHub",
-      "stars": 1233,
+      "stars": 1294,
       "user": "HybridRobotics"
     },
     {
@@ -3429,7 +3412,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1049,
+      "stars": 1056,
       "user": "Th0rgal"
     },
     {
@@ -3444,7 +3427,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113011860?v=4",
       "source": "GitHub",
-      "stars": 907,
+      "stars": 926,
       "user": "Goblinmine"
     },
     {
@@ -3459,7 +3442,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
       "source": "GitHub",
-      "stars": 618,
+      "stars": 631,
       "user": "lxe"
     },
     {
@@ -3474,7 +3457,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
       "source": "GitHub",
-      "stars": 1954,
+      "stars": 1993,
       "user": "DIYgod"
     },
     {
@@ -3504,7 +3487,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348458842?v=4",
       "source": "GitHub",
-      "stars": 885,
+      "stars": 938,
       "user": "HolyArrs"
     },
     {
@@ -3519,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
       "source": "GitHub",
-      "stars": 584,
+      "stars": 590,
       "user": "devvmhq"
     },
     {
@@ -3534,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/26252739?v=4",
       "source": "GitHub",
-      "stars": 459,
+      "stars": 466,
       "user": "TooonyChen"
     },
     {
@@ -3579,7 +3562,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/92120047?v=4",
       "source": "GitHub",
-      "stars": 1107,
+      "stars": 1108,
       "user": "RolandoV3"
     },
     {
@@ -3639,7 +3622,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/88082356?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 672,
       "user": "Gloridust"
     },
     {
@@ -3658,21 +3641,6 @@
       "user": "BeeCaptivate"
     },
     {
-      "title": "bea4dev/shoji-bar-4 - A Wayland shell with Material Design 3 Expressive",
-      "url": "https://github.com/bea4dev/shoji-bar-4",
-      "published_at": "2026-11-10T06:58:11Z",
-      "description": "A Wayland shell with Material Design 3 Expressive",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34712108?v=4",
-      "source": "GitHub",
-      "stars": 211,
-      "user": "bea4dev"
-    },
-    {
       "title": "makepad/relax - Relax Rust JIT",
       "url": "https://github.com/makepad/relax",
       "published_at": "2026-11-11T19:12:58Z",
@@ -3684,33 +3652,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20386338?v=4",
       "source": "GitHub",
-      "stars": 192,
+      "stars": 222,
       "user": "makepad"
     },
     {
-      "title": "How do you actually self-host securely?",
-      "url": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
-      "published_at": "2026-11-11T06:01:19.024-06:00",
-      "description": "I recognize that the title is rather vague, but I'm completely green when it comes to self-hosting, so I figured here would be a good place to ask for some pointers given the discussions I sometimes see happening in the comments. I tried researching first through DDG and Google, but (and I recognize this might be a skill issue) most things I found are either SEO slop or trying to sell/market some service.\r\n\r\nFor some more context and to give a concrete example as to what I'm interested in, I got my hands on a Raspberry Pi which I'd like to use to start tinkering with self-hosting. My main goal would be to host my (static) website on it, potentially adding more things in the future.\r\n\r\nSome people I asked this question recommended solutions like Cloudflare Tunnels to make it secure, but using such a provider almost feels like it defeats the point of self-hosting, so I'm curious whether it's viable to do it using open source tooling, any gotchas one might encounter, and generally any thoughts you might have on the topic.\r\n\r\n(Also, feel free to suggest a tag other than `devops`, I figured `security` doesn't quite apply since it's a question and not a write-up/resource regarding security.)",
+      "title": "bea4dev/shoji-bar-4 - A Wayland shell with Material Design 3 Expressive, written in Rust",
+      "url": "https://github.com/bea4dev/shoji-bar-4",
+      "published_at": "2026-11-10T06:58:11Z",
+      "description": "A Wayland shell with Material Design 3 Expressive, written in Rust",
       "tags": [
-        "ask",
-        "devops"
+        "rust",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "pralkarz"
+      "cover_image": "https://avatars.githubusercontent.com/u/34712108?v=4",
+      "source": "GitHub",
+      "stars": 216,
+      "user": "bea4dev"
     },
     {
-      "title": "Lock your GitHub Actions",
-      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "published_at": "2026-11-11T12:16:01.014-06:00",
-      "description": "Lobste.rs Discussion",
+      "title": "Uncaught Error: prompt() is not supported",
+      "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
+      "published_at": "2026-09-25T08:18:05.000Z",
+      "description": "Stack Overflow question · 2 answers · score -5",
       "tags": [
-        "devops"
+        "javascript",
+        "vs-code",
+        "vscode-integrated-browser"
       ],
       "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "hugoarnal"
+      "source": "StackOverflow",
+      "user": "Alex"
+    },
+    {
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "published_at": "2026-11-12T17:00:00.000Z",
+      "description": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Startups",
+        "ai apps",
+        "Photography"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Aisha Malik"
     },
     {
       "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
