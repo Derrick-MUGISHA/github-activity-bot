@@ -5,10 +5,10 @@
 **Your always-fresh digest of developer & AI tech news — curated automatically, around the clock.**
 
 ![Auto News Bot](https://github.com/Derrick-MUGISHA/github-activity-bot/actions/workflows/auto-news.yml/badge.svg)
-![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
+![Total Articles](https://img.shields.io/badge/Articles-182-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-9-blueviolet?style=flat-square)
-![Last Update](https://img.shields.io/badge/Updated-2026--11--12-orange?style=flat-square)
+![Last Update](https://img.shields.io/badge/Updated-2026--11--13-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.com) · [GitHub Trending](https://github.com/trending) · [Lobste.rs](https://lobste.rs) · [Stack Overflow](https://stackoverflow.com) · [TechCrunch](https://techcrunch.com) · [freeCodeCamp](https://www.freecodecamp.org/news) — refreshed by GitHub Actions around the clock.
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-11-12 21:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-11-13 2:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -57,6 +57,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 </tr>
 <tr>
   <td align="center" width="33%">
+    <a href="https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlonet5nfjfkf6d7m312.png" width="200" alt="Your Agent Needs a Schema, Not a Better Prompt" />
+      <br/>
+      <b>Your Agent Needs a Schema, Not a Better Prompt</b>
+    </a>
+    <br/>
+    <sub>Dev.to</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo">
       <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fcurrency-claude-agui-a2ui1%2Fmain%2Fdocs%2Fa2ui-1-0%2Fdevto-cover.b6f0e686.jpg" width="200" alt="What Changes With the A2UI 1.0 Release" />
       <br/>
@@ -66,19 +75,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/dannwaneri/ai-code-is-unmaintainable-so-is-ours-3mek">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjh8nx84adsifberdyfi.jpg" width="200" alt="AI Code Is Unmaintainable? So Is Ours." />
+    <a href="https://blog.mlh.com/can-you-merge-at-agent-speed-4m67">
+      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx4ae4os9kmw5lsmraiv1.png" width="200" alt="Can you merge at agent speed?" />
       <br/>
-      <b>AI Code Is Unmaintainable? So Is Ours.</b>
-    </a>
-    <br/>
-    <sub>Dev.to</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm">
-      <img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlonet5nfjfkf6d7m312.png" width="200" alt="Your Agent Needs a Schema, Not a Better Prompt" />
-      <br/>
-      <b>Your Agent Needs a Schema, Not a Better Prompt</b>
+      <b>Can you merge at agent speed?</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -95,25 +95,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 1 | [Long Live Rails](https://dev.to/ben/long-live-rails-3p21) | Dev.to |
 | 2 | [How did you end up in tech, and are you staying?](https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b) | Dev.to |
 | 3 | [Nvidia Says Its Roadmap Will Continue. AI Teams Should Verify the Dependencies](https://dev.to/jamilxt/nvidia-says-its-roadmap-will-continue-ai-teams-should-verify-the-dependencies-3c8d) | Dev.to |
-| 4 | [What Changes With the A2UI 1.0 Release](https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo) | Dev.to |
-| 5 | [AI Code Is Unmaintainable? So Is Ours.](https://dev.to/dannwaneri/ai-code-is-unmaintainable-so-is-ours-3mek) | Dev.to |
-| 6 | [Your Agent Needs a Schema, Not a Better Prompt](https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm) | Dev.to |
-| 7 | [Ask More of Your UI](https://dev.to/dailycontext/ask-more-of-your-ui-2nf7) | Dev.to |
-| 8 | [The Case for Smart Software](https://dev.to/swyx/the-case-for-smart-software-329f) | Dev.to |
-| 9 | [Use your eval as a CI gate with Agents CLI](https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1) | Dev.to |
-| 10 | [Software Engineering Is Becoming Factory Engineering](https://dev.to/dailycontext/software-engineering-is-becoming-factory-engineering-22ll) | Dev.to |
-| 11 | [Six Serving Engines on One Tesla T4: Gemma 4 E2B on a Turing GPU](https://dev.to/gde/six-serving-engines-on-one-tesla-t4-gemma-4-e2b-on-a-turing-gpu-3a6i) | Dev.to |
-| 12 | [What It Actually Takes to Roll Out AI Across Netflix](https://dev.to/dailycontext/what-it-actually-takes-to-roll-out-ai-across-netflix-18h8) | Dev.to |
-| 13 | [Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions](https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5) | Dev.to |
-| 14 | [The Fastest LLM Call Is The One You Never Make](https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo) | Dev.to |
-| 15 | [Prompt Pad: What Are Open-Weight Models?](https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh) | Dev.to |
-| 16 | [Kent C. Dodds Hasn't Looked at His Code All Year](https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5) | Dev.to |
-| 17 | [What I Learned Managing a Full Project with Antigravity](https://dev.to/gde/what-i-learned-managing-a-full-project-with-antigravity-1ppc) | Dev.to |
-| 18 | [Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox](https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b) | Dev.to |
-| 19 | [Vue.js Is My Workhorse. Now It's an Agent Skill.](https://dev.to/playfulprogramming/vuejs-is-my-workhorse-now-its-an-agent-skill-1pfk) | Dev.to |
-| 20 | [Prompt Pad: Show Your AI How to Respond with Few-Shot Examples](https://blog.mlh.com/prompt-pad-show-your-ai-how-to-respond-with-few-shot-examples-2869) | Dev.to |
+| 4 | [Your Agent Needs a Schema, Not a Better Prompt](https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm) | Dev.to |
+| 5 | [What Changes With the A2UI 1.0 Release](https://dev.to/gde/what-changes-with-the-a2ui-10-release-31eo) | Dev.to |
+| 6 | [Can you merge at agent speed?](https://blog.mlh.com/can-you-merge-at-agent-speed-4m67) | Dev.to |
+| 7 | [The Case for Smart Software](https://dev.to/swyx/the-case-for-smart-software-329f) | Dev.to |
+| 8 | [Prompt Pad: What Are Tokens?](https://blog.mlh.com/prompt-pad-what-are-tokens-gec) | Dev.to |
+| 9 | [Muse Wonder, Muse Spark 1.3, and Muse Ember are now available on Google Cloud in public preview](https://dev.to/googleai/muse-wonder-muse-spark-13-and-muse-ember-are-now-available-on-google-cloud-in-public-preview-5e6j) | Dev.to |
+| 10 | [Ask More of Your UI](https://dev.to/dailycontext/ask-more-of-your-ui-2nf7) | Dev.to |
+| 11 | [Fast multimodal control flow with the Gemini Decisions API](https://dev.to/philschmid/fast-multimodal-control-flow-with-the-gemini-decisions-api-533b) | Dev.to |
+| 12 | [Use your eval as a CI gate with Agents CLI](https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1) | Dev.to |
+| 13 | [What It Actually Takes to Roll Out AI Across Netflix](https://dev.to/dailycontext/what-it-actually-takes-to-roll-out-ai-across-netflix-18h8) | Dev.to |
+| 14 | [Software Engineering Is Becoming Factory Engineering](https://dev.to/dailycontext/software-engineering-is-becoming-factory-engineering-22ll) | Dev.to |
+| 15 | [Six Serving Engines on One Tesla T4: Gemma 4 E2B on a Turing GPU](https://dev.to/gde/six-serving-engines-on-one-tesla-t4-gemma-4-e2b-on-a-turing-gpu-3a6i) | Dev.to |
+| 16 | [Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions](https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5) | Dev.to |
+| 17 | [The Fastest LLM Call Is The One You Never Make](https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo) | Dev.to |
+| 18 | [AI Code Is Unmaintainable? So Is Ours.](https://dev.to/dannwaneri/ai-code-is-unmaintainable-so-is-ours-3mek) | Dev.to |
+| 19 | [Prompt Pad: What Are Open-Weight Models?](https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh) | Dev.to |
+| 20 | [Kent C. Dodds Hasn't Looked at His Code All Year](https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5) | Dev.to |
 
-<sub>Last fetched: Thu, 12 Nov 2026 21:18:47 CAT</sub>
+<sub>Last fetched: Fri, 13 Nov 2026 02:36:55 CAT</sub>
 
 
 ---
@@ -122,25 +122,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Database` — Design a database schema for a social media platform**
+**1. `Python` — What is the difference between list and tuple in Python?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 design, scalability
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Users, posts, relationships, indexes, partitioning
+> Mutability, performance, use cases
 
 </details>
 
-**2. `Python` — Explain GIL and its implications for multithreading**
+**2. `Python` — What are generators and when would you use them?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 iterators, memory
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Global Interpreter Lock, multiprocessing alternatives
+> yield keyword, lazy evaluation, memory efficiency
 
 </details>
 
@@ -164,16 +164,16 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 82 | 44.6% | `████████████████████` |
-| **Tools** | 43 | 23.4% | `██████████░░░░░░░░░░` |
-| **JavaScript** | 38 | 20.7% | `█████████░░░░░░░░░░░` |
-| **Python** | 30 | 16.3% | `███████░░░░░░░░░░░░░` |
-| **DevOps** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
-| **Security** | 17 | 9.2% | `████░░░░░░░░░░░░░░░░` |
-| **Cloud** | 14 | 7.6% | `███░░░░░░░░░░░░░░░░░` |
-| **WebDev** | 12 | 6.5% | `███░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 7 | 3.8% | `██░░░░░░░░░░░░░░░░░░` |
-| **Database** | 2 | 1.1% | `░░░░░░░░░░░░░░░░░░░░` |
+| **AI** | 89 | 48.9% | `████████████████████` |
+| **Tools** | 45 | 24.7% | `██████████░░░░░░░░░░` |
+| **JavaScript** | 37 | 20.3% | `████████░░░░░░░░░░░░` |
+| **Python** | 28 | 15.4% | `██████░░░░░░░░░░░░░░` |
+| **Security** | 17 | 9.3% | `████░░░░░░░░░░░░░░░░` |
+| **DevOps** | 16 | 8.8% | `████░░░░░░░░░░░░░░░░` |
+| **Cloud** | 15 | 8.2% | `███░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 11 | 6.0% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 8 | 4.4% | `██░░░░░░░░░░░░░░░░░░` |
+| **Database** | 3 | 1.6% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
 
@@ -182,7 +182,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Source | Articles |
 |--------|---------:|
-| Dev.to | 60 |
+| Dev.to | 58 |
 | HackerNews | 49 |
 | GitHub | 25 |
 | Lobste.rs | 10 |
@@ -194,34 +194,34 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 26.2%
-Go              █████████████████████████ 22.1%
-Python          ███████████████████████ 20.0%
-Java            ████████████████████ 17.9%
-Rust            ██████████ 9.0%
+JavaScript      ██████████████████████████████ 25.5%
+Go              ██████████████████████████ 22.1%
+Python          ███████████████████████ 19.3%
+Java            █████████████████████ 17.9%
+Rust            ███████████ 9.7%
+Swift           ██ 2.1%
 Ruby            ██ 1.4%
 Kotlin          ██ 1.4%
-Swift           ██ 1.4%
 CSharp          █ 0.7%
 
 ```
 
 ```mermaid
 pie title Programming Languages Distribution
-    "JavaScript" : 38
+    "JavaScript" : 37
     "Go" : 32
-    "Python" : 29
+    "Python" : 28
     "Java" : 26
-    "Rust" : 13
+    "Rust" : 14
+    "Swift" : 3
     "Ruby" : 2
     "Kotlin" : 2
-    "Swift" : 2
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-55-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-27-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-15-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-11-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-9-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-8-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-57-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-26-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-15-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-11-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-10-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-10-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![architecture](https://img.shields.io/badge/architecture-8-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Thu, 12 Nov 2026 19:18:47 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Fri, 13 Nov 2026 00:36:55 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>

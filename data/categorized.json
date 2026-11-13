@@ -31,21 +31,6 @@
       "user": "jamilxt"
     },
     {
-      "title": "AI Code Is Unmaintainable? So Is Ours.",
-      "url": "https://dev.to/dannwaneri/ai-code-is-unmaintainable-so-is-ours-3mek",
-      "published_at": "2026-11-11T15:59:00Z",
-      "description": "If you’ve been in the software industry for any length of time, you’ve probably heard people talking...",
-      "tags": [
-        "ai",
-        "programming",
-        "softwareengineering",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjh8nx84adsifberdyfi.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
-    },
-    {
       "title": "Your Agent Needs a Schema, Not a Better Prompt",
       "url": "https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm",
       "published_at": "2026-11-11T20:51:14Z",
@@ -61,19 +46,19 @@
       "user": "frank coyle"
     },
     {
-      "title": "Ask More of Your UI",
-      "url": "https://dev.to/dailycontext/ask-more-of-your-ui-2nf7",
-      "published_at": "2026-11-11T01:39:15Z",
-      "description": "In my last post, I wrote about moving Forem’s performance and maintenance work into autonomous loops...",
+      "title": "Can you merge at agent speed?",
+      "url": "https://blog.mlh.com/can-you-merge-at-agent-speed-4m67",
+      "published_at": "2026-11-12T17:40:59Z",
+      "description": "Major League Hacking and Entire are teaming up for a year of hackathons, DEV Challenges, and a new...",
       "tags": [
+        "hackathon",
         "ai",
-        "agents",
-        "webdev",
-        "architecture"
+        "opensource",
+        "entire"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsbhz5b16c123bk8q1zp6.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx4ae4os9kmw5lsmraiv1.png",
       "source": "Dev.to",
-      "user": "Ben Halpern"
+      "user": "MLH Team"
     },
     {
       "title": "The Case for Smart Software",
@@ -91,6 +76,65 @@
       "user": "swyx"
     },
     {
+      "title": "Prompt Pad: What Are Tokens?",
+      "url": "https://blog.mlh.com/prompt-pad-what-are-tokens-gec",
+      "published_at": "2026-11-12T20:34:29Z",
+      "description": "Your AI doesn't read your prompt word for word. It reads tokens.  In this episode of Prompt Pad,...",
+      "tags": [
+        "ai",
+        "beginners",
+        "codenewbie",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftdwk6gu2yeiz5imuf1go.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
+      "title": "Muse Wonder, Muse Spark 1.3, and Muse Ember are now available on Google Cloud in public preview",
+      "url": "https://dev.to/googleai/muse-wonder-muse-spark-13-and-muse-ember-are-now-available-on-google-cloud-in-public-preview-5e6j",
+      "published_at": "2026-11-12T18:53:24Z",
+      "description": "Muse Wonder, Muse Spark 1.3 and Muse Ember are now publicly available on Google Cloud.   Deploy...",
+      "tags": [
+        "muse",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fakp3axtfuny4oy2ogkbm.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
+      "title": "Ask More of Your UI",
+      "url": "https://dev.to/dailycontext/ask-more-of-your-ui-2nf7",
+      "published_at": "2026-11-11T01:39:15Z",
+      "description": "In my last post, I wrote about moving Forem’s performance and maintenance work into autonomous loops...",
+      "tags": [
+        "ai",
+        "agents",
+        "webdev",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsbhz5b16c123bk8q1zp6.jpg",
+      "source": "Dev.to",
+      "user": "Ben Halpern"
+    },
+    {
+      "title": "Fast multimodal control flow with the Gemini Decisions API",
+      "url": "https://dev.to/philschmid/fast-multimodal-control-flow-with-the-gemini-decisions-api-533b",
+      "published_at": "2026-11-12T01:00:57Z",
+      "description": "Generative models write text for people to read. When your app only needs to pick a tool or route a...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjgp58mzmzmtw5d0l6dy.png",
+      "source": "Dev.to",
+      "user": "Philipp Schmid"
+    },
+    {
       "title": "Use your eval as a CI gate with Agents CLI",
       "url": "https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1",
       "published_at": "2026-11-11T18:15:10Z",
@@ -104,6 +148,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fpipeline.J1Pi-k71_1aTFBO.webp",
       "source": "Dev.to",
       "user": "Elia Secchi"
+    },
+    {
+      "title": "What It Actually Takes to Roll Out AI Across Netflix",
+      "url": "https://dev.to/dailycontext/what-it-actually-takes-to-roll-out-ai-across-netflix-18h8",
+      "published_at": "2026-11-12T01:22:47Z",
+      "description": "Most companies will never train a frontier model. Their AI work happens somewhere less visible: the...",
+      "tags": [
+        "ai",
+        "agenticai",
+        "netflix",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo0fnu9gh0wnolafss85u.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
     },
     {
       "title": "Software Engineering Is Becoming Factory Engineering",
@@ -136,21 +195,6 @@
       "user": "xbill"
     },
     {
-      "title": "What It Actually Takes to Roll Out AI Across Netflix",
-      "url": "https://dev.to/dailycontext/what-it-actually-takes-to-roll-out-ai-across-netflix-18h8",
-      "published_at": "2026-11-12T01:22:47Z",
-      "description": "Most companies will never train a frontier model. Their AI work happens somewhere less visible: the...",
-      "tags": [
-        "ai",
-        "agenticai",
-        "netflix",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo0fnu9gh0wnolafss85u.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
-    },
-    {
       "title": "The Fastest LLM Call Is The One You Never Make",
       "url": "https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo",
       "published_at": "2026-11-11T01:37:24Z",
@@ -163,6 +207,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fszcnl5akpzp6fx2g0qar.png",
       "source": "Dev.to",
       "user": "Chinmay Goyal"
+    },
+    {
+      "title": "AI Code Is Unmaintainable? So Is Ours.",
+      "url": "https://dev.to/dannwaneri/ai-code-is-unmaintainable-so-is-ours-3mek",
+      "published_at": "2026-11-11T15:59:00Z",
+      "description": "If you’ve been in the software industry for any length of time, you’ve probably heard people talking...",
+      "tags": [
+        "ai",
+        "programming",
+        "softwareengineering",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjh8nx84adsifberdyfi.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "Prompt Pad: What Are Open-Weight Models?",
@@ -210,6 +269,36 @@
       "user": "Patricio Navarro"
     },
     {
+      "title": "When Is an AI Rewrite Finished?",
+      "url": "https://dev.to/dailycontext/when-is-an-ai-rewrite-finished-4ged",
+      "published_at": "2026-11-11T02:16:58Z",
+      "description": "AI makes it easier to attempt a replacement. The harder question is what the new software still owes...",
+      "tags": [
+        "ai",
+        "rust",
+        "softwareengineering",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv15857bvz8twhhzysw0p.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
+    },
+    {
+      "title": "The Rise of the Agentic Server",
+      "url": "https://dev.to/dailycontext/the-rise-of-the-agentic-server-503g",
+      "published_at": "2026-11-11T01:59:51Z",
+      "description": "We have let go of the wheel.  The era of agents is here, and we are long past the point of no return....",
+      "tags": [
+        "ai",
+        "agents",
+        "opensource",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zv8wvkrrjn5igrhijxg.png",
+      "source": "Dev.to",
+      "user": "Francisco Javier Arceo"
+    },
+    {
       "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
       "url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b",
       "published_at": "2026-11-06T16:34:18Z",
@@ -222,21 +311,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqk83614v6vodxh1desyb.png",
       "source": "Dev.to",
       "user": "Saurabh Mishra"
-    },
-    {
-      "title": "Vue.js Is My Workhorse. Now It's an Agent Skill.",
-      "url": "https://dev.to/playfulprogramming/vuejs-is-my-workhorse-now-its-an-agent-skill-1pfk",
-      "published_at": "2026-11-10T08:00:00Z",
-      "description": "Overview   I've been using Vue.js since the early days, long enough that \"Evangelion\" sounds...",
-      "tags": [
-        "ai",
-        "webdev",
-        "opensource",
-        "vue"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fignc006a3g3jwyi4xopm.jpg",
-      "source": "Dev.to",
-      "user": "Domenico Tenace"
     },
     {
       "title": "Prompt Pad: Show Your AI How to Respond with Few-Shot Examples",
@@ -267,21 +341,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog09_cover_gamified_bingo_exam_mode.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "Cyrus Wong"
-    },
-    {
-      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
-      "published_at": "2026-11-05T21:12:11Z",
-      "description": "A few weeks ago we teamed up with Kaggle to ask a deceptively simple question: how do you actually...",
-      "tags": [
-        "devchallenge",
-        "kagglechallenge",
-        "ai",
-        "machinelearning"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fig8gi4bw1h7vk0z76krk.png",
-      "source": "Dev.to",
-      "user": "Jem"
     },
     {
       "title": "When the Coding Agent Says It Is Done",
@@ -359,19 +418,33 @@
       "user": "Ramakrishnan Lokanathan"
     },
     {
-      "title": "When Is an AI Rewrite Finished?",
-      "url": "https://dev.to/dailycontext/when-is-an-ai-rewrite-finished-4ged",
-      "published_at": "2026-11-11T02:16:58Z",
-      "description": "AI makes it easier to attempt a replacement. The harder question is what the new software still owes...",
+      "title": "The AI Evals feedback loop runs both ways",
+      "url": "https://dev.to/quinnvention/the-ai-evals-feedback-loop-runs-both-ways-1pl3",
+      "published_at": "2026-11-10T21:36:49Z",
+      "description": "We’re increasingly asking AI to help decide whether other AI systems are good enough to ship. LLM...",
       "tags": [
         "ai",
-        "rust",
-        "softwareengineering",
+        "llm",
+        "softwaredevelopment",
         "testing"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv15857bvz8twhhzysw0p.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjkozaw54zo7742ty5yw2.jpg",
       "source": "Dev.to",
-      "user": "Ramakrishnan Lokanathan"
+      "user": "Quinn Dines"
+    },
+    {
+      "title": "Should You Rewrite It With AI? Aaron Beals on What Breaks",
+      "url": "https://dev.to/dailycontext/should-you-rewrite-it-with-ai-aaron-beals-on-what-breaks-2bng",
+      "published_at": "2026-11-11T01:52:59Z",
+      "description": "The decision to rewrite   For years, rewriting an existing codebase from scratch was...",
+      "tags": [
+        "ai",
+        "agents",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5efhikpl2hrgjzjcw4j.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
     },
     {
       "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
@@ -430,20 +503,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog08_cover_multimodal_capstone_supervision.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "Cyrus Wong"
-    },
-    {
-      "title": "Should You Rewrite It With AI? Aaron Beals on What Breaks",
-      "url": "https://dev.to/dailycontext/should-you-rewrite-it-with-ai-aaron-beals-on-what-breaks-2bng",
-      "published_at": "2026-11-11T01:52:59Z",
-      "description": "The decision to rewrite   For years, rewriting an existing codebase from scratch was...",
-      "tags": [
-        "ai",
-        "agents",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk5efhikpl2hrgjzjcw4j.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
     },
     {
       "title": "Google AI Classroom Part 6: Low-Bandwidth Classroom Screen Broadcasting & Single-Pass Whole-Lecture Subtitles with Gemini 4 Argon",
@@ -641,51 +700,6 @@
       "user": "xbill"
     },
     {
-      "title": "Take a Claude Agent SDK agent from install to deploy with Agents CLI",
-      "url": "https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680",
-      "published_at": "2026-11-09T13:21:04Z",
-      "description": "How the Claude extension in Agents CLI takes a Claude Agent SDK agent from install to a validated Cloud Run deploy, with sessions, tracing and eval set up for you.",
-      "tags": [
-        "agents",
-        "ai",
-        "cli",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Finstall-to-deploy.C15g2bQ1_2c2tyH.webp",
-      "source": "Dev.to",
-      "user": "Elia Secchi"
-    },
-    {
-      "title": "Singularity News :: CCG",
-      "url": "https://dev.to/pengeszikra/singularity-news-ccg-5ejk",
-      "published_at": "2026-10-31T02:18:22Z",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine    ...",
-      "tags": [
-        "devchallenge",
-        "hf26challenge",
-        "gamedev",
-        "showdev"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyyh84oxpucdnmygo396v.png",
-      "source": "Dev.to",
-      "user": "Peter Vivo"
-    },
-    {
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
-      "published_at": "2026-10-22T04:31:09Z",
-      "description": "I've had this conversation more times than I'd like to admit.  I raise a technical question in a...",
-      "tags": [
-        "ai",
-        "discuss",
-        "career",
-        "programming"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fobwbf432qy2unuy63rod.jpg",
-      "source": "Dev.to",
-      "user": "Adam - The Developer ✨"
-    },
-    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -854,6 +868,66 @@
       "user": "caseyf7"
     },
     {
+      "title": "threerocks/article2media - 把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。",
+      "url": "https://github.com/threerocks/article2media",
+      "published_at": "2026-11-08T08:07:28Z",
+      "description": "把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
+      "source": "GitHub",
+      "stars": 288,
+      "user": "threerocks"
+    },
+    {
+      "title": "vzroslieigry/maxagent - Experience for AI agents: hooks that make Claude Code, Codex, Antigravity and OpenClaw recall and record what worked, plus maxagent-bridge for your own Chrome.",
+      "url": "https://github.com/vzroslieigry/maxagent",
+      "published_at": "2026-11-08T10:53:47Z",
+      "description": "Experience for AI agents: hooks that make Claude Code, Codex, Antigravity and OpenClaw recall and record what worked, plus maxagent-bridge for your own Chrome.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/44081747?v=4",
+      "source": "GitHub",
+      "stars": 265,
+      "user": "vzroslieigry"
+    },
+    {
+      "title": "op7418/guizang-game-skill - 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+      "url": "https://github.com/op7418/guizang-game-skill",
+      "published_at": "2026-11-11T16:28:54Z",
+      "description": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "source": "GitHub",
+      "stars": 235,
+      "user": "op7418"
+    },
+    {
+      "title": "setyamickala/fastmint-fcfs-agentic - FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
+      "url": "https://github.com/setyamickala/fastmint-fcfs-agentic",
+      "published_at": "2026-11-11T03:42:12Z",
+      "description": "FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25724362?v=4",
+      "source": "GitHub",
+      "stars": 224,
+      "user": "setyamickala"
+    },
+    {
       "title": "lxe/phoneuse - See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
       "url": "https://github.com/lxe/phoneuse",
       "published_at": "2026-11-07T01:28:30Z",
@@ -865,38 +939,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 636,
       "user": "lxe"
     },
     {
-      "title": "DIYgod/pinky - Let AI agents use your phone, with you in the loop.",
-      "url": "https://github.com/DIYgod/pinky",
-      "published_at": "2026-11-06T16:53:14Z",
-      "description": "Let AI agents use your phone, with you in the loop.",
+      "title": "Dodaios/ste80-humanizer - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "published_at": "2026-11-09T17:18:59Z",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
       "source": "GitHub",
-      "stars": 1993,
-      "user": "DIYgod"
-    },
-    {
-      "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "url": "https://github.com/devvmhq/devvm",
-      "published_at": "2026-11-06T07:02:30Z",
-      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
-      "source": "GitHub",
-      "stars": 590,
-      "user": "devvmhq"
+      "stars": 457,
+      "user": "Dodaios"
     },
     {
       "title": "TooonyChen/finallyshell - 类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
@@ -912,6 +971,51 @@
       "source": "GitHub",
       "stars": 466,
       "user": "TooonyChen"
+    },
+    {
+      "title": "agentes-chat/agentes-chat - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "published_at": "2026-11-09T00:50:28Z",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
+      "source": "GitHub",
+      "stars": 1167,
+      "user": "agentes-chat"
+    },
+    {
+      "title": "FrigadeHQ/yogurt - Private AI meeting notes. Free and open source.",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "published_at": "2026-11-10T20:01:01Z",
+      "description": "Private AI meeting notes. Free and open source.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/117952255?v=4",
+      "source": "GitHub",
+      "stars": 945,
+      "user": "FrigadeHQ"
+    },
+    {
+      "title": "AutocratMinaret/valorant-ai-clip-editor - AI Valorant clip editor and montage maker with beat sync and NVENC",
+      "url": "https://github.com/AutocratMinaret/valorant-ai-clip-editor",
+      "published_at": "2026-11-08T18:36:49Z",
+      "description": "AI Valorant clip editor and montage maker with beat sync and NVENC",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317179149?v=4",
+      "source": "GitHub",
+      "stars": 179,
+      "user": "AutocratMinaret"
     },
     {
       "title": "How I accidentally became a millionaire",
@@ -955,7 +1059,7 @@
       "title": "How Can I Prevent Data Leakage When Preprocessing Data for Machine Learning in Python?",
       "url": "https://stackoverflow.com/questions/80016255/how-can-i-prevent-data-leakage-when-preprocessing-data-for-machine-learning-in-p",
       "published_at": "2026-11-12T11:32:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "python",
         "machine-learning",
@@ -967,13 +1071,105 @@
       "user": "Aptech Learning Gurgaon"
     },
     {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "published_at": "2026-11-12T22:42:51.000Z",
+      "description": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "tags": [
+        "AI",
+        "Jensen Huang",
+        "nvidia",
+        "Trump"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Julie Bort"
+    },
+    {
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "published_at": "2026-11-12T22:22:28.000Z",
+      "description": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "tags": [
+        "AI",
+        "Apps",
+        "Meta",
+        "muse"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published_at": "2026-11-12T21:35:00.000Z",
+      "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "tags": [
+        "AI",
+        "China",
+        "Donald Trump",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Amanda Silberling"
+    },
+    {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "published_at": "2026-11-12T21:27:10.000Z",
+      "description": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "tags": [
+        "AI",
+        "Nebius",
+        "cloud compute",
+        "AI compute"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
+    },
+    {
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "published_at": "2026-11-12T20:26:47.000Z",
+      "description": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+      "tags": [
+        "AI",
+        "In Brief",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Russell Brandom"
+    },
+    {
+      "title": "Google&#8217;s latest Search upgrade promises better answers to your most complicated questions",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "published_at": "2026-11-12T19:27:45.000Z",
+      "description": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "tags": [
+        "AI",
+        "TC",
+        "gemini",
+        "Google",
+        "Google Search"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Sarah Perez"
+    },
+    {
       "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
       "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
       "published_at": "2026-11-12T19:11:00.000Z",
       "description": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
       "tags": [
-        "Startups",
         "AI",
+        "Startups",
         "Marketing",
         "AI agents",
         "nectar social"
@@ -990,6 +1186,7 @@
       "tags": [
         "Apps",
         "email",
+        "In Brief",
         "Microsoft",
         "Outlook"
       ],
@@ -1024,101 +1221,6 @@
         "Hugging Face",
         "Jensen Huang",
         "Clem Delangue"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Sarah Perez"
-    },
-    {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "published_at": "2026-11-12T17:17:58.000Z",
-      "description": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "tags": [
-        "AI",
-        "Security",
-        "Transportation",
-        "AI assistants",
-        "Airlines"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI&#8217;s natural gas ambitions",
-      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "published_at": "2026-11-12T17:00:52.000Z",
-      "description": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "tags": [
-        "AI",
-        "Climate",
-        "Analysis",
-        "natural gas",
-        "Softbank"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Tim De Chant"
-    },
-    {
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "published_at": "2026-11-12T17:00:00.000Z",
-      "description": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-      "tags": [
-        "AI",
-        "Apps",
-        "Startups",
-        "ai apps",
-        "Photography"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Jensen Huang agrees to testify before Congress",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-      "published_at": "2026-11-12T16:36:37.000Z",
-      "description": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "In Brief",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
-    },
-    {
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-      "published_at": "2026-11-12T16:32:33.000Z",
-      "description": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-      "tags": [
-        "AI",
-        "ai industry",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Julie Bort"
-    },
-    {
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang&#8217;s successor",
-      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-      "published_at": "2026-11-12T16:12:44.000Z",
-      "description": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-      "tags": [
-        "AI",
-        "Apple",
-        "In Brief",
-        "Jensen Huang",
-        "nvidia"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1198,21 +1300,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fcurrency-claude-agui-a2ui1%2Fmain%2Fdocs%2Fa2ui-1-0%2Fdevto-cover.b6f0e686.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Vue.js Is My Workhorse. Now It's an Agent Skill.",
-      "url": "https://dev.to/playfulprogramming/vuejs-is-my-workhorse-now-its-an-agent-skill-1pfk",
-      "published_at": "2026-11-10T08:00:00Z",
-      "description": "Overview   I've been using Vue.js since the early days, long enough that \"Evangelion\" sounds...",
-      "tags": [
-        "ai",
-        "webdev",
-        "opensource",
-        "vue"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fignc006a3g3jwyi4xopm.jpg",
-      "source": "Dev.to",
-      "user": "Domenico Tenace"
     },
     {
       "title": "Stop Calling getGenerativeModel() Everywhere! The Hidden Traps of Scaling Firebase AI to Multi-Model Angular Apps",
@@ -1379,66 +1466,6 @@
       "user": "velmu"
     },
     {
-      "title": "JenkinWoo/sheeridVerify - GitHub Repository",
-      "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "published_at": "2026-11-06T09:28:09Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
-      "source": "GitHub",
-      "stars": 2078,
-      "user": "JenkinWoo"
-    },
-    {
-      "title": "ilsa99/microsoft-365-desktop - Microsoft 365 2024 Standalone Desktop Setup with Pre-Configured Tools",
-      "url": "https://github.com/ilsa99/microsoft-365-desktop",
-      "published_at": "2026-11-06T21:11:04Z",
-      "description": "Microsoft 365 2024 Standalone Desktop Setup with Pre-Configured Tools",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/169668232?v=4",
-      "source": "GitHub",
-      "stars": 1103,
-      "user": "ilsa99"
-    },
-    {
-      "title": "Gacktadactle/fortnite-skin-swapper-enhancement - Fortnite Skin Swapper: Standalone 2026 Desktop Setup, Ready to Run",
-      "url": "https://github.com/Gacktadactle/fortnite-skin-swapper-enhancement",
-      "published_at": "2026-11-06T21:01:35Z",
-      "description": "Fortnite Skin Swapper: Standalone 2026 Desktop Setup, Ready to Run",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76502711?v=4",
-      "source": "GitHub",
-      "stars": 1103,
-      "user": "Gacktadactle"
-    },
-    {
-      "title": "shanselman/sandbox-mcp - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
-      "url": "https://github.com/shanselman/sandbox-mcp",
-      "published_at": "2026-11-06T19:02:14Z",
-      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
-      "source": "GitHub",
-      "stars": 421,
-      "user": "shanselman"
-    },
-    {
       "title": "yetone/rewind-for-x - Chrome extension: look back at posts that scrolled past on your X home timeline",
       "url": "https://github.com/yetone/rewind-for-x",
       "published_at": "2026-11-09T09:28:22Z",
@@ -1454,79 +1481,139 @@
       "user": "yetone"
     },
     {
-      "title": "ebtsamalhakmy-sketch/desktop-backup-suite - Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite",
-      "url": "https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite",
-      "published_at": "2026-11-06T20:53:28Z",
-      "description": "Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite",
+      "title": "threerocks/article2media - 把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。",
+      "url": "https://github.com/threerocks/article2media",
+      "published_at": "2026-11-08T08:07:28Z",
+      "description": "把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。",
       "tags": [
-        "typescript",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/304171179?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 1199,
-      "user": "ebtsamalhakmy-sketch"
+      "stars": 288,
+      "user": "threerocks"
     },
     {
-      "title": "tss878/delta-executor-toolkit - Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
-      "url": "https://github.com/tss878/delta-executor-toolkit",
-      "published_at": "2026-11-06T20:51:54Z",
-      "description": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
+      "title": "vzroslieigry/maxagent - Experience for AI agents: hooks that make Claude Code, Codex, Antigravity and OpenClaw recall and record what worked, plus maxagent-bridge for your own Chrome.",
+      "url": "https://github.com/vzroslieigry/maxagent",
+      "published_at": "2026-11-08T10:53:47Z",
+      "description": "Experience for AI agents: hooks that make Claude Code, Codex, Antigravity and OpenClaw recall and record what worked, plus maxagent-bridge for your own Chrome.",
       "tags": [
-        "typescript",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329385096?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/44081747?v=4",
       "source": "GitHub",
-      "stars": 1198,
-      "user": "tss878"
+      "stars": 265,
+      "user": "vzroslieigry"
     },
     {
-      "title": "RolandoV3/metatrader-5-bot - Community-driven MetaTrader 5 bot with full features ready for desktop use",
-      "url": "https://github.com/RolandoV3/metatrader-5-bot",
-      "published_at": "2026-11-06T21:09:36Z",
-      "description": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
+      "title": "op7418/guizang-game-skill - 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+      "url": "https://github.com/op7418/guizang-game-skill",
+      "published_at": "2026-11-11T16:28:54Z",
+      "description": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
       "tags": [
-        "typescript",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92120047?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 1108,
-      "user": "RolandoV3"
+      "stars": 235,
+      "user": "op7418"
     },
     {
-      "title": "ethangangasingh-crypto/musicmakerunlimited - Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
-      "url": "https://github.com/ethangangasingh-crypto/musicmakerunlimited",
-      "published_at": "2026-11-06T21:14:04Z",
-      "description": "Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
+      "title": "setyamickala/fastmint-fcfs-agentic - FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
+      "url": "https://github.com/setyamickala/fastmint-fcfs-agentic",
+      "published_at": "2026-11-11T03:42:12Z",
+      "description": "FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
       "tags": [
-        "typescript",
+        "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/322881863?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/25724362?v=4",
       "source": "GitHub",
-      "stars": 1103,
-      "user": "ethangangasingh-crypto"
+      "stars": 224,
+      "user": "setyamickala"
     },
     {
-      "title": "rdeepak-wq121/quicken-deluxe-installer - Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
-      "url": "https://github.com/rdeepak-wq121/quicken-deluxe-installer",
-      "published_at": "2026-11-06T21:20:42Z",
-      "description": "Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
+      "title": "agentes-chat/agentes-chat - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "published_at": "2026-11-09T00:50:28Z",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263535579?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
       "source": "GitHub",
-      "stars": 1103,
-      "user": "rdeepak-wq121"
+      "stars": 1167,
+      "user": "agentes-chat"
+    },
+    {
+      "title": "FrigadeHQ/yogurt - Private AI meeting notes. Free and open source.",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "published_at": "2026-11-10T20:01:01Z",
+      "description": "Private AI meeting notes. Free and open source.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/117952255?v=4",
+      "source": "GitHub",
+      "stars": 945,
+      "user": "FrigadeHQ"
+    },
+    {
+      "title": "alexeyw/lot-map - A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+      "url": "https://github.com/alexeyw/lot-map",
+      "published_at": "2026-11-09T19:13:52Z",
+      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/1450804?v=4",
+      "source": "GitHub",
+      "stars": 605,
+      "user": "alexeyw"
+    },
+    {
+      "title": "JDhruv14/line-art-animation - A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+      "url": "https://github.com/JDhruv14/line-art-animation",
+      "published_at": "2026-11-10T09:25:25Z",
+      "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/112489039?v=4",
+      "source": "GitHub",
+      "stars": 587,
+      "user": "JDhruv14"
+    },
+    {
+      "title": "luobinger/PerkRadar - PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time offers, and discounts from multiple sources every two hours, with source status tracking, expiration handling, and personal bookmarks.",
+      "url": "https://github.com/luobinger/PerkRadar",
+      "published_at": "2026-11-08T08:22:48Z",
+      "description": "PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time offers, and discounts from multiple sources every two hours, with source status tracking, expiration handling, and personal bookmarks.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/155231600?v=4",
+      "source": "GitHub",
+      "stars": 469,
+      "user": "luobinger"
     },
     {
       "title": "Service worker keeps serving the previous deploy's JavaScript after a new Vercel deploy",
@@ -1560,19 +1647,6 @@
       "user": "rickymwethera"
     },
     {
-      "title": "bug between v10.7 and v10.8 and later",
-      "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
-      "published_at": "2026-11-04T22:00:29.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
-      "tags": [
-        "javascript",
-        "openlayers"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "allez l&#39;OM"
-    },
-    {
       "title": "Uncaught Error: prompt() is not supported",
       "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
       "published_at": "2026-09-25T08:18:05.000Z",
@@ -1600,6 +1674,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "gjjr"
+    },
+    {
+      "title": "How do I fetch album art for a music track using JS if I only have artist name and song name?",
+      "url": "https://stackoverflow.com/questions/79938945/how-do-i-fetch-album-art-for-a-music-track-using-js-if-i-only-have-artist-name-a",
+      "published_at": "2026-05-10T14:18:00.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
+      "tags": [
+        "javascript",
+        "fetch-api",
+        "albumart",
+        "tooling-recommendation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rajveer Singh Kaler"
     },
     {
       "title": "What is the difference between typeof and instanceof and when should one be used vs. the other?",
@@ -1645,6 +1734,18 @@
       "user": "kjs3"
     },
     {
+      "title": "What does `void 0` mean?",
+      "url": "https://stackoverflow.com/questions/7452341/what-does-void-0-mean",
+      "published_at": "2011-09-17T03:58:03.000Z",
+      "description": "Stack Overflow question · 3 answers · score 608",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Randomblue"
+    },
+    {
       "title": "How to load a website (HTML) and click a button?",
       "url": "https://stackoverflow.com/questions/79802131/how-to-load-a-website-html-and-click-a-button",
       "published_at": "2025-10-27T18:18:23.000Z",
@@ -1658,20 +1759,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Thorsten Schmitz"
-    },
-    {
-      "title": "How to reset an HTML element to its first/initial value in JavaScript?",
-      "url": "https://stackoverflow.com/questions/79820285/how-to-reset-an-html-element-to-its-first-initial-value-in-javascript",
-      "published_at": "2025-11-14T17:11:16.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Milichip"
     },
     {
       "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
@@ -1748,36 +1835,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fjax-dev%2Fmain%2Farticle%2Fdevto-cover.3c49df33.jpg",
       "source": "Dev.to",
       "user": "xbill"
-    },
-    {
-      "title": "Take a Claude Agent SDK agent from install to deploy with Agents CLI",
-      "url": "https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680",
-      "published_at": "2026-11-09T13:21:04Z",
-      "description": "How the Claude extension in Agents CLI takes a Claude Agent SDK agent from install to a validated Cloud Run deploy, with sessions, tracing and eval set up for you.",
-      "tags": [
-        "agents",
-        "ai",
-        "cli",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Finstall-to-deploy.C15g2bQ1_2c2tyH.webp",
-      "source": "Dev.to",
-      "user": "Elia Secchi"
-    },
-    {
-      "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
-      "url": "https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k",
-      "published_at": "2026-11-01T19:57:46Z",
-      "description": "A deep dive into everything new in RackDoc DCIM v1.1: a 4-state background Heartbeat engine (Grey/Green/Orange/Red), independent Frontend SSH/HTTP/HTTPS launcher, 48-port switch CAD geometry, NOC Kiosk Mode, Rack Trays, and Active Directory RBAC.",
-      "tags": [
-        "dcim",
-        "flutter",
-        "fastapi",
-        "docker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Frackdoc%2Fmain%2Fdocs%2Frackdoc_v1_1_screenshot.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
@@ -1911,23 +1968,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10053058?v=4",
       "source": "GitHub",
-      "stars": 1294,
+      "stars": 1306,
       "user": "HybridRobotics"
-    },
-    {
-      "title": "farhatullah0006-art/rx-11-audio-editor-config - rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing",
-      "url": "https://github.com/farhatullah0006-art/rx-11-audio-editor-config",
-      "published_at": "2026-11-06T21:21:42Z",
-      "description": "rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/337244869?v=4",
-      "source": "GitHub",
-      "stars": 1103,
-      "user": "farhatullah0006-art"
     },
     {
       "title": "Th0rgal/satmux - Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
@@ -1941,7 +1983,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1056,
+      "stars": 1057,
       "user": "Th0rgal"
     },
     {
@@ -1956,7 +1998,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113011860?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 935,
       "user": "Goblinmine"
     },
     {
@@ -1971,8 +2013,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 636,
       "user": "lxe"
+    },
+    {
+      "title": "Dodaios/ste80-humanizer - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "published_at": "2026-11-09T17:18:59Z",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
+      "source": "GitHub",
+      "stars": 457,
+      "user": "Dodaios"
     },
     {
       "title": "Adapting CPython for yk",
@@ -1988,12 +2045,11 @@
       "user": "ltratt"
     },
     {
-      "title": "How to correctly iterate and count vowels in a Python string?",
-      "url": "https://stackoverflow.com/questions/80016348/how-to-correctly-iterate-and-count-vowels-in-a-python-string",
+      "title": "How do I iterate and count vowels in a string?",
+      "url": "https://stackoverflow.com/questions/80016348/how-do-i-iterate-and-count-vowels-in-a-string",
       "published_at": "2026-11-12T18:53:45.000Z",
-      "description": "Stack Overflow question · 2 answers · score 0",
+      "description": "Stack Overflow question · 3 answers · score -5",
       "tags": [
-        "advice",
         "python"
       ],
       "cover_image": null,
@@ -2001,10 +2057,10 @@
       "user": "giga xucishvili"
     },
     {
-      "title": "Why there is an error with list broadcasting?",
-      "url": "https://stackoverflow.com/questions/80016150/why-there-is-an-error-with-list-broadcasting",
+      "title": "Why there is an error with list broadcasting when using \"+=\", but not when using \"__iadd__\"?",
+      "url": "https://stackoverflow.com/questions/80016150/why-there-is-an-error-with-list-broadcasting-when-using-but-not-when-using",
       "published_at": "2026-11-12T02:57:44.000Z",
-      "description": "Stack Overflow question · 2 answers · score 10",
+      "description": "Stack Overflow question · 2 answers · score 11",
       "tags": [
         "python",
         "numpy",
@@ -2029,21 +2085,6 @@
       "user": "Dragoran21"
     },
     {
-      "title": "How Can I Prevent Data Leakage When Preprocessing Data for Machine Learning in Python?",
-      "url": "https://stackoverflow.com/questions/80016255/how-can-i-prevent-data-leakage-when-preprocessing-data-for-machine-learning-in-p",
-      "published_at": "2026-11-12T11:32:05.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
-      "tags": [
-        "python",
-        "machine-learning",
-        "scikit-learn",
-        "data-preprocessing"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Aptech Learning Gurgaon"
-    },
-    {
       "title": "Does sys.set_lazy_imports() accept 'none'?",
       "url": "https://stackoverflow.com/questions/80016148/does-sys-set-lazy-imports-accept-none",
       "published_at": "2026-11-12T02:40:07.000Z",
@@ -2056,6 +2097,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "JadenV15"
+    },
+    {
+      "title": "How Can I Prevent Data Leakage When Preprocessing Data for Machine Learning in Python?",
+      "url": "https://stackoverflow.com/questions/80016255/how-can-i-prevent-data-leakage-when-preprocessing-data-for-machine-learning-in-p",
+      "published_at": "2026-11-12T11:32:05.000Z",
+      "description": "Stack Overflow question · 0 answers · score -5",
+      "tags": [
+        "python",
+        "machine-learning",
+        "scikit-learn",
+        "data-preprocessing"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Aptech Learning Gurgaon"
     },
     {
       "title": "Why is my code not adding the last character when converting Roman numerals?",
@@ -2076,7 +2132,7 @@
       "title": "Best Practice for blog app with both News and Articles",
       "url": "https://stackoverflow.com/questions/80016214/best-practice-for-blog-app-with-both-news-and-articles",
       "published_at": "2026-11-12T08:52:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
+      "description": "Stack Overflow question · 1 answers · score -8",
       "tags": [
         "best-practices",
         "python",
@@ -2121,7 +2177,7 @@
       "title": "Set custom width for tick labels",
       "url": "https://stackoverflow.com/questions/80015989/set-custom-width-for-tick-labels",
       "published_at": "2026-11-11T08:49:33.000Z",
-      "description": "Stack Overflow question · 2 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 3",
       "tags": [
         "python",
         "matplotlib"
@@ -2190,21 +2246,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft6wg5ri17n4kyi0vh2g3.jpg",
       "source": "Dev.to",
       "user": "Azidin Shairi"
-    },
-    {
-      "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
-      "url": "https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k",
-      "published_at": "2026-11-01T19:57:46Z",
-      "description": "A deep dive into everything new in RackDoc DCIM v1.1: a 4-state background Heartbeat engine (Grey/Green/Orange/Red), independent Frontend SSH/HTTP/HTTPS launcher, 48-port switch CAD geometry, NOC Kiosk Mode, Rack Trays, and Active Directory RBAC.",
-      "tags": [
-        "dcim",
-        "flutter",
-        "fastapi",
-        "docker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Frackdoc%2Fmain%2Fdocs%2Frackdoc_v1_1_screenshot.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2327,17 +2368,19 @@
       "user": "jknupp"
     },
     {
-      "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "published_at": "2026-11-11T10:27:51.943-06:00",
-      "description": "Lobste.rs Discussion",
+      "title": "agentes-chat/agentes-chat - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "published_at": "2026-11-09T00:50:28Z",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
       "tags": [
-        "devops",
-        "ml"
+        "typescript",
+        "github",
+        "open-source"
       ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "scanner_brightly"
+      "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
+      "source": "GitHub",
+      "stars": 1167,
+      "user": "agentes-chat"
     },
     {
       "title": "How to Automate Docker Image Creation for Postgres Using Shell Commands",
@@ -2373,21 +2416,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
-      "url": "https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k",
-      "published_at": "2026-11-01T19:57:46Z",
-      "description": "A deep dive into everything new in RackDoc DCIM v1.1: a 4-state background Heartbeat engine (Grey/Green/Orange/Red), independent Frontend SSH/HTTP/HTTPS launcher, 48-port switch CAD geometry, NOC Kiosk Mode, Rack Trays, and Active Directory RBAC.",
-      "tags": [
-        "dcim",
-        "flutter",
-        "fastapi",
-        "docker"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Frackdoc%2Fmain%2Fdocs%2Frackdoc_v1_1_screenshot.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
-    },
-    {
       "title": "How to manage HTML DOM with vanilla JavaScript only?",
       "url": "https://htmldom.dev/",
       "published_at": "2020-04-02T12:29:04Z",
@@ -2398,6 +2426,21 @@
       "cover_image": null,
       "source": "HackerNews",
       "user": "velmu"
+    },
+    {
+      "title": "op7418/guizang-game-skill - 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+      "url": "https://github.com/op7418/guizang-game-skill",
+      "published_at": "2026-11-11T16:28:54Z",
+      "description": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "source": "GitHub",
+      "stars": 235,
+      "user": "op7418"
     },
     {
       "title": "Does Cache distort images on a website or is it something else",
@@ -2458,20 +2501,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Thorsten Schmitz"
-    },
-    {
-      "title": "How to reset an HTML element to its first/initial value in JavaScript?",
-      "url": "https://stackoverflow.com/questions/79820285/how-to-reset-an-html-element-to-its-first-initial-value-in-javascript",
-      "published_at": "2025-11-14T17:11:16.000Z",
-      "description": "Stack Overflow question · 5 answers · score 0",
-      "tags": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Milichip"
     },
     {
       "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
@@ -2579,34 +2608,49 @@
       "user": "xbill"
     },
     {
-      "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
-      "url": "https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k",
-      "published_at": "2026-11-01T19:57:46Z",
-      "description": "A deep dive into everything new in RackDoc DCIM v1.1: a 4-state background Heartbeat engine (Grey/Green/Orange/Red), independent Frontend SSH/HTTP/HTTPS launcher, 48-port switch CAD geometry, NOC Kiosk Mode, Rack Trays, and Active Directory RBAC.",
+      "title": "Dodaios/ste80-humanizer - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "published_at": "2026-11-09T17:18:59Z",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
       "tags": [
-        "dcim",
-        "flutter",
-        "fastapi",
-        "docker"
+        "python",
+        "github",
+        "open-source"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fmario-ezquerro%2Frackdoc%2Fmain%2Fdocs%2Frackdoc_v1_1_screenshot.png",
-      "source": "Dev.to",
-      "user": "Mario Ezquerro"
+      "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
+      "source": "GitHub",
+      "stars": 457,
+      "user": "Dodaios"
     },
     {
-      "title": "Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a",
-      "url": "https://dev.to/gde/android-17-on-a-49-kernel-lineageos-240-on-the-pixel-3a-1mok",
-      "published_at": "2026-11-05T16:37:16Z",
-      "description": "The Pixel 3a runs LineageOS 24.0, Android 17, on its original 4.9 kernel with SELinux enforcing and Google apps. One kernel fix, five platform forks and a set of device-tree changes, each traced to a line of a boot log.",
+      "title": "21stware/bowel - Bowel is a mihomo client for macOS, Windows, Linux and Android.",
+      "url": "https://github.com/21stware/bowel",
+      "published_at": "2026-11-07T17:45:52Z",
+      "description": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
       "tags": [
-        "android",
-        "linux",
-        "kernel",
-        "lineageos"
+        "go",
+        "github",
+        "open-source"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fandroid_kernel_google_msm-4.9%2Fmain%2Fbackport-tools%2Flineage-24.0%2Farticle%2Fdevto-cover.e89cf62e.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
+      "cover_image": "https://avatars.githubusercontent.com/u/291497202?v=4",
+      "source": "GitHub",
+      "stars": 461,
+      "user": "21stware"
+    },
+    {
+      "title": "GiroCrab/GiroCrab - Local-first, privacy-focused macOS banking app for German banks (FinTS/HBCI, Trade Republic, comdirect) built with Rust, SwiftUI & SQLCipher",
+      "url": "https://github.com/GiroCrab/GiroCrab",
+      "published_at": "2026-11-09T19:05:27Z",
+      "description": "Local-first, privacy-focused macOS banking app for German banks (FinTS/HBCI, Trade Republic, comdirect) built with Rust, SwiftUI & SQLCipher",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
+      "source": "GitHub",
+      "stars": 189,
+      "user": "GiroCrab"
     },
     {
       "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
@@ -2641,6 +2685,20 @@
     }
   ],
   "Cloud": [
+    {
+      "title": "Muse Wonder, Muse Spark 1.3, and Muse Ember are now available on Google Cloud in public preview",
+      "url": "https://dev.to/googleai/muse-wonder-muse-spark-13-and-muse-ember-are-now-available-on-google-cloud-in-public-preview-5e6j",
+      "published_at": "2026-11-12T18:53:24Z",
+      "description": "Muse Wonder, Muse Spark 1.3 and Muse Ember are now publicly available on Google Cloud.   Deploy...",
+      "tags": [
+        "muse",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fakp3axtfuny4oy2ogkbm.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
     {
       "title": "Six Serving Engines on One Tesla T4: Gemma 4 E2B on a Turing GPU",
       "url": "https://dev.to/gde/six-serving-engines-on-one-tesla-t4-gemma-4-e2b-on-a-turing-gpu-3a6i",
@@ -2817,21 +2875,6 @@
       "user": "Carlos Barbero"
     },
     {
-      "title": "Take a Claude Agent SDK agent from install to deploy with Agents CLI",
-      "url": "https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680",
-      "published_at": "2026-11-09T13:21:04Z",
-      "description": "How the Claude extension in Agents CLI takes a Claude Agent SDK agent from install to a validated Cloud Run deploy, with sessions, tracing and eval set up for you.",
-      "tags": [
-        "agents",
-        "ai",
-        "cli",
-        "python"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Finstall-to-deploy.C15g2bQ1_2c2tyH.webp",
-      "source": "Dev.to",
-      "user": "Elia Secchi"
-    },
-    {
       "title": "The entirety of \"Let Over Lambda\" is now freely available online",
       "url": "https://letoverlambda.com/",
       "published_at": "2026-11-12T06:44:34.403-06:00",
@@ -2843,6 +2886,21 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "nemin"
+    },
+    {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "published_at": "2026-11-12T21:27:10.000Z",
+      "description": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "tags": [
+        "AI",
+        "Nebius",
+        "cloud compute",
+        "AI compute"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Rebecca Bellan"
     }
   ],
   "Database": [
@@ -2859,10 +2917,25 @@
       "user": "iancarroll"
     },
     {
+      "title": "GiroCrab/GiroCrab - Local-first, privacy-focused macOS banking app for German banks (FinTS/HBCI, Trade Republic, comdirect) built with Rust, SwiftUI & SQLCipher",
+      "url": "https://github.com/GiroCrab/GiroCrab",
+      "published_at": "2026-11-09T19:05:27Z",
+      "description": "Local-first, privacy-focused macOS banking app for German banks (FinTS/HBCI, Trade Republic, comdirect) built with Rust, SwiftUI & SQLCipher",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
+      "source": "GitHub",
+      "stars": 189,
+      "user": "GiroCrab"
+    },
+    {
       "title": "Best Practice for blog app with both News and Articles",
       "url": "https://stackoverflow.com/questions/80016214/best-practice-for-blog-app-with-both-news-and-articles",
       "published_at": "2026-11-12T08:52:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -7",
+      "description": "Stack Overflow question · 1 answers · score -8",
       "tags": [
         "best-practices",
         "python",
@@ -2876,6 +2949,21 @@
     }
   ],
   "Security": [
+    {
+      "title": "The Rise of the Agentic Server",
+      "url": "https://dev.to/dailycontext/the-rise-of-the-agentic-server-503g",
+      "published_at": "2026-11-11T01:59:51Z",
+      "description": "We have let go of the wheel.  The era of agents is here, and we are long past the point of no return....",
+      "tags": [
+        "ai",
+        "agents",
+        "opensource",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zv8wvkrrjn5igrhijxg.png",
+      "source": "Dev.to",
+      "user": "Francisco Javier Arceo"
+    },
     {
       "title": "Google AI Classroom Part 4: Defeating Proxy Attendance & Lab Keyloggers with WebAuthn Passkeys, Rotating HMAC QRs & GCIP Blocking Functions",
       "url": "https://dev.to/gde/google-ai-classroom-part-4-defeating-proxy-attendance-lab-keyloggers-with-webauthn-passkeys-2gc0",
@@ -3039,19 +3127,6 @@
       "user": "Varcht"
     },
     {
-      "title": "Humble Bundle just completely killed most of their security through vibecoding",
-      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-      "published_at": "2026-11-12T09:13:35.291-06:00",
-      "description": "Lobste.rs Discussion",
-      "tags": [
-        "practices",
-        "security"
-      ],
-      "cover_image": null,
-      "source": "Lobste.rs",
-      "user": "stephenr"
-    },
-    {
       "title": "How I accidentally became a millionaire",
       "url": "https://lyra.horse/blog/2026/11/disinformation-machine/",
       "published_at": "2026-11-11T15:53:24.946-06:00",
@@ -3064,20 +3139,20 @@
       "user": "hugoarnal"
     },
     {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "published_at": "2026-11-12T17:17:58.000Z",
-      "description": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published_at": "2026-11-12T21:35:00.000Z",
+      "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
       "tags": [
         "AI",
-        "Security",
-        "Transportation",
-        "AI assistants",
-        "Airlines"
+        "China",
+        "Donald Trump",
+        "Jensen Huang",
+        "nvidia"
       ],
       "cover_image": null,
       "source": "TechCrunch",
-      "user": "Zack Whittaker"
+      "user": "Amanda Silberling"
     },
     {
       "title": "What a CAPTCHA Farm Attack Actually Looks Like",
@@ -3097,6 +3172,21 @@
     }
   ],
   "Tools": [
+    {
+      "title": "Fast multimodal control flow with the Gemini Decisions API",
+      "url": "https://dev.to/philschmid/fast-multimodal-control-flow-with-the-gemini-decisions-api-533b",
+      "published_at": "2026-11-12T01:00:57Z",
+      "description": "Generative models write text for people to read. When your app only needs to pick a tool or route a...",
+      "tags": [
+        "ai",
+        "api",
+        "gemini",
+        "llm"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqjgp58mzmzmtw5d0l6dy.png",
+      "source": "Dev.to",
+      "user": "Philipp Schmid"
+    },
     {
       "title": "Use your eval as a CI gate with Agents CLI",
       "url": "https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1",
@@ -3143,6 +3233,21 @@
       "user": "Kara Silverman"
     },
     {
+      "title": "When Is an AI Rewrite Finished?",
+      "url": "https://dev.to/dailycontext/when-is-an-ai-rewrite-finished-4ged",
+      "published_at": "2026-11-11T02:16:58Z",
+      "description": "AI makes it easier to attempt a replacement. The harder question is what the new software still owes...",
+      "tags": [
+        "ai",
+        "rust",
+        "softwareengineering",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv15857bvz8twhhzysw0p.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
+    },
+    {
       "title": "Who is building solutions with documents?",
       "url": "https://dev.to/missamarakay/who-is-building-solutions-for-documents-4d58",
       "published_at": "2026-11-05T21:23:07Z",
@@ -3185,19 +3290,19 @@
       "user": "Elia Secchi"
     },
     {
-      "title": "When Is an AI Rewrite Finished?",
-      "url": "https://dev.to/dailycontext/when-is-an-ai-rewrite-finished-4ged",
-      "published_at": "2026-11-11T02:16:58Z",
-      "description": "AI makes it easier to attempt a replacement. The harder question is what the new software still owes...",
+      "title": "The AI Evals feedback loop runs both ways",
+      "url": "https://dev.to/quinnvention/the-ai-evals-feedback-loop-runs-both-ways-1pl3",
+      "published_at": "2026-11-10T21:36:49Z",
+      "description": "We’re increasingly asking AI to help decide whether other AI systems are good enough to ship. LLM...",
       "tags": [
         "ai",
-        "rust",
-        "softwareengineering",
+        "llm",
+        "softwaredevelopment",
         "testing"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv15857bvz8twhhzysw0p.png",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjkozaw54zo7742ty5yw2.jpg",
       "source": "Dev.to",
-      "user": "Ramakrishnan Lokanathan"
+      "user": "Quinn Dines"
     },
     {
       "title": "Profile Sprawl: Solving a Problem You Didn't Know You Had",
@@ -3296,66 +3401,6 @@
       "user": "pabs3"
     },
     {
-      "title": "JenkinWoo/sheeridVerify - GitHub Repository",
-      "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "published_at": "2026-11-06T09:28:09Z",
-      "description": "Trending GitHub Repository",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/51308528?v=4",
-      "source": "GitHub",
-      "stars": 2078,
-      "user": "JenkinWoo"
-    },
-    {
-      "title": "ilsa99/microsoft-365-desktop - Microsoft 365 2024 Standalone Desktop Setup with Pre-Configured Tools",
-      "url": "https://github.com/ilsa99/microsoft-365-desktop",
-      "published_at": "2026-11-06T21:11:04Z",
-      "description": "Microsoft 365 2024 Standalone Desktop Setup with Pre-Configured Tools",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/169668232?v=4",
-      "source": "GitHub",
-      "stars": 1103,
-      "user": "ilsa99"
-    },
-    {
-      "title": "Gacktadactle/fortnite-skin-swapper-enhancement - Fortnite Skin Swapper: Standalone 2026 Desktop Setup, Ready to Run",
-      "url": "https://github.com/Gacktadactle/fortnite-skin-swapper-enhancement",
-      "published_at": "2026-11-06T21:01:35Z",
-      "description": "Fortnite Skin Swapper: Standalone 2026 Desktop Setup, Ready to Run",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/76502711?v=4",
-      "source": "GitHub",
-      "stars": 1103,
-      "user": "Gacktadactle"
-    },
-    {
-      "title": "shanselman/sandbox-mcp - Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
-      "url": "https://github.com/shanselman/sandbox-mcp",
-      "published_at": "2026-11-06T19:02:14Z",
-      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/2892?v=4",
-      "source": "GitHub",
-      "stars": 421,
-      "user": "shanselman"
-    },
-    {
       "title": "yetone/rewind-for-x - Chrome extension: look back at posts that scrolled past on your X home timeline",
       "url": "https://github.com/yetone/rewind-for-x",
       "published_at": "2026-11-09T09:28:22Z",
@@ -3371,6 +3416,66 @@
       "user": "yetone"
     },
     {
+      "title": "threerocks/article2media - 把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。",
+      "url": "https://github.com/threerocks/article2media",
+      "published_at": "2026-11-08T08:07:28Z",
+      "description": "把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
+      "source": "GitHub",
+      "stars": 288,
+      "user": "threerocks"
+    },
+    {
+      "title": "vzroslieigry/maxagent - Experience for AI agents: hooks that make Claude Code, Codex, Antigravity and OpenClaw recall and record what worked, plus maxagent-bridge for your own Chrome.",
+      "url": "https://github.com/vzroslieigry/maxagent",
+      "published_at": "2026-11-08T10:53:47Z",
+      "description": "Experience for AI agents: hooks that make Claude Code, Codex, Antigravity and OpenClaw recall and record what worked, plus maxagent-bridge for your own Chrome.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/44081747?v=4",
+      "source": "GitHub",
+      "stars": 265,
+      "user": "vzroslieigry"
+    },
+    {
+      "title": "op7418/guizang-game-skill - 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+      "url": "https://github.com/op7418/guizang-game-skill",
+      "published_at": "2026-11-11T16:28:54Z",
+      "description": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "source": "GitHub",
+      "stars": 235,
+      "user": "op7418"
+    },
+    {
+      "title": "setyamickala/fastmint-fcfs-agentic - FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
+      "url": "https://github.com/setyamickala/fastmint-fcfs-agentic",
+      "published_at": "2026-11-11T03:42:12Z",
+      "description": "FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/25724362?v=4",
+      "source": "GitHub",
+      "stars": 224,
+      "user": "setyamickala"
+    },
+    {
       "title": "HybridRobotics/supermimic - Humanoid whole-body motion tracking with one differentiable world model.",
       "url": "https://github.com/HybridRobotics/supermimic",
       "published_at": "2026-11-10T10:46:56Z",
@@ -3382,23 +3487,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10053058?v=4",
       "source": "GitHub",
-      "stars": 1294,
+      "stars": 1306,
       "user": "HybridRobotics"
-    },
-    {
-      "title": "farhatullah0006-art/rx-11-audio-editor-config - rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing",
-      "url": "https://github.com/farhatullah0006-art/rx-11-audio-editor-config",
-      "published_at": "2026-11-06T21:21:42Z",
-      "description": "rx-11-audio-editor config: full standalone installer and dotfiles for professional audio editing",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/337244869?v=4",
-      "source": "GitHub",
-      "stars": 1103,
-      "user": "farhatullah0006-art"
     },
     {
       "title": "Th0rgal/satmux - Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
@@ -3412,7 +3502,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
       "source": "GitHub",
-      "stars": 1056,
+      "stars": 1057,
       "user": "Th0rgal"
     },
     {
@@ -3427,7 +3517,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/113011860?v=4",
       "source": "GitHub",
-      "stars": 926,
+      "stars": 935,
       "user": "Goblinmine"
     },
     {
@@ -3442,38 +3532,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
       "source": "GitHub",
-      "stars": 631,
+      "stars": 636,
       "user": "lxe"
     },
     {
-      "title": "DIYgod/pinky - Let AI agents use your phone, with you in the loop.",
-      "url": "https://github.com/DIYgod/pinky",
-      "published_at": "2026-11-06T16:53:14Z",
-      "description": "Let AI agents use your phone, with you in the loop.",
+      "title": "Dodaios/ste80-humanizer - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "published_at": "2026-11-09T17:18:59Z",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/8266075?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
       "source": "GitHub",
-      "stars": 1993,
-      "user": "DIYgod"
-    },
-    {
-      "title": "manjushree-iyer/soundpad-audio-suite - Soundpad: Advanced Audio Processing for Professional DAW Workflows",
-      "url": "https://github.com/manjushree-iyer/soundpad-audio-suite",
-      "published_at": "2026-11-06T21:24:56Z",
-      "description": "Soundpad: Advanced Audio Processing for Professional DAW Workflows",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/195894983?v=4",
-      "source": "GitHub",
-      "stars": 1103,
-      "user": "manjushree-iyer"
+      "stars": 457,
+      "user": "Dodaios"
     },
     {
       "title": "HolyArrs/HolyArrs - One self-hosted app for your shows, movies and music.",
@@ -3487,23 +3562,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348458842?v=4",
       "source": "GitHub",
-      "stars": 938,
+      "stars": 967,
       "user": "HolyArrs"
-    },
-    {
-      "title": "devvmhq/devvm - One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "url": "https://github.com/devvmhq/devvm",
-      "published_at": "2026-11-06T07:02:30Z",
-      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/353211386?v=4",
-      "source": "GitHub",
-      "stars": 590,
-      "user": "devvmhq"
     },
     {
       "title": "TooonyChen/finallyshell - 类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
@@ -3521,109 +3581,139 @@
       "user": "TooonyChen"
     },
     {
-      "title": "ebtsamalhakmy-sketch/desktop-backup-suite - Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite",
-      "url": "https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite",
-      "published_at": "2026-11-06T20:53:28Z",
-      "description": "Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite",
+      "title": "21stware/bowel - Bowel is a mihomo client for macOS, Windows, Linux and Android.",
+      "url": "https://github.com/21stware/bowel",
+      "published_at": "2026-11-07T17:45:52Z",
+      "description": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/291497202?v=4",
+      "source": "GitHub",
+      "stars": 461,
+      "user": "21stware"
+    },
+    {
+      "title": "djyde/dalibre - A lightweight Calibre alternative",
+      "url": "https://github.com/djyde/dalibre",
+      "published_at": "2026-11-08T09:56:44Z",
+      "description": "A lightweight Calibre alternative",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/914329?v=4",
+      "source": "GitHub",
+      "stars": 336,
+      "user": "djyde"
+    },
+    {
+      "title": "oceanpacificpeace/lichii-shader-sync - GitHub Repository",
+      "url": "https://github.com/oceanpacificpeace/lichii-shader-sync",
+      "published_at": "2026-11-08T00:06:23Z",
+      "description": "Trending GitHub Repository",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/102858373?v=4",
+      "source": "GitHub",
+      "stars": 332,
+      "user": "oceanpacificpeace"
+    },
+    {
+      "title": "agentes-chat/agentes-chat - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "published_at": "2026-11-09T00:50:28Z",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/304171179?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
       "source": "GitHub",
-      "stars": 1199,
-      "user": "ebtsamalhakmy-sketch"
+      "stars": 1167,
+      "user": "agentes-chat"
     },
     {
-      "title": "tss878/delta-executor-toolkit - Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
-      "url": "https://github.com/tss878/delta-executor-toolkit",
-      "published_at": "2026-11-06T20:51:54Z",
-      "description": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
+      "title": "FrigadeHQ/yogurt - Private AI meeting notes. Free and open source.",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "published_at": "2026-11-10T20:01:01Z",
+      "description": "Private AI meeting notes. Free and open source.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/329385096?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/117952255?v=4",
       "source": "GitHub",
-      "stars": 1198,
-      "user": "tss878"
+      "stars": 945,
+      "user": "FrigadeHQ"
     },
     {
-      "title": "RolandoV3/metatrader-5-bot - Community-driven MetaTrader 5 bot with full features ready for desktop use",
-      "url": "https://github.com/RolandoV3/metatrader-5-bot",
-      "published_at": "2026-11-06T21:09:36Z",
-      "description": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
+      "title": "alexeyw/lot-map - A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+      "url": "https://github.com/alexeyw/lot-map",
+      "published_at": "2026-11-09T19:13:52Z",
+      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/92120047?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/1450804?v=4",
       "source": "GitHub",
-      "stars": 1108,
-      "user": "RolandoV3"
+      "stars": 605,
+      "user": "alexeyw"
     },
     {
-      "title": "ethangangasingh-crypto/musicmakerunlimited - Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
-      "url": "https://github.com/ethangangasingh-crypto/musicmakerunlimited",
-      "published_at": "2026-11-06T21:14:04Z",
-      "description": "Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
+      "title": "JDhruv14/line-art-animation - A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+      "url": "https://github.com/JDhruv14/line-art-animation",
+      "published_at": "2026-11-10T09:25:25Z",
+      "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/322881863?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/112489039?v=4",
       "source": "GitHub",
-      "stars": 1103,
-      "user": "ethangangasingh-crypto"
+      "stars": 587,
+      "user": "JDhruv14"
     },
     {
-      "title": "rdeepak-wq121/quicken-deluxe-installer - Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
-      "url": "https://github.com/rdeepak-wq121/quicken-deluxe-installer",
-      "published_at": "2026-11-06T21:20:42Z",
-      "description": "Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
+      "title": "luobinger/PerkRadar - PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time offers, and discounts from multiple sources every two hours, with source status tracking, expiration handling, and personal bookmarks.",
+      "url": "https://github.com/luobinger/PerkRadar",
+      "published_at": "2026-11-08T08:22:48Z",
+      "description": "PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time offers, and discounts from multiple sources every two hours, with source status tracking, expiration handling, and personal bookmarks.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/263535579?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/155231600?v=4",
       "source": "GitHub",
-      "stars": 1103,
-      "user": "rdeepak-wq121"
+      "stars": 469,
+      "user": "luobinger"
     },
     {
-      "title": "thiagoaureliomartins-programador/chief-architect-premier - Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
-      "url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier",
-      "published_at": "2026-11-06T20:45:00Z",
-      "description": "Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
+      "title": "makepad/relax - Relax Rust JIT",
+      "url": "https://github.com/makepad/relax",
+      "published_at": "2026-11-11T19:12:58Z",
+      "description": "Relax Rust JIT",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/292235154?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/20386338?v=4",
       "source": "GitHub",
-      "stars": 1100,
-      "user": "thiagoaureliomartins-programador"
-    },
-    {
-      "title": "Gloridust/WowType - 像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入、实时翻译，越用越懂你。",
-      "url": "https://github.com/Gloridust/WowType",
-      "published_at": "2026-11-06T14:48:19Z",
-      "description": "像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入、实时翻译，越用越懂你。",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/88082356?v=4",
-      "source": "GitHub",
-      "stars": 672,
-      "user": "Gloridust"
+      "stars": 270,
+      "user": "makepad"
     },
     {
       "title": "BeeCaptivate/pc-cleanup-optimizer - Free open source PC cleaner for Windows: disk space, RAM, CPU, startup",
@@ -3641,21 +3731,6 @@
       "user": "BeeCaptivate"
     },
     {
-      "title": "makepad/relax - Relax Rust JIT",
-      "url": "https://github.com/makepad/relax",
-      "published_at": "2026-11-11T19:12:58Z",
-      "description": "Relax Rust JIT",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/20386338?v=4",
-      "source": "GitHub",
-      "stars": 222,
-      "user": "makepad"
-    },
-    {
       "title": "bea4dev/shoji-bar-4 - A Wayland shell with Material Design 3 Expressive, written in Rust",
       "url": "https://github.com/bea4dev/shoji-bar-4",
       "published_at": "2026-11-10T06:58:11Z",
@@ -3667,8 +3742,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/34712108?v=4",
       "source": "GitHub",
-      "stars": 216,
+      "stars": 218,
       "user": "bea4dev"
+    },
+    {
+      "title": "GiroCrab/GiroCrab - Local-first, privacy-focused macOS banking app for German banks (FinTS/HBCI, Trade Republic, comdirect) built with Rust, SwiftUI & SQLCipher",
+      "url": "https://github.com/GiroCrab/GiroCrab",
+      "published_at": "2026-11-09T19:05:27Z",
+      "description": "Local-first, privacy-focused macOS banking app for German banks (FinTS/HBCI, Trade Republic, comdirect) built with Rust, SwiftUI & SQLCipher",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
+      "source": "GitHub",
+      "stars": 189,
+      "user": "GiroCrab"
+    },
+    {
+      "title": "AutocratMinaret/valorant-ai-clip-editor - AI Valorant clip editor and montage maker with beat sync and NVENC",
+      "url": "https://github.com/AutocratMinaret/valorant-ai-clip-editor",
+      "published_at": "2026-11-08T18:36:49Z",
+      "description": "AI Valorant clip editor and montage maker with beat sync and NVENC",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/317179149?v=4",
+      "source": "GitHub",
+      "stars": 179,
+      "user": "AutocratMinaret"
     },
     {
       "title": "Uncaught Error: prompt() is not supported",
@@ -3685,20 +3790,19 @@
       "user": "Alex"
     },
     {
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "published_at": "2026-11-12T17:00:00.000Z",
-      "description": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "title": "How do I fetch album art for a music track using JS if I only have artist name and song name?",
+      "url": "https://stackoverflow.com/questions/79938945/how-do-i-fetch-album-art-for-a-music-track-using-js-if-i-only-have-artist-name-a",
+      "published_at": "2026-05-10T14:18:00.000Z",
+      "description": "Stack Overflow question · 2 answers · score 0",
       "tags": [
-        "AI",
-        "Apps",
-        "Startups",
-        "ai apps",
-        "Photography"
+        "javascript",
+        "fetch-api",
+        "albumart",
+        "tooling-recommendation"
       ],
       "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Aisha Malik"
+      "source": "StackOverflow",
+      "user": "Rajveer Singh Kaler"
     },
     {
       "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
