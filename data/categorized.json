@@ -46,21 +46,6 @@
       "user": "Anna Villarreal"
     },
     {
-      "title": "Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent",
-      "url": "https://dev.to/gde/cant-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-page-and-an-adk-agent-c5b",
-      "published_at": "2026-11-13T16:49:06Z",
-      "description": "AMD Token Lab is a free OpenAI-compatible API on AMD GPUs that comes with the AMD AI Developer Program. How to sign up, a local chat page that keeps the key off the browser, a terminal client, and a small ADK agent that calls Gemma 4 31B through it.",
-      "tags": [
-        "gemma",
-        "amd",
-        "adk",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Ftokenlab-free%2Fdevto-cover.aff96a99.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Six Serving Engines on Four Accelerators: Gemma 4 E2B on an RTX 3050, a T4, an L4 and a TPU v5e",
       "url": "https://dev.to/gde/six-serving-engines-on-four-accelerators-gemma-4-e2b-on-an-rtx-3050-a-t4-an-l4-and-a-tpu-v5e-1a0e",
       "published_at": "2026-11-13T13:52:45Z",
@@ -72,6 +57,21 @@
         "tpu"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-rollup%2Fdevto-cover.083b3fac.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent",
+      "url": "https://dev.to/gde/cant-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-page-and-an-adk-agent-c5b",
+      "published_at": "2026-11-13T16:49:06Z",
+      "description": "AMD Token Lab is a free OpenAI-compatible API on AMD GPUs that comes with the AMD AI Developer Program. How to sign up, a local chat page that keeps the key off the browser, a terminal client, and a small ADK agent that calls Gemma 4 31B through it.",
+      "tags": [
+        "gemma",
+        "amd",
+        "adk",
+        "ai"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Ftokenlab-free%2Fdevto-cover.aff96a99.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -147,21 +147,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F68w5qhmh8zsd0cb1gmvx.jpeg",
       "source": "Dev.to",
       "user": "Jacob Prall"
-    },
-    {
-      "title": "AI Has Changed the Economics of Hacking: What Changes for Businesses After Black October",
-      "url": "https://dev.to/dailycontext/ai-has-changed-the-economics-of-hacking-what-changes-for-businesses-after-black-october-5h4c",
-      "published_at": "2026-11-12T21:46:52Z",
-      "description": "1. What has been happening?   October's wave of AI-enabled cybersecurity incidents have been...",
-      "tags": [
-        "ai",
-        "security",
-        "opensource",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl66l7zkrt1a77i55spfl.png",
-      "source": "Dev.to",
-      "user": "e52.ai"
     },
     {
       "title": "The Harness Doesn't Matter",
@@ -280,21 +265,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo0fnu9gh0wnolafss85u.png",
       "source": "Dev.to",
       "user": "Kara Silverman"
-    },
-    {
-      "title": "Software Engineering Is Becoming Factory Engineering",
-      "url": "https://dev.to/dailycontext/software-engineering-is-becoming-factory-engineering-22ll",
-      "published_at": "2026-11-11T01:28:03Z",
-      "description": "Most developers working with coding agents still interact with them directly. They open a terminal,...",
-      "tags": [
-        "ai",
-        "agents",
-        "softwareengineering",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp3lvqdz2n6csb1y6epqc.png",
-      "source": "Dev.to",
-      "user": "Zach Lloyd"
     },
     {
       "title": "Prompt Pad: What Are Tokens?",
@@ -728,6 +698,21 @@
       "user": "Ramakrishnan Lokanathan"
     },
     {
+      "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
+      "url": "https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh",
+      "published_at": "2026-11-07T21:34:26Z",
+      "description": "Why Andrew 'Red' Brogdon's insight on client-side functions is critical for Generative UI—and how bloc_signals_genui turns catalog functions into 0ms synchronous reactive signals.",
+      "tags": [
+        "flutter",
+        "dart",
+        "ai",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8y3gkk7ib2778kh57mp.jpg",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "published_at": "2026-03-11T19:29:29Z",
@@ -907,7 +892,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 328,
       "user": "op7418"
     },
     {
@@ -922,7 +907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 310,
       "user": "threerocks"
     },
     {
@@ -941,21 +926,6 @@
       "user": "vzroslieigry"
     },
     {
-      "title": "setyamickala/fastmint-fcfs-agentic - FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
-      "url": "https://github.com/setyamickala/fastmint-fcfs-agentic",
-      "published_at": "2026-11-11T03:42:12Z",
-      "description": "FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
-      "tags": [
-        "javascript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25724362?v=4",
-      "source": "GitHub",
-      "stars": 227,
-      "user": "setyamickala"
-    },
-    {
       "title": "Dodaios/ste80-humanizer - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
       "url": "https://github.com/Dodaios/ste80-humanizer",
       "published_at": "2026-11-09T17:18:59Z",
@@ -967,7 +937,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 495,
       "user": "Dodaios"
     },
     {
@@ -982,23 +952,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/915684?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 361,
       "user": "lizTheDeveloper"
-    },
-    {
-      "title": "MiniMax-AI/MiniMax-H3-Image - MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
-      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
-      "published_at": "2026-11-09T17:11:00Z",
-      "description": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
-      "source": "GitHub",
-      "stars": 341,
-      "user": "MiniMax-AI"
     },
     {
       "title": "failsafe-security/artex - Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)",
@@ -1012,7 +967,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93018630?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 363,
       "user": "failsafe-security"
     },
     {
@@ -1027,7 +982,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
       "source": "GitHub",
-      "stars": 1344,
+      "stars": 1358,
       "user": "agentes-chat"
     },
     {
@@ -1042,7 +997,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117952255?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1337,
       "user": "FrigadeHQ"
     },
     {
@@ -1057,23 +1012,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 1216,
       "user": "deepseek-ai"
-    },
-    {
-      "title": "PyAudio fails to build in MSYS2: \"gcc: error: /MT: linker input file not found\"",
-      "url": "https://stackoverflow.com/questions/80016410/pyaudio-fails-to-build-in-msys2-gcc-error-mt-linker-input-file-not-found",
-      "published_at": "2026-11-13T05:18:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "mingw-w64",
-        "pyaudio",
-        "msys2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ANDY LEE"
     },
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -1308,6 +1248,21 @@
       "user": "Connie Leung"
     },
     {
+      "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
+      "url": "https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh",
+      "published_at": "2026-11-07T21:34:26Z",
+      "description": "Why Andrew 'Red' Brogdon's insight on client-side functions is critical for Generative UI—and how bloc_signals_genui turns catalog functions into 0ms synchronous reactive signals.",
+      "tags": [
+        "flutter",
+        "dart",
+        "ai",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8y3gkk7ib2778kh57mp.jpg",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1439,7 +1394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "yetone"
     },
     {
@@ -1454,7 +1409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 328,
       "user": "op7418"
     },
     {
@@ -1469,7 +1424,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 310,
       "user": "threerocks"
     },
     {
@@ -1488,19 +1443,19 @@
       "user": "vzroslieigry"
     },
     {
-      "title": "setyamickala/fastmint-fcfs-agentic - FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
-      "url": "https://github.com/setyamickala/fastmint-fcfs-agentic",
-      "published_at": "2026-11-11T03:42:12Z",
-      "description": "FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
+      "title": "shitouxiaoge-commits/CFAPEX - 项目是可部署在 Cloudflare 上的代理面板，支持 VLESS/WS、Trojan/WS 和 VLESS/XHTTP。用户可在面板中管理优选 IP、按地区设置 Proxy IP、自定义真实出站和节点 UUID，并获取 Clash YAML、通用 URI 或 sing-box JSON 订阅。项目提供 KV 设置存储、订阅访问控制及短时读取缓存。",
+      "url": "https://github.com/shitouxiaoge-commits/CFAPEX",
+      "published_at": "2026-11-09T16:14:41Z",
+      "description": "项目是可部署在 Cloudflare 上的代理面板，支持 VLESS/WS、Trojan/WS 和 VLESS/XHTTP。用户可在面板中管理优选 IP、按地区设置 Proxy IP、自定义真实出站和节点 UUID，并获取 Clash YAML、通用 URI 或 sing-box JSON 订阅。项目提供 KV 设置存储、订阅访问控制及短时读取缓存。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25724362?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/307868556?v=4",
       "source": "GitHub",
-      "stars": 227,
-      "user": "setyamickala"
+      "stars": 231,
+      "user": "shitouxiaoge-commits"
     },
     {
       "title": "agentes-chat/agentes-chat - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
@@ -1514,7 +1469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
       "source": "GitHub",
-      "stars": 1344,
+      "stars": 1358,
       "user": "agentes-chat"
     },
     {
@@ -1529,7 +1484,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117952255?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1337,
       "user": "FrigadeHQ"
     },
     {
@@ -1544,7 +1499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 1216,
       "user": "deepseek-ai"
     },
     {
@@ -1559,7 +1514,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1450804?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 762,
       "user": "alexeyw"
     },
     {
@@ -1574,14 +1529,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112489039?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 682,
       "user": "JDhruv14"
+    },
+    {
+      "title": "Project suggestion for flask web dev",
+      "url": "https://stackoverflow.com/questions/80016594/project-suggestion-for-flask-web-dev",
+      "published_at": "2026-11-14T04:50:44.000Z",
+      "description": "Stack Overflow question · 1 answers · score -11",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "python",
+        "html",
+        "flask"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stack.laurence"
     },
     {
       "title": "How to make a Genre/Format Filter for Portfolio Website",
       "url": "https://stackoverflow.com/questions/80016569/how-to-make-a-genre-format-filter-for-portfolio-website",
       "published_at": "2026-11-13T22:27:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -1700,21 +1671,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Randomblue"
-    },
-    {
-      "title": "How to load a website (HTML) and click a button?",
-      "url": "https://stackoverflow.com/questions/79802131/how-to-load-a-website-html-and-click-a-button",
-      "published_at": "2025-10-27T18:18:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "c#",
-        "html",
-        "maui"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Thorsten Schmitz"
     },
     {
       "title": "How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript",
@@ -1940,7 +1896,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10053058?v=4",
       "source": "GitHub",
-      "stars": 1439,
+      "stars": 1462,
       "user": "HybridRobotics"
     },
     {
@@ -1955,7 +1911,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 506,
       "user": "Robbyant"
     },
     {
@@ -1970,7 +1926,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 495,
       "user": "Dodaios"
     },
     {
@@ -1985,23 +1941,54 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/915684?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 361,
       "user": "lizTheDeveloper"
     },
     {
-      "title": "MiniMax-AI/MiniMax-H3-Image - MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
-      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
-      "published_at": "2026-11-09T17:11:00Z",
-      "description": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
+      "title": "xiaoerofficial021-collab/FlowHMR-Windows - FlowHMR 的 Windows 桌面版：视频动捕、3D 预览和 FBX 导出。",
+      "url": "https://github.com/xiaoerofficial021-collab/FlowHMR-Windows",
+      "published_at": "2026-11-09T06:00:11Z",
+      "description": "FlowHMR 的 Windows 桌面版：视频动捕、3D 预览和 FBX 导出。",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/256119334?v=4",
       "source": "GitHub",
-      "stars": 341,
-      "user": "MiniMax-AI"
+      "stars": 352,
+      "user": "xiaoerofficial021-collab"
+    },
+    {
+      "title": "Project suggestion for flask web dev",
+      "url": "https://stackoverflow.com/questions/80016594/project-suggestion-for-flask-web-dev",
+      "published_at": "2026-11-14T04:50:44.000Z",
+      "description": "Stack Overflow question · 1 answers · score -11",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "python",
+        "html",
+        "flask"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stack.laurence"
+    },
+    {
+      "title": "Why Numba produces faster binary than ISPC for this simple function?",
+      "url": "https://stackoverflow.com/questions/80016606/why-numba-produces-faster-binary-than-ispc-for-this-simple-function",
+      "published_at": "2026-11-14T07:17:00.000Z",
+      "description": "Stack Overflow question · 0 answers · score 1",
+      "tags": [
+        "python",
+        "benchmarking",
+        "numba",
+        "ispc"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Paul Jurczak"
     },
     {
       "title": "Why is there an error specifically on the true part?",
@@ -2044,6 +2031,19 @@
       "user": "Auguste Eclancher"
     },
     {
+      "title": "How can I use a variable from file to another file using Python?",
+      "url": "https://stackoverflow.com/questions/80016481/how-can-i-use-a-variable-from-file-to-another-file-using-python",
+      "published_at": "2026-11-13T12:18:29.000Z",
+      "description": "Stack Overflow question · 1 answers · score -3",
+      "tags": [
+        "python",
+        "tkinter"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shehab Helmi"
+    },
+    {
       "title": "Converting MATLAB code to Python show different output",
       "url": "https://stackoverflow.com/questions/80016443/converting-matlab-code-to-python-show-different-output",
       "published_at": "2026-11-13T08:48:37.000Z",
@@ -2059,23 +2059,10 @@
       "user": "Encipher"
     },
     {
-      "title": "How can I use a variable from file to another file using Python?",
-      "url": "https://stackoverflow.com/questions/80016481/how-can-i-use-a-variable-from-file-to-another-file-using-python",
-      "published_at": "2026-11-13T12:18:29.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
-      "tags": [
-        "python",
-        "tkinter"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Shehab Helmi"
-    },
-    {
       "title": "Secure Deployment and Licensing of a Offline Python Desktop Application",
       "url": "https://stackoverflow.com/questions/80016504/secure-deployment-and-licensing-of-a-offline-python-desktop-application",
       "published_at": "2026-11-13T14:39:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "best-practices",
         "python",
@@ -2091,7 +2078,7 @@
       "title": "Why is there a list broadcasting error when using \"+=\" but not when using \"__iadd__\"?",
       "url": "https://stackoverflow.com/questions/80016150/why-is-there-a-list-broadcasting-error-when-using-but-not-when-using-iad",
       "published_at": "2026-11-12T02:57:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score 14",
+      "description": "Stack Overflow question · 1 answers · score 15",
       "tags": [
         "python",
         "numpy",
@@ -2113,37 +2100,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "giga xucishvili"
-    },
-    {
-      "title": "PyAudio fails to build in MSYS2: \"gcc: error: /MT: linker input file not found\"",
-      "url": "https://stackoverflow.com/questions/80016410/pyaudio-fails-to-build-in-msys2-gcc-error-mt-linker-input-file-not-found",
-      "published_at": "2026-11-13T05:18:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score -4",
-      "tags": [
-        "python",
-        "mingw-w64",
-        "pyaudio",
-        "msys2"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ANDY LEE"
-    },
-    {
-      "title": "Best Practice for blog app with both News and Articles",
-      "url": "https://stackoverflow.com/questions/80016214/best-practice-for-blog-app-with-both-news-and-articles",
-      "published_at": "2026-11-12T08:52:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -9",
-      "tags": [
-        "best-practices",
-        "python",
-        "django",
-        "database",
-        "postgresql"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "erfan safarali"
     },
     {
       "title": "Schema Drift vs. Semantic Drift in Data Pipelines",
@@ -2176,21 +2132,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fac0ojxsprfc411qu1f0c.png",
       "source": "Dev.to",
       "user": "Zejiang Guo"
-    },
-    {
-      "title": "AI Has Changed the Economics of Hacking: What Changes for Businesses After Black October",
-      "url": "https://dev.to/dailycontext/ai-has-changed-the-economics-of-hacking-what-changes-for-businesses-after-black-october-5h4c",
-      "published_at": "2026-11-12T21:46:52Z",
-      "description": "1. What has been happening?   October's wave of AI-enabled cybersecurity incidents have been...",
-      "tags": [
-        "ai",
-        "security",
-        "opensource",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl66l7zkrt1a77i55spfl.png",
-      "source": "Dev.to",
-      "user": "e52.ai"
     },
     {
       "title": "Nvidia Says Its Roadmap Will Continue. AI Teams Should Verify the Dependencies",
@@ -2369,7 +2310,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
       "source": "GitHub",
-      "stars": 1344,
+      "stars": 1358,
       "user": "agentes-chat"
     }
   ],
@@ -2413,14 +2354,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 328,
       "user": "op7418"
+    },
+    {
+      "title": "Project suggestion for flask web dev",
+      "url": "https://stackoverflow.com/questions/80016594/project-suggestion-for-flask-web-dev",
+      "published_at": "2026-11-14T04:50:44.000Z",
+      "description": "Stack Overflow question · 1 answers · score -11",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "python",
+        "html",
+        "flask"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stack.laurence"
     },
     {
       "title": "How to make a Genre/Format Filter for Portfolio Website",
       "url": "https://stackoverflow.com/questions/80016569/how-to-make-a-genre-format-filter-for-portfolio-website",
       "published_at": "2026-11-13T22:27:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -2",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
         "javascript",
         "html",
@@ -2444,21 +2401,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "kjs3"
-    },
-    {
-      "title": "How to load a website (HTML) and click a button?",
-      "url": "https://stackoverflow.com/questions/79802131/how-to-load-a-website-html-and-click-a-button",
-      "published_at": "2025-10-27T18:18:23.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "c#",
-        "html",
-        "maui"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Thorsten Schmitz"
     },
     {
       "title": "How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript",
@@ -2522,6 +2464,21 @@
       "user": "Cyrus Wong"
     },
     {
+      "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
+      "url": "https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh",
+      "published_at": "2026-11-07T21:34:26Z",
+      "description": "Why Andrew 'Red' Brogdon's insight on client-side functions is critical for Generative UI—and how bloc_signals_genui turns catalog functions into 0ms synchronous reactive signals.",
+      "tags": [
+        "flutter",
+        "dart",
+        "ai",
+        "architecture"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8y3gkk7ib2778kh57mp.jpg",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
       "title": "Dodaios/ste80-humanizer - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
       "url": "https://github.com/Dodaios/ste80-humanizer",
       "published_at": "2026-11-09T17:18:59Z",
@@ -2533,7 +2490,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 495,
       "user": "Dodaios"
     },
     {
@@ -2548,7 +2505,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 237,
       "user": "GiroCrab"
     },
     {
@@ -2758,6 +2715,21 @@
       "user": "xbill"
     },
     {
+      "title": "shitouxiaoge-commits/CFAPEX - 项目是可部署在 Cloudflare 上的代理面板，支持 VLESS/WS、Trojan/WS 和 VLESS/XHTTP。用户可在面板中管理优选 IP、按地区设置 Proxy IP、自定义真实出站和节点 UUID，并获取 Clash YAML、通用 URI 或 sing-box JSON 订阅。项目提供 KV 设置存储、订阅访问控制及短时读取缓存。",
+      "url": "https://github.com/shitouxiaoge-commits/CFAPEX",
+      "published_at": "2026-11-09T16:14:41Z",
+      "description": "项目是可部署在 Cloudflare 上的代理面板，支持 VLESS/WS、Trojan/WS 和 VLESS/XHTTP。用户可在面板中管理优选 IP、按地区设置 Proxy IP、自定义真实出站和节点 UUID，并获取 Clash YAML、通用 URI 或 sing-box JSON 订阅。项目提供 KV 设置存储、订阅访问控制及短时读取缓存。",
+      "tags": [
+        "javascript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/307868556?v=4",
+      "source": "GitHub",
+      "stars": 231,
+      "user": "shitouxiaoge-commits"
+    },
+    {
       "title": "GiroCrab/GiroCrab - Native macOS & iOS open-source banking app (FinTS/HBCI, PSD2, SEPA, MoneyMoney import) built with Rust & SwiftUI. Local SQLCipher vault, no subscription, no cloud.",
       "url": "https://github.com/GiroCrab/GiroCrab",
       "published_at": "2026-11-09T19:05:27Z",
@@ -2769,7 +2741,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 237,
       "user": "GiroCrab"
     },
     {
@@ -2846,24 +2818,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 237,
       "user": "GiroCrab"
-    },
-    {
-      "title": "Best Practice for blog app with both News and Articles",
-      "url": "https://stackoverflow.com/questions/80016214/best-practice-for-blog-app-with-both-news-and-articles",
-      "published_at": "2026-11-12T08:52:38.000Z",
-      "description": "Stack Overflow question · 1 answers · score -9",
-      "tags": [
-        "best-practices",
-        "python",
-        "django",
-        "database",
-        "postgresql"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "erfan safarali"
     },
     {
       "title": "Schema Drift vs. Semantic Drift in Data Pipelines",
@@ -2882,21 +2838,6 @@
     }
   ],
   "Security": [
-    {
-      "title": "AI Has Changed the Economics of Hacking: What Changes for Businesses After Black October",
-      "url": "https://dev.to/dailycontext/ai-has-changed-the-economics-of-hacking-what-changes-for-businesses-after-black-october-5h4c",
-      "published_at": "2026-11-12T21:46:52Z",
-      "description": "1. What has been happening?   October's wave of AI-enabled cybersecurity incidents have been...",
-      "tags": [
-        "ai",
-        "security",
-        "opensource",
-        "devops"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl66l7zkrt1a77i55spfl.png",
-      "source": "Dev.to",
-      "user": "e52.ai"
-    },
     {
       "title": "Google AI Classroom Part 4: Defeating Proxy Attendance & Lab Keyloggers with WebAuthn Passkeys, Rotating HMAC QRs & GCIP Blocking Functions",
       "url": "https://dev.to/gde/google-ai-classroom-part-4-defeating-proxy-attendance-lab-keyloggers-with-webauthn-passkeys-2gc0",
@@ -3071,7 +3012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93018630?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 363,
       "user": "failsafe-security"
     },
     {
@@ -3105,7 +3046,7 @@
       "title": "Secure Deployment and Licensing of a Offline Python Desktop Application",
       "url": "https://stackoverflow.com/questions/80016504/secure-deployment-and-licensing-of-a-offline-python-desktop-application",
       "published_at": "2026-11-13T14:39:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -5",
+      "description": "Stack Overflow question · 0 answers · score -6",
       "tags": [
         "best-practices",
         "python",
@@ -3227,21 +3168,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fpipeline.J1Pi-k71_1aTFBO.webp",
       "source": "Dev.to",
       "user": "Elia Secchi"
-    },
-    {
-      "title": "Software Engineering Is Becoming Factory Engineering",
-      "url": "https://dev.to/dailycontext/software-engineering-is-becoming-factory-engineering-22ll",
-      "published_at": "2026-11-11T01:28:03Z",
-      "description": "Most developers working with coding agents still interact with them directly. They open a terminal,...",
-      "tags": [
-        "ai",
-        "agents",
-        "softwareengineering",
-        "productivity"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp3lvqdz2n6csb1y6epqc.png",
-      "source": "Dev.to",
-      "user": "Zach Lloyd"
     },
     {
       "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
@@ -3378,7 +3304,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 411,
+      "stars": 413,
       "user": "yetone"
     },
     {
@@ -3393,7 +3319,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 315,
+      "stars": 328,
       "user": "op7418"
     },
     {
@@ -3408,7 +3334,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 307,
+      "stars": 310,
       "user": "threerocks"
     },
     {
@@ -3427,19 +3353,19 @@
       "user": "vzroslieigry"
     },
     {
-      "title": "setyamickala/fastmint-fcfs-agentic - FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
-      "url": "https://github.com/setyamickala/fastmint-fcfs-agentic",
-      "published_at": "2026-11-11T03:42:12Z",
-      "description": "FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
+      "title": "shitouxiaoge-commits/CFAPEX - 项目是可部署在 Cloudflare 上的代理面板，支持 VLESS/WS、Trojan/WS 和 VLESS/XHTTP。用户可在面板中管理优选 IP、按地区设置 Proxy IP、自定义真实出站和节点 UUID，并获取 Clash YAML、通用 URI 或 sing-box JSON 订阅。项目提供 KV 设置存储、订阅访问控制及短时读取缓存。",
+      "url": "https://github.com/shitouxiaoge-commits/CFAPEX",
+      "published_at": "2026-11-09T16:14:41Z",
+      "description": "项目是可部署在 Cloudflare 上的代理面板，支持 VLESS/WS、Trojan/WS 和 VLESS/XHTTP。用户可在面板中管理优选 IP、按地区设置 Proxy IP、自定义真实出站和节点 UUID，并获取 Clash YAML、通用 URI 或 sing-box JSON 订阅。项目提供 KV 设置存储、订阅访问控制及短时读取缓存。",
       "tags": [
         "javascript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/25724362?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/307868556?v=4",
       "source": "GitHub",
-      "stars": 227,
-      "user": "setyamickala"
+      "stars": 231,
+      "user": "shitouxiaoge-commits"
     },
     {
       "title": "HybridRobotics/supermimic - Humanoid whole-body motion tracking with one differentiable world model.",
@@ -3453,7 +3379,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10053058?v=4",
       "source": "GitHub",
-      "stars": 1439,
+      "stars": 1462,
       "user": "HybridRobotics"
     },
     {
@@ -3468,7 +3394,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 494,
+      "stars": 506,
       "user": "Robbyant"
     },
     {
@@ -3483,7 +3409,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
       "source": "GitHub",
-      "stars": 490,
+      "stars": 495,
       "user": "Dodaios"
     },
     {
@@ -3498,23 +3424,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/915684?v=4",
       "source": "GitHub",
-      "stars": 354,
+      "stars": 361,
       "user": "lizTheDeveloper"
     },
     {
-      "title": "MiniMax-AI/MiniMax-H3-Image - MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
-      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
-      "published_at": "2026-11-09T17:11:00Z",
-      "description": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
+      "title": "xiaoerofficial021-collab/FlowHMR-Windows - FlowHMR 的 Windows 桌面版：视频动捕、3D 预览和 FBX 导出。",
+      "url": "https://github.com/xiaoerofficial021-collab/FlowHMR-Windows",
+      "published_at": "2026-11-09T06:00:11Z",
+      "description": "FlowHMR 的 Windows 桌面版：视频动捕、3D 预览和 FBX 导出。",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/256119334?v=4",
       "source": "GitHub",
-      "stars": 341,
-      "user": "MiniMax-AI"
+      "stars": 352,
+      "user": "xiaoerofficial021-collab"
     },
     {
       "title": "HolyArrs/HolyArrs - One self-hosted app for your shows, movies and music.",
@@ -3528,23 +3454,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348458842?v=4",
       "source": "GitHub",
-      "stars": 1103,
+      "stars": 1127,
       "user": "HolyArrs"
-    },
-    {
-      "title": "djyde/dalibre - A lightweight Calibre alternative",
-      "url": "https://github.com/djyde/dalibre",
-      "published_at": "2026-11-08T09:56:44Z",
-      "description": "A lightweight Calibre alternative",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/914329?v=4",
-      "source": "GitHub",
-      "stars": 346,
-      "user": "djyde"
     },
     {
       "title": "failsafe-security/artex - Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)",
@@ -3558,8 +3469,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93018630?v=4",
       "source": "GitHub",
-      "stars": 332,
+      "stars": 363,
       "user": "failsafe-security"
+    },
+    {
+      "title": "djyde/dalibre - A lightweight Calibre alternative",
+      "url": "https://github.com/djyde/dalibre",
+      "published_at": "2026-11-08T09:56:44Z",
+      "description": "A lightweight Calibre alternative",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/914329?v=4",
+      "source": "GitHub",
+      "stars": 348,
+      "user": "djyde"
     },
     {
       "title": "lobehub/lobe-mygo - 🍭 Lobe MyGo - the UI kit for native Go apps: Lobe UI design language for MyGo, drawn on the GPU in pure Go",
@@ -3573,7 +3499,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131470832?v=4",
       "source": "GitHub",
-      "stars": 242,
+      "stars": 243,
       "user": "lobehub"
     },
     {
@@ -3603,7 +3529,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
       "source": "GitHub",
-      "stars": 1344,
+      "stars": 1358,
       "user": "agentes-chat"
     },
     {
@@ -3618,7 +3544,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117952255?v=4",
       "source": "GitHub",
-      "stars": 1279,
+      "stars": 1337,
       "user": "FrigadeHQ"
     },
     {
@@ -3633,7 +3559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 781,
+      "stars": 1216,
       "user": "deepseek-ai"
     },
     {
@@ -3648,7 +3574,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1450804?v=4",
       "source": "GitHub",
-      "stars": 738,
+      "stars": 762,
       "user": "alexeyw"
     },
     {
@@ -3663,7 +3589,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112489039?v=4",
       "source": "GitHub",
-      "stars": 662,
+      "stars": 682,
       "user": "JDhruv14"
     },
     {
@@ -3678,8 +3604,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20386338?v=4",
       "source": "GitHub",
-      "stars": 484,
+      "stars": 516,
       "user": "makepad"
+    },
+    {
+      "title": "quer3q/kraken-mount - Minimalist PS5 game mounter supporting PKG, folder dumps, lz4, and zstd",
+      "url": "https://github.com/quer3q/kraken-mount",
+      "published_at": "2026-11-13T07:25:37Z",
+      "description": "Minimalist PS5 game mounter supporting PKG, folder dumps, lz4, and zstd",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/63728788?v=4",
+      "source": "GitHub",
+      "stars": 279,
+      "user": "quer3q"
     },
     {
       "title": "BeeCaptivate/pc-cleanup-optimizer - Free open source PC cleaner for Windows: disk space, RAM, CPU, startup",
@@ -3697,21 +3638,6 @@
       "user": "BeeCaptivate"
     },
     {
-      "title": "quer3q/kraken-mount - Minimalist PS5 game mounter supporting PKG, folder dumps, lz4, and zstd",
-      "url": "https://github.com/quer3q/kraken-mount",
-      "published_at": "2026-11-13T07:25:37Z",
-      "description": "Minimalist PS5 game mounter supporting PKG, folder dumps, lz4, and zstd",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63728788?v=4",
-      "source": "GitHub",
-      "stars": 238,
-      "user": "quer3q"
-    },
-    {
       "title": "GiroCrab/GiroCrab - Native macOS & iOS open-source banking app (FinTS/HBCI, PSD2, SEPA, MoneyMoney import) built with Rust & SwiftUI. Local SQLCipher vault, no subscription, no cloud.",
       "url": "https://github.com/GiroCrab/GiroCrab",
       "published_at": "2026-11-09T19:05:27Z",
@@ -3723,7 +3649,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
       "source": "GitHub",
-      "stars": 230,
+      "stars": 237,
       "user": "GiroCrab"
     },
     {
@@ -3753,6 +3679,22 @@
       "cover_image": null,
       "source": "Lobste.rs",
       "user": "hwayne"
+    },
+    {
+      "title": "Project suggestion for flask web dev",
+      "url": "https://stackoverflow.com/questions/80016594/project-suggestion-for-flask-web-dev",
+      "published_at": "2026-11-14T04:50:44.000Z",
+      "description": "Stack Overflow question · 1 answers · score -11",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "python",
+        "html",
+        "flask"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "stack.laurence"
     },
     {
       "title": "Uncaught Error: prompt() is not supported",
