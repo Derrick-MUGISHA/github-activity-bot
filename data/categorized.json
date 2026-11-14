@@ -46,21 +46,6 @@
       "user": "Anna Villarreal"
     },
     {
-      "title": "Six Serving Engines on Four Accelerators: Gemma 4 E2B on an RTX 3050, a T4, an L4 and a TPU v5e",
-      "url": "https://dev.to/gde/six-serving-engines-on-four-accelerators-gemma-4-e2b-on-an-rtx-3050-a-t4-an-l4-and-a-tpu-v5e-1a0e",
-      "published_at": "2026-11-13T13:52:45Z",
-      "description": "The same Gemma 4 E2B, prompts, load sweep and GSM8K and BFCL questions through the same serving engines on an 8 GB RTX 3050, a Tesla T4, an NVIDIA L4 and one TPU v5e chip. Answers hold on every chip; vLLM with its drafter leads on all three GPUs, and SGLang-JAX leads on the TPU.",
-      "tags": [
-        "gemma",
-        "vllm",
-        "nvidia",
-        "tpu"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-rollup%2Fdevto-cover.083b3fac.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
       "title": "Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent",
       "url": "https://dev.to/gde/cant-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-page-and-an-adk-agent-c5b",
       "published_at": "2026-11-13T16:49:06Z",
@@ -72,6 +57,21 @@
         "ai"
       ],
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Ftokenlab-free%2Fdevto-cover.aff96a99.jpg",
+      "source": "Dev.to",
+      "user": "xbill"
+    },
+    {
+      "title": "Six Serving Engines on Four Accelerators: Gemma 4 E2B on an RTX 3050, a T4, an L4 and a TPU v5e",
+      "url": "https://dev.to/gde/six-serving-engines-on-four-accelerators-gemma-4-e2b-on-an-rtx-3050-a-t4-an-l4-and-a-tpu-v5e-1a0e",
+      "published_at": "2026-11-13T13:52:45Z",
+      "description": "The same Gemma 4 E2B, prompts, load sweep and GSM8K and BFCL questions through the same serving engines on an 8 GB RTX 3050, a Tesla T4, an NVIDIA L4 and one TPU v5e chip. Answers hold on every chip; vLLM with its drafter leads on all three GPUs, and SGLang-JAX leads on the TPU.",
+      "tags": [
+        "gemma",
+        "vllm",
+        "nvidia",
+        "tpu"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-rollup%2Fdevto-cover.083b3fac.jpg",
       "source": "Dev.to",
       "user": "xbill"
     },
@@ -312,20 +312,6 @@
       "user": "MLH Team"
     },
     {
-      "title": "Muse Wonder, Muse Spark 1.3, and Muse Ember are now available on Google Cloud in public preview",
-      "url": "https://dev.to/googleai/muse-wonder-muse-spark-13-and-muse-ember-are-now-available-on-google-cloud-in-public-preview-5e6j",
-      "published_at": "2026-11-12T18:53:24Z",
-      "description": "Muse Wonder, Muse Spark 1.3 and Muse Ember are now publicly available on Google Cloud.   Deploy...",
-      "tags": [
-        "muse",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fakp3axtfuny4oy2ogkbm.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Your Agent Needs a Schema, Not a Better Prompt",
       "url": "https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm",
       "published_at": "2026-11-11T20:51:14Z",
@@ -550,6 +536,20 @@
       "user": "MLH Team"
     },
     {
+      "title": "Muse Wonder, Muse Spark 1.3, and Muse Ember are now available on Google Cloud in public preview",
+      "url": "https://dev.to/googleai/muse-wonder-muse-spark-13-and-muse-ember-are-now-available-on-google-cloud-in-public-preview-5e6j",
+      "published_at": "2026-11-12T18:53:24Z",
+      "description": "Muse Wonder, Muse Spark 1.3 and Muse Ember are now publicly available on Google Cloud.   Deploy...",
+      "tags": [
+        "muse",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fakp3axtfuny4oy2ogkbm.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
+    },
+    {
       "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
       "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
       "published_at": "2026-11-05T21:12:11Z",
@@ -713,19 +713,19 @@
       "user": "xbill"
     },
     {
-      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
-      "url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a",
-      "published_at": "2026-11-05T00:02:44Z",
-      "description": "Why do New Caledonian crows bend wire into hooks with zero training while a trillion-parameter LLM flies straight into the same production bug zapper? How Anthony Zador's Genomic Bottleneck explains what 'instinct' really is in AI coding agents.",
+      "title": "When the Coding Agent Says It Is Done",
+      "url": "https://dev.to/dailycontext/when-the-coding-agent-says-it-is-done-4mjj",
+      "published_at": "2026-11-11T01:51:03Z",
+      "description": "The work should be easy to verify and continue after the conversation ends.  An agent changes the...",
       "tags": [
         "ai",
-        "programming",
-        "neuroscience",
-        "architecture"
+        "agents",
+        "testing",
+        "softwareengineering"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp24lnbmzkhrdluxod8g5.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzozsdvfcmvinbzmngya0.png",
       "source": "Dev.to",
-      "user": "Randal L. Schwartz"
+      "user": "Ramakrishnan Lokanathan"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -907,7 +907,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 315,
       "user": "op7418"
     },
     {
@@ -922,7 +922,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 307,
       "user": "threerocks"
     },
     {
@@ -956,21 +956,6 @@
       "user": "setyamickala"
     },
     {
-      "title": "lxe/phoneuse - See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "url": "https://github.com/lxe/phoneuse",
-      "published_at": "2026-11-07T01:28:30Z",
-      "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
-      "source": "GitHub",
-      "stars": 648,
-      "user": "lxe"
-    },
-    {
       "title": "Dodaios/ste80-humanizer - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
       "url": "https://github.com/Dodaios/ste80-humanizer",
       "published_at": "2026-11-09T17:18:59Z",
@@ -982,23 +967,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 490,
       "user": "Dodaios"
     },
     {
-      "title": "TooonyChen/finallyshell - 类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
-      "url": "https://github.com/TooonyChen/finallyshell",
-      "published_at": "2026-11-07T00:34:42Z",
-      "description": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
+      "title": "lizTheDeveloper/flyover-scrub - Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
+      "url": "https://github.com/lizTheDeveloper/flyover-scrub",
+      "published_at": "2026-11-08T01:33:12Z",
+      "description": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
       "tags": [
-        "go",
+        "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26252739?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/915684?v=4",
       "source": "GitHub",
-      "stars": 471,
-      "user": "TooonyChen"
+      "stars": 354,
+      "user": "lizTheDeveloper"
+    },
+    {
+      "title": "MiniMax-AI/MiniMax-H3-Image - MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+      "published_at": "2026-11-09T17:11:00Z",
+      "description": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
+      "source": "GitHub",
+      "stars": 341,
+      "user": "MiniMax-AI"
     },
     {
       "title": "failsafe-security/artex - Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)",
@@ -1012,7 +1012,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93018630?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 332,
       "user": "failsafe-security"
     },
     {
@@ -1027,14 +1027,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1344,
       "user": "agentes-chat"
     },
     {
-      "title": "FrigadeHQ/yogurt - Private AI meeting notes. Free and open source.",
+      "title": "FrigadeHQ/yogurt - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "url": "https://github.com/FrigadeHQ/yogurt",
       "published_at": "2026-11-10T20:01:01Z",
-      "description": "Private AI meeting notes. Free and open source.",
+      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "tags": [
         "typescript",
         "github",
@@ -1042,7 +1042,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117952255?v=4",
       "source": "GitHub",
-      "stars": 1244,
+      "stars": 1279,
       "user": "FrigadeHQ"
     },
     {
@@ -1057,14 +1057,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 598,
+      "stars": 781,
       "user": "deepseek-ai"
     },
     {
       "title": "PyAudio fails to build in MSYS2: \"gcc: error: /MT: linker input file not found\"",
       "url": "https://stackoverflow.com/questions/80016410/pyaudio-fails-to-build-in-msys2-gcc-error-mt-linker-input-file-not-found",
       "published_at": "2026-11-13T05:18:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "mingw-w64",
@@ -1074,6 +1074,38 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "ANDY LEE"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "published_at": "2026-11-13T22:43:00.000Z",
+      "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Venture",
+        "Jensen Huang",
+        "neocloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin, Dominic-Madori Davis"
+    },
+    {
+      "title": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances&#8217;",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "published_at": "2026-11-13T21:44:38.000Z",
+      "description": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+      "tags": [
+        "Security",
+        "Transportation",
+        "Airlines",
+        "Federal Aviation Administration",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
     },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
@@ -1092,7 +1124,7 @@
       "user": "Julie Bort"
     },
     {
-      "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh oh, Jensen!",
+      "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
       "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "published_at": "2026-11-13T18:40:30.000Z",
       "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
@@ -1164,51 +1196,6 @@
         "TC",
         "ElevenLabs",
         "granola"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Ivan Mehta"
-    },
-    {
-      "title": "Microsoft&#8217;s latest email outage turned into a full-blown global cloud crisis",
-      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-      "published_at": "2026-11-13T13:15:20.000Z",
-      "description": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
-      "tags": [
-        "Apps",
-        "Security",
-        "email",
-        "In Brief",
-        "Microsoft"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil",
-      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-      "published_at": "2026-11-13T12:52:19.000Z",
-      "description": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-      "tags": [
-        "AI",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Anna Heim"
-    },
-    {
-      "title": "Jensen Huang didn&#8217;t show confidence in his successor, report says",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-      "published_at": "2026-11-13T12:28:23.000Z",
-      "description": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-      "tags": [
-        "AI",
-        "In Brief",
-        "Jensen Huang",
-        "nvidia"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -1452,7 +1439,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "yetone"
     },
     {
@@ -1467,7 +1454,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 315,
       "user": "op7418"
     },
     {
@@ -1482,7 +1469,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 307,
       "user": "threerocks"
     },
     {
@@ -1527,14 +1514,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1344,
       "user": "agentes-chat"
     },
     {
-      "title": "FrigadeHQ/yogurt - Private AI meeting notes. Free and open source.",
+      "title": "FrigadeHQ/yogurt - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "url": "https://github.com/FrigadeHQ/yogurt",
       "published_at": "2026-11-10T20:01:01Z",
-      "description": "Private AI meeting notes. Free and open source.",
+      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "tags": [
         "typescript",
         "github",
@@ -1542,8 +1529,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117952255?v=4",
       "source": "GitHub",
-      "stars": 1244,
+      "stars": 1279,
       "user": "FrigadeHQ"
+    },
+    {
+      "title": "deepseek-ai/chat-demo - Chat Demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "published_at": "2026-11-12T08:08:19Z",
+      "description": "Chat Demo",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "source": "GitHub",
+      "stars": 781,
+      "user": "deepseek-ai"
     },
     {
       "title": "alexeyw/lot-map - A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
@@ -1557,7 +1559,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1450804?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 738,
       "user": "alexeyw"
     },
     {
@@ -1572,29 +1574,28 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112489039?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 662,
       "user": "JDhruv14"
     },
     {
-      "title": "deepseek-ai/chat-demo - Chat Demo",
-      "url": "https://github.com/deepseek-ai/chat-demo",
-      "published_at": "2026-11-12T08:08:19Z",
-      "description": "Chat Demo",
+      "title": "How to make a Genre/Format Filter for Portfolio Website",
+      "url": "https://stackoverflow.com/questions/80016569/how-to-make-a-genre-format-filter-for-portfolio-website",
+      "published_at": "2026-11-13T22:27:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
       "tags": [
-        "typescript",
-        "github",
-        "open-source"
+        "javascript",
+        "html",
+        "css"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 598,
-      "user": "deepseek-ai"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shinikage"
     },
     {
       "title": "If you put a fat arrow or function inside an alert, prompt, or confirm, will it return it as a string?",
       "url": "https://stackoverflow.com/questions/80016502/if-you-put-a-fat-arrow-or-function-inside-an-alert-prompt-or-confirm-will-it",
       "published_at": "2026-11-13T14:34:03.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "javascript",
         "confirm"
@@ -1672,20 +1673,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "farinspace"
-    },
-    {
-      "title": "My firefox extension does NOT automatically start when I start my browser, don't know why",
-      "url": "https://stackoverflow.com/questions/79931992/my-firefox-extension-does-not-automatically-start-when-i-start-my-browser-dont",
-      "published_at": "2026-04-26T08:50:01.000Z",
-      "description": "Stack Overflow question · 1 answers · score 1",
-      "tags": [
-        "javascript",
-        "firefox",
-        "firefox-addon"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "I like computers "
     },
     {
       "title": "Disable scrolling on `<input type=number>`",
@@ -1953,53 +1940,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10053058?v=4",
       "source": "GitHub",
-      "stars": 1430,
+      "stars": 1439,
       "user": "HybridRobotics"
     },
     {
-      "title": "Th0rgal/satmux - Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-      "url": "https://github.com/Th0rgal/satmux",
-      "published_at": "2026-11-07T16:09:41Z",
-      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "title": "Robbyant/lingbot-touch - Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "url": "https://github.com/Robbyant/lingbot-touch",
+      "published_at": "2026-11-09T09:02:29Z",
+      "description": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1073,
-      "user": "Th0rgal"
-    },
-    {
-      "title": "Goblinmine/homelab-diagram - Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
-      "url": "https://github.com/Goblinmine/homelab-diagram",
-      "published_at": "2026-11-07T12:45:46Z",
-      "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/113011860?v=4",
-      "source": "GitHub",
-      "stars": 978,
-      "user": "Goblinmine"
-    },
-    {
-      "title": "lxe/phoneuse - See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "url": "https://github.com/lxe/phoneuse",
-      "published_at": "2026-11-07T01:28:30Z",
-      "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
-      "source": "GitHub",
-      "stars": 648,
-      "user": "lxe"
+      "stars": 494,
+      "user": "Robbyant"
     },
     {
       "title": "Dodaios/ste80-humanizer - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
@@ -2013,8 +1970,50 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 490,
       "user": "Dodaios"
+    },
+    {
+      "title": "lizTheDeveloper/flyover-scrub - Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
+      "url": "https://github.com/lizTheDeveloper/flyover-scrub",
+      "published_at": "2026-11-08T01:33:12Z",
+      "description": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/915684?v=4",
+      "source": "GitHub",
+      "stars": 354,
+      "user": "lizTheDeveloper"
+    },
+    {
+      "title": "MiniMax-AI/MiniMax-H3-Image - MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+      "published_at": "2026-11-09T17:11:00Z",
+      "description": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
+      "source": "GitHub",
+      "stars": 341,
+      "user": "MiniMax-AI"
+    },
+    {
+      "title": "Why is there an error specifically on the true part?",
+      "url": "https://stackoverflow.com/questions/80016574/why-is-there-an-error-specifically-on-the-true-part",
+      "published_at": "2026-11-13T22:55:03.000Z",
+      "description": "Stack Overflow question · 2 answers · score -5",
+      "tags": [
+        "python"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Jonh Smith"
     },
     {
       "title": "Keycloak Introspection Requests all return \"active: false\" for valid tokens",
@@ -2048,7 +2047,7 @@
       "title": "Converting MATLAB code to Python show different output",
       "url": "https://stackoverflow.com/questions/80016443/converting-matlab-code-to-python-show-different-output",
       "published_at": "2026-11-13T08:48:37.000Z",
-      "description": "Stack Overflow question · 1 answers · score -1",
+      "description": "Stack Overflow question · 1 answers · score -3",
       "tags": [
         "python",
         "numpy",
@@ -2092,7 +2091,7 @@
       "title": "Why is there a list broadcasting error when using \"+=\" but not when using \"__iadd__\"?",
       "url": "https://stackoverflow.com/questions/80016150/why-is-there-a-list-broadcasting-error-when-using-but-not-when-using-iad",
       "published_at": "2026-11-12T02:57:44.000Z",
-      "description": "Stack Overflow question · 2 answers · score 13",
+      "description": "Stack Overflow question · 1 answers · score 14",
       "tags": [
         "python",
         "numpy",
@@ -2107,7 +2106,7 @@
       "title": "How do I iterate and count vowels in a string?",
       "url": "https://stackoverflow.com/questions/80016348/how-do-i-iterate-and-count-vowels-in-a-string",
       "published_at": "2026-11-12T18:53:45.000Z",
-      "description": "Stack Overflow question · 4 answers · score -7",
+      "description": "Stack Overflow question · 4 answers · score -8",
       "tags": [
         "python"
       ],
@@ -2119,7 +2118,7 @@
       "title": "PyAudio fails to build in MSYS2: \"gcc: error: /MT: linker input file not found\"",
       "url": "https://stackoverflow.com/questions/80016410/pyaudio-fails-to-build-in-msys2-gcc-error-mt-linker-input-file-not-found",
       "published_at": "2026-11-13T05:18:32.000Z",
-      "description": "Stack Overflow question · 1 answers · score -3",
+      "description": "Stack Overflow question · 1 answers · score -4",
       "tags": [
         "python",
         "mingw-w64",
@@ -2145,20 +2144,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "erfan safarali"
-    },
-    {
-      "title": "Does sys.set_lazy_imports() accept 'none'?",
-      "url": "https://stackoverflow.com/questions/80016148/does-sys-set-lazy-imports-accept-none",
-      "published_at": "2026-11-12T02:40:07.000Z",
-      "description": "Stack Overflow question · 2 answers · score 3",
-      "tags": [
-        "python",
-        "python-import",
-        "lazy-loading"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "JadenV15"
     },
     {
       "title": "Schema Drift vs. Semantic Drift in Data Pipelines",
@@ -2384,7 +2369,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1344,
       "user": "agentes-chat"
     }
   ],
@@ -2428,8 +2413,22 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 315,
       "user": "op7418"
+    },
+    {
+      "title": "How to make a Genre/Format Filter for Portfolio Website",
+      "url": "https://stackoverflow.com/questions/80016569/how-to-make-a-genre-format-filter-for-portfolio-website",
+      "published_at": "2026-11-13T22:27:56.000Z",
+      "description": "Stack Overflow question · 0 answers · score -2",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Shinikage"
     },
     {
       "title": "Disable scrolling on `<input type=number>`",
@@ -2534,23 +2533,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 490,
       "user": "Dodaios"
-    },
-    {
-      "title": "21stware/bowel - Bowel is a mihomo client for macOS, Windows, Linux and Android.",
-      "url": "https://github.com/21stware/bowel",
-      "published_at": "2026-11-07T17:45:52Z",
-      "description": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/291497202?v=4",
-      "source": "GitHub",
-      "stars": 478,
-      "user": "21stware"
     },
     {
       "title": "GiroCrab/GiroCrab - Native macOS & iOS open-source banking app (FinTS/HBCI, PSD2, SEPA, MoneyMoney import) built with Rust & SwiftUI. Local SQLCipher vault, no subscription, no cloud.",
@@ -2564,7 +2548,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 230,
       "user": "GiroCrab"
     },
     {
@@ -2614,20 +2598,6 @@
       "user": "Caleb Duff"
     },
     {
-      "title": "Muse Wonder, Muse Spark 1.3, and Muse Ember are now available on Google Cloud in public preview",
-      "url": "https://dev.to/googleai/muse-wonder-muse-spark-13-and-muse-ember-are-now-available-on-google-cloud-in-public-preview-5e6j",
-      "published_at": "2026-11-12T18:53:24Z",
-      "description": "Muse Wonder, Muse Spark 1.3 and Muse Ember are now publicly available on Google Cloud.   Deploy...",
-      "tags": [
-        "muse",
-        "ai",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fakp3axtfuny4oy2ogkbm.png",
-      "source": "Dev.to",
-      "user": "Jen Harvey"
-    },
-    {
       "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
       "url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5",
       "published_at": "2026-11-11T14:00:00Z",
@@ -2669,6 +2639,20 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog04_cover_webauthn_passkeys_rotating_qr.png%3Fv%3D2",
       "source": "Dev.to",
       "user": "Cyrus Wong"
+    },
+    {
+      "title": "Muse Wonder, Muse Spark 1.3, and Muse Ember are now available on Google Cloud in public preview",
+      "url": "https://dev.to/googleai/muse-wonder-muse-spark-13-and-muse-ember-are-now-available-on-google-cloud-in-public-preview-5e6j",
+      "published_at": "2026-11-12T18:53:24Z",
+      "description": "Muse Wonder, Muse Spark 1.3 and Muse Ember are now publicly available on Google Cloud.   Deploy...",
+      "tags": [
+        "muse",
+        "ai",
+        "googlecloud"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fakp3axtfuny4oy2ogkbm.png",
+      "source": "Dev.to",
+      "user": "Jen Harvey"
     },
     {
       "title": "Six Serving Engines on One Tesla T4: Gemma 4 E2B on a Turing GPU",
@@ -2785,8 +2769,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 230,
       "user": "GiroCrab"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "published_at": "2026-11-13T22:43:00.000Z",
+      "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "tags": [
+        "AI",
+        "Startups",
+        "Venture",
+        "Jensen Huang",
+        "neocloud"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Marina Temkin, Dominic-Madori Davis"
     },
     {
       "title": "Uber confirms hackers stole thousands of drivers&#8217; license information in data breach",
@@ -2799,22 +2799,6 @@
         "cyberattack",
         "cybersecurity",
         "data breach"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Microsoft&#8217;s latest email outage turned into a full-blown global cloud crisis",
-      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-      "published_at": "2026-11-13T13:15:20.000Z",
-      "description": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
-      "tags": [
-        "Apps",
-        "Security",
-        "email",
-        "In Brief",
-        "Microsoft"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -2862,7 +2846,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 230,
       "user": "GiroCrab"
     },
     {
@@ -3087,8 +3071,20 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93018630?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 332,
       "user": "failsafe-security"
+    },
+    {
+      "title": "Someone's impersonating this blog",
+      "url": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+      "published_at": "2026-11-13T14:39:53.682-06:00",
+      "description": "Lobste.rs Discussion",
+      "tags": [
+        "security"
+      ],
+      "cover_image": null,
+      "source": "Lobste.rs",
+      "user": "classichasclass"
     },
     {
       "title": "Keycloak Introspection Requests all return \"active: false\" for valid tokens",
@@ -3122,6 +3118,22 @@
       "user": "ZEESHAN "
     },
     {
+      "title": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances&#8217;",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "published_at": "2026-11-13T21:44:38.000Z",
+      "description": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+      "tags": [
+        "Security",
+        "Transportation",
+        "Airlines",
+        "Federal Aviation Administration",
+        "In Brief"
+      ],
+      "cover_image": null,
+      "source": "TechCrunch",
+      "user": "Zack Whittaker"
+    },
+    {
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "published_at": "2026-11-13T15:58:00.000Z",
@@ -3148,22 +3160,6 @@
         "cyberattack",
         "cybersecurity",
         "data breach"
-      ],
-      "cover_image": null,
-      "source": "TechCrunch",
-      "user": "Zack Whittaker"
-    },
-    {
-      "title": "Microsoft&#8217;s latest email outage turned into a full-blown global cloud crisis",
-      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-      "published_at": "2026-11-13T13:15:20.000Z",
-      "description": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
-      "tags": [
-        "Apps",
-        "Security",
-        "email",
-        "In Brief",
-        "Microsoft"
       ],
       "cover_image": null,
       "source": "TechCrunch",
@@ -3320,6 +3316,21 @@
       "user": "xbill"
     },
     {
+      "title": "When the Coding Agent Says It Is Done",
+      "url": "https://dev.to/dailycontext/when-the-coding-agent-says-it-is-done-4mjj",
+      "published_at": "2026-11-11T01:51:03Z",
+      "description": "The work should be easy to verify and continue after the conversation ends.  An agent changes the...",
+      "tags": [
+        "ai",
+        "agents",
+        "testing",
+        "softwareengineering"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzozsdvfcmvinbzmngya0.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3367,7 +3378,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 410,
+      "stars": 411,
       "user": "yetone"
     },
     {
@@ -3382,7 +3393,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 315,
       "user": "op7418"
     },
     {
@@ -3397,7 +3408,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 304,
+      "stars": 307,
       "user": "threerocks"
     },
     {
@@ -3442,53 +3453,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10053058?v=4",
       "source": "GitHub",
-      "stars": 1430,
+      "stars": 1439,
       "user": "HybridRobotics"
     },
     {
-      "title": "Th0rgal/satmux - Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-      "url": "https://github.com/Th0rgal/satmux",
-      "published_at": "2026-11-07T16:09:41Z",
-      "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "title": "Robbyant/lingbot-touch - Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "url": "https://github.com/Robbyant/lingbot-touch",
+      "published_at": "2026-11-09T09:02:29Z",
+      "description": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/41830259?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 1073,
-      "user": "Th0rgal"
-    },
-    {
-      "title": "Goblinmine/homelab-diagram - Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
-      "url": "https://github.com/Goblinmine/homelab-diagram",
-      "published_at": "2026-11-07T12:45:46Z",
-      "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/113011860?v=4",
-      "source": "GitHub",
-      "stars": 978,
-      "user": "Goblinmine"
-    },
-    {
-      "title": "lxe/phoneuse - See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "url": "https://github.com/lxe/phoneuse",
-      "published_at": "2026-11-07T01:28:30Z",
-      "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "tags": [
-        "python",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/1486609?v=4",
-      "source": "GitHub",
-      "stars": 648,
-      "user": "lxe"
+      "stars": 494,
+      "user": "Robbyant"
     },
     {
       "title": "Dodaios/ste80-humanizer - STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
@@ -3502,8 +3483,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
       "source": "GitHub",
-      "stars": 488,
+      "stars": 490,
       "user": "Dodaios"
+    },
+    {
+      "title": "lizTheDeveloper/flyover-scrub - Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
+      "url": "https://github.com/lizTheDeveloper/flyover-scrub",
+      "published_at": "2026-11-08T01:33:12Z",
+      "description": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/915684?v=4",
+      "source": "GitHub",
+      "stars": 354,
+      "user": "lizTheDeveloper"
+    },
+    {
+      "title": "MiniMax-AI/MiniMax-H3-Image - MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+      "published_at": "2026-11-09T17:11:00Z",
+      "description": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
+      "tags": [
+        "python",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/194880281?v=4",
+      "source": "GitHub",
+      "stars": 341,
+      "user": "MiniMax-AI"
     },
     {
       "title": "HolyArrs/HolyArrs - One self-hosted app for your shows, movies and music.",
@@ -3517,38 +3528,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348458842?v=4",
       "source": "GitHub",
-      "stars": 1092,
+      "stars": 1103,
       "user": "HolyArrs"
-    },
-    {
-      "title": "21stware/bowel - Bowel is a mihomo client for macOS, Windows, Linux and Android.",
-      "url": "https://github.com/21stware/bowel",
-      "published_at": "2026-11-07T17:45:52Z",
-      "description": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/291497202?v=4",
-      "source": "GitHub",
-      "stars": 478,
-      "user": "21stware"
-    },
-    {
-      "title": "TooonyChen/finallyshell - 类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
-      "url": "https://github.com/TooonyChen/finallyshell",
-      "published_at": "2026-11-07T00:34:42Z",
-      "description": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
-      "tags": [
-        "go",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/26252739?v=4",
-      "source": "GitHub",
-      "stars": 471,
-      "user": "TooonyChen"
     },
     {
       "title": "djyde/dalibre - A lightweight Calibre alternative",
@@ -3577,8 +3558,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93018630?v=4",
       "source": "GitHub",
-      "stars": 317,
+      "stars": 332,
       "user": "failsafe-security"
+    },
+    {
+      "title": "lobehub/lobe-mygo - 🍭 Lobe MyGo - the UI kit for native Go apps: Lobe UI design language for MyGo, drawn on the GPU in pure Go",
+      "url": "https://github.com/lobehub/lobe-mygo",
+      "published_at": "2026-11-08T12:24:46Z",
+      "description": "🍭 Lobe MyGo - the UI kit for native Go apps: Lobe UI design language for MyGo, drawn on the GPU in pure Go",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/131470832?v=4",
+      "source": "GitHub",
+      "stars": 242,
+      "user": "lobehub"
+    },
+    {
+      "title": "ValidatorStack/solana-vigil - Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys.",
+      "url": "https://github.com/ValidatorStack/solana-vigil",
+      "published_at": "2026-11-10T15:47:25Z",
+      "description": "Solana validator health in 60 seconds: score, leader duties, rewards, disk forecast, Prometheus. One static binary, read-only, never touches your keys.",
+      "tags": [
+        "go",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/253646803?v=4",
+      "source": "GitHub",
+      "stars": 230,
+      "user": "ValidatorStack"
     },
     {
       "title": "agentes-chat/agentes-chat - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
@@ -3592,14 +3603,14 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
       "source": "GitHub",
-      "stars": 1330,
+      "stars": 1344,
       "user": "agentes-chat"
     },
     {
-      "title": "FrigadeHQ/yogurt - Private AI meeting notes. Free and open source.",
+      "title": "FrigadeHQ/yogurt - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "url": "https://github.com/FrigadeHQ/yogurt",
       "published_at": "2026-11-10T20:01:01Z",
-      "description": "Private AI meeting notes. Free and open source.",
+      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "tags": [
         "typescript",
         "github",
@@ -3607,8 +3618,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117952255?v=4",
       "source": "GitHub",
-      "stars": 1244,
+      "stars": 1279,
       "user": "FrigadeHQ"
+    },
+    {
+      "title": "deepseek-ai/chat-demo - Chat Demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "published_at": "2026-11-12T08:08:19Z",
+      "description": "Chat Demo",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "source": "GitHub",
+      "stars": 781,
+      "user": "deepseek-ai"
     },
     {
       "title": "alexeyw/lot-map - A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
@@ -3622,7 +3648,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1450804?v=4",
       "source": "GitHub",
-      "stars": 721,
+      "stars": 738,
       "user": "alexeyw"
     },
     {
@@ -3637,23 +3663,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112489039?v=4",
       "source": "GitHub",
-      "stars": 654,
+      "stars": 662,
       "user": "JDhruv14"
-    },
-    {
-      "title": "deepseek-ai/chat-demo - Chat Demo",
-      "url": "https://github.com/deepseek-ai/chat-demo",
-      "published_at": "2026-11-12T08:08:19Z",
-      "description": "Chat Demo",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "source": "GitHub",
-      "stars": 598,
-      "user": "deepseek-ai"
     },
     {
       "title": "makepad/relax - Relax Rust JIT",
@@ -3667,7 +3678,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20386338?v=4",
       "source": "GitHub",
-      "stars": 462,
+      "stars": 484,
       "user": "makepad"
     },
     {
@@ -3686,19 +3697,19 @@
       "user": "BeeCaptivate"
     },
     {
-      "title": "bea4dev/shoji-bar-4 - A Wayland shell with Material Design 3 Expressive, written in Rust",
-      "url": "https://github.com/bea4dev/shoji-bar-4",
-      "published_at": "2026-11-10T06:58:11Z",
-      "description": "A Wayland shell with Material Design 3 Expressive, written in Rust",
+      "title": "quer3q/kraken-mount - Minimalist PS5 game mounter supporting PKG, folder dumps, lz4, and zstd",
+      "url": "https://github.com/quer3q/kraken-mount",
+      "published_at": "2026-11-13T07:25:37Z",
+      "description": "Minimalist PS5 game mounter supporting PKG, folder dumps, lz4, and zstd",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34712108?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/63728788?v=4",
       "source": "GitHub",
-      "stars": 224,
-      "user": "bea4dev"
+      "stars": 238,
+      "user": "quer3q"
     },
     {
       "title": "GiroCrab/GiroCrab - Native macOS & iOS open-source banking app (FinTS/HBCI, PSD2, SEPA, MoneyMoney import) built with Rust & SwiftUI. Local SQLCipher vault, no subscription, no cloud.",
@@ -3712,23 +3723,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
       "source": "GitHub",
-      "stars": 222,
+      "stars": 230,
       "user": "GiroCrab"
     },
     {
-      "title": "quer3q/kraken-mount - Minimalist PS5 game mounter supporting PKG, folder dumps, lz4, and zstd",
-      "url": "https://github.com/quer3q/kraken-mount",
-      "published_at": "2026-11-13T07:25:37Z",
-      "description": "Minimalist PS5 game mounter supporting PKG, folder dumps, lz4, and zstd",
+      "title": "bea4dev/shoji-bar-4 - A Wayland shell with Material Design 3 Expressive, written in Rust",
+      "url": "https://github.com/bea4dev/shoji-bar-4",
+      "published_at": "2026-11-10T06:58:11Z",
+      "description": "A Wayland shell with Material Design 3 Expressive, written in Rust",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/63728788?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/34712108?v=4",
       "source": "GitHub",
-      "stars": 203,
-      "user": "quer3q"
+      "stars": 224,
+      "user": "bea4dev"
     },
     {
       "title": "Beating the frontier on NetHack",

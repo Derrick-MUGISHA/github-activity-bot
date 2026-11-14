@@ -8,7 +8,7 @@
 ![Total Articles](https://img.shields.io/badge/Articles-184-2ea44f?style=flat-square)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-9-blueviolet?style=flat-square)
-![Last Update](https://img.shields.io/badge/Updated-2026--11--13-orange?style=flat-square)
+![Last Update](https://img.shields.io/badge/Updated-2026--11--14-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.com) · [GitHub Trending](https://github.com/trending) · [Lobste.rs](https://lobste.rs) · [Stack Overflow](https://stackoverflow.com) · [TechCrunch](https://techcrunch.com) · [freeCodeCamp](https://www.freecodecamp.org/news) — refreshed by GitHub Actions around the clock.
@@ -21,7 +21,7 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 ## 📰 Latest Headlines
 
-> 🕐 Edition of **2026-11-13 23:00 CAT** — refreshed automatically, all day, every day.
+> 🕐 Edition of **2026-11-14 3:00 CAT** — refreshed automatically, all day, every day.
 
 ### ✨ Featured Stories
 
@@ -57,10 +57,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F08zci525gx05ca9bdff6.png" width="200" alt="How did you end up in tech, and are you staying?" />
+    <a href="https://dev.to/gde/cant-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-page-and-an-adk-agent-c5b">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Ftokenlab-free%2Fdevto-cover.aff96a99.jpg" width="200" alt="Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent" />
       <br/>
-      <b>How did you end up in tech, and are you staying?</b>
+      <b>Can't Beat Free: Gemma 4 31B on AMD Token Lab, wit...</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -75,10 +75,10 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
     <sub>Dev.to</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://dev.to/gde/cant-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-page-and-an-adk-agent-c5b">
-      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Ftokenlab-free%2Fdevto-cover.aff96a99.jpg" width="200" alt="Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent" />
+    <a href="https://dev.to/gde/scope-webmcp-tools-to-the-open-react-workflow-262o">
+      <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8ukmm68nr5ws1x9u0s8c.jpg" width="200" alt="Scope WebMCP Tools to the Open React Workflow" />
       <br/>
-      <b>Can't Beat Free: Gemma 4 31B on AMD Token Lab, wit...</b>
+      <b>Scope WebMCP Tools to the Open React Workflow</b>
     </a>
     <br/>
     <sub>Dev.to</sub>
@@ -95,25 +95,25 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 | 1 | [Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!](https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok) | Dev.to |
 | 2 | [Long Live Rails](https://dev.to/ben/long-live-rails-3p21) | Dev.to |
 | 3 | [Ultimate AI Roast! 😂😹](https://dev.to/annavi11arrea1/ultimate-ai-roast-168b) | Dev.to |
-| 4 | [How did you end up in tech, and are you staying?](https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b) | Dev.to |
+| 4 | [Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent](https://dev.to/gde/cant-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-page-and-an-adk-agent-c5b) | Dev.to |
 | 5 | [Six Serving Engines on Four Accelerators: Gemma 4 E2B on an RTX 3050, a T4, an L4 and a TPU v5e](https://dev.to/gde/six-serving-engines-on-four-accelerators-gemma-4-e2b-on-an-rtx-3050-a-t4-an-l4-and-a-tpu-v5e-1a0e) | Dev.to |
-| 6 | [Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent](https://dev.to/gde/cant-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-page-and-an-adk-agent-c5b) | Dev.to |
-| 7 | [Scope WebMCP Tools to the Open React Workflow](https://dev.to/gde/scope-webmcp-tools-to-the-open-react-workflow-262o) | Dev.to |
-| 8 | [Make the most of your hackathon](https://dev.to/thisisryanswift/make-the-most-of-your-hackathon-3914) | Dev.to |
-| 9 | [Keeping a software factory stable at 1,000 PRs a week](https://dev.to/dailycontext/keeping-a-software-factory-stable-at-1000-prs-a-week-363j) | Dev.to |
-| 10 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-4j49) | Dev.to |
-| 11 | [From Prompt to Production: Building a Serverless Cloud Pipeline with Google Antigravity](https://dev.to/gdg/from-prompt-to-production-building-a-serverless-cloud-pipeline-with-google-antigravity-264l) | Dev.to |
-| 12 | [️🎞️ What is native multimodality?](https://dev.to/googlecloud/what-is-native-multimodality-3091) | Dev.to |
-| 13 | [The Jev Revolution: What Engineers Are Already Building with System One Models](https://dev.to/ricmac/the-jev-revolution-what-engineers-are-already-building-with-system-one-models-12p3) | Dev.to |
-| 14 | [Refactor or Rot: Designing a Self-Improving Codebase](https://dev.to/jacob_prall_1c6bff06b0e0d/refactor-or-rot-designing-a-self-improving-codebase-22ak) | Dev.to |
-| 15 | [AI Has Changed the Economics of Hacking: What Changes for Businesses After Black October](https://dev.to/dailycontext/ai-has-changed-the-economics-of-hacking-what-changes-for-businesses-after-black-october-5h4c) | Dev.to |
-| 16 | [The Harness Doesn't Matter](https://dev.to/kartik_sarangmath/the-harness-doesnt-matter-4ggb) | Dev.to |
-| 17 | [AI Coding Agents Need to Keep Their Promises](https://dev.to/jmccarthy/ai-coding-agents-need-to-keep-their-promises-2nhh) | Dev.to |
+| 6 | [Scope WebMCP Tools to the Open React Workflow](https://dev.to/gde/scope-webmcp-tools-to-the-open-react-workflow-262o) | Dev.to |
+| 7 | [Make the most of your hackathon](https://dev.to/thisisryanswift/make-the-most-of-your-hackathon-3914) | Dev.to |
+| 8 | [Keeping a software factory stable at 1,000 PRs a week](https://dev.to/dailycontext/keeping-a-software-factory-stable-at-1000-prs-a-week-363j) | Dev.to |
+| 9 | [From Prompt to Production: Building a Serverless Cloud Pipeline with Google Antigravity](https://dev.to/gdg/from-prompt-to-production-building-a-serverless-cloud-pipeline-with-google-antigravity-264l) | Dev.to |
+| 10 | [️🎞️ What is native multimodality?](https://dev.to/googlecloud/what-is-native-multimodality-3091) | Dev.to |
+| 11 | [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-4j49) | Dev.to |
+| 12 | [The Jev Revolution: What Engineers Are Already Building with System One Models](https://dev.to/ricmac/the-jev-revolution-what-engineers-are-already-building-with-system-one-models-12p3) | Dev.to |
+| 13 | [Refactor or Rot: Designing a Self-Improving Codebase](https://dev.to/jacob_prall_1c6bff06b0e0d/refactor-or-rot-designing-a-self-improving-codebase-22ak) | Dev.to |
+| 14 | [AI Has Changed the Economics of Hacking: What Changes for Businesses After Black October](https://dev.to/dailycontext/ai-has-changed-the-economics-of-hacking-what-changes-for-businesses-after-black-october-5h4c) | Dev.to |
+| 15 | [The Harness Doesn't Matter](https://dev.to/kartik_sarangmath/the-harness-doesnt-matter-4ggb) | Dev.to |
+| 16 | [AI Coding Agents Need to Keep Their Promises](https://dev.to/jmccarthy/ai-coding-agents-need-to-keep-their-promises-2nhh) | Dev.to |
+| 17 | [How did you end up in tech, and are you staying?](https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b) | Dev.to |
 | 18 | [Can you merge at agent speed?](https://blog.mlh.com/can-you-merge-at-agent-speed-4m67) | Dev.to |
 | 19 | [Why We Built an MCP Server for AI Founders’ Go to Market](https://dev.to/tedcarstensen/why-we-built-an-mcp-server-for-ai-founders-go-to-market-4hge) | Dev.to |
 | 20 | [Nvidia Says Its Roadmap Will Continue. AI Teams Should Verify the Dependencies](https://dev.to/jamilxt/nvidia-says-its-roadmap-will-continue-ai-teams-should-verify-the-dependencies-3c8d) | Dev.to |
 
-<sub>Last fetched: Fri, 13 Nov 2026 23:37:26 CAT</sub>
+<sub>Last fetched: Sat, 14 Nov 2026 03:48:18 CAT</sub>
 
 
 ---
@@ -122,36 +122,36 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 > Sharpen your skills — new questions selected on every update. Try answering before opening the hint!
 
-**1. `Python` — Explain GIL and its implications for multithreading**
+**1. `DataStructures` — Find the median of two sorted arrays**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 concurrency, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Hard · 🏷 arrays, binary search
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> Global Interpreter Lock, multiprocessing alternatives
+> Binary search, partition, time complexity O(log(min(m,n)))
 
 </details>
 
-**2. `Database` — Explain database indexing and when to use it**
+**2. `Python` — What is the difference between list and tuple in Python?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 optimization, performance
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Easy · 🏷 data structures, mutability
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> B-tree, trade-offs, query performance
+> Mutability, performance, use cases
 
 </details>
 
-**3. `NodeJS` — How do you handle errors in async/await?**
+**3. `Java` — What are Java Streams and how do they work?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 error handling, async
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Medium · 🏷 functional programming, collections
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;💡 Show hint</summary>
 
-> try/catch, .catch(), error middleware
+> Lazy evaluation, pipeline, terminal operations
 
 </details>
 
@@ -164,15 +164,15 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 
 | Category | Articles | Share | |
 |----------|---------:|------:|---|
-| **AI** | 88 | 47.8% | `████████████████████` |
-| **Tools** | 45 | 24.5% | `██████████░░░░░░░░░░` |
-| **JavaScript** | 37 | 20.1% | `████████░░░░░░░░░░░░` |
+| **AI** | 87 | 47.3% | `████████████████████` |
+| **Tools** | 46 | 25.0% | `███████████░░░░░░░░░` |
+| **JavaScript** | 37 | 20.1% | `█████████░░░░░░░░░░░` |
 | **Python** | 28 | 15.2% | `██████░░░░░░░░░░░░░░` |
-| **Security** | 21 | 11.4% | `█████░░░░░░░░░░░░░░░` |
+| **Security** | 22 | 12.0% | `█████░░░░░░░░░░░░░░░` |
 | **DevOps** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
 | **Cloud** | 16 | 8.7% | `████░░░░░░░░░░░░░░░░` |
-| **WebDev** | 8 | 4.3% | `██░░░░░░░░░░░░░░░░░░` |
-| **Mobile** | 6 | 3.3% | `█░░░░░░░░░░░░░░░░░░░` |
+| **WebDev** | 9 | 4.9% | `██░░░░░░░░░░░░░░░░░░` |
+| **Mobile** | 5 | 2.7% | `█░░░░░░░░░░░░░░░░░░░` |
 | **Database** | 4 | 2.2% | `█░░░░░░░░░░░░░░░░░░░` |
 
 <sub>Articles can match more than one category, so shares may sum to over 100%.</sub>
@@ -194,14 +194,14 @@ Aggregating [Dev.to](https://dev.to) · [Hacker News](https://news.ycombinator.c
 #### 💻 Programming Language Trends
 
 ```
-JavaScript      ██████████████████████████████ 25.9%
-Go              ██████████████████████████ 22.4%
-Python          ███████████████████████ 19.6%
-Java            ██████████████████████ 18.9%
-Rust            ██████████ 8.4%
+JavaScript      ██████████████████████████████ 26.1%
+Go              ██████████████████████████ 22.5%
+Python          ███████████████████████ 19.7%
+Java            ██████████████████████ 19.0%
+Rust            ██████████ 8.5%
 Swift           ██ 2.1%
-Kotlin          ██ 1.4%
 Ruby            █ 0.7%
+Kotlin          █ 0.7%
 CSharp          █ 0.7%
 
 ```
@@ -214,14 +214,14 @@ pie title Programming Languages Distribution
     "Java" : 27
     "Rust" : 12
     "Swift" : 3
-    "Kotlin" : 2
     "Ruby" : 1
+    "Kotlin" : 1
 ```
 
 
 #### 🏷 Trending Topics
 
-![ai](https://img.shields.io/badge/ai-56-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-15-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-9-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-9-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) 
+![ai](https://img.shields.io/badge/ai-55-0969da?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-27-0969da?style=flat-square) ![python](https://img.shields.io/badge/python-26-0969da?style=flat-square) ![github](https://img.shields.io/badge/github-25-0969da?style=flat-square) ![open-source](https://img.shields.io/badge/open--source-25-0969da?style=flat-square) ![agents](https://img.shields.io/badge/agents-16-0969da?style=flat-square) ![Security](https://img.shields.io/badge/Security-12-0969da?style=flat-square) ![googlecloud](https://img.shields.io/badge/googlecloud-10-0969da?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-10-0969da?style=flat-square) ![rust](https://img.shields.io/badge/rust-9-0969da?style=flat-square) ![llm](https://img.shields.io/badge/llm-9-0969da?style=flat-square) ![gemini](https://img.shields.io/badge/gemini-8-0969da?style=flat-square) 
 
 
 ---
@@ -273,6 +273,6 @@ Released under the [MIT License](https://opensource.org/licenses/MIT) — free t
 ---
 
 <div align="center">
-  <sub>🤖 Last automated update: <b>Fri, 13 Nov 2026 21:37:26 GMT</b></sub><br/>
+  <sub>🤖 Last automated update: <b>Sat, 14 Nov 2026 01:48:18 GMT</b></sub><br/>
   <sub>Powered by GitHub Actions · Built with ❤️ by <a href="https://github.com/Derrick-MUGISHA">Derrick MUGISHA</a></sub>
 </div>
