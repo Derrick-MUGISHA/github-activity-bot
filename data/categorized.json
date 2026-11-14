@@ -31,21 +31,6 @@
       "user": "Ben Halpern"
     },
     {
-      "title": "Ultimate AI Roast! 😂😹",
-      "url": "https://dev.to/annavi11arrea1/ultimate-ai-roast-168b",
-      "published_at": "2026-11-12T04:55:27Z",
-      "description": "I asked my favorite AI to Roast me. Thanks @trickell for this idea.   You need to try this with your...",
-      "tags": [
-        "ai",
-        "webdev",
-        "claude",
-        "cli"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fksf61ch7njiwm3dnvck0.png",
-      "source": "Dev.to",
-      "user": "Anna Villarreal"
-    },
-    {
       "title": "Six Serving Engines on Four Accelerators: Gemma 4 E2B on an RTX 3050, a T4, an L4 and a TPU v5e",
       "url": "https://dev.to/gde/six-serving-engines-on-four-accelerators-gemma-4-e2b-on-an-rtx-3050-a-t4-an-l4-and-a-tpu-v5e-1a0e",
       "published_at": "2026-11-13T13:52:45Z",
@@ -76,6 +61,21 @@
       "user": "xbill"
     },
     {
+      "title": "Ultimate AI Roast! 😂😹",
+      "url": "https://dev.to/annavi11arrea1/ultimate-ai-roast-168b",
+      "published_at": "2026-11-12T04:55:27Z",
+      "description": "I asked my favorite AI to Roast me. Thanks @trickell for this idea.   You need to try this with your...",
+      "tags": [
+        "ai",
+        "webdev",
+        "claude",
+        "cli"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fksf61ch7njiwm3dnvck0.png",
+      "source": "Dev.to",
+      "user": "Anna Villarreal"
+    },
+    {
       "title": "Make the most of your hackathon",
       "url": "https://dev.to/thisisryanswift/make-the-most-of-your-hackathon-3914",
       "published_at": "2026-11-12T21:44:22Z",
@@ -87,21 +87,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7yth1ly3ad14rkxoywq4.png",
       "source": "Dev.to",
       "user": "Ryan Swift"
-    },
-    {
-      "title": "From Prompt to Production: Building a Serverless Cloud Pipeline with Google Antigravity",
-      "url": "https://dev.to/gdg/from-prompt-to-production-building-a-serverless-cloud-pipeline-with-google-antigravity-264l",
-      "published_at": "2026-11-13T12:39:27Z",
-      "description": "If you've watched an AI coding agent build a to-do app in two minutes, you've probably asked yourself...",
-      "tags": [
-        "ai",
-        "googlecloud",
-        "serverless",
-        "tutorial"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fykwev2zv5c83l8gtam7h.png",
-      "source": "Dev.to",
-      "user": "Caleb Duff"
     },
     {
       "title": "️🎞️ What is native multimodality?",
@@ -164,20 +149,6 @@
       "user": "Kartik Sarangmath"
     },
     {
-      "title": "AI Coding Agents Need to Keep Their Promises",
-      "url": "https://dev.to/jmccarthy/ai-coding-agents-need-to-keep-their-promises-2nhh",
-      "published_at": "2026-11-12T16:59:44Z",
-      "description": "At AIE CODE SUMMIT 2026, I introduced a notion of brownfield factories. I encourage you to watch the...",
-      "tags": [
-        "ai",
-        "agents",
-        "software"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F90ejc1upmd0uf7uoc8u5.png",
-      "source": "Dev.to",
-      "user": "Justin McCarthy"
-    },
-    {
       "title": "Can you merge at agent speed?",
       "url": "https://blog.mlh.com/can-you-merge-at-agent-speed-4m67",
       "published_at": "2026-11-12T17:40:59Z",
@@ -237,34 +208,19 @@
       "user": "Philipp Schmid"
     },
     {
-      "title": "Use your eval as a CI gate with Agents CLI",
-      "url": "https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1",
-      "published_at": "2026-11-11T18:15:10Z",
-      "description": "How to make a quality drop fail your build with agents-cli eval run and one threshold, for anyone who ships an agent from a pipeline.",
+      "title": "From Prompt to Production: Building a Serverless Cloud Pipeline with Google Antigravity",
+      "url": "https://dev.to/gdg/from-prompt-to-production-building-a-serverless-cloud-pipeline-with-google-antigravity-264l",
+      "published_at": "2026-11-13T12:39:27Z",
+      "description": "If you've watched an AI coding agent build a to-do app in two minutes, you've probably asked yourself...",
       "tags": [
         "ai",
-        "cicd",
-        "cli",
-        "testing"
+        "googlecloud",
+        "serverless",
+        "tutorial"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fpipeline.J1Pi-k71_1aTFBO.webp",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fykwev2zv5c83l8gtam7h.png",
       "source": "Dev.to",
-      "user": "Elia Secchi"
-    },
-    {
-      "title": "What It Actually Takes to Roll Out AI Across Netflix",
-      "url": "https://dev.to/dailycontext/what-it-actually-takes-to-roll-out-ai-across-netflix-18h8",
-      "published_at": "2026-11-12T01:22:47Z",
-      "description": "Most companies will never train a frontier model. Their AI work happens somewhere less visible: the...",
-      "tags": [
-        "ai",
-        "agenticai",
-        "netflix",
-        "agents"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo0fnu9gh0wnolafss85u.png",
-      "source": "Dev.to",
-      "user": "Kara Silverman"
+      "user": "Caleb Duff"
     },
     {
       "title": "Prompt Pad: What Are Tokens?",
@@ -280,36 +236,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftdwk6gu2yeiz5imuf1go.png",
       "source": "Dev.to",
       "user": "MLH Team"
-    },
-    {
-      "title": "Your Agent Needs a Schema, Not a Better Prompt",
-      "url": "https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm",
-      "published_at": "2026-11-11T20:51:14Z",
-      "description": "The failure nobody demos   The agent demo always works. The customer asks for a refund, the...",
-      "tags": [
-        "ai",
-        "agents",
-        "llm",
-        "architecture"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlonet5nfjfkf6d7m312.png",
-      "source": "Dev.to",
-      "user": "frank coyle"
-    },
-    {
-      "title": "AI Code Is Unmaintainable? So Is Ours.",
-      "url": "https://dev.to/dannwaneri/ai-code-is-unmaintainable-so-is-ours-3mek",
-      "published_at": "2026-11-11T15:59:00Z",
-      "description": "If you’ve been in the software industry for any length of time, you’ve probably heard people talking...",
-      "tags": [
-        "ai",
-        "programming",
-        "softwareengineering",
-        "discuss"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjh8nx84adsifberdyfi.jpg",
-      "source": "Dev.to",
-      "user": "Daniel Nwaneri"
     },
     {
       "title": "Prompt Pad: What Are Open-Weight Models?",
@@ -402,34 +328,33 @@
       "user": "MLH Team"
     },
     {
-      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
-      "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg",
-      "published_at": "2026-11-11T07:49:09Z",
-      "description": "Interactive Classroom Bingo comprehension checks and zero-trust proctored exam lockdown with forensic .docx dossiers on Google Cloud.",
+      "title": "AI Has Changed the Economics of Hacking: What Changes for Businesses After Black October",
+      "url": "https://dev.to/dailycontext/ai-has-changed-the-economics-of-hacking-what-changes-for-businesses-after-black-october-5h4c",
+      "published_at": "2026-11-12T21:46:52Z",
+      "description": "1. What has been happening?   October's wave of AI-enabled cybersecurity incidents have been...",
       "tags": [
-        "firebase",
-        "gamification",
-        "googlecloud",
-        "gemini"
+        "ai",
+        "security",
+        "opensource",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog09_cover_gamified_bingo_exam_mode.png%3Fv%3D2",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl66l7zkrt1a77i55spfl.png",
       "source": "Dev.to",
-      "user": "Cyrus Wong"
+      "user": "e52.ai"
     },
     {
-      "title": "Google AI Classroom Part 4: Defeating Proxy Attendance & Lab Keyloggers with WebAuthn Passkeys, Rotating HMAC QRs & GCIP Blocking Functions",
-      "url": "https://dev.to/gde/google-ai-classroom-part-4-defeating-proxy-attendance-lab-keyloggers-with-webauthn-passkeys-2gc0",
-      "published_at": "2026-11-10T07:25:07Z",
-      "description": "Verifiable classroom attendance and keylogger-proof proctored exam lab sign-in with FIDO2 WebAuthn Passkeys, 15s rotating HMAC QRs, and GCIP blocking hooks.",
+      "title": "AI Coding Agents Need to Keep Their Promises",
+      "url": "https://dev.to/jmccarthy/ai-coding-agents-need-to-keep-their-promises-2nhh",
+      "published_at": "2026-11-12T16:59:44Z",
+      "description": "At AIE CODE SUMMIT 2026, I introduced a notion of brownfield factories. I encourage you to watch the...",
       "tags": [
-        "security",
-        "passkeys",
-        "webauthn",
-        "googlecloud"
+        "ai",
+        "agents",
+        "software"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog04_cover_webauthn_passkeys_rotating_qr.png%3Fv%3D2",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F90ejc1upmd0uf7uoc8u5.png",
       "source": "Dev.to",
-      "user": "Cyrus Wong"
+      "user": "Justin McCarthy"
     },
     {
       "title": "Find the production agent failures that every health check misses",
@@ -535,63 +460,19 @@
       "user": "Jem"
     },
     {
-      "title": "Six Serving Engines on One Tesla T4: Gemma 4 E2B on a Turing GPU",
-      "url": "https://dev.to/gde/six-serving-engines-on-one-tesla-t4-gemma-4-e2b-on-a-turing-gpu-3a6i",
-      "published_at": "2026-11-11T23:27:42Z",
-      "description": "llama.cpp, vLLM, SGLang, mistral.rs, a plain PyTorch engine and LiteRT-LM serve the same 4-bit Gemma 4 E2B on one 16 GB Tesla T4 on Compute Engine, with the same prompts, load sweep and GSM8K and BFCL questions. GSM8K and BFCL are level on every CUDA engine; vLLM with its drafter leads at every load.",
-      "tags": [
-        "gemma",
-        "vllm",
-        "googlecloud",
-        "nvidia"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-t4%2Fdevto-cover.7b22d2e5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
-      "url": "https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn",
-      "published_at": "2026-11-11T08:21:46Z",
-      "description": "Green AI FinOps, automated storage lifecycle policies, and 1-command Terraform IaC for multi-school teaching, grading, and proctored exam deployments.",
-      "tags": [
-        "finops",
-        "terraform",
-        "devops",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog10_cover_green_ai_finops_terraform.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
-      "title": "Google AI Classroom Part 8: AI Project Supervision — Streamlined Mobile 720p Demo, 2-Stage Diarization & Fake-Log Auditing with Gemini 4",
-      "url": "https://dev.to/gde/google-ai-classroom-part-8-ai-project-supervision-streamlined-mobile-720p-demo-2-stage-3h98",
-      "published_at": "2026-11-11T07:41:52Z",
-      "description": "Measuring authentic student performance in capstone projects with a mobile 720p demo studio, 2-stage diarization, and fake-log auditing using Gemini 4.",
+      "title": "Your Agent Needs a Schema, Not a Better Prompt",
+      "url": "https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm",
+      "published_at": "2026-11-11T20:51:14Z",
+      "description": "The failure nobody demos   The agent demo always works. The customer asks for a refund, the...",
       "tags": [
         "ai",
-        "firebase",
-        "gemini"
+        "agents",
+        "llm",
+        "architecture"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog08_cover_multimodal_capstone_supervision.png%3Fv%3D2",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlonet5nfjfkf6d7m312.png",
       "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
-      "title": "Google AI Classroom Part 6: Low-Bandwidth Classroom Screen Broadcasting & Single-Pass Whole-Lecture Subtitles with Gemini 4 Argon",
-      "url": "https://dev.to/gde/google-ai-classroom-part-6-low-bandwidth-classroom-screen-broadcasting-single-pass-whole-lecture-1k0l",
-      "published_at": "2026-11-11T01:27:06Z",
-      "description": "Scaling classroom screen broadcasting without WebRTC CPU collapse and compiling single-pass whole-lecture study subtitles with Gemini 4 Argon.",
-      "tags": [
-        "googlecloud",
-        "serverless",
-        "gemini",
-        "firebase"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog06_cover_scalable_screen_broadcast.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
+      "user": "frank coyle"
     },
     {
       "title": "[Agent Platform in Action (7)] When ADK Go Graph Workflow Meets Google Research Harness (Part 1): Two-Layer Recursive Agent Fram",
@@ -639,21 +520,6 @@
       "user": "Connie Leung"
     },
     {
-      "title": "Google AI Classroom Part 3: Frontier Multimodal Orchestration — Right-Sizing Gemini 4 & On-Device Gemma 4 E2B with Google Genkit",
-      "url": "https://dev.to/gde/google-ai-classroom-part-3-multimodal-orchestration-right-sizing-gemini-4-argon-gemini-38-538b",
-      "published_at": "2026-11-10T06:12:34Z",
-      "description": "Orchestrating Gemini 4 Argon, Gemini 3.8 Flash, and on-device Gemma 4 E2B for teaching, student performance grading, and proctored assessments with Google Genkit.",
-      "tags": [
-        "googlecloud",
-        "genkit",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog03_cover_frontier_multimodal_orchestration.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
       "title": "The Fastest LLM Call Is The One You Never Make",
       "url": "https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo",
       "published_at": "2026-11-11T01:37:24Z",
@@ -666,6 +532,21 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fszcnl5akpzp6fx2g0qar.png",
       "source": "Dev.to",
       "user": "Chinmay Goyal"
+    },
+    {
+      "title": "AI Code Is Unmaintainable? So Is Ours.",
+      "url": "https://dev.to/dannwaneri/ai-code-is-unmaintainable-so-is-ours-3mek",
+      "published_at": "2026-11-11T15:59:00Z",
+      "description": "If you’ve been in the software industry for any length of time, you’ve probably heard people talking...",
+      "tags": [
+        "ai",
+        "programming",
+        "softwareengineering",
+        "discuss"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnjh8nx84adsifberdyfi.jpg",
+      "source": "Dev.to",
+      "user": "Daniel Nwaneri"
     },
     {
       "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
@@ -711,6 +592,141 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk8y3gkk7ib2778kh57mp.jpg",
       "source": "Dev.to",
       "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Prompt Pad: What Is Open Source?",
+      "url": "https://blog.mlh.com/prompt-pad-what-is-open-source-23k6",
+      "published_at": "2026-11-04T14:00:00Z",
+      "description": "Chances are you're already using open-source software without realizing it.  In this episode of...",
+      "tags": [
+        "opensource",
+        "beginners",
+        "ai",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8cyh245tpbjsoz92g3u1.png",
+      "source": "Dev.to",
+      "user": "MLH Team"
+    },
+    {
+      "title": "When Is an AI Rewrite Finished?",
+      "url": "https://dev.to/dailycontext/when-is-an-ai-rewrite-finished-4ged",
+      "published_at": "2026-11-11T02:16:58Z",
+      "description": "AI makes it easier to attempt a replacement. The harder question is what the new software still owes...",
+      "tags": [
+        "ai",
+        "rust",
+        "softwareengineering",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv15857bvz8twhhzysw0p.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
+    },
+    {
+      "title": "The Rise of the Agentic Server",
+      "url": "https://dev.to/dailycontext/the-rise-of-the-agentic-server-503g",
+      "published_at": "2026-11-11T01:59:51Z",
+      "description": "We have let go of the wheel.  The era of agents is here, and we are long past the point of no return....",
+      "tags": [
+        "ai",
+        "agents",
+        "opensource",
+        "security"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zv8wvkrrjn5igrhijxg.png",
+      "source": "Dev.to",
+      "user": "Francisco Javier Arceo"
+    },
+    {
+      "title": "Vue.js Is My Workhorse. Now It's an Agent Skill.",
+      "url": "https://dev.to/playfulprogramming/vuejs-is-my-workhorse-now-its-an-agent-skill-1pfk",
+      "published_at": "2026-11-10T08:00:00Z",
+      "description": "Overview   I've been using Vue.js since the early days, long enough that \"Evangelion\" sounds...",
+      "tags": [
+        "ai",
+        "webdev",
+        "opensource",
+        "vue"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fignc006a3g3jwyi4xopm.jpg",
+      "source": "Dev.to",
+      "user": "Domenico Tenace"
+    },
+    {
+      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
+      "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg",
+      "published_at": "2026-11-11T07:49:09Z",
+      "description": "Interactive Classroom Bingo comprehension checks and zero-trust proctored exam lockdown with forensic .docx dossiers on Google Cloud.",
+      "tags": [
+        "firebase",
+        "gamification",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog09_cover_gamified_bingo_exam_mode.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "Cyrus Wong"
+    },
+    {
+      "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
+      "url": "https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl",
+      "published_at": "2026-11-06T23:51:03Z",
+      "description": "Why does standard AI code generation try to jump straight to 'Have' without the proper 'Be'? How ladder rungs, the 'Null-State' couch flash, and stand-up comedy explain what separates senior engineers from junior token streamers.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmc7bd0mpw7k0aq4vsqj4.jpg",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Use your eval as a CI gate with Agents CLI",
+      "url": "https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1",
+      "published_at": "2026-11-11T18:15:10Z",
+      "description": "How to make a quality drop fail your build with agents-cli eval run and one threshold, for anyone who ships an agent from a pipeline.",
+      "tags": [
+        "ai",
+        "cicd",
+        "cli",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fpipeline.J1Pi-k71_1aTFBO.webp",
+      "source": "Dev.to",
+      "user": "Elia Secchi"
+    },
+    {
+      "title": "What It Actually Takes to Roll Out AI Across Netflix",
+      "url": "https://dev.to/dailycontext/what-it-actually-takes-to-roll-out-ai-across-netflix-18h8",
+      "published_at": "2026-11-12T01:22:47Z",
+      "description": "Most companies will never train a frontier model. Their AI work happens somewhere less visible: the...",
+      "tags": [
+        "ai",
+        "agenticai",
+        "netflix",
+        "agents"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo0fnu9gh0wnolafss85u.png",
+      "source": "Dev.to",
+      "user": "Kara Silverman"
+    },
+    {
+      "title": "Give Your Agent a Fast Path",
+      "url": "https://dev.to/dailycontext/give-your-agent-a-fast-path-496",
+      "published_at": "2026-11-11T02:15:45Z",
+      "description": "Small decision models offer a way to handle routine judgments quickly, provided we are clear about...",
+      "tags": [
+        "ai",
+        "llm",
+        "agents",
+        "aie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsbcyucga1h655xzawmgl.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
     },
     {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
@@ -892,7 +908,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 339,
       "user": "op7418"
     },
     {
@@ -907,7 +923,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 313,
       "user": "threerocks"
     },
     {
@@ -937,23 +953,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 521,
       "user": "Dodaios"
     },
     {
-      "title": "lizTheDeveloper/flyover-scrub - Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
-      "url": "https://github.com/lizTheDeveloper/flyover-scrub",
-      "published_at": "2026-11-08T01:33:12Z",
-      "description": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
+      "title": "duwqijlk/muse-protocol - muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "published_at": "2026-11-14T01:24:58Z",
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/915684?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/126966774?v=4",
       "source": "GitHub",
-      "stars": 361,
-      "user": "lizTheDeveloper"
+      "stars": 404,
+      "user": "duwqijlk"
     },
     {
       "title": "failsafe-security/artex - Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)",
@@ -967,38 +983,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93018630?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 438,
       "user": "failsafe-security"
-    },
-    {
-      "title": "agentes-chat/agentes-chat - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-      "url": "https://github.com/agentes-chat/agentes-chat",
-      "published_at": "2026-11-09T00:50:28Z",
-      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
-      "source": "GitHub",
-      "stars": 1358,
-      "user": "agentes-chat"
-    },
-    {
-      "title": "FrigadeHQ/yogurt - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "published_at": "2026-11-10T20:01:01Z",
-      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/117952255?v=4",
-      "source": "GitHub",
-      "stars": 1337,
-      "user": "FrigadeHQ"
     },
     {
       "title": "deepseek-ai/chat-demo - Chat Demo",
@@ -1012,8 +998,98 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1554,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "FrigadeHQ/yogurt - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "published_at": "2026-11-10T20:01:01Z",
+      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/117952255?v=4",
+      "source": "GitHub",
+      "stars": 1386,
+      "user": "FrigadeHQ"
+    },
+    {
+      "title": "agentes-chat/agentes-chat - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "published_at": "2026-11-09T00:50:28Z",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
+      "source": "GitHub",
+      "stars": 1375,
+      "user": "agentes-chat"
+    },
+    {
+      "title": "Lowbydemodulator/IPTV_Player2.0 - 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "url": "https://github.com/Lowbydemodulator/IPTV_Player2.0",
+      "published_at": "2026-11-13T16:44:35Z",
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/339816536?v=4",
+      "source": "GitHub",
+      "stars": 266,
+      "user": "Lowbydemodulator"
+    },
+    {
+      "title": "TorusBarbarianMap9/IPTV_Player2.0 - 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "url": "https://github.com/TorusBarbarianMap9/IPTV_Player2.0",
+      "published_at": "2026-11-13T16:45:49Z",
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/339812755?v=4",
+      "source": "GitHub",
+      "stars": 266,
+      "user": "TorusBarbarianMap9"
+    },
+    {
+      "title": "ceilingthunderretort/IPTV_Player2.0 - 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "url": "https://github.com/ceilingthunderretort/IPTV_Player2.0",
+      "published_at": "2026-11-13T16:44:15Z",
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/337157665?v=4",
+      "source": "GitHub",
+      "stars": 266,
+      "user": "ceilingthunderretort"
+    },
+    {
+      "title": "PyAudio fails to build in MSYS2: \"gcc: error: /MT: linker input file not found\"",
+      "url": "https://stackoverflow.com/questions/80016410/pyaudio-fails-to-build-in-msys2-gcc-error-mt-linker-input-file-not-found",
+      "published_at": "2026-11-13T05:18:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "mingw-w64",
+        "pyaudio",
+        "msys2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ANDY LEE"
     },
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -1263,6 +1339,21 @@
       "user": "Randal L. Schwartz"
     },
     {
+      "title": "Vue.js Is My Workhorse. Now It's an Agent Skill.",
+      "url": "https://dev.to/playfulprogramming/vuejs-is-my-workhorse-now-its-an-agent-skill-1pfk",
+      "published_at": "2026-11-10T08:00:00Z",
+      "description": "Overview   I've been using Vue.js since the early days, long enough that \"Evangelion\" sounds...",
+      "tags": [
+        "ai",
+        "webdev",
+        "opensource",
+        "vue"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fignc006a3g3jwyi4xopm.jpg",
+      "source": "Dev.to",
+      "user": "Domenico Tenace"
+    },
+    {
       "title": "Yarn – A new package manager for JavaScript",
       "url": "https://code.facebook.com/posts/1840075619545360",
       "published_at": "2016-10-11T15:00:38Z",
@@ -1394,7 +1485,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 415,
       "user": "yetone"
     },
     {
@@ -1409,7 +1500,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 339,
       "user": "op7418"
     },
     {
@@ -1424,7 +1515,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 313,
       "user": "threerocks"
     },
     {
@@ -1454,38 +1545,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307868556?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 253,
       "user": "shitouxiaoge-commits"
-    },
-    {
-      "title": "agentes-chat/agentes-chat - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-      "url": "https://github.com/agentes-chat/agentes-chat",
-      "published_at": "2026-11-09T00:50:28Z",
-      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
-      "source": "GitHub",
-      "stars": 1358,
-      "user": "agentes-chat"
-    },
-    {
-      "title": "FrigadeHQ/yogurt - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "published_at": "2026-11-10T20:01:01Z",
-      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-      "tags": [
-        "typescript",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/117952255?v=4",
-      "source": "GitHub",
-      "stars": 1337,
-      "user": "FrigadeHQ"
     },
     {
       "title": "deepseek-ai/chat-demo - Chat Demo",
@@ -1499,8 +1560,38 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1216,
+      "stars": 1554,
       "user": "deepseek-ai"
+    },
+    {
+      "title": "FrigadeHQ/yogurt - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "published_at": "2026-11-10T20:01:01Z",
+      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/117952255?v=4",
+      "source": "GitHub",
+      "stars": 1386,
+      "user": "FrigadeHQ"
+    },
+    {
+      "title": "agentes-chat/agentes-chat - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "published_at": "2026-11-09T00:50:28Z",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "tags": [
+        "typescript",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
+      "source": "GitHub",
+      "stars": 1375,
+      "user": "agentes-chat"
     },
     {
       "title": "alexeyw/lot-map - A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
@@ -1514,7 +1605,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1450804?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 788,
       "user": "alexeyw"
     },
     {
@@ -1529,30 +1620,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112489039?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 712,
       "user": "JDhruv14"
     },
     {
-      "title": "Project suggestion for flask web dev",
-      "url": "https://stackoverflow.com/questions/80016594/project-suggestion-for-flask-web-dev",
-      "published_at": "2026-11-14T04:50:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -11",
+      "title": "Jekyll build always generates cached CSS",
+      "url": "https://stackoverflow.com/questions/80016633/jekyll-build-always-generates-cached-css",
+      "published_at": "2026-11-14T13:29:14.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
-        "tooling-recommendation",
         "javascript",
-        "python",
         "html",
-        "flask"
+        "jekyll",
+        "templating",
+        "static-site-generation"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "stack.laurence"
+      "user": "lharby"
     },
     {
       "title": "How to make a Genre/Format Filter for Portfolio Website",
       "url": "https://stackoverflow.com/questions/80016569/how-to-make-a-genre-format-filter-for-portfolio-website",
       "published_at": "2026-11-13T22:27:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -1579,7 +1670,7 @@
       "title": "bug between v10.7 and v10.8 and later",
       "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
       "published_at": "2026-11-04T22:00:29.000Z",
-      "description": "Stack Overflow question · 3 answers · score 2",
+      "description": "Stack Overflow question · 2 answers · score 2",
       "tags": [
         "javascript",
         "openlayers"
@@ -1601,20 +1692,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Mark"
-    },
-    {
-      "title": "Uncaught Error: prompt() is not supported",
-      "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
-      "published_at": "2026-09-25T08:18:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score -5",
-      "tags": [
-        "javascript",
-        "vs-code",
-        "vscode-integrated-browser"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alex"
     },
     {
       "title": "How do I fetch album art for a music track using JS if I only have artist name and song name?",
@@ -1646,21 +1723,6 @@
       "user": "farinspace"
     },
     {
-      "title": "Disable scrolling on `<input type=number>`",
-      "url": "https://stackoverflow.com/questions/9712295/disable-scrolling-on-input-type-number",
-      "published_at": "2012-03-15T00:17:28.000Z",
-      "description": "Stack Overflow question · 28 answers · score 249",
-      "tags": [
-        "javascript",
-        "css",
-        "html",
-        "forms"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kjs3"
-    },
-    {
       "title": "What does `void 0` mean?",
       "url": "https://stackoverflow.com/questions/7452341/what-does-void-0-mean",
       "published_at": "2011-09-17T03:58:03.000Z",
@@ -1671,6 +1733,34 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Randomblue"
+    },
+    {
+      "title": "How to reduce GitHub Actions build time and Docker image size",
+      "url": "https://stackoverflow.com/questions/79747212/how-to-reduce-github-actions-build-time-and-docker-image-size",
+      "published_at": "2025-08-26T18:39:03.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "docker",
+        "build",
+        "github-actions",
+        "obfuscation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rashid"
+    },
+    {
+      "title": "How to check if a function is a constructor",
+      "url": "https://stackoverflow.com/questions/40922531/how-to-check-if-a-function-is-a-constructor",
+      "published_at": "2016-12-01T23:56:09.000Z",
+      "description": "Stack Overflow question · 11 answers · score 75",
+      "tags": [
+        "javascript"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Mingtao Sun"
     },
     {
       "title": "How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript",
@@ -1896,7 +1986,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10053058?v=4",
       "source": "GitHub",
-      "stars": 1462,
+      "stars": 1484,
       "user": "HybridRobotics"
     },
     {
@@ -1911,7 +2001,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 521,
       "user": "Robbyant"
     },
     {
@@ -1926,23 +2016,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 521,
       "user": "Dodaios"
     },
     {
-      "title": "lizTheDeveloper/flyover-scrub - Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
-      "url": "https://github.com/lizTheDeveloper/flyover-scrub",
-      "published_at": "2026-11-08T01:33:12Z",
-      "description": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
+      "title": "duwqijlk/muse-protocol - muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "published_at": "2026-11-14T01:24:58Z",
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/915684?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/126966774?v=4",
       "source": "GitHub",
-      "stars": 361,
-      "user": "lizTheDeveloper"
+      "stars": 404,
+      "user": "duwqijlk"
     },
     {
       "title": "xiaoerofficial021-collab/FlowHMR-Windows - FlowHMR 的 Windows 桌面版：视频动捕、3D 预览和 FBX 导出。",
@@ -1956,30 +2046,43 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256119334?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 371,
       "user": "xiaoerofficial021-collab"
     },
     {
-      "title": "Project suggestion for flask web dev",
-      "url": "https://stackoverflow.com/questions/80016594/project-suggestion-for-flask-web-dev",
-      "published_at": "2026-11-14T04:50:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -11",
+      "title": "Financial reconciliation architecture",
+      "url": "https://stackoverflow.com/questions/80016640/financial-reconciliation-architecture",
+      "published_at": "2026-11-14T14:16:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "tooling-recommendation",
-        "javascript",
+        "best-practices",
         "python",
-        "html",
-        "flask"
+        "database",
+        "postgresql",
+        "algorithm"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "stack.laurence"
+      "user": "NARESH"
+    },
+    {
+      "title": "Problem with decorators and how to measure the execution time a function",
+      "url": "https://stackoverflow.com/questions/80016637/problem-with-decorators-and-how-to-measure-the-execution-time-a-function",
+      "published_at": "2026-11-14T13:56:32.000Z",
+      "description": "Stack Overflow question · 3 answers · score 1",
+      "tags": [
+        "python",
+        "decorator"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Ashley"
     },
     {
       "title": "Why Numba produces faster binary than ISPC for this simple function?",
       "url": "https://stackoverflow.com/questions/80016606/why-numba-produces-faster-binary-than-ispc-for-this-simple-function",
       "published_at": "2026-11-14T07:17:00.000Z",
-      "description": "Stack Overflow question · 0 answers · score 1",
+      "description": "Stack Overflow question · 0 answers · score 3",
       "tags": [
         "python",
         "benchmarking",
@@ -1991,22 +2094,10 @@
       "user": "Paul Jurczak"
     },
     {
-      "title": "Why is there an error specifically on the true part?",
-      "url": "https://stackoverflow.com/questions/80016574/why-is-there-an-error-specifically-on-the-true-part",
-      "published_at": "2026-11-13T22:55:03.000Z",
-      "description": "Stack Overflow question · 2 answers · score -5",
-      "tags": [
-        "python"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Jonh Smith"
-    },
-    {
       "title": "Keycloak Introspection Requests all return \"active: false\" for valid tokens",
       "url": "https://stackoverflow.com/questions/80016548/keycloak-introspection-requests-all-return-active-false-for-valid-tokens",
       "published_at": "2026-11-13T18:06:02.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "oauth-2.0",
@@ -2044,6 +2135,21 @@
       "user": "Shehab Helmi"
     },
     {
+      "title": "Why is there a list broadcasting error when using \"+=\" but not when using \"__iadd__\"?",
+      "url": "https://stackoverflow.com/questions/80016150/why-is-there-a-list-broadcasting-error-when-using-but-not-when-using-iad",
+      "published_at": "2026-11-12T02:57:44.000Z",
+      "description": "Stack Overflow question · 1 answers · score 17",
+      "tags": [
+        "python",
+        "numpy",
+        "cpython",
+        "python-internals"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "朱爱兵"
+    },
+    {
       "title": "Converting MATLAB code to Python show different output",
       "url": "https://stackoverflow.com/questions/80016443/converting-matlab-code-to-python-show-different-output",
       "published_at": "2026-11-13T08:48:37.000Z",
@@ -2059,37 +2165,6 @@
       "user": "Encipher"
     },
     {
-      "title": "Secure Deployment and Licensing of a Offline Python Desktop Application",
-      "url": "https://stackoverflow.com/questions/80016504/secure-deployment-and-licensing-of-a-offline-python-desktop-application",
-      "published_at": "2026-11-13T14:39:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "best-practices",
-        "python",
-        "encryption",
-        "deployment",
-        "pyside6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ZEESHAN "
-    },
-    {
-      "title": "Why is there a list broadcasting error when using \"+=\" but not when using \"__iadd__\"?",
-      "url": "https://stackoverflow.com/questions/80016150/why-is-there-a-list-broadcasting-error-when-using-but-not-when-using-iad",
-      "published_at": "2026-11-12T02:57:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score 15",
-      "tags": [
-        "python",
-        "numpy",
-        "cpython",
-        "python-internals"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "朱爱兵"
-    },
-    {
       "title": "How do I iterate and count vowels in a string?",
       "url": "https://stackoverflow.com/questions/80016348/how-do-i-iterate-and-count-vowels-in-a-string",
       "published_at": "2026-11-12T18:53:45.000Z",
@@ -2100,6 +2175,21 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "giga xucishvili"
+    },
+    {
+      "title": "PyAudio fails to build in MSYS2: \"gcc: error: /MT: linker input file not found\"",
+      "url": "https://stackoverflow.com/questions/80016410/pyaudio-fails-to-build-in-msys2-gcc-error-mt-linker-input-file-not-found",
+      "published_at": "2026-11-13T05:18:32.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
+      "tags": [
+        "python",
+        "mingw-w64",
+        "pyaudio",
+        "msys2"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "ANDY LEE"
     },
     {
       "title": "Schema Drift vs. Semantic Drift in Data Pipelines",
@@ -2119,21 +2209,6 @@
   ],
   "DevOps": [
     {
-      "title": "Keeping a software factory stable at 1,000 PRs a week",
-      "url": "https://dev.to/dailycontext/keeping-a-software-factory-stable-at-1000-prs-a-week-363j",
-      "published_at": "2026-11-12T20:46:34Z",
-      "description": "By Zejiang (Joe) Guo, Bolin Chen, and Zezhen Xu. Originally published on Kiro on October 26,...",
-      "tags": [
-        "agents",
-        "automation",
-        "devops",
-        "softwareengineering"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fac0ojxsprfc411qu1f0c.png",
-      "source": "Dev.to",
-      "user": "Zejiang Guo"
-    },
-    {
       "title": "Nvidia Says Its Roadmap Will Continue. AI Teams Should Verify the Dependencies",
       "url": "https://dev.to/jamilxt/nvidia-says-its-roadmap-will-continue-ai-teams-should-verify-the-dependencies-3c8d",
       "published_at": "2026-11-12T16:23:45Z",
@@ -2149,34 +2224,34 @@
       "user": "jamilxt"
     },
     {
-      "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
-      "url": "https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn",
-      "published_at": "2026-11-11T08:21:46Z",
-      "description": "Green AI FinOps, automated storage lifecycle policies, and 1-command Terraform IaC for multi-school teaching, grading, and proctored exam deployments.",
+      "title": "Keeping a software factory stable at 1,000 PRs a week",
+      "url": "https://dev.to/dailycontext/keeping-a-software-factory-stable-at-1000-prs-a-week-363j",
+      "published_at": "2026-11-12T20:46:34Z",
+      "description": "By Zejiang (Joe) Guo, Bolin Chen, and Zezhen Xu. Originally published on Kiro on October 26,...",
       "tags": [
-        "finops",
-        "terraform",
+        "agents",
+        "automation",
         "devops",
-        "googlecloud"
+        "softwareengineering"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog10_cover_green_ai_finops_terraform.png%3Fv%3D2",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fac0ojxsprfc411qu1f0c.png",
       "source": "Dev.to",
-      "user": "Cyrus Wong"
+      "user": "Zejiang Guo"
     },
     {
-      "title": "Zero Trust GKE Control Plane Access with DNS Endpoints",
-      "url": "https://dev.to/gde/zero-trust-gke-control-plane-access-with-dns-endpoints-1fba",
-      "published_at": "2026-11-10T08:18:33Z",
-      "description": "Secure Your GKE Control Plane: Migrating from IP-Based Authorized Networks to IAM-Based DNS...",
+      "title": "AI Has Changed the Economics of Hacking: What Changes for Businesses After Black October",
+      "url": "https://dev.to/dailycontext/ai-has-changed-the-economics-of-hacking-what-changes-for-businesses-after-black-october-5h4c",
+      "published_at": "2026-11-12T21:46:52Z",
+      "description": "1. What has been happening?   October's wave of AI-enabled cybersecurity incidents have been...",
       "tags": [
-        "googlecloud",
+        "ai",
         "security",
-        "kubernetes",
-        "gke"
+        "opensource",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft6wg5ri17n4kyi0vh2g3.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl66l7zkrt1a77i55spfl.png",
       "source": "Dev.to",
-      "user": "Azidin Shairi"
+      "user": "e52.ai"
     },
     {
       "title": "The Big DevOps Misunderstanding",
@@ -2310,8 +2385,24 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
       "source": "GitHub",
-      "stars": 1358,
+      "stars": 1375,
       "user": "agentes-chat"
+    },
+    {
+      "title": "How to reduce GitHub Actions build time and Docker image size",
+      "url": "https://stackoverflow.com/questions/79747212/how-to-reduce-github-actions-build-time-and-docker-image-size",
+      "published_at": "2025-08-26T18:39:03.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "docker",
+        "build",
+        "github-actions",
+        "obfuscation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rashid"
     }
   ],
   "WebDev": [
@@ -2354,30 +2445,30 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 339,
       "user": "op7418"
     },
     {
-      "title": "Project suggestion for flask web dev",
-      "url": "https://stackoverflow.com/questions/80016594/project-suggestion-for-flask-web-dev",
-      "published_at": "2026-11-14T04:50:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -11",
+      "title": "Jekyll build always generates cached CSS",
+      "url": "https://stackoverflow.com/questions/80016633/jekyll-build-always-generates-cached-css",
+      "published_at": "2026-11-14T13:29:14.000Z",
+      "description": "Stack Overflow question · 1 answers · score 2",
       "tags": [
-        "tooling-recommendation",
         "javascript",
-        "python",
         "html",
-        "flask"
+        "jekyll",
+        "templating",
+        "static-site-generation"
       ],
       "cover_image": null,
       "source": "StackOverflow",
-      "user": "stack.laurence"
+      "user": "lharby"
     },
     {
       "title": "How to make a Genre/Format Filter for Portfolio Website",
       "url": "https://stackoverflow.com/questions/80016569/how-to-make-a-genre-format-filter-for-portfolio-website",
       "published_at": "2026-11-13T22:27:56.000Z",
-      "description": "Stack Overflow question · 0 answers · score -4",
+      "description": "Stack Overflow question · 0 answers · score -5",
       "tags": [
         "javascript",
         "html",
@@ -2386,21 +2477,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Shinikage"
-    },
-    {
-      "title": "Disable scrolling on `<input type=number>`",
-      "url": "https://stackoverflow.com/questions/9712295/disable-scrolling-on-input-type-number",
-      "published_at": "2012-03-15T00:17:28.000Z",
-      "description": "Stack Overflow question · 28 answers · score 249",
-      "tags": [
-        "javascript",
-        "css",
-        "html",
-        "forms"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "kjs3"
     },
     {
       "title": "How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript",
@@ -2450,20 +2526,6 @@
   ],
   "Mobile": [
     {
-      "title": "Google AI Classroom Part 8: AI Project Supervision — Streamlined Mobile 720p Demo, 2-Stage Diarization & Fake-Log Auditing with Gemini 4",
-      "url": "https://dev.to/gde/google-ai-classroom-part-8-ai-project-supervision-streamlined-mobile-720p-demo-2-stage-3h98",
-      "published_at": "2026-11-11T07:41:52Z",
-      "description": "Measuring authentic student performance in capstone projects with a mobile 720p demo studio, 2-stage diarization, and fake-log auditing using Gemini 4.",
-      "tags": [
-        "ai",
-        "firebase",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog08_cover_multimodal_capstone_supervision.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
       "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
       "url": "https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh",
       "published_at": "2026-11-07T21:34:26Z",
@@ -2490,23 +2552,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 521,
       "user": "Dodaios"
     },
     {
-      "title": "GiroCrab/GiroCrab - Native macOS & iOS open-source banking app (FinTS/HBCI, PSD2, SEPA, MoneyMoney import) built with Rust & SwiftUI. Local SQLCipher vault, no subscription, no cloud.",
-      "url": "https://github.com/GiroCrab/GiroCrab",
-      "published_at": "2026-11-09T19:05:27Z",
-      "description": "Native macOS & iOS open-source banking app (FinTS/HBCI, PSD2, SEPA, MoneyMoney import) built with Rust & SwiftUI. Local SQLCipher vault, no subscription, no cloud.",
+      "title": "Lowbydemodulator/IPTV_Player2.0 - 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "url": "https://github.com/Lowbydemodulator/IPTV_Player2.0",
+      "published_at": "2026-11-13T16:44:35Z",
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/339816536?v=4",
       "source": "GitHub",
-      "stars": 237,
-      "user": "GiroCrab"
+      "stars": 266,
+      "user": "Lowbydemodulator"
+    },
+    {
+      "title": "TorusBarbarianMap9/IPTV_Player2.0 - 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "url": "https://github.com/TorusBarbarianMap9/IPTV_Player2.0",
+      "published_at": "2026-11-13T16:45:49Z",
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/339812755?v=4",
+      "source": "GitHub",
+      "stars": 266,
+      "user": "TorusBarbarianMap9"
+    },
+    {
+      "title": "ceilingthunderretort/IPTV_Player2.0 - 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "url": "https://github.com/ceilingthunderretort/IPTV_Player2.0",
+      "published_at": "2026-11-13T16:44:15Z",
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "tags": [
+        "rust",
+        "github",
+        "open-source"
+      ],
+      "cover_image": "https://avatars.githubusercontent.com/u/337157665?v=4",
+      "source": "GitHub",
+      "stars": 266,
+      "user": "ceilingthunderretort"
     },
     {
       "title": "The need for at least a third option",
@@ -2568,36 +2660,6 @@
       "user": "Zach S."
     },
     {
-      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
-      "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg",
-      "published_at": "2026-11-11T07:49:09Z",
-      "description": "Interactive Classroom Bingo comprehension checks and zero-trust proctored exam lockdown with forensic .docx dossiers on Google Cloud.",
-      "tags": [
-        "firebase",
-        "gamification",
-        "googlecloud",
-        "gemini"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog09_cover_gamified_bingo_exam_mode.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
-      "title": "Google AI Classroom Part 4: Defeating Proxy Attendance & Lab Keyloggers with WebAuthn Passkeys, Rotating HMAC QRs & GCIP Blocking Functions",
-      "url": "https://dev.to/gde/google-ai-classroom-part-4-defeating-proxy-attendance-lab-keyloggers-with-webauthn-passkeys-2gc0",
-      "published_at": "2026-11-10T07:25:07Z",
-      "description": "Verifiable classroom attendance and keylogger-proof proctored exam lab sign-in with FIDO2 WebAuthn Passkeys, 15s rotating HMAC QRs, and GCIP blocking hooks.",
-      "tags": [
-        "security",
-        "passkeys",
-        "webauthn",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog04_cover_webauthn_passkeys_rotating_qr.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
       "title": "Muse Wonder, Muse Spark 1.3, and Muse Ember are now available on Google Cloud in public preview",
       "url": "https://dev.to/googleai/muse-wonder-muse-spark-13-and-muse-ember-are-now-available-on-google-cloud-in-public-preview-5e6j",
       "published_at": "2026-11-12T18:53:24Z",
@@ -2612,36 +2674,6 @@
       "user": "Jen Harvey"
     },
     {
-      "title": "Six Serving Engines on One Tesla T4: Gemma 4 E2B on a Turing GPU",
-      "url": "https://dev.to/gde/six-serving-engines-on-one-tesla-t4-gemma-4-e2b-on-a-turing-gpu-3a6i",
-      "published_at": "2026-11-11T23:27:42Z",
-      "description": "llama.cpp, vLLM, SGLang, mistral.rs, a plain PyTorch engine and LiteRT-LM serve the same 4-bit Gemma 4 E2B on one 16 GB Tesla T4 on Compute Engine, with the same prompts, load sweep and GSM8K and BFCL questions. GSM8K and BFCL are level on every CUDA engine; vLLM with its drafter leads at every load.",
-      "tags": [
-        "gemma",
-        "vllm",
-        "googlecloud",
-        "nvidia"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fserving-engines-t4%2Fdevto-cover.7b22d2e5.jpg",
-      "source": "Dev.to",
-      "user": "xbill"
-    },
-    {
-      "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
-      "url": "https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn",
-      "published_at": "2026-11-11T08:21:46Z",
-      "description": "Green AI FinOps, automated storage lifecycle policies, and 1-command Terraform IaC for multi-school teaching, grading, and proctored exam deployments.",
-      "tags": [
-        "finops",
-        "terraform",
-        "devops",
-        "googlecloud"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog10_cover_green_ai_finops_terraform.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
       "title": "Let's see where you code!",
       "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
       "published_at": "2026-11-03T20:18:40Z",
@@ -2653,51 +2685,6 @@
       "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8w7rf58mqbwxnvnh2bqp.jpg",
       "source": "Dev.to",
       "user": "Maame Afua A. P. Fordjour "
-    },
-    {
-      "title": "Google AI Classroom Part 6: Low-Bandwidth Classroom Screen Broadcasting & Single-Pass Whole-Lecture Subtitles with Gemini 4 Argon",
-      "url": "https://dev.to/gde/google-ai-classroom-part-6-low-bandwidth-classroom-screen-broadcasting-single-pass-whole-lecture-1k0l",
-      "published_at": "2026-11-11T01:27:06Z",
-      "description": "Scaling classroom screen broadcasting without WebRTC CPU collapse and compiling single-pass whole-lecture study subtitles with Gemini 4 Argon.",
-      "tags": [
-        "googlecloud",
-        "serverless",
-        "gemini",
-        "firebase"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog06_cover_scalable_screen_broadcast.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
-    },
-    {
-      "title": "Zero Trust GKE Control Plane Access with DNS Endpoints",
-      "url": "https://dev.to/gde/zero-trust-gke-control-plane-access-with-dns-endpoints-1fba",
-      "published_at": "2026-11-10T08:18:33Z",
-      "description": "Secure Your GKE Control Plane: Migrating from IP-Based Authorized Networks to IAM-Based DNS...",
-      "tags": [
-        "googlecloud",
-        "security",
-        "kubernetes",
-        "gke"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft6wg5ri17n4kyi0vh2g3.jpg",
-      "source": "Dev.to",
-      "user": "Azidin Shairi"
-    },
-    {
-      "title": "Google AI Classroom Part 3: Frontier Multimodal Orchestration — Right-Sizing Gemini 4 & On-Device Gemma 4 E2B with Google Genkit",
-      "url": "https://dev.to/gde/google-ai-classroom-part-3-multimodal-orchestration-right-sizing-gemini-4-argon-gemini-38-538b",
-      "published_at": "2026-11-10T06:12:34Z",
-      "description": "Orchestrating Gemini 4 Argon, Gemini 3.8 Flash, and on-device Gemma 4 E2B for teaching, student performance grading, and proctored assessments with Google Genkit.",
-      "tags": [
-        "googlecloud",
-        "genkit",
-        "gemini",
-        "ai"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog03_cover_frontier_multimodal_orchestration.png%3Fv%3D2",
-      "source": "Dev.to",
-      "user": "Cyrus Wong"
     },
     {
       "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
@@ -2715,6 +2702,21 @@
       "user": "xbill"
     },
     {
+      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
+      "url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg",
+      "published_at": "2026-11-11T07:49:09Z",
+      "description": "Interactive Classroom Bingo comprehension checks and zero-trust proctored exam lockdown with forensic .docx dossiers on Google Cloud.",
+      "tags": [
+        "firebase",
+        "gamification",
+        "googlecloud",
+        "gemini"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog09_cover_gamified_bingo_exam_mode.png%3Fv%3D2",
+      "source": "Dev.to",
+      "user": "Cyrus Wong"
+    },
+    {
       "title": "shitouxiaoge-commits/CFAPEX - 项目是可部署在 Cloudflare 上的代理面板，支持 VLESS/WS、Trojan/WS 和 VLESS/XHTTP。用户可在面板中管理优选 IP、按地区设置 Proxy IP、自定义真实出站和节点 UUID，并获取 Clash YAML、通用 URI 或 sing-box JSON 订阅。项目提供 KV 设置存储、订阅访问控制及短时读取缓存。",
       "url": "https://github.com/shitouxiaoge-commits/CFAPEX",
       "published_at": "2026-11-09T16:14:41Z",
@@ -2726,23 +2728,8 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307868556?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 253,
       "user": "shitouxiaoge-commits"
-    },
-    {
-      "title": "GiroCrab/GiroCrab - Native macOS & iOS open-source banking app (FinTS/HBCI, PSD2, SEPA, MoneyMoney import) built with Rust & SwiftUI. Local SQLCipher vault, no subscription, no cloud.",
-      "url": "https://github.com/GiroCrab/GiroCrab",
-      "published_at": "2026-11-09T19:05:27Z",
-      "description": "Native macOS & iOS open-source banking app (FinTS/HBCI, PSD2, SEPA, MoneyMoney import) built with Rust & SwiftUI. Local SQLCipher vault, no subscription, no cloud.",
-      "tags": [
-        "rust",
-        "github",
-        "open-source"
-      ],
-      "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
-      "source": "GitHub",
-      "stars": 237,
-      "user": "GiroCrab"
     },
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -2807,19 +2794,20 @@
       "user": "iancarroll"
     },
     {
-      "title": "GiroCrab/GiroCrab - Native macOS & iOS open-source banking app (FinTS/HBCI, PSD2, SEPA, MoneyMoney import) built with Rust & SwiftUI. Local SQLCipher vault, no subscription, no cloud.",
-      "url": "https://github.com/GiroCrab/GiroCrab",
-      "published_at": "2026-11-09T19:05:27Z",
-      "description": "Native macOS & iOS open-source banking app (FinTS/HBCI, PSD2, SEPA, MoneyMoney import) built with Rust & SwiftUI. Local SQLCipher vault, no subscription, no cloud.",
+      "title": "Financial reconciliation architecture",
+      "url": "https://stackoverflow.com/questions/80016640/financial-reconciliation-architecture",
+      "published_at": "2026-11-14T14:16:46.000Z",
+      "description": "Stack Overflow question · 0 answers · score -4",
       "tags": [
-        "rust",
-        "github",
-        "open-source"
+        "best-practices",
+        "python",
+        "database",
+        "postgresql",
+        "algorithm"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
-      "source": "GitHub",
-      "stars": 237,
-      "user": "GiroCrab"
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "NARESH"
     },
     {
       "title": "Schema Drift vs. Semantic Drift in Data Pipelines",
@@ -2839,34 +2827,34 @@
   ],
   "Security": [
     {
-      "title": "Google AI Classroom Part 4: Defeating Proxy Attendance & Lab Keyloggers with WebAuthn Passkeys, Rotating HMAC QRs & GCIP Blocking Functions",
-      "url": "https://dev.to/gde/google-ai-classroom-part-4-defeating-proxy-attendance-lab-keyloggers-with-webauthn-passkeys-2gc0",
-      "published_at": "2026-11-10T07:25:07Z",
-      "description": "Verifiable classroom attendance and keylogger-proof proctored exam lab sign-in with FIDO2 WebAuthn Passkeys, 15s rotating HMAC QRs, and GCIP blocking hooks.",
+      "title": "AI Has Changed the Economics of Hacking: What Changes for Businesses After Black October",
+      "url": "https://dev.to/dailycontext/ai-has-changed-the-economics-of-hacking-what-changes-for-businesses-after-black-october-5h4c",
+      "published_at": "2026-11-12T21:46:52Z",
+      "description": "1. What has been happening?   October's wave of AI-enabled cybersecurity incidents have been...",
       "tags": [
+        "ai",
         "security",
-        "passkeys",
-        "webauthn",
-        "googlecloud"
+        "opensource",
+        "devops"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fwongcyrus%2FGoogle-AI-Classroom%2Fmain%2Fdocs%2Fblogs%2Fimages%2Fblog04_cover_webauthn_passkeys_rotating_qr.png%3Fv%3D2",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl66l7zkrt1a77i55spfl.png",
       "source": "Dev.to",
-      "user": "Cyrus Wong"
+      "user": "e52.ai"
     },
     {
-      "title": "Zero Trust GKE Control Plane Access with DNS Endpoints",
-      "url": "https://dev.to/gde/zero-trust-gke-control-plane-access-with-dns-endpoints-1fba",
-      "published_at": "2026-11-10T08:18:33Z",
-      "description": "Secure Your GKE Control Plane: Migrating from IP-Based Authorized Networks to IAM-Based DNS...",
+      "title": "The Rise of the Agentic Server",
+      "url": "https://dev.to/dailycontext/the-rise-of-the-agentic-server-503g",
+      "published_at": "2026-11-11T01:59:51Z",
+      "description": "We have let go of the wheel.  The era of agents is here, and we are long past the point of no return....",
       "tags": [
-        "googlecloud",
-        "security",
-        "kubernetes",
-        "gke"
+        "ai",
+        "agents",
+        "opensource",
+        "security"
       ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft6wg5ri17n4kyi0vh2g3.jpg",
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3zv8wvkrrjn5igrhijxg.png",
       "source": "Dev.to",
-      "user": "Azidin Shairi"
+      "user": "Francisco Javier Arceo"
     },
     {
       "title": "Bypassing airport security via SQL injection",
@@ -3012,7 +3000,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93018630?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 438,
       "user": "failsafe-security"
     },
     {
@@ -3031,7 +3019,7 @@
       "title": "Keycloak Introspection Requests all return \"active: false\" for valid tokens",
       "url": "https://stackoverflow.com/questions/80016548/keycloak-introspection-requests-all-return-active-false-for-valid-tokens",
       "published_at": "2026-11-13T18:06:02.000Z",
-      "description": "Stack Overflow question · 2 answers · score 1",
+      "description": "Stack Overflow question · 1 answers · score 1",
       "tags": [
         "python",
         "oauth-2.0",
@@ -3041,22 +3029,6 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Thomas Ward"
-    },
-    {
-      "title": "Secure Deployment and Licensing of a Offline Python Desktop Application",
-      "url": "https://stackoverflow.com/questions/80016504/secure-deployment-and-licensing-of-a-offline-python-desktop-application",
-      "published_at": "2026-11-13T14:39:02.000Z",
-      "description": "Stack Overflow question · 0 answers · score -6",
-      "tags": [
-        "best-practices",
-        "python",
-        "encryption",
-        "deployment",
-        "pyside6"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "ZEESHAN "
     },
     {
       "title": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances&#8217;",
@@ -3155,21 +3127,6 @@
       "user": "Philipp Schmid"
     },
     {
-      "title": "Use your eval as a CI gate with Agents CLI",
-      "url": "https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1",
-      "published_at": "2026-11-11T18:15:10Z",
-      "description": "How to make a quality drop fail your build with agents-cli eval run and one threshold, for anyone who ships an agent from a pipeline.",
-      "tags": [
-        "ai",
-        "cicd",
-        "cli",
-        "testing"
-      ],
-      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fpipeline.J1Pi-k71_1aTFBO.webp",
-      "source": "Dev.to",
-      "user": "Elia Secchi"
-    },
-    {
       "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
       "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5",
       "published_at": "2026-11-11T01:36:37Z",
@@ -3257,6 +3214,51 @@
       "user": "Ramakrishnan Lokanathan"
     },
     {
+      "title": "When Is an AI Rewrite Finished?",
+      "url": "https://dev.to/dailycontext/when-is-an-ai-rewrite-finished-4ged",
+      "published_at": "2026-11-11T02:16:58Z",
+      "description": "AI makes it easier to attempt a replacement. The harder question is what the new software still owes...",
+      "tags": [
+        "ai",
+        "rust",
+        "softwareengineering",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv15857bvz8twhhzysw0p.png",
+      "source": "Dev.to",
+      "user": "Ramakrishnan Lokanathan"
+    },
+    {
+      "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
+      "url": "https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl",
+      "published_at": "2026-11-06T23:51:03Z",
+      "description": "Why does standard AI code generation try to jump straight to 'Have' without the proper 'Be'? How ladder rungs, the 'Null-State' couch flash, and stand-up comedy explain what separates senior engineers from junior token streamers.",
+      "tags": [
+        "ai",
+        "programming",
+        "architecture",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmc7bd0mpw7k0aq4vsqj4.jpg",
+      "source": "Dev.to",
+      "user": "Randal L. Schwartz"
+    },
+    {
+      "title": "Use your eval as a CI gate with Agents CLI",
+      "url": "https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1",
+      "published_at": "2026-11-11T18:15:10Z",
+      "description": "How to make a quality drop fail your build with agents-cli eval run and one threshold, for anyone who ships an agent from a pipeline.",
+      "tags": [
+        "ai",
+        "cicd",
+        "cli",
+        "testing"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Feliasecchig.github.io%2F_astro%2Fpipeline.J1Pi-k71_1aTFBO.webp",
+      "source": "Dev.to",
+      "user": "Elia Secchi"
+    },
+    {
       "title": "Nix is the ultimate DevOps toolkit",
       "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
       "published_at": "2021-04-09T10:20:33Z",
@@ -3304,7 +3306,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "source": "GitHub",
-      "stars": 413,
+      "stars": 415,
       "user": "yetone"
     },
     {
@@ -3319,7 +3321,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/13505770?v=4",
       "source": "GitHub",
-      "stars": 328,
+      "stars": 339,
       "user": "op7418"
     },
     {
@@ -3334,7 +3336,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/16551316?v=4",
       "source": "GitHub",
-      "stars": 310,
+      "stars": 313,
       "user": "threerocks"
     },
     {
@@ -3364,7 +3366,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/307868556?v=4",
       "source": "GitHub",
-      "stars": 231,
+      "stars": 253,
       "user": "shitouxiaoge-commits"
     },
     {
@@ -3379,7 +3381,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/10053058?v=4",
       "source": "GitHub",
-      "stars": 1462,
+      "stars": 1484,
       "user": "HybridRobotics"
     },
     {
@@ -3394,7 +3396,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/212647524?v=4",
       "source": "GitHub",
-      "stars": 506,
+      "stars": 521,
       "user": "Robbyant"
     },
     {
@@ -3409,23 +3411,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/285448159?v=4",
       "source": "GitHub",
-      "stars": 495,
+      "stars": 521,
       "user": "Dodaios"
     },
     {
-      "title": "lizTheDeveloper/flyover-scrub - Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
-      "url": "https://github.com/lizTheDeveloper/flyover-scrub",
-      "published_at": "2026-11-08T01:33:12Z",
-      "description": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.",
+      "title": "duwqijlk/muse-protocol - muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "published_at": "2026-11-14T01:24:58Z",
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
       "tags": [
         "python",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/915684?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/126966774?v=4",
       "source": "GitHub",
-      "stars": 361,
-      "user": "lizTheDeveloper"
+      "stars": 404,
+      "user": "duwqijlk"
     },
     {
       "title": "xiaoerofficial021-collab/FlowHMR-Windows - FlowHMR 的 Windows 桌面版：视频动捕、3D 预览和 FBX 导出。",
@@ -3439,7 +3441,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/256119334?v=4",
       "source": "GitHub",
-      "stars": 352,
+      "stars": 371,
       "user": "xiaoerofficial021-collab"
     },
     {
@@ -3454,7 +3456,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/348458842?v=4",
       "source": "GitHub",
-      "stars": 1127,
+      "stars": 1149,
       "user": "HolyArrs"
     },
     {
@@ -3469,7 +3471,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/93018630?v=4",
       "source": "GitHub",
-      "stars": 363,
+      "stars": 438,
       "user": "failsafe-security"
     },
     {
@@ -3484,7 +3486,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/914329?v=4",
       "source": "GitHub",
-      "stars": 348,
+      "stars": 350,
       "user": "djyde"
     },
     {
@@ -3499,7 +3501,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/131470832?v=4",
       "source": "GitHub",
-      "stars": 243,
+      "stars": 245,
       "user": "lobehub"
     },
     {
@@ -3518,19 +3520,19 @@
       "user": "ValidatorStack"
     },
     {
-      "title": "agentes-chat/agentes-chat - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-      "url": "https://github.com/agentes-chat/agentes-chat",
-      "published_at": "2026-11-09T00:50:28Z",
-      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "title": "deepseek-ai/chat-demo - Chat Demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "published_at": "2026-11-12T08:08:19Z",
+      "description": "Chat Demo",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "source": "GitHub",
-      "stars": 1358,
-      "user": "agentes-chat"
+      "stars": 1554,
+      "user": "deepseek-ai"
     },
     {
       "title": "FrigadeHQ/yogurt - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
@@ -3544,23 +3546,23 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/117952255?v=4",
       "source": "GitHub",
-      "stars": 1337,
+      "stars": 1386,
       "user": "FrigadeHQ"
     },
     {
-      "title": "deepseek-ai/chat-demo - Chat Demo",
-      "url": "https://github.com/deepseek-ai/chat-demo",
-      "published_at": "2026-11-12T08:08:19Z",
-      "description": "Chat Demo",
+      "title": "agentes-chat/agentes-chat - Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "published_at": "2026-11-09T00:50:28Z",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
       "tags": [
         "typescript",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/343980363?v=4",
       "source": "GitHub",
-      "stars": 1216,
-      "user": "deepseek-ai"
+      "stars": 1375,
+      "user": "agentes-chat"
     },
     {
       "title": "alexeyw/lot-map - A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
@@ -3574,7 +3576,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/1450804?v=4",
       "source": "GitHub",
-      "stars": 762,
+      "stars": 788,
       "user": "alexeyw"
     },
     {
@@ -3589,7 +3591,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/112489039?v=4",
       "source": "GitHub",
-      "stars": 682,
+      "stars": 712,
       "user": "JDhruv14"
     },
     {
@@ -3604,7 +3606,7 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/20386338?v=4",
       "source": "GitHub",
-      "stars": 516,
+      "stars": 527,
       "user": "makepad"
     },
     {
@@ -3619,53 +3621,53 @@
       ],
       "cover_image": "https://avatars.githubusercontent.com/u/63728788?v=4",
       "source": "GitHub",
-      "stars": 279,
+      "stars": 307,
       "user": "quer3q"
     },
     {
-      "title": "BeeCaptivate/pc-cleanup-optimizer - Free open source PC cleaner for Windows: disk space, RAM, CPU, startup",
-      "url": "https://github.com/BeeCaptivate/pc-cleanup-optimizer",
-      "published_at": "2026-11-08T19:14:38Z",
-      "description": "Free open source PC cleaner for Windows: disk space, RAM, CPU, startup",
+      "title": "Lowbydemodulator/IPTV_Player2.0 - 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "url": "https://github.com/Lowbydemodulator/IPTV_Player2.0",
+      "published_at": "2026-11-13T16:44:35Z",
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/317179241?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/339816536?v=4",
       "source": "GitHub",
-      "stars": 246,
-      "user": "BeeCaptivate"
+      "stars": 266,
+      "user": "Lowbydemodulator"
     },
     {
-      "title": "GiroCrab/GiroCrab - Native macOS & iOS open-source banking app (FinTS/HBCI, PSD2, SEPA, MoneyMoney import) built with Rust & SwiftUI. Local SQLCipher vault, no subscription, no cloud.",
-      "url": "https://github.com/GiroCrab/GiroCrab",
-      "published_at": "2026-11-09T19:05:27Z",
-      "description": "Native macOS & iOS open-source banking app (FinTS/HBCI, PSD2, SEPA, MoneyMoney import) built with Rust & SwiftUI. Local SQLCipher vault, no subscription, no cloud.",
+      "title": "TorusBarbarianMap9/IPTV_Player2.0 - 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "url": "https://github.com/TorusBarbarianMap9/IPTV_Player2.0",
+      "published_at": "2026-11-13T16:45:49Z",
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/354573001?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/339812755?v=4",
       "source": "GitHub",
-      "stars": 237,
-      "user": "GiroCrab"
+      "stars": 266,
+      "user": "TorusBarbarianMap9"
     },
     {
-      "title": "bea4dev/shoji-bar-4 - A Wayland shell with Material Design 3 Expressive, written in Rust",
-      "url": "https://github.com/bea4dev/shoji-bar-4",
-      "published_at": "2026-11-10T06:58:11Z",
-      "description": "A Wayland shell with Material Design 3 Expressive, written in Rust",
+      "title": "ceilingthunderretort/IPTV_Player2.0 - 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "url": "https://github.com/ceilingthunderretort/IPTV_Player2.0",
+      "published_at": "2026-11-13T16:44:15Z",
+      "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
       "tags": [
         "rust",
         "github",
         "open-source"
       ],
-      "cover_image": "https://avatars.githubusercontent.com/u/34712108?v=4",
+      "cover_image": "https://avatars.githubusercontent.com/u/337157665?v=4",
       "source": "GitHub",
-      "stars": 224,
-      "user": "bea4dev"
+      "stars": 266,
+      "user": "ceilingthunderretort"
     },
     {
       "title": "Beating the frontier on NetHack",
@@ -3681,36 +3683,6 @@
       "user": "hwayne"
     },
     {
-      "title": "Project suggestion for flask web dev",
-      "url": "https://stackoverflow.com/questions/80016594/project-suggestion-for-flask-web-dev",
-      "published_at": "2026-11-14T04:50:44.000Z",
-      "description": "Stack Overflow question · 1 answers · score -11",
-      "tags": [
-        "tooling-recommendation",
-        "javascript",
-        "python",
-        "html",
-        "flask"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "stack.laurence"
-    },
-    {
-      "title": "Uncaught Error: prompt() is not supported",
-      "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
-      "published_at": "2026-09-25T08:18:05.000Z",
-      "description": "Stack Overflow question · 2 answers · score -5",
-      "tags": [
-        "javascript",
-        "vs-code",
-        "vscode-integrated-browser"
-      ],
-      "cover_image": null,
-      "source": "StackOverflow",
-      "user": "Alex"
-    },
-    {
       "title": "How do I fetch album art for a music track using JS if I only have artist name and song name?",
       "url": "https://stackoverflow.com/questions/79938945/how-do-i-fetch-album-art-for-a-music-track-using-js-if-i-only-have-artist-name-a",
       "published_at": "2026-05-10T14:18:00.000Z",
@@ -3724,6 +3696,22 @@
       "cover_image": null,
       "source": "StackOverflow",
       "user": "Rajveer Singh Kaler"
+    },
+    {
+      "title": "How to reduce GitHub Actions build time and Docker image size",
+      "url": "https://stackoverflow.com/questions/79747212/how-to-reduce-github-actions-build-time-and-docker-image-size",
+      "published_at": "2025-08-26T18:39:03.000Z",
+      "description": "Stack Overflow question · 2 answers · score 1",
+      "tags": [
+        "javascript",
+        "docker",
+        "build",
+        "github-actions",
+        "obfuscation"
+      ],
+      "cover_image": null,
+      "source": "StackOverflow",
+      "user": "Rashid"
     },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
